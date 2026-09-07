@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T13:57:10.918Z",
+  "fetched_at": "2026-09-07T14:03:24.015Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93452",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "«تهمینه میلانی»، کارگردان و فیلم‌نامه‌نویس شناخته‌شده ایرانی، از نوشته‌شدن پیام‌های تهدیدآمیز و توهین‌آمیز روی دیوارهای اطراف محل زندگی خود خبر داده و گفته است موضوع را از طریق پلیس و مراجع قضایی پیگیری می‌کند.<br>میلانی با انتشار تصاویری از این نوشته‌ها در حساب اینستاگرام&nbsp;خود نوشت که افراد ناشناس شبانه و همزمان با شب تولدش این نوشته‌ها را روی دیوارها نوشته‌اند.<br>او با عنوان «هدیه تولد!» نوشت: «در شب تولدم، عده‌ای ناشناس، شبانه به من هدیه دادند!»<br>تهمینه میلانی، متولد سال۱۳۳۹ در تبریز، کارگردان، فیلم‌نامه‌نویس و تهیه‌کننده سینمای ایران است.&nbsp;<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "«تهمینه میلانی»، کارگردان و فیلم‌نامه‌نویس شناخته‌شده ایرانی، از نوشته‌شدن پیام‌های تهدیدآمیز و توهین‌آمیز روی دیوارهای اطراف محل زندگی خود خبر داده و گفته است موضوع را از طریق پلیس و مراجع قضایی پیگیری می‌کند.\nمیلانی با انتشار تصاویری از این نوشته‌ها در حساب اینستاگرام خود نوشت که افراد ناشناس شبانه و همزمان با شب تولدش این نوشته‌ها را روی دیوارها نوشته‌اند.\nاو با عنوان «هدیه تولد!» نوشت: «در شب تولدم، عده‌ای ناشناس، شبانه به من هدیه دادند!»\nتهمینه میلانی، متولد سال۱۳۳۹ در تبریز، کارگردان، فیلم‌نامه‌نویس و تهیه‌کننده سینمای ایران است. \n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Farsi_Iranwire/93452",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Eie078IO84bf6vFWCR4VvFkA1awbrBgL5EFDa8OkvQ6_fEb4-h-ud8EokLS2lWjEgP330aNoZxDsmpNzgO2aF89elavGj66SWHYKvy2KpWklXLWlPhQHdAgeyI_6fhgmPIMEEIX-5tYptDf4yK9BB0egBj1AA7Yb7KX6fg9M2M6VUoTSnnWLrwp-06tW28HaMSS4QIz7wNMRQfpePehqt7bXSkUeyTenSM_rHYb8OjS6mVQ68uRCoINTj5qIRJ0Sg29BYeXO-ctvK6Rr0ZFV-GChTQLb8JllxcoTda-f2QcwGaYLtlI-ecGr9xDScBc4-1AlZQ4k7KVQrqfzxGXoIQ",
+          "thumbnail_path": "channels/farsi_iranwire/media/446960f5e42a22d7edf130f0.jpg",
+          "thumbnail_sha256": "718e749e6ec766c47afb473ab2e005521778c826dd6bd7ff3ca4e041e98eb3d7",
+          "duration_label": "0:37",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "28",
+      "posted_at": "2026-09-07T14:01:44+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93452",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93451",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1",
+      "views_label": "91",
       "posted_at": "2026-09-07T13:56:59+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93451",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "294",
+      "views_label": "343",
       "posted_at": "2026-09-07T13:26:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93450",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "343",
+      "views_label": "383",
       "posted_at": "2026-09-07T13:17:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93449",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "355",
+      "views_label": "383",
       "posted_at": "2026-09-07T13:11:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93448",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "592",
+      "views_label": "609",
       "posted_at": "2026-09-07T12:20:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93447",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "610",
+      "views_label": "626",
       "posted_at": "2026-09-07T12:12:31+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93446",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "639",
+      "views_label": "653",
       "posted_at": "2026-09-07T12:00:27+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93445",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "596",
+      "views_label": "606",
       "posted_at": "2026-09-07T11:56:15+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93444",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "641",
+      "views_label": "651",
       "posted_at": "2026-09-07T11:44:43+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93443",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "802",
+      "views_label": "813",
       "posted_at": "2026-09-07T11:15:10+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93442",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "819",
+      "views_label": "834",
       "posted_at": "2026-09-07T10:55:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93441",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "757",
+      "views_label": "770",
       "posted_at": "2026-09-07T10:52:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93440",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "778",
+      "views_label": "790",
       "posted_at": "2026-09-07T10:45:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93439",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "740",
+      "views_label": "753",
       "posted_at": "2026-09-07T10:43:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93438",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "967",
+      "views_label": "975",
       "posted_at": "2026-09-07T09:53:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93437",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "910",
+      "views_label": "920",
       "posted_at": "2026-09-07T09:44:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93436",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.04K",
+      "views_label": "1.05K",
       "posted_at": "2026-09-07T08:36:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93435",
@@ -509,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.11K",
+      "views_label": "1.12K",
       "posted_at": "2026-09-07T08:02:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93434",
@@ -537,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "970",
+      "views_label": "979",
       "posted_at": "2026-09-07T08:00:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93433",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-04T17:41:03+00:00",
       "edited": true,
       "permalink": "https://t.me/Farsi_Iranwire/93352",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93351",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EmUP9mB5rt_E-ktfi7gsZJiU2Vg2Igy7ZYPwCUj5ZBNBwKSs_5STWybgkDUrOJ8Mf21eZIyZX1Az3KyjeThtIqmK00XzVEbMQyr4Rtqm3BijZmsPdRtLDWb7uCAuOYVGfriyYjsEeD9-i5W2gDSuIa3DhMv1wA1h89ViwCSNAsbSBBXCFCCpRLzR03zsSwFJpI2uSI2Ypew-4R4EEINKuBXLsu1m9siY-A0_Db8j3HxwgV0GuSEPB4zv5KfCaNPxjp4EaKGdI-IcXaIBcqZoOpDe26XPYVEQJMiRoikQH4QRpuY3i_p41FKCMmJLQel9Vz2g8emShtFRNit2tEGUQw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/c769a9c378fcf30292902ce1.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "وزارت دارایی آمریکا روز جمعه ۱۳شهریور۱۴۰۵ در ادامه تلاش‌های واشنگتن برای منزوی کردن اقتصادی جمهوری اسلامی، یک بانک ترکیه‌ای به نام «گلدن گلوبال اینوستمنت بانک» را به دلیل آنچه «ارتباطات با سپاه» خواند تحریم کرد.<br><br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157167\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157167</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "وزارت دارایی آمریکا روز جمعه ۱۳شهریور۱۴۰۵ در ادامه تلاش‌های واشنگتن برای منزوی کردن اقتصادی جمهوری اسلامی، یک بانک ترکیه‌ای به نام «گلدن گلوبال اینوستمنت بانک» را به دلیل آنچه «ارتباطات با سپاه» خواند تحریم کرد.\n\nبخوانید: https://iranwire.com/fa/news-1/157167\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93351",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/J-BK6CdzIMOT38a0AfAvbZ5UVb4bW2q2mDonzTo9ZEVwGCaaSIhyIdG4BMsHMDk8sQUxlI62j2jtt5TA0ZtT2jqqZZLkZdtY_2yUdN7hZld3KVoRSuoALRMywM6-pDloN3KcoEIDQKS4r-XOe7Sil9kskkjJWSrZs1FU3YXT4-Mu_KZMkdjcoQvEH8NpF2yvDk_iPPDDQibxO5LwsRaaBbnARvjUJQb71NL92S_PUqkf0jRNwSExG2-S1EEfc8K9RUaBmd54A5LuPGb9LPLuipir81fQ32zMQjqeddJZ_y5GRsZwug0U8JflwQT7-Sdxe5m2FB_A5zpotAtD-AqUxA.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/f618e269a48d9fd73b618fb8.jpg",
-          "thumbnail_sha256": "aa60c5adc058a16da093c85e8667c0a07a2b2a10376af3b9af567a743259c58e",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.39K",
-      "posted_at": "2026-09-04T17:33:00+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93351",
       "reply": null
     }
   ]
