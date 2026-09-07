@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T12:24:02.660Z",
+  "fetched_at": "2026-09-07T12:27:25.214Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356138",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "‏هاکان فیدان، وزیر خارجه ترکیه، و محمد اسحاق دار، وزیر خارجه پاکستان، در گفت‌وگویی تلفنی درباره تحولات منطقه و درگیری‌ها در تنگه هرمز، بر حفظ امنیت کشتیرانی و جلوگیری از تشدید تنش‌ها تاکید کردند.<br><br>‏این تماس پس از گفت‌وگوی فیدان با عباس عراقچی، وزیر خارجه جمهوری اسلامی، درباره مذاکرات با آمریکا انجام شد.<br><br>‏گفت‌وگو با نرگس هورخش، خبرنگار ایران‌اینترنشنال",
+      "plain_text": "‏هاکان فیدان، وزیر خارجه ترکیه، و محمد اسحاق دار، وزیر خارجه پاکستان، در گفت‌وگویی تلفنی درباره تحولات منطقه و درگیری‌ها در تنگه هرمز، بر حفظ امنیت کشتیرانی و جلوگیری از تشدید تنش‌ها تاکید کردند.\n\n‏این تماس پس از گفت‌وگوی فیدان با عباس عراقچی، وزیر خارجه جمهوری اسلامی، درباره مذاکرات با آمریکا انجام شد.\n\n‏گفت‌وگو با نرگس هورخش، خبرنگار ایران‌اینترنشنال",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356138",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/YMi3XUAs2PKWAmHGfjL80O2H7VRa1svzmkJ-v9auI3BDmcTwFlD4oc8lAlW_lIcOguiOmykHXcBrv3WFl3BBPCey10-7Gd6wR9nXf-o2_qZwRozoA3f3jUOtUoF3B7Pa3Ave4cp6n9nipDp5xTYjqOfKn-eDgf3zBg8nvY1myJWUWLvQLTxstseUSDSsgqghY1kgCcfQmuzgvEvT9FPDJdK-PBEbcfgF15ARXXxeaY-x4vP0kiPCtGk-tQx1S8SkXR_l4sL_UFy4YVMtsapob9qLHytu0j7_xqCIj8tl-gMPECqQh9wtGOhVLx5K9miKv5pstxE7z8R2w3htToI50g",
+          "thumbnail_path": "channels/iranintltv/media/6f2f23fe02e2aa550bf344da.jpg",
+          "thumbnail_sha256": "c95d3bd1812b1160f464b2d4c708892473d7ccab5b9138a3b69f02f73903c718",
+          "duration_label": "4:13",
+          "aspect_ratio": 1.733333333333324
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.07K",
+      "posted_at": "2026-09-07T12:24:06+00:00",
+      "edited": true,
+      "permalink": "https://t.me/IranintlTV/356138",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356137",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1",
+      "views_label": "3.16K",
       "posted_at": "2026-09-07T12:23:16+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356137",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.1K",
+      "views_label": "4.22K",
       "posted_at": "2026-09-07T12:22:04+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356136",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.22K",
+      "views_label": "6.35K",
       "posted_at": "2026-09-07T12:18:16+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356135",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.31K",
+      "views_label": "8.41K",
       "posted_at": "2026-09-07T12:15:56+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356134",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7.39K",
+      "views_label": "9.51K",
       "posted_at": "2026-09-07T12:13:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356132",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.4K",
+      "views_label": "9.49K",
       "posted_at": "2026-09-07T12:11:17+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356131",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.47K",
+      "views_label": "10.5K",
       "posted_at": "2026-09-07T12:08:49+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356130",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.46K",
+      "views_label": "10.6K",
       "posted_at": "2026-09-07T12:08:35+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356129",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.6K",
+      "views_label": "11.6K",
       "posted_at": "2026-09-07T12:06:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356128",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.5K",
+      "views_label": "11.6K",
       "posted_at": "2026-09-07T12:05:29+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356127",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.6K",
+      "views_label": "12.7K",
       "posted_at": "2026-09-07T12:02:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356126",
@@ -329,7 +357,7 @@
       "plain_text": "🗣روایت شما از افزایش لحظه‌ای قیمت‌ها و از دست رفتن امکان برنامه‌ریزی برای آینده- دوشنبه ۱۶ شهریور:\n\n🔹درآمدمان دیگر حتی به مواد غذایی نمی‌رسد، چه برسد به لوازم ضروری زندگی.\n\n🔹سال‌هاست دیگر برنامه‌ای برای آینده و حتی فردایمان نداریم و فقط تلاش می‌کنیم زنده بمانیم.\n\n🔹من معلمم و سال‌هاست نتوانسته‌ام گوشی‌ام رو عوض کنم. حتی مدل‌های پایین‌رده هم قابل خرید نیستن. با حقوق ۲۰ میلیونی دغدغه‌ام شده صرفا تامین خورد و خوراک.\n\n🔹از بی‌کفنی زنده‌ایم و چندین ساله شدیم مرده‌های متحرک. هیچ هدف و آینده‌ای نیست؛ درآمدها بسیار ناچیز و مخارج بسیار بالاست.\n\n🔹درگیر هزینه‌های روزمره‌ایم و فرصتی برای برنامه‌ریزی برای آینده برایمان باقی نمانده است.\n\n🔹پولی برای خرید لوازم مورد نیازمان نداریم و مواد غذایی را هم به سختی تامین می‌کنیم.\n\n🔹با حقوق ۲۰ میلیونی و این گرانی سرسام‌آور، امکان برنامه‌ریزی وجود ندارد.\n\n🔹نه برنامه‌ای مانده و نه آرزویی؛ فقط تلاش می‌کنیم زنده بمانیم.\n\n🔹هر بار که پول جمع می‌کنم، قیمت کالا آن‌قدر بالا می‌رود که دیگر توان خریدش را ندارم.\n\n🔹با افزایش روز به روز قیمت‌ها، دیگر توان خرید جهیزیه را ندارم.",
       "media": [],
       "reactions": [],
-      "views_label": "22.1K",
+      "views_label": "22.2K",
       "posted_at": "2026-09-07T11:39:58+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356125",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.2K",
+      "views_label": "24.2K",
       "posted_at": "2026-09-07T11:33:21+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356124",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.2K",
+      "views_label": "24.3K",
       "posted_at": "2026-09-07T11:30:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356123",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.3K",
+      "views_label": "25.3K",
       "posted_at": "2026-09-07T11:24:53+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356122",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.3K",
+      "views_label": "25.3K",
       "posted_at": "2026-09-07T11:22:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356121",
@@ -469,7 +497,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.3K",
+      "views_label": "26.3K",
       "posted_at": "2026-09-07T11:16:42+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356120",
@@ -497,7 +525,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.3K",
+      "views_label": "25.3K",
       "posted_at": "2026-09-07T11:16:09+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356119",
@@ -2709,34 +2737,6 @@
       "posted_at": "2026-09-06T19:31:50+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356034",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356033",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dua7-1F68YLJEFGTSTDkU4pbo7m29v_PUJo2Id0N3mpOijzM-Ub3dUhVIdGgiFiUhiPrQlMJKmZS7PXc6vsLzQw5lcMV_0vR2fRD2DKa3RDILk1oxcl2xdhmXItFOYchjDiDsgeLBQ_1T0LBPZcIoH3hZQWRinokn6_n3QMh3HeLQL1xTx-T4w5vhLmH_pMyugiDxZG96Q94OLXBePfpnJaSWRQdpdGWA29Z7E5pCPobtE0Sj7srHnvAGLaBDNDonYlFCLdCBSiGWmc2pRkrFtkr9og4kQ9w7KNWP8eu8Ze6jPWegnUYoPiQLkQNQtTHDMO_6IRz2XARr4G6gn_TuQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/ca7f2807f5839f47a1129d1b.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "دونالد ترامپ، رییس‌جمهوری آمریکا، یک‌شنبه ۱۵ شهریور، تصویری ساخته‌شده با هوش مصنوعی از حمله جنگنده‌های آمریکایی به جزیره خارک در شبکه اجتماعی تروث‌سوشال منتشر کرد که روی آن عبارت «خداحافظ خارک» نوشته شده است.<br><br>رییس‌جمهوری آمریکا همچنین سه تصویر دیگر نیز در این شبکه اجتماعی منتشر کرد؛ یک نمودار آماری که روی آن نوشته شده «ارزش پول ایران از بین رفته است»، دیگری نموداری که روی آن نوشته شده «ایران با یک ابرتورم مواجه است» و نمودار سوم که روی آن نوشته شده «صادرات نفت ایران سقوط کرده است».<br><a href=\"https://iranintl.com/202609061964\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609061964</a>",
-      "plain_text": "دونالد ترامپ، رییس‌جمهوری آمریکا، یک‌شنبه ۱۵ شهریور، تصویری ساخته‌شده با هوش مصنوعی از حمله جنگنده‌های آمریکایی به جزیره خارک در شبکه اجتماعی تروث‌سوشال منتشر کرد که روی آن عبارت «خداحافظ خارک» نوشته شده است.\n\nرییس‌جمهوری آمریکا همچنین سه تصویر دیگر نیز در این شبکه اجتماعی منتشر کرد؛ یک نمودار آماری که روی آن نوشته شده «ارزش پول ایران از بین رفته است»، دیگری نموداری که روی آن نوشته شده «ایران با یک ابرتورم مواجه است» و نمودار سوم که روی آن نوشته شده «صادرات نفت ایران سقوط کرده است».\nhttps://iranintl.com/202609061964",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356033",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Q6SikUrPArAg02mkAQ9P1TfGBQk4RAOXZ1VPVQAq9_doDh7ck8vKpmx8wQpk9cWP4g6inYetguV4QHfJQcBWdT89t5ibyCU5jMobP5rTP6gFiSnxfwixfvKyrO5dgUYaTcEB8dSvLz2JnJCuqGRKTCpM8CEUYCrn3Xw09ROqkHt2-CuOcEoJocM1zcHqGQ4XLEMPZxrTBgktE7OH2jeaIE_1St8JkbIVD-BfOqDVARSGEg4g6PIKGMYJL02wONbjKdlB5HhmF285aoExeHnjYmYHHVSW7mDi8gMJ27eHqdextLXyoCagqfQIwCf1-hfPU41DNYKkUzAR9d851NIvEg.jpg",
-          "thumbnail_path": "channels/iranintltv/media/13a1fb20d5fe2f5d7a84113f.jpg",
-          "thumbnail_sha256": "9d9557266211bcddcb2d8375204dbe815302b5536014a9b4695e1c4c7f520a57",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "72.2K",
-      "posted_at": "2026-09-06T19:30:58+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356033",
       "reply": null
     }
   ]
