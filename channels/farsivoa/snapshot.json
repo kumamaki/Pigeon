@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T18:07:07.043Z",
+  "fetched_at": "2026-09-07T18:12:04.239Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229779",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "ارتش اسرائیل اعلام کرد روز گذشته، دوشنبه، دو نیروی سازمان‌های تروریستی حماس و جهاد اسلامی فلسطین را در نوار غزه هدف‌گیری کرد.<br><br>«صبحي حداد الهاشم البطریخی»، عضو جنبش جهاد اسلامی فلسطین، و «احمد فؤاد خلیل خلس»، عضو یگان نخبه در شاخه نظامی سازمان تروریستی حماس، که هر دو در کارگذاری بمب‌ها علیه نیروهای ارتش اسرائیل در منطقه مشارکت داشتند، در نوار غزه هدف‌گیری و حذف شدند.<br><br>ارتش اسرائیل تاکید کرد این دو در دوره اخیر طرح‌های تروریستی علیه نیروهای ارتش اسرائیل و شهروندان کشور اسرائیل را پیش می‌بردند و به‌صورت مستمر آتش‌بس را نقض می‌کردند.",
+      "plain_text": "ارتش اسرائیل اعلام کرد روز گذشته، دوشنبه، دو نیروی سازمان‌های تروریستی حماس و جهاد اسلامی فلسطین را در نوار غزه هدف‌گیری کرد.\n\n«صبحي حداد الهاشم البطریخی»، عضو جنبش جهاد اسلامی فلسطین، و «احمد فؤاد خلیل خلس»، عضو یگان نخبه در شاخه نظامی سازمان تروریستی حماس، که هر دو در کارگذاری بمب‌ها علیه نیروهای ارتش اسرائیل در منطقه مشارکت داشتند، در نوار غزه هدف‌گیری و حذف شدند.\n\nارتش اسرائیل تاکید کرد این دو در دوره اخیر طرح‌های تروریستی علیه نیروهای ارتش اسرائیل و شهروندان کشور اسرائیل را پیش می‌بردند و به‌صورت مستمر آتش‌بس را نقض می‌کردند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229779",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/PcxDDDV5TB0sYlTs3WRr_3AuUhR_M_mEEMae3L3nsgOIUpDac7twwwLuUEAoS3uABt5K1B9C5NcZ29F5H7APH2DrWU8zVVnsl8ZYVk4IgDTR71rvAVYFOTDAarXaLZrAfGg7ODAqQcxerebgPfXu3ocSHzfqpf4vfTiojC5wJbCQGqCeM37DndLVa5kmBH1KtHGnU729aJM-HEE-H1ToW9VrIqfuCnmk2o5UR0qVddgz9-MnDnbhBDCFYIuMEhLNCMysrpr-uXMHHOfMq-ZinZiqBhBktieEHNmBWoaLZwiNmoH2_1iA9RUZoXvup0cnGm5aiY4Ff3tF7pQml-dznw",
+          "thumbnail_path": "channels/farsivoa/media/fb1d50adb6e2987e17008a3f.jpg",
+          "thumbnail_sha256": "18d93ef3d788ba32b9c4196f20971db8521974f4fb427d046d2df56143254aef",
+          "duration_label": "0:06",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "312",
+      "posted_at": "2026-09-07T18:07:47+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229779",
+      "reply": null
+    },
     {
       "id": "farsivoa/229778",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "572",
+      "views_label": "854",
       "posted_at": "2026-09-07T17:57:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229778",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.08K",
+      "views_label": "1.27K",
       "posted_at": "2026-09-07T17:50:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229777",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.24K",
+      "views_label": "1.46K",
       "posted_at": "2026-09-07T17:44:58+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229776",
@@ -105,7 +133,7 @@
       "plain_text": "🔺افزایش فشار بر فعالان دانشگاهی در آستانه فصل جدید تحصیلی؛ مطهره گونه‌ای راهی زندان شد\n\n▪️جمهوری اسلامی در آستانه آغاز فصل تازه تحصیلی، در تلاش برای خاموش کردن صداهای مخالف، شماری از دانشجویان را از تحصیل محروم، و مطهره گونه‌ای، فعال دانشجویی، را برای تحمل محکومیت حبس روانه زندان کرد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iranian-student-activists-persecuted/8195138.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.46K",
+      "views_label": "1.65K",
       "posted_at": "2026-09-07T17:37:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229775",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.63K",
+      "views_label": "1.72K",
       "posted_at": "2026-09-07T17:30:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229774",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.66K",
+      "views_label": "1.78K",
       "posted_at": "2026-09-07T17:25:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229773",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.69K",
+      "views_label": "1.78K",
       "posted_at": "2026-09-07T17:24:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229772",
@@ -205,7 +233,7 @@
       "plain_text": "🔺تاکید خانواده‌های دادخواه بر «تقابل و انتقام»: نه می‌بخشیم و نه فراموش می‌کنیم\n\n▪️حکومت جمهوری اسلامی در آستانه چهارمین سالگرد کشته‌شدن مهسا امینی در بازداشت گشت ارشاد و آغاز اعتراضات بزرگ مردمی در ایران، فشار بر خانواده‌های دادخواه سال‌های اخیر را افزایش داده، دادخواهان نیز در مقابل با انتشار ویدیو در فضای مجازی، بر تقابل و انتقام تاکید می‌کنند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-human-rights-arrest-detention-execution/8195104.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.79K",
+      "views_label": "1.88K",
       "posted_at": "2026-09-07T17:13:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229771",
@@ -310,7 +338,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.69K",
+      "views_label": "1.78K",
       "posted_at": "2026-09-07T17:11:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229763",
@@ -326,7 +354,7 @@
       "plain_text": "🔴📢‌ پادکست تفسیر خبر- دوشنبه ۱۶ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "1.97K",
+      "views_label": "2.01K",
       "posted_at": "2026-09-07T16:52:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229762",
@@ -342,7 +370,7 @@
       "plain_text": "🔺فرمان آماده‌باش ارتش اسرائیل در کرانه باختری و کشته شدن فرمانده گردان نخبه حماس در غزه\n\n▪️به گزارش رسانه‌های منطقه در روز دوشنبه ۱۶ شهریور، یسرائیل کاتس، وزیر دفاع اسرائیل، اعلام کرد در با هماهنگی با بنیامین نتانیاهو، نخست وزیر این کشور، به ارتش اسرائیل دستور داده برای یک «جنگ تمام عیار علیه تروریسم در کرانه باختری» آماده شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/israel-palestine-west-bank-hamas-iran/8195115.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.14K",
+      "views_label": "2.2K",
       "posted_at": "2026-09-07T16:46:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229761",
@@ -370,7 +398,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.98K",
+      "views_label": "2.04K",
       "posted_at": "2026-09-07T16:45:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229760",
@@ -2498,34 +2526,6 @@
       "posted_at": "2026-09-07T00:02:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229671",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229670",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "درگذشت رابین مورگان، چهره سرشناس جنبش زنان آمریکا<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "درگذشت رابین مورگان، چهره سرشناس جنبش زنان آمریکا\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229670",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/XKCdHY1pzCSFdWUwMZpteN7ogUNhCEGLmg7WY82o3mgN-RLn6YgCF80JCzJvAMQEgQlYOGkur_F-t8QkL2cPiAjUbF08ua6B6-M3NK8WeaD7izWYDN55DRRkwI-jCEVQEV1LXMKyNSO2rQmLp3ZHenoRJ12aA57H1G_VNaBv2SSTBz5a8IvkTHHF2j7l3xKCcvRrj_jHcXfpDPUWImcRqyKcJWblqpf2MTEGNGQH7a5OYaKrZp9uBDeGIPPrS-nff2jcYBh-l05PeZlbGkZGKJA_9D8fmSjfEu0Z9a2KgF5UeljeoGYa44DxzKlKxfLqe1kJ1s15dS8fFQwoqvowOA",
-          "thumbnail_path": "channels/farsivoa/media/726dcef49553fe04511c631f.jpg",
-          "thumbnail_sha256": "de40c95051893af078b46aa130c0b0e4743ca7a194d7a08eb108d41e2430e8cb",
-          "duration_label": "4:39",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.25K",
-      "posted_at": "2026-09-06T23:51:03+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229670",
       "reply": null
     }
   ]
