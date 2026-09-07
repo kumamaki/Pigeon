@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T16:02:03.038Z",
+  "fetched_at": "2026-09-07T16:07:10.173Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229753",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "جگوار لندرور همزمان با افت فروش، رقابت خودروسازان چینی، و فشار تعرفه‌های آمریکا، تایید کرده است تا چهار هزار شغل را طی مدت دو سال حذف کند. تعدیل نیرو در بزرگ‌ترین خودروساز بریتانیا، نگرانی‌ها درباره آینده مشاغل صنعتی این کشور را بیشتر کرده است.",
+      "plain_text": "جگوار لندرور همزمان با افت فروش، رقابت خودروسازان چینی، و فشار تعرفه‌های آمریکا، تایید کرده است تا چهار هزار شغل را طی مدت دو سال حذف کند. تعدیل نیرو در بزرگ‌ترین خودروساز بریتانیا، نگرانی‌ها درباره آینده مشاغل صنعتی این کشور را بیشتر کرده است.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229753",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/ZmjM4OVot-5C_Fu5ohmnqkc-bonqpFC2_SuS7hThT_6TNPHw9hetJ9_wMV-uvzY7aRModO0FiujksiF4XSQFnt7PS7dkAOgpCDlFZ0EkOjo0BHMW5omegvhlLSwLEgx5uypwKNdEQThdCm-O5o5Lzl0G-t-GF5ASIE3KKAlof8KjMPcpFGan60q0WrzG2wktqIR1gaF9sBXTBqKEmiQJ945gYx28Jd4nxRSBd0xEWj04soD_O2NXKlvulnhCr6M0eoryQHW3cHNJvlxxaUiVJ74_vay9I_ano7ms_Jn2CgWgG1Ox8AOu0Y4CMRmDj_RIav-ZXaMYXx8Xyq0k7W54dg",
+          "thumbnail_path": "channels/farsivoa/media/0b3d975611fe69568780e3c5.jpg",
+          "thumbnail_sha256": "3ea62df9647e84eb19429c83768967c056679842f9b9434079bbe90e02e018e1",
+          "duration_label": "4:49",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-07T16:06:29+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229753",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229752",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺پرزیدنت ترامپ تصاویر نمادین «نیروی دریایی ایران در کف دریا» را منتشر کرد\n\n▪️پرزیدنت ترامپ، رئیس جمهوری آمریکا، روز دوشنبه ۱۶ شهریور دو تصویر جداگانه در تروت سوشال منتشر کرد که در آنها ده‌ها شناور نظامی با پرچم جمهوری اسلامی به صورت غرق‌شده در کف دریا دیده می‌شوند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/trump-posts-sunken-iran-navy/8195098.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "231",
+      "views_label": "457",
       "posted_at": "2026-09-07T15:59:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229752",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "259",
+      "views_label": "515",
       "posted_at": "2026-09-07T15:58:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229751",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "835",
+      "views_label": "995",
       "posted_at": "2026-09-07T15:45:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229750",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "864",
+      "views_label": "1.06K",
       "posted_at": "2026-09-07T15:43:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229749",
@@ -121,7 +149,7 @@
       "plain_text": "🔺مایک جانسون: سیاست‌های جمهوری‌خواهان فرصت و درآمد بیشتری برای کارگران آمریکایی فراهم کرده است\n\n▪️مایک جانسون، رئیس مجلس نمایندگان آمریکا، روز دوشنبه ۱۶ شهریور، همزمان با روز کارگر در ایالات متحده، گفت کارگران آمریکایی «دوباره در حال پیروزی هستند»، و سیاست‌های جمهوری‌خواهان را عامل افزایش فرصت‌های اقتصادی و درآمد بیشتر برای خانواده‌های شاغل دانست.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/republicans-deliver-for-workers/8195095.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "994",
+      "views_label": "1.12K",
       "posted_at": "2026-09-07T15:39:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229748",
@@ -137,7 +165,7 @@
       "plain_text": "🔺گردهمایی «هیلی ۲۰۲۶» در ابوظبی با تمرکز بر امنیت تنگه هرمز آغاز شد\n\n▪️به گزارش رسانه‌های امارات در روز دوشنبه ۱۶ شهریور، سومین اجلاس گردهمایی هیلی ۲۰۲۶ با عنوان «خلیج [فارس] بر سر دو راهی: درگیری‌ها، پیامدها و تصحیح روند» در ابوظبی آغاز شد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/emirates-hili-forum-security-studies-hormuz/8195090.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "987",
+      "views_label": "1.09K",
       "posted_at": "2026-09-07T15:34:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229747",
@@ -165,7 +193,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.1K",
+      "views_label": "1.2K",
       "posted_at": "2026-09-07T15:30:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229746",
@@ -193,7 +221,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.31K",
+      "views_label": "1.41K",
       "posted_at": "2026-09-07T15:20:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229745",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.51K",
+      "views_label": "1.61K",
       "posted_at": "2026-09-07T15:12:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229744",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.57K",
+      "views_label": "1.64K",
       "posted_at": "2026-09-07T15:04:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229743",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.83K",
+      "views_label": "1.9K",
       "posted_at": "2026-09-07T14:48:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229742",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.96K",
+      "views_label": "2.02K",
       "posted_at": "2026-09-07T14:41:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229741",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.84K",
+      "views_label": "1.94K",
       "posted_at": "2026-09-07T14:37:29+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229740",
@@ -361,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.94K",
+      "views_label": "2.01K",
       "posted_at": "2026-09-07T14:31:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229739",
@@ -389,7 +417,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.23K",
+      "views_label": "2.27K",
       "posted_at": "2026-09-07T14:17:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229738",
@@ -417,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.19K",
+      "views_label": "2.23K",
       "posted_at": "2026-09-07T14:11:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229737",
@@ -445,7 +473,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.45K",
+      "views_label": "2.52K",
       "posted_at": "2026-09-07T13:54:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229736",
@@ -461,7 +489,7 @@
       "plain_text": "🔺بسنت در روز کارگر: دستمزد واقعی آمریکایی‌ها از تورم پیشی گرفته است\n\n▪️اسکات بسنت، وزیر خزانه‌داری آمریکا، روز دوشنبه ۱۶ شهریور، هم‌زمان با «روز کارگر» در ایالات متحده، گفت دستمزد واقعی آمریکایی‌ها از نرخ تورم پیشی گرفته، و رشد دستمزد در میان کارگران کم‌درآمد سریع‌تر از افراد با درآمد بالاتر بوده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/bessent-us-labor-day-american-workers-income/8195055.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.46K",
+      "views_label": "2.5K",
       "posted_at": "2026-09-07T13:44:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229735",
@@ -477,7 +505,7 @@
       "plain_text": "🔺درگیری‌های یمن میان نیروهای دولتی و شورشیان حوثی به شمال شرق صنعا رسید\n\n▪️اخبار جدید از یمن حاکی از آن است که نیروهای دولتی جبهه جدیدی در شمال شرق صنعا، پایتخت یمن، علیه شورشیان حوثی باز کردند؛ و بخش دیگری از نیروهای دولتی در جنوب بندر استراتژیک الحدیده در حال پیشروی و عقب راندن حوثی‌ها هستند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/houthi-yemen-irgc-proxy-war-iran/8195045.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.37K",
+      "views_label": "2.4K",
       "posted_at": "2026-09-07T13:40:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229734",
@@ -2409,34 +2437,6 @@
       "posted_at": "2026-09-06T19:00:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229652",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229651",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "گزارش برنامه تفسیر خبر: چه کشورهایی از بحران در تنگه هرمز سود می‌برند؟",
-      "plain_text": "گزارش برنامه تفسیر خبر: چه کشورهایی از بحران در تنگه هرمز سود می‌برند؟",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229651",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/ReNHfzxv5xH87zOpZ1Mix4wbVw8Z8ZbF1RSmAP3qah__7-jAy6qbqD-P69t1HCZv0pyLa1bjX9fPPhj8frQkIEyArt5fjPIc4WmCzkO4J_Lu_ztEUWDzPe3QVugaPZDpl4sbdqZ_p-TdfWxgxLA4sy6f5k8-un9FfnAGnJzBqbbOetNYvVSySnngkAdN8U8wBcFHq7d8qlaHiSfZ1IBrZQQxOo6YbeZXwZwVpJ309DT069gtIk-5BB86Orm-qwFlfZgjKleek-GS-vahuy88Bn_x8N-6kbCqEfq--87a5TO2MDGRrYW5oVjpffPSf0k31ite5KhcAUWlcwUybzqI0A",
-          "thumbnail_path": "channels/farsivoa/media/d6f34cd859ebe9bce881e497.jpg",
-          "thumbnail_sha256": "5b40703ca214be18c2e3016c59f8c63ef68728a98644011d4f7228ae23ef9a26",
-          "duration_label": "5:16",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.71K",
-      "posted_at": "2026-09-06T18:43:31+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229651",
       "reply": null
     }
   ]
