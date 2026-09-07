@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T06:42:13.631Z",
+  "fetched_at": "2026-09-07T06:47:47.962Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12659",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/fMVnOc1uSucjuboT6V0k7ELXy0-AF7uXhfQKrT0ABzO4YzNvYVYnhQDl9twI5SD7s_WY23CPVzE1kCYrgwBE-c0afmMRE4w0x1v9fJg2JPujS6glrH0OikU9oZB7LN90gFgqsYvcd6hcSfUWJGw9K7p7qJGl0c1YSpXmSrRkUabxYJw4-0ABlI1K019Rc4i4hddSvcxPaBcfBxscaRfeZ2IAghENZ4crQZSKfSCyu-vReE4p-qu7FL3BVKVpjlewu9IH_c86Ie703hT2oR8BPw-_W35Ebf76o_in2_h7S0lirkU8mZyQ9oCUpBRTYO2xsEYmfY7qyRK21qYFBO7xfA.jpg",
+      "author_photo_path": "channels/iranlix/media/d6f23b233b51f82bbdb3cdba.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>هم‌زمان با افزایش قیمت بنزین در ایران؛ نتانیاهو از کاهش قیمت سوخت در اسرائیل خبر داد<br></b><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>در حالی که قیمت بنزین در ایران به ۱۰ هزار تومان در لیتر افزایش یافته، قیمت بنزین در اسرائیل از امروز ۰٫۵ شِکِل کاهش یافت و به ۷٫۷۵ شِکِل در هر لیتر رسید.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>نتانیاهو اعلام کرد این کاهش با هدف کاهش فشار هزینه‌های سوخت بر شهروندان اسرائیلی انجام شده است.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "♦️هم‌زمان با افزایش قیمت بنزین در ایران؛ نتانیاهو از کاهش قیمت سوخت در اسرائیل خبر داد\n\n🔹در حالی که قیمت بنزین در ایران به ۱۰ هزار تومان در لیتر افزایش یافته، قیمت بنزین در اسرائیل از امروز ۰٫۵ شِکِل کاهش یافت و به ۷٫۷۵ شِکِل در هر لیتر رسید.\n\n🔹نتانیاهو اعلام کرد این کاهش با هدف کاهش فشار هزینه‌های سوخت بر شهروندان اسرائیلی انجام شده است.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/12659",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/InWQiaMvdYz2JvnvZEgpbgYDobxVABWCrKucfeo8ozjMpxtiT_j_ixWhwA24sXzebHqCFIOpetL6VyPPzWtW7ktawr-UI5_MJz3H9ealgXgSiYPCllj6YwHqphLJyZYAy4hSAIpNlyahwkzEA5zZWXTTgYbVDK2f6XFhBs62yGSEtpAooptGrN170baUwQRs6qkEMIoH43sZL03iN6WIvj_Ie_USP_oFzsOWy5LtludOz4v0S14TtMsx8_qACOXov7WJ8HTeigUkT7FiFMnnlsgmv6DWh5OOPVz-sCwzHCAnWGQaMaOjfzyQKxPb1c1WH-ziqhXymPdIe39QjKDYAg.jpg",
+          "thumbnail_path": "channels/iranlix/media/46e9db328a49335298f141c1.jpg",
+          "thumbnail_sha256": "d7ca105b8b6b2591ff9e228383a23d7dffcc30f0920a083b5c4f7a7f24d9b8e9",
+          "duration_label": null,
+          "aspect_ratio": 0.8724999999999947
+        }
+      ],
+      "reactions": [],
+      "views_label": "37",
+      "posted_at": "2026-09-07T06:45:15+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12659",
+      "reply": null
+    },
     {
       "id": "iranlix/12658",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "147",
+      "views_label": "184",
       "posted_at": "2026-09-07T06:24:00+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12658",
@@ -70,7 +98,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "366",
+      "views_label": "397",
       "posted_at": "2026-09-07T05:43:41+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12657",
@@ -109,7 +137,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "712",
+      "views_label": "727",
       "posted_at": "2026-09-07T03:27:48+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12655",
@@ -157,7 +185,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "715",
+      "views_label": "728",
       "posted_at": "2026-09-07T03:23:35+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12653",
@@ -185,7 +213,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "724",
+      "views_label": "739",
       "posted_at": "2026-09-07T03:21:03+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12652",
@@ -222,7 +250,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "688",
+      "views_label": "701",
       "posted_at": "2026-09-07T03:19:38+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12651",
@@ -278,7 +306,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.07K",
+      "views_label": "1.08K",
       "posted_at": "2026-09-06T21:49:10+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12649",
@@ -418,7 +446,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.32K",
+      "views_label": "1.33K",
       "posted_at": "2026-09-06T19:53:01+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12644",
@@ -2848,34 +2876,6 @@
       "posted_at": "2026-09-04T18:41:30+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12558",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12557",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/VK7UxP3xK7XXY_E9qNcDJ9R-ugu8Kqr7hzd-V0Osm8FpZUxtY4hXl4rV0HsqaChh7d8JSJjgFWTh5WIRkwxmi-z7LWuC_etM9QCxqe6lmIh9aDtiHHDYBpAW0-0H_AVdL1YEM683dsoUj2w8l1NOtudtgUcDRAsQo1ZOQp_6nC8orT5o9026LgcHj_uJLQZ2u0tTjug-6Lhs-pJLX7MPK0tW3JQkNF4aE-MhuIPm6DDcI8Sw9TBAhYCXoWJqkUpgxeNNuaxB6X9jzyB0zY_R2x6tcaz8EDuoySW9KALS3r8g9tGuy9SUlSsE_QaNLXNdEWB7vVSlxHr5PIHEugIN4A.jpg",
-      "author_photo_path": "channels/iranlix/media/1fe3bf02c3c024640c615e89.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>به گزارش Axios، دولت ترامپ در حال تدوین یک استراتژی برای خاورمیانه پس از جنگ است که بر مهار ج.ا و گسترش روابط عادی‌سازی‌شده بین اسرائیل و کشورهای همسایه منطقه‌ای آن متمرکز است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i>این طرح سه عنصر اصلی دارد: ایجاد یک ائتلاف منطقه‌ای مورد حمایت ایالات متحده برای مهار ج.ا؛ پیشبرد طرح غزه ترامپ به همراه توافق‌های امنیتی اسرائیل با سوریه و لبنان؛ و گسترش توافق‌های ابراهیم، از جمله تلاش برای عادی‌سازی روابط بین عربستان سعودی و اسرائیل.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i>در حالی که واشنگتن امیدوار است که دولت بعدی اسرائیل پس از انتخابات ۲۷ اکتبر با این طرح همکاری کند، مقامات می‌گویند که ترامپ قصد دارد این استراتژی را صرف نظر از نتیجه انتخابات، دنبال کند.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "♦️به گزارش Axios، دولت ترامپ در حال تدوین یک استراتژی برای خاورمیانه پس از جنگ است که بر مهار ج.ا و گسترش روابط عادی‌سازی‌شده بین اسرائیل و کشورهای همسایه منطقه‌ای آن متمرکز است.\n\n♦️این طرح سه عنصر اصلی دارد: ایجاد یک ائتلاف منطقه‌ای مورد حمایت ایالات متحده برای مهار ج.ا؛ پیشبرد طرح غزه ترامپ به همراه توافق‌های امنیتی اسرائیل با سوریه و لبنان؛ و گسترش توافق‌های ابراهیم، از جمله تلاش برای عادی‌سازی روابط بین عربستان سعودی و اسرائیل.\n\n♦️در حالی که واشنگتن امیدوار است که دولت بعدی اسرائیل پس از انتخابات ۲۷ اکتبر با این طرح همکاری کند، مقامات می‌گویند که ترامپ قصد دارد این استراتژی را صرف نظر از نتیجه انتخابات، دنبال کند.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/12557",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/gmy0wX1o4osGZDpuBlgwbIDra3umztQ0gMpqaT3dhwUQ0-HhRZVAUjLQquvwb5EgrTyev8HX1F2N0AZ7iAheEmsLrRytXRphjbEf9bvRoTZV8aTqvEgSmZAC7SpYeszWH7V7IQAzOXeWBpO_wI4v_yyNhY1FPowRZkzL81ug4yPnCt5nsEvQOSRM-gHSSD_kphyBgQFy48zpUwiBkStxN832O5jQLwyLhdZsueqqUb6-7mA0zmx8qI1XUTBuXwApyExc10rKR8sxdQsQS-F4HEfH4QBpUa4wxCxqrZYf1514B9DSjKfUkwKFoE4kiJzS_yyU3jc-dN0yWk98r_sc-Q.jpg",
-          "thumbnail_path": "channels/iranlix/media/796e1bf8981f0945da5cf845.jpg",
-          "thumbnail_sha256": "afefb8f239d95865d4da9e34ee5e12634f690135af09803a404b4d091b3b7376",
-          "duration_label": null,
-          "aspect_ratio": 0.9987499999999696
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.13K",
-      "posted_at": "2026-09-04T18:25:56+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12557",
       "reply": null
     }
   ]

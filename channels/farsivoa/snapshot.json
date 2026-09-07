@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T06:42:11.247Z",
+  "fetched_at": "2026-09-07T06:47:46.304Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,22 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229691",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>وزیر انرژی آمریکا: با حصر دریایی یا جمهوری اسلامی عوض می‌شود یا سیاست‌هایش<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>وزیر انرژی آمریکا، گفت ممکن است توافق هسته‌ای با جمهوری اسلامی به دست نیاید و راه‌حل صرفاً نابود کردن توان جمهوری اسلامی باشد. او همچنین گفت که محاصره دریایی بنادر ایران «یا حکومتشان را تغییر می‌دهد یا سیاست‌های حکومت را».<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>کریس رایت، روز یکشنبه گفت: «شاید توافق هسته‌ای وجود نداشته باشد. شاید صرفاً نابود کردن توانمندی‌های آنان برای انجام آن باشد. توافق ممکن است در انتظار دولت بعدی در ایران بماند. ما به‌سادگی نمی‌دانیم.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>او افزود: «ما توان آنان برای توسعه سلاح هسته‌ای و در نهایت پرتاب آن در صورت توسعه را تضعیف می‌کنیم. این تلاشی ۴۷ ساله است. کار کوچکی نیست، اما آمریکا کار را به سرانجام می‌رساند.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8195027.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8195027.html</a>",
+      "plain_text": "🔺وزیر انرژی آمریکا: با حصر دریایی یا جمهوری اسلامی عوض می‌شود یا سیاست‌هایش\n\n▪️وزیر انرژی آمریکا، گفت ممکن است توافق هسته‌ای با جمهوری اسلامی به دست نیاید و راه‌حل صرفاً نابود کردن توان جمهوری اسلامی باشد. او همچنین گفت که محاصره دریایی بنادر ایران «یا حکومتشان را تغییر می‌دهد یا سیاست‌های حکومت را».\n\n▪️کریس رایت، روز یکشنبه گفت: «شاید توافق هسته‌ای وجود نداشته باشد. شاید صرفاً نابود کردن توانمندی‌های آنان برای انجام آن باشد. توافق ممکن است در انتظار دولت بعدی در ایران بماند. ما به‌سادگی نمی‌دانیم.»\n\n▪️او افزود: «ما توان آنان برای توسعه سلاح هسته‌ای و در نهایت پرتاب آن در صورت توسعه را تضعیف می‌کنیم. این تلاشی ۴۷ ساله است. کار کوچکی نیست، اما آمریکا کار را به سرانجام می‌رساند.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195027.html",
+      "media": [],
+      "reactions": [],
+      "views_label": "288",
+      "posted_at": "2026-09-07T06:42:55+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229691",
+      "reply": null
+    },
     {
       "id": "farsivoa/229690",
       "author_name": "Farsi VOA",
@@ -33,7 +49,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "739",
+      "views_label": "931",
       "posted_at": "2026-09-07T06:27:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229690",
@@ -61,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.16K",
+      "views_label": "1.31K",
       "posted_at": "2026-09-07T06:13:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229689",
@@ -89,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.48K",
+      "views_label": "1.58K",
       "posted_at": "2026-09-07T05:59:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229688",
@@ -117,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.7K",
+      "views_label": "1.77K",
       "posted_at": "2026-09-07T05:48:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229687",
@@ -133,7 +149,7 @@
       "plain_text": "🔺کارزار اقتصادی آمریکا اهرم فشار جمهوری اسلامی در تنگه هرمز را تضعیف کرده است\n\n▪️شش ماه پس از آغاز جنگ، تشدید تحریم‌ها و محاصره دریایی توسط ایالات متحده فشار فزاینده‌ای بر جمهوری اسلامی وارد آورده، و به گفته منابع ایرانی و منطقه‌ای، توان رژیم ایران برای استفاده از تنگه هرمز به عنوان اهرمی در برابر آمریکا را کاهش داده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/president-trump-economic-pressure-iran-hormuz-leverage/8195025.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.74K",
+      "views_label": "1.8K",
       "posted_at": "2026-09-07T05:39:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229686",
@@ -161,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.78K",
+      "views_label": "1.84K",
       "posted_at": "2026-09-07T05:25:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229685",
@@ -189,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.86K",
+      "views_label": "1.92K",
       "posted_at": "2026-09-07T05:14:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229684",
@@ -205,7 +221,7 @@
       "plain_text": "🔺نفت به ۹۷ دلار نزدیک شد؛ چشم‌انداز هرمز تا سال ۲۰۲۷ مبهم است\n\n▪️قیمت نفت روز دوشنبه به رشد خود ادامه داد، پس از آنکه حملات متقابل آمریکا و جمهوری اسلامی به شناورها در تنگه هرمز نگرانی از اختلال طولانی عرضه خاورمیانه را تشدید کرد.\n\n▪️قراردادهای آتی نفت برنت ۵۲ سنت بالا رفت و به ۹۶ دلار و ۸۰ سنت در هر بشکه رسید. نفت وست تگزاس اینترمدییت آمریکا نیز با ۶۶ سنت رشد به ۹۲ دلار و ۱۴ سنت رسید.\n\n▪️برنت هفته گذشته ۷ و هشت دهم درصد و دبلیوتی‌آی نزدیک ۱۰ درصد رشد کردند.\n\n▪️بر پایه تحلیل بانک ای‌ان‌زد، محتمل‌ترین سناریو رویارویی طولانی همراه با اقدام نظامی سنجیده دو طرف است. بر همین اساس، بازگشت به سطح تردد پیش از جنگ تا اواخر فصل نخست یا اوایل فصل دوم سال ۲۰۲۷ انتظار نمی‌رود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/oil-price-reaching-97-usd-per-barrel/8195026.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.12K",
+      "views_label": "2.18K",
       "posted_at": "2026-09-07T05:03:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229683",
@@ -221,7 +237,7 @@
       "plain_text": "🔺سرگردانی ۱۷۰ هزار مسافر به دلیل فوران آتشفشان و تعطیلی فرودگاه‌ها در اندونزی\n\n▪️در پی فوران آتشفشان «سینابونگ» در اندونزی و تعطیلی فرودگاه بین‌المللی اصلی و دیگر فرودگاه‌های این کشور، روز یکشنبه ۱۵ شهریور صدها پرواز لغو شدند، که این امر منجر به سرگردانی ۱۷۰ هزار مسافر شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/confusion-airport-indonesia-thousands-passengers/8195024.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "4.25K",
+      "views_label": "4.28K",
       "posted_at": "2026-09-07T02:56:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229682",
@@ -249,7 +265,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.1K",
+      "views_label": "4.16K",
       "posted_at": "2026-09-07T02:36:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229681",
@@ -265,7 +281,7 @@
       "plain_text": "🔺آمادگی اسرائیل برای انهدام تونل‌های حزب‌الله در «علی طاهر» و سپس عقب‌نشینی تا مرز لبنان\n\n▪️ارتش اسرائیل در حال آماده‌سازی برای انفجار دو تونل زیرزمینی متعلق به حزب‌الله در بلندی‌های راهبردی «علی طاهر» در جنوب لبنان است، و احتمالا پس از تکمیل عملیات مذکور، نیروهای خود را از این منطقه عقب خواهد کشید.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/israel-hezbollah-ali-taher-tunnels-lebanon-withdrawal/8195023.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.88K",
+      "views_label": "3.91K",
       "posted_at": "2026-09-07T02:30:19+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229680",
@@ -293,7 +309,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.7K",
+      "views_label": "3.76K",
       "posted_at": "2026-09-07T02:10:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229679",
@@ -309,7 +325,7 @@
       "plain_text": "🔺در پی سقوط هواپیمای باری آمازون در میامی دست‌کم پنج نفر کشته شدند\n\n▪️مقامات محلی روز یکشنبه ۱۵ شهریور اعلام کردند در پی سقوط یک هواپیمای باری شرکت «آمازون» هنگام نشستن در فرودگاه بین‌المللی میامی حداقل پنج نفر جان خود را از دست دادند و این حادثه منجر به بسته شدن تمام باندها و مسیر تاکسی‌‌‌ها شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/five-people-killed-plane-crash-miami/8195021.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.87K",
+      "views_label": "3.9K",
       "posted_at": "2026-09-07T01:51:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229678",
@@ -325,7 +341,7 @@
       "plain_text": "🔺کانادا حمایت خود را از تلاش‌های آمریکا برای بازگشایی تنگه هرمز و افزایش فشار بر جمهوری اسلامی اعلام کرد\n\n▪️دولت کانادا با محکوم کردن آنچه «فعالیت‌های بی‌ثبات‌کننده» جمهوری اسلامی در خاورمیانه خواند، اعلام کرد از تلاش‌های تحت رهبری ایالات متحده برای بازگشایی تنگه هرمز و کارزار اقتصادی آمریکا علیه حکومت ایران حمایت می‌کند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/canada-supports-us-iran-pressure-hormuz-economic-outcast/8195020.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.64K",
+      "views_label": "3.67K",
       "posted_at": "2026-09-07T01:16:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229677",
@@ -353,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.44K",
+      "views_label": "3.47K",
       "posted_at": "2026-09-07T01:02:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229676",
@@ -381,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.46K",
+      "views_label": "3.49K",
       "posted_at": "2026-09-07T00:53:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229675",
@@ -397,7 +413,7 @@
       "plain_text": "🔺پرزیدنت ترامپ بار دیگر تنگه هرمز را «قلمرو جدید آمریکا» خواند؛ انتشار تصویری از ضربه پتک به نقشه ایران\n\n▪️دونالد ترامپ، رئیس جمهوری آمریکا، شامگاه یکشنبه ۱۵ شهریور با انتشار دو تصویر در «تروت سوشال»، بار دیگر بر کنترل ایالات متحده بر تنگه هرمز و فشار بر جمهوری اسلامی تاکید کرد. این تازه‌ترین پیام او در ادامه مجموعه اظهاراتی است که طی هفته‌های اخیر درباره این آبراه راهبردی و وضعیت حکومت ایران مطرح کرده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/president-trump-hormuz-new-us-territory-iran-pressure/8195019.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.52K",
+      "views_label": "3.58K",
       "posted_at": "2026-09-07T00:41:08+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229674",
@@ -425,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.33K",
+      "views_label": "3.36K",
       "posted_at": "2026-09-07T00:19:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229673",
@@ -441,7 +457,7 @@
       "plain_text": "🔺کاخ سفید بازی‌های کامپیوتری کلاسیک را برای بیان سیاست‌های دولت ترامپ به کار می‌گیرد\n\n▪️بازی‌های کامپیوتری کلاسیک این روزها فقط وسیله‌ای برای زنده کردن خاطرات دهه‌های گذشته نیستند؛ کاخ سفید نیز به سراغ آنها رفته و شماری از برنامه‌ها و سیاست‌های دولت پرزیدنت ترامپ را در قالب بازی‌های ساده و آشنای دوران اولیه بازی‌های کامپیوتری به شهروندان آمریکا عرضه کرده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/white-house-president-trump-retro-arcade-games/8194817.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.47K",
+      "views_label": "3.5K",
       "posted_at": "2026-09-07T00:04:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229672",
@@ -2394,22 +2410,6 @@
       "posted_at": "2026-09-06T09:35:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229591",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229590",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/cQgmNvY74QjMaJtRlGlAgwARq80-ngAFt95OGdUvawYpXRlgX1I0clW8a36_0wg0KQW01LJ0WQu9BqpST7mohIffbNUFA69ex-Lkf6Uxm-tRC9fnRtAzxAzkh0gbyyb0gskR6k6eYyyxmBrreDKOZ3GI717bPZ9fXIO5OPouQSOk6lXWlHM6cd2P_frgT1Wg5WzirdR4Wrxa3cFM5EbbDLoQnZesAGGbAJQC-7-_M1BM1x6rMu_j7_nT_BryWHEWoQu34Hwt3C5O6uTaZY0PWF5cpl7--mPsz-xFvsqjpvn05avmOnilCpREWkKLcCK4OERe7ekk1gf0pDPtLCNTyg.jpg",
-      "author_photo_path": "channels/farsivoa/media/0abbb3eafc2bacb0efcb50a7.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>عقب‌نشینی دلار به کانال ۲۰۶ هزار تومان پس از ثبت رکورد ۲۳۰ هزار تومانی<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>قیمت دلار در بازار آزاد ایران پس از عبور از مرز ۲۳۰ هزار تومان، به کانال ۲۲۶ هزار تومان بازگشت.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>بر پایه گزارش اقتصاد۲۴، نرخ دلار صبح امروز یکشنبه ۲۲۶ هزار و ۱۰۵ تومان بود. وب‌سایت‌های اطلاع‌رسانی طلا و ارز پیش‌تر برای ساعتی از جهش قیمت دلار به بالای ۲۳۰ هزار تومان خبر داده بودند. بهای دلار در ادامه با شیب نسبتاً تند عقب نشست. اقتصادنیوز این افت را به ورود بانک مرکزی به بازار نسبت داد و نوشت این بانک به دنبال جذب نقدینگی در بازار است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>حواله دلار در مرکز مبادله ارز و طلای ایران نیز ۱۶۰ هزار و ۹۸۳ تومان اعلام شد که شکافی بیش از ۶۵ هزار تومان با بازار آزاد ایجاد می‌کند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8194726.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8194726.html</a>",
-      "plain_text": "🔺عقب‌نشینی دلار به کانال ۲۰۶ هزار تومان پس از ثبت رکورد ۲۳۰ هزار تومانی\n\n▪️قیمت دلار در بازار آزاد ایران پس از عبور از مرز ۲۳۰ هزار تومان، به کانال ۲۲۶ هزار تومان بازگشت.\n\n▪️بر پایه گزارش اقتصاد۲۴، نرخ دلار صبح امروز یکشنبه ۲۲۶ هزار و ۱۰۵ تومان بود. وب‌سایت‌های اطلاع‌رسانی طلا و ارز پیش‌تر برای ساعتی از جهش قیمت دلار به بالای ۲۳۰ هزار تومان خبر داده بودند. بهای دلار در ادامه با شیب نسبتاً تند عقب نشست. اقتصادنیوز این افت را به ورود بانک مرکزی به بازار نسبت داد و نوشت این بانک به دنبال جذب نقدینگی در بازار است.\n\n▪️حواله دلار در مرکز مبادله ارز و طلای ایران نیز ۱۶۰ هزار و ۹۸۳ تومان اعلام شد که شکافی بیش از ۶۵ هزار تومان با بازار آزاد ایجاد می‌کند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8194726.html",
-      "media": [],
-      "reactions": [],
-      "views_label": "686",
-      "posted_at": "2026-09-06T09:21:08+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229590",
       "reply": null
     }
   ]
