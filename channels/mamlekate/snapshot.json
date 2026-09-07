@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T19:14:39.882Z",
+  "fetched_at": "2026-09-07T19:17:15.323Z",
   "channel": {
     "username": "mamlekate",
     "title": "مملکته",
@@ -12,13 +12,29 @@
   },
   "posts": [
     {
+      "id": "mamlekate/104374",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ZVNNlpWoKwkYBFouLcs_Pw4lKzSdPj7BUcq-WCAfe2zDrbgKBhUD37VZcO12mZ4OothvbZpVjUT-5g2ixUn6ZtLKtBRnJrfIa9aYHrETdhtqTiF6Yg64928z7b0n7h4TNFiKdHk3FcTz3xny5zLAbTZ-VarlLYIfm16tkWNL4sWnBJoGAz4un4YQDplR3yjJls96U6vnpnlgoTJTY-BxS0UIC4RWdg7BblsjFoe7Ec7jqIX27Ogh-CZMdSKXPQwNF6ODUhPKh_obvvcXBfbrDvhV1awU1Tml-senhn_FOeuiLtVl45fdIWei5jVSX7x1-VcXu9PK8279RGHEV6CX7Q.jpg",
+      "author_photo_path": "channels/mamlekate/media/a66c1a3300ad5823463961c8.jpg",
+      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
+      "body_html": "<tg-emoji emoji-id=\"5247176827016847212\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939E.png')\"><b>📞</b></i></tg-emoji> امروز ۱۶ شهریور از ساعت ۹ شب موتورای دوترکه مسلح تمام میادین شهر ایستاده بودن و داشت به تعدادشون اضافه میشد. تمام سگاشونن آورده بودن بیرون برای جلوگیری از اعتراض مردم به دو برابر کردن قیمت بنزین<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
+      "plain_text": "📞 امروز ۱۶ شهریور از ساعت ۹ شب موتورای دوترکه مسلح تمام میادین شهر ایستاده بودن و داشت به تعدادشون اضافه میشد. تمام سگاشونن آورده بودن بیرون برای جلوگیری از اعتراض مردم به دو برابر کردن قیمت بنزین\n\n@mamlekate",
+      "media": [],
+      "reactions": [],
+      "views_label": "3.14K",
+      "posted_at": "2026-09-07T19:15:38+00:00",
+      "edited": false,
+      "permalink": "https://t.me/mamlekate/104374",
+      "reply": null
+    },
+    {
       "id": "mamlekate/104373",
       "author_name": "مملکته",
       "author_photo_url": "https://cdn4.telesco.pe/file/ZVNNlpWoKwkYBFouLcs_Pw4lKzSdPj7BUcq-WCAfe2zDrbgKBhUD37VZcO12mZ4OothvbZpVjUT-5g2ixUn6ZtLKtBRnJrfIa9aYHrETdhtqTiF6Yg64928z7b0n7h4TNFiKdHk3FcTz3xny5zLAbTZ-VarlLYIfm16tkWNL4sWnBJoGAz4un4YQDplR3yjJls96U6vnpnlgoTJTY-BxS0UIC4RWdg7BblsjFoe7Ec7jqIX27Ogh-CZMdSKXPQwNF6ODUhPKh_obvvcXBfbrDvhV1awU1Tml-senhn_FOeuiLtVl45fdIWei5jVSX7x1-VcXu9PK8279RGHEV6CX7Q.jpg",
       "author_photo_path": "channels/mamlekate/media/a66c1a3300ad5823463961c8.jpg",
       "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
-      "body_html": "<tg-emoji emoji-id=\"5247176827016847212\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939E.png')\"><b>📞</b></i></tg-emoji> سیتی سنتر قشم ساعت ۱۷ دوشنبه ۱۶ شهریور<br><br><a href=\"https://t.me/mamlekate_pm\" target=\"_blank\">@mamlekate_pm</a>",
-      "plain_text": "📞 سیتی سنتر قشم ساعت ۱۷ دوشنبه ۱۶ شهریور\n\n@mamlekate_pm",
+      "body_html": "<tg-emoji emoji-id=\"5247176827016847212\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939E.png')\"><b>📞</b></i></tg-emoji> سیتی سنتر قشم ساعت ۱۷ دوشنبه ۱۶ شهریور<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
+      "plain_text": "📞 سیتی سنتر قشم ساعت ۱۷ دوشنبه ۱۶ شهریور\n\n@mamlekate",
       "media": [
         {
           "kind": "photo",
@@ -33,9 +49,9 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.6K",
+      "views_label": "28.7K",
       "posted_at": "2026-09-07T18:44:37+00:00",
-      "edited": false,
+      "edited": true,
       "permalink": "https://t.me/mamlekate/104373",
       "reply": null
     },
@@ -49,7 +65,7 @@
       "plain_text": "📝 «تسلط نیروهای دولتی یمن بر یک پایگاه راهبردی حوثی‌ها»\n\nنیروهای دولتی یمن در میان نبردهای چندجبهه‌ای، یک پایگاه مهم حوثی‌ها را تصرف کردند.\n\nچند روز پس از دفع حمله حوثی‌ها به شهر بندری المخا، نیروهای نظامی دولت یمن که از شناسایی بین‌المللی و حمایت عربستان برخوردار است پادگان \"اللبنات\" در استان الجوف را محاصره کرده و به سمت مرکز این استان پیشروی می‌کنند.\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "38.4K",
+      "views_label": "40.5K",
       "posted_at": "2026-09-07T18:12:50+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104372",
@@ -137,7 +153,7 @@
           "count": "3"
         }
       ],
-      "views_label": "66.9K",
+      "views_label": "67.9K",
       "posted_at": "2026-09-07T15:44:02+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104366",
@@ -187,7 +203,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "63.5K",
+      "views_label": "64.5K",
       "posted_at": "2026-09-07T15:43:39+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104363",
@@ -286,7 +302,7 @@
       "plain_text": "📝 حزب «آلترناتیو برای آلمان» در انتخابات ایالتی پیروز شد، اما اکثریت را به دست نیاورد\n\nحزب راست‌گرای «آلترناتیو برای آلمان» با کسب ۴۳.۸ درصد آرا در انتخابات ایالت زاکسن-آنهالت به پیروزی رسید، اما سه کرسی تا اکثریت مطلق فاصله دارد. شکست سنگین حزب فریدریش مرتس، تشکیل دولت باثبات در این ایالت را دشوار کرده است.\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "99.5K",
+      "views_label": "99.6K",
       "posted_at": "2026-09-07T06:16:36+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104358",
@@ -2808,34 +2824,6 @@
       "posted_at": "2026-08-26T20:18:47+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104244",
-      "reply": null
-    },
-    {
-      "id": "mamlekate/104243",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DVvF2t0dXz1LaQipMYLSOuS8FnJveeVgkljAet94VVaZlo3hi7M4taMLSPJ4OcqxGW6jcyGyYKVk7dIF0uqa2nE6uq3PxlKTRhDTwQPi3X7J_0PGCv2v5ohXgEdP-kgLTiX9cXf2qGLccR5NCOxNwunSDfUFcMYY0F2jsHZqXPC0lYXWTYWviS8z_jlAVj0eA2NVwZFjY0zm0FSB1d9JIDKmgiVNuOV2fHM3hLKpVLiGKeR9UOrehJ3H9so5BS740SBksDW0AUGxOOyq9s90kxB4wNv8xmrDpeaRuXdxdfKved8wy_jERXm1jJHVhJOgqGZs_eXsLSkC6elhkEUiEw.jpg",
-      "author_photo_path": "channels/mamlekate/media/6e42bdc14bb88d268a7cc10d.jpg",
-      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
-      "body_html": "سیلاب وحشتناک مرز تبت نپال<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
-      "plain_text": "سیلاب وحشتناک مرز تبت نپال\n\n@mamlekate",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104243",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/wADZ-jDk6he52aVxNgDyXO0vKIdjRkDHnfQYmd17F4NkkDvUhB_bDpI0qUQR7-FZQ_UqByKxSAfJkuC1jz7iOwgaCxd14PKUEwyGwKvbwavj4UTaLdDLKccYI7X4swks--6IasBWnIAu9rdCJWIBA5sbenCh0oon983PYZvGSOvt7FfspIKnj05h5zcBzO47TQcT-JUThX5j5EfpwePk7_tytC1Ni8uMTKTBtVwuDJPhhgVsx50pAh1r0614-Z5xeXqIMB5Ujumjv95kLKHWSiR8rkt64aqwo1bskgHnaDZtUKG_BwL80hGig5tnZwqwtaeHKiMMEp_RmtsO5cHziA",
-          "thumbnail_path": "channels/mamlekate/media/cb638d6bf9787e453a1d95f4.jpg",
-          "thumbnail_sha256": "3d7c7e533c84b711ecd45bbe5b785061a18b5a7391e88612329680816f7ce07e",
-          "duration_label": "0:26",
-          "aspect_ratio": 1
-        }
-      ],
-      "reactions": [],
-      "views_label": "131K",
-      "posted_at": "2026-08-26T18:17:35+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mamlekate/104243",
       "reply": null
     }
   ]
