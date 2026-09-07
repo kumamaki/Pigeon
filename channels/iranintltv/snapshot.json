@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T17:12:07.350Z",
+  "fetched_at": "2026-09-07T17:17:10.808Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356175",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "کانال تلگرامی افکار نفت، پایگاه اطلاع‌رسانی مطالبات کارکنان رسمی صنعت نفت ایران، از برگزاری تجمع‌های اعتراضی کارکنان در سکوهای دریایی شرکت نفت و گاز پارس و عسلویه برای حذف سقف حقوق و اصلاح کف حقوق خبر داد.<br><br>بر اساس این گزارش، کارکنان رسمی در این تجمع‌های اعتراضی که دوشنبه هر هفته برگزار می‌شود، همچنین خواستار پرداخت «بک‌پی ماده ۱۰» شدند.<br><br>«بک پی ماده ۱۰» به معنای پرداخت معوقات و مطالبات مالی انباشته شده کارکنان صنعت نفت بر اساس اجرای ماده ۱۰ قانون وظایف و اختیارات وزارت نفت است.<br><a href=\"https://iranintl.com/202609075557\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609075557</a>",
+      "plain_text": "کانال تلگرامی افکار نفت، پایگاه اطلاع‌رسانی مطالبات کارکنان رسمی صنعت نفت ایران، از برگزاری تجمع‌های اعتراضی کارکنان در سکوهای دریایی شرکت نفت و گاز پارس و عسلویه برای حذف سقف حقوق و اصلاح کف حقوق خبر داد.\n\nبر اساس این گزارش، کارکنان رسمی در این تجمع‌های اعتراضی که دوشنبه هر هفته برگزار می‌شود، همچنین خواستار پرداخت «بک‌پی ماده ۱۰» شدند.\n\n«بک پی ماده ۱۰» به معنای پرداخت معوقات و مطالبات مالی انباشته شده کارکنان صنعت نفت بر اساس اجرای ماده ۱۰ قانون وظایف و اختیارات وزارت نفت است.\nhttps://iranintl.com/202609075557",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356175",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/iDnm_TZvYtG6m1p947PbwNfPwTLVsbBC0A2FrG_JFTfxaqMESVFjVpp4nq0nHRbEKi_BpKdQ-Awq38p1BbBO8JuLM7gumJCzLfVM0tpPf-Lgsqan1gXa4pm7mokE1nKp2WZ4IESRaOGX29kGiCfblLzDpi6uvin4BbITV7WSxR0DPkuLpJ8uxu2WZLWOADT_sP_VBrgy1AKV0OTnnKq0nwvMcEhIpumu7M8Sol_ShD8s7RUuIWr6sD2jfksIIAd9kHJz_RGygt4VXsz37JkQSk3N2K7giVCeM6eDCWJXgtWwCHNuDBUrmxYy0dgERry7hfov7MQ778V14s6TqaBe2A.jpg",
+          "thumbnail_path": "channels/iranintltv/media/bc9816a7b6099df8e37613f8.jpg",
+          "thumbnail_sha256": "301a3c4c470f423b9921b50ff438001512e9f867bee7da348c9c51d5b6fdecaf",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.12K",
+      "posted_at": "2026-09-07T17:14:51+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356175",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356174",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.4K",
+      "views_label": "10.6K",
       "posted_at": "2026-09-07T17:04:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356174",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.49K",
+      "views_label": "11.6K",
       "posted_at": "2026-09-07T17:01:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356173",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.7K",
+      "views_label": "15.8K",
       "posted_at": "2026-09-07T16:54:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356172",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.2K",
+      "views_label": "23.3K",
       "posted_at": "2026-09-07T16:37:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356171",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.5K",
+      "views_label": "27.6K",
       "posted_at": "2026-09-07T16:27:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356170",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.6K",
+      "views_label": "29.6K",
       "posted_at": "2026-09-07T16:19:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356169",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.7K",
+      "views_label": "31.8K",
       "posted_at": "2026-09-07T16:09:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356168",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.9K",
+      "views_label": "32.9K",
       "posted_at": "2026-09-07T16:02:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356167",
@@ -245,7 +273,7 @@
       "plain_text": "🎧نسخه صوتی اخبار شبانگاهی | دوشنبه ۱۶ شهریور\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "36K",
+      "views_label": "37.1K",
       "posted_at": "2026-09-07T15:41:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356166",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37K",
+      "views_label": "38.1K",
       "posted_at": "2026-09-07T15:41:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356165",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36K",
+      "views_label": "37.1K",
       "posted_at": "2026-09-07T15:33:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356164",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.3K",
+      "views_label": "40.3K",
       "posted_at": "2026-09-07T15:24:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356163",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "41.3K",
+      "views_label": "42.4K",
       "posted_at": "2026-09-07T15:17:57+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356162",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45.5K",
+      "views_label": "45.6K",
       "posted_at": "2026-09-07T15:00:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356161",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.8K",
+      "views_label": "48.8K",
       "posted_at": "2026-09-07T14:38:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356160",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45.7K",
+      "views_label": "46.7K",
       "posted_at": "2026-09-07T14:37:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356159",
@@ -2709,34 +2737,6 @@
       "posted_at": "2026-09-07T06:40:29+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356074",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356073",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "ایرانیان شهر کلگری در ادامه تجمع‌های هفتگی خود مقابل ساختمان شهرداری این شهر، بار دیگر خواستار توقف سرکوب و اعدام در ایران شدند و بر همبستگی با مردم داخل کشور تاکید کردند.<br><br>گزارش سپیدار ولیان، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "ایرانیان شهر کلگری در ادامه تجمع‌های هفتگی خود مقابل ساختمان شهرداری این شهر، بار دیگر خواستار توقف سرکوب و اعدام در ایران شدند و بر همبستگی با مردم داخل کشور تاکید کردند.\n\nگزارش سپیدار ولیان، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356073",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/CWtTULTDoDRez8XZMhqQasWF1NffQWnZ_f_C-iVgWYIXq_eKsHEWXb-kFeg6-ZZcUjIqllubXOmpy4F137lWA4aLce66qtg0HZ9CPFjSmes9iBUicA1H5zTD-BlxYV7-2x4ogaJWfheYBnEvpIkmtnytnUwCY787AYj_nApWb4JAP_Q1Bamf6II42F_BAqdF-CkjpNQdlCMaxwVhLNY8F2VhKSmcEDRU79VNMWW8tCRYQJW8hRKZnj9y-2KsV09xUuhbQkhOSVcwiwZ61nDPJvRVCiyDf9twJDYXpKCXmcffIAc2UBJXeyJHOO_t1jKor728lUben12OOTVZ6VXBfw",
-          "thumbnail_path": "channels/iranintltv/media/afba402a6051ed6233bd2f8f.jpg",
-          "thumbnail_sha256": "d7e19534bc16762df495d03dd8f414da2a187033ac664b8b8c7b4792969e309f",
-          "duration_label": "2:21",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "33.6K",
-      "posted_at": "2026-09-07T06:36:18+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356073",
       "reply": null
     }
   ]
