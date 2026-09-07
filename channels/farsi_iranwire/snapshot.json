@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T17:17:08.050Z",
+  "fetched_at": "2026-09-07T17:21:58.884Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93460",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "ابوالفضل رستمی و عرفان مرادی دنگی، دو شهروند اهل قصرشیرین و از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، هرکدام به پنج سال حبس تعزیری محکوم شدند.<br>کولبر نیوز، روز دوشنبه ۱۶ شهریور ۱۴۰۵، گزارش داد، شعبه اول دادگاه انقلاب قصرشیرین این دو شهروند را به اتهام «اجتماع و تبانی برای ارتکاب جرم بر ضد امنیت داخلی و خارجی» به پنج سال حبس محکوم کرده و احکام صادر شده اخیرا به آنها ابلاغ شده است.<br>بیشتر بخوانید: <a href=\"https://iranwire.com/fa/news-1/157298\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157298</a><br><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "ابوالفضل رستمی و عرفان مرادی دنگی، دو شهروند اهل قصرشیرین و از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، هرکدام به پنج سال حبس تعزیری محکوم شدند.\nکولبر نیوز، روز دوشنبه ۱۶ شهریور ۱۴۰۵، گزارش داد، شعبه اول دادگاه انقلاب قصرشیرین این دو شهروند را به اتهام «اجتماع و تبانی برای ارتکاب جرم بر ضد امنیت داخلی و خارجی» به پنج سال حبس محکوم کرده و احکام صادر شده اخیرا به آنها ابلاغ شده است.\nبیشتر بخوانید: https://iranwire.com/fa/news-1/157298\n\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93460",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Gxik4u2WYoRVRJ_fA2ZS0OCQZ6OTwYHUvA-Gln1ljtizsT4PuV_EozRIz-3hHpisxF1WtmR1-GAJlHKSc5cbZ5ZdecHcvyyXFWrTgqx4QeEWbDbFoCC2OdsHQdEsoS98yn5_0WadGXi6suTld1sF3pfs0oRGsnhlVJyrmQHJOVMFXyUvd1V7DkdW6GnCijgrv4rv6UX9YcQL_3cN04JjHnNaHFLptUIFQPyYn4hwhsSll70vyLgE407M_HiLBg9oDcZ4-3K_0Rzevbg4sgv6t_PaohBra0k7VOguvuOsDOoweXzJcYgIPWsP0mjITURQQ9y1BhjRnhJWsZfkmuPo4g.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/40d16e13608b338e04ebaaab.jpg",
+          "thumbnail_sha256": "1bed9d6c0e7d60d6f5b94e141317e1f47698c2376a98f8221b44e0f4b800567f",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "2",
+      "posted_at": "2026-09-07T17:21:22+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93460",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93459",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "148",
+      "views_label": "189",
       "posted_at": "2026-09-07T17:03:23+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93459",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "429",
+      "views_label": "453",
       "posted_at": "2026-09-07T16:13:52+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93458",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "786",
+      "views_label": "812",
       "posted_at": "2026-09-07T15:15:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93457",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "711",
+      "views_label": "733",
       "posted_at": "2026-09-07T14:58:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93456",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "703",
+      "views_label": "719",
       "posted_at": "2026-09-07T14:38:51+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93455",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "653",
+      "views_label": "666",
       "posted_at": "2026-09-07T14:38:27+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93454",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "695",
+      "views_label": "708",
       "posted_at": "2026-09-07T14:15:06+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93453",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "782",
+      "views_label": "793",
       "posted_at": "2026-09-07T14:01:44+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93452",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "728",
+      "views_label": "742",
       "posted_at": "2026-09-07T13:56:59+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93451",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "865",
+      "views_label": "876",
       "posted_at": "2026-09-07T13:26:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93450",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "833",
+      "views_label": "848",
       "posted_at": "2026-09-07T13:17:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93449",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "772",
+      "views_label": "785",
       "posted_at": "2026-09-07T13:11:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93448",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "902",
+      "views_label": "913",
       "posted_at": "2026-09-07T12:20:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93447",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "918",
+      "views_label": "928",
       "posted_at": "2026-09-07T12:12:31+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93446",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.02K",
+      "views_label": "1.04K",
       "posted_at": "2026-09-07T12:00:27+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93445",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "843",
+      "views_label": "853",
       "posted_at": "2026-09-07T11:56:15+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93444",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "871",
+      "views_label": "881",
       "posted_at": "2026-09-07T11:44:43+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93443",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-04T20:32:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93360",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93359",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EmUP9mB5rt_E-ktfi7gsZJiU2Vg2Igy7ZYPwCUj5ZBNBwKSs_5STWybgkDUrOJ8Mf21eZIyZX1Az3KyjeThtIqmK00XzVEbMQyr4Rtqm3BijZmsPdRtLDWb7uCAuOYVGfriyYjsEeD9-i5W2gDSuIa3DhMv1wA1h89ViwCSNAsbSBBXCFCCpRLzR03zsSwFJpI2uSI2Ypew-4R4EEINKuBXLsu1m9siY-A0_Db8j3HxwgV0GuSEPB4zv5KfCaNPxjp4EaKGdI-IcXaIBcqZoOpDe26XPYVEQJMiRoikQH4QRpuY3i_p41FKCMmJLQel9Vz2g8emShtFRNit2tEGUQw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/c769a9c378fcf30292902ce1.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "«وقتی توی بند می‌مانی، مسخ می‌شوی؛ یا باید از بند بزنی بیرون و مشغول به کار شوی یا باید مشت‌مشت قرص اعصاب بخوری.»<br>این روایت سپیده قلیان از سال‌های کار در زندان است؛ جایی که به گفته او، زندانیان برای دوام آوردن در شرایط سخت حبس، برای تأمین هزینه‌های زندگی و گاهی حتی برای دسترسی به تلفن و ملاقات، ناچار به کار کردن بودند؛ کارهایی که در برخی موارد، با دستمزد ناچیز و شرایطی شبیه استثمار همراه بوده است.<br>اما همین تجربه، ایده‌ای متفاوت را در ذهن سپیده قلیان شکل داد: کار، نه به‌عنوان ابزاری برای استثمار زندانی، بلکه راهی برای استقلال مالی و حفظ کرامت انسانی او.<br>کارگاه «ما» حالا محل فروش دست‌سازه‌های چرمی زنان زندانی و زندانیان سابق است؛ پروژه‌ای که به گفته قلیان، تلاش می‌کند درآمد حاصل از کار مستقیماً به زندانی برسد و او را از وابستگی و استثمار دور کند.<br>در گفت‌وگو با رقیه رضایی، نویسنده این گزارش، درباره روایت سپیده قلیان از هفت سال زندان، شرایط کار زندانیان، تجربه کار اجباری و شکل‌گیری کارگاه «ما» صحبت کردیم. نسخه کامل این گفت‌وگو را در تلویزیون و کانال یوتیوب ایران‌وایر ببینید.<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "«وقتی توی بند می‌مانی، مسخ می‌شوی؛ یا باید از بند بزنی بیرون و مشغول به کار شوی یا باید مشت‌مشت قرص اعصاب بخوری.»\nاین روایت سپیده قلیان از سال‌های کار در زندان است؛ جایی که به گفته او، زندانیان برای دوام آوردن در شرایط سخت حبس، برای تأمین هزینه‌های زندگی و گاهی حتی برای دسترسی به تلفن و ملاقات، ناچار به کار کردن بودند؛ کارهایی که در برخی موارد، با دستمزد ناچیز و شرایطی شبیه استثمار همراه بوده است.\nاما همین تجربه، ایده‌ای متفاوت را در ذهن سپیده قلیان شکل داد: کار، نه به‌عنوان ابزاری برای استثمار زندانی، بلکه راهی برای استقلال مالی و حفظ کرامت انسانی او.\nکارگاه «ما» حالا محل فروش دست‌سازه‌های چرمی زنان زندانی و زندانیان سابق است؛ پروژه‌ای که به گفته قلیان، تلاش می‌کند درآمد حاصل از کار مستقیماً به زندانی برسد و او را از وابستگی و استثمار دور کند.\nدر گفت‌وگو با رقیه رضایی، نویسنده این گزارش، درباره روایت سپیده قلیان از هفت سال زندان، شرایط کار زندانیان، تجربه کار اجباری و شکل‌گیری کارگاه «ما» صحبت کردیم. نسخه کامل این گفت‌وگو را در تلویزیون و کانال یوتیوب ایران‌وایر ببینید.\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Farsi_Iranwire/93359",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/EjDUaX9PfwXJV-pkO8RT_FzMkDkfTNX9h_a_0Xt-8xfe1QgImruqdU4qMdmzSCuhBg_6ZVAbQTXq45qTTZaPIFijGyppxQu5NhgqpftPNzK77Jwbraqs_bYlVR-K9qgh7eTaE6R2X6zFWNQ8ar9cBwfx5eL8Cl2mCeXUQ8djl6nhEpTwDAsVPYSM3IcAwd-tWtxuBCQSVvmCoh9k4F86Eg_9r4sIBRjG612XA-bX86FesvbfuL5jjeoaj0ePsq3YJo-_sxtnx__r9p_XufJxI9I0dtc3-AEnS5CN76Bs0g5N95SBXPRsMdOvUWZIoW__YMQzRiLy-tM_LK0DOwwEmQ",
-          "thumbnail_path": "channels/farsi_iranwire/media/46cfcf375e2f3112275593c7.jpg",
-          "thumbnail_sha256": "70aa31cbb778609b5b30235c8bdd35fc9d3fbf1890cd9aa368fd19e0371bc63d",
-          "duration_label": "1:05",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.59K",
-      "posted_at": "2026-09-04T19:43:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93359",
       "reply": null
     }
   ]
