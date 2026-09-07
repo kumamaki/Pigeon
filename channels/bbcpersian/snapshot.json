@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T19:28:57.885Z",
+  "fetched_at": "2026-09-07T19:32:08.473Z",
   "channel": {
     "username": "bbcpersian",
     "title": "BBCPersian",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "bbcpersian/291028",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Rcx9zGv69UHGrtTVfPSpu_6MA3BWa9-TzEMakV2saM75bGdM7-C9EPn_zObD8xyEztAgGyVkr0gkzf3XqNBqTKn8DXaJtlmPDnP9IMmEJn5HRDIq0uoh5RWNxmPwN6cfXWAN3chJdbfau9xPME1lzW--0IaUt5uYTLX4YasbKmbb-44p8AKeTsbNsoccadYwzH-J7qVxfJ_-Dj3m494674xXDAR_k1wA67HV1D6RMQfI9kzQ5V9af4ldEWF5vHHqslNkvigVfmkCVHjteJ1zcIvqUiy2GAH5LiztyUnMtauIKOfhs0G74rjfmbSSLgaam_nQiulXLjg060I3oSK1KA.jpg",
+      "author_photo_path": "channels/bbcpersian/media/63160276cfca5480f4173d92.jpg",
+      "author_photo_sha256": "cf48535f60438757cd9b0534a23c038e85ac3e9a472bad98fdb8dd6f9211ad10",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>نرخ سوم بنزین در ایران با افزایشی صد در صدی، از لیتری ۵ هزار تومان به ۱۰ هزار تومان تغییر کرد. دولت گفته نرخ‌های اول و دوم بنزین سهمیه‌ای را تغییر نداده است. مقام‌های ایران امیدوارند این اقدام، سبب کاهش مصرف شهروندان شود و به این ترتیب، دولت مسعود پزشکیان بتواند بخشی از کسری بنزین مصرفی را جبران کند. علی خردپیر نگاهی کرده به دلایل بالابودن سرانه مصرف سوخت خودرو در ایران و اینکه چقدر تغییر قیمت این کالای ضروری بر میزان مصرف اثر خواهد داشت.<br><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔻نرخ سوم بنزین در ایران با افزایشی صد در صدی، از لیتری ۵ هزار تومان به ۱۰ هزار تومان تغییر کرد. دولت گفته نرخ‌های اول و دوم بنزین سهمیه‌ای را تغییر نداده است. مقام‌های ایران امیدوارند این اقدام، سبب کاهش مصرف شهروندان شود و به این ترتیب، دولت مسعود پزشکیان بتواند بخشی از کسری بنزین مصرفی را جبران کند. علی خردپیر نگاهی کرده به دلایل بالابودن سرانه مصرف سوخت خودرو در ایران و اینکه چقدر تغییر قیمت این کالای ضروری بر میزان مصرف اثر خواهد داشت.\n\n@BBCPersian",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/bbcpersian/291028",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/owAQXvCRuvsPCOc5uyJS9PDNN9ZY3ybkksqwJ_hp6MgSPomiUnGfBpFBBZ9HDfvHFwcez9I6Hh9BrynMUeG4nbQgjCqBMox6hcqupTZW1wlOJPSV1ZmMyAzisocaGau180jplzAiFFtLoANlf80HdVtK3qTa1IO66DY_C7VWUbyfc2wusLC-yRVUkpa9qa4UJWp6_QIG-7tXIub3oAwn4ep0FbjN56t-LkrpbOVGTVKpfBhE_RR1UdjUWTn0R9Dx9SnXF47g7dW_0ZLC3nvM5-3A59MX0cIjMYA8FFVLtN6Y3Pblnypo0BeMtphEiCdshZ2yiGF6BW0euNwCPTXuMQ",
+          "thumbnail_path": "channels/bbcpersian/media/1590e3f7de1762af2ab55725.jpg",
+          "thumbnail_sha256": "3e1156b47e63901c5d3160700a539cf5e4f684fd8563867c6ef58c5e8fad68df",
+          "duration_label": "4:16",
+          "aspect_ratio": 1.8275862068965676
+        }
+      ],
+      "reactions": [],
+      "views_label": "643",
+      "posted_at": "2026-09-07T19:30:50+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/291028",
+      "reply": null
+    },
+    {
       "id": "bbcpersian/291027",
       "author_name": "BBCPersian",
       "author_photo_url": "https://cdn4.telesco.pe/file/Rcx9zGv69UHGrtTVfPSpu_6MA3BWa9-TzEMakV2saM75bGdM7-C9EPn_zObD8xyEztAgGyVkr0gkzf3XqNBqTKn8DXaJtlmPDnP9IMmEJn5HRDIq0uoh5RWNxmPwN6cfXWAN3chJdbfau9xPME1lzW--0IaUt5uYTLX4YasbKmbb-44p8AKeTsbNsoccadYwzH-J7qVxfJ_-Dj3m494674xXDAR_k1wA67HV1D6RMQfI9kzQ5V9af4ldEWF5vHHqslNkvigVfmkCVHjteJ1zcIvqUiy2GAH5LiztyUnMtauIKOfhs0G74rjfmbSSLgaam_nQiulXLjg060I3oSK1KA.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔻رافائل گروسی: فارغ از قطعنامه، همکاری با آژانس به نفع ایران است\n\n🖋️بهرنگ تاج‌دین، خبرنگار اعزامی بی‌بی‌سی فارسی به وین\n\n🔻اگر قطعنامه پیشنهادی غربی‌ها به شورای حکام به تصویب برسد و پرونده هسته‌ای ایران به شورای امنیت ارجاع داده شود، تنش‌های دیپلماتیک بین دو طرف وارد فاز جدیدی می‌شود.\n\nدر نشست خبری مدیر کل آژانس بین‌المللی انرژی اتمی، از آقای گروسی پرسیدم به نظرش ارجاع پرونده به شورای امنیت چه تأثیری روی تلاش‌های آژانس برای ازسرگیری بازرسی از تأسیسات مورد مناقشه در ایران می‌گذارد؟ آقای گروسی از پاسخ‌گویی مستقیم به این سؤال خودداری کرد، ولی تأکید کرد که اگر جمهوری اسلامی به سمت همکاری با آژانس برود، خطر ازسرگیری و تشدید جنگ کمتر می‌شود.\n\nبه گفته آقای گروسی: «بهترین و سریع‌ترین راه رسیدن به یک نتیجه مثبت این است که ایران با ما تعامل کند. اگر ایران وارد یک گفت‌وگوی جدی با ما شود و اگر دسترسی دادن به ما شروع شود – با در نظر گرفتن نگرانی‌های امنیتی و محرمانگی – مطمئنم و به شما تضمین می‌دهم که این کار نتایج خیلی مثبتی خواهد داشت.»\n\nمدیر کل آژانس بین‌المللی انرژی اتمی معتقد بود که در صورت شروع همکاری با آژانس، کشورهای غربی از این فرآیند «محافظت و حمایت» می‌کنند و این کار «به صلح کمک می‌کند، و نه به جنگ.»\n\nhttps://bbc.in/46ayPtW\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "4.18K",
+      "views_label": "5.78K",
       "posted_at": "2026-09-07T19:21:21+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291027",
@@ -37,7 +65,7 @@
       "plain_text": "🔻رئیس سازمان بهزیستی ایران: ۱۸۰ مرکز بهزیستی در جنگ ۴۰ روزه آسیب دید\n\n🔻به گفته جواد حسینی، رئیس سازمان بهزیستی ایران، «۱۸۰ مرکز بهزیستی» در جنگ ۴۰ روزه آسیب دیده است.\nاو همچنین گفته است ۱۹ نفر از مددجویان و نیروهای مرتبط با این سازمان هم در این جنگ کشته شدند.\n\nآقای حسینی همچنین گفته است در جنگ چهل روزه «نزدیک به ۳۰ هزار مددجو، دو هزار واحد مسکونی و حدود سه هزار فرصت شغلی با آسیب و خسارت مواجه شدند.»\n\nجنگ چهل روزه نهم اسفند ماه پارسال آغاز شد و در لحظات اول آن علی خامنه‌ای، رهبر سابق جمهوری اسلامی، هدف قرار گرفت و کشته شد.\n\nhttps://bbc.in/3SUGzgt\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "8.03K",
+      "views_label": "9.3K",
       "posted_at": "2026-09-07T19:10:07+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291026",
@@ -53,7 +81,7 @@
       "plain_text": "🔻روایت شهریار شمس، زندانی و دانشجوی اخراجی از وضعیت «نامساعد» زندان دامغان\n\nشهریار شمس، زندانی محبوس در زندان دامغان، در یک فایل صوتی درباره وضعیت زندانیان سیاسی و و شرایط نامساعد زندان این شهر کوچک توضیح داده است.\n\nشهریار شمس، دانشجوی اخراجی دانشگاه آزاد تهران شمال، روز دوشنبه ۱۹ مرداد سال جاری توسط نیروهای امنیتی در منزل خانوادگی‌اش بازداشت شده بود.\n\nاین زندانی سیاسی می‌گوید در بندی او قرار دارد حدود ۵۰ زندانی حضور دارند که حدود ۲۲ تا ۲۳ نفر از آن‌ها زندانی سیاسی (متهم یا محکوم) هستند و مابقی مربوط به جرائم عمومی هستند و تفکیک جرائم صورت نگرفته است.\n\nبه گفته شهریار شمس زندانیان سیاسی در زندان دامغان اکثرا معترضان بازداشت‌شده در جریان اعتراضات دی‌ماه ۱۴۰۴ هستند که «پس از بازداشت، پرونده‌سازی و سرکوب مجدد، در حال حاضر متهم یا محکوم شده و در زندان به‌سر می‌برند.»\n\nدر جریان اعتراضات دی ۱۴۰۴ شهر دامغان شاهد اعتراضات بود، اما تاکنون حکومت ایران به صورت رسمی آماری از تعداد بازداشت‌شدگان در این شهر منتشر نکرده است. از وضعیت زندان دامغان هم اطلاعات محدودی در دسترس است.\n\nشهریار شمس می‌گوید تمامی زندانیان توسط ضابطین از جمله وزارت اطلاعات، «مورد ضرب‌وشتم و شکنجه قرار گرفته‌اند؛ به‌طوری که آثار کبودی شدید روی بدن و صورت آن‌ها مشهود بوده و بازجویان از طریق تهدید، فحاشی، کتک، شلاق و حتی تهدید و آزار جنسی از زندانیان اعتراف اجباری گرفته‌اند.»\n\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "23.2K",
+      "views_label": "23.5K",
       "posted_at": "2026-09-07T18:07:03+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291025",
@@ -81,7 +109,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.2K",
+      "views_label": "26.8K",
       "posted_at": "2026-09-07T17:51:23+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291024",
@@ -97,7 +125,7 @@
       "plain_text": "پادکست برنامه جام جهان‌نما دوشنبه ۱۶ شهریور ۱۴۰۵\nاین برنامه رادیویی را می‌توانید هرشب ساعت ۲۰ به وقت ایران، روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۹۴۶۵ کیلوهرتز بشنوید.تکرار برنامه را هم می‌توانید ساعت ۲۱:۳۰ روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۵۳۹۵ کیلوهرتز گوش کنید.\n\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "26.6K",
+      "views_label": "26.9K",
       "posted_at": "2026-09-07T17:29:56+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291023",
@@ -125,7 +153,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.8K",
+      "views_label": "38.4K",
       "posted_at": "2026-09-07T16:20:47+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291022",
@@ -141,7 +169,7 @@
       "plain_text": "📻 تازه‌ترین خبرهای ایران و جهان دوشنبه ۱۶ شهریور ۱۴۰۵ از رادیو بی‌بی‌سی در لندن",
       "media": [],
       "reactions": [],
-      "views_label": "40.8K",
+      "views_label": "41.1K",
       "posted_at": "2026-09-07T14:49:28+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291021",
@@ -173,7 +201,7 @@
       "plain_text": "🔻عمان: ۱۶ خدمه نفت‌کش سعودی یک هفته پس از حمله ایران از کشتی بیرون آورده شدند\n\nمرکز امنیت دریایی عمان در بیانیه‌ای گفته است که ۱۶ نفر از خدمه نفت‌کش «سیدر» متعلق به عربستان سعودی را پس از حمله ایران به این شناور، خارج کرده است.\n\n«سیدر» یکی از دو ابر نفت‌کش حامل نفت عربستان بود که بر اساس گزارش‌ها، دوشنبه هفته پیش هنگام عبور از تنگه هرمز مورد اصابت قرار گرفت.\n\nعربستان هفته پیش اعلام کرد که حمله به این نفت‌کش، متعلق به شرکت ملی کشتیرانی «بحری» این کشور، منجر به کشته شدن دو دریانورد فیلیپینی شد.\n\nhttps://bbc.in/4yJOAo3\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "38.9K",
+      "views_label": "39.2K",
       "posted_at": "2026-09-07T14:17:15+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291019",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.5K",
+      "views_label": "36.8K",
       "posted_at": "2026-09-07T14:06:20+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291017",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.2K",
+      "views_label": "37.5K",
       "posted_at": "2026-09-07T13:43:24+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291016",
@@ -373,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.7K",
+      "views_label": "40K",
       "posted_at": "2026-09-07T11:59:20+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291011",
@@ -401,7 +429,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.6K",
+      "views_label": "40.9K",
       "posted_at": "2026-09-07T11:53:41+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291010",
@@ -417,7 +445,7 @@
       "plain_text": "🔻رافائل گروسی: قطعنامه اگر تصویب شود بازتاب صدای جهانی است\n\nرافائل گروسی در پاسخ به سوال بهرنگ تاج‌دین، خبرنگار اعزامی بی‌بی‌سی فارسی به وین درباره تاثیر قطعنامه جدید کشورهای اروپایی بر بر نظارت و فعالیت‌های آژانس گفت این قطعنامه «بیان جمعی اعضای جامعه جهان» است، چه کمکی به حل این پرونده کند چه نکند.\n\nاو یادآوری کرد که قطعنامه هنوز به تصویب نرسیده و تاکید کرد که درباره تمام قطعنامه‌ها موضع «خنثی» دارد.\n\nایران گفته است در صورت تصویب قطعنامه و ارسال پرونده ایران به شورای امنیت سارمان ملل به اقدامات متقابل دست می‌زند.\n\nhttps://bbc.in/4hc0jWe\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "43.7K",
+      "views_label": "44K",
       "posted_at": "2026-09-07T11:08:26+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291009",
@@ -2424,22 +2452,6 @@
       "posted_at": "2026-09-05T23:07:20+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/290895",
-      "reply": null
-    },
-    {
-      "id": "bbcpersian/290894",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/diY127ratCidRQBlnbIYTWpc6tSp0qcS4R4O28MWRX4knKjpIaxSnEol1WT3eoIfQAdjiqP4IC_p71AHwGXVeuIvESe62D6qqiDZCWXQBackAIEID1jz-vI840b35b39xPjdY3TgiDPsstS3yiFwq_gv7ZByqqrn3Hs9xmyuvE2VcFmPPBs9QKqiNvYT43NYoxnJ1ucFWCTM3qamIdkk1OsbgbFruM4G37RLamrFqiG1JwmXgJ3Ix_Z4iVhnl4j3JCzbPZQYY9ujMA8v9QSgrmlSvByrqSrbFpP7qEeBejG5HMWgwQeVkTE2yhgVUy1X_mj88RwaT3Gl942tBvanow.jpg",
-      "author_photo_path": "channels/bbcpersian/media/b3ffb6f4b6579a10cf72c4bb.jpg",
-      "author_photo_sha256": "cf48535f60438757cd9b0534a23c038e85ac3e9a472bad98fdb8dd6f9211ad10",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>پایان پوشش زنده امروز<br><br>با فرا رسیدن نیمه شب به وقت لندن پوشش زنده وبسایت فارسی بی‌بی‌سی در روز شنبه ۱۴ شهریور به پایان می‌رسید. برای اطلاع از تازه‌ترین تحولات مربوط به ایران و منطقه به صفحه زنده ما در روز یکشنبه ۱۵ شهریور سر بزنید.<br><br><a href=\"https://bbc.in/4xImeKE\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4xImeKE</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "🔻پایان پوشش زنده امروز\n\nبا فرا رسیدن نیمه شب به وقت لندن پوشش زنده وبسایت فارسی بی‌بی‌سی در روز شنبه ۱۴ شهریور به پایان می‌رسید. برای اطلاع از تازه‌ترین تحولات مربوط به ایران و منطقه به صفحه زنده ما در روز یکشنبه ۱۵ شهریور سر بزنید.\n\nhttps://bbc.in/4xImeKE\n@BBCPersian",
-      "media": [],
-      "reactions": [],
-      "views_label": "36.8K",
-      "posted_at": "2026-09-05T23:06:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/290894",
       "reply": null
     }
   ]

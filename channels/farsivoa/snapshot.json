@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T19:29:00.176Z",
+  "fetched_at": "2026-09-07T19:32:11.172Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229795",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "رونمایی از طرح تازه فرانسه برای حمایت از گردش جهانی سینمای مستقل<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "رونمایی از طرح تازه فرانسه برای حمایت از گردش جهانی سینمای مستقل\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229795",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/fXJEP_JGRzISkwrGHTXmbiG6nj26SxGpeVvJ2qM4KxDxe3MpaIS7BtSqUtrQFt6N8dEB6-oMH9rz1aQXr4bDJvYuOhWyLguzMiU8PyiMwsu2bcW-77qIyHvLlaD9YMY4g7qt1UnMkvZaLAH2_y1jVEHwBmjIg0UhzFgvnn1mPT2_u1u8R8fwxl4j5buGD3GO5gtSqmLYPIlxEDdJGKePO74wkZutruNkyfoGKGCMYqU_AN8kn0-8c0U2UUsqVuouky3nISKA4mC_stYu-R7ljouXLBwXkkItROB-eYe8Lgk8j2uO74HDX4mB2sK6wde7xxZGbogUtGQsw63QitTG0w",
+          "thumbnail_path": "channels/farsivoa/media/c2259a9178670a035924b187.jpg",
+          "thumbnail_sha256": "9726aa2509aa7adea878ecd7cc32a3fa7b5524ebc89191e8815739b9e94d8ef7",
+          "duration_label": "4:03",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "2",
+      "posted_at": "2026-09-07T19:31:04+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229795",
+      "reply": null
+    },
     {
       "id": "farsivoa/229794",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "322",
+      "views_label": "451",
       "posted_at": "2026-09-07T19:24:59+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229794",
@@ -49,7 +77,7 @@
       "plain_text": "🔺تداوم فشار حکومت بر مخالفان؛ بازداشت‌ معترضان و توقیف اموال بهائیان همچنان ادامه دارد\n\n▪️منابع و رسانه‌های حقوق بشری روز دوشنبه ۱۶ شهریور از تداوم فشار حاکمان جمهوری اسلامی بر معترضان و ادامه بازداشت‌ مخالفان حکومت در سرتاسر ایران خبر دادند و اعلام کردند ماموران حکومتی به توقیف اموال بهائیان ادامه می‌دهند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/bahai-national-security-arrest-detention-assault-battery-property-seizure-search-dadban-human-rights-charge-conviction--bah%C3%A1%CA%BC%C3%AD-faith/8195160.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "615",
+      "views_label": "710",
       "posted_at": "2026-09-07T19:20:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229793",
@@ -65,7 +93,7 @@
       "plain_text": "🔺پرزیدنت ترامپ: «بمباردیه» کانادا دیگر اجازه فروش محصولاتش در آمریکا را نخواهد داشت\n\n▪️دونالد ترامپ، رئیس‌جمهوری آمریکا، روز دوشنبه ۱۶ شهریور گفت شرکت هوافضای کانادایی «بمباردیه» دیگر اجازه فروش محصولات خود را در آمریکا را نخواهد داشت، مگر آنکه تولیدات خود را در ایالات متحده انجام دهد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/trump-us-canada-bombardier-gulfstream-aerospace/8195165.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "962",
+      "views_label": "1.06K",
       "posted_at": "2026-09-07T19:14:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229792",
@@ -81,7 +109,7 @@
       "plain_text": "🔺دستمزدها در آمریکا از تورم پیشی گرفت؛ افزایش قدرت خرید کارگران در دوران پرزیدنت ترامپ\n\n▪️گزارش تازه‌ای بر پایه داده‌های رسمی اداره آمار کار آمریکا نشان می‌دهد متوسط دستمزد هفتگی کارگران در ایالات متحده طی یک سال گذشته اندکی سریع‌تر از تورم افزایش یافته، و قدرت خرید واقعی آنها، هرچند به میزان محدود، بهبود پیدا کرده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/us-wages-outpace-inflation/8195166.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.09K",
+      "views_label": "1.15K",
       "posted_at": "2026-09-07T19:10:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229791",
@@ -109,7 +137,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.39K",
+      "views_label": "1.45K",
       "posted_at": "2026-09-07T19:00:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229790",
@@ -137,7 +165,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.63K",
+      "views_label": "1.7K",
       "posted_at": "2026-09-07T18:55:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229789",
@@ -165,7 +193,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.79K",
+      "views_label": "1.85K",
       "posted_at": "2026-09-07T18:50:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229788",
@@ -193,7 +221,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.82K",
+      "views_label": "1.89K",
       "posted_at": "2026-09-07T18:47:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229787",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.23K",
+      "views_label": "2.29K",
       "posted_at": "2026-09-07T18:36:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229786",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.2K",
+      "views_label": "2.26K",
       "posted_at": "2026-09-07T18:34:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229785",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.26K",
+      "views_label": "2.3K",
       "posted_at": "2026-09-07T18:26:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229784",
@@ -338,7 +366,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.52K",
+      "views_label": "2.55K",
       "posted_at": "2026-09-07T18:15:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229780",
@@ -366,7 +394,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.51K",
+      "views_label": "2.54K",
       "posted_at": "2026-09-07T18:07:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229779",
@@ -394,7 +422,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.62K",
+      "views_label": "2.65K",
       "posted_at": "2026-09-07T17:57:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229778",
@@ -422,7 +450,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.81K",
+      "views_label": "2.85K",
       "posted_at": "2026-09-07T17:50:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229777",
@@ -450,7 +478,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.75K",
+      "views_label": "2.78K",
       "posted_at": "2026-09-07T17:44:58+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229776",
@@ -2579,22 +2607,6 @@
       "posted_at": "2026-09-07T05:14:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229684",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229683",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>نفت به ۹۷ دلار نزدیک شد؛ چشم‌انداز هرمز تا سال ۲۰۲۷ مبهم است<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>قیمت نفت روز دوشنبه به رشد خود ادامه داد، پس از آنکه حملات متقابل آمریکا و جمهوری اسلامی به شناورها در تنگه هرمز نگرانی از اختلال طولانی عرضه خاورمیانه را تشدید کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>قراردادهای آتی نفت برنت ۵۲ سنت بالا رفت و به ۹۶ دلار و ۸۰ سنت در هر بشکه رسید. نفت وست تگزاس اینترمدییت آمریکا نیز با ۶۶ سنت رشد به ۹۲ دلار و ۱۴ سنت رسید.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>برنت هفته گذشته ۷ و هشت دهم درصد و دبلیوتی‌آی نزدیک ۱۰ درصد رشد کردند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>بر پایه تحلیل بانک ای‌ان‌زد، محتمل‌ترین سناریو رویارویی طولانی همراه با اقدام نظامی سنجیده دو طرف است. بر همین اساس، بازگشت به سطح تردد پیش از جنگ تا اواخر فصل نخست یا اوایل فصل دوم سال ۲۰۲۷ انتظار نمی‌رود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/oil-price-reaching-97-usd-per-barrel/8195026.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/oil-price-reaching-97-usd-per-barrel/8195026.html</a>",
-      "plain_text": "🔺نفت به ۹۷ دلار نزدیک شد؛ چشم‌انداز هرمز تا سال ۲۰۲۷ مبهم است\n\n▪️قیمت نفت روز دوشنبه به رشد خود ادامه داد، پس از آنکه حملات متقابل آمریکا و جمهوری اسلامی به شناورها در تنگه هرمز نگرانی از اختلال طولانی عرضه خاورمیانه را تشدید کرد.\n\n▪️قراردادهای آتی نفت برنت ۵۲ سنت بالا رفت و به ۹۶ دلار و ۸۰ سنت در هر بشکه رسید. نفت وست تگزاس اینترمدییت آمریکا نیز با ۶۶ سنت رشد به ۹۲ دلار و ۱۴ سنت رسید.\n\n▪️برنت هفته گذشته ۷ و هشت دهم درصد و دبلیوتی‌آی نزدیک ۱۰ درصد رشد کردند.\n\n▪️بر پایه تحلیل بانک ای‌ان‌زد، محتمل‌ترین سناریو رویارویی طولانی همراه با اقدام نظامی سنجیده دو طرف است. بر همین اساس، بازگشت به سطح تردد پیش از جنگ تا اواخر فصل نخست یا اوایل فصل دوم سال ۲۰۲۷ انتظار نمی‌رود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/oil-price-reaching-97-usd-per-barrel/8195026.html",
-      "media": [],
-      "reactions": [],
-      "views_label": "3.04K",
-      "posted_at": "2026-09-07T05:03:18+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229683",
       "reply": null
     }
   ]
