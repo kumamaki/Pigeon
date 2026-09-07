@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T08:32:16.339Z",
+  "fetched_at": "2026-09-07T08:37:25.532Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356093",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، با شوخی و طعنه به وضعیت بنزین در ایران، شادی می‌کند: «به من بنزین دادند». بسیاری از خودروها پس از ساعت‌ها معطلی در صف جایگاه سوخت، موفق به تهیه بنزین نمی‌شوند.",
+      "plain_text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، با شوخی و طعنه به وضعیت بنزین در ایران، شادی می‌کند: «به من بنزین دادند». بسیاری از خودروها پس از ساعت‌ها معطلی در صف جایگاه سوخت، موفق به تهیه بنزین نمی‌شوند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356093",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ldrlt6jIq6xx4EtvlOtYN9RqmesTSYYCN6uYb9tZtwepPLKMjdUu5Nf0iWfgF2Z2Qu22Q0m3E7v3BV_qmQ5WRv-cTqfoVHS-PXBU13yMmyKag3x64g_Bl2BbZi4KnXW-Wot30tPjVKG71-COo_B6T8cdlgzgz8WC4_n28RYdMWr478J28-q_7_zqT2ua88CPvt031KNK82m-E0XJg0-RIr19IxQoL3mCdWgdjXaJUCT6yRF711AQVOIl36OQtHii3Fc_h0deKp1JHBO9aU8j5D3j8OsIltJIj56t4pfrfMknrf1BFm9J_mmQXb4PAmZ_b51sNci_-sT_z08-bwLoBw",
+          "thumbnail_path": "channels/iranintltv/media/1a8d79003049e51d89aca2b6.jpg",
+          "thumbnail_sha256": "4a5c2a9155bfd5072838d0ac77f0ccce5854da9d2b73deeb9907560562ecaae3",
+          "duration_label": "0:12",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.07K",
+      "posted_at": "2026-09-07T08:34:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356093",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356092",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.26K",
+      "views_label": "8.39K",
       "posted_at": "2026-09-07T08:24:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356092",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.4K",
+      "views_label": "11.5K",
       "posted_at": "2026-09-07T08:18:37+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356091",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.6K",
+      "views_label": "15.7K",
       "posted_at": "2026-09-07T08:07:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356090",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.6K",
+      "views_label": "15.7K",
       "posted_at": "2026-09-07T08:03:15+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356089",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.6K",
+      "views_label": "16.7K",
       "posted_at": "2026-09-07T08:01:35+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356088",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.7K",
+      "views_label": "16.7K",
       "posted_at": "2026-09-07T07:58:54+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356087",
@@ -189,7 +217,7 @@
       "plain_text": "🎧نسخه صوتی اخبار بامدادی | دوشنبه ۱۶ شهریور\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "15.7K",
+      "views_label": "16.7K",
       "posted_at": "2026-09-07T07:56:15+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356086",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.8K",
+      "views_label": "18.8K",
       "posted_at": "2026-09-07T07:51:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356085",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.8K",
+      "views_label": "18.9K",
       "posted_at": "2026-09-07T07:47:39+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356084",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.1K",
+      "views_label": "25.1K",
       "posted_at": "2026-09-07T07:30:48+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356083",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.1K",
+      "views_label": "25.1K",
       "posted_at": "2026-09-07T07:27:15+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356082",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.3K",
+      "views_label": "28.3K",
       "posted_at": "2026-09-07T07:15:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356081",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.3K",
+      "views_label": "29.3K",
       "posted_at": "2026-09-07T07:06:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356079",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.5K",
+      "views_label": "33.5K",
       "posted_at": "2026-09-07T06:50:38+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356077",
@@ -469,7 +497,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.5K",
+      "views_label": "32.5K",
       "posted_at": "2026-09-07T06:50:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356076",
@@ -569,7 +597,7 @@
       "plain_text": "🗣روایت شما از شرایط زندگی و بحران اقتصادی- دوشنبه ۱۶ شهریور:\n\n🔹من یک دانشجوی ۲۰ ساله هستم. چند وقت دیگه دانشگاه‌ها باز می‌شه و من تن و بدنم می‌لرزه به‌خاطر هزینه‌هاش؛ تو خرج خوردوخوراک موندیم. هر صبح که پا می‌شم، چیزی جز عذاب و بدبختی نیست. کی این دوران سیاه تموم می‌شه؟\n\n🔹با این وضعیت گرونی می‌شه درس خوند؟ حساب کنید یه خودکار کیان آبی شده ۷۰ هزار تومان.\n\n🔹دولت از درآمد خودش مثل مالیات، پول آب برق گاز، گمرک، بنزین، هیچ‌جوره کوتاه نمیاد اما انتظار داره مردم کوتاه بیان!\n\n🔹گندم رو کیلویی ۴۹ تومن می‌برن و پولش رو دو ماهه نمی‌دن؛ این دیگه بی‌کفایتی نیست، یه مشت مسئول بی‌عرضه دارن با دسترنج کشاورز بازی می‌کنن.\n\n🔹تو تهران برق نیست، اینترنت ضعیفه و خیلی وقت‌ها قطعه، همه چی گرونه و شب‌ها پرچمی‌ها آرامشمون رو سلب می‌کنن.\n\n🔹از شیراز پیام می‌دم. رفتم داروخانه یه قرص چرک‌خشک‌کن برای سرماخوردگی بخرم، قیمتش شده ۱۳۰ هزار تومن؛ همین چند وقت پیش می‌خریدیم ۲۰ هزار تومن.\n\n🔹از همدان پیام می‌دم. مواد غذایی گرون شده و حجم‌شون کم؛ اندازه یه کیک رو نصف کردن، بسته همبرگر که ۶ تایی بود شده ۴ تا ۷۰۰ هزار تومن، پنیر پیتزا کیلویی یک میلیون.\n\n🔹گرونی وحشتناکه. الان وسط ماهه و من موندم با دو میلیون باقی مونده تو حسابم. باید چیکار کنم باهاش واقعاً.\n\n🔹از بندرعباس پیام می‌دم. قیمت برنج ۱۰‌ کیلویی مثل دلار ثانیه‌ای داره می‌ره بالا. قدرت خرید واقعا نداریم. یه پنل کولر ۱۲ هزار در حد نو رو می‌فروشن ۲۰‌ میلیون. از استرس و ترس، شب‌ها خواب نداریم.",
       "media": [],
       "reactions": [],
-      "views_label": "35.7K",
+      "views_label": "36.7K",
       "posted_at": "2026-09-07T06:26:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356072",
@@ -2721,34 +2749,6 @@
       "posted_at": "2026-09-06T13:27:14+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/355991",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/355990",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dua7-1F68YLJEFGTSTDkU4pbo7m29v_PUJo2Id0N3mpOijzM-Ub3dUhVIdGgiFiUhiPrQlMJKmZS7PXc6vsLzQw5lcMV_0vR2fRD2DKa3RDILk1oxcl2xdhmXItFOYchjDiDsgeLBQ_1T0LBPZcIoH3hZQWRinokn6_n3QMh3HeLQL1xTx-T4w5vhLmH_pMyugiDxZG96Q94OLXBePfpnJaSWRQdpdGWA29Z7E5pCPobtE0Sj7srHnvAGLaBDNDonYlFCLdCBSiGWmc2pRkrFtkr9og4kQ9w7KNWP8eu8Ze6jPWegnUYoPiQLkQNQtTHDMO_6IRz2XARr4G6gn_TuQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/ca7f2807f5839f47a1129d1b.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "میعاد ملکی، رییس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، درباره سیاست تازه دولت ترامپ برای هدف‌گیری صادرات نفت و همچنین زیرساخت‌های تولید و صادرات نفت جمهوری اسلامی گفت: «آنچه در حال اجراست، تنها محدود کردن فروش نفت نیست؛ بلکه نفتکش‌ها، مسیرهای انتقال و زیرساخت‌های تولید و صادرات نفت نیز هدف قرار گرفته‌اند. در کنار این فشارها، محدودیت بر واردات نیز در حال افزایش است و مجموع این اقدامات، اگرچه هنوز در مراحل ابتدایی قرار دارد، می‌تواند به فلج شدن بخش‌های مهمی از اقتصاد جمهوری اسلامی منجر شود.»<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "میعاد ملکی، رییس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، درباره سیاست تازه دولت ترامپ برای هدف‌گیری صادرات نفت و همچنین زیرساخت‌های تولید و صادرات نفت جمهوری اسلامی گفت: «آنچه در حال اجراست، تنها محدود کردن فروش نفت نیست؛ بلکه نفتکش‌ها، مسیرهای انتقال و زیرساخت‌های تولید و صادرات نفت نیز هدف قرار گرفته‌اند. در کنار این فشارها، محدودیت بر واردات نیز در حال افزایش است و مجموع این اقدامات، اگرچه هنوز در مراحل ابتدایی قرار دارد، می‌تواند به فلج شدن بخش‌های مهمی از اقتصاد جمهوری اسلامی منجر شود.»\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/355990",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/RGm2s58GQuHNMCYIbMCUyZAkr5DO3-EBZKmDiNznW2v8-KGkOOP3jHjpGKitq2gESvTC60zeOI57IYre7Oygwzjr-k3T9hbxb05I7HwT6XrJ0PEusp_fQrbUjlym_bRX0mXw3MTQ88KXW5DlqfNRbCAu6PM5WZ2OHON3zLcprFzIOYukzF3_8cWv6C2llcKAvpw0qvigLI90eDQjVa-kJFKhem5YLyAuGUETgTNrQ5_CsYSqtGSldo-lr4rIRPcNcyZ2Uu_ElmC4hIKjrMwnUHtUuYVJb8fyCkIM-6T8gW6zcSOq4jZoCuzjYBqjzwm79uJQkwouN3_mActo0ElC7Q",
-          "thumbnail_path": "channels/iranintltv/media/9311c7e004413e51bdf62b8a.jpg",
-          "thumbnail_sha256": "513d43d949383e6e86a70fa1017d858d41e98070c34b8b998b57891b17587847",
-          "duration_label": "5:31",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "38.3K",
-      "posted_at": "2026-09-06T13:22:16+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/355990",
       "reply": null
     }
   ]

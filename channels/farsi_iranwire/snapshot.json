@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T08:32:14.182Z",
+  "fetched_at": "2026-09-07T08:37:22.787Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93435",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "«سیامک مفیدی» و «سروش عنایتی»، دو نوجوان ۱۷ و ۱۶ ساله اهل تکاب، توسط نیروهای امنیتی جمهوری اسلامی بازداشت و برای بازجویی به مکانی نامعلوم در تهران منتقل شده‌اند.<br><br>«هرانا» امروز دوشنبه ۱۶شهریور۱۴۰۵، گزارش داد که نیروهای امنیتی شامگاه شنبه ۱۴شهریور، بدون ارائه حکم قضایی وارد محل سکونت این دو نوجوان در شهرستان تکاب شده و آن‌ها را بازداشت کرده‌اند. <br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157254\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157254</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "«سیامک مفیدی» و «سروش عنایتی»، دو نوجوان ۱۷ و ۱۶ ساله اهل تکاب، توسط نیروهای امنیتی جمهوری اسلامی بازداشت و برای بازجویی به مکانی نامعلوم در تهران منتقل شده‌اند.\n\n«هرانا» امروز دوشنبه ۱۶شهریور۱۴۰۵، گزارش داد که نیروهای امنیتی شامگاه شنبه ۱۴شهریور، بدون ارائه حکم قضایی وارد محل سکونت این دو نوجوان در شهرستان تکاب شده و آن‌ها را بازداشت کرده‌اند.\nبخوانید: https://iranwire.com/fa/news-1/157254\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93435",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/NARtMvfkovaRrlNA9LPh05QGKTAQHJIIsGZWMTcW80lPGJR1nFoSnQrvHihjFkHi5bAh0IhINybCtR2BbqTucCA3gXbl1Bpj7ErrRLDrle3iZU-MzSd0CKCT0bfVulOcRdEqdpf2Ul0qqNR9IgZ_NbH8GTLpjn5KzuQfCv4drOcOagu-KhqoWPy11vIqP6t48hp_PqtRB-3_nvIx6Dh7kHpf67TlQS3Ux89aXpvqJMGk913ege5fZhuwl8RpycjvgN6ae-AajtVYv5k7hIFNLNXq5adnfEfaTaLn4c-Re11lGIc-wOwG6E9A0ajIf9qUdM_K7omeYWimBiS-mAS4bw.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/40c2db7c9a93b8dea22fbbf3.jpg",
+          "thumbnail_sha256": "5557d176efd4ae2ddcf4a42a4939eaf16fa4171c2a3b2d41d5685352ad9d9b48",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-07T08:36:25+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93435",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93434",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "303",
+      "views_label": "342",
       "posted_at": "2026-09-07T08:02:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93434",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "311",
+      "views_label": "341",
       "posted_at": "2026-09-07T08:00:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93433",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "441",
+      "views_label": "470",
       "posted_at": "2026-09-07T07:43:45+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93432",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "572",
+      "views_label": "588",
       "posted_at": "2026-09-07T07:16:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93431",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "592",
+      "views_label": "605",
       "posted_at": "2026-09-07T07:05:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93430",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "735",
+      "views_label": "749",
       "posted_at": "2026-09-07T06:28:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93429",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.74K",
+      "views_label": "1.75K",
       "posted_at": "2026-09-06T14:28:33+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93418",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-04T10:11:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93335",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93334",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/L-i8b5V9xIgA88YBHLEUctA3K5L0fB69hAYkoRft-0UVJtaAnHU03fETwfydxrMtZ8M_vKBbbacap444mS3xZtRluI_3BA_zc4GZCBEv8TsZHDNhhBL_6gFT79je2k509097Ifq1A8CLfIydsjEBSplZp6dLBgLKkKTqtbbFRrWWm9iAtvPaZ9at1B-YsDW9Of1EBqYTV6LbEOZCaV15cCCjJTEwUlUtoCRqzyJTmJoqsDMDY7wM7qxgf7aG4TmjuUlM8fbsu7Fg7PTmdvqYeq9P8AOYraq2Jr5rGE_6-wv3iXnHfIGXSjE0-Z89LWq-Ci4YYzmfQ4tdetZ0G-iTNA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/8441f6253784e44bccb2a9c5.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "پویا ایدنی، استادبزرگ ۳۰ ساله شطرنج ایران، پس از سال‌ها حضور در رقابت‌های بین‌المللی با پرچم ایران، به‌طور رسمی فدراسیون خود را تغییر داد و از این پس با پرچم فرانسه مسابقه خواهد داد.<br>بیشتر: <a href=\"https://iranwire.com/fa/news-1/157148\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157148</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "پویا ایدنی، استادبزرگ ۳۰ ساله شطرنج ایران، پس از سال‌ها حضور در رقابت‌های بین‌المللی با پرچم ایران، به‌طور رسمی فدراسیون خود را تغییر داد و از این پس با پرچم فرانسه مسابقه خواهد داد.\nبیشتر: https://iranwire.com/fa/news-1/157148\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93334",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/kQu32NzY1h11bz5iEur4utl6klijA0ef05SskDMun1MRarugN4_CwwUL3zuIJlVRBflLSxQFnKKiP5NES18rPweM05NHzdvFn6LQIeHfgq5iDB2DZlhiv1G3Yad2p9KYAMEwcc3ESs_X_VhgGgWHpxFdruUqkGYgnMdyasfrqlVpnnudIfqyiq-mmCZAYEJJ6iEQTwYaKBGdUdxA7s5Q5IBocOdXQ0SWRdhaqxR9J8CuBeSO_aFfVdXsZBke9lzTb9UQrn-ARtzGEoOIlK7GppOhaIyIdY-PYpvKvPU9Jg6ucMFHLhqoayYnwThZwXyElyAHf2vjk4GVHp7y2oo5Ag.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/74967c443a8c181db750f76f.jpg",
-          "thumbnail_sha256": "e127ad5b7e4abca18c324b0d3d0a951a4d645e4991d45c11201af7303ac7d0da",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.35K",
-      "posted_at": "2026-09-04T09:57:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93334",
       "reply": null
     }
   ]
