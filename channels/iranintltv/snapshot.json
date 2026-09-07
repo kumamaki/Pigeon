@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T12:03:38.075Z",
+  "fetched_at": "2026-09-07T12:07:13.724Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,62 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356128",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "بر اساس اعلام مقام‌های دولت پزشکیان، نرخ بنزین ارایه‌شده با کارت جایگاه از سه‌شنبه ۱۷ شهریور به لیتری ۱۰ هزار تومان افزایش می‌یابد. در همین رابطه، معاون وزیر نفت گفت پس از اعلام گران شدن بنزین، جایگاه‌ها خلوت شده‌اند.<br><br>گفت‌وگو با مهتاب قلی‌زاده، روزنامه‌نگار اقتصادی",
+      "plain_text": "بر اساس اعلام مقام‌های دولت پزشکیان، نرخ بنزین ارایه‌شده با کارت جایگاه از سه‌شنبه ۱۷ شهریور به لیتری ۱۰ هزار تومان افزایش می‌یابد. در همین رابطه، معاون وزیر نفت گفت پس از اعلام گران شدن بنزین، جایگاه‌ها خلوت شده‌اند.\n\nگفت‌وگو با مهتاب قلی‌زاده، روزنامه‌نگار اقتصادی",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356128",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/dRE2Usn-W0i79olXa1VdeokqlM4jmiGw6UIqoEvDHAWPu1frfEdrLGwo3Km7pip1d3SOudy5oZhUr8eXNgww12OsMagDzPGkEibpkl5LDkHkTGlwyCDySYzBXldMZ3y9yQf7XyqC236IPFf4qVIZnuKLs4ugdkalMuJZtwO-dPeN0X-v6Or3TqCHl4AvcAN1PTm36GqW5L7QErSOWuWGUdQxcNoqAjUY0jnJXHXiGEbIPvxiwN7edSoGzMKMAcAR5ze2hmsmrbXo-S-b6GMCKWZb47rc_D_JuLB6jWI6xppgMUc2z3cRu7eGgXAVxmwL5MSFnBtbJurlgXpbTW5xIg",
+          "thumbnail_path": "channels/iranintltv/media/242f53fed21d1f715a06f0e8.jpg",
+          "thumbnail_sha256": "e071f85f796aeb82ad7d4e33bbbe943a8aeb9101ca253629a18a97e847bfd319",
+          "duration_label": "4:14",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "22",
+      "posted_at": "2026-09-07T12:06:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356128",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356127",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "مروری بر روزنامه‌های ایران، دوشنبه ۱۶ شهریور با مجتبی هاشمی، روزنامه‌نگار<br><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "مروری بر روزنامه‌های ایران، دوشنبه ۱۶ شهریور با مجتبی هاشمی، روزنامه‌نگار\n\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356127",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Vx6wShjpAv8SxUzuHCmluhi_gZ-hb7SSLXnI1J6c8c9xYmJ00ypXLSTY0B3MyucytVxtHrJQ1oulKfGsQJd-Uy5iszgaauJawM-A4btzgXuBhe3qGXM7dLgW0BXhtB-aza40cO1qeH-kbAmnBi-3-vB_0A5HonXigu_WIyf_mzqOaqv_tizwbr9Qp9LsHfP2JlCK9aCqe4DPZ27H_mBDhZdm-Og0_1hMU4pmcbwcARIXQu7KidzUcWCgOrjXKa2NMX0qiOzAo-MpbsPqhM99z_OBnLZFz5Wn4WTmLsmWJgjJAF_N-AfV_PF-aCYzH_PrUbFaEQ_ovvxqpE_OZGTeFQ",
+          "thumbnail_path": "channels/iranintltv/media/d0442bbaafb9fbb4eadcb9ee.jpg",
+          "thumbnail_sha256": "109f0ca4be949606f75c737f80a9d227eafcad0c461a59047a27e33c11a2b4ec",
+          "duration_label": "4:54",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.07K",
+      "posted_at": "2026-09-07T12:05:29+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356127",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356126",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10",
+      "views_label": "3.19K",
       "posted_at": "2026-09-07T12:02:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356126",
@@ -49,7 +105,7 @@
       "plain_text": "🗣روایت شما از افزایش لحظه‌ای قیمت‌ها و از دست رفتن امکان برنامه‌ریزی برای آینده- دوشنبه ۱۶ شهریور:\n\n🔹درآمدمان دیگر حتی به مواد غذایی نمی‌رسد، چه برسد به لوازم ضروری زندگی.\n\n🔹سال‌هاست دیگر برنامه‌ای برای آینده و حتی فردایمان نداریم و فقط تلاش می‌کنیم زنده بمانیم.\n\n🔹من معلمم و سال‌هاست نتوانسته‌ام گوشی‌ام رو عوض کنم. حتی مدل‌های پایین‌رده هم قابل خرید نیستن. با حقوق ۲۰ میلیونی دغدغه‌ام شده صرفا تامین خورد و خوراک.\n\n🔹از بی‌کفنی زنده‌ایم و چندین ساله شدیم مرده‌های متحرک. هیچ هدف و آینده‌ای نیست؛ درآمدها بسیار ناچیز و مخارج بسیار بالاست.\n\n🔹درگیر هزینه‌های روزمره‌ایم و فرصتی برای برنامه‌ریزی برای آینده برایمان باقی نمانده است.\n\n🔹پولی برای خرید لوازم مورد نیازمان نداریم و مواد غذایی را هم به سختی تامین می‌کنیم.\n\n🔹با حقوق ۲۰ میلیونی و این گرانی سرسام‌آور، امکان برنامه‌ریزی وجود ندارد.\n\n🔹نه برنامه‌ای مانده و نه آرزویی؛ فقط تلاش می‌کنیم زنده بمانیم.\n\n🔹هر بار که پول جمع می‌کنم، قیمت کالا آن‌قدر بالا می‌رود که دیگر توان خریدش را ندارم.\n\n🔹با افزایش روز به روز قیمت‌ها، دیگر توان خرید جهیزیه را ندارم.",
       "media": [],
       "reactions": [],
-      "views_label": "13.7K",
+      "views_label": "15.8K",
       "posted_at": "2026-09-07T11:39:58+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356125",
@@ -77,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16.8K",
+      "views_label": "17.9K",
       "posted_at": "2026-09-07T11:33:21+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356124",
@@ -105,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16.8K",
+      "views_label": "18.9K",
       "posted_at": "2026-09-07T11:30:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356123",
@@ -133,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.9K",
+      "views_label": "20K",
       "posted_at": "2026-09-07T11:24:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356122",
@@ -161,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19K",
+      "views_label": "20K",
       "posted_at": "2026-09-07T11:22:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356121",
@@ -189,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20K",
+      "views_label": "21.1K",
       "posted_at": "2026-09-07T11:16:42+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356120",
@@ -217,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19K",
+      "views_label": "21.1K",
       "posted_at": "2026-09-07T11:16:09+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356119",
@@ -245,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.3K",
+      "views_label": "25.3K",
       "posted_at": "2026-09-07T11:03:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356118",
@@ -273,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.2K",
+      "views_label": "24.2K",
       "posted_at": "2026-09-07T11:02:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356117",
@@ -289,7 +345,7 @@
       "plain_text": "🗣روایت شما از شرایط زندگی و بحران اقتصادی- دوشنبه ۱۶ شهریور:\n\n🔹در تهران اکثر پله‌برقی‌های متروها خرابند و روز به روز به تعداد پله‌های از کار افتاده اضافه می‌شه و مردم مجبورند هر روز در مسیرهای خود بیش از ۷۰ تا ۱۰۰ پله رو بالا و پایین کنند. هیچ اهتمامی هم برای تعمیر و راه‌اندازیشون نیست.\n\n🔹از شیراز پیام می‌دم. من ۲۷ سالمه، مشکل دیابت دارم، مجرد هستم، ۲۰ میلیون تومن حقوق می‌گیرم. الان با اوضاع ازدواج که یه آرزو شده، حتی برای دارو خریدن هم به مشکل خوردم.\n\n🔹از قزوین پیام می‌دم. وقتی اعتراضی به گرونی و زندگی سخت مردم می‌شه، می‌گیرن می‌برنت. اینجا حرف حساب جوابش چوب و چماقه.\n\n🔹من وانت دارم و کنار خیابان میوه می‌فروشم. هر بار که می‌رم میدان تره بار قیمت‌ها بالا رفته. باور کنید سود خیلی کمی می‌ذارم رو بار که مردم بتونن بخرن ولی بازم مردم قادر به خرید ارزان‌ترین نوع میوه هم نیستن. کلا میوه داره از سبد خانوار حذف می‌شه.\n\n🔹از شهرکرد پیام می‌دم. رفتم شیشه‌بالابر ماشینم را درست کنم، یک میلیون و ۸۵۰ هزار تومان ازم گرفت. دیگه کم آوردم.\n\n🔹من تو بازار موبایل فعالیت دارم. قیمت موبایل چند برابر شده. A07 که یه موبایل ضعیف و کم فروش بوده الان شده ۵۰ الی ۶۰ میلیون تومن. بازار ما که کساده ولی اونی که موبایل لازم داره چرا باید انقدر هزینه کنه وقتی حقوقش ۲۰ میلیونه.\n\n🔹در نور ایزدشهر مازندران هر روز حداقل ۵ بار به مدت حدوداً ۱۵ دقیقه آنتن سیم‌کارتمون و اینترنتمون به‌صورت کامل قطع می‌شه. یعنی روزانه حداقل یک ساعت آنتن و اینترنت نداریم. دارن از روش مدرن و پنهانی برای سرکوب مردم استفاده می‌کنند.\n\n🔹قیمت پمپ شیمی‌درمانی از تیرماه تا الان سه بار عوض شده. از ۸۰۰ هزار تومن تا یک میلیون و نیم. داروی وکتیبیکس مخصوص بیماران سرطانی هم دیگه توی بازار نیست. گفتن شاید مهرماه گیر بیاد.",
       "media": [],
       "reactions": [],
-      "views_label": "32.5K",
+      "views_label": "32.6K",
       "posted_at": "2026-09-07T10:39:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356116",
@@ -317,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.5K",
+      "views_label": "32.6K",
       "posted_at": "2026-09-07T10:35:26+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356115",
@@ -345,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.5K",
+      "views_label": "32.5K",
       "posted_at": "2026-09-07T10:35:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356114",
@@ -373,7 +429,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.8K",
+      "views_label": "39.8K",
       "posted_at": "2026-09-07T10:17:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356113",
@@ -401,7 +457,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45K",
+      "views_label": "45.1K",
       "posted_at": "2026-09-07T09:56:31+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356112",
@@ -429,7 +485,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.9K",
+      "views_label": "41.9K",
       "posted_at": "2026-09-07T09:55:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356111",
@@ -2681,62 +2737,6 @@
       "posted_at": "2026-09-06T17:46:47+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356025",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356024",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dua7-1F68YLJEFGTSTDkU4pbo7m29v_PUJo2Id0N3mpOijzM-Ub3dUhVIdGgiFiUhiPrQlMJKmZS7PXc6vsLzQw5lcMV_0vR2fRD2DKa3RDILk1oxcl2xdhmXItFOYchjDiDsgeLBQ_1T0LBPZcIoH3hZQWRinokn6_n3QMh3HeLQL1xTx-T4w5vhLmH_pMyugiDxZG96Q94OLXBePfpnJaSWRQdpdGWA29Z7E5pCPobtE0Sj7srHnvAGLaBDNDonYlFCLdCBSiGWmc2pRkrFtkr9og4kQ9w7KNWP8eu8Ze6jPWegnUYoPiQLkQNQtTHDMO_6IRz2XARr4G6gn_TuQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/ca7f2807f5839f47a1129d1b.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "در ادامه گزارش‌ها درباره اختلال گسترده در مرزهای زمینی و بحران تجارت خارجی ایران در پی محاصره دریایی، روزنامه شرق از خودداری برخی کشورهای همسایه از پذیرش محموله‌های ترانزیتی ایران خبر داده است.<br><br>اشکان نظام‌آبادی، روزنامه‌نگار اقتصادی، گفت با وجود افزایش هزینه‌های پرداختی جمهوری اسلامی برای حمل‌ونقل در بنادر جنوبی، کامیون‌های ایرانی همچنان در مرزها بلاتکلیف مانده‌اند. به گفته او، تهران نمی‌تواند روی ترانزیت بی‌قیدوشرط با اسلام‌آباد حساب کند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "در ادامه گزارش‌ها درباره اختلال گسترده در مرزهای زمینی و بحران تجارت خارجی ایران در پی محاصره دریایی، روزنامه شرق از خودداری برخی کشورهای همسایه از پذیرش محموله‌های ترانزیتی ایران خبر داده است.\n\nاشکان نظام‌آبادی، روزنامه‌نگار اقتصادی، گفت با وجود افزایش هزینه‌های پرداختی جمهوری اسلامی برای حمل‌ونقل در بنادر جنوبی، کامیون‌های ایرانی همچنان در مرزها بلاتکلیف مانده‌اند. به گفته او، تهران نمی‌تواند روی ترانزیت بی‌قیدوشرط با اسلام‌آباد حساب کند.\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356024",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/v0vcAOE1i0nXXA10mwo45qXuLMVte5AC5rHNcxvOtKmlMhqHmxMyNRfCFJ-KAcWsMLyloxfRAM3sJG3H4KNlczvqv26p3kCXmPbjjQAHiQnDhe59iLettrUf0Ov5NBSx7AOPl_ycOmYgFVGrw24DSaUfFkhon8MXAbxTRCzjEAdCQNi-HbzEvqMet8TNeujqeYrmQ3tgnYfvUISsMJDz1hVxqgH2XQ4UnO8iZ0Dz1JButyNHw3VstgTcq5OVgvnK9NHc14ytoztJgMCAe5a1vuJlRJXUZMRsyIBI_4qKmvsty1Cl7EUZ3Lw0EeI3b4acNFNjJTRMcPUDqYCIe2QOsg",
-          "thumbnail_path": "channels/iranintltv/media/3588f44afea37f11e751920a.jpg",
-          "thumbnail_sha256": "48c77d4074e6ee31c4e7a4b2a60740fffee4e3fd4c6873210e40d58f8e63f864",
-          "duration_label": "4:47",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "76.3K",
-      "posted_at": "2026-09-06T17:35:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356024",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356023",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dua7-1F68YLJEFGTSTDkU4pbo7m29v_PUJo2Id0N3mpOijzM-Ub3dUhVIdGgiFiUhiPrQlMJKmZS7PXc6vsLzQw5lcMV_0vR2fRD2DKa3RDILk1oxcl2xdhmXItFOYchjDiDsgeLBQ_1T0LBPZcIoH3hZQWRinokn6_n3QMh3HeLQL1xTx-T4w5vhLmH_pMyugiDxZG96Q94OLXBePfpnJaSWRQdpdGWA29Z7E5pCPobtE0Sj7srHnvAGLaBDNDonYlFCLdCBSiGWmc2pRkrFtkr9og4kQ9w7KNWP8eu8Ze6jPWegnUYoPiQLkQNQtTHDMO_6IRz2XARr4G6gn_TuQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/ca7f2807f5839f47a1129d1b.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>تیم‌های فوتبال استقلال و آلومینیوم در جریان هفته ششم لیگ برتر به تساوی بدون گل رسیدند. با این تساوی هر دو تیم ۱۲ امتیازی شدند، استقلال اما با تفاضل گل بهتر در رده دوم جدول و آلومینیوم در جایگاه سوم باقی ماند. تراکتور صدرنشین بلامنازع لیگ برتر است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>اگر فردا پرسپولیس، ذوب آهن را شکست دهد، با ۱۳ امتیاز به رده دوم جدول صعود می‌کند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>استقلال و آلومینیوم با این مساوی، همچنان روند نباختن خود را حفظ کردند، همچون تراکتور و فجرسپاسی که تاکنون شکست نخورده‌اند.<br><br><a href=\"https://t.me/iranintltvsport\" target=\"_blank\">@iranintltvsport</a>",
-      "plain_text": "🔻تیم‌های فوتبال استقلال و آلومینیوم در جریان هفته ششم لیگ برتر به تساوی بدون گل رسیدند. با این تساوی هر دو تیم ۱۲ امتیازی شدند، استقلال اما با تفاضل گل بهتر در رده دوم جدول و آلومینیوم در جایگاه سوم باقی ماند. تراکتور صدرنشین بلامنازع لیگ برتر است.\n\n🔹اگر فردا پرسپولیس، ذوب آهن را شکست دهد، با ۱۳ امتیاز به رده دوم جدول صعود می‌کند.\n\n🔹استقلال و آلومینیوم با این مساوی، همچنان روند نباختن خود را حفظ کردند، همچون تراکتور و فجرسپاسی که تاکنون شکست نخورده‌اند.\n\n@iranintltvsport",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356023",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/tQ4NGHFpUyiJarpFOlvKTwj1AbDWGL7CVlKuRfd39nQZdjkdwnzioqVbl7FwqyAeN08N-deXAA5esZUkvt7Im-Jy62fiK8tKNB4UjF_HI6FiyK2wKp_Kti0ki9Ju4CW3ml7fQV0ddaN0Q1uEUvGi-l0fOF0cBG3oYvI3l6bkW4Rir1WdhVFe-g_KZsaS0b20ZCNSkMXUGPGUP1zSQl7NH935I4mBkuV7jvL65hkviVUp3PbKK41bmBytIDspHkNvoMH6GIzM8U300h3T-MOnDJVKOFxRWUcyi4uvVm89r42plveTEsWJM6Ygf7Rdshrm3Az1fbg8ryaoZyquraqbfw.jpg",
-          "thumbnail_path": "channels/iranintltv/media/3055be5f61a804e65e388b00.jpg",
-          "thumbnail_sha256": "4204ae454e1e6d4f39b11984e703b9e1773222709f340ade6c5594541a2798fe",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "76.9K",
-      "posted_at": "2026-09-06T17:28:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356023",
       "reply": null
     }
   ]
