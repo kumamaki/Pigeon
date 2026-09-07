@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T11:12:34.443Z",
+  "fetched_at": "2026-09-07T11:17:20.062Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93442",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "دو عضو تیم ملی فوتبال زنان ایران که در استرالیا پناهندگی گرفته‌اند، برای نخستین‌بار در یک گفت‌وگوی رسمی تایید کردند که خودداری آن‌ها از خواندن سرود جمهوری اسلامی در جام ملت‌های آسیا، اقدامی اعتراضی و برای همراهی با معترضان در ایران بوده است.<br><br>«عاطفه رمضانی‌صادق»، ۳۴ ساله، و «فاطمه پسندیده»، ۲۲ ساله، در نخستین گفت‌وگوی رسانه‌ای خود با برنامه «۶۰ دقیقه» شبکه ۹ استرالیا، درباره تصمیم خود برای سکوت هنگام پخش سرود جمهوری اسلامی توضیح دادند. <br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157268\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157268</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "دو عضو تیم ملی فوتبال زنان ایران که در استرالیا پناهندگی گرفته‌اند، برای نخستین‌بار در یک گفت‌وگوی رسمی تایید کردند که خودداری آن‌ها از خواندن سرود جمهوری اسلامی در جام ملت‌های آسیا، اقدامی اعتراضی و برای همراهی با معترضان در ایران بوده است.\n\n«عاطفه رمضانی‌صادق»، ۳۴ ساله، و «فاطمه پسندیده»، ۲۲ ساله، در نخستین گفت‌وگوی رسانه‌ای خود با برنامه «۶۰ دقیقه» شبکه ۹ استرالیا، درباره تصمیم خود برای سکوت هنگام پخش سرود جمهوری اسلامی توضیح دادند.\nبخوانید: https://iranwire.com/fa/news-1/157268\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93442",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/CUzqRRHWEMPoFzHiKBcBaVRHIbpLZVg_1C4DOzi4MKsVHPvOTJgJQ0jevaVZa_ZDBY4S6jEQASbD-PvKcguRXzMTaVzqAe3f8CPGyJJv_kRFgdXrPogmu5g_RcAO4o8gSz0HpNcNJo8kGISWCWNpQwdKhN2vwxxVurM5HflSaITPC2Q9A0hgdLEdsAUN9rUTCYlza-XK-HLD4nOxFg7xd6fUoYkmLbOVQus-ouwBXIw83YH1L6gSRd7als6BZODTpc5yb2pKdGJgKCHTy_2PMmwMfPXMhPPLv904OdDagB99tHQDAVvICUWfKUQ1msFCzjSJKCYK3VpebZHj1wRXqg.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/e2215f10c9a6290ac9c0a6eb.jpg",
+          "thumbnail_sha256": "d08eed0132eaf7be32a829659334940b82ae71d0c10bc39179742bffb4d30ef7",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "68",
+      "posted_at": "2026-09-07T11:15:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93442",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93441",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "207",
+      "views_label": "264",
       "posted_at": "2026-09-07T10:55:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93441",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "244",
+      "views_label": "286",
       "posted_at": "2026-09-07T10:52:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93440",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "323",
+      "views_label": "357",
       "posted_at": "2026-09-07T10:45:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93439",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "310",
+      "views_label": "335",
       "posted_at": "2026-09-07T10:43:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93438",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "615",
+      "views_label": "636",
       "posted_at": "2026-09-07T09:53:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93437",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "605",
+      "views_label": "625",
       "posted_at": "2026-09-07T09:44:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93436",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "803",
+      "views_label": "818",
       "posted_at": "2026-09-07T08:36:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93435",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "920",
+      "views_label": "932",
       "posted_at": "2026-09-07T08:02:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93434",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "793",
+      "views_label": "801",
       "posted_at": "2026-09-07T08:00:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93433",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "889",
+      "views_label": "897",
       "posted_at": "2026-09-07T07:43:45+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93432",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "960",
+      "views_label": "968",
       "posted_at": "2026-09-07T07:16:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93431",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "952",
+      "views_label": "964",
       "posted_at": "2026-09-07T07:05:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93430",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.06K",
+      "views_label": "1.07K",
       "posted_at": "2026-09-07T06:28:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93429",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.79K",
+      "views_label": "1.8K",
       "posted_at": "2026-09-06T19:59:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93428",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.9K",
+      "views_label": "1.91K",
       "posted_at": "2026-09-06T19:13:45+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93427",
@@ -509,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.38K",
+      "views_label": "1.39K",
       "posted_at": "2026-09-06T18:35:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93424",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-04T13:49:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93342",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93341",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/L-i8b5V9xIgA88YBHLEUctA3K5L0fB69hAYkoRft-0UVJtaAnHU03fETwfydxrMtZ8M_vKBbbacap444mS3xZtRluI_3BA_zc4GZCBEv8TsZHDNhhBL_6gFT79je2k509097Ifq1A8CLfIydsjEBSplZp6dLBgLKkKTqtbbFRrWWm9iAtvPaZ9at1B-YsDW9Of1EBqYTV6LbEOZCaV15cCCjJTEwUlUtoCRqzyJTmJoqsDMDY7wM7qxgf7aG4TmjuUlM8fbsu7Fg7PTmdvqYeq9P8AOYraq2Jr5rGE_6-wv3iXnHfIGXSjE0-Z89LWq-Ci4YYzmfQ4tdetZ0G-iTNA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/8441f6253784e44bccb2a9c5.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "حسن روحانی، رئیس‌جمهور پیشین ایران، در بخشی از سخنان خود به نقد جدی عملکرد رسانه ملی، نهادهای حاکمیتی و رفتار مسئولان با مردم پرداخت.<br>روحانی تاکید می‌کند که اگر صداوسیما و رسانه‌ها با زبان نرم، منطقی و در چارچوب درست با جامعه صحبت نکنند، مخاطبان خود را از دست خواهند داد. به گفته او، مردم دیگر حوصله و اعصاب شنیدن ادبیات تند و درشت را ندارند.<br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "حسن روحانی، رئیس‌جمهور پیشین ایران، در بخشی از سخنان خود به نقد جدی عملکرد رسانه ملی، نهادهای حاکمیتی و رفتار مسئولان با مردم پرداخت.\nروحانی تاکید می‌کند که اگر صداوسیما و رسانه‌ها با زبان نرم، منطقی و در چارچوب درست با جامعه صحبت نکنند، مخاطبان خود را از دست خواهند داد. به گفته او، مردم دیگر حوصله و اعصاب شنیدن ادبیات تند و درشت را ندارند.\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Farsi_Iranwire/93341",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/RDfsmJto2lZgpC4t6VKOymOWIZCFkaQZ5hL1otzDr3UxpgBzQLtHJP7XzsBcoIWYtuHbR5sTVC6cNz3Z3WWvoxkF7ctYAS0_WLWBtMA0HPfwsTpb1yi-OiWncfB7UOOWVd20r9r519lIqaUOOnbQLZ1J3SgxMpzd8M4Nq50laWPDTh99cSiPaypyNlrhJlvB1d1S7-GRoVAxTV4iJJ48qh-9DJJhbst6YldzuuW6spbQlzs2R5IQE2BkRHW8Cx4xQWOBtJzcI7Ce8mR0QrrAv2MVjJL8B49a4tyVAQ0BtUVpR6FlrTi32zWEj2FhLXZ-rjBeoFzt_PRyCC6Sj5QF0A",
-          "thumbnail_path": "channels/farsi_iranwire/media/a6199bef776069f8538eaa82.jpg",
-          "thumbnail_sha256": "41c0fd9a290ef6a8f5241c2d417f38a7aafb6e5214e678aeca907f1b7dc4900b",
-          "duration_label": "4:13",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.41K",
-      "posted_at": "2026-09-04T13:02:30+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93341",
       "reply": null
     }
   ]
