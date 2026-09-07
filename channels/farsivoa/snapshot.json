@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T10:52:10.091Z",
+  "fetched_at": "2026-09-07T10:59:17.392Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229712",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "سرمایه‌گذار اسرائیلی اورلیوس کپیتال و ایالت زاکسن سفلای آلمان قصد دارند یکی از کارخانه‌های خودروسازی فولکس‌واگن را در اختیار بگیرند و برای پروژه‌های دفاعی بازسازی کنند.<br><br>بر پایه اعلام فولکس‌واگن، تفاهم‌نامه روز دوشنبه امضا شد و اورلیوس سهامدار اکثریت کارخانه اوسنابروک می‌شود. تولید خودرو در این کارخانه تا سال ۲۰۲۷ به‌تدریج متوقف می‌شود.<br><br>بزرگ‌ترین خودروساز اروپا اعلام کرد نخستین «پروژه لنگر» اوسنابروک، همکاری با شرکت اسرائیلی رافائل سیستم‌های دفاعی پیشرفته خواهد بود.<br><br>فولکس‌واگن افزود: «این طرح‌ها ساخت احتمالی سامانه‌ها و قطعات سامانه‌های پدافند هوایی برای آلمان و اروپا را در بر می‌گیرد.»<br><br>ایالت زاکسن سفلی دومین سهامدار بزرگ فولکس‌واگن است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "سرمایه‌گذار اسرائیلی اورلیوس کپیتال و ایالت زاکسن سفلای آلمان قصد دارند یکی از کارخانه‌های خودروسازی فولکس‌واگن را در اختیار بگیرند و برای پروژه‌های دفاعی بازسازی کنند.\n\nبر پایه اعلام فولکس‌واگن، تفاهم‌نامه روز دوشنبه امضا شد و اورلیوس سهامدار اکثریت کارخانه اوسنابروک می‌شود. تولید خودرو در این کارخانه تا سال ۲۰۲۷ به‌تدریج متوقف می‌شود.\n\nبزرگ‌ترین خودروساز اروپا اعلام کرد نخستین «پروژه لنگر» اوسنابروک، همکاری با شرکت اسرائیلی رافائل سیستم‌های دفاعی پیشرفته خواهد بود.\n\nفولکس‌واگن افزود: «این طرح‌ها ساخت احتمالی سامانه‌ها و قطعات سامانه‌های پدافند هوایی برای آلمان و اروپا را در بر می‌گیرد.»\n\nایالت زاکسن سفلی دومین سهامدار بزرگ فولکس‌واگن است.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229712",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/jpN9UqWXC13UoOdh78_dznUtFD8j0FKjuQQNMOXfSkFNGZiqd_HIKMx727UyHqGS2A0TI6sf8_WNOq1XstkQvSekps-S9PsPASIEQBIQQPz7NwqN9SzsXneEcWsFfyOMiw_1bFhLN6pBnCHiBW1hgbHxLhBfZOLT6K0IlnYC_R9pq0aN80eVyuShAKpxoLM1dGLn-Qkp3i9V8mgKKrPjJuS60FcognthJkNzL0PiSbhp4CfBznfBJ3BQuxkmt-aML3_-GMajKVFwSIOhseGmVqhvfg1EbYaXXlT4BR09zpkYy6RVt1BrPCAkaE9zTyRFZgWTBL2WntSzsQr7qfEwbQ.jpg",
+          "thumbnail_path": "channels/farsivoa/media/7fad1820d4aa3a0fd330e6fb.jpg",
+          "thumbnail_sha256": "a6752f56eb7f37ee9e287656157175c48163d9f74a159f45fee75e780d900c51",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "96",
+      "posted_at": "2026-09-07T10:57:40+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229712",
+      "reply": null
+    },
     {
       "id": "farsivoa/229711",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "189",
+      "views_label": "499",
       "posted_at": "2026-09-07T10:48:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229711",
@@ -49,7 +77,7 @@
       "plain_text": "🔺ثبت ده‌ها مورد نقض حقوق زنان طی یک ماه در ایران\n\n▪️سازمان حقوق بشری هه‌نگاو می‌گوید در ماه اوت ۲۰۲۶، دست‌کم ۲۰ زن فعال در ایران بازداشت و ۲۶ زن نیز به احکام قضایی، از جمله اعدام و حبس، محکوم شده‌اند.\n\n▪️براساس گزارش هه‌نگاو در همین مدت دست‌کم ۱۹ مورد زن‌کشی در شهرهای مختلف ایران ثبت شده و حکم اعدام شش زن نیز در زندان‌های جمهوری اسلامی اجرا شده است.\n\n▪️بر پایه آمار مرکز آمار و اسناد هه‌نگاو، دست‌کم ۲۰ فعال زن در ماه اوت توسط نهادهای سرکوب در جمهوری اسلامی بازداشت شده‌اند. این تعداد حدود ۱۷ درصد از کل بازداشت‌شدگان ثبت‌شده در این ماه را تشکیل می‌دهد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/dozens-of-women-rights-violations-recorded-in-iran-in-one-month/8195034.html",
       "media": [],
       "reactions": [],
-      "views_label": "702",
+      "views_label": "920",
       "posted_at": "2026-09-07T10:34:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229710",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.02K",
+      "views_label": "1.17K",
       "posted_at": "2026-09-07T10:23:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229709",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.39K",
+      "views_label": "1.52K",
       "posted_at": "2026-09-07T10:08:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229708",
@@ -121,7 +149,7 @@
       "plain_text": "🔺مشاور رئیس امارات متحده عربی: بازسازی اعتماد با جمهوری اسلامی دهه‌ها طول می‌کشد\n\n▪️مشاور رئیس امارات متحده عربی، گفت رابطه کارکردی با جمهوری اسلامی قابل ترمیم است، اما بازسازی اعتماد ممکن است دهه‌ها طول بکشد.\n\n▪️انور قرقاش، روز دوشنبه در انجمن حیلی در ابوظبی گفت: «رابطه کارکردی با ایران می‌تواند و باید بازسازی شود، اما بازسازی اعتماد مسئله دیگری است.»\n\n▪️قرقاش اعلام کرد امارات مسیرهای جایگزینی برای صادرات انرژی و تجارت خود می‌سازد. او گفت: «صادرات انرژی ما گروگان گرفته نمی‌شود، همچنین تجارت و فعالیت اقتصادی‌مان.»\n\n▪️بر پایه گفته او، امارات ظرفیت بنادر ساحل شرقی خود و نیز خطوط لوله، راه‌آهن و مسیرهای تجاری را برای ایجاد کریدورهای جایگزین گسترش داده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195033.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.59K",
+      "views_label": "1.69K",
       "posted_at": "2026-09-07T09:59:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229707",
@@ -149,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.72K",
+      "views_label": "1.82K",
       "posted_at": "2026-09-07T09:50:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229706",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.75K",
+      "views_label": "1.88K",
       "posted_at": "2026-09-07T09:43:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229705",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.19K",
+      "views_label": "2.29K",
       "posted_at": "2026-09-07T09:19:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229704",
@@ -221,7 +249,7 @@
       "plain_text": "🔺دو فوتبالیست زن ایرانی پناهنده: به کشتن مردم توسط حکومت اعتراض داشتیم\n\n▪️دو عضو تیم ملی فوتبال زنان ایران که در استرالیا پناهندگی گرفتند، تأیید کردند خودداری‌شان از خواندن سرود ملی در جام ملت‌های آسیا اعتراض به جمهوری اسلامی بود.\n\n▪️عاطفه رمضانی‌صادق ۳۴ ساله و فاطمه پسندیده ۲۲ ساله نخستین گفت‌وگوی رسانه‌ای خود را با برنامه «۶۰ دقیقه» شبکه ۹ استرالیا انجام دادند. در این مصاحبه که روز یکشنبه پخش شد آنها نسبت به کشته شدن مردم معترض به دست جمهوری اسلامی اعتراض کردند.\n\n▪️در همین رابطه رمضانی‌صادق گفت: «فقط می‌خواستیم کنار مردممان بایستیم. گاهی می‌ترسیدم، اما تلاش کردم کار درست را انجام دهم و بگویم هیچ‌کس نباید صرفاً برای اعتراض کشته شود.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/iranian-soccer-players-who-sought-asylum-in-australia-say-anthem-silence-was-protest/8195031.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.54K",
+      "views_label": "2.64K",
       "posted_at": "2026-09-07T08:58:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229703",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.35K",
+      "views_label": "2.41K",
       "posted_at": "2026-09-07T08:50:14+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229702",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.38K",
+      "views_label": "2.44K",
       "posted_at": "2026-09-07T08:33:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229701",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.46K",
+      "views_label": "2.53K",
       "posted_at": "2026-09-07T08:21:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229700",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.56K",
+      "views_label": "2.63K",
       "posted_at": "2026-09-07T08:02:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229699",
@@ -365,7 +393,7 @@
       "plain_text": "🔺احتمال خاموشی در زمستان؛ معاون وزیر نیرو از «سال دشوار» خبر داد\n\n▪️معاون برق و انرژی وزارت نیرو هشدار داد کشور به دلیل ناترازی باقی‌مانده در بخش گاز و آسیب‌های وارد‌شده به زنجیره تأمین سوخت، احتمالاً سال دشواری را در پیش دارد.\n\n▪️مصطفی رجبی مشهدی این موضوع را در گفت‌وگو با روزنامه ایران گفت و تاکید کرد نیروگاه‌های حرارتی در زمستان برای تولید برق وابستگی بالایی به گاز دارند. رسانه‌ها با اتکا بر اعتراف معاون وزیر نیرو از احتمال بروز خاموشی در زمستان خبر داده و نوشتند بحران تامین انرژی در کشور حادتر خواهد شد.\n\n▪️در صورت کمبود گاز، نیروگاه‌ها ممکن است ناچار به استفاده بیشتر از سوخت‌های مایع شوند؛ اقدامی که افزون بر دشواری تأمین و حمل، آثار زیست‌محیطی نیز به همراه دارد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/deputy-minister-of-energy-warns-of-difficult-year-and-possibility-of-winter-blackout/8195028.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.6K",
+      "views_label": "2.66K",
       "posted_at": "2026-09-07T07:47:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229697",
@@ -393,7 +421,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.57K",
+      "views_label": "2.64K",
       "posted_at": "2026-09-07T07:37:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229696",
@@ -421,7 +449,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.66K",
+      "views_label": "2.73K",
       "posted_at": "2026-09-07T07:27:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229695",
@@ -449,7 +477,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.67K",
+      "views_label": "2.7K",
       "posted_at": "2026-09-07T07:16:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229694",
@@ -477,7 +505,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.65K",
+      "views_label": "2.71K",
       "posted_at": "2026-09-07T07:04:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229693",
@@ -505,7 +533,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.73K",
+      "views_label": "2.77K",
       "posted_at": "2026-09-07T06:53:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229692",
@@ -2385,34 +2413,6 @@
       "posted_at": "2026-09-06T13:01:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229612",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229611",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/cQgmNvY74QjMaJtRlGlAgwARq80-ngAFt95OGdUvawYpXRlgX1I0clW8a36_0wg0KQW01LJ0WQu9BqpST7mohIffbNUFA69ex-Lkf6Uxm-tRC9fnRtAzxAzkh0gbyyb0gskR6k6eYyyxmBrreDKOZ3GI717bPZ9fXIO5OPouQSOk6lXWlHM6cd2P_frgT1Wg5WzirdR4Wrxa3cFM5EbbDLoQnZesAGGbAJQC-7-_M1BM1x6rMu_j7_nT_BryWHEWoQu34Hwt3C5O6uTaZY0PWF5cpl7--mPsz-xFvsqjpvn05avmOnilCpREWkKLcCK4OERe7ekk1gf0pDPtLCNTyg.jpg",
-      "author_photo_path": "channels/farsivoa/media/0abbb3eafc2bacb0efcb50a7.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "روز یکشنبه ۱۵ شهریور ۱۴۰۵ گروهی از بازنشستگان تأمین اجتماعی در تهران با تجمع، خواستار اجرای کامل بندهای ۹۶ و ۱۱۱ قانون تأمین اجتماعی، اصلاح احکام مربوط به متناسب‌سازی حقوق، افزایش مستمری، رسیدگی به مشکلات معیشتی و درمانی خود و لغو حکم اعدام شدند.",
-      "plain_text": "روز یکشنبه ۱۵ شهریور ۱۴۰۵ گروهی از بازنشستگان تأمین اجتماعی در تهران با تجمع، خواستار اجرای کامل بندهای ۹۶ و ۱۱۱ قانون تأمین اجتماعی، اصلاح احکام مربوط به متناسب‌سازی حقوق، افزایش مستمری، رسیدگی به مشکلات معیشتی و درمانی خود و لغو حکم اعدام شدند.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229611",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/k67QxUT9yOO1xfs58ujpGX4vG0q_C-XEh37MSvOg8DS4hO6I1rpFkUO4b32erfX7V7gmzG8FdfW369g-ho28wYgCa0fLoAGTU3axQRSPPWxaSs_wxwmCa4wnffAe_WavJK9G1I_NfYqroYJ0O_hZ-vGEuxT6_mGoXzG_EgYWxaeYo0inHvS1dmlU7XpAnKTGiEPsAIHK0xFBayD-5mhz4yQFNr55vbAuxM4QzvPRPQR-WP3pz6UEK5sX_6f2v6R19_1-fes9LAokuHe96TcytzqdA99pmO6YTjhWjJo5WhtTA-sMgzKtTWYEQjN06BdCk4By-fVZSYyu5AyBMNqnSg",
-          "thumbnail_path": "channels/farsivoa/media/d88ed0825d3821d32a0d3d51.jpg",
-          "thumbnail_sha256": "3e19a232a2de23af5d8daf89a33b94cfc2d7289c9c240f5e59cf4b3839a04a19",
-          "duration_label": "0:42",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.95K",
-      "posted_at": "2026-09-06T12:56:14+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229611",
       "reply": null
     }
   ]

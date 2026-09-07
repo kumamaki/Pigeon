@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T10:52:09.214Z",
+  "fetched_at": "2026-09-07T10:59:17.354Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,62 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93441",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "«اسماعیل بقائی»، سخنگوی وزارت امور خارجه جمهوری اسلامی، به کره جنوبی درباره مشارکت احتمالی این کشور در عملیات نظامی در خلیج فارس و تنگه هرمز هشدار داده و گفته است چنین اقدامی «پیامدهای جدی» برای سئول به همراه خواهد داشت.<br><br>بقائی دوشنبه ۱۶شهریور۱۴۰۵، در پیامی به دو زبان کره‌ای و انگلیسی در شبکه اجتماعی «ایکس» نوشت که جمهوری اسلامی مشارکت کره جنوبی در چنین عملیاتی را به‌منزله حمایت و مشارکت در آنچه «تهاجم آمریکا» خواند، تلقی خواهد کرد.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157263\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157263</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "«اسماعیل بقائی»، سخنگوی وزارت امور خارجه جمهوری اسلامی، به کره جنوبی درباره مشارکت احتمالی این کشور در عملیات نظامی در خلیج فارس و تنگه هرمز هشدار داده و گفته است چنین اقدامی «پیامدهای جدی» برای سئول به همراه خواهد داشت.\n\nبقائی دوشنبه ۱۶شهریور۱۴۰۵، در پیامی به دو زبان کره‌ای و انگلیسی در شبکه اجتماعی «ایکس» نوشت که جمهوری اسلامی مشارکت کره جنوبی در چنین عملیاتی را به‌منزله حمایت و مشارکت در آنچه «تهاجم آمریکا» خواند، تلقی خواهد کرد.\nبخوانید: https://iranwire.com/fa/news-1/157263\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93441",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/X5C2QDxYJvpVULEhQxmsXZv_WB4UlRfEew4BHUqtasXBzJV4EDlQ7XDQckF8oE-ObApaIHkBLTxNhP0ULJTqir4lqM-4HeR-MmbipWhZz4I5jyXPAlIktSxM6GjJGdoDl_kgJX9gXC-J1i7mCczzhRpgcuP68DzoNDzqEx-JvfAzi0mbq4L6v-am2NuGef-dopnb7SOgHf8rzzyVObO6r0Wmxyoo5MMIUr8IGxGmObPOW5A9J0q7nMzuWg5Qe3fO9nbn5GA-EFfiest23klQKXo4mcx6en9sUvTBnSB0sw0SeE6bWemJtv_cUohttD0DgFPZrW5UgLFQN0f_z6IgLQ.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/d2a86009ea74104c1478e6b0.jpg",
+          "thumbnail_sha256": "1065c244be5d6b302de85fc0f4f388979a4893562f93dd3ca27dd8c4095e1a9a",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "93",
+      "posted_at": "2026-09-07T10:55:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93441",
+      "reply": null
+    },
+    {
+      "id": "Farsi_Iranwire/93440",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "دیشب، شامگاه یکشنبه و بعد از اعلام دولت که گفت ارایه نرخ سوم بنزین با نرخ ۱۰هزار تومان از بامداد سه‌شنبه ۱۷شهریورماه آغاز می‌شود، در شهرهای مختلف، صف‌های طولانی جلوی پمپ‌بنزین‌ها تشکیل شد. بنابر گزارش‌های دریافتی، در بسیاری از مناطق تهران، شهر قفل شد. ساعت اعلام اجرایی شدن گرانی نرخ سوم بنزین، یکی از مسایلی‌ بود که کاربران شبکه‌های اجتماعی به آن اعتراض داشتند. غروب، قفل شدن شهر و صف‌های طولانی بنزین. شهروندخبرنگار ایران‌وایر، با ارسال فایلی شنیداری، از فضای تهران در شامگاه یکشنبه ۱۵شهریور۱۴۰۵، گزارش داده است.<br>گزارش شنیداری شهروندخبرنگار ایران‌وایر در بخش خبری ظهر دوشنبه ۱۶شهریور۱۴۰۵ از تلویزیون ایران‌وایر پخش شده است.<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "دیشب، شامگاه یکشنبه و بعد از اعلام دولت که گفت ارایه نرخ سوم بنزین با نرخ ۱۰هزار تومان از بامداد سه‌شنبه ۱۷شهریورماه آغاز می‌شود، در شهرهای مختلف، صف‌های طولانی جلوی پمپ‌بنزین‌ها تشکیل شد. بنابر گزارش‌های دریافتی، در بسیاری از مناطق تهران، شهر قفل شد. ساعت اعلام اجرایی شدن گرانی نرخ سوم بنزین، یکی از مسایلی‌ بود که کاربران شبکه‌های اجتماعی به آن اعتراض داشتند. غروب، قفل شدن شهر و صف‌های طولانی بنزین. شهروندخبرنگار ایران‌وایر، با ارسال فایلی شنیداری، از فضای تهران در شامگاه یکشنبه ۱۵شهریور۱۴۰۵، گزارش داده است.\nگزارش شنیداری شهروندخبرنگار ایران‌وایر در بخش خبری ظهر دوشنبه ۱۶شهریور۱۴۰۵ از تلویزیون ایران‌وایر پخش شده است.\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Farsi_Iranwire/93440",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/DuivwlqTX7rRN9Osi2hCKlW82-axISgn-TpsFnne8h8LQLC_PwB1BP8xQZ4Ivcz1GHzlHZlmv-_5XaI9hvwTC5QHQc1bLZNdaV3JGc6549ofnb9bcaxse-4o8wjNKCBt_jeaBkNPiLYGeFTxAOfKdugft85Z5pDtabZo0ip1lOz8IU6Vw4ADvD_bBcIrijHAtMiq7hGR8lN_sF3Wf-0bogFIphsF5E08oKVMnyJAyPXyGTbS7aLRS_w4AlEqheoJb12E7WrjPU-s5NhEzsK0n962gOixsuQh3duDHs5lyci5dubeRQu58rOYqRHEGNHPt-6p-uHmyiBuDl914o2Ehw",
+          "thumbnail_path": "channels/farsi_iranwire/media/04576ab450e04cd23cfc80a0.jpg",
+          "thumbnail_sha256": "5d5dea3ffbf947329874b8378902ff0ec9c9b7a525fb1f3abb6198893e0752f8",
+          "duration_label": "3:05",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "158",
+      "posted_at": "2026-09-07T10:52:14+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93440",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93439",
       "author_name": "Iranwire",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "140",
+      "views_label": "246",
       "posted_at": "2026-09-07T10:45:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93439",
@@ -61,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "152",
+      "views_label": "246",
       "posted_at": "2026-09-07T10:43:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93438",
@@ -89,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "512",
+      "views_label": "574",
       "posted_at": "2026-09-07T09:53:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93437",
@@ -117,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "519",
+      "views_label": "566",
       "posted_at": "2026-09-07T09:44:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93436",
@@ -145,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "747",
+      "views_label": "779",
       "posted_at": "2026-09-07T08:36:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93435",
@@ -173,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "871",
+      "views_label": "900",
       "posted_at": "2026-09-07T08:02:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93434",
@@ -201,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "745",
+      "views_label": "773",
       "posted_at": "2026-09-07T08:00:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93433",
@@ -229,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "842",
+      "views_label": "872",
       "posted_at": "2026-09-07T07:43:45+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93432",
@@ -257,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "906",
+      "views_label": "936",
       "posted_at": "2026-09-07T07:16:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93431",
@@ -285,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "907",
+      "views_label": "929",
       "posted_at": "2026-09-07T07:05:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93430",
@@ -313,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.01K",
+      "views_label": "1.04K",
       "posted_at": "2026-09-07T06:28:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93429",
@@ -341,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.76K",
+      "views_label": "1.78K",
       "posted_at": "2026-09-06T19:59:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93428",
@@ -369,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.89K",
+      "views_label": "1.9K",
       "posted_at": "2026-09-06T19:13:45+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93427",
@@ -397,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.58K",
+      "views_label": "1.59K",
       "posted_at": "2026-09-06T19:02:01+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93426",
@@ -425,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.56K",
+      "views_label": "1.57K",
       "posted_at": "2026-09-06T18:37:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93425",
@@ -481,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.47K",
+      "views_label": "1.48K",
       "posted_at": "2026-09-06T18:27:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93423",
@@ -2741,62 +2797,6 @@
       "posted_at": "2026-09-04T13:02:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93341",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93340",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/L-i8b5V9xIgA88YBHLEUctA3K5L0fB69hAYkoRft-0UVJtaAnHU03fETwfydxrMtZ8M_vKBbbacap444mS3xZtRluI_3BA_zc4GZCBEv8TsZHDNhhBL_6gFT79je2k509097Ifq1A8CLfIydsjEBSplZp6dLBgLKkKTqtbbFRrWWm9iAtvPaZ9at1B-YsDW9Of1EBqYTV6LbEOZCaV15cCCjJTEwUlUtoCRqzyJTmJoqsDMDY7wM7qxgf7aG4TmjuUlM8fbsu7Fg7PTmdvqYeq9P8AOYraq2Jr5rGE_6-wv3iXnHfIGXSjE0-Z89LWq-Ci4YYzmfQ4tdetZ0G-iTNA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/8441f6253784e44bccb2a9c5.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "همسر دادخواه هومن صباغ، از کشته‌شدگان اعتراضات دی‌ماه، با انتشار ویدیویی در سالروز تولد همسرش از دلتنگی و خاطراتشان گفت.<br>او نوشت که نتوانسته بر مزار هومن حاضر شود، اما پس از گریه و دلتنگی، کارهایی را انجام داده که هومن دوست داشت. او همچنین از خاطرات جشن تولدهای دونفره‌شان در ۱۲ شهریور گفت و نوشت: «هومن، من دلم برات یه ذره شده، منو یادت نره.»<br>هومن صباغ، ۳۷ ساله و مدیر مجتمع فنی تهران در لاهیجان، شامگاه ۱۸ دی ۱۴۰۴ در جریان اعتراضات دی‌ماه در محدوده خیابان شیشه‌گران لاهیجان بر اثر اصابت گلوله به شریان اصلی پای چپ کشته شد.<br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "همسر دادخواه هومن صباغ، از کشته‌شدگان اعتراضات دی‌ماه، با انتشار ویدیویی در سالروز تولد همسرش از دلتنگی و خاطراتشان گفت.\nاو نوشت که نتوانسته بر مزار هومن حاضر شود، اما پس از گریه و دلتنگی، کارهایی را انجام داده که هومن دوست داشت. او همچنین از خاطرات جشن تولدهای دونفره‌شان در ۱۲ شهریور گفت و نوشت: «هومن، من دلم برات یه ذره شده، منو یادت نره.»\nهومن صباغ، ۳۷ ساله و مدیر مجتمع فنی تهران در لاهیجان، شامگاه ۱۸ دی ۱۴۰۴ در جریان اعتراضات دی‌ماه در محدوده خیابان شیشه‌گران لاهیجان بر اثر اصابت گلوله به شریان اصلی پای چپ کشته شد.\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Farsi_Iranwire/93340",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/lhHnDqNTruV7vbZHQjygSruBH1fytT_pX517kzuZRtyGxP3enPfhlMj2Hm4V59ZLaqaPJOmyd-ji_O6oKJ3Ta3M_3UiKtOeMXT2WxYWPEDRxQtqt5kQitrf1BgbXDu98kghjL9r0Fz89ySsz1NHon_vVNY8KhqrfxoJwj5x1O956HVgQSZYQka1BniaKc_MQo3w9RCrxUC4-a7IiHGSRTBVpn8q6HBIbAL_WPHQcpryg9DZMYOICpjgDE8r5__4ok1o92mBN9zrxFZNG29RrJ4njAlrXeUeMWp0EpIXeS_vCEdfyWv1Ew_Pk3szxJhPSB7-17fgRWKTuXbgWaMrt3Q",
-          "thumbnail_path": "channels/farsi_iranwire/media/b8caa25d7f719fcc3f0d4568.jpg",
-          "thumbnail_sha256": "76aad486227c0bf6beee6d481256dd5410b0916ee374947ba7fff3fcc639c3af",
-          "duration_label": "1:02",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.52K",
-      "posted_at": "2026-09-04T11:55:49+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93340",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93339",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/L-i8b5V9xIgA88YBHLEUctA3K5L0fB69hAYkoRft-0UVJtaAnHU03fETwfydxrMtZ8M_vKBbbacap444mS3xZtRluI_3BA_zc4GZCBEv8TsZHDNhhBL_6gFT79je2k509097Ifq1A8CLfIydsjEBSplZp6dLBgLKkKTqtbbFRrWWm9iAtvPaZ9at1B-YsDW9Of1EBqYTV6LbEOZCaV15cCCjJTEwUlUtoCRqzyJTmJoqsDMDY7wM7qxgf7aG4TmjuUlM8fbsu7Fg7PTmdvqYeq9P8AOYraq2Jr5rGE_6-wv3iXnHfIGXSjE0-Z89LWq-Ci4YYzmfQ4tdetZ0G-iTNA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/8441f6253784e44bccb2a9c5.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "خواهر مجتبی روستایی، از کشته‌شدگان اعتراضات دی‌ماه، با پیوستن به پویش «یک شمع، یک نام، یک یاد» به یاد برادرش و دیگر جان‌باختگان شمع روشن کرد.<br>مجتبی روستایی، ۴۰ ساله و آشپز کافه‌ای در افسریه تهران، در جریان اعتراضات دی‌ماه با شلیک گلوله نیروهای جمهوری اسلامی کشته شد. پیکر او در روستای حسین‌آباد ملایر به خاک سپرده شد.<br>خواهر او می‌گوید: «من فقط یک خواهر نیستم؛ من صدای ایرانم، صدای ملایرم و صدای خانواده‌هایی هستم که عزیزانشان را از دست دادند.»<br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "خواهر مجتبی روستایی، از کشته‌شدگان اعتراضات دی‌ماه، با پیوستن به پویش «یک شمع، یک نام، یک یاد» به یاد برادرش و دیگر جان‌باختگان شمع روشن کرد.\nمجتبی روستایی، ۴۰ ساله و آشپز کافه‌ای در افسریه تهران، در جریان اعتراضات دی‌ماه با شلیک گلوله نیروهای جمهوری اسلامی کشته شد. پیکر او در روستای حسین‌آباد ملایر به خاک سپرده شد.\nخواهر او می‌گوید: «من فقط یک خواهر نیستم؛ من صدای ایرانم، صدای ملایرم و صدای خانواده‌هایی هستم که عزیزانشان را از دست دادند.»\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Farsi_Iranwire/93339",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/nNbUzNnPBbSEg4syE5h-_g1nBrwtGyTsvApwmiAfzyDoZVWMeA8mBxwVXCcnWMtssvN2xSHuDLxAZ4cfSuztBTTrPbGCYQ5DEgjSWK-8alNLXKiXdBz3GE-1XPl-SPWYtA7VM3nIim6cEmCuDAT49VEwHG6xpnUc7JYUJMwE8xyY9SvIrWvwce9B9quduJjxv4mDam3nIbf8TFn7pn9z2EPYpA6oYSHQ1QsH-24syWGkA7Q4FpoarJxgtcgy3k8llay4IPMEf_gnZKzrkuK9OyWJdq46JHhb88ptu2A46AnkvWPlTbEGMojVMBGfdR3UsZZdRQ0T2CyNJbYoKaPp8g",
-          "thumbnail_path": "channels/farsi_iranwire/media/598116db72e338a3b61d9800.jpg",
-          "thumbnail_sha256": "ad52e89dc307a15c7c55c5faa28b84343f087c1bde3a44d94506e77d1d32f6a6",
-          "duration_label": "1:39",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.41K",
-      "posted_at": "2026-09-04T11:38:34+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93339",
       "reply": null
     }
   ]
