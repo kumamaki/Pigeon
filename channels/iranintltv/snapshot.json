@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T15:22:11.617Z",
+  "fetched_at": "2026-09-07T15:30:04.554Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356163",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "همزمان با سینگال‌های متعدد ترامپ برای حمله به جزیره خارگ، قالیباف تهدید کرد در صورت حمله به نفت‌کش‌های ایران، تهران شرکت‌های نفت و گاز آمریکایی در منطقه را هدف قرار می‌دهد. این در حالی است که سپاه برای اولین‌بار موشک میان‌برد به سوی ناوها شلیک کرد.<br><br>گزارشی از مجتبا پورمحسن<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "همزمان با سینگال‌های متعدد ترامپ برای حمله به جزیره خارگ، قالیباف تهدید کرد در صورت حمله به نفت‌کش‌های ایران، تهران شرکت‌های نفت و گاز آمریکایی در منطقه را هدف قرار می‌دهد. این در حالی است که سپاه برای اولین‌بار موشک میان‌برد به سوی ناوها شلیک کرد.\n\nگزارشی از مجتبا پورمحسن\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356163",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/JD5LHHofXyBbWQAFSxEJPxm9ji-dgRBamMjdO8AIAGoAoD6V3BzVWLtVCjXVndWOj6_u99M00GFuTyw0Xrjc_Pz9-DlrukJGKypGyXNEjaGmMC1pKm8iZp9_AgmnqDJw8A95fm_jTDKPucAsk4bP_Xdz2OjI2z_rlmIZrGmQZTYN2jnDuDoh4q9maZTYdUk_HJJn7lCt58vhQDNWZK1HFqeTIlCDDCDOz5KW2cWqTTfI8EUI_sOPJPsfAe0GXAt1G17AMQQu9Fi3DwPSHeBDl_qqCMJlnk-yVSLlV0qSQOmwTC55gGHJOyB6n5vEYKgw9reKOCiIfTwUMkyO3JB7Lw",
+          "thumbnail_path": "channels/iranintltv/media/7a2586a6b4e32814257c4e5b.jpg",
+          "thumbnail_sha256": "bfbf2382ef652326b0772428f13673594cd240f4683575c4f0866697806b1ab6",
+          "duration_label": "8:43",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "5.34K",
+      "posted_at": "2026-09-07T15:24:23+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356163",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356162",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.18K",
+      "views_label": "10.6K",
       "posted_at": "2026-09-07T15:17:57+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356162",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.8K",
+      "views_label": "18.1K",
       "posted_at": "2026-09-07T15:00:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356161",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.4K",
+      "views_label": "27.6K",
       "posted_at": "2026-09-07T14:38:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356160",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.3K",
+      "views_label": "25.5K",
       "posted_at": "2026-09-07T14:37:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356159",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.4K",
+      "views_label": "24.5K",
       "posted_at": "2026-09-07T14:30:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356158",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.3K",
+      "views_label": "23.5K",
       "posted_at": "2026-09-07T14:28:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356157",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.3K",
+      "views_label": "23.4K",
       "posted_at": "2026-09-07T14:26:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356156",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.4K",
+      "views_label": "24.5K",
       "posted_at": "2026-09-07T14:19:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356155",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.5K",
+      "views_label": "25.6K",
       "posted_at": "2026-09-07T14:14:05+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356154",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.8K",
+      "views_label": "28.9K",
       "posted_at": "2026-09-07T14:02:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356153",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.9K",
+      "views_label": "30.9K",
       "posted_at": "2026-09-07T13:55:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356152",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.1K",
+      "views_label": "35.2K",
       "posted_at": "2026-09-07T13:35:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356151",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.2K",
+      "views_label": "36.3K",
       "posted_at": "2026-09-07T13:32:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356150",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31K",
+      "views_label": "32.1K",
       "posted_at": "2026-09-07T13:31:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356149",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.1K",
+      "views_label": "34.2K",
       "posted_at": "2026-09-07T13:20:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356148",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.2K",
+      "views_label": "35.3K",
       "posted_at": "2026-09-07T13:17:56+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356147",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.2K",
+      "views_label": "37.3K",
       "posted_at": "2026-09-07T13:11:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356146",
@@ -509,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.3K",
+      "views_label": "37.4K",
       "posted_at": "2026-09-07T13:02:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356145",
@@ -537,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.2K",
+      "views_label": "36.3K",
       "posted_at": "2026-09-07T13:01:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356144",
@@ -2709,34 +2737,6 @@
       "posted_at": "2026-09-07T03:00:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356061",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356060",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "آنیتا آناند، وزیر خارجه کانادا، گفت تهدیدهای جمهوری اسلامی در تنگه هرمز، فعالیت‌های هسته‌ای غیرقانونی و حمایت تهران از گروه‌های نیابتی در منطقه همچنان صلح و امنیت جهانی را تضعیف می‌کند و باید پایان یابد.<br><br>آناند در شبکه اجتماعی ایکس به بیانیه مشترک خود با فرانسوا-فیلیپ شامپاین، وزیر دارایی کانادا، اشاره کرد و نوشت: «مجموعه اقداماتی را که کانادا با همکاری شرکای خود برای حفظ فشار بر ایران در پیش گرفته است، از جمله تحریم‌ها و تلاش‌ها برای مختل کردن توانایی ایران در تامین مالی فعالیت‌های تروریستی، توضیح دادیم.»<br><br>وزیر خارجه کانادا تاکید کرد اتاوا با همکاری شرکای خود به اعمال فشار بر جمهوری اسلامی ادامه می‌دهد.<br><a href=\"https://iranintl.com/202609072118\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609072118</a>",
-      "plain_text": "آنیتا آناند، وزیر خارجه کانادا، گفت تهدیدهای جمهوری اسلامی در تنگه هرمز، فعالیت‌های هسته‌ای غیرقانونی و حمایت تهران از گروه‌های نیابتی در منطقه همچنان صلح و امنیت جهانی را تضعیف می‌کند و باید پایان یابد.\n\nآناند در شبکه اجتماعی ایکس به بیانیه مشترک خود با فرانسوا-فیلیپ شامپاین، وزیر دارایی کانادا، اشاره کرد و نوشت: «مجموعه اقداماتی را که کانادا با همکاری شرکای خود برای حفظ فشار بر ایران در پیش گرفته است، از جمله تحریم‌ها و تلاش‌ها برای مختل کردن توانایی ایران در تامین مالی فعالیت‌های تروریستی، توضیح دادیم.»\n\nوزیر خارجه کانادا تاکید کرد اتاوا با همکاری شرکای خود به اعمال فشار بر جمهوری اسلامی ادامه می‌دهد.\nhttps://iranintl.com/202609072118",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356060",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/EyGbY4BZ0YJ7s1OCEhrXplADT9UIWJsiq3r324aGcPdfQxbrEgcDRK58NVy7YXsLrm5qL1RFkXlcJTt08F0wlhf_atPQelVvb0IKgGrSIEJ-MUsHdUuV3kIH1UYzlqCZEJEo7MJXuR0-ShiW9y7Dkzd_3YhlIsO4DAc78carhPsioe5LrTazuR8hyxOJvR9PYgef3WibNXI06YrbRCVPblUfgfu_r7zSSpwXujdEu4Cb-cp4j0gWExxusdXQqk-bjJ-ZuC3v1StRT6inCfYJRUf0sivUkMn6yI6RGZaF2QvBNCudQAvzpkGQmg2HXrmfyoo_OK-cC73jCatnIlLdDg.jpg",
-          "thumbnail_path": "channels/iranintltv/media/e0098762fff3c2544dbe0e2e.jpg",
-          "thumbnail_sha256": "402d68f7378564b958199a679488123f5ce4fe37f3b04d07775d3117d471e446",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "64.1K",
-      "posted_at": "2026-09-07T02:14:25+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356060",
       "reply": null
     }
   ]
