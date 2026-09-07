@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T04:47:12.889Z",
+  "fetched_at": "2026-09-07T04:52:23.539Z",
   "channel": {
     "username": "followupiran",
     "title": "کمیته پیگیری وضعیت بازداشت‌شدگان",
@@ -58,9 +58,9 @@
           "asset_url": "https://t.me/Followupiran/1241",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/nfRawjjWJMkjXUcj5UVnmC4A9ay-oakESwgwHjPOrN4lPfb0PFFAAmLLvBJNeXBe1dOqS9NNPDmP3ryWc3s3ZfMAx7gGf6AJ1Ne_bYbDEfw0CzOBKGm9n2LcHfagMc9nF4mIeOoPhjExoAIgOWtaatXljPacyYt_p_1NA-k7Y0cfmlGQcXlB0z7oXphTLhVMvdfcItbz01SUui5FZmCn3Re_BwgMDXKu_aEMouQkUj6RZx8MChIVx_CzVojy4Mpg9koJtKEWD1--IdyIkkPwj9CuKIcuE4Dq1-leSxlT0C1tPjB82yEDh5AM8JVhMilTxf6Z2qb_POdW5ttO_FVelA.jpg",
-          "thumbnail_path": "channels/followupiran/media/2eda3cae0449ad4844d5e060.jpg",
-          "thumbnail_sha256": "e05784d6e16e866cded6d2c5b832599740be2854496b260679089ae37a9f8496",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Efgpn8Q0LYERmygcYecodCjY66hwAKzRkmpRUO0TmFkAS7CZOHq6phvS8JuKRYfr0DGhrkuTDvqyGe8IbWeXerQqhS1LopYEbaOTI_tD43ZBc-WpVVFrpY71b9w6aEAHWbVCxmJ_WQCb6IxNnehd_0s-61UqHOsgbNrWGpc0f8RvEnmScGvd8Nq1QJrqya1MV6g7otZERQGukGkqBi24rK2J53qosABnLbZjxLk5EOuIOnvUl94dz-2BVlvvq8S_Gt1OBslQTQ3l8lMZyJ8Pm7DxHisGhxvqwK9dVf8wuDR62quZP-6RM3ZmZ9AFTXwQCJkAFYFsXi8bTXF028oEQw.jpg",
+          "thumbnail_path": null,
+          "thumbnail_sha256": null,
           "duration_label": null,
           "aspect_ratio": 0.8
         }
@@ -360,8 +360,8 @@
         "post_id": "1229",
         "author_name": "کمیته پیگیری وضعیت بازداشت‌شدگان",
         "preview_text": "🔴۱۲ حکم اعدام در پرونده \"میدان علیخانی اصفهان\" به مرحله اجرای احکام رسید 🔹️بر اساس گزارش‌های منتشرشده و اطلاعاتی که به کمیته رسید، پرونده موسوم به «میدان علیخانی اصفهان» وارد مرحله اجرای احکام شده و جان ۱۲ زندانی در معرض خطر جدی اجرای حکم اعدام قرار دارد.…",
-        "thumbnail_url": "https://cdn1.telesco.pe/file/OqJkKOoN9QXlbXdaJG9BWMcitMxpJGKleN11SYZVzhXzv5r9BfJ2Jm-WT0hTJJF1h1mWl-HjhsW1ZUukzVgQv5lZ1Lkdtrv6B3Idbu9oyHHLmxNejszVwnQuX1oJh_oblD8DFZJg-RJeIdBi9P0vgUzMH-iHqIGi2RaEgU-DnduXDaaUz91M-I01uYglv2GlBj5V19rNDGgbj9-TrVwb-8cqRYw930_r9N42Pinr8leC17fbM5MGRg__a02AqDAFNTpUZG2MQb_RD_gJCOb_FAZmoP3oG-WcuMGUCpRFkPRqZ2j1Jpx8XgLBfcgPQnXfJ_5r0qiN24QYFRIntpQbRA.jpg",
-        "thumbnail_path": "channels/followupiran/media/39bf0ef1a4fac9df1991f5b1.jpg",
+        "thumbnail_url": "https://cdn1.telesco.pe/file/K2t-ta5PbC4Y0wg3B3bXMW2QjOLMhmJ8VVPw2IwzNmJPzfLfoPgTq-Wih-epOHqz19XNriEfQKYODrVF_VE82V9e-RkdtZO-usmHAc7i6aW2TXC34DR6N7bFD-cfAZ-v2Nkud9EfbKwLvODgrN7Ugu6WUm3dlq5c3GOK3hV-OrjCrWHTyxLikB190B7slOpqepE6VJWFHILNOfD9Sq7F56yDzEPTVj6tVKa9SoqDiH0HIXmAz9eoCu8AlJNxyIZ-trEnfGDnRKEUJyomcL2ay5UzYUOpayMg2QGZdc9WHvGdzumYd0NHpziyc3ROpEBjvz47UVEsn3SmNju4jgR65A.jpg",
+        "thumbnail_path": "channels/followupiran/media/b4936f8b542cd83ad9cb0c76.jpg",
         "thumbnail_sha256": "bbbb45fb0c819c79f3f8fc772dea01cbc13476e60adb31e32ba005b8a01a2d12",
         "permalink": "https://t.me/followupiran/1229"
       }
