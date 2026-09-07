@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T08:37:29.772Z",
+  "fetched_at": "2026-09-07T08:42:50.706Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "sahamnewsorg/147112",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/642684be024870091c2036fb.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>کامران حکمتی، شهروند ۷۱ ساله ایرانی آمریکایی، از اوین آزاد شد</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>حکمتی جواهرساز یهودی متولد ایران که در نیویورک سکونت داشت، تابستان ۱۴۰۴ پس از سفر به ایران برای دیدار با بستگان، توسط نیروهای امنیتی بازداشت و به گروگان گرفته شد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>دستگاه قضایی جمهوری اسلامی او را به دلیل سفری که بیش از یک دهه پیش برای برگزاری یک مراسم مذهبی به اسرائیل انجام داده بود، محاکمه و به ۴ سال زندان محکوم کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>خانواده آقای حکمتی بارها اعلام کرده‌ بودند که او با بیماری سرطان مثانه تهاجمی دست‌وپنجه نرم می‌کند و در زندان از دسترسی به درمان تخصصی و مناسب محروم است.رادیو فردا<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅کامران حکمتی، شهروند ۷۱ ساله ایرانی آمریکایی، از اوین آزاد شد\n\n🔸حکمتی جواهرساز یهودی متولد ایران که در نیویورک سکونت داشت، تابستان ۱۴۰۴ پس از سفر به ایران برای دیدار با بستگان، توسط نیروهای امنیتی بازداشت و به گروگان گرفته شد.\n\n🔸دستگاه قضایی جمهوری اسلامی او را به دلیل سفری که بیش از یک دهه پیش برای برگزاری یک مراسم مذهبی به اسرائیل انجام داده بود، محاکمه و به ۴ سال زندان محکوم کرد.\n\n🔸خانواده آقای حکمتی بارها اعلام کرده‌ بودند که او با بیماری سرطان مثانه تهاجمی دست‌وپنجه نرم می‌کند و در زندان از دسترسی به درمان تخصصی و مناسب محروم است.رادیو فردا\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/147112",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/NqHRM4JQEfj86oaSZQfzXKIG0Iff_ghUcsPo6cX2MFoAWDds18PjMLoh8wU-KPxPLjre0jQM95sGpLeTbI02vmMLVfsrzUXW8xmNkgEHKqiOSZK4wBZxfXCxN-slFwm1k1qoj0EWX7AS5lNzysvlI3sRqzEXISrM8XiUnj_-wmR1sTZsJ9gOoVJe0GnkOCelvGhJAAbnlknE9lE1w38TI8ByiRLAfgVNrac9s0UBPY73pATZ-iqHQUeJkv-nUNBdAfCfUcpSPm-f4P7VbpzTdb_SR1ToARpmlkjGvdj5NdTWAHYg7COLeTWFFxMlBfj6whU8i2SeF02ECy4npY4tRg.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/e778bd3d80e4a2878c472027.jpg",
+          "thumbnail_sha256": "871baa213a6fd13801421b3601770368e5f87a9d354ef381339a91cd51c9138c",
+          "duration_label": null,
+          "aspect_ratio": 1.8912529550827424
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.23K",
+      "posted_at": "2026-09-07T08:41:01+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147112",
+      "reply": null
+    },
+    {
       "id": "sahamnewsorg/147111",
       "author_name": "سهام نیوز",
       "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "✅جمهوری اسلامی از خط قرمز ما عبور کرد\n\nترامپ: در یک حمله غافلگیرانه، آنها پنج موشک با سرعت ۸۵۰۰ مایل در ساعت به سمت نیروهای آمریکایی شلیک کردند که هیچ اصابتی نداشت و هر پنج موشک سرنگون شدند.\n\nاوضاع درست می‌شود!\n\nدر همین حال، ما واقعاً به آنها ضربه خواهیم زد؛ اکنون نوبت ماست که حمله کنیم.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "2.78K",
+      "views_label": "5.22K",
       "posted_at": "2026-09-07T08:32:40+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147111",
@@ -37,7 +65,7 @@
       "plain_text": "✅فایننشال‌تایمز: نیروی دریایی ایالات متحده به طور مخفیانه به مدت چهار ماه، مشغول پاکسازی مین‌های جمهوری اسلامی از تنگه هرمز بود.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "6.56K",
+      "views_label": "8.7K",
       "posted_at": "2026-09-07T08:22:27+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147110",
@@ -65,7 +93,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.53K",
+      "views_label": "11.1K",
       "posted_at": "2026-09-07T08:13:10+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147109",
@@ -93,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.2K",
+      "views_label": "12.8K",
       "posted_at": "2026-09-07T08:06:35+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147108",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50.6K",
+      "views_label": "50.9K",
       "posted_at": "2026-09-06T23:52:18+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147107",
@@ -149,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.4K",
+      "views_label": "49.7K",
       "posted_at": "2026-09-06T23:37:48+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147106",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47K",
+      "views_label": "47.4K",
       "posted_at": "2026-09-06T23:30:19+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147105",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45.2K",
+      "views_label": "45.6K",
       "posted_at": "2026-09-06T23:13:18+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147104",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.8K",
+      "views_label": "48.1K",
       "posted_at": "2026-09-06T22:37:04+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147103",
@@ -249,7 +277,7 @@
       "plain_text": "✅رضایی دبیر شورای‌عالی‌ امنیت ملی:به اندازه کافی ذخایر کالاهای اساسی داریم\n\nما در همین فرصتی که محاصره در مذاکرات برداشته شد 70 تا 80 میلیون بشکه نفت فروختیم و پولش هم رسیده است\n\n🔻پ ن: برخلاف گفته رضایی اقایان پزشکیان و همتی اعلام کرده اند که یک قطره نفت نمی توانیم بفروشیم\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "57K",
+      "views_label": "57.3K",
       "posted_at": "2026-09-06T19:19:29+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147102",
@@ -274,7 +302,7 @@
       "plain_text": "✅سخنگوی دولت: نرخ کارت جایگاه سوخت از بامداد ۱۷ شهریور به ۱۰ هزار تومان افزایش خواهد یافت\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "58K",
+      "views_label": "58.3K",
       "posted_at": "2026-09-06T19:09:41+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147101",
@@ -302,7 +330,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "61.8K",
+      "views_label": "62.1K",
       "posted_at": "2026-09-06T19:04:44+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147100",
@@ -374,7 +402,7 @@
       "plain_text": "‏✅سی‌ان‌ان گزارش داد:نیرو های تحت حمایت عربستان در یمن پس از درگیری‌های شدید با نیرو های حوثی،\nوارد حومه شمالی شهر حیس در جنوب بندر استراتژیک الحدیده شدند و آن را تصرف کردند.\n\nنیرو های تحت حمایت عربستان و امارات در حال پیشروی به سمت بندر استراتژیک الحدیده در سواحل دریای سرخ می‌باشند.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "60.8K",
+      "views_label": "61.1K",
       "posted_at": "2026-09-06T16:16:01+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147097",
@@ -434,7 +462,7 @@
       "plain_text": "✅۷۵ درصد کاربران از فیلترشکن استفاده می‌کنند\n\n🔹نتایج یک گزارش از شکل‌گیری بازاری بزرگ و پرهزینه در حاشیه محدودیت‌های اینترنت حکایت دارد.\n\n🔹بازاری که اندازه سالانه آن حدود ۱۰۵ هزار میلیارد تومان برآورد شده\n\n🔹 ۷۵ درصد کاربران ایرانی از فیلترشکن استفاده می‌کنند\n\n🔹 قیمت برخی بسته‌ها در دوره «اوج خاموشی» تا ۲۳۴ برابر افزایش یافته است./ایسنا\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "60K",
+      "views_label": "60.3K",
       "posted_at": "2026-09-06T14:51:25+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147094",
@@ -462,7 +490,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "63.1K",
+      "views_label": "63.4K",
       "posted_at": "2026-09-06T14:28:02+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147093",
@@ -2401,34 +2429,6 @@
       "posted_at": "2026-09-04T23:16:00+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147011",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147010",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LEPulZgNyRXQYUH9pl6txwmy1HaX1HDx2Vj1MUZOEH08i10zaO4aZhruOq7e7tuCrDtlLu1KCqgj2aEt5We72kVXaPWY26ewl5sw9d3G7ezGzPfjPB-4pQM-cGqEAZhmN8PmaDxycrwl1DnrM0MMCdCLoAkc3GNj2ciAWHd7PaEDCkRqMS0AA97Kre37DwtmJRlvO9HWWQ3L1lrW1B0vJZ7PZ9KN7v_ochZfRsNLzcI5qicVpEqEzWUd2ikFhWbkLGHz2-LFcGyh7UrCtcmLvMDozbJtR8Vtccyc0WXtH3ZnLExU2BRwof0c-62a6UypDkGSOoxACOw167DnfXIvVA.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/93aceceef10a8532f638aaa7.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>پروانه سلحشوری نماینده پیشین مجلس:<br> تنها چیزی که برای ما و مردم مانده، <b>مرگ</b> است...<br><br>ما هر روز شاهد اعدام جوانانی هستیم که یک دادگاه عادلانه برای آنها برگزار نمی شود<br><br>چرا مردم تا اعتراض می کنند اسمش را می گذارید اغتشاشات اما عده ای هر شب با تجمع و سد راه مردم در میادین و خیابانها با حمایت پلیس جمع می شوند و زندگی مردم را ماههاست تحت شعاع قرار دادند<br>پلیس به جای اینکه در خدمت مردم باشد در خدمت این جمعیت اندک است<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅پروانه سلحشوری نماینده پیشین مجلس:\nتنها چیزی که برای ما و مردم مانده، مرگ است...\n\nما هر روز شاهد اعدام جوانانی هستیم که یک دادگاه عادلانه برای آنها برگزار نمی شود\n\nچرا مردم تا اعتراض می کنند اسمش را می گذارید اغتشاشات اما عده ای هر شب با تجمع و سد راه مردم در میادین و خیابانها با حمایت پلیس جمع می شوند و زندگی مردم را ماههاست تحت شعاع قرار دادند\nپلیس به جای اینکه در خدمت مردم باشد در خدمت این جمعیت اندک است\n\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/sahamnewsorg/147010",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/OlYWfDetlSo6LjLzGJyorra-ufnXfCXpMK9IPVONYYbgJY6orZ5o8hRkEjG9_L5e7Z2hA4Y4WDU1iAnExBgKQeGRVFFwFfV2WxCBLnGwvO4H0z3xihKjZtNdUraUit3dN7THVGeRHQrX4ZhvfwYAs-M2whW3HKE3YM8VS7VR3PYFx0wyPKSf5pnhQvxs7PmKNNJZOAt-PTKoZEu4LmgrXTd5euGxthGGFxBk3nOK-l-u9K1lGwEvtH6v_vq7CsFjzvsGQxsIZuwvO3whNjdtTRjGaivIEa43qpSmuLx3cyH9kdH3PTcI5HDFz1lJNlP0kzKpaUWIKIL4xhHBGxZ5Hg",
-          "thumbnail_path": "channels/sahamnewsorg/media/646ef1429bab45da3e3fff3b.jpg",
-          "thumbnail_sha256": "43347add099f1293b3c7f12ab6211f78efe68b0ffeb9d96a4bbe7c36eec458ef",
-          "duration_label": "1:32",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "64.2K",
-      "posted_at": "2026-09-04T22:24:13+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147010",
       "reply": null
     }
   ]
