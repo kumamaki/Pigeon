@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T14:12:16.588Z",
+  "fetched_at": "2026-09-07T14:17:23.619Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93453",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "«وریشه مرادی»، زندانی سیاسی کُرد محبوس در زندان اوین، در پیامی با خانواده‌های جان‌باختگان سانحه جاده‌ای سنندج و مردم این شهر ابراز همدردی کرد و نوشت: «آنچه در چنین روزهایی می‌تواند بخشی از بار این رنج را سبک کند، کنار هم ماندن است.» <br><br>مرادی در این پیام، جان‌باختن شماری از شهروندان در این سانحه را «اندوهی دیگر بر انبوه دردهایی» دانسته که مردم سال‌هاست با آن زندگی می‌کنند و نوشته است: «به خوبی می‌دانم که هیچ کلمه‌ای نمی‌تواند سنگینی این فقدان را برای خانواده‌های جان‌باختگان کم کند.»<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157280\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157280</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "«وریشه مرادی»، زندانی سیاسی کُرد محبوس در زندان اوین، در پیامی با خانواده‌های جان‌باختگان سانحه جاده‌ای سنندج و مردم این شهر ابراز همدردی کرد و نوشت: «آنچه در چنین روزهایی می‌تواند بخشی از بار این رنج را سبک کند، کنار هم ماندن است.»\n\nمرادی در این پیام، جان‌باختن شماری از شهروندان در این سانحه را «اندوهی دیگر بر انبوه دردهایی» دانسته که مردم سال‌هاست با آن زندگی می‌کنند و نوشته است: «به خوبی می‌دانم که هیچ کلمه‌ای نمی‌تواند سنگینی این فقدان را برای خانواده‌های جان‌باختگان کم کند.»\nبخوانید: https://iranwire.com/fa/news-1/157280\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93453",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/oqgbGNDw4wEK9teEa437eV4exoaoGOMv2OGfUD1eUZNlCHBHvs3fNu93Uw6igrDBxUY9f8z2-0OO2Tu-GdUH5c3r5d2C-QsJQRkWwK3srVO8BPsqUI9_1LZVZMdRLx89m0_eizcJI65DzxvcfgBwhErhK24UKwH_8LUEX-dasm36qha37WBt6XOsYot7L_WrBQl-ZN-VszVIowHF_T4nedrvMR17Y9DyA88YgDPF8gNYFfMPz35uB26tcj5lGc4lAR9xTJqTOafyeuh0km1tR_u2o-MURgx3Yk8Rm6dLPFG4qSPaBFEePFRa1XSYOrKbPhBn2rd_AUzEyuzZ-SsTVw.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/5d4501a5283a35e8f1d77e72.jpg",
+          "thumbnail_sha256": "2e1967e938d96ba7f39b28144db8b5976e4a494b8114bba9ac90491755b28216",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "67",
+      "posted_at": "2026-09-07T14:15:06+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93453",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93452",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "156",
+      "views_label": "224",
       "posted_at": "2026-09-07T14:01:44+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93452",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "197",
+      "views_label": "238",
       "posted_at": "2026-09-07T13:56:59+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93451",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "427",
+      "views_label": "466",
       "posted_at": "2026-09-07T13:26:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93450",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "453",
+      "views_label": "481",
       "posted_at": "2026-09-07T13:17:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93449",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "433",
+      "views_label": "447",
       "posted_at": "2026-09-07T13:11:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93448",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "640",
+      "views_label": "649",
       "posted_at": "2026-09-07T12:20:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93447",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "659",
+      "views_label": "668",
       "posted_at": "2026-09-07T12:12:31+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93446",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "689",
+      "views_label": "698",
       "posted_at": "2026-09-07T12:00:27+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93445",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "636",
+      "views_label": "640",
       "posted_at": "2026-09-07T11:56:15+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93444",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "677",
+      "views_label": "681",
       "posted_at": "2026-09-07T11:44:43+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93443",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "836",
+      "views_label": "839",
       "posted_at": "2026-09-07T11:15:10+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93442",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "855",
+      "views_label": "865",
       "posted_at": "2026-09-07T10:55:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93441",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "791",
+      "views_label": "795",
       "posted_at": "2026-09-07T10:52:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93440",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "812",
+      "views_label": "818",
       "posted_at": "2026-09-07T10:45:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93439",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "772",
+      "views_label": "779",
       "posted_at": "2026-09-07T10:43:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93438",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "990",
+      "views_label": "997",
       "posted_at": "2026-09-07T09:53:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93437",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "940",
+      "views_label": "944",
       "posted_at": "2026-09-07T09:44:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93436",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-04T17:56:12+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93353",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93352",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EmUP9mB5rt_E-ktfi7gsZJiU2Vg2Igy7ZYPwCUj5ZBNBwKSs_5STWybgkDUrOJ8Mf21eZIyZX1Az3KyjeThtIqmK00XzVEbMQyr4Rtqm3BijZmsPdRtLDWb7uCAuOYVGfriyYjsEeD9-i5W2gDSuIa3DhMv1wA1h89ViwCSNAsbSBBXCFCCpRLzR03zsSwFJpI2uSI2Ypew-4R4EEINKuBXLsu1m9siY-A0_Db8j3HxwgV0GuSEPB4zv5KfCaNPxjp4EaKGdI-IcXaIBcqZoOpDe26XPYVEQJMiRoikQH4QRpuY3i_p41FKCMmJLQel9Vz2g8emShtFRNit2tEGUQw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/c769a9c378fcf30292902ce1.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "صفحه اینستاگرامی «اختاپیسم» ویدیویی از شناکردن زنی سالخورده در آب‌های پشت یک سد را منتشر کرده است. این ویدیو با واکنش بسیاری از مخاطبان اینستاگرام همراه بوده و بارها توسط آن‌ها به اشتراک گذاشته شده است.<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "صفحه اینستاگرامی «اختاپیسم» ویدیویی از شناکردن زنی سالخورده در آب‌های پشت یک سد را منتشر کرده است. این ویدیو با واکنش بسیاری از مخاطبان اینستاگرام همراه بوده و بارها توسط آن‌ها به اشتراک گذاشته شده است.\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Farsi_Iranwire/93352",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Pl2td1qYVw034x6OzyAxLqenjgwj5ot8KcLfJAAP6ysdzKaM3AmB2oLT5eWHv2rFIRBDE2XUaPzmyS1gmFALj8gX2N9zgLuEQeSHqqToL_XYFt6n6WXKuwMv6XWDwpb_EoGncrLp8wxVppAVmfmPK4Y2TLQlrd19QSnht1P17RVty4W65ksncVUlG9PXer64QGlSAL-4I9XFo5jW1ilOLquSVOapdpf1xW9TJBA8HVgmpObVkfmT064Av7lMF6A6rnTeFquxrnO33UBFKS5laY2Fkp6A48UgKL_nQRUY8BTeNufFVOtU1fZMebLiGm1EvdO5PiWbdpCn-R4PavnU1A",
-          "thumbnail_path": "channels/farsi_iranwire/media/f10fc4da0f970db5e735fda9.jpg",
-          "thumbnail_sha256": "831679b7be1ea2e703931c4931289338fff62b7680153231193bba7aabf2aee3",
-          "duration_label": "0:54",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.45K",
-      "posted_at": "2026-09-04T17:41:03+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Farsi_Iranwire/93352",
       "reply": null
     }
   ]
