@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T12:47:22.333Z",
+  "fetched_at": "2026-09-07T12:52:39.718Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356142",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "",
+      "plain_text": "",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356142",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Xe51POgSdBz2I0xrD0LX236h8Ab154OALDihOQpzXXsaTLZkQBt2_QpSX3Gw1jSh3IIZ7TL4wetzz0Nr5m-RS-SJ_cxGY9qlVNcFTAigtRIqd0t9DrdcpKAxAbs2XbSrjlBfjqkDa5FGDxbc5n_im8-3YQN6dWz400tJXwOhuMpDqlRkyWJfpW1ITg0ehJS4MMRArcK8IfSurZ9mKF1J7oBQFSeAuAJHTdaEFEa1X030CL_hUuMufaPgBKSqw5fZvI0nMvPXSAjj7EWhOEU67eaIkBaiJp2bsJ5tUtFAo-8HPEZ-4R8WPv70IpCOfgLV1FgQZMbB9Vvth6vqA8XmTQ",
+          "thumbnail_path": null,
+          "thumbnail_sha256": null,
+          "duration_label": "4:02",
+          "aspect_ratio": 1.733333333333324
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.01K",
+      "posted_at": "2026-09-07T12:51:45+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356142",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356141",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.29K",
+      "views_label": "8.46K",
       "posted_at": "2026-09-07T12:39:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356141",
@@ -49,7 +77,7 @@
       "plain_text": "🎧نسخه صوتی اخبار نیمروزی | دوشنبه ۱۶ شهریور\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "9.48K",
+      "views_label": "11.6K",
       "posted_at": "2026-09-07T12:32:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356140",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.48K",
+      "views_label": "11.6K",
       "posted_at": "2026-09-07T12:31:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356139",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.7K",
+      "views_label": "14.8K",
       "posted_at": "2026-09-07T12:24:06+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356138",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.7K",
+      "views_label": "14.8K",
       "posted_at": "2026-09-07T12:23:16+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356137",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.7K",
+      "views_label": "13.8K",
       "posted_at": "2026-09-07T12:22:04+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356136",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.8K",
+      "views_label": "14.8K",
       "posted_at": "2026-09-07T12:18:16+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356135",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.8K",
+      "views_label": "15.8K",
       "posted_at": "2026-09-07T12:15:56+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356134",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.9K",
+      "views_label": "16.9K",
       "posted_at": "2026-09-07T12:13:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356132",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.8K",
+      "views_label": "16.9K",
       "posted_at": "2026-09-07T12:11:17+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356131",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.9K",
+      "views_label": "17K",
       "posted_at": "2026-09-07T12:08:49+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356130",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.8K",
+      "views_label": "16.9K",
       "posted_at": "2026-09-07T12:08:35+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356129",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16.9K",
+      "views_label": "18K",
       "posted_at": "2026-09-07T12:06:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356128",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16.9K",
+      "views_label": "18K",
       "posted_at": "2026-09-07T12:05:29+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356127",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18K",
+      "views_label": "19K",
       "posted_at": "2026-09-07T12:02:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356126",
@@ -429,7 +457,7 @@
       "plain_text": "🗣روایت شما از افزایش لحظه‌ای قیمت‌ها و از دست رفتن امکان برنامه‌ریزی برای آینده- دوشنبه ۱۶ شهریور:\n\n🔹درآمدمان دیگر حتی به مواد غذایی نمی‌رسد، چه برسد به لوازم ضروری زندگی.\n\n🔹سال‌هاست دیگر برنامه‌ای برای آینده و حتی فردایمان نداریم و فقط تلاش می‌کنیم زنده بمانیم.\n\n🔹من معلمم و سال‌هاست نتوانسته‌ام گوشی‌ام رو عوض کنم. حتی مدل‌های پایین‌رده هم قابل خرید نیستن. با حقوق ۲۰ میلیونی دغدغه‌ام شده صرفا تامین خورد و خوراک.\n\n🔹از بی‌کفنی زنده‌ایم و چندین ساله شدیم مرده‌های متحرک. هیچ هدف و آینده‌ای نیست؛ درآمدها بسیار ناچیز و مخارج بسیار بالاست.\n\n🔹درگیر هزینه‌های روزمره‌ایم و فرصتی برای برنامه‌ریزی برای آینده برایمان باقی نمانده است.\n\n🔹پولی برای خرید لوازم مورد نیازمان نداریم و مواد غذایی را هم به سختی تامین می‌کنیم.\n\n🔹با حقوق ۲۰ میلیونی و این گرانی سرسام‌آور، امکان برنامه‌ریزی وجود ندارد.\n\n🔹نه برنامه‌ای مانده و نه آرزویی؛ فقط تلاش می‌کنیم زنده بمانیم.\n\n🔹هر بار که پول جمع می‌کنم، قیمت کالا آن‌قدر بالا می‌رود که دیگر توان خریدش را ندارم.\n\n🔹با افزایش روز به روز قیمت‌ها، دیگر توان خرید جهیزیه را ندارم.",
       "media": [],
       "reactions": [],
-      "views_label": "26.4K",
+      "views_label": "27.4K",
       "posted_at": "2026-09-07T11:39:58+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356125",
@@ -457,7 +485,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.4K",
+      "views_label": "28.5K",
       "posted_at": "2026-09-07T11:33:21+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356124",
@@ -485,7 +513,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.5K",
+      "views_label": "28.5K",
       "posted_at": "2026-09-07T11:30:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356123",
@@ -513,7 +541,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.5K",
+      "views_label": "29.5K",
       "posted_at": "2026-09-07T11:24:53+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356122",
@@ -2709,34 +2737,6 @@
       "posted_at": "2026-09-06T21:14:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356038",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356037",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dua7-1F68YLJEFGTSTDkU4pbo7m29v_PUJo2Id0N3mpOijzM-Ub3dUhVIdGgiFiUhiPrQlMJKmZS7PXc6vsLzQw5lcMV_0vR2fRD2DKa3RDILk1oxcl2xdhmXItFOYchjDiDsgeLBQ_1T0LBPZcIoH3hZQWRinokn6_n3QMh3HeLQL1xTx-T4w5vhLmH_pMyugiDxZG96Q94OLXBePfpnJaSWRQdpdGWA29Z7E5pCPobtE0Sj7srHnvAGLaBDNDonYlFCLdCBSiGWmc2pRkrFtkr9og4kQ9w7KNWP8eu8Ze6jPWegnUYoPiQLkQNQtTHDMO_6IRz2XARr4G6gn_TuQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/ca7f2807f5839f47a1129d1b.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "محسن رضایی، دبیر شورای عالی امنیت ملی، گفت جمهوری اسلامی قصد دارد محدوده‌ای خارج از تنگه هرمز را «منطقه ممنوعه» اعلام کند. او گفت هر کشتی که با هدف عبور از تنگه وارد این محدوده شود، در فهرست تحریم قرار می‌گیرد.<br><br>رضایی افزود: «اگر زمانی کشتی‌های تحریمی بخواهند از تنگه هرمز عبور کنند، ما اینجا یقه‌شان را می‌چسبیم.»<br><br>دبیر شورای عالی امنیت ملی مدعی شد اثر این اقدام می‌تواند از حملات موشکی بیشتر باشد.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "محسن رضایی، دبیر شورای عالی امنیت ملی، گفت جمهوری اسلامی قصد دارد محدوده‌ای خارج از تنگه هرمز را «منطقه ممنوعه» اعلام کند. او گفت هر کشتی که با هدف عبور از تنگه وارد این محدوده شود، در فهرست تحریم قرار می‌گیرد.\n\nرضایی افزود: «اگر زمانی کشتی‌های تحریمی بخواهند از تنگه هرمز عبور کنند، ما اینجا یقه‌شان را می‌چسبیم.»\n\nدبیر شورای عالی امنیت ملی مدعی شد اثر این اقدام می‌تواند از حملات موشکی بیشتر باشد.\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356037",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/i4aTsi7ji0S43rIIMH-phmY-qu_SZDCiesKIQc5u_G31_evzd6J2Ps0UeSJgVjapMhucPaNTtJg3_AU2Yb1YopeFYwi7bc7bZxR9Y9CMIaoZDwricTjBcS2uVexTpAoWo0My7C2lU2Ibw3rteopBeyiXCGLcjkAZiKbZyWQNs6xHcd1a3Q-LR-g8P9c6MeY1VBtNV6IfxnnLxA5Wv5WeouE9k3bvWOiG7ggWOX8_GOekOLeguU2qGywuNoh3dm3cpNVtsPLtMlGNKMogvrzuqAEQGgxTwsJBVOpJDdCZ4b8PmxRSSmPrHfoz9ij3GaCO23kmK1InewXnntk_3bbRKg",
-          "thumbnail_path": "channels/iranintltv/media/0222bf3a5157f51bf7643326.jpg",
-          "thumbnail_sha256": "ec14848c5407c80854828ad8b4d77c1fc6d82a780f5bc8daab417d398e25dc0e",
-          "duration_label": "1:10",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "62.1K",
-      "posted_at": "2026-09-06T20:31:24+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356037",
       "reply": null
     }
   ]
