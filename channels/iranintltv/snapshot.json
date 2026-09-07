@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T07:12:17.494Z",
+  "fetched_at": "2026-09-07T07:17:51.544Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356081",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "اسماعیل بقائی، سخنگوی وزارت خارجه جمهوری اسلامی، در واکنش به گزارش‌ها درباره احتمال اعزام تجهیزات غیررزمی کره جنوبی به نزدیکی تنگه هرمز، در حساب ایکس خود نوشت: «حضور نظامی هر کشور دیگری یا مشارکت آن در عملیات در خلیج فارس و تنگه هرمز، حمایت مستقیم از عاملان این تجاوز تلقی می‌شود و پیامدهای جدی خواهد داشت.»<br><a href=\"https://iranintl.com/202609079231\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609079231</a>",
+      "plain_text": "اسماعیل بقائی، سخنگوی وزارت خارجه جمهوری اسلامی، در واکنش به گزارش‌ها درباره احتمال اعزام تجهیزات غیررزمی کره جنوبی به نزدیکی تنگه هرمز، در حساب ایکس خود نوشت: «حضور نظامی هر کشور دیگری یا مشارکت آن در عملیات در خلیج فارس و تنگه هرمز، حمایت مستقیم از عاملان این تجاوز تلقی می‌شود و پیامدهای جدی خواهد داشت.»\nhttps://iranintl.com/202609079231",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356081",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Op3vo-CpaCNNMU-uwwkGlHrxkE6y0jO106jUG_vSdQyQG6UQHzFjbqmweXIZOXSY6YbtnSmbCJBmNb8UamKT1aDRImrektjSO3an_eAjLPbpIQ_q4PZrCsI_d32ddD24hADEvFGYdOueOdTAJXI3Rq8O42Hpu4Shfcl_3lwWRkakVrCdJlCAWo-y_T5wiwE26L9vJnJNGD3vwKHE3rkd9_zfmigZiTuz4OxFed_v3MitHMKB4Y4dHHeN_uARP5Nfc-eCj8GIl5_TLqIlgmzf0Sed3_rHw2w6AtrYteTFC7RrWyZMMEAaIEon-2F3DztX_ZbgxpFgG8zIFuZY8YJtWA.jpg",
+          "thumbnail_path": "channels/iranintltv/media/17d320d50123003a88e19824.jpg",
+          "thumbnail_sha256": "c742dd89d4bf6743ee0735a920b68fc463eda144eedf7b036e161d28d41c0a10",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.09K",
+      "posted_at": "2026-09-07T07:15:59+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356081",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356080",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1",
+      "views_label": "4.23K",
       "posted_at": "2026-09-07T07:12:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356080",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.2K",
+      "views_label": "7.38K",
       "posted_at": "2026-09-07T07:06:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356079",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.6K",
+      "views_label": "15.7K",
       "posted_at": "2026-09-07T06:50:38+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356077",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.6K",
+      "views_label": "14.7K",
       "posted_at": "2026-09-07T06:50:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356076",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.6K",
+      "views_label": "16.7K",
       "posted_at": "2026-09-07T06:45:26+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356075",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.8K",
+      "views_label": "18.9K",
       "posted_at": "2026-09-07T06:36:18+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356073",
@@ -245,7 +273,7 @@
       "plain_text": "🗣روایت شما از شرایط زندگی و بحران اقتصادی- دوشنبه ۱۶ شهریور:\n\n🔹من یک دانشجوی ۲۰ ساله هستم. چند وقت دیگه دانشگاه‌ها باز می‌شه و من تن و بدنم می‌لرزه به‌خاطر هزینه‌هاش؛ تو خرج خوردوخوراک موندیم. هر صبح که پا می‌شم، چیزی جز عذاب و بدبختی نیست. کی این دوران سیاه تموم می‌شه؟\n\n🔹با این وضعیت گرونی می‌شه درس خوند؟ حساب کنید یه خودکار کیان آبی شده ۷۰ هزار تومان.\n\n🔹دولت از درآمد خودش مثل مالیات، پول آب برق گاز، گمرک، بنزین، هیچ‌جوره کوتاه نمیاد اما انتظار داره مردم کوتاه بیان!\n\n🔹گندم رو کیلویی ۴۹ تومن می‌برن و پولش رو دو ماهه نمی‌دن؛ این دیگه بی‌کفایتی نیست، یه مشت مسئول بی‌عرضه دارن با دسترنج کشاورز بازی می‌کنن.\n\n🔹تو تهران برق نیست، اینترنت ضعیفه و خیلی وقت‌ها قطعه، همه چی گرونه و شب‌ها پرچمی‌ها آرامشمون رو سلب می‌کنن.\n\n🔹از شیراز پیام می‌دم. رفتم داروخانه یه قرص چرک‌خشک‌کن برای سرماخوردگی بخرم، قیمتش شده ۱۳۰ هزار تومن؛ همین چند وقت پیش می‌خریدیم ۲۰ هزار تومن.\n\n🔹از همدان پیام می‌دم. مواد غذایی گرون شده و حجم‌شون کم؛ اندازه یه کیک رو نصف کردن، بسته همبرگر که ۶ تایی بود شده ۴ تا ۷۰۰ هزار تومن، پنیر پیتزا کیلویی یک میلیون.\n\n🔹گرونی وحشتناکه. الان وسط ماهه و من موندم با دو میلیون باقی مونده تو حسابم. باید چیکار کنم باهاش واقعاً.\n\n🔹از بندرعباس پیام می‌دم. قیمت برنج ۱۰‌ کیلویی مثل دلار ثانیه‌ای داره می‌ره بالا. قدرت خرید واقعا نداریم. یه پنل کولر ۱۲ هزار در حد نو رو می‌فروشن ۲۰‌ میلیون. از استرس و ترس، شب‌ها خواب نداریم.",
       "media": [],
       "reactions": [],
-      "views_label": "21K",
+      "views_label": "22K",
       "posted_at": "2026-09-07T06:26:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356072",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21K",
+      "views_label": "23.1K",
       "posted_at": "2026-09-07T06:19:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356071",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.2K",
+      "views_label": "24.2K",
       "posted_at": "2026-09-07T06:13:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356069",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.3K",
+      "views_label": "26.3K",
       "posted_at": "2026-09-07T06:06:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356068",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.4K",
+      "views_label": "28.4K",
       "posted_at": "2026-09-07T06:00:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356067",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.9K",
+      "views_label": "35.9K",
       "posted_at": "2026-09-07T05:34:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356066",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "43.4K",
+      "views_label": "44.4K",
       "posted_at": "2026-09-07T05:04:52+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356065",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "48.7K",
+      "views_label": "49.7K",
       "posted_at": "2026-09-07T04:47:41+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356064",
@@ -469,7 +497,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "51.9K",
+      "views_label": "52K",
       "posted_at": "2026-09-07T04:22:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356063",
@@ -497,7 +525,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "59.3K",
+      "views_label": "60.4K",
       "posted_at": "2026-09-07T03:48:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356062",
@@ -553,7 +581,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "63.1K",
+      "views_label": "64.1K",
       "posted_at": "2026-09-07T02:14:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356060",
@@ -2721,34 +2749,6 @@
       "posted_at": "2026-09-06T12:07:47+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/355976",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/355975",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dua7-1F68YLJEFGTSTDkU4pbo7m29v_PUJo2Id0N3mpOijzM-Ub3dUhVIdGgiFiUhiPrQlMJKmZS7PXc6vsLzQw5lcMV_0vR2fRD2DKa3RDILk1oxcl2xdhmXItFOYchjDiDsgeLBQ_1T0LBPZcIoH3hZQWRinokn6_n3QMh3HeLQL1xTx-T4w5vhLmH_pMyugiDxZG96Q94OLXBePfpnJaSWRQdpdGWA29Z7E5pCPobtE0Sj7srHnvAGLaBDNDonYlFCLdCBSiGWmc2pRkrFtkr9og4kQ9w7KNWP8eu8Ze6jPWegnUYoPiQLkQNQtTHDMO_6IRz2XARr4G6gn_TuQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/ca7f2807f5839f47a1129d1b.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید قیمت قرص اپلرنون که برای کنترل فشار خون بالا و درمان نارسایی قلبی تجویز می‌شود، در عرض یک ماه دو برابر افزایش داشته است.",
-      "plain_text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید قیمت قرص اپلرنون که برای کنترل فشار خون بالا و درمان نارسایی قلبی تجویز می‌شود، در عرض یک ماه دو برابر افزایش داشته است.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/355975",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/UCx-eTT0svO-oCqwQjUh2xgKY4TtB8yrPWDLonTSbg0Kw45aJ1IUCtnoEbxFLacA6ugilJI7XHOIkLXzejbeF5WNzZ-W9-as84zZjTkETxOHa0J7QtAmezJfliIs5zQA12XN0cR9f_f0zVSSeAHI0uBIqfhOcVKacQlP9oog-kTe0joINpsJ67atizZ_TmW8gphHvQikXUJ-Qt_HXJINh1vaTdlLCWMUVuNzaXHekCqNGftw9Pti04LmqPaBCliQH3E4x9iFukU-dBCoUCLD7vDMPy_S0bMgsebbtf9V0rnTvowWi2jf_5kWi8b_9WbvMETw5Fxf0fwGd3oWSrVswg",
-          "thumbnail_path": "channels/iranintltv/media/a7620539dbfc4b08d6edcbca.jpg",
-          "thumbnail_sha256": "a3eededb4676f8d76863d38317776a40ae1eeb6b5733c353bcafbd3b8df19bc2",
-          "duration_label": "1:12",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "40.3K",
-      "posted_at": "2026-09-06T12:00:31+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/355975",
       "reply": null
     }
   ]

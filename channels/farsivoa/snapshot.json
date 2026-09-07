@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T07:12:14.982Z",
+  "fetched_at": "2026-09-07T07:17:49.359Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229694",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "بانک گلدمن ساکس هشدار داد قیمت نفت در صورت افزایش حملات به کشتیرانی در خاورمیانه می‌تواند تا ۱۲۰ دلار در هر بشکه بالا برود.<br><br>دان استرویون، هم‌سرپرست پژوهش کالاهای جهانی این بانک، در گفت‌وگو با شبکه بلومبرگ گفت: «رویدادهای چند روز گذشته نشان می‌دهد خطر گسترده‌تر و شدیدتر شدن اختلال‌های کشتیرانی مسئله‌ای مهم است.»<br><br>بر همین اساس، گلدمن ساکس هدف پایین‌تر ۸۰ دلار را نیز در صورت عادی شدن صادرات منطقه در نظر دارد.<br><br>استرویون به سرمایه‌گذاران توصیه کرد به‌جای نفت خام، روی گاز طبیعی و فرآورده‌های نفتی سرمایه‌گذاری کنند و گفت: «شوک‌های عرضه در این بازارها بزرگ‌تر از بازار نفت خام است.»<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "بانک گلدمن ساکس هشدار داد قیمت نفت در صورت افزایش حملات به کشتیرانی در خاورمیانه می‌تواند تا ۱۲۰ دلار در هر بشکه بالا برود.\n\nدان استرویون، هم‌سرپرست پژوهش کالاهای جهانی این بانک، در گفت‌وگو با شبکه بلومبرگ گفت: «رویدادهای چند روز گذشته نشان می‌دهد خطر گسترده‌تر و شدیدتر شدن اختلال‌های کشتیرانی مسئله‌ای مهم است.»\n\nبر همین اساس، گلدمن ساکس هدف پایین‌تر ۸۰ دلار را نیز در صورت عادی شدن صادرات منطقه در نظر دارد.\n\nاسترویون به سرمایه‌گذاران توصیه کرد به‌جای نفت خام، روی گاز طبیعی و فرآورده‌های نفتی سرمایه‌گذاری کنند و گفت: «شوک‌های عرضه در این بازارها بزرگ‌تر از بازار نفت خام است.»\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229694",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/fNUfN_u4zAfuvEN8EK_6j8-lByHDnbtm4-9wYVyKMmXnoGJBPJGYGkraFa205WJ328po4WvMrAtOqybvudoj6J6blVOfEgUtXqeJhFtsfm6xp_DQGFtaV1pY9ZSvlGEMZ0siZ7DLIlDbD61HwcXfJGduDS0Yxjixi-wK9VNeMiCANspqDKPnYVALXlR2lw-dlbC9il2qj2hRWO17J0wBD3DZ8kkt5De2WIEX-qYnp_uIeEzP63kdV0k2VXXLsdrpi3xRWIOLbJymiLUY8R0NVGOAEyVu5gzv-bXHlwVfXUS5NdyZXx6IdDigN2MnqWgzsxhzaSTwY4BZUwJk6mL8ng.jpg",
+          "thumbnail_path": "channels/farsivoa/media/f26931321e396531209327e3.jpg",
+          "thumbnail_sha256": "95f2a77045a7ce09adbd74a584c0599bdb3cf28a0b7134709a4daabfd9b5efcc",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "95",
+      "posted_at": "2026-09-07T07:16:25+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229694",
+      "reply": null
+    },
     {
       "id": "farsivoa/229693",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "359",
+      "views_label": "547",
       "posted_at": "2026-09-07T07:04:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229693",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "764",
+      "views_label": "919",
       "posted_at": "2026-09-07T06:53:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229692",
@@ -77,7 +105,7 @@
       "plain_text": "🔺وزیر انرژی آمریکا: با حصر دریایی یا جمهوری اسلامی عوض می‌شود یا سیاست‌هایش\n\n▪️وزیر انرژی آمریکا، گفت ممکن است توافق هسته‌ای با جمهوری اسلامی به دست نیاید و راه‌حل صرفاً نابود کردن توان جمهوری اسلامی باشد. او همچنین گفت که محاصره دریایی بنادر ایران «یا حکومتشان را تغییر می‌دهد یا سیاست‌های حکومت را».\n\n▪️کریس رایت، روز یکشنبه گفت: «شاید توافق هسته‌ای وجود نداشته باشد. شاید صرفاً نابود کردن توانمندی‌های آنان برای انجام آن باشد. توافق ممکن است در انتظار دولت بعدی در ایران بماند. ما به‌سادگی نمی‌دانیم.»\n\n▪️او افزود: «ما توان آنان برای توسعه سلاح هسته‌ای و در نهایت پرتاب آن در صورت توسعه را تضعیف می‌کنیم. این تلاشی ۴۷ ساله است. کار کوچکی نیست، اما آمریکا کار را به سرانجام می‌رساند.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195027.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.09K",
+      "views_label": "1.18K",
       "posted_at": "2026-09-07T06:42:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229691",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.53K",
+      "views_label": "1.57K",
       "posted_at": "2026-09-07T06:27:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229690",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.76K",
+      "views_label": "1.82K",
       "posted_at": "2026-09-07T06:13:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229689",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.93K",
+      "views_label": "1.96K",
       "posted_at": "2026-09-07T05:59:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229688",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.06K",
+      "views_label": "2.09K",
       "posted_at": "2026-09-07T05:48:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229687",
@@ -205,7 +233,7 @@
       "plain_text": "🔺کارزار اقتصادی آمریکا اهرم فشار جمهوری اسلامی در تنگه هرمز را تضعیف کرده است\n\n▪️شش ماه پس از آغاز جنگ، تشدید تحریم‌ها و محاصره دریایی توسط ایالات متحده فشار فزاینده‌ای بر جمهوری اسلامی وارد آورده، و به گفته منابع ایرانی و منطقه‌ای، توان رژیم ایران برای استفاده از تنگه هرمز به عنوان اهرمی در برابر آمریکا را کاهش داده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/president-trump-economic-pressure-iran-hormuz-leverage/8195025.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.09K",
+      "views_label": "2.12K",
       "posted_at": "2026-09-07T05:39:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229686",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.12K",
+      "views_label": "2.15K",
       "posted_at": "2026-09-07T05:25:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229685",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.15K",
+      "views_label": "2.18K",
       "posted_at": "2026-09-07T05:14:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229684",
@@ -277,7 +305,7 @@
       "plain_text": "🔺نفت به ۹۷ دلار نزدیک شد؛ چشم‌انداز هرمز تا سال ۲۰۲۷ مبهم است\n\n▪️قیمت نفت روز دوشنبه به رشد خود ادامه داد، پس از آنکه حملات متقابل آمریکا و جمهوری اسلامی به شناورها در تنگه هرمز نگرانی از اختلال طولانی عرضه خاورمیانه را تشدید کرد.\n\n▪️قراردادهای آتی نفت برنت ۵۲ سنت بالا رفت و به ۹۶ دلار و ۸۰ سنت در هر بشکه رسید. نفت وست تگزاس اینترمدییت آمریکا نیز با ۶۶ سنت رشد به ۹۲ دلار و ۱۴ سنت رسید.\n\n▪️برنت هفته گذشته ۷ و هشت دهم درصد و دبلیوتی‌آی نزدیک ۱۰ درصد رشد کردند.\n\n▪️بر پایه تحلیل بانک ای‌ان‌زد، محتمل‌ترین سناریو رویارویی طولانی همراه با اقدام نظامی سنجیده دو طرف است. بر همین اساس، بازگشت به سطح تردد پیش از جنگ تا اواخر فصل نخست یا اوایل فصل دوم سال ۲۰۲۷ انتظار نمی‌رود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/oil-price-reaching-97-usd-per-barrel/8195026.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.41K",
+      "views_label": "2.44K",
       "posted_at": "2026-09-07T05:03:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229683",
@@ -293,7 +321,7 @@
       "plain_text": "🔺سرگردانی ۱۷۰ هزار مسافر به دلیل فوران آتشفشان و تعطیلی فرودگاه‌ها در اندونزی\n\n▪️در پی فوران آتشفشان «سینابونگ» در اندونزی و تعطیلی فرودگاه بین‌المللی اصلی و دیگر فرودگاه‌های این کشور، روز یکشنبه ۱۵ شهریور صدها پرواز لغو شدند، که این امر منجر به سرگردانی ۱۷۰ هزار مسافر شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/confusion-airport-indonesia-thousands-passengers/8195024.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "4.41K",
+      "views_label": "4.44K",
       "posted_at": "2026-09-07T02:56:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229682",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.29K",
+      "views_label": "4.32K",
       "posted_at": "2026-09-07T02:36:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229681",
@@ -337,7 +365,7 @@
       "plain_text": "🔺آمادگی اسرائیل برای انهدام تونل‌های حزب‌الله در «علی طاهر» و سپس عقب‌نشینی تا مرز لبنان\n\n▪️ارتش اسرائیل در حال آماده‌سازی برای انفجار دو تونل زیرزمینی متعلق به حزب‌الله در بلندی‌های راهبردی «علی طاهر» در جنوب لبنان است، و احتمالا پس از تکمیل عملیات مذکور، نیروهای خود را از این منطقه عقب خواهد کشید.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/israel-hezbollah-ali-taher-tunnels-lebanon-withdrawal/8195023.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "4.07K",
+      "views_label": "4.1K",
       "posted_at": "2026-09-07T02:30:19+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229680",
@@ -365,7 +393,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.89K",
+      "views_label": "3.92K",
       "posted_at": "2026-09-07T02:10:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229679",
@@ -381,7 +409,7 @@
       "plain_text": "🔺در پی سقوط هواپیمای باری آمازون در میامی دست‌کم پنج نفر کشته شدند\n\n▪️مقامات محلی روز یکشنبه ۱۵ شهریور اعلام کردند در پی سقوط یک هواپیمای باری شرکت «آمازون» هنگام نشستن در فرودگاه بین‌المللی میامی حداقل پنج نفر جان خود را از دست دادند و این حادثه منجر به بسته شدن تمام باندها و مسیر تاکسی‌‌‌ها شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/five-people-killed-plane-crash-miami/8195021.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "4.07K",
+      "views_label": "4.1K",
       "posted_at": "2026-09-07T01:51:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229678",
@@ -397,7 +425,7 @@
       "plain_text": "🔺کانادا حمایت خود را از تلاش‌های آمریکا برای بازگشایی تنگه هرمز و افزایش فشار بر جمهوری اسلامی اعلام کرد\n\n▪️دولت کانادا با محکوم کردن آنچه «فعالیت‌های بی‌ثبات‌کننده» جمهوری اسلامی در خاورمیانه خواند، اعلام کرد از تلاش‌های تحت رهبری ایالات متحده برای بازگشایی تنگه هرمز و کارزار اقتصادی آمریکا علیه حکومت ایران حمایت می‌کند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/canada-supports-us-iran-pressure-hormuz-economic-outcast/8195020.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.77K",
+      "views_label": "3.8K",
       "posted_at": "2026-09-07T01:16:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229677",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.57K",
+      "views_label": "3.6K",
       "posted_at": "2026-09-07T01:02:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229676",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.59K",
+      "views_label": "3.62K",
       "posted_at": "2026-09-07T00:53:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229675",
@@ -2394,34 +2422,6 @@
       "posted_at": "2026-09-06T10:11:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229594",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229593",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/cQgmNvY74QjMaJtRlGlAgwARq80-ngAFt95OGdUvawYpXRlgX1I0clW8a36_0wg0KQW01LJ0WQu9BqpST7mohIffbNUFA69ex-Lkf6Uxm-tRC9fnRtAzxAzkh0gbyyb0gskR6k6eYyyxmBrreDKOZ3GI717bPZ9fXIO5OPouQSOk6lXWlHM6cd2P_frgT1Wg5WzirdR4Wrxa3cFM5EbbDLoQnZesAGGbAJQC-7-_M1BM1x6rMu_j7_nT_BryWHEWoQu34Hwt3C5O6uTaZY0PWF5cpl7--mPsz-xFvsqjpvn05avmOnilCpREWkKLcCK4OERe7ekk1gf0pDPtLCNTyg.jpg",
-      "author_photo_path": "channels/farsivoa/media/0abbb3eafc2bacb0efcb50a7.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "آلمان بسته گسترده‌ای از اقدام‌ها را برای تقویت دفاع خود در برابر حملات پهپادی، نفوذ سایبری و دیگر اشکال خرابکاری روسیه طراحی می‌کند.<br><br>روزنامه بیلد آم زونتاگ روز یکشنبه گزارش داد این طرح پس از تلاش ناکام برای حمله پهپادی به فرودگاه لایپزیش-هاله در ماه گذشته تدوین شده است.<br><br>آلکساندر دوبریندت، وزیر کشور آلمان، به همین روزنامه گفت حملات ترکیبی روسیه به بخشی از واقعیت روزمره تبدیل شده است.<br><br>او افزود: «این حملات افزایش می‌یابد، اما می‌توانیم از خود دفاع و حفاظت کنیم.»<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "آلمان بسته گسترده‌ای از اقدام‌ها را برای تقویت دفاع خود در برابر حملات پهپادی، نفوذ سایبری و دیگر اشکال خرابکاری روسیه طراحی می‌کند.\n\nروزنامه بیلد آم زونتاگ روز یکشنبه گزارش داد این طرح پس از تلاش ناکام برای حمله پهپادی به فرودگاه لایپزیش-هاله در ماه گذشته تدوین شده است.\n\nآلکساندر دوبریندت، وزیر کشور آلمان، به همین روزنامه گفت حملات ترکیبی روسیه به بخشی از واقعیت روزمره تبدیل شده است.\n\nاو افزود: «این حملات افزایش می‌یابد، اما می‌توانیم از خود دفاع و حفاظت کنیم.»\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229593",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Q1VlJ7QAmtEd_OWgmWk47WCq6UzRdWnGc6lyi9GJwuWJMULLMw3g1Fyzgo5j49KJOmAiE_4Xdxqvp0i5MDKFdlGe2v-0St5G1dagDr6vtyc7DkQUMo-MukXUBS3crJy8iAQmZpdQRL1ZVege9OWySwyWgvj2ChxgMh8H8BCVx9TAHZBAZ9nDo3iDo0F11Vlp4MbwWBgOIdPJ7bjtCE-oOjlJYNf_CqoigR0cbkaC90hEOTxpSol786u44NxdWIhuVWP9W7cf00lQNCT4Hx7yTcJQke8h4ef4nhjHbA5wYrav7wynHLcGuC6UtlijmxdIxS6qkTR0nl8yM_jNgMGfmA.jpg",
-          "thumbnail_path": "channels/farsivoa/media/5566d94271d3479ddc39c482.jpg",
-          "thumbnail_sha256": "f9da75aa4f0a87b71641729ef05cbc8d0b87d5b14a958158901542b8da7bf204",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.2K",
-      "posted_at": "2026-09-06T09:56:30+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229593",
       "reply": null
     }
   ]
