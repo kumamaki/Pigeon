@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T09:52:18.551Z",
+  "fetched_at": "2026-09-07T09:57:24.335Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,62 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356112",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، درباره اظهارات تازه محسن رضایی پیرامون ایجاد منطقه ممنوعه در تنگه هرمز گفت: «این سخنان مجموعه‌ای از ادعاهای نادرست و نگران‌کننده است؛ به‌ویژه از این جهت که از سوی یکی از مقام‌های ارشد جمهوری اسلامی مطرح می‌شود و نمی‌توان آن را صرفا یک اظهارنظر شخصی دانست. ادعای ادامه فروش عادی نفت ایران با داده‌های موجود درباره کاهش شدید صادرات همخوانی ندارد و سخن از جایگزینی مسیرهای دریایی با راه‌های زمینی نیز واقع‌بینانه نیست. در عین حال، تهدید ناوهای جنگی آمریکا می‌تواند هزینه‌های سنگینی برای جمهوری اسلامی به همراه داشته باشد.»<br><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، درباره اظهارات تازه محسن رضایی پیرامون ایجاد منطقه ممنوعه در تنگه هرمز گفت: «این سخنان مجموعه‌ای از ادعاهای نادرست و نگران‌کننده است؛ به‌ویژه از این جهت که از سوی یکی از مقام‌های ارشد جمهوری اسلامی مطرح می‌شود و نمی‌توان آن را صرفا یک اظهارنظر شخصی دانست. ادعای ادامه فروش عادی نفت ایران با داده‌های موجود درباره کاهش شدید صادرات همخوانی ندارد و سخن از جایگزینی مسیرهای دریایی با راه‌های زمینی نیز واقع‌بینانه نیست. در عین حال، تهدید ناوهای جنگی آمریکا می‌تواند هزینه‌های سنگینی برای جمهوری اسلامی به همراه داشته باشد.»\n\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356112",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/MybZi0LqfAOvr7MKqrJcfz8b191wDKoODfRnN4ELcMRL59zThOF_d8Gn3O6Zxzf10FPGIwY7ApN3HSpTOdQd9A-S4tocEuNvNJJIfVVszUnD7MWAz13igvXksqI1OeMTT5MazVHdlSnNnVm33aNn4LqfY1El_OqAMCfEoPSZg8Xg9jelMWeq_w90RhCNt34KdjZoYDvwb0kjsIvl1RG2UjWwmEfLQ-sCmCX_XjgRV0-r-adE8UCw-abVR5zvZ6Y0RfDMpF_rJn9xBnYkloLihaZoeb4KpNxnd0K5-YMPkkqz7IXRXOabD7q8vweHcEI2JUDLXUx_Pl2-aPXbGJvCRA",
+          "thumbnail_path": "channels/iranintltv/media/284c2b16f415fad9e64b50ae.jpg",
+          "thumbnail_sha256": "def1353fab8bf88b5602386ce499b88ea8119c189d9f0199ebe876993d2d5882",
+          "duration_label": "4:06",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "2",
+      "posted_at": "2026-09-07T09:56:31+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356112",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356111",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال درباره گران شدن بنزین خطاب به مسئولان جمهوری اسلامی می‌‌گوید: «هم بنزین را گران کردید و هم سهمیه را کم کردید. بعد می‌گویید کرایه‌ها تغییری نمی‌کند، در حالی که همه‌چیز گران می‌شود.»",
+      "plain_text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال درباره گران شدن بنزین خطاب به مسئولان جمهوری اسلامی می‌‌گوید: «هم بنزین را گران کردید و هم سهمیه را کم کردید. بعد می‌گویید کرایه‌ها تغییری نمی‌کند، در حالی که همه‌چیز گران می‌شود.»",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356111",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/uN8utrGM_nn1sqRxo-hUx7VLaTCM-urk2mikQdhxyl5CdNgpBBI-5GhUpK7lnsXG8sr3CMSercy04sCaTlnPIDVgOMmbfLph3tB1FHfdat4fdWCCXgF4cSfmC4Ks1ifrFe_sO_KAj7-wjS3aKmCykBfXGabtUnT-4dWm-RIkTnG-rqWTWFdhDcGF8EImrRc9KdVS_9oabex8qahb6QfUEKaklQwopTDQDzzz3IbgUr3y8si6wvWbmkrU_3ignETkN5zEGcW9kQbOVETVvNghUO7ApUxN8I9ky5h7v1b2_RLVy46pDDyVlZjeet_PH2PAUDCh-_dY5DWUtg8NvdwMfQ",
+          "thumbnail_path": "channels/iranintltv/media/9e49a833d8bfd2b9337ab3a8.jpg",
+          "thumbnail_sha256": "4a530ca98049a05b47903823288d2e949f2a3a102d055216f3d7c0cc2b170bbc",
+          "duration_label": "1:43",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.02K",
+      "posted_at": "2026-09-07T09:55:30+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356111",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356109",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.23K",
+      "views_label": "8.36K",
       "posted_at": "2026-09-07T09:46:32+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356109",
@@ -61,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.32K",
+      "views_label": "11.4K",
       "posted_at": "2026-09-07T09:41:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356108",
@@ -89,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.37K",
+      "views_label": "11.5K",
       "posted_at": "2026-09-07T09:38:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356107",
@@ -117,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.5K",
+      "views_label": "14.6K",
       "posted_at": "2026-09-07T09:32:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356106",
@@ -145,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.5K",
+      "views_label": "15.6K",
       "posted_at": "2026-09-07T09:28:43+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356105",
@@ -173,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16.7K",
+      "views_label": "17.8K",
       "posted_at": "2026-09-07T09:21:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356104",
@@ -201,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.8K",
+      "views_label": "19.8K",
       "posted_at": "2026-09-07T09:16:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356103",
@@ -229,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.8K",
+      "views_label": "20.9K",
       "posted_at": "2026-09-07T09:11:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356102",
@@ -257,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23K",
+      "views_label": "25K",
       "posted_at": "2026-09-07T09:00:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356101",
@@ -285,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23K",
+      "views_label": "24K",
       "posted_at": "2026-09-07T08:58:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356100",
@@ -313,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25K",
+      "views_label": "26.1K",
       "posted_at": "2026-09-07T08:51:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356099",
@@ -369,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23K",
+      "views_label": "24K",
       "posted_at": "2026-09-07T08:50:56+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356097",
@@ -397,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.1K",
+      "views_label": "25.1K",
       "posted_at": "2026-09-07T08:46:35+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356096",
@@ -425,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25K",
+      "views_label": "25.1K",
       "posted_at": "2026-09-07T08:41:49+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356095",
@@ -441,7 +497,7 @@
       "plain_text": "🗣روایت شما از شرایط زندگی و بحران اقتصادی- دوشنبه ۱۶ شهریور:\n\n🔹به این بنده خداهایی که سایپا ثبت‌نام کردن بگین پول رو واریز نکنن اصلا تحویل نمی‌دن. ما الان یه ساله منظریم ماشین رو سه ماهه بدن بهمون، تازه می‌گن اصن خط تولید اون ماشین راه نیفتاده.\n\n🔹ما دانشجوهای دریانوردی جزیره خارگ چندسال درس خوندیم، آینده‌مون داره از بین می‌ره. هیچ‌کس هم راجع‌ بهش حرف نمی‌زنه؛ نه رئیس دانشگاه آزاد براش مهمه نه رئیس سازمان بنادر.\n\n🔹دزدی حکومت بعد از اینترنت و هزاران چیز دیگر به کیسه‌های برنج هم رسیده. ۹ کیلو و ۴۰۰ گرم برنج را به اسم کیسه ۱۰ کیلویی می‌فروشند.\n\n🔹از تهران پیام می‌دم. دو هفته پیش طلا خریدم، گرمی ۱۸ میلیون تومن؛ الان شده ۲۲ میلیون تومن. سه هفته است از کار بیکار شدم. در شرف ازدواج بودم. نمی‌دونم باید چیکار کنم؛ الان واقعا فقط می‌دونم خیلی خسته‌ام.\n\n🔹خیابان‌های مشهد پر شده از بنرها و تابلو های تبلیغاتی حجاب اجباری، در حالی‌که نگرانی مردم نون شب‌شونه.\n\n🔹سال ۸۵ یه وانت پر مواد غذایی از بازار تهران زدم آوردم مغازه‌ام شد ۷۵۰ هزار تومن. دیروز یک موتور بار آوردم شد ۴۰ میلیون. هر چی گشتم تو هیچ ردیفی از فاکتور جنس ۷۵۰ هزار تومنی نبود. ارزون‌ترینش یک کارتن کیک بود ک بالای ۸۵۰ هزار تومن پولش بود.\n\n🔹با این همه گرونی حقوقم جواب نمی‌ده. تازه وسط ماهه و ته کارتم یک میلیون مونده.\n\n🔹با گران شدن بنزین و افزایش نرخ دلار و حقوق ماهی ۲۰ میلیون تومن، کرایه خانه و ماشین رو چه کنیم.",
       "media": [],
       "reactions": [],
-      "views_label": "25.1K",
+      "views_label": "26.1K",
       "posted_at": "2026-09-07T08:38:54+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356094",
@@ -469,7 +525,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.1K",
+      "views_label": "26.2K",
       "posted_at": "2026-09-07T08:34:57+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356093",
@@ -497,7 +553,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.2K",
+      "views_label": "29.3K",
       "posted_at": "2026-09-07T08:24:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356092",
@@ -2705,50 +2761,6 @@
       "posted_at": "2026-09-06T15:36:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356009",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356008",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dua7-1F68YLJEFGTSTDkU4pbo7m29v_PUJo2Id0N3mpOijzM-Ub3dUhVIdGgiFiUhiPrQlMJKmZS7PXc6vsLzQw5lcMV_0vR2fRD2DKa3RDILk1oxcl2xdhmXItFOYchjDiDsgeLBQ_1T0LBPZcIoH3hZQWRinokn6_n3QMh3HeLQL1xTx-T4w5vhLmH_pMyugiDxZG96Q94OLXBePfpnJaSWRQdpdGWA29Z7E5pCPobtE0Sj7srHnvAGLaBDNDonYlFCLdCBSiGWmc2pRkrFtkr9og4kQ9w7KNWP8eu8Ze6jPWegnUYoPiQLkQNQtTHDMO_6IRz2XARr4G6gn_TuQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/ca7f2807f5839f47a1129d1b.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA7.png')\"><b>🎧</b></i>نسخه صوتی اخبار شبانگاهی | یک‌شنبه ۱۵ شهریور<br><a href=\"https://t.me/iranintlTV\" target=\"_blank\">@iranintlTV</a>",
-      "plain_text": "🎧نسخه صوتی اخبار شبانگاهی | یک‌شنبه ۱۵ شهریور\n@iranintlTV",
-      "media": [],
-      "reactions": [],
-      "views_label": "43.4K",
-      "posted_at": "2026-09-06T15:33:19+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356008",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356007",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dua7-1F68YLJEFGTSTDkU4pbo7m29v_PUJo2Id0N3mpOijzM-Ub3dUhVIdGgiFiUhiPrQlMJKmZS7PXc6vsLzQw5lcMV_0vR2fRD2DKa3RDILk1oxcl2xdhmXItFOYchjDiDsgeLBQ_1T0LBPZcIoH3hZQWRinokn6_n3QMh3HeLQL1xTx-T4w5vhLmH_pMyugiDxZG96Q94OLXBePfpnJaSWRQdpdGWA29Z7E5pCPobtE0Sj7srHnvAGLaBDNDonYlFCLdCBSiGWmc2pRkrFtkr9og4kQ9w7KNWP8eu8Ze6jPWegnUYoPiQLkQNQtTHDMO_6IRz2XARr4G6gn_TuQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/ca7f2807f5839f47a1129d1b.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "حسن قشقاوی، نماینده و سخنگوی کمیسیون امنیت ملی و سیاست خارجی مجلس، گفت این کمیسیون یکشنبه ۱۵ شهریور ماده ۹ «طرح اقدام راهبردی تامین امنیت و پیشرفت تنگه هرمز» را تصویب کرد.<br><br>بر اساس این مصوبه، عبور شناورها یا محموله‌های مرتبط با کشورها، اشخاص و موسساتی که جمهوری اسلامی را تحریم کنند یا علیه آن دست به «اقدام خصمانه» بزنند، از تنگه هرمز ممنوع خواهد شد.<br><br>قشقاوی گفت ستاد کل نیروهای مسلح مسئول تشخیص «اقدام خصمانه» است و شورای عالی امنیت ملی نیز کشورها و موسساتی را که تهران را تحریم یا دارایی‌های آن را مسدود می‌کنند، مشخص خواهد کرد.<br><a href=\"https://iranintl.com/202609065071\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609065071</a>",
-      "plain_text": "حسن قشقاوی، نماینده و سخنگوی کمیسیون امنیت ملی و سیاست خارجی مجلس، گفت این کمیسیون یکشنبه ۱۵ شهریور ماده ۹ «طرح اقدام راهبردی تامین امنیت و پیشرفت تنگه هرمز» را تصویب کرد.\n\nبر اساس این مصوبه، عبور شناورها یا محموله‌های مرتبط با کشورها، اشخاص و موسساتی که جمهوری اسلامی را تحریم کنند یا علیه آن دست به «اقدام خصمانه» بزنند، از تنگه هرمز ممنوع خواهد شد.\n\nقشقاوی گفت ستاد کل نیروهای مسلح مسئول تشخیص «اقدام خصمانه» است و شورای عالی امنیت ملی نیز کشورها و موسساتی را که تهران را تحریم یا دارایی‌های آن را مسدود می‌کنند، مشخص خواهد کرد.\nhttps://iranintl.com/202609065071",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356007",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/kc-fdJC9UYvySOnnVlVS6FrlsM7TE2M4HIYkspXxkGMtzikvnvUhAr3ZDI63c1A4lqcrc-FQrlPjFb4TWp-wZEN9wlIsXedsy2sgIRAT5fPLeEwMZZnDXgnD1ECGw2Maq4WOV1jL-gpEQ11_ZftrkSSeg_-m8cxj-EeYhaB8Wzem1WLdkeji26_9llLsNYRU1vnHpXbSHraBBeIhVRJocWh5ope26T6fKVunN0tR7Zql0RWPOCKiIUkVrkFOg0oYz5E1JcO649tWrwY29dRNaFcDRpVFhazo05o0dj1x5gS2etKyBQ7sffQ3qbEqY9eencqgPM4lPWM4N5h90bFb5Q.jpg",
-          "thumbnail_path": "channels/iranintltv/media/acbe9bbdc8526b496f25590f.jpg",
-          "thumbnail_sha256": "e5eea680b98c729957cea0fe7b9227b384afc8a1f78907fd748e3d547a303155",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "45.5K",
-      "posted_at": "2026-09-06T15:21:06+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356007",
       "reply": null
     }
   ]
