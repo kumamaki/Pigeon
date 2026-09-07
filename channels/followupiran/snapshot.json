@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T17:02:02.096Z",
+  "fetched_at": "2026-09-07T17:07:15.206Z",
   "channel": {
     "username": "followupiran",
     "title": "کمیته پیگیری وضعیت بازداشت‌شدگان",
@@ -589,8 +589,8 @@
           "asset_url": "https://t.me/Followupiran/1229",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/ngTT1UMSuwn_52XFMBy1PFDY8TsftKVt1-T1M9fQHllqNprVKDkxOxse0v1bo91MhN2AHDgjuQmb0wG9xUO3vNSxhlSAj2COIvMOV8g7vaojtrdjYoWIlYFuYUlj7Q3nkJaW38ZVhKJMY8VTtJCLfpijaD8e2KiffT4BYUdzQMz51X_GP1wBtLLH748nY3BHhi3OYgm4UdOraU8at7f43nG5WujpgCchhexxFGSAjiIYJ1D9iDxfWglmr0rDDitcXCWxypRkee0VfXUpb7ElnIHR3eZzQdzs8POsP4Y3b3AtWsBY2EMGiMK3hAV8KO83MvQihQrcodf_5naAT9KVzw.jpg",
-          "thumbnail_path": "channels/followupiran/media/9fd2933f942f3b2e1bc9d59f.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/SS790vEcR9LHvgzjl4OvTfq3T1YUW4r_W9iIU5qMuDg6hBCnDjLy-fzxW2tsw9P7kDHOlI9HIr1EMUHFW9OSVuHxHAmU1E8Je6vZ3utsynMCARB0jf8VqtD0kcFYn-gonwJbzWQREJ_frllDLe9RF5ebYs4Rp62kTo93PFz2D6hFjVUTEcPsvMl6c6RK5qVvsR6RdehIasfAOkHuR7owP3RYIyzbYr9kjuAFhW2UMOlHQ58oLUXebcmYIUj-x44mphDGDC8Z_1ttU-fJq3MPCXVOHPsJeJnF1A3-ZDVZO358eU2chhsG1OEbZJuCVCrmP9z9Yd-VE3_DPmBBq6qLxg.jpg",
+          "thumbnail_path": "channels/followupiran/media/c5886f5ecc39d099de67faab.jpg",
           "thumbnail_sha256": "7824f4f75c3f3fbefc240d628d8d07117c56fb3d790a72dd8ffe8acc600ac9a2",
           "duration_label": null,
           "aspect_ratio": 0.8
@@ -740,8 +740,8 @@
           "asset_url": "https://t.me/Followupiran/1226",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/iFVBYaHnqcZ1AkNpKDMJqqUmb_bhgcDOuGuc0AES_82KdQqCeIFdG-Sw87ijuZ3J7YzLsK-CbyeUGaPyPNw4qHPGlHTsfWDbyG7OQIil93HYj5--w6opnnp_7tKXmXEBoZT_WIILfA_bvrP37xnscAKXN-xsreMzS9zy4inysNj3DYYgjk-7fGxd7e3fhBZjSvFOWEbnJpoH_0On8kINCvqURLQ3MNxcaCwlH1vSMAJGi_ZmzbPQN2KZ8RJfey9Nz8Xt4lACcni6S8YSJTT7FIA6qEc5gNc6RrZmkUowVQDS52PSgdVnHBg97b8-Juk1walubI0LesEqhJkS-Y1dWw.jpg",
-          "thumbnail_path": "channels/followupiran/media/0e960935be296a9adbf44b23.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/rdH2TfZ0AHr0WGsBvbNT4UnxxIPN1ZQbpuK6iDLoA-CxdEVAsFxr79Zk9e7WVxQ8Y5mElC1OK4QIyeIrQ5EL0_L8VveWSKvjAEFjycwrcwIhRRaQm7FPLR9fCl6e4Pf4V7hD6S58jopo4boI-wT2TUHRscrH3VCUkut203TITlGdDVPB1uTIc4MmraL-jzTJkauhQBz5orhIIYQMMmu9I5yB95GJgK28abq8LOlD2W1XJZZM2hy_xdzL1hkc7Nnezrg7D9AFRLPeppVTpgr-4p2YldHPNwX-TN2mw7Ej6OjhhX57RfRqZ_Bz57VA6dc7Fc3bVKmjLMAUskItjC1k4g.jpg",
+          "thumbnail_path": "channels/followupiran/media/ff0f4dbf25a2bcb1fa95a1ad.jpg",
           "thumbnail_sha256": "14a0c8424689b1259f94eacb126dc4156af64d52ef23aa3227091be5d545a27a",
           "duration_label": null,
           "aspect_ratio": 0.8
@@ -899,8 +899,8 @@
           "asset_url": "https://t.me/Followupiran/1223",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/D0rwaatOV9w822lvrP7JyLZXm1ZwEWlwCNUdewrgWyN393GmuROgdbEGyIwGtgGMPPXE4bRE77OpFGBj9fQvE99XjABQCH8c2ELaYhFC--3gxyXQX_SUVLmfEvscWzkZ5XnEgq9yqSsUWAsGx3vYGgSAoDUDIPEcIBfCeQM7aLjVx_2kPXsGX4S4utKey8aYppstcfoJ6Et7sl9TC3xR6L78FxZ6ZHZjGkCIEWPtcZlVSeoVMVF0OnFlfxItmoRSI5csZ6Q-6TBhlvgd8-k5yPk__brNcyTl3G05KbtrmqsHzzXgNQK52K0E_HzZ7r3roS4d2Krs1TZdDqu0-0Umdw.jpg",
-          "thumbnail_path": "channels/followupiran/media/d1c0eae4e4a09500a83ee577.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/F5Te4V679m-ntAbjzThoMfIVYK7i_gy4wlgvggRRwjRWZkyBQLL88nZ7XMaNZDy6Ec7mOjK64yqrzHGBao2UkGsEGfFf-uw9dLDdXv-sfcDk4yQKGeZVG426UoqNkb1xnrnsXFxrmG3JewrFL43JIKmah6LYFWey3tIxu9hDuud5UvcakBLJRyP25Kpwo33bAcfmN8yzOdprn-ccjzaeO-K7RHMqi1M-7yOAFCD8gnt2YxeujoNnGmGmAJKlOb1vAXkAA9wu-Nzdd7aUsKKHBcAOx7GUDEKkVVq2ANA1t671MbEhxm0g5ikUEz9O7-P1Cyqm3nRu5wv_h-ah31B0HA.jpg",
+          "thumbnail_path": "channels/followupiran/media/af545b74872c7b7cef47cf90.jpg",
           "thumbnail_sha256": "64e03ea903b83b2ee7e5421b19adf99f5cc1b13996f4705e30f30fbe9f2a82a6",
           "duration_label": null,
           "aspect_ratio": 0.8
@@ -952,8 +952,8 @@
           "asset_url": "https://t.me/Followupiran/1222",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/aVDZplrOFfelY2fme6nh-0QBh3e21l-ZiWkPZjPX5lNt3p615DxadyJ3J8XqHh7q5chOY-nZ6Jb8b7ggQ46cQpcuYf8tk0MGiwLfKT10YCdp0Q-tv1_XSQHA5poOcGI_7zk9hEoO7AXFfkU7t_u2Luwq32LCVTEYdDSbEuvubq0DpWRL4-c0DM5cXsiaMgwZudN0jLsL404M5L-ZyIynzJ_H00FS50wYLqwy0nluwEw70QibIxjwOMN7ThmnZPEkUMS7aUOub9pDSdpS6WvLAsfNxLBh5QFdDRqUlSLcZifcksXwn0JPnDRSvFbZnNQPNPdUGoZOD41ZvlXyAjoeIQ.jpg",
-          "thumbnail_path": "channels/followupiran/media/2b9c3777793ff44fbae15d1d.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/WNOLB9GTbYhi8FrOYPkbIlc4BYCxVHxD4Wd3GD-TUPSwH0DtC6mGULQ_aSiRetp7MQoiwUrdXfmLOKHXcPdZw4zqFP7WZ8l1S1WCthZz3X_kjQ-S-TuACBu7cAwOey5Vy0-0o_STgKr8heSpKoisOBT45vQC-hEUPLHv1YAG_PvtMtu6T5LyRAikivamGVQeVk-SvK-77YuhZmWwlUysrinqVBt-Mi5aPqtB5XwQ01dGxQEV9mibEeyAJ77x3gQzM0z0SVvlED9nzM3pQjH9NVYPdqAGsU_2tz4bLDwf-k184g5oD76Tl9tPEI_eVz6YjXS3ic44N-53y0qXkQZtJQ.jpg",
+          "thumbnail_path": "channels/followupiran/media/ea8add3cbfbe3d73e6ef5862.jpg",
           "thumbnail_sha256": "e8a3d56f6b2dcfdd361a34eea15583bffd92873937eb60b2a27d2f9055f318d3",
           "duration_label": null,
           "aspect_ratio": 0.8
