@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T12:22:21.968Z",
+  "fetched_at": "2026-09-07T12:24:06.943Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "sahamnewsorg/147126",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/642684be024870091c2036fb.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>وقتی خودتونم توی پلتفرم داخلی دوام نیاوردید!</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>سال‌ها اینترنت رو بستن و با فیلترینگ شدید خواستن مردمو به‌زور بفرستن سمت پلتفرم‌های داخلی، کلی هم بودجه خرج کردن و هر روز گفتن حمایت از پیام‌رسان بومی!<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>حالا بعد از این‌همه وقت، ستاد فضای مجازی خودشون جلسه گذاشته و گفته ممنوعیت حضور ارگان‌های دولتی توی پیام‌رسان‌های خارجی رو برداشتم، اسمش رو هم گذاشتن «پایان یک خودتحریمی عجیب»!<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>جالب اینجاست که می‌گن: «برمی‌گردیم همون‌جایی که مردم هستند». خب اگه مردم اونجان و خودتونم فهمیدید بستن این پلتفرم‌ها جواب نمی‌ده، چرا باید برای ارگان‌های دولتی آزاد باشه و پیج بزنن، ولی همون مردم برای باز کردن یه اپلیکیشن عادی هر ماه پول فیلترشکن بدن و با قطعی سر و کله بزنن؟!<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅وقتی خودتونم توی پلتفرم داخلی دوام نیاوردید!\n\n🔸سال‌ها اینترنت رو بستن و با فیلترینگ شدید خواستن مردمو به‌زور بفرستن سمت پلتفرم‌های داخلی، کلی هم بودجه خرج کردن و هر روز گفتن حمایت از پیام‌رسان بومی!\n\n🔸حالا بعد از این‌همه وقت، ستاد فضای مجازی خودشون جلسه گذاشته و گفته ممنوعیت حضور ارگان‌های دولتی توی پیام‌رسان‌های خارجی رو برداشتم، اسمش رو هم گذاشتن «پایان یک خودتحریمی عجیب»!\n\n🔸جالب اینجاست که می‌گن: «برمی‌گردیم همون‌جایی که مردم هستند». خب اگه مردم اونجان و خودتونم فهمیدید بستن این پلتفرم‌ها جواب نمی‌ده، چرا باید برای ارگان‌های دولتی آزاد باشه و پیج بزنن، ولی همون مردم برای باز کردن یه اپلیکیشن عادی هر ماه پول فیلترشکن بدن و با قطعی سر و کله بزنن؟!\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/147126",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/TGr_4wfYIH7BUE6efCEgM4h3lTb_iQ7jRLF9iuJ0aBJGEEGy2r-XAOkmtHqpyV268krGIbBM6vOvutQusUt2HKIt6y3Ncfcf7Lhyg-vcvF7c9jglZzdE4mMsA8URhplEBaAK0iZrWMZJKu7K1F3nwePsrshhGs42O0elnPQRhIZ8iD298Q57Lcdjy1mlUON2lfAZ_lD9VAFxkEi-Fv49reNx7eHYVZTqhEBKQGHiUg3dZXi-H3_kqXxDsNYUTTJU3uo-1gf0qCAMgAwAb3nsg2lFpxVI3U06-qAry_mpc-VmTl09ybsuu9zCgO5LQ7BKIy0ZY5r29OZOeFhY2QJOyg.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/e675d002d02c6e87b8926df7.jpg",
+          "thumbnail_sha256": "4b88ae664bd70444cd2dcfac011b80e2251fd16101492ebf3759046706939b8c",
+          "duration_label": null,
+          "aspect_ratio": 2.247191011235955
+        }
+      ],
+      "reactions": [],
+      "views_label": "929",
+      "posted_at": "2026-09-07T12:22:26+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147126",
+      "reply": null
+    },
+    {
       "id": "sahamnewsorg/147125",
       "author_name": "سهام نیوز",
       "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "✅گروسی:ایران باید به حرف ما گوش دهد\n\nاظهارات مدیرکل آژانس بین المللی انرژی اتمی:\n\n🔸 ما تا الان اقدامی فنی درباره ایران نداشتیم و همانطور که در گزارش آمده است هیچ تعامل و اطلاعاتی وجود ندارد\n\n🔸 ایران گفته است تا زمانی که توافقاتی در مذاکرات حاصل نشود همکاری نخواهند کرد\n\n🔸 ایران همچنان عضو پیمان NPT است و تعهداتی دارد\n\n🔸 ما به تعامل با ایران نیاز داریم و درس خوبی از اتفاقات قبلی میتوانیم بگیریم\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "1.35K",
+      "views_label": "2.29K",
       "posted_at": "2026-09-07T12:20:11+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147125",
@@ -37,7 +65,7 @@
       "plain_text": "✅هشدار ایران به آمریکا؛ در صورت اشغال تپه علی‌الطاهر مستقیم وارد عمل می‌شویم\n\nالجزیره به نقل از یک تحلیل‌گر:\n\n🔸 ایران به آمریکا اطلاع داده که در صورت اشغال تپه علی‌الطاهر توسط اسرائیل، مستقیماً وارد عمل می‌شود\n\n🔸 تل‌آویو عملاً کنترل تپه علی‌الطاهر را در دست نگرفته.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "3.47K",
+      "views_label": "4.1K",
       "posted_at": "2026-09-07T12:16:12+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147124",
@@ -53,7 +81,7 @@
       "plain_text": "✅امارات: گروگان تنگه هرمز نمی‌مانیم و مسیر جایگزین می‌سازیم\n\nممکن است دهه‌ها طول بکشد تا اعتماد میان امارات و ایران دوباره شکل بگیرد\n\n🔹قرقاش مشاور رئیس امارات مدعی شد امارات متحده عربی معطل تنگه هرمز نمی ماند و در حال توسعه مسیرهای جایگزین برای صادرات انرژی و تجارت است تا وابستگی خود را به کریدورهای کشتیرانی آسیب‌پذیر در بحبوحه درگیری مداوم با ایران کاهش دهد.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "21.4K",
+      "views_label": "21.7K",
       "posted_at": "2026-09-07T10:57:52+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147123",
@@ -69,7 +97,7 @@
       "plain_text": "✅دولت ترامپ آمریکا را فقیرتر و بیمارتر کرده است\n\nگوین نیوسام، فرماندار کالیفرنیا:\n\n«ما با یک گونه مهاجم در کاخ سفید روبه‌رو هستیم. چیزی که تا به حال هرگز تجربه نکرده‌ایم؛ کسی که می‌گفت قرار است ما را ثروتمندتر و سالم‌تر کند، اما حالا در تمام شاخص‌ها، هم بیمارتر شده‌ایم و هم فقیرتر.»\n\n🔻پ ن: مظلوم مردم ایران\nحدود ۶ ماهه تورم امریکا ۲ تا ۳ درصد بیشتر شده و مدیران امریکا معتقدند ترامپ مردم امریکا را فقیرتر کرده است اما ملت ایران بیش از ۲۰ ساله گرفتار تورم ۴۰ تا ۱۳۰ درصد شدند و در صورت اعتراض به شخص اول کشور یا باید به زندان بروند یا در خیابان کشته،کور و زخمی شوند\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "29.2K",
+      "views_label": "29.5K",
       "posted_at": "2026-09-07T10:06:45+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147122",
@@ -108,7 +136,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.6K",
+      "views_label": "32.9K",
       "posted_at": "2026-09-07T09:40:09+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147120",
@@ -124,7 +152,7 @@
       "plain_text": "✅خسروپناه، دبیر شورای انقلاب فرهنگی:\nامروز همه نهادهای ما باید پهپاد بسازند؛ پهپادی که اف‌۳۵ را بزند:(\nچون فضای هوایی را مورد تهدید قرار داده است\n\n🔻چطور به عقل کسی نرسیده بود؟😁\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "33.8K",
+      "views_label": "34.1K",
       "posted_at": "2026-09-07T09:36:17+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147119",
@@ -152,7 +180,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.1K",
+      "views_label": "35.4K",
       "posted_at": "2026-09-07T09:23:31+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147118",
@@ -180,7 +208,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.3K",
+      "views_label": "32.6K",
       "posted_at": "2026-09-07T09:23:30+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147117",
@@ -228,7 +256,7 @@
       "plain_text": "✅کریس رایت وزیر انرژی آمریکا: انتقال نفت از خاورمیانه به دوسوم سطح پیش از جنگ با ایران رسیده است\n\n🔻فرمان آقای علی الاصول باعث شد همه از تنگه هرمز نفت صادر کنند به جز ایران.\nسرنوشت ۹۰ میلیون ایرانی افتاده دست یه طلبه و چند سردار سپاه\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "35.4K",
+      "views_label": "35.7K",
       "posted_at": "2026-09-07T08:50:51+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147114",
@@ -244,7 +272,7 @@
       "plain_text": "✅معاون وزارت نفت از کسری ۱۰ میلیون لیتری بنزین خبر داد\n\n🔸محمدصادق عظیمی‌فر، معاون وزیر نفت و مدیرعامل شرکت ملی پالایش و پخش فرآورده‌های نفتی در یک گفت‌و‌گوی تلویزیونی میانگین مصرف بنزین در پنج ماه ابتدایی امسال در ایران را حدود ۱۳۲ میلیون لیتر در روز عنوان کرد و گفت میزان تولید بنزین پالایشگاهی و غیرپالایشگاهی نیز به‌طور میانگین حدود ۱۲۲ میلیون لیتر در روز بوده است.\n\n🔸این مقام وزارت نفت با اعلام کسری روزانه حدود ۱۰ میلیون لیتر بنزین به‌طور میانگین، گفته است که این مقدار «باید از محل واردات جبران» می‌شد.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "35.3K",
+      "views_label": "35.6K",
       "posted_at": "2026-09-07T08:44:26+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147113",
@@ -272,7 +300,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.2K",
+      "views_label": "35.5K",
       "posted_at": "2026-09-07T08:41:01+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147112",
@@ -288,7 +316,7 @@
       "plain_text": "✅جمهوری اسلامی از خط قرمز ما عبور کرد\n\nترامپ: در یک حمله غافلگیرانه، آنها پنج موشک با سرعت ۸۵۰۰ مایل در ساعت به سمت نیروهای آمریکایی شلیک کردند که هیچ اصابتی نداشت و هر پنج موشک سرنگون شدند.\n\nاوضاع درست می‌شود!\n\nدر همین حال، ما واقعاً به آنها ضربه خواهیم زد؛ اکنون نوبت ماست که حمله کنیم.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "35.5K",
+      "views_label": "35.6K",
       "posted_at": "2026-09-07T08:32:40+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147111",
@@ -2352,34 +2380,6 @@
       "posted_at": "2026-09-05T08:52:49+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147024",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147023",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LEPulZgNyRXQYUH9pl6txwmy1HaX1HDx2Vj1MUZOEH08i10zaO4aZhruOq7e7tuCrDtlLu1KCqgj2aEt5We72kVXaPWY26ewl5sw9d3G7ezGzPfjPB-4pQM-cGqEAZhmN8PmaDxycrwl1DnrM0MMCdCLoAkc3GNj2ciAWHd7PaEDCkRqMS0AA97Kre37DwtmJRlvO9HWWQ3L1lrW1B0vJZ7PZ9KN7v_ochZfRsNLzcI5qicVpEqEzWUd2ikFhWbkLGHz2-LFcGyh7UrCtcmLvMDozbJtR8Vtccyc0WXtH3ZnLExU2BRwof0c-62a6UypDkGSOoxACOw167DnfXIvVA.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/93aceceef10a8532f638aaa7.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>مجموعه فعالان حقوق بشر، در آلمان شکایت کیفری ثبت کرد و خواستار تحقیق درباره جنایت علیه بشریت در ایران شد</b><br><br>در روزهای اخیر مجموعه فعالان حقوق بشر در ایران (مجموعه فعالان)، با حمایت حقوقی سازمان آپرایتز و با مشارکت وکلای آلمانی، شکایتی کیفری به دادستان کل فدرال آلمان ارائه کرد و خواستار آغاز یک تحقیق ساختاری درباره ارتکاب جنایت‌ علیه بشریت محتمل توسط مقامات حکومتی ایران، بر اساس ماده ۷ قانون جرایم علیه حقوق بین‌الملل آلمان (Völkerstrafgesetzbuch – VStGB)، شد.<br><br>این شکایت ۱۰۹ صفحه‌ای حاصل ماه‌ها تحقیقات فشرده است و بر بیش از ۶۰ مصاحبه با قربانیان، شاهدان و اعضای خانواده‌ها در داخل ایران، ترکیه و کشورهای مختلف اروپا و آمریکای شمالی، در کنار مجموعه گسترده‌ای از شواهد اسنادی و دیجیتال، استوار است.هرانا<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅مجموعه فعالان حقوق بشر، در آلمان شکایت کیفری ثبت کرد و خواستار تحقیق درباره جنایت علیه بشریت در ایران شد\n\nدر روزهای اخیر مجموعه فعالان حقوق بشر در ایران (مجموعه فعالان)، با حمایت حقوقی سازمان آپرایتز و با مشارکت وکلای آلمانی، شکایتی کیفری به دادستان کل فدرال آلمان ارائه کرد و خواستار آغاز یک تحقیق ساختاری درباره ارتکاب جنایت‌ علیه بشریت محتمل توسط مقامات حکومتی ایران، بر اساس ماده ۷ قانون جرایم علیه حقوق بین‌الملل آلمان (Völkerstrafgesetzbuch – VStGB)، شد.\n\nاین شکایت ۱۰۹ صفحه‌ای حاصل ماه‌ها تحقیقات فشرده است و بر بیش از ۶۰ مصاحبه با قربانیان، شاهدان و اعضای خانواده‌ها در داخل ایران، ترکیه و کشورهای مختلف اروپا و آمریکای شمالی، در کنار مجموعه گسترده‌ای از شواهد اسنادی و دیجیتال، استوار است.هرانا\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/sahamnewsorg/147023",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/KEbfYXu9aS9HmhVSQjL2ZT53ycjIcruHlsq1xaZpxVNaXarhNPEvP3LH1x4zbiZiorg8n7HzPWprJsy3ZRN9we2hng21Qukf6UnOpxTImKYDu4mX0tOW0ihoWnf-zeT3yGJsqNMS-hBbAHAwHz4KbPLvQgXqWQOP5riWvgpNoXMhrsXvZ2fvMnnAsqkzTW7M_kH5alKsRWoiAIwFMfM0NrejYssstI9o3WwHDXdXt_JP_GE8IQq5Wl5cXCg4BwSo4AaS0k4vxynyq0-WqWat7vgQw_wnPCJPQwX5x1JX8B6ZngXOAw37NBSylLhd6Fg3tE0joGBBlCo-OecAGHvc_Q.jpg",
-          "thumbnail_path": "channels/sahamnewsorg/media/25d1bc47529b67e0ae44a3d8.jpg",
-          "thumbnail_sha256": "8f22bfc588f32693fefc6f4018021eff9f59901c436c233c753b3d269e2a9343",
-          "duration_label": null,
-          "aspect_ratio": 1.4134275618374559
-        }
-      ],
-      "reactions": [],
-      "views_label": "47.1K",
-      "posted_at": "2026-09-05T08:42:29+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147023",
       "reply": null
     }
   ]

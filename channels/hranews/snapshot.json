@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T12:22:17.579Z",
+  "fetched_at": "2026-09-07T12:24:02.208Z",
   "channel": {
     "username": "hranews",
     "title": "خبرگزاری هرانا",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "hranews/115460",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/iAtALinnN_Y14sqMT75D3a3dYa5SIhHJUD_k7mwH08qsLfeDfeU4xRjBCP64o07wfsjmIauUV39S4arNXhdz2h1-wU1f63GPZwYYiKioqmrcn-cre47UY9WtbU4uhyKnRJW8R_FO6qIVD01FG7SXjrDhRyIF7epUfHz0W7hfZYDedLy7Xdl8q4WwYmoXQYeWQbkFBroR88bWG5jEAunD6z_ruLlXRXd5mhWSbSEGbcxhVp5vFvpDJGjnHyfgcn0Ciop0NlCyw5frssvQ4VO8FGC18LNbkKUUmR9MKfHXypsY1JfH07bVFWHPKQGy4BCYyJcpN8wVO2rSYF2uwgyBNg.jpg",
+      "author_photo_path": "channels/hranews/media/987f5a33f6270b696c983a37.jpg",
+      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
+      "body_html": "شماری از پرستاران و کارکنان حوزه سلامت استان کردستان، روز گذشته با تجمع در مقابل استانداری، نسبت به مشکلات معیشتی، تأخیر در پرداخت‌ها، کمبود نیروی انسانی و نحوه مدیریت دانشگاه علوم پزشکی اعتراض کردند.<br><br><a href=\"?q=%23%D9%BE%D8%B1%D8%B3%D8%AA%D8%A7%D8%B1%D8%A7%D9%86\">#پرستاران</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "شماری از پرستاران و کارکنان حوزه سلامت استان کردستان، روز گذشته با تجمع در مقابل استانداری، نسبت به مشکلات معیشتی، تأخیر در پرداخت‌ها، کمبود نیروی انسانی و نحوه مدیریت دانشگاه علوم پزشکی اعتراض کردند.\n\n#پرستاران\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/hranews/115460",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/vRp4sumeRJ5_0KSROLMH1Rj6SffFCdUkatOEbQKi0ykOWDxQPZ0owvAp49LT1KHLy4GusLyvYCUETTI61ARoL1pXzxfSBcLS1yvYm01wOcbcCsfyxpc43bxk3POc1XZ9o0qdune8bvcgdKDUtaBnI5BHzIhxYrvoZkZ8yd41jLwhx6JjZWivaXM4JJ3WgQaY0HXhYaM4rKnq-Fi5xNmXsIll80lNacQSQSas1B7WajL3qeUnER_4PctwthIs6w6yEh4dOfJA9v4pBH-W7KF4z2yxEQ7zkWQ3xIjI-l54JYCj0GkhZxCuoBf-IOBNiu_q62YFALMgjXnL0tpwzeNStw.jpg",
+          "thumbnail_path": "channels/hranews/media/1b697fe4ac4df9f3f1482667.jpg",
+          "thumbnail_sha256": "26905203093adf122a0d2ca4754d1a9ffec4d70c017a2311cc26e0493efd6035",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-07T12:23:21+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/115460",
+      "reply": null
+    },
+    {
       "id": "hranews/115459",
       "author_name": "خبرگزاری هرانا",
       "author_photo_url": "https://cdn1.telesco.pe/file/iAtALinnN_Y14sqMT75D3a3dYa5SIhHJUD_k7mwH08qsLfeDfeU4xRjBCP64o07wfsjmIauUV39S4arNXhdz2h1-wU1f63GPZwYYiKioqmrcn-cre47UY9WtbU4uhyKnRJW8R_FO6qIVD01FG7SXjrDhRyIF7epUfHz0W7hfZYDedLy7Xdl8q4WwYmoXQYeWQbkFBroR88bWG5jEAunD6z_ruLlXRXd5mhWSbSEGbcxhVp5vFvpDJGjnHyfgcn0Ciop0NlCyw5frssvQ4VO8FGC18LNbkKUUmR9MKfHXypsY1JfH07bVFWHPKQGy4BCYyJcpN8wVO2rSYF2uwgyBNg.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "مطهره گونه‌ای برای تحمل دوران محکومیت خود راهی زندان شد\n\n❗️❗️❗️❗️❗️– مطهره گونه‌ای، فعال دانشجویی، برای اجرای حکم حبس خود بازداشت و راهی زندان شد. وی پیشتر توسط دادگاه انقلاب به ۲۱ ماه حبس محکوم شده بود که از این میزان، ۱۵ ماه حبس به عنوان مجازات اشد در خصوص او قابل اجرا است.\n\nادامه مطلب\n\n#مطهره_گونه‌ای\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "143",
+      "views_label": "151",
       "posted_at": "2026-09-07T12:05:37+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115459",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "388",
+      "views_label": "391",
       "posted_at": "2026-09-07T10:41:30+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115458",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "547",
+      "views_label": "548",
       "posted_at": "2026-09-07T09:02:22+00:00",
       "edited": true,
       "permalink": "https://t.me/hranews/115455",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "576",
+      "views_label": "577",
       "posted_at": "2026-09-07T08:49:38+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115454",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "775",
+      "views_label": "776",
       "posted_at": "2026-09-06T19:03:23+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115447",
@@ -401,7 +429,7 @@
       "plain_text": "یک شهروند در مهاباد بازداشت شد\n\n❗️❗️❗️❗️❗️– روز جاری، سهیلا (الهام) علیزاده، شهروند ساکن مهاباد، توسط ماموران اداره اطلاعات در این شهرستان #بازداشت و به یکی از بازداشتگاه‌های این نهاد در ارومیه منتقل شد.\n\nادامه مطلب\n\n#سهیلا_علیزاده\n#الهام_علیزاده\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "757",
+      "views_label": "758",
       "posted_at": "2026-09-06T16:45:30+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115442",
@@ -2261,34 +2289,6 @@
       "posted_at": "2026-09-02T15:09:22+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115357",
-      "reply": null
-    },
-    {
-      "id": "hranews/115356",
-      "author_name": "خبرگزاری هرانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OGeDqijqMbhR-4VIncUiRft80T8uFo-Y9xB5-RlI2oDV_xHvvDdjLaZaMPfgs6cJDMV4sFHWPAhw_GFtxwryFGBGhdCgQ-4je2Xd6XM8xdNMRE_v4DfJKDlDoXM1_JP4Xk4rAWgbptZyfTDgZ5H8XeqSPxPxcT4rv4XqZZiyE2bcyLIicKQqI6LEAr7_tSrgkM0q3K5E_3HfwpTOfYkunPfwpjEuyi6bwB94Z7IhwWyH0N_12ZkeArJnlsZ0dMagDHYODI36-8zBlR1Mem6k504xrOSEQyMRUsp5-1sy3jwPfIrF0L4L3-HB2j81cHkDw_r6zp0iB-qMiM6C5D-1eg.jpg",
-      "author_photo_path": "channels/hranews/media/393a7ac2dc897271d7fcc1ac.jpg",
-      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
-      "body_html": "یک زندانی در زندان عادل‌آباد شیراز اعدام شد<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– سحرگاه امروز چهارشنبه ۱۱ شهریورماه، حکم یک زندانی که پیشتر از بابت اتهام قتل به اعدام محکوم شده بود، در زندان عادل‌آباد شیراز اجرا شد.<br><br>به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، یک زندانی در زندان عادل‌آباد شیراز اعدام شد.<br><br>هویت این زندانی که سحرگاه امروز چهارشنبه ۱۱ شهریورماه به چوبه دار آویخته شد، عزیز روشنایی، توسط هرانا احراز است.<br><br><a href=\"?q=%23%D8%B9%D8%B2%DB%8C%D8%B2_%D8%B1%D9%88%D8%B4%D9%86%D8%A7%DB%8C%DB%8C\">#عزیز_روشنایی</a> <a href=\"?q=%23%D8%A7%D8%B9%D8%AF%D8%A7%D9%85\">#اعدام</a><br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-1363719e/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
-      "plain_text": "یک زندانی در زندان عادل‌آباد شیراز اعدام شد\n\n❗️❗️❗️❗️❗️– سحرگاه امروز چهارشنبه ۱۱ شهریورماه، حکم یک زندانی که پیشتر از بابت اتهام قتل به اعدام محکوم شده بود، در زندان عادل‌آباد شیراز اجرا شد.\n\nبه گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، یک زندانی در زندان عادل‌آباد شیراز اعدام شد.\n\nهویت این زندانی که سحرگاه امروز چهارشنبه ۱۱ شهریورماه به چوبه دار آویخته شد، عزیز روشنایی، توسط هرانا احراز است.\n\n#عزیز_روشنایی #اعدام\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/hranews/115356",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/NI4HxXgZBVo6HWbVGLmY_s6JXugQWcJfZjjENzWKpONQOOXy5d03Bc-Jti8WRYFOLcop8B6fqgtbQY5nDmT9xiNlrjtNUx85_gw9VnrOS4Zx3eOwqSwDJona0of9fyKewlO0U7Y7SfkzsSeh4IOmgUnBr5L0qi607iCZKgMAeybG_Hjg0xjgWrU5rew-QO9Gl39objoau7D0XY97SMdg9eeXjjsL_kvUCkVrbvcBBsVzsXjtU1bB1-SqcBKYIVVvSKgImiC8L0IS5qHhwN_nPpT9-wN4J3c1UPuv4qDnT_JFx2t1WrXT5F4Hw5IQvsX1bbzcjcX9X0pRYAejG6LvwQ.jpg",
-          "thumbnail_path": "channels/hranews/media/5cb0ead119ce43ae0179bab1.jpg",
-          "thumbnail_sha256": "ef7d3a5546433508bce0e46fded34f2137277467f151cd66f5b3e6c66d549883",
-          "duration_label": null,
-          "aspect_ratio": 1.5009380863039399
-        }
-      ],
-      "reactions": [],
-      "views_label": "809",
-      "posted_at": "2026-09-02T14:43:39+00:00",
-      "edited": false,
-      "permalink": "https://t.me/hranews/115356",
       "reply": null
     }
   ]
