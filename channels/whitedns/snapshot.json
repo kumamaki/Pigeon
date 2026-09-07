@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T06:02:19.133Z",
+  "fetched_at": "2026-09-07T06:04:23.798Z",
   "channel": {
     "username": "whitedns",
     "title": "White DNS",
@@ -35,7 +35,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "37"
+          "count": "40"
         },
         {
           "emoji": "🤩",
@@ -48,9 +48,17 @@
         {
           "emoji": "👏",
           "count": "2"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
+        },
+        {
+          "emoji": "🍓",
+          "count": "1"
         }
       ],
-      "views_label": "1.95K",
+      "views_label": "2K",
       "posted_at": "2026-09-07T05:09:07+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1737",
@@ -72,7 +80,7 @@
         },
         {
           "emoji": "❤",
-          "count": "407"
+          "count": "408"
         },
         {
           "emoji": "❤‍🔥",
@@ -87,11 +95,15 @@
           "count": "6"
         },
         {
+          "emoji": "👏",
+          "count": "1"
+        },
+        {
           "emoji": "💘",
           "count": "1"
         }
       ],
-      "views_label": "4.75K",
+      "views_label": "4.77K",
       "posted_at": "2026-09-07T02:55:31+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1736",
@@ -343,7 +355,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.75K",
+      "views_label": "9.76K",
       "posted_at": "2026-09-06T11:16:57+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1728",
@@ -748,10 +760,6 @@
       "media": [],
       "reactions": [
         {
-          "emoji": "⭐",
-          "count": "1"
-        },
-        {
           "emoji": "❤",
           "count": "220"
         },
@@ -858,10 +866,6 @@
       ],
       "reactions": [
         {
-          "emoji": "⭐",
-          "count": "1"
-        },
-        {
           "emoji": "❤",
           "count": "99"
         },
@@ -922,10 +926,6 @@
         }
       ],
       "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "1"
-        },
         {
           "emoji": "❤",
           "count": "115"
