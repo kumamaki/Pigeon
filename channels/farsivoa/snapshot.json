@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T22:07:15.053Z",
+  "fetched_at": "2026-09-07T22:11:19.449Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229805",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "محمد قاعدی: جمهوری اسلامی با اتهام به بازرسان آژانس سعی می کند از برنامه اتمی خود کارت بازی بسازد<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "محمد قاعدی: جمهوری اسلامی با اتهام به بازرسان آژانس سعی می کند از برنامه اتمی خود کارت بازی بسازد\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229805",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/tQfUiOQHvQ7ADG_2QQ1A8s0aAur2SsvrDrpOxg7y9KL1LWUeLPPub_rcd8HNXI48xTH5-XrG3_kG3oqYYNlLejxk-1Y9OaGyF2hTdu1qtp-dNTLJtZ9yTscqI9STJZyY94YEpidj-_hMO9FMLNifZHHaetQxxBClr2TMPAsEUq4qKLM686ivz0IwQXXAgAX6FikDxG87M7Vbt6MofvXHJf_CoRnLqFScKNPsygRiCHlgNHsKrdfZ4TOrolcsLIPsAoy57joZbLKL9SP7ZU1dULPzD7CYPOqZa0ipcNS4t8aul8Rk5AHdYMjadxsUm2OPQJhoyh0JtF2UiUbV4zkZSg",
+          "thumbnail_path": "channels/farsivoa/media/a3a78e56610bc4717f1727c4.jpg",
+          "thumbnail_sha256": "47dffeb08f2a2b24f3ea377655fd33c2ec7897e68a2faf261be5d799972699c7",
+          "duration_label": "3:36",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-07T22:10:21+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229805",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229804",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺خبرنگار سی‌بی‌اس: کامران حکمتی، شهروند آمریکایی از زندان اوین آزاد شد اما همچنان ممنوع‌الخروج است\n\n▪️مارگارت برنان، خبرنگار شبکه خبری سی‌بی‌اس آمریکا، روز دوشنبه ‍‍۱۶ شهریور اعلام کرد کامران حکمتی، شهروند دوتابعیتی ایرانی-آمریکایی، سه روز پیش از زندان اوین آزاد شده است، اما همچنان اجازه خروج از ایران را ندارد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195205.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "160",
+      "views_label": "257",
       "posted_at": "2026-09-07T22:03:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229804",
@@ -37,7 +65,7 @@
       "plain_text": "🔺سنتکام مسیر ۹۴ کشتی تجاری را در جریان محاصره دریایی علیه جمهوری اسلامی تغییر داده است\n\n▪️ستاد فرماندهی مرکزی آمریکا، سنتکام، روز دوشنبه اعلام کرد نیروهای آمریکایی تاکنون مسیر ۹۴ کشتی تجاری را در چارچوب اجرای موج دوم محاصره دریایی علیه جمهوری اسلامی تغییر داده‌اند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195203.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "612",
+      "views_label": "677",
       "posted_at": "2026-09-07T21:49:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229803",
@@ -65,7 +93,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "676",
+      "views_label": "741",
       "posted_at": "2026-09-07T21:47:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229802",
@@ -93,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "904",
+      "views_label": "970",
       "posted_at": "2026-09-07T21:39:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229801",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.16K",
+      "views_label": "1.23K",
       "posted_at": "2026-09-07T21:32:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229800",
@@ -149,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.06K",
+      "views_label": "2.1K",
       "posted_at": "2026-09-07T20:56:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229799",
@@ -221,7 +249,7 @@
       "plain_text": "🔴📢‌ پادکست میدان - دوشنبه ۱۶ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از\nنسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه\nسبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "3.26K",
+      "views_label": "3.29K",
       "posted_at": "2026-09-07T19:54:30+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229796",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.38K",
+      "views_label": "3.41K",
       "posted_at": "2026-09-07T19:24:59+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229794",
@@ -325,7 +353,7 @@
       "plain_text": "🔺دستمزدها در آمریکا از تورم پیشی گرفت؛ افزایش قدرت خرید کارگران در دوران پرزیدنت ترامپ\n\n▪️گزارش تازه‌ای بر پایه داده‌های رسمی اداره آمار کار آمریکا نشان می‌دهد متوسط دستمزد هفتگی کارگران در ایالات متحده طی یک سال گذشته اندکی سریع‌تر از تورم افزایش یافته، و قدرت خرید واقعی آنها، هرچند به میزان محدود، بهبود پیدا کرده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/us-wages-outpace-inflation/8195166.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "2.96K",
+      "views_label": "2.99K",
       "posted_at": "2026-09-07T19:10:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229791",
@@ -353,7 +381,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.03K",
+      "views_label": "3.04K",
       "posted_at": "2026-09-07T19:00:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229790",
@@ -381,7 +409,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.25K",
+      "views_label": "3.28K",
       "posted_at": "2026-09-07T18:55:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229789",
@@ -437,7 +465,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.3K",
+      "views_label": "3.34K",
       "posted_at": "2026-09-07T18:47:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229787",
@@ -465,7 +493,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.59K",
+      "views_label": "3.62K",
       "posted_at": "2026-09-07T18:36:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229786",
@@ -2567,34 +2595,6 @@
       "posted_at": "2026-09-07T07:16:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229694",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229693",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "سازمان جهانی هواشناسی هشدار داد آلودگی ناشی از آتش‌سوزی‌های شدیدتر و موج‌های گرما می‌تواند تلاش‌های جهانی برای بهبود کیفیت هوا را تضعیف کند.<br><br>بر پایه گزارش سالانه این نهاد، آلودگی هوا و تغییرات اقلیمی پیوند نزدیکی دارند و باید با سیاست‌های هماهنگ با آنها مقابله کرد.<br><br>در همین گزارش آمده است دستیابی به رهنمودهای کیفیت هوای سازمان جهانی بهداشت دشوارتر می‌شود، چون احتمال وقوع آتش‌سوزی‌های شدید در آینده بیشتر است.<br><br>لورنزو لابرادور، کارشناس سازمان هواشناسی جهانی، به رویترز گفت: «مهم نیست شهر یا منطقه شما چقدر پاک باشد؛ اگر آلودگی زیادی از آتش‌سوزی‌ها بیاید، می‌تواند کیفیت هوای همان مناطق را هم بد کند.»<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "سازمان جهانی هواشناسی هشدار داد آلودگی ناشی از آتش‌سوزی‌های شدیدتر و موج‌های گرما می‌تواند تلاش‌های جهانی برای بهبود کیفیت هوا را تضعیف کند.\n\nبر پایه گزارش سالانه این نهاد، آلودگی هوا و تغییرات اقلیمی پیوند نزدیکی دارند و باید با سیاست‌های هماهنگ با آنها مقابله کرد.\n\nدر همین گزارش آمده است دستیابی به رهنمودهای کیفیت هوای سازمان جهانی بهداشت دشوارتر می‌شود، چون احتمال وقوع آتش‌سوزی‌های شدید در آینده بیشتر است.\n\nلورنزو لابرادور، کارشناس سازمان هواشناسی جهانی، به رویترز گفت: «مهم نیست شهر یا منطقه شما چقدر پاک باشد؛ اگر آلودگی زیادی از آتش‌سوزی‌ها بیاید، می‌تواند کیفیت هوای همان مناطق را هم بد کند.»\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229693",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/CYCYvFV96i8W2Ak837BFaDgfw0rXFejFRsjkQ_fGW6-ZRlmzRWeJTMDJ9oilPvX0eeQtl7KruoGdpzBrv4XT1aTQI5E71rPOdPBxBxzOKrAmiKTA_TL6fVO3SMumR1qrepzEZAv9kdqZBh-S37xinmwKt_EssTRkiEv7UD17vIkVBb8xnWzJfbBfQPFgWYQCoPQyozCwSqfBbEjTE30qhx_I804_7Zx-Xvnabma1HhIPQJu2Ow1BUhadpFtVQKERVyjeC4VdJ6zXo8qw4dUDo_IK4N_vSIAZGtcZRwnpaSP6OF5BQAci17uyosA2O4KiWYrBUWLNT6_iTPnnCYJjWg.jpg",
-          "thumbnail_path": "channels/farsivoa/media/95a834b538002922b63caf8e.jpg",
-          "thumbnail_sha256": "65b7924a570f50abd91e5af96e8b30375b3483e275ccdda81cf2b27a8f58ab79",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.74K",
-      "posted_at": "2026-09-07T07:04:40+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229693",
       "reply": null
     }
   ]
