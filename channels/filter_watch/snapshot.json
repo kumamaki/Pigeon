@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T14:37:15.124Z",
+  "fetched_at": "2026-09-07T14:42:18.736Z",
   "channel": {
     "username": "filter_watch",
     "title": "فیلتربان",
@@ -30,7 +30,7 @@
           "count": "1"
         }
       ],
-      "views_label": "513",
+      "views_label": "517",
       "posted_at": "2026-09-06T17:18:06+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1901",
@@ -59,7 +59,7 @@
           "count": "1"
         }
       ],
-      "views_label": "544",
+      "views_label": "545",
       "posted_at": "2026-09-04T12:18:41+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1900",
@@ -79,8 +79,8 @@
           "asset_url": "https://t.me/filter_watch/1899",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/heSFWiiGxQiJ7395Zt4ynilDQ9HOd7f-caACQP0VjkTpEv-ougyH_4B8FwMRhEsYaDaD-sR1FhmVstbn1QGa8OFgSQ0vQ6Ah_RTsJXE5gDtoMOPSQ8sa56hzzv7v0uuod1BWLpABXdocmKizbk1uHtBgpLn4cShSllrxnYCn32Y78VM9a8qoz8aJOLAa4bGj7OMPg7J9FWuFHUk5UtoNoc1EzVSTc_TCWf7ayAOXuOCZylyhwRxR8Ql2F4cBUm1nrcz70xfp9wGAwwqXFp0F5ZGeXwDyYD9GaONUEKglEQEwCbzelVfmsFyDrUl9yMrmuubHaE1buBJVQKft9vq8pw",
-          "thumbnail_path": "channels/filter_watch/media/a528ebf10890022eb5431f8e.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/WYv9JwL3QXpjggCBq7UMpAwt428FgRjGLKs-zvO6pTw2Ho3dxkHWGrwC-tC2tKe-Zg0jjZdxBXpQ9k0OPVByvukae8Ceadb6t0sUkiPmzbWpcVJyUDO2AlT8vcOdT9HLFHljpcUAmvSOrpLmwS_Lik31JTX24jYBeAn2cEP4fn2XwOkHaOrnhGKCwJfgC6z_XSU_m_ZoGqR9YVLUBuijjYknSYoP9z9CXo8_G_86dhmTCGZO0C8S7hAPWPDm6DV1fBnM0tYnJ_6L-WK8qDco5NXxowLE2SND5e1RPhPXBYg50vsFWRbrKWrX3LJUPjDjL0M7YxYY0iaa7ZrMNV3pig",
+          "thumbnail_path": "channels/filter_watch/media/d7d58a3dd4ab449f85360f82.jpg",
           "thumbnail_sha256": "b7c1cf8aa155467dfcc3d5fd5978be0c88e4471d06371ac7a33faf2d9d12f7e7",
           "duration_label": "2:41",
           "aspect_ratio": 0.7500000000000188
@@ -96,7 +96,7 @@
           "count": "3"
         }
       ],
-      "views_label": "489",
+      "views_label": "491",
       "posted_at": "2026-09-03T15:38:25+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1899",
@@ -121,7 +121,7 @@
           "count": "1"
         }
       ],
-      "views_label": "638",
+      "views_label": "639",
       "posted_at": "2026-09-03T14:29:14+00:00",
       "edited": true,
       "permalink": "https://t.me/filter_watch/1898",
@@ -146,7 +146,7 @@
           "count": "1"
         }
       ],
-      "views_label": "718",
+      "views_label": "720",
       "posted_at": "2026-09-02T11:14:22+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1897",
@@ -183,7 +183,7 @@
           "count": "1"
         }
       ],
-      "views_label": "648",
+      "views_label": "649",
       "posted_at": "2026-09-01T10:13:13+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1896",
@@ -364,7 +364,7 @@
           "count": "1"
         }
       ],
-      "views_label": "829",
+      "views_label": "830",
       "posted_at": "2026-08-25T15:19:20+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1890",
@@ -430,7 +430,7 @@
           "count": "4"
         }
       ],
-      "views_label": "875",
+      "views_label": "876",
       "posted_at": "2026-08-24T13:49:27+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1888",
@@ -471,7 +471,7 @@
           "count": "2"
         }
       ],
-      "views_label": "995",
+      "views_label": "996",
       "posted_at": "2026-08-21T16:02:29+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1887",
