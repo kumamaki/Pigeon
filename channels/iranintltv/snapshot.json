@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T07:57:46.150Z",
+  "fetched_at": "2026-09-07T08:02:33.070Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -12,6 +12,62 @@
   },
   "posts": [
     {
+      "id": "IranintlTV/356088",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهند یک شهروند ایرانی، یکشنبه ۱۵ شهریور با پیراهنی منقش به شیروخورشید در مسابقات نیمه‌ماراتن شبانه محله پراگا در شهر ورشو لهستان شرکت کرده و مسیر پنج کیلومتری آن را طی کرده است.",
+      "plain_text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهند یک شهروند ایرانی، یکشنبه ۱۵ شهریور با پیراهنی منقش به شیروخورشید در مسابقات نیمه‌ماراتن شبانه محله پراگا در شهر ورشو لهستان شرکت کرده و مسیر پنج کیلومتری آن را طی کرده است.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356088",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/pzNzW3zM4kTY4kGESJT-19_pLfkbergfdo6RnYHdSsP5ujyQNQXxgdfAyqPY9GZAKDBpz80OCVwz_7PFo4Ehti3TFUEH3nzbR0lH5u41RP0liAsEdZQfbmp01AHRLk_VZ93V6QVHtvieHugD1Q-IP4xUUyIcRsofQi3veoSKJnXJcwF_cFBl7B6ewJq1wlL03o9fAFAeJAEKLFUWR7VOzz_yQt_nFXUmzzlo695HGDJtnpKo4MCgho4y1W_W2k_FQNsUR0ZXdA118y0ij9zc5TboSsUokpvOY6x9Qc86Mo5VL2VqbxIyF2dqq7LL7gWtq6BJ3V85rQscTzRUwQL6Xg",
+          "thumbnail_path": "channels/iranintltv/media/0c00f875cc563f3e1a65e4fd.jpg",
+          "thumbnail_sha256": "f34c439aae95eb56d32d9cac33da6a1c31ad8a2b36f8bec78c61b990d28a8100",
+          "duration_label": "0:37",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "27",
+      "posted_at": "2026-09-07T08:01:35+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356088",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356087",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "ایمان آقایاری، تحلیلگر سیاسی، با اشاره به گزارش هه‌نگاو درباره اعدام شش زن، بازداشت دست‌کم ۲۰ فعال زن و ثبت ۱۹ مورد زن‌کشی در ماه اوت گفت اعدام‌ها در جمهوری اسلامی روندی فزاینده داشته و دستگاه قضایی جمهوری اسلامی بر ادامه نقض حقوق بنیادی اصرار دارد.<br><br><br>او افزود برخورد با فعالان حقوق زنان و زنانی که برای گسترش و دفاع از حقوق خود تلاش می‌کنند نیز بخشی از عملکرد دستگاه قضایی جمهوری اسلامی است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "ایمان آقایاری، تحلیلگر سیاسی، با اشاره به گزارش هه‌نگاو درباره اعدام شش زن، بازداشت دست‌کم ۲۰ فعال زن و ثبت ۱۹ مورد زن‌کشی در ماه اوت گفت اعدام‌ها در جمهوری اسلامی روندی فزاینده داشته و دستگاه قضایی جمهوری اسلامی بر ادامه نقض حقوق بنیادی اصرار دارد.\n\n\nاو افزود برخورد با فعالان حقوق زنان و زنانی که برای گسترش و دفاع از حقوق خود تلاش می‌کنند نیز بخشی از عملکرد دستگاه قضایی جمهوری اسلامی است.\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356087",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/tPZwBHvAKjmbutBbn_05GIBNKmRIW236J1GiSVDFwVJnuElGODCuqYiA1IMmBbb6T8U-IW8o_NYd_qyVQJP4TBLaTvBo8ULnwrdeCAjlHQcOLI2Tv5NCejDV8Kg8x_BqBP-o0NWHFXde_kPbeElVrdD-CWdLpaynnQO0VVaHhbi4jYT_TQrfFRccGGWguxvmjeOh_A8j_mYSIGi3aqwcqHRlUz47vC3fJvJQk25_qR2hjvCwXKEENknutw1E8CRBy334mGYAfxsex-fNS1byRYdQhLRRBEZmEp9UF6e5iB070HvFSFdeyr2Z81DzhXFBdADQNI80ZM5ts6e8ajN07A",
+          "thumbnail_path": "channels/iranintltv/media/bfb8694bdc9d619f8da6dae4.jpg",
+          "thumbnail_sha256": "c6ec78eddc917628d919ef0d79d276c46a2c96656786ea372084c60d70df0e08",
+          "duration_label": "4:26",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.08K",
+      "posted_at": "2026-09-07T07:58:54+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356087",
+      "reply": null
+    },
+    {
       "id": "IranintlTV/356086",
       "author_name": "Iran International ایران اینترنشنال",
       "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
@@ -21,7 +77,7 @@
       "plain_text": "🎧نسخه صوتی اخبار بامدادی | دوشنبه ۱۶ شهریور\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "1.05K",
+      "views_label": "4.18K",
       "posted_at": "2026-09-07T07:56:15+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356086",
@@ -49,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.21K",
+      "views_label": "7.28K",
       "posted_at": "2026-09-07T07:51:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356085",
@@ -77,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.26K",
+      "views_label": "8.37K",
       "posted_at": "2026-09-07T07:47:39+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356084",
@@ -105,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.7K",
+      "views_label": "16.7K",
       "posted_at": "2026-09-07T07:30:48+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356083",
@@ -133,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.7K",
+      "views_label": "16.7K",
       "posted_at": "2026-09-07T07:27:15+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356082",
@@ -161,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.9K",
+      "views_label": "21K",
       "posted_at": "2026-09-07T07:15:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356081",
@@ -189,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21K",
+      "views_label": "22K",
       "posted_at": "2026-09-07T07:12:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356080",
@@ -217,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21K",
+      "views_label": "22K",
       "posted_at": "2026-09-07T07:06:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356079",
@@ -273,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.2K",
+      "views_label": "28.3K",
       "posted_at": "2026-09-07T06:50:38+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356077",
@@ -301,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.2K",
+      "views_label": "27.2K",
       "posted_at": "2026-09-07T06:50:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356076",
@@ -329,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.2K",
+      "views_label": "27.2K",
       "posted_at": "2026-09-07T06:45:26+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356075",
@@ -401,7 +457,7 @@
       "plain_text": "🗣روایت شما از شرایط زندگی و بحران اقتصادی- دوشنبه ۱۶ شهریور:\n\n🔹من یک دانشجوی ۲۰ ساله هستم. چند وقت دیگه دانشگاه‌ها باز می‌شه و من تن و بدنم می‌لرزه به‌خاطر هزینه‌هاش؛ تو خرج خوردوخوراک موندیم. هر صبح که پا می‌شم، چیزی جز عذاب و بدبختی نیست. کی این دوران سیاه تموم می‌شه؟\n\n🔹با این وضعیت گرونی می‌شه درس خوند؟ حساب کنید یه خودکار کیان آبی شده ۷۰ هزار تومان.\n\n🔹دولت از درآمد خودش مثل مالیات، پول آب برق گاز، گمرک، بنزین، هیچ‌جوره کوتاه نمیاد اما انتظار داره مردم کوتاه بیان!\n\n🔹گندم رو کیلویی ۴۹ تومن می‌برن و پولش رو دو ماهه نمی‌دن؛ این دیگه بی‌کفایتی نیست، یه مشت مسئول بی‌عرضه دارن با دسترنج کشاورز بازی می‌کنن.\n\n🔹تو تهران برق نیست، اینترنت ضعیفه و خیلی وقت‌ها قطعه، همه چی گرونه و شب‌ها پرچمی‌ها آرامشمون رو سلب می‌کنن.\n\n🔹از شیراز پیام می‌دم. رفتم داروخانه یه قرص چرک‌خشک‌کن برای سرماخوردگی بخرم، قیمتش شده ۱۳۰ هزار تومن؛ همین چند وقت پیش می‌خریدیم ۲۰ هزار تومن.\n\n🔹از همدان پیام می‌دم. مواد غذایی گرون شده و حجم‌شون کم؛ اندازه یه کیک رو نصف کردن، بسته همبرگر که ۶ تایی بود شده ۴ تا ۷۰۰ هزار تومن، پنیر پیتزا کیلویی یک میلیون.\n\n🔹گرونی وحشتناکه. الان وسط ماهه و من موندم با دو میلیون باقی مونده تو حسابم. باید چیکار کنم باهاش واقعاً.\n\n🔹از بندرعباس پیام می‌دم. قیمت برنج ۱۰‌ کیلویی مثل دلار ثانیه‌ای داره می‌ره بالا. قدرت خرید واقعا نداریم. یه پنل کولر ۱۲ هزار در حد نو رو می‌فروشن ۲۰‌ میلیون. از استرس و ترس، شب‌ها خواب نداریم.",
       "media": [],
       "reactions": [],
-      "views_label": "30.4K",
+      "views_label": "31.4K",
       "posted_at": "2026-09-07T06:26:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356072",
@@ -429,7 +485,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.5K",
+      "views_label": "31.5K",
       "posted_at": "2026-09-07T06:19:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356071",
@@ -457,7 +513,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.5K",
+      "views_label": "32.6K",
       "posted_at": "2026-09-07T06:13:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356069",
@@ -485,7 +541,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.7K",
+      "views_label": "33.7K",
       "posted_at": "2026-09-07T06:06:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356068",
@@ -513,7 +569,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.8K",
+      "views_label": "36.8K",
       "posted_at": "2026-09-07T06:00:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356067",
@@ -2693,62 +2749,6 @@
       "posted_at": "2026-09-06T12:37:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/355985",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/355984",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dua7-1F68YLJEFGTSTDkU4pbo7m29v_PUJo2Id0N3mpOijzM-Ub3dUhVIdGgiFiUhiPrQlMJKmZS7PXc6vsLzQw5lcMV_0vR2fRD2DKa3RDILk1oxcl2xdhmXItFOYchjDiDsgeLBQ_1T0LBPZcIoH3hZQWRinokn6_n3QMh3HeLQL1xTx-T4w5vhLmH_pMyugiDxZG96Q94OLXBePfpnJaSWRQdpdGWA29Z7E5pCPobtE0Sj7srHnvAGLaBDNDonYlFCLdCBSiGWmc2pRkrFtkr9og4kQ9w7KNWP8eu8Ze6jPWegnUYoPiQLkQNQtTHDMO_6IRz2XARr4G6gn_TuQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/ca7f2807f5839f47a1129d1b.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "‏آرش آزرمی، دبیر بخش اقتصادی ایران‌اینترنشنال، با اشاره به اظهارات اسکات بسنت، وزیر خزانه‌داری آمریکا، درباره «طرد اقتصادی» جمهوری اسلامی گفت محاصره دریایی به‌صورت فیزیکی صادرات نفت ایران را محدود کرده و همزمان تحریم‌های مالی، بازگشت درآمد حاصل از فروش نفت به حکومت را با مشکل مواجه کرده است.<br><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "‏آرش آزرمی، دبیر بخش اقتصادی ایران‌اینترنشنال، با اشاره به اظهارات اسکات بسنت، وزیر خزانه‌داری آمریکا، درباره «طرد اقتصادی» جمهوری اسلامی گفت محاصره دریایی به‌صورت فیزیکی صادرات نفت ایران را محدود کرده و همزمان تحریم‌های مالی، بازگشت درآمد حاصل از فروش نفت به حکومت را با مشکل مواجه کرده است.\n\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/355984",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/UEDhG3cf7iDJ3qPvqcFTV9GSOCpThQrNUQdFe7YkCs1mkd-xna0UYxJ1wxusNPVaf9qgsSZDdbwY1uqiEBHLAicTLQVHyD9oT5aYpprsZZxJg1lILn3tP1styUp9dZ3OgtaUHb6zdw837VPe5U4z6dbL0QaXspcresTgE7Pa48j0eh9bUhioElt5iRLkn1gFBwGp8I2lwkTs48t1Y7kTEjjfAp1svr8ePcu_sunhfomQUxgYaze5PyfUa1kLvPkO1OX-T-i_1gcbHNRmr0b4SymU61ps67PenKzzk2xdmZgmF0DFLW4CP85Etxp4UtBqW00kFnBJOWuBq6zrOZFBzw",
-          "thumbnail_path": "channels/iranintltv/media/8b7bf0341f01c726a77ffc31.jpg",
-          "thumbnail_sha256": "2adf8a1eaa5523ab579403025e3ecbfa6af793266139fa6ae8daf79cf4a5e2b5",
-          "duration_label": "4:52",
-          "aspect_ratio": 1.8750000000000118
-        }
-      ],
-      "reactions": [],
-      "views_label": "45.7K",
-      "posted_at": "2026-09-06T12:35:30+00:00",
-      "edited": true,
-      "permalink": "https://t.me/IranintlTV/355984",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/355983",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dua7-1F68YLJEFGTSTDkU4pbo7m29v_PUJo2Id0N3mpOijzM-Ub3dUhVIdGgiFiUhiPrQlMJKmZS7PXc6vsLzQw5lcMV_0vR2fRD2DKa3RDILk1oxcl2xdhmXItFOYchjDiDsgeLBQ_1T0LBPZcIoH3hZQWRinokn6_n3QMh3HeLQL1xTx-T4w5vhLmH_pMyugiDxZG96Q94OLXBePfpnJaSWRQdpdGWA29Z7E5pCPobtE0Sj7srHnvAGLaBDNDonYlFCLdCBSiGWmc2pRkrFtkr9og4kQ9w7KNWP8eu8Ze6jPWegnUYoPiQLkQNQtTHDMO_6IRz2XARr4G6gn_TuQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/ca7f2807f5839f47a1129d1b.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید از شدت گرانی پای مرغ را برای شام می‌خورند: «یک عمر به ما گفتند خدا را شکر کن، حالا برای این وضعیت شکر کنم؟»",
-      "plain_text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید از شدت گرانی پای مرغ را برای شام می‌خورند: «یک عمر به ما گفتند خدا را شکر کن، حالا برای این وضعیت شکر کنم؟»",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/355983",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/m48puDu2MfnbqPs0u8q7cASHD5iab6mWrCk6qmkZQkBmun6J4SNJkoEMVYxFtJop09PBcQw56zMdknYUrXZcxkiB8bt0kOW8qKXeiuOPSs-3Wa4QSEQRftSiepCTBO7jgFEtaiKSnHJ3y01W22aXZAjx02hqu0v1D8p4sQDskhdOV7zA4_I9E98c7PDv0JwQp3YDW1HASbLZDK9TiCnkZcj0Gx5G9ON9qDNrClz3Xmq16WJZ1pWBlDPjzm2hwd4Z1lkyKkxY7ZjauO76fnEGZe7Q_yuNGjMvqf4ZTmIBBJ7o81unWlUr6dmnQe7uUj2UK4adidDkvZn81_0lx1bgcw",
-          "thumbnail_path": "channels/iranintltv/media/4a779e3e81133afb3d7e7e1b.jpg",
-          "thumbnail_sha256": "57d79b414ec53e2c9b8a820f66a2086892fa779a42c0893187ae925153576e87",
-          "duration_label": "0:46",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "45.6K",
-      "posted_at": "2026-09-06T12:32:36+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/355983",
       "reply": null
     }
   ]

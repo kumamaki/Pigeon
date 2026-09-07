@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T07:57:46.046Z",
+  "fetched_at": "2026-09-07T08:02:32.194Z",
   "channel": {
     "username": "hranews",
     "title": "خبرگزاری هرانا",
@@ -11,6 +11,22 @@
     "subscriber_count": "31.8K"
   },
   "posts": [
+    {
+      "id": "hranews/115452",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/V70wgIIyDFpgsG7sY6W9p07pWzRiwt74B9Gvxn3QUHjxf6-ey3QC5D-eVEHqmTI1ZhRgkUPaIwqfIV6_28Z8QK4HLGV9nrXKabtxAdfhNvWOv0PdOLolMfPGR_mfQxTUGM6tmHf_FkY734vVWGG2a8pxQD9xqcZwpPsgJH9AVpfPKjkegXck_6mDhRyB4Vl5jKEknm4rrznGVIObwphL_RXOM-kd2Uh3gnXXg_fNTavEb-fteB-lvBRdgZOvrUrAULRTAxPmuhWPPfJ71EYAflVKDVNRa8I1iP_SzQ_3xlPSXqarl8apIPXyEmKTsb8ixsTQFhNq-DmB4rmHD55GWQ.jpg",
+      "author_photo_path": "channels/hranews/media/a0268111c426ab2ca58fac65.jpg",
+      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
+      "body_html": "شادگان؛ ۳ شهروند توسط نیروهای انتظامی بازداشت شدند <br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– فرمانده انتظامی شادگان از <a href=\"?q=%23%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B4%D8%AA\">#بازداشت</a> سه شهروند در این شهرستان، به دلیل آنچه انتشار مطلب در فضای مجازی به قصد تشویش اذهان عمومی و تبلیغ علیه نظام جمهوری اسلامی عنوان کرده، خبر داد.<br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-f0664ec0/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "شادگان؛ ۳ شهروند توسط نیروهای انتظامی بازداشت شدند\n\n❗️❗️❗️❗️❗️– فرمانده انتظامی شادگان از #بازداشت سه شهروند در این شهرستان، به دلیل آنچه انتشار مطلب در فضای مجازی به قصد تشویش اذهان عمومی و تبلیغ علیه نظام جمهوری اسلامی عنوان کرده، خبر داد.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [],
+      "reactions": [],
+      "views_label": "44",
+      "posted_at": "2026-09-07T07:58:42+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/115452",
+      "reply": null
+    },
     {
       "id": "hranews/115451",
       "author_name": "خبرگزاری هرانا",
@@ -33,7 +49,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "138",
+      "views_label": "171",
       "posted_at": "2026-09-07T07:32:21+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115451",
@@ -49,7 +65,7 @@
       "plain_text": "بازداشت سیامک مفیدی و سروش عنایتی، دو نوجوان در تکاب\n\n❗️❗️❗️❗️❗️– سیامک مفیدی، ۱۷ ساله و سروش عنایتی، ۱۶ ساله، دو نوجوان اهل تکاب، روز شنبه توسط نیروهای امنیتی در این شهرستان بازداشت و به مکانی نامعلوم در تهران منتقل شدند.\n\nادامه مطلب\n\n#سیامک_مفیدی #سروش_عنایتی\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "251",
+      "views_label": "271",
       "posted_at": "2026-09-07T07:02:19+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115450",
@@ -65,7 +81,7 @@
       "plain_text": "دستکم ۱۰ تجمع اعتراضی برگزار شد\n\n❗️❗️❗️❗️❗️– امروز یکشنبه ۱۵ شهریورماه، شماری از بازنشستگان فرهنگی، مخابرات و تامین اجتماعی در تهران، گروهی از بازنشستگان تامین اجتماعی در اهواز، شوش، کرمانشاه، دزفول و رشت، جمعی از معلمان در تهران، جمعی از بازنشستگان فرهنگی در یاسوج و شماری از شهروندان جویای کار در اهواز با برگزاری تجمعات اعتراضی خواستار رسیدگی به مطالبات خود شدند. افزون بر این، روز گذشته نیز گروهی از رانندگان کامیون و خودروهای باری در کمرگ مرزی پیشین دست به تجمع اعتراضی زدند.\n\nادامه مطلب\n\n#تجمع_اعتراضی #بازنشستگان\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "1.01K",
+      "views_label": "1.02K",
       "posted_at": "2026-09-06T19:29:41+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115449",
@@ -93,7 +109,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "740",
+      "views_label": "744",
       "posted_at": "2026-09-06T19:23:16+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115448",
@@ -121,7 +137,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "655",
+      "views_label": "660",
       "posted_at": "2026-09-06T19:03:23+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115447",
@@ -137,7 +153,7 @@
       "plain_text": "برخلاف پیمان‌نامه حقوق کودک؛ تعدادی از نوجوانان به مناطق عملیاتی کشور اعزام شدند\n\n❗️❗️❗️❗️❗️– برخلاف تعهدات بین‌المللی ایران تحت عنوان الحاق به پیمان‌نامه حقوق کودک و تعهدات مربوط به عدم به‌کارگیری کودکان در امور نظامی، شماری از نوجوانان شهرستان دورود به اردوی موسوم به «راهیان نور» در مناطق عملیاتی دوران جنگ اعزام شدند.\n\nادامه مطلب\n\n#حقوق_کودک\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "586",
+      "views_label": "591",
       "posted_at": "2026-09-06T18:52:36+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115446",
@@ -153,7 +169,7 @@
       "plain_text": "گزارشی از معوقات مزدی و بیمه‌ای کارگران جهاد کشاورزی سیستان و بلوچستان\n\n❗️❗️❗️❗️❗️– حدود ۲۶ کارگر امور اراضی جهاد کشاورزی سیستان و بلوچستان از معوقات مزدی و عدم پرداخت حق بیمه خود ابراز نارضایتی کرده و خواستار رسیدگی به وضعیتشان شدند.\n\nادامه مطلب\n\n#کارگران\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "643",
+      "views_label": "648",
       "posted_at": "2026-09-06T18:11:45+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115445",
@@ -169,7 +185,7 @@
       "plain_text": "علی‌محمد باغشاهی پس از حضور در دادسرای یزد بازداشت شد\n\n❗️❗️❗️❗️❗️– امروز یکشنبه ۱۵ شهریورماه، علی‌محمد باغشاهی، دانشجوی رشته روان‌شناسی بالینی دانشگاه بهشتی، پس از احضار و حضور در دادسرای یزد بازداشت شد.\n\nادامه مطلب\n\n#علی‌محمد_باغشاهی\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "642",
+      "views_label": "645",
       "posted_at": "2026-09-06T17:48:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115444",
@@ -185,7 +201,7 @@
       "plain_text": "اجرای حکم اعدام یک زندانی در زندان سمنان/ رهایی ۳ زندانی از چوبه‌دار\n\n❗️❗️❗️❗️❗️– سحرگاه روز گذشته، حکم یک زندانی که پیشتر از بابت اتهام قتل به اعدام محکوم شده بود، در زندان سمنان اجرا شد. از سوی دیگر، سه زندانی محکوم به اعدام در قزوین و سمنان با اعلام رضایت اولیای دم از چوبه‌دار رهایی یافتند.\n\nادامه مطلب\n\n#اعدام #رضا_سلیمی\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "671",
+      "views_label": "674",
       "posted_at": "2026-09-06T17:19:55+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115443",
@@ -201,7 +217,7 @@
       "plain_text": "یک شهروند در مهاباد بازداشت شد\n\n❗️❗️❗️❗️❗️– روز جاری، سهیلا (الهام) علیزاده، شهروند ساکن مهاباد، توسط ماموران اداره اطلاعات در این شهرستان #بازداشت و به یکی از بازداشتگاه‌های این نهاد در ارومیه منتقل شد.\n\nادامه مطلب\n\n#سهیلا_علیزاده\n#الهام_علیزاده\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "673",
+      "views_label": "676",
       "posted_at": "2026-09-06T16:45:30+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115442",
@@ -229,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "686",
+      "views_label": "690",
       "posted_at": "2026-09-06T16:08:57+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115441",
@@ -257,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "704",
+      "views_label": "706",
       "posted_at": "2026-09-06T15:33:55+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115440",
@@ -285,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "702",
+      "views_label": "705",
       "posted_at": "2026-09-06T15:21:22+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115439",
@@ -313,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "742",
+      "views_label": "748",
       "posted_at": "2026-09-06T14:49:38+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115438",
@@ -329,7 +345,7 @@
       "plain_text": "شش واحد صنفی در شهرستان آران و بیدگل پلمب شدند\n\n❗️❗️❗️❗️❗️ – فرمانده انتظامی آران و بیدگل از #پلمب شش واحد صنفی در این شهرستان به دلیل انتشار محتوایی در صفحات مجازی مرتبط با این واحدها که «مغایر با عفت عمومی و هنجارهای اجتماعی» عنوان شده، خبر داد.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "695",
+      "views_label": "697",
       "posted_at": "2026-09-06T14:23:20+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115437",
@@ -345,7 +361,7 @@
       "plain_text": "سازمان اطلاعات سپاه از بازداشت ۸ شهروند در استان فارس خبر داد\n\n❗️❗️❗️❗️❗️ – سازمان اطلاعات سپاه استان فارس از #بازداشت هشت تن در این استان به دلیل آنچه ارتباط با گروه‌های مخالف نظام و حضور در اعتراضات دی‌ماه ۱۴۰۴ عنوان کرده، خبر داد.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "730",
+      "views_label": "732",
       "posted_at": "2026-09-06T13:44:32+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115436",
@@ -373,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "763",
+      "views_label": "766",
       "posted_at": "2026-09-06T13:17:39+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115435",
@@ -401,7 +417,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "762",
+      "views_label": "766",
       "posted_at": "2026-09-06T12:55:45+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115434",
@@ -429,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "763",
+      "views_label": "765",
       "posted_at": "2026-09-06T12:20:14+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115433",
@@ -2237,34 +2253,6 @@
       "posted_at": "2026-09-02T10:54:24+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115349",
-      "reply": null
-    },
-    {
-      "id": "hranews/115348",
-      "author_name": "خبرگزاری هرانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OGeDqijqMbhR-4VIncUiRft80T8uFo-Y9xB5-RlI2oDV_xHvvDdjLaZaMPfgs6cJDMV4sFHWPAhw_GFtxwryFGBGhdCgQ-4je2Xd6XM8xdNMRE_v4DfJKDlDoXM1_JP4Xk4rAWgbptZyfTDgZ5H8XeqSPxPxcT4rv4XqZZiyE2bcyLIicKQqI6LEAr7_tSrgkM0q3K5E_3HfwpTOfYkunPfwpjEuyi6bwB94Z7IhwWyH0N_12ZkeArJnlsZ0dMagDHYODI36-8zBlR1Mem6k504xrOSEQyMRUsp5-1sy3jwPfIrF0L4L3-HB2j81cHkDw_r6zp0iB-qMiM6C5D-1eg.jpg",
-      "author_photo_path": "channels/hranews/media/393a7ac2dc897271d7fcc1ac.jpg",
-      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
-      "body_html": "محبوبه شعبانی محاکمه شد؛ تداوم اعتصاب وی در زندان وکیل‌آباد مشهد<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– روز&nbsp; گذشته، جلسه دادگاه رسیدگی به اتهام محبوبه شعبانی، از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، در شعبه اول دادگاه انقلاب مشهد برگزار شد. وی که در زندان وکیل‌آباد محبوس است، همچنان در اعتصاب به سر می‌برد.<br><br>به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، جلسه دادگاه محبوبه شعبانی برگزار شد.<br><br>در جریان این جلسه که روز سه‌شنبه ۱۰ شهریورماه، توسط شعبه اول دادگاه انقلاب مشهد برگزار شد، خانم شعبانی از بابت اتهام&nbsp;«اقدام عملیاتی جهت تحکیم اسرائیل، آمریکا و عوامل وابسته به گروه‌های اپوزیسیون» به دفاع از خود پرداخت. وی پس از برگزاری جلسه دادگاه به زندان وکیل‌آباد مشهد بازگردانده شد و کماکان در این زندان نگهداری می‌شود.<br>محبوبه شعبانی از تاریخ ۲۹ مردادماه در اعتراض به شرایط نامناسب نگهداری در زندان، وضعیت پرونده قضایی خود و عدم رسیدگی پزشکی دست به&nbsp;اعتصاب&nbsp;غذا زده و تا زمان تنظیم این گزارش کماکان در اعتصاب به سر می‌برد.<br><br><a href=\"?q=%23%D9%85%D8%AD%D8%A8%D9%88%D8%A8%D9%87_%D8%B4%D8%B9%D8%A8%D8%A7%D9%86%DB%8C\">#محبوبه_شعبانی</a> <a href=\"?q=%23%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA_%DB%B1%DB%B4%DB%B0%DB%B4\">#اعتراضات_۱۴۰۴</a><br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-94d0b0d4/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
-      "plain_text": "محبوبه شعبانی محاکمه شد؛ تداوم اعتصاب وی در زندان وکیل‌آباد مشهد\n\n❗️❗️❗️❗️❗️– روز  گذشته، جلسه دادگاه رسیدگی به اتهام محبوبه شعبانی، از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، در شعبه اول دادگاه انقلاب مشهد برگزار شد. وی که در زندان وکیل‌آباد محبوس است، همچنان در اعتصاب به سر می‌برد.\n\nبه گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، جلسه دادگاه محبوبه شعبانی برگزار شد.\n\nدر جریان این جلسه که روز سه‌شنبه ۱۰ شهریورماه، توسط شعبه اول دادگاه انقلاب مشهد برگزار شد، خانم شعبانی از بابت اتهام «اقدام عملیاتی جهت تحکیم اسرائیل، آمریکا و عوامل وابسته به گروه‌های اپوزیسیون» به دفاع از خود پرداخت. وی پس از برگزاری جلسه دادگاه به زندان وکیل‌آباد مشهد بازگردانده شد و کماکان در این زندان نگهداری می‌شود.\nمحبوبه شعبانی از تاریخ ۲۹ مردادماه در اعتراض به شرایط نامناسب نگهداری در زندان، وضعیت پرونده قضایی خود و عدم رسیدگی پزشکی دست به اعتصاب غذا زده و تا زمان تنظیم این گزارش کماکان در اعتصاب به سر می‌برد.\n\n#محبوبه_شعبانی #اعتراضات_۱۴۰۴\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/hranews/115348",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/WU1u4oTlMQJMtuqUv82B1tvSE4xP8Eqwxh1CI5Cv6drWlch0h9eHdCVBt5omAtdV4QfihQBINQ6iD8aibknZiwj7D_yJEcqOOQ3ERxWeaURQyVDIPHkVSzclVwG7ZqGgJ8lO-sr859HQjJGifAWqs7rtQMRBnlUHVA81W7aPlDHqkny7deTOMP-K1_8udpMN2AedSKmqvVggSdnTXLvjlr8QnyFjJWpalhKq-GzpFYSvo77xI2UiKzWO7RCYXFT9e0Vr4qZ2NtgfLPe9fG5RyinZLnICBd8t8ej1mmCoBBFVEMTXevBTaMKsFhaNUhdGC5O8qI3wxIiP4BxPJLetlg.jpg",
-          "thumbnail_path": "channels/hranews/media/8f37e2728afe86d038aba00d.jpg",
-          "thumbnail_sha256": "fb942ced27cb637758e0a8bef7b970a6dace6272863ccedcb7f8b54bae47540d",
-          "duration_label": null,
-          "aspect_ratio": 1.5009380863039399
-        }
-      ],
-      "reactions": [],
-      "views_label": "826",
-      "posted_at": "2026-09-02T10:17:16+00:00",
-      "edited": false,
-      "permalink": "https://t.me/hranews/115348",
       "reply": null
     }
   ]
