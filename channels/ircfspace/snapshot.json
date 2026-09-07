@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T05:37:19.955Z",
+  "fetched_at": "2026-09-07T05:42:17.572Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -11,6 +11,43 @@
     "subscriber_count": "96.3K"
   },
   "posts": [
+    {
+      "id": "ircfspace/2586",
+      "author_name": "IRCF | اینترنت آزاد برای همه",
+      "author_photo_url": "https://cdn1.telesco.pe/file/LcX8vxMqe0lI1XuHYAL8Yeejm4uNZ7HzfqMwyRYhyGzcjPmZo1A5CBSySV1m9IgKl6SbzruXO6lEBvRL3PPXoF6fnUGraQiBoIrsfOSxa53g04xNefZFosIzW8N49qJTruIt9kwW0m3gwEX2D66om-lRTMhWuc-yohxGg8pGsOgSB6GuoMJ5k4UrGJtjJT74Cy3FsIaZxUu7KwootcRau6CchLTGALkmcfpOJik_1vEJ5FF1iHryybFf1iEdK8jbT-b8jniRnDPs5QinRUVTzKFHARq5BbTafNJxpbdslQnBJ6KQPzv0d59by-TWMaPVqYj6uRUP7A-fpiQJPacpbA.jpg",
+      "author_photo_path": "channels/ircfspace/media/884b53ba005df29b04fb0fd9.jpg",
+      "author_photo_sha256": "158f2dc02d1e6a05c082153b128dee184884a3f1159a3f635b1a111432f7eabc",
+      "body_html": "معاون ارتباطات و اطلاع‌رسانی دفتر معاون اول رئیس‌جمهور: طی ساعات اخیر اخباری کذب به نقل از اینجانب درباره رفع فیلتر اینستاگرام منتشر شده، که کاملاً ساختگی است. /اقتصادآنلاین<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴡᴇʙꜱɪᴛᴇ</a> • <a href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴠᴘɴʜᴜʙ</a> • <a href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
+      "plain_text": "معاون ارتباطات و اطلاع‌رسانی دفتر معاون اول رئیس‌جمهور: طی ساعات اخیر اخباری کذب به نقل از اینجانب درباره رفع فیلتر اینستاگرام منتشر شده، که کاملاً ساختگی است. /اقتصادآنلاین\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/ircfspace/2586",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/BG5EWHFVFmP9ghHlT-MF1xZvzwAZPW3TjYDNBZhhz746C_YRBRoYOwqszpXBAGCXIhDwv38qCjCh9QET-4wq9PymJha14JWO5ZzjcQX3RlOc20n6T6htX_TQu37kzZynRdSKA4ZCtde2ojdeof6TT3Z2rYKCxwsIkZM_o1yWVyEANLX2KGmifd_TGnzUNlbg44cVO8xwBqM710WbjjwbdwpngqVLTAyjc6kNrobVQ5CcjwerI9CHrqSq18K_IxDZBZ0cTo5PObfp6CtjPAU438V50Wys7NCu9uosaTA7EYM9ipLygRfJpBNYQbFHbZc5RY5miTJCOhujozBHmR7vCA.jpg",
+          "thumbnail_path": "channels/ircfspace/media/c7ee5e833d96c8b8d6cbbc45.jpg",
+          "thumbnail_sha256": "bdfe9e53b76ac82dd5a3dd8f6bc61644486f229ff72b64a04c5823325bed0bb5",
+          "duration_label": null,
+          "aspect_ratio": 1.3474576271186516
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "😁",
+          "count": "5"
+        },
+        {
+          "emoji": "👎",
+          "count": "1"
+        }
+      ],
+      "views_label": "1",
+      "posted_at": "2026-09-07T05:41:19+00:00",
+      "edited": true,
+      "permalink": "https://t.me/ircfspace/2586",
+      "reply": null
+    },
     {
       "id": "ircfspace/2585",
       "author_name": "IRCF | اینترنت آزاد برای همه",
@@ -35,18 +72,22 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "7"
+          "count": "11"
         },
         {
           "emoji": "👏",
-          "count": "3"
+          "count": "4"
+        },
+        {
+          "emoji": "🔥",
+          "count": "1"
         },
         {
           "emoji": "🗿",
           "count": "1"
         }
       ],
-      "views_label": "736",
+      "views_label": "1.25K",
       "posted_at": "2026-09-07T05:32:27+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2585",
@@ -76,7 +117,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "12"
+          "count": "16"
         },
         {
           "emoji": "👍",
@@ -87,7 +128,7 @@
           "count": "2"
         }
       ],
-      "views_label": "1.6K",
+      "views_label": "1.92K",
       "posted_at": "2026-09-07T05:23:54+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2584",
@@ -117,14 +158,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "15"
+          "count": "17"
         },
         {
           "emoji": "❤",
-          "count": "2"
+          "count": "3"
         }
       ],
-      "views_label": "2.61K",
+      "views_label": "2.86K",
       "posted_at": "2026-09-07T05:10:20+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2583",
@@ -154,7 +195,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "821"
+          "count": "823"
         },
         {
           "emoji": "🗿",
@@ -193,7 +234,7 @@
           "count": "1"
         }
       ],
-      "views_label": "16.8K",
+      "views_label": "16.9K",
       "posted_at": "2026-09-06T04:09:39+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2582",
@@ -299,7 +340,7 @@
           "count": "2"
         }
       ],
-      "views_label": "16K",
+      "views_label": "16.1K",
       "posted_at": "2026-09-06T03:40:24+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2580",
@@ -356,7 +397,7 @@
           "count": "1"
         }
       ],
-      "views_label": "18.1K",
+      "views_label": "18.2K",
       "posted_at": "2026-09-06T03:29:02+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2579",
@@ -386,7 +427,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "171"
+          "count": "172"
         },
         {
           "emoji": "👍",
@@ -439,7 +480,7 @@
         },
         {
           "emoji": "🤡",
-          "count": "395"
+          "count": "396"
         },
         {
           "emoji": "🤬",
@@ -629,7 +670,7 @@
           "count": "4"
         }
       ],
-      "views_label": "35K",
+      "views_label": "35.1K",
       "posted_at": "2026-08-30T08:22:53+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2574",
@@ -767,7 +808,7 @@
           "count": "2"
         }
       ],
-      "views_label": "30K",
+      "views_label": "30.1K",
       "posted_at": "2026-08-30T08:11:03+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2572",
@@ -828,7 +869,7 @@
           "count": "1"
         }
       ],
-      "views_label": "24.3K",
+      "views_label": "24.5K",
       "posted_at": "2026-08-30T08:04:22+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2571",
@@ -910,7 +951,7 @@
           "count": "3"
         }
       ],
-      "views_label": "26.6K",
+      "views_label": "26.7K",
       "posted_at": "2026-08-30T07:50:51+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2569",
@@ -971,7 +1012,7 @@
           "count": "1"
         }
       ],
-      "views_label": "40.3K",
+      "views_label": "40.4K",
       "posted_at": "2026-08-25T04:24:30+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2568",
@@ -5608,71 +5649,6 @@
       "posted_at": "2026-07-12T16:36:24+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2486",
-      "reply": null
-    },
-    {
-      "id": "ircfspace/2485",
-      "author_name": "IRCF | اینترنت آزاد برای همه",
-      "author_photo_url": "https://cdn1.telesco.pe/file/segV5qD8V3HVtbgyh_GP2-xCOJnEnbNpWWTZRPiU6hLTNVHvzFyguB6gy2v8p-R8rFCjcaarNQAqVmzyvwDEouBjIaBaSHwFUJbSwgdwx387oNrtTE8dK3GtmN1_BKCCWwPF7lwvcD7mYfDQSpuwnj22DiJciuCIZ2ninMgdLkNJOywYO3imbygEcFgQlj3ThiKnJdSLP8CkzgV3_9BAJt3O6QigBks-MOPIS_urMoVmgT4EURdf563lK4PI6CXmP9dAxlHstVDWSF4k7SxDYZOrpvz9cbgs0LunVp1JuIjuObpwcMSxsu5Rn_5orKzbePGPfZgFUOvQxOpNAdzQjw.jpg",
-      "author_photo_path": "channels/ircfspace/media/01e7dbe9c0a4610466f991fe.jpg",
-      "author_photo_sha256": "158f2dc02d1e6a05c082153b128dee184884a3f1159a3f635b1a111432f7eabc",
-      "body_html": "فیلترشکن JumpJump که بارها نام اون در گزارش‌ها بعنوان یک اپ ناامن مطرح شده بود، حالا یک محصول پرریسک دیگه با نام SpeedTop VPN منتشر کرده!<br>این برنامه با وجود چند میلیون دانلود در گوگل‌پلی، طبق بررسی‌های فنی پس‌کوچه دارای موارد نگران‌کننده‌ای مثل وجود تعداد زیادی ردیاب، درخواست دسترسی‌های غیرعادی و کدهای مرتبط با شبکه P2P هست، که می‌تونه دستگاه کاربران رو به بخشی از یک شبکه انتقال ترافیک تبدیل کنه.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴡᴇʙꜱɪᴛᴇ</a> • <a href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴠᴘɴʜᴜʙ</a> • <a href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
-      "plain_text": "فیلترشکن JumpJump که بارها نام اون در گزارش‌ها بعنوان یک اپ ناامن مطرح شده بود، حالا یک محصول پرریسک دیگه با نام SpeedTop VPN منتشر کرده!\nاین برنامه با وجود چند میلیون دانلود در گوگل‌پلی، طبق بررسی‌های فنی پس‌کوچه دارای موارد نگران‌کننده‌ای مثل وجود تعداد زیادی ردیاب، درخواست دسترسی‌های غیرعادی و کدهای مرتبط با شبکه P2P هست، که می‌تونه دستگاه کاربران رو به بخشی از یک شبکه انتقال ترافیک تبدیل کنه.\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/ircfspace/2485",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/OMNAbiWStWDq-6EPacZAypvETzVUwGsnNX6T1tZwQyTPHaXniJVCwnalLYDpY7Zm_Pi-xq959iNaxK83Xg24Wst1g8S_LxD5cx6XvwxI8wK9VsmAMAER3CiI94rGz5XbDzzRoIKr4jUf7jBSb80cW5SNOSUtMfj2EWMB6xnGjBDdNAKZBwyh9RUVAB61sOnsQMAQNqA0KvShfIIT0Wl8wtqOXzw12L713tipEScQ4FaJi4ELRX4NESo_88KStFlN4CBVeAuXV8ESHqltO7UF0O5L29J1VES7G_gRcgdeEz2FEK_yPXuHIj5IkBu2gTRU0gNdBJycKM9jUQ_NnygCLA.jpg",
-          "thumbnail_path": "channels/ircfspace/media/d9c317d58bc40c4de306283a.jpg",
-          "thumbnail_sha256": "16a5e2979d5c9d13dee49e1b2527f4211aab1ec449710457b88a21c1c6c4f3ea",
-          "duration_label": null,
-          "aspect_ratio": 1.5009380863039399
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "1"
-        },
-        {
-          "emoji": "👍",
-          "count": "464"
-        },
-        {
-          "emoji": "🗿",
-          "count": "49"
-        },
-        {
-          "emoji": "❤",
-          "count": "38"
-        },
-        {
-          "emoji": "👎",
-          "count": "7"
-        },
-        {
-          "emoji": "😢",
-          "count": "5"
-        },
-        {
-          "emoji": "🔥",
-          "count": "2"
-        },
-        {
-          "emoji": "👏",
-          "count": "2"
-        },
-        {
-          "emoji": "🎉",
-          "count": "1"
-        }
-      ],
-      "views_label": "71.6K",
-      "posted_at": "2026-07-11T05:20:27+00:00",
-      "edited": false,
-      "permalink": "https://t.me/ircfspace/2485",
       "reply": null
     }
   ]
