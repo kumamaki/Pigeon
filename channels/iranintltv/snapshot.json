@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T19:02:08.550Z",
+  "fetched_at": "2026-09-07T19:07:02.143Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,62 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356190",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "برگزاری مراسم هفتم علی میررضایی، خواننده مازندرانی، که پس از محکومیت در یک پرونده قتل، هفته گذشته اعدام شد، دوباره بحثی قدیمی اما مهم را به میان آورده است: وقتی فردی مرتکب خطایی سنگین می‌شود، جامعه چگونه باید با او مواجه شود و در عین حال، با مجازات مرگ چه نسبتی باید داشته باشد؟<br><br>حضور گسترده مردم در مراسم هفتم میررضایی، طبیعی است که بخشی از جامعه را تحت تاثیر قرار دهد. محبوبیت یک خواننده، خاطراتی که از او در ذهن مردم باقی مانده و پیوندی که با مخاطبانش داشته، می‌تواند سوگ او را به یک اتفاق اجتماعی تبدیل کند.<br><br>اما این محبوبیت نباید به پاک شدن بخش دیگری از واقعیت منجر شود: اگر در جریان یک نزاع، انسانی جان خود را از دست داده و فرد دیگری مسئول آن شناخته شده است، نمی‌توان به‌دلیل هنرمند بودن یا محبوبیت متهم، قربانی و خانواده او را از روایت حذف کرد.<br><a href=\"https://iranintl.com/202609079583\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609079583</a>",
+      "plain_text": "برگزاری مراسم هفتم علی میررضایی، خواننده مازندرانی، که پس از محکومیت در یک پرونده قتل، هفته گذشته اعدام شد، دوباره بحثی قدیمی اما مهم را به میان آورده است: وقتی فردی مرتکب خطایی سنگین می‌شود، جامعه چگونه باید با او مواجه شود و در عین حال، با مجازات مرگ چه نسبتی باید داشته باشد؟\n\nحضور گسترده مردم در مراسم هفتم میررضایی، طبیعی است که بخشی از جامعه را تحت تاثیر قرار دهد. محبوبیت یک خواننده، خاطراتی که از او در ذهن مردم باقی مانده و پیوندی که با مخاطبانش داشته، می‌تواند سوگ او را به یک اتفاق اجتماعی تبدیل کند.\n\nاما این محبوبیت نباید به پاک شدن بخش دیگری از واقعیت منجر شود: اگر در جریان یک نزاع، انسانی جان خود را از دست داده و فرد دیگری مسئول آن شناخته شده است، نمی‌توان به‌دلیل هنرمند بودن یا محبوبیت متهم، قربانی و خانواده او را از روایت حذف کرد.\nhttps://iranintl.com/202609079583",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356190",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qsqQpnEQICbGAR0vQyu2s-UaFdLMfKLj6ttDW7QeMwSZsQexsH71sGwsBe8_ldWMFs5OejTouaUVZ2vhdLRNMUXWZuIpWYmzAbI-d3iXahAxATI9ar7to-y3_sLIUc5fIB8Bxfd3oNQ2sRY2TTHtFsC96OCsfRtwFrn9vUHCjfrP0PbbbjHfL8m09R9yOT4SPd0awCS9IWjk7ocBeYFYE45UHkN13APybzuM3sk30IT1qh4Rv26lrdLjRKPJr6qrofHLcqeFhk6QXgls1YqQZ6psx8z9rSCdHAYJZdfsw9flpJXEAbDbwTb3gtLswYpdEufCzVG5x6yG2NO-01zTAw.jpg",
+          "thumbnail_path": "channels/iranintltv/media/1a4267880d461f6cdb7919fb.jpg",
+          "thumbnail_sha256": "20c17234412bbd806ed2eaaf6a92c7ae095ccefe1c0d32e8bbf5fd325673428a",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "2",
+      "posted_at": "2026-09-07T19:06:28+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356190",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356189",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌های روزافزون در ایران می‌گوید دو عدد تن ماهی را به قیمت ۷۵۰ هزار تومان خریده است.",
+      "plain_text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌های روزافزون در ایران می‌گوید دو عدد تن ماهی را به قیمت ۷۵۰ هزار تومان خریده است.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356189",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/d73ua2dwT0SkdAAFHWpjNUizxIixG807EAhnhvjyWnVlAcvGSfQ5-f_byvLw8sPuzy_sRH0gfiBvbMuLWgj4AhkI0NrlDCnc3EQIBzJyq3plplDySmkR_OV0QhQbwkMyfXmFQsxMR12EXadH2Zl4Uqe1fHMjP9alvF7M0uTzRctvtsn7teb5ktGBWxrTXRzLkCH9e5fRFmV3974ymqVlM0FzsHgv0VnlyYZ4KEaXgeiLXQ5wMGCqf-YNbSca27W698xCu-BgqAX5QgWnERCCNsFGw8DlVgigbIIi_9htDNNw9TYW12GDvxFUlSFG7zXiZHuIx06CCBRmxTv7F6B6Bg",
+          "thumbnail_path": "channels/iranintltv/media/0cb44c80cbc5b9d1b6f5560f.jpg",
+          "thumbnail_sha256": "cd7d3610d389640fba1a855a037dce213f9ddd3ee7c1fb9937f082a0b6c2185c",
+          "duration_label": "0:35",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "4.17K",
+      "posted_at": "2026-09-07T19:03:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356189",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356188",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.29K",
+      "views_label": "10.5K",
       "posted_at": "2026-09-07T18:56:49+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356188",
@@ -72,7 +128,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.39K",
+      "views_label": "13.6K",
       "posted_at": "2026-09-07T18:52:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356186",
@@ -100,7 +156,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.7K",
+      "views_label": "17.8K",
       "posted_at": "2026-09-07T18:44:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356185",
@@ -128,7 +184,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.7K",
+      "views_label": "16.8K",
       "posted_at": "2026-09-07T18:44:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356184",
@@ -156,7 +212,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.6K",
+      "views_label": "15.8K",
       "posted_at": "2026-09-07T18:43:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356183",
@@ -184,7 +240,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.7K",
+      "views_label": "15.8K",
       "posted_at": "2026-09-07T18:43:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356182",
@@ -212,7 +268,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.1K",
+      "views_label": "26.3K",
       "posted_at": "2026-09-07T18:25:18+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356181",
@@ -240,7 +296,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.7K",
+      "views_label": "37.7K",
       "posted_at": "2026-09-07T18:02:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356180",
@@ -268,7 +324,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.5K",
+      "views_label": "33.6K",
       "posted_at": "2026-09-07T18:02:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356179",
@@ -296,7 +352,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "43.1K",
+      "views_label": "44.2K",
       "posted_at": "2026-09-07T17:36:29+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356178",
@@ -324,7 +380,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.9K",
+      "views_label": "39.9K",
       "posted_at": "2026-09-07T17:35:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356177",
@@ -352,7 +408,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.8K",
+      "views_label": "36.8K",
       "posted_at": "2026-09-07T17:35:18+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356176",
@@ -380,7 +436,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "44.2K",
+      "views_label": "45.2K",
       "posted_at": "2026-09-07T17:14:51+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356175",
@@ -408,7 +464,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "46.3K",
+      "views_label": "47.3K",
       "posted_at": "2026-09-07T17:04:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356174",
@@ -436,7 +492,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "44.2K",
+      "views_label": "45.3K",
       "posted_at": "2026-09-07T17:01:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356173",
@@ -464,7 +520,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45.4K",
+      "views_label": "46.4K",
       "posted_at": "2026-09-07T16:54:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356172",
@@ -492,7 +548,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.6K",
+      "views_label": "49.7K",
       "posted_at": "2026-09-07T16:37:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356171",
@@ -2704,50 +2760,6 @@
       "posted_at": "2026-09-07T08:01:35+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356088",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356087",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "ایمان آقایاری، تحلیلگر سیاسی، با اشاره به گزارش هه‌نگاو درباره اعدام شش زن، بازداشت دست‌کم ۲۰ فعال زن و ثبت ۱۹ مورد زن‌کشی در ماه اوت گفت اعدام‌ها در جمهوری اسلامی روندی فزاینده داشته و دستگاه قضایی جمهوری اسلامی بر ادامه نقض حقوق بنیادی اصرار دارد.<br><br><br>او افزود برخورد با فعالان حقوق زنان و زنانی که برای گسترش و دفاع از حقوق خود تلاش می‌کنند نیز بخشی از عملکرد دستگاه قضایی جمهوری اسلامی است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "ایمان آقایاری، تحلیلگر سیاسی، با اشاره به گزارش هه‌نگاو درباره اعدام شش زن، بازداشت دست‌کم ۲۰ فعال زن و ثبت ۱۹ مورد زن‌کشی در ماه اوت گفت اعدام‌ها در جمهوری اسلامی روندی فزاینده داشته و دستگاه قضایی جمهوری اسلامی بر ادامه نقض حقوق بنیادی اصرار دارد.\n\n\nاو افزود برخورد با فعالان حقوق زنان و زنانی که برای گسترش و دفاع از حقوق خود تلاش می‌کنند نیز بخشی از عملکرد دستگاه قضایی جمهوری اسلامی است.\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356087",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/tPZwBHvAKjmbutBbn_05GIBNKmRIW236J1GiSVDFwVJnuElGODCuqYiA1IMmBbb6T8U-IW8o_NYd_qyVQJP4TBLaTvBo8ULnwrdeCAjlHQcOLI2Tv5NCejDV8Kg8x_BqBP-o0NWHFXde_kPbeElVrdD-CWdLpaynnQO0VVaHhbi4jYT_TQrfFRccGGWguxvmjeOh_A8j_mYSIGi3aqwcqHRlUz47vC3fJvJQk25_qR2hjvCwXKEENknutw1E8CRBy334mGYAfxsex-fNS1byRYdQhLRRBEZmEp9UF6e5iB070HvFSFdeyr2Z81DzhXFBdADQNI80ZM5ts6e8ajN07A",
-          "thumbnail_path": "channels/iranintltv/media/bfb8694bdc9d619f8da6dae4.jpg",
-          "thumbnail_sha256": "c6ec78eddc917628d919ef0d79d276c46a2c96656786ea372084c60d70df0e08",
-          "duration_label": "4:26",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "28.3K",
-      "posted_at": "2026-09-07T07:58:54+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356087",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356086",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA7.png')\"><b>🎧</b></i>نسخه صوتی اخبار بامدادی | دوشنبه ۱۶ شهریور<br><a href=\"https://t.me/iranintlTV\" target=\"_blank\">@iranintlTV</a>",
-      "plain_text": "🎧نسخه صوتی اخبار بامدادی | دوشنبه ۱۶ شهریور\n@iranintlTV",
-      "media": [],
-      "reactions": [],
-      "views_label": "27.3K",
-      "posted_at": "2026-09-07T07:56:15+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356086",
       "reply": null
     }
   ]
