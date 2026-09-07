@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T11:53:29.729Z",
+  "fetched_at": "2026-09-07T11:57:08.418Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93444",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "«رضا نیاپرست»، دانشجوی مقطع کارشناسی ارشد رشته تاریخ دانشگاه شهید بهشتی، با حکم کمیته انضباطی این دانشگاه به دو سال و شش ماه محرومیت از تحصیل و اخراج محکوم شده است.<br><br>خبرگزاری هرانا دوشنبه ۱۶شهریور۱۴۰۵، گزارش داد که حکم بدوی این دانشجو روز یکشنبه ۱۵شهریور۱۴۰۵، از سوی کمیته انضباطی دانشگاه شهید بهشتی صادر شده است.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157270\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157270</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "«رضا نیاپرست»، دانشجوی مقطع کارشناسی ارشد رشته تاریخ دانشگاه شهید بهشتی، با حکم کمیته انضباطی این دانشگاه به دو سال و شش ماه محرومیت از تحصیل و اخراج محکوم شده است.\n\nخبرگزاری هرانا دوشنبه ۱۶شهریور۱۴۰۵، گزارش داد که حکم بدوی این دانشجو روز یکشنبه ۱۵شهریور۱۴۰۵، از سوی کمیته انضباطی دانشگاه شهید بهشتی صادر شده است.\nبخوانید: https://iranwire.com/fa/news-1/157270\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93444",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/XYZrs2_7xjMuoYdwGU1sde7YjipVGa0Jl4OTOUY7_Wj1yqKyryyjWxyo2sj002h_k9uM7PpHWfJbTrBd6PKZCExcFtmR7ibGVL0yQEzoRJGC77RSV1F_Z1c2AB-kPdK9WX5kIDCuyw5Qq83Nw6Pc2FiVKWGmk-14yYMN5lMeFflM3vDUmVYi4z_FDdJ9a7uJZBw9QMokWrkx6-aF_qVxoc2s3fX4BjHtjsPeFr_gz0DSuBb0tWfSXPYniTlb6PCZlI915s9xHfyhxqyCKaR13gkUxRSrAtQx2DA7qVdimR1pWoPttgcWbRzYdx2rH04WY1BmjE3RKc_nI3hlXj2dng.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/d2dc74a246679b338df9c459.jpg",
+          "thumbnail_sha256": "118f0db1d8e09582c48424894726ae108010465b516e88f5cba46f05062cd713",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-07T11:56:15+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93444",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93443",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "142",
+      "views_label": "175",
       "posted_at": "2026-09-07T11:44:43+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93443",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "427",
+      "views_label": "455",
       "posted_at": "2026-09-07T11:15:10+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93442",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "521",
+      "views_label": "532",
       "posted_at": "2026-09-07T10:55:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93441",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "488",
+      "views_label": "506",
       "posted_at": "2026-09-07T10:52:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93440",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "524",
+      "views_label": "540",
       "posted_at": "2026-09-07T10:45:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93439",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "480",
+      "views_label": "499",
       "posted_at": "2026-09-07T10:43:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93438",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "748",
+      "views_label": "759",
       "posted_at": "2026-09-07T09:53:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93437",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "729",
+      "views_label": "738",
       "posted_at": "2026-09-07T09:44:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93436",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "899",
+      "views_label": "905",
       "posted_at": "2026-09-07T08:36:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93435",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "993",
+      "views_label": "1K",
       "posted_at": "2026-09-07T08:02:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93434",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "858",
+      "views_label": "868",
       "posted_at": "2026-09-07T08:00:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93433",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "963",
+      "views_label": "970",
       "posted_at": "2026-09-07T07:43:45+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93432",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.03K",
+      "views_label": "1.04K",
       "posted_at": "2026-09-07T07:16:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93431",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.03K",
+      "views_label": "1.04K",
       "posted_at": "2026-09-07T07:05:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93430",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.14K",
+      "views_label": "1.15K",
       "posted_at": "2026-09-07T06:28:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93429",
@@ -537,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.6K",
+      "views_label": "1.61K",
       "posted_at": "2026-09-06T18:37:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93425",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-04T14:32:01+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93344",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93343",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EmUP9mB5rt_E-ktfi7gsZJiU2Vg2Igy7ZYPwCUj5ZBNBwKSs_5STWybgkDUrOJ8Mf21eZIyZX1Az3KyjeThtIqmK00XzVEbMQyr4Rtqm3BijZmsPdRtLDWb7uCAuOYVGfriyYjsEeD9-i5W2gDSuIa3DhMv1wA1h89ViwCSNAsbSBBXCFCCpRLzR03zsSwFJpI2uSI2Ypew-4R4EEINKuBXLsu1m9siY-A0_Db8j3HxwgV0GuSEPB4zv5KfCaNPxjp4EaKGdI-IcXaIBcqZoOpDe26XPYVEQJMiRoikQH4QRpuY3i_p41FKCMmJLQel9Vz2g8emShtFRNit2tEGUQw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/c769a9c378fcf30292902ce1.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "خواهر دادخواه علی جاوید با روشن کردن شمعی یاد برادر و برادرزاده‌اش، شیوا، را گرامی داشت.<br>علی جاوید، ۳۸ ساله، و دختر ۱۸ ساله‌اش شیوا، روز ۱۸ دی ۱۴۰۴ در مشهد کشته شدند.<br>خواهر علی جاوید در این ویدیو می‌گوید: «نگذاریم اسم و یادهایشان از ذهن‌هایمان محو شوند» و از دیگران می‌خواهد برای زنده نگه داشتن یاد جان‌باختگان، شمعی روشن کنند.<br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "خواهر دادخواه علی جاوید با روشن کردن شمعی یاد برادر و برادرزاده‌اش، شیوا، را گرامی داشت.\nعلی جاوید، ۳۸ ساله، و دختر ۱۸ ساله‌اش شیوا، روز ۱۸ دی ۱۴۰۴ در مشهد کشته شدند.\nخواهر علی جاوید در این ویدیو می‌گوید: «نگذاریم اسم و یادهایشان از ذهن‌هایمان محو شوند» و از دیگران می‌خواهد برای زنده نگه داشتن یاد جان‌باختگان، شمعی روشن کنند.\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Farsi_Iranwire/93343",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/AqjkFYqwNnVnGfeKDxUsYOP9XzV-rKhPApDevc3zXoGlKs-R-PrM9ulklGyM66TTP1r_iZ8nEdYDff5UFy9rRivb660Ii2wQ5pAY3UMFoZtnTvdjjYlibRWii-cxHvwyaxx3k4wJa_GOkfYvbZ5zTQpOrmeMSp_RLoxRfZCBmXuUyN17b-7gyJv-_uI5z1wq7neNcO7ry3u_t8ixeHP623lI21cf0CVLUXbnQsXGCRXCJnsRsETnMrBgNE4n5vm13lEl5yU5RS0VJlSCf3dRAT5soPUaKl-uZjbml5tBACoHdM_4z6tvApG7Bj5yjop3cH81eNNNK-_eOJJF7UlKoQ",
-          "thumbnail_path": "channels/farsi_iranwire/media/374a7af52f4b3abbd17ef1c0.jpg",
-          "thumbnail_sha256": "705b8ff137899f09cf9c3fe0779a703009c1f455813341a5543d3a8c739c6635",
-          "duration_label": "1:19",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.41K",
-      "posted_at": "2026-09-04T14:05:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93343",
       "reply": null
     }
   ]

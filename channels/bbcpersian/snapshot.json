@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T11:53:27.906Z",
+  "fetched_at": "2026-09-07T11:57:06.587Z",
   "channel": {
     "username": "bbcpersian",
     "title": "BBCPersian",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "bbcpersian/291010",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Rcx9zGv69UHGrtTVfPSpu_6MA3BWa9-TzEMakV2saM75bGdM7-C9EPn_zObD8xyEztAgGyVkr0gkzf3XqNBqTKn8DXaJtlmPDnP9IMmEJn5HRDIq0uoh5RWNxmPwN6cfXWAN3chJdbfau9xPME1lzW--0IaUt5uYTLX4YasbKmbb-44p8AKeTsbNsoccadYwzH-J7qVxfJ_-Dj3m494674xXDAR_k1wA67HV1D6RMQfI9kzQ5V9af4ldEWF5vHHqslNkvigVfmkCVHjteJ1zcIvqUiy2GAH5LiztyUnMtauIKOfhs0G74rjfmbSSLgaam_nQiulXLjg060I3oSK1KA.jpg",
+      "author_photo_path": "channels/bbcpersian/media/63160276cfca5480f4173d92.jpg",
+      "author_photo_sha256": "cf48535f60438757cd9b0534a23c038e85ac3e9a472bad98fdb8dd6f9211ad10",
+      "body_html": "تهمینه میلانی، کارگردان و فیلمساز ایرانی ویدیویی در حساب اینستاگرامش منتشر کرده که نشان می‌دهد متنی تهدید‌آمیز روی دیوار خانه‌اش نوشته شده است. <br><br>روی دیوار خانه خانم میلانی نوشته‌اند «به یاد کودکان میناب» و بخشی از نوشته به حمله به «یک عروسی در سیریک» اشاره شده و از عبارت «این آخرین اخطاره» استفاده شده است.<br><br>تهمینه میلانی در توضیح ویدیو در اینستاگرامش نوشته: «در شب تولدم ، عده ای ناشناس ، شبانه به من هدیه دادند. امروز صبح ، کلانتری ۱۰۱ همراه شد ، تا خاطیان دستگیر شوند. در حال حاضر، پیگیر اقدامات قضایی هستیم. جالب اینجاست که این افراد هیچ شناختی از من و فعالیت های اجتماعی من ندارد. من بارها در جهت محکوم کردن انفجار عروسی سیریک استوری و برای محکوم کردن قتل بچه‌های معصوم میناب ، استوری و پست گذاشتم.»<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "تهمینه میلانی، کارگردان و فیلمساز ایرانی ویدیویی در حساب اینستاگرامش منتشر کرده که نشان می‌دهد متنی تهدید‌آمیز روی دیوار خانه‌اش نوشته شده است.\n\nروی دیوار خانه خانم میلانی نوشته‌اند «به یاد کودکان میناب» و بخشی از نوشته به حمله به «یک عروسی در سیریک» اشاره شده و از عبارت «این آخرین اخطاره» استفاده شده است.\n\nتهمینه میلانی در توضیح ویدیو در اینستاگرامش نوشته: «در شب تولدم ، عده ای ناشناس ، شبانه به من هدیه دادند. امروز صبح ، کلانتری ۱۰۱ همراه شد ، تا خاطیان دستگیر شوند. در حال حاضر، پیگیر اقدامات قضایی هستیم. جالب اینجاست که این افراد هیچ شناختی از من و فعالیت های اجتماعی من ندارد. من بارها در جهت محکوم کردن انفجار عروسی سیریک استوری و برای محکوم کردن قتل بچه‌های معصوم میناب ، استوری و پست گذاشتم.»\n@BBCPersian",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/bbcpersian/291010",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ZexleQRPiocENA-8nP7kUEWmHWMRHJ5lOdJrOHppi72ZRfp8KaqllNO5Jo5M2YSf3IcTZMnRd3BBaXSsoCwXgEC0RSZYQZwiJtvuVdWyDL2Fxa_q-JYuIVSH-VguqZp9S-mo3GLpQAGB-bla-2uscGlnzWMMI5BznYEiDPxRm_rhadj8AFJTjeZHQtCP1U0S5dofLzexPUL9yf8WFtK7lrX-TaOOWtuVFNtbZu9l3UkFBHPnEw1gnmCMsV2D4W5xZI9pOoGcoRbEg_JIEOTY7N4gZy8BBZNhLlEESYXciCHCLN9NEeL4W7jvgTdizce2QIukzWhbqjceqkmu-c6RgA",
+          "thumbnail_path": "channels/bbcpersian/media/cc58435bfbdc736fb1418722.jpg",
+          "thumbnail_sha256": "a1fc36965bcfb896ecb5b49b393268531b42bd3ccc0efa6305bd9f1241691123",
+          "duration_label": "0:29",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.27K",
+      "posted_at": "2026-09-07T11:53:41+00:00",
+      "edited": true,
+      "permalink": "https://t.me/bbcpersian/291010",
+      "reply": null
+    },
+    {
       "id": "bbcpersian/291009",
       "author_name": "BBCPersian",
       "author_photo_url": "https://cdn4.telesco.pe/file/Rcx9zGv69UHGrtTVfPSpu_6MA3BWa9-TzEMakV2saM75bGdM7-C9EPn_zObD8xyEztAgGyVkr0gkzf3XqNBqTKn8DXaJtlmPDnP9IMmEJn5HRDIq0uoh5RWNxmPwN6cfXWAN3chJdbfau9xPME1lzW--0IaUt5uYTLX4YasbKmbb-44p8AKeTsbNsoccadYwzH-J7qVxfJ_-Dj3m494674xXDAR_k1wA67HV1D6RMQfI9kzQ5V9af4ldEWF5vHHqslNkvigVfmkCVHjteJ1zcIvqUiy2GAH5LiztyUnMtauIKOfhs0G74rjfmbSSLgaam_nQiulXLjg060I3oSK1KA.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔻رافائل گروسی: قطعنامه اگر تصویب شود بازتاب صدای جهانی است\n\nرافائل گروسی در پاسخ به سوال بهرنگ تاج‌دین، خبرنگار اعزامی بی‌بی‌سی فارسی به وین درباره تاثیر قطعنامه جدید کشورهای اروپایی بر بر نظارت و فعالیت‌های آژانس گفت این قطعنامه «بیان جمعی اعضای جامعه جهان» است، چه کمکی به حل این پرونده کند چه نکند.\n\nاو یادآوری کرد که قطعنامه هنوز به تصویب نرسیده و تاکید کرد که درباره تمام قطعنامه‌ها موضع «خنثی» دارد.\n\nایران گفته است در صورت تصویب قطعنامه و ارسال پرونده ایران به شورای امنیت سارمان ملل به اقدامات متقابل دست می‌زند.\n\nhttps://bbc.in/4hc0jWe\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "14K",
+      "views_label": "15.9K",
       "posted_at": "2026-09-07T11:08:26+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291009",
@@ -37,7 +65,7 @@
       "plain_text": "🔻نشست خبری رافائل گروسی آغاز شد\n\nرافائل گروسی، دبیرکل آژانس بین‌المللی در روز نخست نشست شورای حکام در یک کنفرانس خبری حاضر شد.\n\nقرار است شورای حکام در نشست جدید خود درباره قطعنامه سه کشور اروپایی تصمیم بگیرد که خواهان ارسال پرونده ایران به شورای امنیت شدند.\n\nپیش از این نشست آقای گروسی بیانیه‌ای در آغاز نشست فصلی چهار روزه شورای حکام آژانس بین‌المللی انرژی اتمی صادر کرد و درباره وضعیت فعالیت‌های هسته‌ای در چند کشور از جمله سوریه، اوکراین و کره شمالی و ایران گزارش داد.\n\nدرباره ایران مدیر کل آژانس نوشت که بر اساس قعطنامه نوامبر پارسال شورای حکام گزارشی تهیه کرده است:\n\n«همان‌طور که در این گزارش آمده است، در طول دوره گزارش‌، آژانس نه اطلاعاتی از ایران درباره وضعیت مواد هسته‌ای یا تأسیسات اعلام‌شده دریافت کرده نه به هیچیک از این تأسیسات دسترسی داشته است تا راستی‌آزمایی میدانی کند. بنابراین، آژانس نتوانسته است مسئولیت‌های پادمانی خود را در چارچوب ان‌پی‌تی در تأسیسات هسته‌ای اعلام‌شده ایران به انجام برساند.»\nاینجا بخوانید⬇️\nhttps://bbc.in/3UHAd4H\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "14.9K",
+      "views_label": "15.9K",
       "posted_at": "2026-09-07T11:03:04+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291008",
@@ -53,7 +81,7 @@
       "plain_text": "🔻حوثی‌ها می‌گویند عربستان به نقاطی در یمن حمله کرده است\n\nحوثی‌ها می‌گویند عربستان سعودی نقاطی در یمن را هدف حمله هوایی قرار داده است.\n\nخبرگزاری صبا، خبرگزاری حوثی‌ها، گفت که عربستان «در حملات هوایی و همچنین با شلیک موشک کروز نقاطی را استان‌های جوف، البیضا، مأرب و تعز را هدف قرار داده است.»\n\nحوثی‌ها عملیاتی را برای تصرف مناطقی در مجاورت تنگه راهبردی باب‌المندب آغاز کرده‌اند.\n\nشمار کشته‌شدگان در جنگ بین حوثی‌ها و نیروهای دولتی یمن از روز پنج‌شنبه که عملیات حوثی‌ها آغاز شد به صدها نفر رسیده است.\n\nحوثی که خود را انصارالله می‌خوانند متحد ایران هستند و با نیروهای دولت یمن که از حمایت عربستان برخوردارند درجنگند.\n\nحوثی‌ها شمال یمن و نوار ساحلی دریای سرخ و صنعا، پایتخت، را در اختیار دارند.\n\nشورای رهبری ریاست جمهوری یمن که جامعه بین‌المللی به رسمیت می‌شناسد شرق یمن و نوار ساحلی جنوبی و بندر عدن را در کنترل دارد.\n\nحوثی‌ها برای شکستن محاصره عربستان محاصره متقابل اعلام کرده‌اند و به نفتکش‌های عربستان در دریایی سرخ حمله می‌کنند.\n\nhttps://bbc.in/4xmygbK\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "14K",
+      "views_label": "14.7K",
       "posted_at": "2026-09-07T10:59:33+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291007",
@@ -81,7 +109,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.7K",
+      "views_label": "14.4K",
       "posted_at": "2026-09-07T10:55:02+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291006",
@@ -109,7 +137,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.3K",
+      "views_label": "21K",
       "posted_at": "2026-09-07T10:13:02+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291005",
@@ -153,7 +181,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.5K",
+      "views_label": "26.2K",
       "posted_at": "2026-09-07T09:29:45+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291003",
@@ -181,7 +209,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.1K",
+      "views_label": "26.4K",
       "posted_at": "2026-09-07T09:15:32+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291002",
@@ -197,7 +225,7 @@
       "plain_text": "🔻بقائی: روابط پایدار ایران و چین فراتر از محدودیت‌ زمانی نشست‌ها است\n\nاسماعیل بقایی، سخنگوی وزارت امور خارجه، درباره دیدار روسای جمهور چین و ایران در حاشیه اجلاس سازمان همکاری شانگهای گفت: «فشرده بودن زمان در اینگونه رویدادهای بین‌المللی مانع از برگزاری نشست‌های طولانی با تمامی مقامات شد* اما در دیدار کوتاه انجام‌شده با نخست‌وزیر چین موضوعات محوری و مهمی مورد تبادل نظر قرار گرفت.»\n\nمسعود پزشکیان در حاشیه اجلاس سران سازمان همکاری شانگهای با رهبران تاجیکستان، قرقیزستان، هند، پاکستان، روسیه و جمهوری آذربایجان دیدار کرد اما نداشتن نشست طولانی با رئیس جمهور چین حاشیه‌ها و انتقاداتی به دنبال داشت.\n\nاسماعیل بقایی همچنین گفت: «روابط ایران و چین بسیار حسنه، پایدار و مبتنی بر تماس‌های مستمر در سطوح مختلف است. از این رو عدم برگزاری یک دیدار طولانی‌مدت در حاشیه یک اجلاس، خللی در روند این مناسبات ایجاد نمی‌کند.»\n\nاو گفت اینکه این نشست بین روسای جمهور ایران و چین برگزار نشده است، «تعیین کننده‌» نیست.\n\nپیشتر مقام‌های آمریکا گفته بودند که با رهبران چین درباره ایران رایزنی‌هایی داشتند.\n\nچین اصلی‌ترین شریک تجاری و بزرگترین خریدار نفت ایران است.\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "25.9K",
+      "views_label": "26.2K",
       "posted_at": "2026-09-07T09:04:51+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291001",
@@ -225,7 +253,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.3K",
+      "views_label": "28.6K",
       "posted_at": "2026-09-07T08:39:36+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291000",
@@ -269,7 +297,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.6K",
+      "views_label": "33.9K",
       "posted_at": "2026-09-07T07:16:32+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/290998",
@@ -285,7 +313,7 @@
       "plain_text": "🔻خبرگزاری دولتی لبنان: ۱۱ نفر از جمله دو نوزاد در حمله اسرائیل به یک روستا کشته شدند\n\nخبرگزاری دولتی لبنان گزارش داد که دستکم ۱۱ نفر، از جمله دو نوزاد، در حملات اسرائیل به یک روستا در جنوب لبنان کشته شدند.\nاین حملات یک روز پس از حملات جداگانه‌ای انجام شد که در آن هفت کشته بر جا گذاشت.\n\nبنابر گزارش خبرگزاری لبنان، در حملات جدید به یک ساختمان مسکونی در شهری در جنوب لبنان ۹ نفر کشته و پنج نفر دیگر زخمی شدند.\nبنابر این گزارش، دو امدادگر هم که خودروی آنها در همان منطقه بوده، هدف قرار گرفتند و کشته شدند.\nاسرائیل بخشی از جنوب لبنان را منطقه امنیتی خوانده و می‌گوید تا خلع سلاح حزب‌الله از این مناطق عقب نمی‌نشیند.\n\nدر روزهای گذشته بار دیگر حملات اسرائیل به جنوب لبنان شدت گرفته است.\nاز ماه مارس، در نتیجه حملات اسرائیل در لبنان بیش از ۴۳۰۰ نفر کشته شده‌اند.\n\nhttps://bbc.in/3Thusub\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "35.6K",
+      "views_label": "35.9K",
       "posted_at": "2026-09-07T06:46:20+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/290997",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "42.5K",
+      "views_label": "42.8K",
       "posted_at": "2026-09-07T05:35:11+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/290995",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.2K",
+      "views_label": "47.3K",
       "posted_at": "2026-09-07T04:28:01+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/290994",
@@ -389,7 +417,7 @@
       "plain_text": "🔻ادامه روند صعودی بهای نفت؛ برنت به ۹۷ دلار رسید\n\nبا ادامه درگیری میان ایران و آمریکا در خلیج فارس بهای نفت در آغاز روز دوشنبه در بازارهای شرق آسیا همچنان افزایش یافت.\nنفت برنت دریای شمال صبح دوشنبه با ۹۶ دلار و ۹۴ سنت به مرز ۹۷ دلار رسید و این در حالی است که حدود ۱۰ روز پیش و قبل از دور جدید درگیری‌های نظامی میان ایران و امریکا بهای هر بشکه آن حدود ۸۶ دلار بود.\n\nhttps://bbc.in/4gFHU44\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "44.7K",
+      "views_label": "45K",
       "posted_at": "2026-09-07T04:11:40+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/290992",
@@ -2340,22 +2368,6 @@
       "posted_at": "2026-09-05T19:28:05+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/290877",
-      "reply": null
-    },
-    {
-      "id": "bbcpersian/290876",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/diY127ratCidRQBlnbIYTWpc6tSp0qcS4R4O28MWRX4knKjpIaxSnEol1WT3eoIfQAdjiqP4IC_p71AHwGXVeuIvESe62D6qqiDZCWXQBackAIEID1jz-vI840b35b39xPjdY3TgiDPsstS3yiFwq_gv7ZByqqrn3Hs9xmyuvE2VcFmPPBs9QKqiNvYT43NYoxnJ1ucFWCTM3qamIdkk1OsbgbFruM4G37RLamrFqiG1JwmXgJ3Ix_Z4iVhnl4j3JCzbPZQYY9ujMA8v9QSgrmlSvByrqSrbFpP7qEeBejG5HMWgwQeVkTE2yhgVUy1X_mj88RwaT3Gl942tBvanow.jpg",
-      "author_photo_path": "channels/bbcpersian/media/b3ffb6f4b6579a10cf72c4bb.jpg",
-      "author_photo_sha256": "cf48535f60438757cd9b0534a23c038e85ac3e9a472bad98fdb8dd6f9211ad10",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>رسانه‌های ایران: وضعیت در خارگ آرام است<br><br>پیشتر گزارش کردیم که رسانه‌های ایران می‌گویند آمریکا یک نفتکش ایرانی را در نزدیکی جزیره خارگ هدف حمله موشکی قرار داده است.<br><br>منابع رسمی ایران و آمریکا در این باره اظهار نظر نکرده‌اند اما رسانه‌های ایران می‌گویند وضعیت در خارگ آرام است.<br><br>خبرگزاری دانشجو یا پخش تصاویری از این جزیره گفت که نشانه‌ای از آتش یا دود در اطراف جزیره دیده نمی‌شود.<br><br>خبرگزاری تسنیم پیشتر گزارش داده بود که نفتکش ایرانی در زمان حمله در شش مایلی (حدود ۱۱ کیلومتری) جزیره خارگ بوده است.<br><br><a href=\"https://bbc.in/4xImeKE\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4xImeKE</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "🔻رسانه‌های ایران: وضعیت در خارگ آرام است\n\nپیشتر گزارش کردیم که رسانه‌های ایران می‌گویند آمریکا یک نفتکش ایرانی را در نزدیکی جزیره خارگ هدف حمله موشکی قرار داده است.\n\nمنابع رسمی ایران و آمریکا در این باره اظهار نظر نکرده‌اند اما رسانه‌های ایران می‌گویند وضعیت در خارگ آرام است.\n\nخبرگزاری دانشجو یا پخش تصاویری از این جزیره گفت که نشانه‌ای از آتش یا دود در اطراف جزیره دیده نمی‌شود.\n\nخبرگزاری تسنیم پیشتر گزارش داده بود که نفتکش ایرانی در زمان حمله در شش مایلی (حدود ۱۱ کیلومتری) جزیره خارگ بوده است.\n\nhttps://bbc.in/4xImeKE\n@BBCPersian",
-      "media": [],
-      "reactions": [],
-      "views_label": "23.9K",
-      "posted_at": "2026-09-05T19:27:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/290876",
       "reply": null
     }
   ]
