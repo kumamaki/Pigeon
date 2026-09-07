@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T21:12:11.402Z",
+  "fetched_at": "2026-09-07T21:17:21.374Z",
   "channel": {
     "username": "tavaana_tavaanatech",
     "title": "آموزشکده توانا",
@@ -35,10 +35,10 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "11"
+          "count": "12"
         }
       ],
-      "views_label": "177",
+      "views_label": "190",
       "posted_at": "2026-09-07T20:22:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105967",
@@ -68,10 +68,10 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "4"
+          "count": "5"
         }
       ],
-      "views_label": "237",
+      "views_label": "253",
       "posted_at": "2026-09-07T20:22:49+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105966",
@@ -106,9 +106,13 @@
         {
           "emoji": "❤",
           "count": "1"
+        },
+        {
+          "emoji": "🕊",
+          "count": "1"
         }
       ],
-      "views_label": "202",
+      "views_label": "211",
       "posted_at": "2026-09-07T20:22:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105965",
@@ -138,10 +142,10 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "3"
+          "count": "4"
         }
       ],
-      "views_label": "193",
+      "views_label": "204",
       "posted_at": "2026-09-07T20:22:15+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105964",
@@ -171,10 +175,10 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "5"
+          "count": "7"
         }
       ],
-      "views_label": "166",
+      "views_label": "179",
       "posted_at": "2026-09-07T20:22:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105963",
@@ -204,10 +208,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "5"
+          "count": "6"
+        },
+        {
+          "emoji": "🕊",
+          "count": "1"
         }
       ],
-      "views_label": "172",
+      "views_label": "181",
       "posted_at": "2026-09-07T20:21:58+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105962",
@@ -234,8 +242,13 @@
           "aspect_ratio": 0.7500000000000188
         }
       ],
-      "reactions": [],
-      "views_label": "190",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "199",
       "posted_at": "2026-09-07T20:21:47+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105961",
@@ -276,7 +289,7 @@
           "count": "1"
         }
       ],
-      "views_label": "946",
+      "views_label": "955",
       "posted_at": "2026-09-07T18:31:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105960",
@@ -317,7 +330,7 @@
           "count": "1"
         }
       ],
-      "views_label": "935",
+      "views_label": "940",
       "posted_at": "2026-09-07T17:35:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105959",
@@ -354,7 +367,7 @@
           "count": "3"
         }
       ],
-      "views_label": "952",
+      "views_label": "955",
       "posted_at": "2026-09-07T17:14:52+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105958",
@@ -370,7 +383,7 @@
       "plain_text": "hey - you should join us for this live room happening now \"افزایش فشار بر خانواده‌های دادخواه\". https://www.clubhouse.com/i/افزایش-فشار-بر-خانوادههای-دادخواه/RhmmzojD",
       "media": [],
       "reactions": [],
-      "views_label": "743",
+      "views_label": "745",
       "posted_at": "2026-09-07T17:07:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105957",
@@ -403,7 +416,7 @@
           "count": "6"
         }
       ],
-      "views_label": "870",
+      "views_label": "873",
       "posted_at": "2026-09-07T15:41:10+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105956",
@@ -444,7 +457,7 @@
           "count": "1"
         }
       ],
-      "views_label": "986",
+      "views_label": "988",
       "posted_at": "2026-09-07T13:56:43+00:00",
       "edited": true,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105955",
