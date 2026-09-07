@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T15:32:09.797Z",
+  "fetched_at": "2026-09-07T15:37:57.058Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356164",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "یک راننده تاکسی اینترنتی با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌های شدید کالاهای ضروری در ایران و نبود کار می‌گوید که مسافران تاکسی اینترنتی بسیار کم شده و نمی‌تواند مخارج زندگی را از این راه تامین کند.",
+      "plain_text": "یک راننده تاکسی اینترنتی با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌های شدید کالاهای ضروری در ایران و نبود کار می‌گوید که مسافران تاکسی اینترنتی بسیار کم شده و نمی‌تواند مخارج زندگی را از این راه تامین کند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356164",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/H1VhzaGzB8Qd5zih6cyQq0JVbow5Hlw92z-5uJWoRpWuzLICM3kJAd24JxUehjVIybsi6cFF_3gRYyZ9N9SBGlKk7kGWNf9aqHE3tMOyFjamR1PrNc5HQvgn2SuFn4ImbhEbmszUTYvrEnNTdo5dZL9C8E0nvBqmReFeHCB0uDA-XATxluniZ-JS8SVHUmGBj3DzFik_p-yAjJYRoCCEIbBxZIR6C4bm87WjlFQ1Jq8klagb9jzMnM7eK3TZZaNfzsz-3nJUL2w8a6C-Fdq_BBOiGruGncc6JkcFTaiRbFfqXvJ-iCNm4cCYMBOHVR6lqumWfW9Nst89cHnC1yiYeg",
+          "thumbnail_path": "channels/iranintltv/media/7e98bae5ba4137dbefd7abc2.jpg",
+          "thumbnail_sha256": "92ff963247cd25f6898547bea9e18bbd0a90dedcef4d61ba0b2717d4dcd2942c",
+          "duration_label": "1:03",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "4.29K",
+      "posted_at": "2026-09-07T15:33:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356164",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356163",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.41K",
+      "views_label": "10.7K",
       "posted_at": "2026-09-07T15:24:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356163",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.7K",
+      "views_label": "14.8K",
       "posted_at": "2026-09-07T15:17:57+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356162",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.1K",
+      "views_label": "22.3K",
       "posted_at": "2026-09-07T15:00:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356161",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.6K",
+      "views_label": "29.7K",
       "posted_at": "2026-09-07T14:38:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356160",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.5K",
+      "views_label": "27.6K",
       "posted_at": "2026-09-07T14:37:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356159",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.5K",
+      "views_label": "26.6K",
       "posted_at": "2026-09-07T14:30:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356158",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.5K",
+      "views_label": "25.6K",
       "posted_at": "2026-09-07T14:28:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356157",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.4K",
+      "views_label": "24.5K",
       "posted_at": "2026-09-07T14:26:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356156",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.5K",
+      "views_label": "26.6K",
       "posted_at": "2026-09-07T14:19:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356155",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.6K",
+      "views_label": "26.7K",
       "posted_at": "2026-09-07T14:14:05+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356154",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.9K",
+      "views_label": "29.9K",
       "posted_at": "2026-09-07T14:02:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356153",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31K",
+      "views_label": "32K",
       "posted_at": "2026-09-07T13:55:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356152",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.2K",
+      "views_label": "36.3K",
       "posted_at": "2026-09-07T13:35:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356151",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.3K",
+      "views_label": "37.4K",
       "posted_at": "2026-09-07T13:32:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356150",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.1K",
+      "views_label": "33.2K",
       "posted_at": "2026-09-07T13:31:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356149",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.2K",
+      "views_label": "35.3K",
       "posted_at": "2026-09-07T13:20:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356148",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.3K",
+      "views_label": "36.3K",
       "posted_at": "2026-09-07T13:17:56+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356147",
@@ -509,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.3K",
+      "views_label": "38.4K",
       "posted_at": "2026-09-07T13:11:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356146",
@@ -537,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.4K",
+      "views_label": "38.4K",
       "posted_at": "2026-09-07T13:02:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356145",
@@ -2709,34 +2737,6 @@
       "posted_at": "2026-09-07T03:48:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356062",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356061",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "سی‌ان‌بی‌سی در تحلیلی نوشت ادامه جنگ با جمهوری اسلامی و نبود نشانه‌ای از پیشرفت دیپلماتیک، تحقق وعده‌های اولیه دولت دونالد ترامپ، رییس‌جمهوری آمریکا، درباره جلوگیری از تبدیل درگیری به یک «جنگ بی‌پایان» را دشوارتر کرده است.<br><br>این رسانه با اشاره به اظهارات تازه کریس رایت، وزیر انرژی آمریکا، درباره احتمال نرسیدن واشینگتن و تهران به توافق هسته‌ای نوشت آنچه ترامپ پیش‌تر «گشت‌وگذاری کوچک» خوانده بود، اکنون بیش از پیش به یک «باتلاق» شبیه می‌شود.<br><br>رایت پیش‌تر گفته بود اگر جمهوری اسلامی برای بازسازی توانایی‌های هسته‌ای خود تلاش کند، آمریکا ممکن است بار دیگر این توانایی‌ها را هدف قرار دهد. وزیر انرژی آمریکا افزوده بود واشینگتن در حال کاهش توانایی تهران برای توسعه و در نهایت به‌کارگیری سلاح هسته‌ای است.<br><br>سی‌ان‌بی‌سی همچنین افزایش قیمت جهانی نفت و رسیدن میانگین قیمت گازوییل در آمریکا به رکورد ۵ دلار و ۸۵ سنت در هر گالن را از پیامدهای جنگ با حکومت ایران و حملات اوکراین به پالایشگاه‌های روسیه دانست.<br><br><a href=\"https://iranintl.com/202609075966\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609075966</a>",
-      "plain_text": "سی‌ان‌بی‌سی در تحلیلی نوشت ادامه جنگ با جمهوری اسلامی و نبود نشانه‌ای از پیشرفت دیپلماتیک، تحقق وعده‌های اولیه دولت دونالد ترامپ، رییس‌جمهوری آمریکا، درباره جلوگیری از تبدیل درگیری به یک «جنگ بی‌پایان» را دشوارتر کرده است.\n\nاین رسانه با اشاره به اظهارات تازه کریس رایت، وزیر انرژی آمریکا، درباره احتمال نرسیدن واشینگتن و تهران به توافق هسته‌ای نوشت آنچه ترامپ پیش‌تر «گشت‌وگذاری کوچک» خوانده بود، اکنون بیش از پیش به یک «باتلاق» شبیه می‌شود.\n\nرایت پیش‌تر گفته بود اگر جمهوری اسلامی برای بازسازی توانایی‌های هسته‌ای خود تلاش کند، آمریکا ممکن است بار دیگر این توانایی‌ها را هدف قرار دهد. وزیر انرژی آمریکا افزوده بود واشینگتن در حال کاهش توانایی تهران برای توسعه و در نهایت به‌کارگیری سلاح هسته‌ای است.\n\nسی‌ان‌بی‌سی همچنین افزایش قیمت جهانی نفت و رسیدن میانگین قیمت گازوییل در آمریکا به رکورد ۵ دلار و ۸۵ سنت در هر گالن را از پیامدهای جنگ با حکومت ایران و حملات اوکراین به پالایشگاه‌های روسیه دانست.\n\nhttps://iranintl.com/202609075966",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356061",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/sl-w6SqHhvyAc9OKykphV1LxnlpU59qw_7PQPzzOTQkoGl0pubNTWU2B5B7OUPfDC84E9fJSpObeI8p9BP-h5SpL1rA9MftSxf7SWC10Ojp0KHJuLkZ0j9_VqR1dMfot45Y9HOPBPdB5gt-8TaGIO9wVnTSJe4sHCJ4w9LXVU_7HEVMjg6Ml5la9xlT4VqezrgKdQ-sStoxhnuvHOxeYWMlBr6jKmQ5BCr9yII2aBs_dfi4PzKKebQdsQroz_sot6aXHzj1PQiwrR4ZO_IksuUJmpQjPNvra3jwUIO4aUawo8I_YOF-O0j3PXX_m2viS8ljbzI4sztH8L1qMfWhLog.jpg",
-          "thumbnail_path": "channels/iranintltv/media/68497e15a1b40603685329b8.jpg",
-          "thumbnail_sha256": "f61d01eba23e5fb3d6aa7c7f09510f557cda5ac2cf6ad73cedb5ccded224f86f",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "66.1K",
-      "posted_at": "2026-09-07T03:00:19+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356061",
       "reply": null
     }
   ]
