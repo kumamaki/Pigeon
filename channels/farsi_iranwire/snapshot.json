@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T07:42:08.496Z",
+  "fetched_at": "2026-09-07T07:47:09.820Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93432",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "آمریکا، بریتانیا، فرانسه و آلمان پیش‌نویس قطعنامه‌ای را برای بررسی در نشست شورای حکام آژانس بین‌المللی انرژی اتمی تهیه کرده‌اند که خواستار ارسال قطعنامه‌های مربوط به عدم پایبندی ایران به شورای امنیت و مجمع عمومی سازمان ملل متحد است.<br><br>بر اساس متن این پیش‌نویس که رویترز نیز آن را مشاهده کرده است، شورای حکام بار دیگر از ایران می‌خواهد هرچه سریع‌تر موارد عدم پایبندی به موافقتنامه پادمان را با انجام اقداماتی که آژانس و شورا ضروری می‌دانند، برطرف کند تا مدیرکل بتواند درباره درستی و کامل‌بودن اظهارنامه‌های ایران و عدم انحراف مواد هسته‌ای تحت پادمان اطمینان لازم را ارائه دهد.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157251\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157251</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "آمریکا، بریتانیا، فرانسه و آلمان پیش‌نویس قطعنامه‌ای را برای بررسی در نشست شورای حکام آژانس بین‌المللی انرژی اتمی تهیه کرده‌اند که خواستار ارسال قطعنامه‌های مربوط به عدم پایبندی ایران به شورای امنیت و مجمع عمومی سازمان ملل متحد است.\n\nبر اساس متن این پیش‌نویس که رویترز نیز آن را مشاهده کرده است، شورای حکام بار دیگر از ایران می‌خواهد هرچه سریع‌تر موارد عدم پایبندی به موافقتنامه پادمان را با انجام اقداماتی که آژانس و شورا ضروری می‌دانند، برطرف کند تا مدیرکل بتواند درباره درستی و کامل‌بودن اظهارنامه‌های ایران و عدم انحراف مواد هسته‌ای تحت پادمان اطمینان لازم را ارائه دهد.\nبخوانید: https://iranwire.com/fa/news-1/157251\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93432",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/kQHcPULRTzJXqaQQhMBpoqLEy6TxH-1NDBmZqtqgW7DVi7vX5VfKnJaC21EUbOVUqrceaHRbToMygpwM3Vh0eE8-MIQdZaHjKA5f8mjnZPRnZJsoBgTrpWikfHiJsOqq9MV1_BFZbBZsyTfliQigmx6wqzGaNSmYb4m8zltjvQ7PTlqRRy8a6GCnpQ59yb4lJEW3ihCFAof3Xh0sk1mpPaYZl8YJxKDLeqXX3c8BOx14vi7aOlT3NKhUXV9cneaJZXr5CPOPXaBWeoxdKvKzd0P6S1upFgQxEYLFDZvweZWfMmE_Y5CrqdkqtD9ZtEr_LxUz_A2Jz0xc2_g_VPC1yg.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/4009f70bc388f66ba19e67d5.jpg",
+          "thumbnail_sha256": "641aaa1285d26226abb9e07d5ded5187df14bf6c9333848c2c548cef7549d548",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "78",
+      "posted_at": "2026-09-07T07:43:45+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93432",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93431",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "280",
+      "views_label": "333",
       "posted_at": "2026-09-07T07:16:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93431",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "338",
+      "views_label": "389",
       "posted_at": "2026-09-07T07:05:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93430",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "528",
+      "views_label": "569",
       "posted_at": "2026-09-07T06:28:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93429",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.55K",
+      "views_label": "1.57K",
       "posted_at": "2026-09-06T19:59:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93428",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.74K",
+      "views_label": "1.75K",
       "posted_at": "2026-09-06T19:13:45+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93427",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.45K",
+      "views_label": "1.46K",
       "posted_at": "2026-09-06T19:02:01+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93426",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.46K",
+      "views_label": "1.47K",
       "posted_at": "2026-09-06T18:37:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93425",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.59K",
+      "views_label": "1.6K",
       "posted_at": "2026-09-06T16:20:13+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93419",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.71K",
+      "views_label": "1.72K",
       "posted_at": "2026-09-06T14:28:33+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93418",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-04T09:24:11+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93332",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93331",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/L-i8b5V9xIgA88YBHLEUctA3K5L0fB69hAYkoRft-0UVJtaAnHU03fETwfydxrMtZ8M_vKBbbacap444mS3xZtRluI_3BA_zc4GZCBEv8TsZHDNhhBL_6gFT79je2k509097Ifq1A8CLfIydsjEBSplZp6dLBgLKkKTqtbbFRrWWm9iAtvPaZ9at1B-YsDW9Of1EBqYTV6LbEOZCaV15cCCjJTEwUlUtoCRqzyJTmJoqsDMDY7wM7qxgf7aG4TmjuUlM8fbsu7Fg7PTmdvqYeq9P8AOYraq2Jr5rGE_6-wv3iXnHfIGXSjE0-Z89LWq-Ci4YYzmfQ4tdetZ0G-iTNA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/8441f6253784e44bccb2a9c5.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "فرماندهی مرکزی نیروهای آمریکایی، سنتکام، بررسی‌ها درباره کشته شدن غیرنظامیان در جریان حملات روز سه‌شنبه به منطقه کوهستک را آغاز کرده است.<br>بیشتر: <a href=\"https://iranwire.com/fa/news-1/157145\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157145</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "فرماندهی مرکزی نیروهای آمریکایی، سنتکام، بررسی‌ها درباره کشته شدن غیرنظامیان در جریان حملات روز سه‌شنبه به منطقه کوهستک را آغاز کرده است.\nبیشتر: https://iranwire.com/fa/news-1/157145\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93331",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qUOIWBeckuam-UsTYmytmc5mWUYVh5vpiP2n9JkRekOi0MZdrrV9kYH1LIF2M_1oUQfXHb7w66XhszOaZNfMjoOYNoZ8Md1q13CFsCM3HrdtB6fxM_Sa3xw7o87RQiAnu5wt4k65K2lJ8iQ7sgqu4-uF50bRwapCMuEPOZBYuMOE67TB1Ii2IQG9DYo7_AVWiSAnddUAMIT4p0dtQ_BpI4EYvvF75edSUq49mJasnSPsJZJO83DndWH9KRZsSZICVv2rtPcBQNtipxZyxb-VRyA-57jYphGGQqWyJUxM3LrkEw7OJj_lYVKThwYUlzBDfn8VtUoncSeo8bfqTzXmvA.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/5718ae8093b1cf49b7b430de.jpg",
-          "thumbnail_sha256": "07696c73822d7dfa4e161c2b03be46bfa573c605cacbb2dedfb3bdb7e5a3a542",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.41K",
-      "posted_at": "2026-09-04T09:10:17+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93331",
       "reply": null
     }
   ]
