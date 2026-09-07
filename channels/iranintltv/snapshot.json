@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T06:32:16.272Z",
+  "fetched_at": "2026-09-07T06:37:16.433Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "IranintlTV/356073",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "ایرانیان شهر کلگری در ادامه تجمع‌های هفتگی خود مقابل ساختمان شهرداری این شهر، بار دیگر خواستار توقف سرکوب و اعدام در ایران شدند و بر همبستگی با مردم داخل کشور تاکید کردند.<br><br>گزارش سپیدار ولیان، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "ایرانیان شهر کلگری در ادامه تجمع‌های هفتگی خود مقابل ساختمان شهرداری این شهر، بار دیگر خواستار توقف سرکوب و اعدام در ایران شدند و بر همبستگی با مردم داخل کشور تاکید کردند.\n\nگزارش سپیدار ولیان، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356073",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/CWtTULTDoDRez8XZMhqQasWF1NffQWnZ_f_C-iVgWYIXq_eKsHEWXb-kFeg6-ZZcUjIqllubXOmpy4F137lWA4aLce66qtg0HZ9CPFjSmes9iBUicA1H5zTD-BlxYV7-2x4ogaJWfheYBnEvpIkmtnytnUwCY787AYj_nApWb4JAP_Q1Bamf6II42F_BAqdF-CkjpNQdlCMaxwVhLNY8F2VhKSmcEDRU79VNMWW8tCRYQJW8hRKZnj9y-2KsV09xUuhbQkhOSVcwiwZ61nDPJvRVCiyDf9twJDYXpKCXmcffIAc2UBJXeyJHOO_t1jKor728lUben12OOTVZ6VXBfw",
+          "thumbnail_path": "channels/iranintltv/media/afba402a6051ed6233bd2f8f.jpg",
+          "thumbnail_sha256": "d7e19534bc16762df495d03dd8f414da2a187033ac664b8b8c7b4792969e309f",
+          "duration_label": "2:21",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "6",
+      "posted_at": "2026-09-07T06:36:18+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356073",
+      "reply": null
+    },
+    {
       "id": "IranintlTV/356072",
       "author_name": "Iran International ایران اینترنشنال",
       "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🗣روایت شما از شرایط زندگی و بحران اقتصادی- دوشنبه ۱۶ شهریور:\n\n🔹من یک دانشجوی ۲۰ ساله هستم. چند وقت دیگه دانشگاه‌ها باز می‌شه و من تن و بدنم می‌لرزه به‌خاطر هزینه‌هاش؛ تو خرج خوردوخوراک موندیم. هر صبح که پا می‌شم، چیزی جز عذاب و بدبختی نیست. کی این دوران سیاه تموم می‌شه؟\n\n🔹با این وضعیت گرونی می‌شه درس خوند؟ حساب کنید یه خودکار کیان آبی شده ۷۰ هزار تومان.\n\n🔹دولت از درآمد خودش مثل مالیات، پول آب برق گاز، گمرک، بنزین، هیچ‌جوره کوتاه نمیاد اما انتظار داره مردم کوتاه بیان!\n\n🔹گندم رو کیلویی ۴۹ تومن می‌برن و پولش رو دو ماهه نمی‌دن؛ این دیگه بی‌کفایتی نیست، یه مشت مسئول بی‌عرضه دارن با دسترنج کشاورز بازی می‌کنن.\n\n🔹تو تهران برق نیست، اینترنت ضعیفه و خیلی وقت‌ها قطعه، همه چی گرونه و شب‌ها پرچمی‌ها آرامشمون رو سلب می‌کنن.\n\n🔹از شیراز پیام می‌دم. رفتم داروخانه یه قرص چرک‌خشک‌کن برای سرماخوردگی بخرم، قیمتش شده ۱۳۰ هزار تومن؛ همین چند وقت پیش می‌خریدیم ۲۰ هزار تومن.\n\n🔹از همدان پیام می‌دم. مواد غذایی گرون شده و حجم‌شون کم؛ اندازه یه کیک رو نصف کردن، بسته همبرگر که ۶ تایی بود شده ۴ تا ۷۰۰ هزار تومن، پنیر پیتزا کیلویی یک میلیون.\n\n🔹گرونی وحشتناکه. الان وسط ماهه و من موندم با دو میلیون باقی مونده تو حسابم. باید چیکار کنم باهاش واقعاً.\n\n🔹از بندرعباس پیام می‌دم. قیمت برنج ۱۰‌ کیلویی مثل دلار ثانیه‌ای داره می‌ره بالا. قدرت خرید واقعا نداریم. یه پنل کولر ۱۲ هزار در حد نو رو می‌فروشن ۲۰‌ میلیون. از استرس و ترس، شب‌ها خواب نداریم.",
       "media": [],
       "reactions": [],
-      "views_label": "4.2K",
+      "views_label": "6.34K",
       "posted_at": "2026-09-07T06:26:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356072",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7.41K",
+      "views_label": "9.5K",
       "posted_at": "2026-09-07T06:19:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356071",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.6K",
+      "views_label": "12.7K",
       "posted_at": "2026-09-07T06:13:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356069",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.7K",
+      "views_label": "15.8K",
       "posted_at": "2026-09-07T06:06:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356068",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.9K",
+      "views_label": "18K",
       "posted_at": "2026-09-07T06:00:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356067",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.4K",
+      "views_label": "26.5K",
       "posted_at": "2026-09-07T05:34:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356066",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36K",
+      "views_label": "37.1K",
       "posted_at": "2026-09-07T05:04:52+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356065",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "41.3K",
+      "views_label": "42.4K",
       "posted_at": "2026-09-07T04:47:41+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356064",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45.6K",
+      "views_label": "46.7K",
       "posted_at": "2026-09-07T04:22:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356063",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "57.7K",
+      "views_label": "58.8K",
       "posted_at": "2026-09-07T03:00:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356061",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "62.9K",
+      "views_label": "63.9K",
       "posted_at": "2026-09-07T01:04:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356059",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "61.1K",
+      "views_label": "62.1K",
       "posted_at": "2026-09-07T00:25:57+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356058",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "57.7K",
+      "views_label": "57.8K",
       "posted_at": "2026-09-06T23:59:44+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356056",
@@ -469,7 +497,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "55.3K",
+      "views_label": "56.3K",
       "posted_at": "2026-09-06T23:47:56+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356055",
@@ -525,7 +553,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "54.1K",
+      "views_label": "55.1K",
       "posted_at": "2026-09-06T23:24:00+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356052",
@@ -2721,34 +2749,6 @@
       "posted_at": "2026-09-06T11:00:54+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/355968",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/355967",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dua7-1F68YLJEFGTSTDkU4pbo7m29v_PUJo2Id0N3mpOijzM-Ub3dUhVIdGgiFiUhiPrQlMJKmZS7PXc6vsLzQw5lcMV_0vR2fRD2DKa3RDILk1oxcl2xdhmXItFOYchjDiDsgeLBQ_1T0LBPZcIoH3hZQWRinokn6_n3QMh3HeLQL1xTx-T4w5vhLmH_pMyugiDxZG96Q94OLXBePfpnJaSWRQdpdGWA29Z7E5pCPobtE0Sj7srHnvAGLaBDNDonYlFCLdCBSiGWmc2pRkrFtkr9og4kQ9w7KNWP8eu8Ze6jPWegnUYoPiQLkQNQtTHDMO_6IRz2XARr4G6gn_TuQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/ca7f2807f5839f47a1129d1b.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "مهدی مصلحی، کارشناس بازار نفت، با اشاره به بحران بنزین در ایران گفت وقتی کشوری با بزرگ‌ترین ذخایر نفتی جهان نمی‌تواند بنزین موجود را به‌طور مستمر و آبرومند عرضه کند، دیگر با یک ناتوانی ساده روبه‌رو نیست، بلکه با بحران توزیع و اقتصادی مواجه است.<br><br>او همچنین تاکید کرد جمهوری اسلامی نمی‌تواند کسری بنزین را به مصرف مردم نسبت دهد، زیرا طی چند دهه امکان انتخاب خودروهای کم‌مصرف و دسترسی متناسب به حمل‌ونقل عمومی را برای مردم فراهم نکرده است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "مهدی مصلحی، کارشناس بازار نفت، با اشاره به بحران بنزین در ایران گفت وقتی کشوری با بزرگ‌ترین ذخایر نفتی جهان نمی‌تواند بنزین موجود را به‌طور مستمر و آبرومند عرضه کند، دیگر با یک ناتوانی ساده روبه‌رو نیست، بلکه با بحران توزیع و اقتصادی مواجه است.\n\nاو همچنین تاکید کرد جمهوری اسلامی نمی‌تواند کسری بنزین را به مصرف مردم نسبت دهد، زیرا طی چند دهه امکان انتخاب خودروهای کم‌مصرف و دسترسی متناسب به حمل‌ونقل عمومی را برای مردم فراهم نکرده است.\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/355967",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/n3__-8vdIFZ7D0ggDJ4wVwTS5CisBaeUD8D4A_FEblyOV4FKqHXIhNi8XTymw41GWtmv9sNAgi-ao5ZIGHxqkum7x7PK-ttXchBdIvfUgO5fnlkNkuP9kAKZiTusN5jy6qbDnuVlT441ZwE3HmKlocqtzaRyw7zQ8YDFfHMhyWi_lRyhI3k9AH8kDfe_6pArv1P8Kg3LRGwoOdT8Iwde2yJ2UPJLGjxk6pJnGGfkB159YWdw3u3e-steIqhula0aS0_5shsMv1-hLH-cl4FPA-IwC-Z-4tLYMUt9SiOson00_DcHbSApN_jW0sHEWmeUolTGCo36MFtgAJawz6hzHw",
-          "thumbnail_path": "channels/iranintltv/media/dcce41fd885eefa19674333e.jpg",
-          "thumbnail_sha256": "60c808e93bac40be7d6eec99646a4395f61b39d97612a1e3bcf9d84cc1da0de8",
-          "duration_label": "4:55",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "49.5K",
-      "posted_at": "2026-09-06T10:37:07+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/355967",
       "reply": null
     }
   ]
