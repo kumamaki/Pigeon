@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T06:18:05.857Z",
+  "fetched_at": "2026-09-07T06:22:14.288Z",
   "channel": {
     "username": "matinsenpaii",
     "title": "Matin SenPai",
@@ -27,11 +27,11 @@
         },
         {
           "emoji": "💔",
-          "count": "347"
+          "count": "348"
         },
         {
           "emoji": "😁",
-          "count": "123"
+          "count": "124"
         },
         {
           "emoji": "❤",
@@ -76,18 +76,18 @@
         },
         {
           "emoji": "👍",
-          "count": "37"
+          "count": "38"
         },
         {
           "emoji": "🆒",
           "count": "5"
         },
         {
-          "emoji": "😁",
-          "count": "1"
+          "emoji": "🦄",
+          "count": "2"
         },
         {
-          "emoji": "🦄",
+          "emoji": "😁",
           "count": "1"
         }
       ],
@@ -267,7 +267,7 @@
           "count": "1"
         }
       ],
-      "views_label": "30.6K",
+      "views_label": "30.7K",
       "posted_at": "2026-09-05T21:11:14+00:00",
       "edited": false,
       "permalink": "https://t.me/MatinSenPaii/5205",
