@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T14:07:21.385Z",
+  "fetched_at": "2026-09-07T14:12:20.438Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -35,7 +35,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "247"
+          "count": "248"
         },
         {
           "emoji": "🤡",
@@ -115,7 +115,7 @@
           "count": "2"
         }
       ],
-      "views_label": "11.2K",
+      "views_label": "11.3K",
       "posted_at": "2026-09-07T05:32:27+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2585",
@@ -190,7 +190,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "67"
+          "count": "68"
         },
         {
           "emoji": "❤",
