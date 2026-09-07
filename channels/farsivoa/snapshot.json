@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T14:47:34.233Z",
+  "fetched_at": "2026-09-07T14:52:32.491Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229742",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "روز دوشنبه ۱۶ شهریور، بازنشستگان مخابرات استان آذربایجان شرقی تجمع اعتراضی برگزار کردند و خواستار اجرای آیین‌نامه ۸۹/۲۴، اجرای رأی ۹۲۳۵ دیوان عدالت اداری، اجرای متناسب‌سازی عادلانه، ساماندهی بیمه تکمیلی و پرداخت مطالبات سال‌های گذشته شدند.",
+      "plain_text": "روز دوشنبه ۱۶ شهریور، بازنشستگان مخابرات استان آذربایجان شرقی تجمع اعتراضی برگزار کردند و خواستار اجرای آیین‌نامه ۸۹/۲۴، اجرای رأی ۹۲۳۵ دیوان عدالت اداری، اجرای متناسب‌سازی عادلانه، ساماندهی بیمه تکمیلی و پرداخت مطالبات سال‌های گذشته شدند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229742",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/cKzqSeD-_1DK7tuiR6xM613mwqGMV_Oq0Lh7kmByhMzqsXH_zLw7zMAKSIzFjQ2KbgAbkQppcvCELNN_itjOV_TpepigdjodkBh82GAuhcBKD-cy7tqSrSDNh5iHxHb0AZo577Hyfm8LVb9lAcudOVjL6ifH5GGPP3NIBOTKyvT9x3pcK1sCpdi6UjJx22WRLQxfuv4B8Hbr7vmGhGQbaBFm24n2cmfyHXH6aYq5-R_EoWAt5cGMT2o0UxgGaGvks9FUhPKz4B10GQ_rmxzVz-W_QtEvjmKe2qPLkCbfdmJIcCgPdo2aWgw1DZxTWpVNyONQtpDusjvecZlvqJCyVA",
+          "thumbnail_path": "channels/farsivoa/media/0877d58a94dd67605f79ade5.jpg",
+          "thumbnail_sha256": "a23cc18a56f4d50572f8a95e744469130658d6fb5ee68827b63b1d1640c3b627",
+          "duration_label": "0:48",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "229",
+      "posted_at": "2026-09-07T14:48:00+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229742",
+      "reply": null
+    },
     {
       "id": "farsivoa/229741",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "352",
+      "views_label": "548",
       "posted_at": "2026-09-07T14:41:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229741",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "518",
+      "views_label": "685",
       "posted_at": "2026-09-07T14:37:29+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229740",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "778",
+      "views_label": "912",
       "posted_at": "2026-09-07T14:31:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229739",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.26K",
+      "views_label": "1.33K",
       "posted_at": "2026-09-07T14:17:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229738",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.32K",
+      "views_label": "1.42K",
       "posted_at": "2026-09-07T14:11:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229737",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.65K",
+      "views_label": "1.71K",
       "posted_at": "2026-09-07T13:54:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229736",
@@ -189,7 +217,7 @@
       "plain_text": "🔺بسنت در روز کارگر: دستمزد واقعی آمریکایی‌ها از تورم پیشی گرفته است\n\n▪️اسکات بسنت، وزیر خزانه‌داری آمریکا، روز دوشنبه ۱۶ شهریور، هم‌زمان با «روز کارگر» در ایالات متحده، گفت دستمزد واقعی آمریکایی‌ها از نرخ تورم پیشی گرفته، و رشد دستمزد در میان کارگران کم‌درآمد سریع‌تر از افراد با درآمد بالاتر بوده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/bessent-us-labor-day-american-workers-income/8195055.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.74K",
+      "views_label": "1.81K",
       "posted_at": "2026-09-07T13:44:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229735",
@@ -205,7 +233,7 @@
       "plain_text": "🔺درگیری‌های یمن میان نیروهای دولتی و شورشیان حوثی به شمال شرق صنعا رسید\n\n▪️اخبار جدید از یمن حاکی از آن است که نیروهای دولتی جبهه جدیدی در شمال شرق صنعا، پایتخت یمن، علیه شورشیان حوثی باز کردند؛ و بخش دیگری از نیروهای دولتی در جنوب بندر استراتژیک الحدیده در حال پیشروی و عقب راندن حوثی‌ها هستند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/houthi-yemen-irgc-proxy-war-iran/8195045.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.68K",
+      "views_label": "1.75K",
       "posted_at": "2026-09-07T13:40:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229734",
@@ -221,7 +249,7 @@
       "plain_text": "🔺پرزیدنت ترامپ درباره نویسنده کتاب «ضدانقلاب»: او شاید من را از خودم بهتر می‌شناسد\n\n▪️دونالد ترامپ، رئیس جمهوری آمریکا، هر دو بخش مصاحبه مارک لوین، مجری و مفسر سرشناس، با ویکتور دیویس هانسون، مورخ و نویسنده آمریکایی، در شبکه فاکس نیوز را در تروت سوشال خود بازنشر کرد؛ گفت‌وگویی که محور اصلی آن کتاب تازه هانسون و توصیف او از پرزیدنت ترامپ به عنوان یک چهره «ضدانقلاب» در سیاست آمریکا بود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/president-trump-counterrevolution-interview-mark-levin/8195049.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.71K",
+      "views_label": "1.75K",
       "posted_at": "2026-09-07T13:33:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229732",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.64K",
+      "views_label": "1.71K",
       "posted_at": "2026-09-07T13:30:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229731",
@@ -265,7 +293,7 @@
       "plain_text": "🔺امارات: اجازه نمی‌دهیم صادرات انرژی ما «گروگان» درگیری نظامی با جمهوری اسلامی شود\n\n▪️امارات می‌گوید که با ایجاد مسیرهای جایگزین برای صادرات انرژی اجازه نخواهد داد این فعالیت‌ها در نتیجه درگیری‌های جاری با جمهوری اسلامی «گروگان» گرفته شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/uae-emirates-iran-us-iran-war-strait-hormuz/8195047.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.82K",
+      "views_label": "1.88K",
       "posted_at": "2026-09-07T13:23:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229730",
@@ -293,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.15K",
+      "views_label": "2.21K",
       "posted_at": "2026-09-07T13:02:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229729",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.33K",
+      "views_label": "2.36K",
       "posted_at": "2026-09-07T12:55:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229728",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.17K",
+      "views_label": "2.2K",
       "posted_at": "2026-09-07T12:49:28+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229727",
@@ -365,7 +393,7 @@
       "plain_text": "🔺تجمع‌های کارگران و بازنشستگان در چند استان ایران؛ اعتراض به وضعیت معیشت و مطالبات پرداخت‌نشده\n\n▪️گزارش‌ها از ایران حاکی از برگزاری تجمع‌های اعتراضی کارگران و بازنشستگان در چند استان در روز دوشنبه ۱۶ شهریور، در اعتراض به مشکلات معیشتی، مطالبات پرداخت‌نشده، و بلاتکلیفی شغلی است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-protests-retirees-protest-workers-protest/8195041.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.17K",
+      "views_label": "2.21K",
       "posted_at": "2026-09-07T12:43:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229726",
@@ -393,7 +421,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.27K",
+      "views_label": "2.31K",
       "posted_at": "2026-09-07T12:36:15+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229724",
@@ -421,7 +449,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.32K",
+      "views_label": "2.36K",
       "posted_at": "2026-09-07T12:25:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229723",
@@ -449,7 +477,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.52K",
+      "views_label": "2.56K",
       "posted_at": "2026-09-07T12:11:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229722",
@@ -477,7 +505,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.5K",
+      "views_label": "2.54K",
       "posted_at": "2026-09-07T12:05:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229721",
@@ -2397,22 +2425,6 @@
       "posted_at": "2026-09-06T17:44:58+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229641",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229640",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/cQgmNvY74QjMaJtRlGlAgwARq80-ngAFt95OGdUvawYpXRlgX1I0clW8a36_0wg0KQW01LJ0WQu9BqpST7mohIffbNUFA69ex-Lkf6Uxm-tRC9fnRtAzxAzkh0gbyyb0gskR6k6eYyyxmBrreDKOZ3GI717bPZ9fXIO5OPouQSOk6lXWlHM6cd2P_frgT1Wg5WzirdR4Wrxa3cFM5EbbDLoQnZesAGGbAJQC-7-_M1BM1x6rMu_j7_nT_BryWHEWoQu34Hwt3C5O6uTaZY0PWF5cpl7--mPsz-xFvsqjpvn05avmOnilCpREWkKLcCK4OERe7ekk1gf0pDPtLCNTyg.jpg",
-      "author_photo_path": "channels/farsivoa/media/0abbb3eafc2bacb0efcb50a7.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>بسنت درباره عملیات «طرد اقتصادی»: آمریکا رژيم ایران را «خفه» خواهد کرد؛ پیش‌بینی کاهش شدید قیمت نفت<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>اسکات بسنت، وزیر خزانه‌داری ایالات متحده، می‌گوید ترکیب محاصره و تحریم‌های آمریکا علیه جمهوری اسلامی یکی از قدرتمندترین ابزارهای انزوای اقتصادی است و تاکید کرد دولت پرزیدنت ترامپ در پی «خفه کردن» اقتصادی حکومت ایران است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/bessent-vows-iran-squeeze/8194783.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/bessent-vows-iran-squeeze/8194783.html/?nocach=1</a>",
-      "plain_text": "🔺بسنت درباره عملیات «طرد اقتصادی»: آمریکا رژيم ایران را «خفه» خواهد کرد؛ پیش‌بینی کاهش شدید قیمت نفت\n\n▪️اسکات بسنت، وزیر خزانه‌داری ایالات متحده، می‌گوید ترکیب محاصره و تحریم‌های آمریکا علیه جمهوری اسلامی یکی از قدرتمندترین ابزارهای انزوای اقتصادی است و تاکید کرد دولت پرزیدنت ترامپ در پی «خفه کردن» اقتصادی حکومت ایران است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/bessent-vows-iran-squeeze/8194783.html/?nocach=1",
-      "media": [],
-      "reactions": [],
-      "views_label": "3.4K",
-      "posted_at": "2026-09-06T17:34:55+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229640",
       "reply": null
     }
   ]
