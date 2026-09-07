@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T09:22:17.362Z",
+  "fetched_at": "2026-09-07T09:27:53.019Z",
   "channel": {
     "username": "telegram",
     "title": "Telegram News",
@@ -21,7 +21,7 @@
       "plain_text": "For all the info from today's update and a look back at 13 years of Telegram features — check out our blog:\nhttps://telegram.org/blog/welcome-messages-buttons-TG-13\n\nAugust Features\n1 • 2 • 3 • 4 • 5 • More",
       "media": [],
       "reactions": [],
-      "views_label": "960K",
+      "views_label": "961K",
       "posted_at": "2026-08-26T19:12:34+00:00",
       "edited": false,
       "permalink": "https://t.me/telegram/460",
@@ -453,8 +453,8 @@
           "asset_url": "https://t.me/telegram/443",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/q5TWrTRpFw6zqTRZ6N4bDn4Ihu1RdUJhqWMNmy3u7bxZjgK-9r-NZ0cSfUmfBWS6nCVtxSEcdPm9L5VtqgkZH0iMLJ-ZrTVV1yw6lOlpC7zbQO0YWDdNTRht4jyTg9m_GmK_GRAUOvlgkNqyiExvfRVwYNexNqFI1D9H1FbJRbvXkiZv19fnC6K9rSO4-XJELIefdzSyQHSLofg7yDwVGyoMlvjlAtRSAS0nrpi1jGcF7WpApLGsCW3QBmBbfrwjTGqM2MjT008gQ0ITeHsGmK8eZ2AkTG5o_N7P6Wfov3um45RAQscsmwuDLX2qnmgU6AP-SdHt3-UO-1PlkXhxiQ",
-          "thumbnail_path": "channels/telegram/media/7afb8732de5653bcbea7a0d0.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/obapywCVP4BBC6AyNWpPBeOGxEZLuYfdiERGC5PVITssR6lCJOzyQ0bLlqdDcwx_MsT-wZ96ao2qfi1-qRiZOWJSeMqBLNbZgl8k9mzYD67iQW3Z6KcaNuXSErJxbuv5wfgfDHEIwj-f0pSyo7KbR2ALNN5bWUP1dfJedAxDznWnBSwnT9zqeeRuNfj7iN5oSjphc6FlC9hmLp_y-i-qdh6m9zcFnxHfaDeIoFBaVD471kWutPQ1_nVz0GaIgrUMFME_EPkSThGfuYKkoNlpqqBoNcsGEsHJiZScFL4QrOAdHyxJ3jTufIgpbkLr-1TALSRZkdf-5C6quNXO0aT2aQ",
+          "thumbnail_path": "channels/telegram/media/c22ab9780807961bd4db91ce.jpg",
           "thumbnail_sha256": "6ffa71d79fa515c93fde1c9d13470aa322d79df1a569f95ea892833d5b6f3368",
           "duration_label": "0:16",
           "aspect_ratio": 1

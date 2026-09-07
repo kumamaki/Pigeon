@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T09:22:16.497Z",
+  "fetched_at": "2026-09-07T09:27:52.037Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -12,6 +12,62 @@
   },
   "posts": [
     {
+      "id": "sahamnewsorg/147118",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/642684be024870091c2036fb.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>بی‌حجابی خطرناک‌تر از استهلاک اموال مردم</b><br><br>یک راننده ترانزیت با انتشار ویدیویی از فاسد شدن ۱۲۰ تن زردآلو در چندین تریلی به دلیل معطلی و عدم ترخیص در گمرک خبر داد.<br><br>او با انتقاد از اولویت‌های نظارتی می‌گوید در حالی که به پوشیدن شلوارک رانندگان گیر می‌دهند، تناژ بالایی از میوه که مردم توان خرید آن را ندارند زیر آفتاب گندیده و دور ریخته می‌شود.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅بی‌حجابی خطرناک‌تر از استهلاک اموال مردم\n\nیک راننده ترانزیت با انتشار ویدیویی از فاسد شدن ۱۲۰ تن زردآلو در چندین تریلی به دلیل معطلی و عدم ترخیص در گمرک خبر داد.\n\nاو با انتقاد از اولویت‌های نظارتی می‌گوید در حالی که به پوشیدن شلوارک رانندگان گیر می‌دهند، تناژ بالایی از میوه که مردم توان خرید آن را ندارند زیر آفتاب گندیده و دور ریخته می‌شود.\n\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/sahamnewsorg/147118",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/QWxK82T-feshUFf-YfzVZopu44HThSJSIIY1aBJBLdrVeVzzCy2Tajd84uvI22MtLkwzxyQhuTG0CCcNdALVS8ygrrtvbbcxzCiVZs7HNU7vO1_9lW-PMOoSLHOLzdbW5rYr-YtsX8ACqVpimrVrybsII6zSvtG18UIj32LXcXNJcEJ3neYJTPOir4Qwho99nLqwicC5nrcl-o45dg1aigKj3lJrYoeM877zsMuV3V6ZhavxpEg7URi8t8MPQjKay_PgUaO5BSn-z6zPXzEqIXApoIu_O8bwcdODcm4mAAaMTqahjeYfMcrEsS7X3W_gKRALcblwqIYA36eUWQm5aA",
+          "thumbnail_path": "channels/sahamnewsorg/media/9a6cd88815b34d5d047692c5.jpg",
+          "thumbnail_sha256": "b729014a2e5f84c944a1b01b0e7ef6016c7d8d6bbe8c15780285fcb38081deb6",
+          "duration_label": "1:10",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.46K",
+      "posted_at": "2026-09-07T09:23:31+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147118",
+      "reply": null
+    },
+    {
+      "id": "sahamnewsorg/147117",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/642684be024870091c2036fb.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>فروش قبرهای میلیاردی در تهران </b><br><br>گرانی دیگر تنها سقف بالای سر زندگان را نشانه نگرفته و اکنون به خانه ابدی مردگان هم رسیده است<br><br>قیمت قبر در تهران حالا در مواردی از ۵۰۰ میلیون تومان عبور کرده و حتی به محدوده دو میلیارد تومان رسیده است؛ این وضعیت باعث شده تا برخی از مردم قبر خانواده‌های خود را در سایت‌ها آگهی کرده و برای فروش بگذارند<br><br>طی روزهای اخیر، آگهی‌های فروش میلیاردی قبر در فضای مجازی دست‌به‌دست شده و کاربران را شوکه کرده است<br><br>پیگیری‌ها اما از وقوع پدیده‌ای تلخ خبر می‌دهد که در گذشته چندان مرسوم نبوده است؛ خانواده‌ها اکنون زیر فشار گرانی، قبر بستگان درگذشته خود را به فروش گذاشته‌اند<br><br>گفت‌وگو با فروشندگان این آگهی‌ها نشان می‌دهد تعدادی از قبرهای آگهی‌شده متعلق به بستگان فروشندگان است و حالا پس از گذشت چند دهه از فوت، خانواده متوفی تصمیم به فروش قبر گرفته است| تجارت‌نیوز<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅فروش قبرهای میلیاردی در تهران\n\nگرانی دیگر تنها سقف بالای سر زندگان را نشانه نگرفته و اکنون به خانه ابدی مردگان هم رسیده است\n\nقیمت قبر در تهران حالا در مواردی از ۵۰۰ میلیون تومان عبور کرده و حتی به محدوده دو میلیارد تومان رسیده است؛ این وضعیت باعث شده تا برخی از مردم قبر خانواده‌های خود را در سایت‌ها آگهی کرده و برای فروش بگذارند\n\nطی روزهای اخیر، آگهی‌های فروش میلیاردی قبر در فضای مجازی دست‌به‌دست شده و کاربران را شوکه کرده است\n\nپیگیری‌ها اما از وقوع پدیده‌ای تلخ خبر می‌دهد که در گذشته چندان مرسوم نبوده است؛ خانواده‌ها اکنون زیر فشار گرانی، قبر بستگان درگذشته خود را به فروش گذاشته‌اند\n\nگفت‌وگو با فروشندگان این آگهی‌ها نشان می‌دهد تعدادی از قبرهای آگهی‌شده متعلق به بستگان فروشندگان است و حالا پس از گذشت چند دهه از فوت، خانواده متوفی تصمیم به فروش قبر گرفته است| تجارت‌نیوز\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/147117",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/hpEJozonB_u7TUwom-ClTvdRLRGHA_XsbNE-uJcEgmFmUXhSyOQoIZNlfwNnS-tolma4t2S7MDbh6iqcr-BGiR7bTEq5QzGbF-3NGoDD9vXjRJbq1GMylCq087cnMNuALfJAU-iuzC0saE7b5moKP29JG_NGPOUOL200UduYOh-V5mNRE2H_aULWGusb4dlNY_MPZ7EpaeHIhPbtDgi9jDdOA9mLvSsv9lWQxcvIRG2jNZC8mK-_hKFYzZe0goRLDcp-7QeSpTWb3JLAAH_bewndIVuL1XSLEpit21xhEwcV0fDH3-ss45Wu5aQ1paKCjYWeL9zkOvWeqAdhW63nZg.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/2923b12bb8e85399cbec6b5c.jpg",
+          "thumbnail_sha256": "3e2ee5a1360ea0d0bcafd105c4f0a7a588b6d6598055cb3e91c93c5e34b7a30d",
+          "duration_label": null,
+          "aspect_ratio": 1.5717092337917484
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.46K",
+      "posted_at": "2026-09-07T09:23:30+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147117",
+      "reply": null
+    },
+    {
       "id": "sahamnewsorg/147116",
       "author_name": "سهام نیوز",
       "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
@@ -21,7 +77,7 @@
       "plain_text": "✅در رویدادی بسیار نادر،\nشش بمب سنگر شکن 2 تنی اسرائیل مناطق مرکزی شهر نبطیه را هدف قرار داد،\nاین حملات آنقدر بزرگ بودند که صدای انفجارها در سراسر جنوب لبنان و شمال اسرائیل شنیده شد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "7.69K",
+      "views_label": "9.54K",
       "posted_at": "2026-09-07T09:05:02+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147116",
@@ -37,7 +93,7 @@
       "plain_text": "✅واکنش قالیباف به وزیر جنگ امریکا: به دارایی های ما حمله کنید به شرکت های نفت و گاز امریکا در منطقه حمله می کنیم\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "8.3K",
+      "views_label": "9.84K",
       "posted_at": "2026-09-07T09:03:22+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147115",
@@ -53,7 +109,7 @@
       "plain_text": "✅کریس رایت وزیر انرژی آمریکا: انتقال نفت از خاورمیانه به دوسوم سطح پیش از جنگ با ایران رسیده است\n\n🔻فرمان آقای علی الاصول باعث شد همه از تنگه هرمز نفت صادر کنند به جز ایران.\nسرنوشت ۹۰ میلیون ایرانی افتاده دست یه طلبه و چند سردار سپاه\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "11.4K",
+      "views_label": "13.2K",
       "posted_at": "2026-09-07T08:50:51+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147114",
@@ -69,7 +125,7 @@
       "plain_text": "✅معاون وزارت نفت از کسری ۱۰ میلیون لیتری بنزین خبر داد\n\n🔸محمدصادق عظیمی‌فر، معاون وزیر نفت و مدیرعامل شرکت ملی پالایش و پخش فرآورده‌های نفتی در یک گفت‌و‌گوی تلویزیونی میانگین مصرف بنزین در پنج ماه ابتدایی امسال در ایران را حدود ۱۳۲ میلیون لیتر در روز عنوان کرد و گفت میزان تولید بنزین پالایشگاهی و غیرپالایشگاهی نیز به‌طور میانگین حدود ۱۲۲ میلیون لیتر در روز بوده است.\n\n🔸این مقام وزارت نفت با اعلام کسری روزانه حدود ۱۰ میلیون لیتر بنزین به‌طور میانگین، گفته است که این مقدار «باید از محل واردات جبران» می‌شد.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "12.9K",
+      "views_label": "14.5K",
       "posted_at": "2026-09-07T08:44:26+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147113",
@@ -97,7 +153,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.5K",
+      "views_label": "15.1K",
       "posted_at": "2026-09-07T08:41:01+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147112",
@@ -113,7 +169,7 @@
       "plain_text": "✅جمهوری اسلامی از خط قرمز ما عبور کرد\n\nترامپ: در یک حمله غافلگیرانه، آنها پنج موشک با سرعت ۸۵۰۰ مایل در ساعت به سمت نیروهای آمریکایی شلیک کردند که هیچ اصابتی نداشت و هر پنج موشک سرنگون شدند.\n\nاوضاع درست می‌شود!\n\nدر همین حال، ما واقعاً به آنها ضربه خواهیم زد؛ اکنون نوبت ماست که حمله کنیم.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "15.4K",
+      "views_label": "16.6K",
       "posted_at": "2026-09-07T08:32:40+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147111",
@@ -129,7 +185,7 @@
       "plain_text": "✅فایننشال‌تایمز: نیروی دریایی ایالات متحده به طور مخفیانه به مدت چهار ماه، مشغول پاکسازی مین‌های جمهوری اسلامی از تنگه هرمز بود.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "17.3K",
+      "views_label": "18.2K",
       "posted_at": "2026-09-07T08:22:27+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147110",
@@ -157,7 +213,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.7K",
+      "views_label": "20.6K",
       "posted_at": "2026-09-07T08:13:10+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147109",
@@ -185,7 +241,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.1K",
+      "views_label": "22K",
       "posted_at": "2026-09-07T08:06:35+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147108",
@@ -213,7 +269,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "53.7K",
+      "views_label": "54K",
       "posted_at": "2026-09-06T23:52:18+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147107",
@@ -241,7 +297,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "52.1K",
+      "views_label": "52.4K",
       "posted_at": "2026-09-06T23:37:48+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147106",
@@ -269,7 +325,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.5K",
+      "views_label": "49.8K",
       "posted_at": "2026-09-06T23:30:19+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147105",
@@ -297,7 +353,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.4K",
+      "views_label": "47.7K",
       "posted_at": "2026-09-06T23:13:18+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147104",
@@ -325,7 +381,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50.2K",
+      "views_label": "50.5K",
       "posted_at": "2026-09-06T22:37:04+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147103",
@@ -394,7 +450,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "63.3K",
+      "views_label": "63.6K",
       "posted_at": "2026-09-06T19:04:44+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147100",
@@ -422,7 +478,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "67K",
+      "views_label": "67.3K",
       "posted_at": "2026-09-06T16:39:32+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147099",
@@ -2349,62 +2405,6 @@
       "posted_at": "2026-09-05T07:28:58+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147017",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147016",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LEPulZgNyRXQYUH9pl6txwmy1HaX1HDx2Vj1MUZOEH08i10zaO4aZhruOq7e7tuCrDtlLu1KCqgj2aEt5We72kVXaPWY26ewl5sw9d3G7ezGzPfjPB-4pQM-cGqEAZhmN8PmaDxycrwl1DnrM0MMCdCLoAkc3GNj2ciAWHd7PaEDCkRqMS0AA97Kre37DwtmJRlvO9HWWQ3L1lrW1B0vJZ7PZ9KN7v_ochZfRsNLzcI5qicVpEqEzWUd2ikFhWbkLGHz2-LFcGyh7UrCtcmLvMDozbJtR8Vtccyc0WXtH3ZnLExU2BRwof0c-62a6UypDkGSOoxACOw167DnfXIvVA.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/93aceceef10a8532f638aaa7.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>توییت «زینب عواضه» خبرنگار شبکه المنار لبنان(رسانه رسمی حزب‌الله): اعلام سیطره بر تپه علی الطاهر من را به شدت یاد اعلام سیطره بر تنگه هرمز توسط ترامپ می‌اندازد</b><br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
-      "plain_text": "✅توییت «زینب عواضه» خبرنگار شبکه المنار لبنان(رسانه رسمی حزب‌الله): اعلام سیطره بر تپه علی الطاهر من را به شدت یاد اعلام سیطره بر تنگه هرمز توسط ترامپ می‌اندازد\n\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/sahamnewsorg/147016",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/sNGcTeECXq7JyIunawQNei20MROdCaZTRQhoA88VFIwD1HNaykjkeiTZPfoLJFxZZdzZGAN7bZXckQe9ECNsLha_eboyBiJsJbFQQneGRGTHYQhNSjzFZC__x-fp_WSOEcZRWIZmSOvAOqF1YxKnq2s1Hvj7RHKBsycZmCjY5UYcpMgaHdVvvTV8CWkS7fgVml5UsuJSCxLIUe5vlxl4Dbknf7kHkhOdQYg27ZKJ2qbBazc-KU81pugpFAL7-4mMaVwueR7i11L2UfAu2ZwWOILIb3MCcPHlMN3NZYKtYQLmIedb6uytwisIZ7OiwO8FccYILxtJPfD4G4_9l4WCig.jpg",
-          "thumbnail_path": "channels/sahamnewsorg/media/023e6bd0d76233387958b94d.jpg",
-          "thumbnail_sha256": "43f4a44ff94277ee177d67728dff9accddc397a42e1feaeb8b7aa7cfb6058c7e",
-          "duration_label": null,
-          "aspect_ratio": 1.8518518518518519
-        }
-      ],
-      "reactions": [],
-      "views_label": "43.3K",
-      "posted_at": "2026-09-05T07:24:48+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147016",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147015",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LEPulZgNyRXQYUH9pl6txwmy1HaX1HDx2Vj1MUZOEH08i10zaO4aZhruOq7e7tuCrDtlLu1KCqgj2aEt5We72kVXaPWY26ewl5sw9d3G7ezGzPfjPB-4pQM-cGqEAZhmN8PmaDxycrwl1DnrM0MMCdCLoAkc3GNj2ciAWHd7PaEDCkRqMS0AA97Kre37DwtmJRlvO9HWWQ3L1lrW1B0vJZ7PZ9KN7v_ochZfRsNLzcI5qicVpEqEzWUd2ikFhWbkLGHz2-LFcGyh7UrCtcmLvMDozbJtR8Vtccyc0WXtH3ZnLExU2BRwof0c-62a6UypDkGSOoxACOw167DnfXIvVA.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/93aceceef10a8532f638aaa7.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>سریع‌القلم: آمریکایی‌ها بعد از انتخابات کنگره به سراغ عملیات نظامی علیه ایران می‌آیند چه دموکرات ها پیروز شوند چه جمهوری خواهان .<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅سریع‌القلم: آمریکایی‌ها بعد از انتخابات کنگره به سراغ عملیات نظامی علیه ایران می‌آیند چه دموکرات ها پیروز شوند چه جمهوری خواهان .\n\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/sahamnewsorg/147015",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Gj4H4UMaa-6NMfONxJqvmV1dODl71GHYDy5AsNKDGmrE7AifsHyN_yirbV82iOnU6zc1XRJ6hdmYIWgZLsrReKsjgFYL9Kl4f8y9U62Cx4GAWjBQSlSbNLjPc1tI3wEoeUSCRAMWgME2pezYOXgywJsy3crQP_vS4betxVl0Avy4zkTgABkmjPc7CxheqRrDGnXzNvQVMDPxHVWJw3DdpvPU5cezIFbTVtLVQk0oColddvGEctKYNtpBcf08CF4jbckno2P2_-iubYkC1_HrOvW7BlGSQatvSVV-oc2-etfFTryGRw2mKy7OZANibrWcMWsDVI7HtvGyFJmkM4g7NQ",
-          "thumbnail_path": "channels/sahamnewsorg/media/8bca733a6a7b0fb62dd7aacd.jpg",
-          "thumbnail_sha256": "9874aeb3caa47913d8cb3ca5d404d9127160af479e9f73e2cc18f23ba4e7a850",
-          "duration_label": "1:11",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "47.1K",
-      "posted_at": "2026-09-05T07:19:50+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147015",
       "reply": null
     }
   ]
