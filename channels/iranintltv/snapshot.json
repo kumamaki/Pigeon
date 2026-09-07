@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T07:02:13.957Z",
+  "fetched_at": "2026-09-07T07:07:17.047Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356079",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌ها می‌گوید: «سال ۹۸ در بازار ابزار و یراق می‌شد یک مغازه را به قیمت پنج میلیارد تومان خرید. حالا سیم‌جوش مسی، حلقه‌ای ۲۰۰ میلیون تومان است و سه ستون ده‌‌تایی آن شش میلیارد تومان فروش می‌رود.»",
+      "plain_text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌ها می‌گوید: «سال ۹۸ در بازار ابزار و یراق می‌شد یک مغازه را به قیمت پنج میلیارد تومان خرید. حالا سیم‌جوش مسی، حلقه‌ای ۲۰۰ میلیون تومان است و سه ستون ده‌‌تایی آن شش میلیارد تومان فروش می‌رود.»",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356079",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/VGLxzTO5kCQk-uLEfkxi97QyTplcoTm19AZR3YHVTRORQ9pTY6jHFans2zRNxV5VNbUMhSJINZ1quZgzC17jgRhPzmZVJ9E2ft7fOA3pQkr5tiT-pffvIMpRboGZ3lPyL84daIOzWGQZ3hEMFm1LiJ5m8YDwW7KnNmj2NesINvdOjbaD5Wgdwblr4Eu48C8NGj54Q8OdGSicYN7VMBordlaOH7YpKBhXr6LOC3vkCqcUgxTMW5rTt858kmjMrI9L4fecLvPUkEwjZ93HOqusDpGTnrfGxJVZYigPDt4lKvsR7N1cFHXSBTD-YT0re3GiD3muNmObo9N20CS_RNqq1A",
+          "thumbnail_path": "channels/iranintltv/media/addfd4ff4f6fdace0159b738.jpg",
+          "thumbnail_sha256": "91328897e2f7ceb92007b88bd561325a3054f3d098c3146916822503ad1c1e92",
+          "duration_label": "0:46",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-07T07:06:25+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356079",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356078",
       "author_name": "Iran International ایران اینترنشنال",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.36K",
+      "views_label": "10.5K",
       "posted_at": "2026-09-07T06:50:38+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356077",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.39K",
+      "views_label": "10.5K",
       "posted_at": "2026-09-07T06:50:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356076",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.4K",
+      "views_label": "12.5K",
       "posted_at": "2026-09-07T06:45:26+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356075",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.7K",
+      "views_label": "15.7K",
       "posted_at": "2026-09-07T06:36:18+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356073",
@@ -189,7 +217,7 @@
       "plain_text": "🗣روایت شما از شرایط زندگی و بحران اقتصادی- دوشنبه ۱۶ شهریور:\n\n🔹من یک دانشجوی ۲۰ ساله هستم. چند وقت دیگه دانشگاه‌ها باز می‌شه و من تن و بدنم می‌لرزه به‌خاطر هزینه‌هاش؛ تو خرج خوردوخوراک موندیم. هر صبح که پا می‌شم، چیزی جز عذاب و بدبختی نیست. کی این دوران سیاه تموم می‌شه؟\n\n🔹با این وضعیت گرونی می‌شه درس خوند؟ حساب کنید یه خودکار کیان آبی شده ۷۰ هزار تومان.\n\n🔹دولت از درآمد خودش مثل مالیات، پول آب برق گاز، گمرک، بنزین، هیچ‌جوره کوتاه نمیاد اما انتظار داره مردم کوتاه بیان!\n\n🔹گندم رو کیلویی ۴۹ تومن می‌برن و پولش رو دو ماهه نمی‌دن؛ این دیگه بی‌کفایتی نیست، یه مشت مسئول بی‌عرضه دارن با دسترنج کشاورز بازی می‌کنن.\n\n🔹تو تهران برق نیست، اینترنت ضعیفه و خیلی وقت‌ها قطعه، همه چی گرونه و شب‌ها پرچمی‌ها آرامشمون رو سلب می‌کنن.\n\n🔹از شیراز پیام می‌دم. رفتم داروخانه یه قرص چرک‌خشک‌کن برای سرماخوردگی بخرم، قیمتش شده ۱۳۰ هزار تومن؛ همین چند وقت پیش می‌خریدیم ۲۰ هزار تومن.\n\n🔹از همدان پیام می‌دم. مواد غذایی گرون شده و حجم‌شون کم؛ اندازه یه کیک رو نصف کردن، بسته همبرگر که ۶ تایی بود شده ۴ تا ۷۰۰ هزار تومن، پنیر پیتزا کیلویی یک میلیون.\n\n🔹گرونی وحشتناکه. الان وسط ماهه و من موندم با دو میلیون باقی مونده تو حسابم. باید چیکار کنم باهاش واقعاً.\n\n🔹از بندرعباس پیام می‌دم. قیمت برنج ۱۰‌ کیلویی مثل دلار ثانیه‌ای داره می‌ره بالا. قدرت خرید واقعا نداریم. یه پنل کولر ۱۲ هزار در حد نو رو می‌فروشن ۲۰‌ میلیون. از استرس و ترس، شب‌ها خواب نداریم.",
       "media": [],
       "reactions": [],
-      "views_label": "17.8K",
+      "views_label": "18.9K",
       "posted_at": "2026-09-07T06:26:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356072",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.9K",
+      "views_label": "20K",
       "posted_at": "2026-09-07T06:19:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356071",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21K",
+      "views_label": "22.1K",
       "posted_at": "2026-09-07T06:13:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356069",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.2K",
+      "views_label": "23.2K",
       "posted_at": "2026-09-07T06:06:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356068",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.3K",
+      "views_label": "26.3K",
       "posted_at": "2026-09-07T06:00:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356067",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.8K",
+      "views_label": "33.8K",
       "posted_at": "2026-09-07T05:34:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356066",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "42.3K",
+      "views_label": "42.4K",
       "posted_at": "2026-09-07T05:04:52+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356065",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "46.6K",
+      "views_label": "47.6K",
       "posted_at": "2026-09-07T04:47:41+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356064",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.9K",
+      "views_label": "50.9K",
       "posted_at": "2026-09-07T04:22:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356063",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "58.3K",
+      "views_label": "59.3K",
       "posted_at": "2026-09-07T03:48:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356062",
@@ -497,7 +525,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "62K",
+      "views_label": "63.1K",
       "posted_at": "2026-09-07T02:14:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356060",
@@ -525,7 +553,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "66K",
+      "views_label": "67K",
       "posted_at": "2026-09-07T01:04:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356059",
@@ -581,7 +609,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "62.8K",
+      "views_label": "63.8K",
       "posted_at": "2026-09-07T00:11:14+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356057",
@@ -2721,34 +2749,6 @@
       "posted_at": "2026-09-06T11:56:40+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/355974",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/355973",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dua7-1F68YLJEFGTSTDkU4pbo7m29v_PUJo2Id0N3mpOijzM-Ub3dUhVIdGgiFiUhiPrQlMJKmZS7PXc6vsLzQw5lcMV_0vR2fRD2DKa3RDILk1oxcl2xdhmXItFOYchjDiDsgeLBQ_1T0LBPZcIoH3hZQWRinokn6_n3QMh3HeLQL1xTx-T4w5vhLmH_pMyugiDxZG96Q94OLXBePfpnJaSWRQdpdGWA29Z7E5pCPobtE0Sj7srHnvAGLaBDNDonYlFCLdCBSiGWmc2pRkrFtkr9og4kQ9w7KNWP8eu8Ze6jPWegnUYoPiQLkQNQtTHDMO_6IRz2XARr4G6gn_TuQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/ca7f2807f5839f47a1129d1b.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در خصوص گرانی‌های روزافزون در ایران می‌گوید که مقدار کمی قارچ را به قیمت یک‌صد هزار تومان خریده است: «ما به کجا می‌رویم؟»",
-      "plain_text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در خصوص گرانی‌های روزافزون در ایران می‌گوید که مقدار کمی قارچ را به قیمت یک‌صد هزار تومان خریده است: «ما به کجا می‌رویم؟»",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/355973",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/j_r3pOIkkcjusLCxODcSP-w_9CuPHzKEm7XHLtMH1-pr6MZ6o6kBJow-DLO86jdY_eF_znd1PYFV0w3cOWmvIku2rL5x83ygjlufpjWpTsdycp5tQMN_rLnAt5w4-bkv9PfVIIzcCCqkpceS2X_QuBw0CFcXHvRPTaQayuc3wJPQEbuI44dgmlaxLRpi6S2ITWMZIfbyS7-7mPoNyOTA-JWVWMjq-BnhKRlP-F0cvE0yChAR-5wQjTzxgR5tuNCeJzzZHe7yna6fcstcfNXoY-jKVFkLHmHK1f-qrKsKlo-mznRaao9MBwKPeH-5fhJGZMSzNUyFEmKrqXU0coG8RA",
-          "thumbnail_path": "channels/iranintltv/media/f87b0acb00c29a75a95b3735.jpg",
-          "thumbnail_sha256": "d2c420a732b6fe180c304cf9572c5e52f789512606eebfb8b5fe5d0045bab185",
-          "duration_label": "0:14",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "46.6K",
-      "posted_at": "2026-09-06T11:30:21+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/355973",
       "reply": null
     }
   ]

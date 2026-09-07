@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T07:02:11.080Z",
+  "fetched_at": "2026-09-07T07:07:13.988Z",
   "channel": {
     "username": "durov",
     "title": "Pavel Durov",
@@ -31,14 +31,14 @@
         },
         {
           "emoji": "💎",
-          "count": "4.55K"
+          "count": "4.56K"
         },
         {
           "emoji": "💎",
-          "count": "3.95K"
+          "count": "3.96K"
         }
       ],
-      "views_label": "666K",
+      "views_label": "667K",
       "posted_at": "2026-09-06T17:40:39+00:00",
       "edited": false,
       "permalink": "https://t.me/durov/547",
@@ -593,7 +593,7 @@
           "count": "8.95K"
         }
       ],
-      "views_label": "6.18M",
+      "views_label": "6.19M",
       "posted_at": "2026-07-19T21:45:01+00:00",
       "edited": false,
       "permalink": "https://t.me/durov/532",
