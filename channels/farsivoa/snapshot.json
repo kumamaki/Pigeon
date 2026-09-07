@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T13:22:08.450Z",
+  "fetched_at": "2026-09-07T13:27:09.028Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,22 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229730",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>امارات: اجازه نمی‌دهیم صادرات انرژی ما «گروگان» درگیری نظامی با جمهوری اسلامی شود<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>امارات می‌گوید که با ایجاد مسیرهای جایگزین برای صادرات انرژی اجازه نخواهد داد این فعالیت‌ها در نتیجه درگیری‌های جاری با جمهوری اسلامی «گروگان» گرفته شود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/uae-emirates-iran-us-iran-war-strait-hormuz/8195047.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/uae-emirates-iran-us-iran-war-strait-hormuz/8195047.html/?nocach=1</a>",
+      "plain_text": "🔺امارات: اجازه نمی‌دهیم صادرات انرژی ما «گروگان» درگیری نظامی با جمهوری اسلامی شود\n\n▪️امارات می‌گوید که با ایجاد مسیرهای جایگزین برای صادرات انرژی اجازه نخواهد داد این فعالیت‌ها در نتیجه درگیری‌های جاری با جمهوری اسلامی «گروگان» گرفته شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/uae-emirates-iran-us-iran-war-strait-hormuz/8195047.html/?nocach=1",
+      "media": [],
+      "reactions": [],
+      "views_label": "204",
+      "posted_at": "2026-09-07T13:23:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229730",
+      "reply": null
+    },
     {
       "id": "farsivoa/229729",
       "author_name": "Farsi VOA",
@@ -33,7 +49,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "724",
+      "views_label": "957",
       "posted_at": "2026-09-07T13:02:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229729",
@@ -61,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "976",
+      "views_label": "1.14K",
       "posted_at": "2026-09-07T12:55:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229728",
@@ -89,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.1K",
+      "views_label": "1.2K",
       "posted_at": "2026-09-07T12:49:28+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229727",
@@ -105,7 +121,7 @@
       "plain_text": "🔺تجمع‌های کارگران و بازنشستگان در چند استان ایران؛ اعتراض به وضعیت معیشت و مطالبات پرداخت‌نشده\n\n▪️گزارش‌ها از ایران حاکی از برگزاری تجمع‌های اعتراضی کارگران و بازنشستگان در چند استان در روز دوشنبه ۱۶ شهریور، در اعتراض به مشکلات معیشتی، مطالبات پرداخت‌نشده، و بلاتکلیفی شغلی است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-protests-retirees-protest-workers-protest/8195041.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.2K",
+      "views_label": "1.3K",
       "posted_at": "2026-09-07T12:43:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229726",
@@ -133,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.39K",
+      "views_label": "1.46K",
       "posted_at": "2026-09-07T12:36:15+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229724",
@@ -161,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.5K",
+      "views_label": "1.57K",
       "posted_at": "2026-09-07T12:25:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229723",
@@ -189,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.77K",
+      "views_label": "1.81K",
       "posted_at": "2026-09-07T12:11:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229722",
@@ -217,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.85K",
+      "views_label": "1.91K",
       "posted_at": "2026-09-07T12:05:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229721",
@@ -233,7 +249,7 @@
       "plain_text": "🔺چیپ روی: جمهوری اسلامی «در حال فلج شدن» است\n\n▪️نماینده جمهوری‌خواه تگزاس در مجلس نمایندگان آمریکا گفت ادامه فشار نظامی و اقتصادی بر جمهوری اسلامی با وجود افزایش هزینه سوخت برای شهروندان آمریکایی در بلندمدت به سود واشنگتن است.\n\n▪️چیپ روی در گفت‌وگو با شبکه فاکس‌نیوز گفت: «آنها آسیب دیده‌اند؛ از نظر اقتصادی آسیب دیده‌اند.»\n\n▪️او افزود جمهوری اسلامی اکنون تنها بخش کوچکی از میزان معمول نفت خود را صادر می‌کند و «در حال فلج شدن» است. روی گفت هدف واشنگتن باید سه چیز باشد یعنی جلوگیری از دستیابی جمهوری اسلامی به سلاح هسته‌ای، محدود کردن فعالیت‌های تروریستی، و تضعیف توان نظامی و درآمدهای نفتی جمهوری اسلامی.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/gop-lawmaker-roy-warns-us-must-hold-the-line-against-iran/8195039.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.88K",
+      "views_label": "1.91K",
       "posted_at": "2026-09-07T11:58:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229720",
@@ -261,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.84K",
+      "views_label": "1.91K",
       "posted_at": "2026-09-07T11:52:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229719",
@@ -289,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.03K",
+      "views_label": "2.06K",
       "posted_at": "2026-09-07T11:46:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229718",
@@ -317,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.19K",
+      "views_label": "2.23K",
       "posted_at": "2026-09-07T11:34:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229717",
@@ -345,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.22K",
+      "views_label": "2.25K",
       "posted_at": "2026-09-07T11:26:16+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229716",
@@ -361,7 +377,7 @@
       "plain_text": "🔺جان باختن یکی از معترضان دی ماه در زندان دستگرد اصفهان\n\n▪️منابع حقوق بشری از جان باختن عرفان میرزایی، معترضی که در اعتراضات دی ماه بازداشت شده بود، در زندان دستگرد اصفهان خبر دادند.\n\n▪️کمیته آزادی زندانیان سیاسی در ایران، جان باختن این معترض را تأیید کرده، اما اعلام کرد که درباره علت جان‌باختن عرفان میرزایی روایت‌های متفاوتی منتشر شده است.\n\n▪️به گفته این کمیته، برخی منابع از «اجرای مخفیانه حکم اعدام» خبر داده‌اند، در حالی که شماری دیگر مدعی هستند عرفان میرزایی در بند امنیتی «الف‌طا» زندان دستگرد، دست به خودکشی زده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195036.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.29K",
+      "views_label": "2.32K",
       "posted_at": "2026-09-07T11:18:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229715",
@@ -377,7 +393,7 @@
       "plain_text": "🔺نتانیاهو: هیچ تروریستی مخفیگاه نخواهد داشت\n\n▪️نخست‌وزیر اسرائیل پس از کشته شدن مهاجم فلسطینی در کرانه باختری اشغالی نوشت: «هیچ تروریستی مخفیگاه ندارد.»\n\n▪️بنیامین نتانیاهو در شبکه ایکس افزود: «رزمندگان قهرمان ما را که برای برخورد پیش رفتند و تروریست انجام‌دهنده حمله در سامره را از میان بردند، تقویت می‌کنم.»\n\n▪️نخست‌وزیر اسرائیل برای مصدوم آرزوی بهبودی کرد و گفت: «به کشتن تروریست‌ها، تعقیب اعزام‌کنندگانشان و نابود کردن زیرساخت‌های تروریستی ادامه می‌دهیم. هر کس بکوشد دولت اسرائیل و شهروندانش را تهدید کند، بهای سنگینی می‌پردازد.»\n\n▪️مهاجمی فلسطینی دوشنبه در نزدیکی روستای عوصرین در شمال کرانه باختری یک شهروند اسرائیلی را با چاقو زخمی کرد و از محل گریخت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195035.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.29K",
+      "views_label": "2.32K",
       "posted_at": "2026-09-07T11:11:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229714",
@@ -405,7 +421,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.19K",
+      "views_label": "2.22K",
       "posted_at": "2026-09-07T11:05:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229713",
@@ -461,7 +477,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.49K",
+      "views_label": "2.52K",
       "posted_at": "2026-09-07T10:48:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229711",
@@ -477,7 +493,7 @@
       "plain_text": "🔺ثبت ده‌ها مورد نقض حقوق زنان طی یک ماه در ایران\n\n▪️سازمان حقوق بشری هه‌نگاو می‌گوید در ماه اوت ۲۰۲۶، دست‌کم ۲۰ زن فعال در ایران بازداشت و ۲۶ زن نیز به احکام قضایی، از جمله اعدام و حبس، محکوم شده‌اند.\n\n▪️براساس گزارش هه‌نگاو در همین مدت دست‌کم ۱۹ مورد زن‌کشی در شهرهای مختلف ایران ثبت شده و حکم اعدام شش زن نیز در زندان‌های جمهوری اسلامی اجرا شده است.\n\n▪️بر پایه آمار مرکز آمار و اسناد هه‌نگاو، دست‌کم ۲۰ فعال زن در ماه اوت توسط نهادهای سرکوب در جمهوری اسلامی بازداشت شده‌اند. این تعداد حدود ۱۷ درصد از کل بازداشت‌شدگان ثبت‌شده در این ماه را تشکیل می‌دهد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/dozens-of-women-rights-violations-recorded-in-iran-in-one-month/8195034.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.59K",
+      "views_label": "2.6K",
       "posted_at": "2026-09-07T10:34:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229710",
@@ -2409,34 +2425,6 @@
       "posted_at": "2026-09-06T15:49:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229630",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229629",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/cQgmNvY74QjMaJtRlGlAgwARq80-ngAFt95OGdUvawYpXRlgX1I0clW8a36_0wg0KQW01LJ0WQu9BqpST7mohIffbNUFA69ex-Lkf6Uxm-tRC9fnRtAzxAzkh0gbyyb0gskR6k6eYyyxmBrreDKOZ3GI717bPZ9fXIO5OPouQSOk6lXWlHM6cd2P_frgT1Wg5WzirdR4Wrxa3cFM5EbbDLoQnZesAGGbAJQC-7-_M1BM1x6rMu_j7_nT_BryWHEWoQu34Hwt3C5O6uTaZY0PWF5cpl7--mPsz-xFvsqjpvn05avmOnilCpREWkKLcCK4OERe7ekk1gf0pDPtLCNTyg.jpg",
-      "author_photo_path": "channels/farsivoa/media/0abbb3eafc2bacb0efcb50a7.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "ژنرال ديويد پترايوس، فرمانده پیشین سنتکام و رئیس سابق CIA/سی آی ای در عمق میدان: مردم ایران واقعاً ظرفیت‌های بسیار زیادی دارند، اما به‌ دلیل تمایل حکومت به ایجاد بی‌ثباتی، تروریسم و افراط‌‌گرائی در منطقه وتلاش رژیم برای دستیابی به سلاح هسته‌ای مردم در شرایط فاجعه‌باری زندگی می‌کنند!",
-      "plain_text": "ژنرال ديويد پترايوس، فرمانده پیشین سنتکام و رئیس سابق CIA/سی آی ای در عمق میدان: مردم ایران واقعاً ظرفیت‌های بسیار زیادی دارند، اما به‌ دلیل تمایل حکومت به ایجاد بی‌ثباتی، تروریسم و افراط‌‌گرائی در منطقه وتلاش رژیم برای دستیابی به سلاح هسته‌ای مردم در شرایط فاجعه‌باری زندگی می‌کنند!",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229629",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/IZIfYAcYRdW17voL4s9Z-l4h3JdywPsfz2QLMkwCaEs-anDJt-O7WhVVD-GJhZDhR5jejTEFTjsuq3oGH2a83BFT9UJYPLJZC3KAGZ16Cxn4SvvJUK2S6KynXApw2IHga1vg4_OpI2Zqz4lcacmYRJ9ES-kFJdlQMUCOOKkYxo2s6nsoq9EKy5t1bcOHBFcqSGQ51QvBI1_PKz9-kD1biJ3JlpwgFgzUrlBnZUyK01KvM-BcTtTruYsHf419jhN4onRAZ-Q5Po1SQOgEvPBWK2zorZL1vNkYfqkATZ7dQKNCF-RIGr2pJlRaV4J-iIxZQy549V0qHgkAAktuVVW9WA",
-          "thumbnail_path": "channels/farsivoa/media/7a3d235e8f65162221f31d48.jpg",
-          "thumbnail_sha256": "e66651dd9f39a9a7d2452949abf4995eef7307967a55d7b69e3230b0419d9ba7",
-          "duration_label": "1:13",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.05K",
-      "posted_at": "2026-09-06T15:42:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229629",
       "reply": null
     }
   ]

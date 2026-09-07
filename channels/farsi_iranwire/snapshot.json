@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T13:22:07.495Z",
+  "fetched_at": "2026-09-07T13:27:08.231Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93450",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "«مطهره گونه‌ای»، فعال دانشجویی سابق و دانشجوی اخراج‌شده دانشگاه علوم پزشکی تهران، برای اجرای حکم حبس خود بازداشت و به زندان منتقل شده است.<br><br>«خشایار سفیدی»، فعال مدنی و دانشجوی اخراج‌شده دانشگاه هنر تهران، روز دوشنبه ۱۶شهریور۱۴۰۵، با اعلام این خبر در شبکه اجتماعی «ایکس» نوشت که گونه‌ای برای اجرای حکم بازداشت و روانه زندان شده است.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157276\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157276</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "«مطهره گونه‌ای»، فعال دانشجویی سابق و دانشجوی اخراج‌شده دانشگاه علوم پزشکی تهران، برای اجرای حکم حبس خود بازداشت و به زندان منتقل شده است.\n\n«خشایار سفیدی»، فعال مدنی و دانشجوی اخراج‌شده دانشگاه هنر تهران، روز دوشنبه ۱۶شهریور۱۴۰۵، با اعلام این خبر در شبکه اجتماعی «ایکس» نوشت که گونه‌ای برای اجرای حکم بازداشت و روانه زندان شده است.\nبخوانید: https://iranwire.com/fa/news-1/157276\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93450",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/KOlXR-otirA6A-8LlP-Cht2Ez3ZF4QXTLuAK2oZDTpiDa5MJm4U5jpFsXOnmAV3bIgWwSWqNxqAS0suxGECpHIljUGifpKmEkmHGZVBbNKBJPip4Fmxrch_uLVe5rWmk5q371JcNtxuISBoqS-efgrYaBaYA2ZgbBYJ9bJVBZqIt1yRf6m6jBA4YjnC2qZqU9AgB3CyGGycQS_-51_8AgBNKGdqGWzccDyVbiM5rJuSZjSneN6TPq0QV3Op8l37KyPhje29Da0nCTDXk3wxgGoyMv-noVzIZDfCCoNo99h_1xmjZPPLiV-jrRn2NSHBK_tQEN7QfHIT5Rxj31dA_sQ.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/d90248cf3968df70e948670d.jpg",
+          "thumbnail_sha256": "e7696d878755af311888ac134fad1c8a41f0e38fdda7d2e4019490d17afa0e7c",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "3",
+      "posted_at": "2026-09-07T13:26:38+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93450",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93449",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "61",
+      "views_label": "105",
       "posted_at": "2026-09-07T13:17:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93449",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "122",
+      "views_label": "162",
       "posted_at": "2026-09-07T13:11:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93448",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "437",
+      "views_label": "462",
       "posted_at": "2026-09-07T12:20:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93447",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "496",
+      "views_label": "516",
       "posted_at": "2026-09-07T12:12:31+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93446",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "541",
+      "views_label": "558",
       "posted_at": "2026-09-07T12:00:27+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93445",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "513",
+      "views_label": "527",
       "posted_at": "2026-09-07T11:56:15+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93444",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "568",
+      "views_label": "580",
       "posted_at": "2026-09-07T11:44:43+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93443",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "735",
+      "views_label": "746",
       "posted_at": "2026-09-07T11:15:10+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93442",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "760",
+      "views_label": "769",
       "posted_at": "2026-09-07T10:55:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93441",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "709",
+      "views_label": "717",
       "posted_at": "2026-09-07T10:52:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93440",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "729",
+      "views_label": "736",
       "posted_at": "2026-09-07T10:45:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93439",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "685",
+      "views_label": "692",
       "posted_at": "2026-09-07T10:43:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93438",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "920",
+      "views_label": "926",
       "posted_at": "2026-09-07T09:53:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93437",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "863",
+      "views_label": "868",
       "posted_at": "2026-09-07T09:44:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93436",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.08K",
+      "views_label": "1.09K",
       "posted_at": "2026-09-07T08:02:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93434",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "945",
+      "views_label": "950",
       "posted_at": "2026-09-07T08:00:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93433",
@@ -537,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.11K",
+      "views_label": "1.12K",
       "posted_at": "2026-09-07T07:16:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93431",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-04T17:32:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93350",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93349",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EmUP9mB5rt_E-ktfi7gsZJiU2Vg2Igy7ZYPwCUj5ZBNBwKSs_5STWybgkDUrOJ8Mf21eZIyZX1Az3KyjeThtIqmK00XzVEbMQyr4Rtqm3BijZmsPdRtLDWb7uCAuOYVGfriyYjsEeD9-i5W2gDSuIa3DhMv1wA1h89ViwCSNAsbSBBXCFCCpRLzR03zsSwFJpI2uSI2Ypew-4R4EEINKuBXLsu1m9siY-A0_Db8j3HxwgV0GuSEPB4zv5KfCaNPxjp4EaKGdI-IcXaIBcqZoOpDe26XPYVEQJMiRoikQH4QRpuY3i_p41FKCMmJLQel9Vz2g8emShtFRNit2tEGUQw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/c769a9c378fcf30292902ce1.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "«کیاست سپهری»، فرمانده مرزبانی استان کرمانشاه با تایید روی دادن یک درگیری مسلحانه در مرز پاوه اعلام کرد که نیروهای مرزبانی شهرستان پاوه با یک گروه مسلح درگیر شده‌اند و در جریان این درگیری، یکی از نیروهای مرزبانی ایران به نام «رضا دارایی عمارتی» کشته شده است.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157166\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157166</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "«کیاست سپهری»، فرمانده مرزبانی استان کرمانشاه با تایید روی دادن یک درگیری مسلحانه در مرز پاوه اعلام کرد که نیروهای مرزبانی شهرستان پاوه با یک گروه مسلح درگیر شده‌اند و در جریان این درگیری، یکی از نیروهای مرزبانی ایران به نام «رضا دارایی عمارتی» کشته شده است.\nبخوانید: https://iranwire.com/fa/news-1/157166\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93349",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/j0gf9adcfdRqkSJWU7LiOWT6t8dUqxHXB3D-uPbWOJgHW7_kC1MbJbMkMmd3zMEkSz9poz8ovhXZ6FXePiYNcC-_Z1bQsrR9U1-gzXZX9YvCtyPqU8e5wRqD6t9dMbJ9m0ecnIn61Fxd3OY6QoiMVVQeh3re7CqRtSAaEVKMSm3F5B_atDPL3Igw5iSihaMB_SPdGpgdT3lTYddgihwkwSaQkjCXFG8BnUxy7ct84YGEE3K0vjDMBqCVRLg5IZKKPzjV6G4lDIP3WNzM_WBbLNdXICS09kbBPuaYPYNF67bXihLPdNRe-qtf8sTVAzqAFJrUAT1b6nlK7rrc4cPYOw.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/db5be32805a2b403d938d45c.jpg",
-          "thumbnail_sha256": "ec7a50ad2534e1469e4ec8d424af5b6d40e30b8f38d17f685d4ccb4fe05a8e04",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.43K",
-      "posted_at": "2026-09-04T16:53:23+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93349",
       "reply": null
     }
   ]
