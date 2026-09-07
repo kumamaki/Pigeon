@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T09:33:41.117Z",
+  "fetched_at": "2026-09-07T09:37:18.422Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -11,6 +11,22 @@
     "subscriber_count": "217K"
   },
   "posts": [
+    {
+      "id": "sahamnewsorg/147119",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/642684be024870091c2036fb.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>خسروپناه، دبیر شورای انقلاب فرهنگی:</b><br>امروز همه نهادهای ما باید پهپاد بسازند؛ پهپادی که اف‌۳۵ را بزند:(<br>چون فضای هوایی را مورد تهدید قرار داده است<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>چطور به عقل کسی نرسیده بود؟<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i><br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅خسروپناه، دبیر شورای انقلاب فرهنگی:\nامروز همه نهادهای ما باید پهپاد بسازند؛ پهپادی که اف‌۳۵ را بزند:(\nچون فضای هوایی را مورد تهدید قرار داده است\n\n🔻چطور به عقل کسی نرسیده بود؟😁\n\n@Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "624",
+      "posted_at": "2026-09-07T09:36:17+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/147119",
+      "reply": null
+    },
     {
       "id": "sahamnewsorg/147118",
       "author_name": "سهام نیوز",
@@ -33,7 +49,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.92K",
+      "views_label": "6.15K",
       "posted_at": "2026-09-07T09:23:31+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147118",
@@ -61,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.61K",
+      "views_label": "5.84K",
       "posted_at": "2026-09-07T09:23:30+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147117",
@@ -77,7 +93,7 @@
       "plain_text": "✅در رویدادی بسیار نادر،\nشش بمب سنگر شکن 2 تنی اسرائیل مناطق مرکزی شهر نبطیه را هدف قرار داد،\nاین حملات آنقدر بزرگ بودند که صدای انفجارها در سراسر جنوب لبنان و شمال اسرائیل شنیده شد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "11.4K",
+      "views_label": "12K",
       "posted_at": "2026-09-07T09:05:02+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147116",
@@ -93,7 +109,7 @@
       "plain_text": "✅واکنش قالیباف به وزیر جنگ امریکا: به دارایی های ما حمله کنید به شرکت های نفت و گاز امریکا در منطقه حمله می کنیم\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "11.4K",
+      "views_label": "12.3K",
       "posted_at": "2026-09-07T09:03:22+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147115",
@@ -109,7 +125,7 @@
       "plain_text": "✅کریس رایت وزیر انرژی آمریکا: انتقال نفت از خاورمیانه به دوسوم سطح پیش از جنگ با ایران رسیده است\n\n🔻فرمان آقای علی الاصول باعث شد همه از تنگه هرمز نفت صادر کنند به جز ایران.\nسرنوشت ۹۰ میلیون ایرانی افتاده دست یه طلبه و چند سردار سپاه\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "14.5K",
+      "views_label": "15.4K",
       "posted_at": "2026-09-07T08:50:51+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147114",
@@ -125,7 +141,7 @@
       "plain_text": "✅معاون وزارت نفت از کسری ۱۰ میلیون لیتری بنزین خبر داد\n\n🔸محمدصادق عظیمی‌فر، معاون وزیر نفت و مدیرعامل شرکت ملی پالایش و پخش فرآورده‌های نفتی در یک گفت‌و‌گوی تلویزیونی میانگین مصرف بنزین در پنج ماه ابتدایی امسال در ایران را حدود ۱۳۲ میلیون لیتر در روز عنوان کرد و گفت میزان تولید بنزین پالایشگاهی و غیرپالایشگاهی نیز به‌طور میانگین حدود ۱۲۲ میلیون لیتر در روز بوده است.\n\n🔸این مقام وزارت نفت با اعلام کسری روزانه حدود ۱۰ میلیون لیتر بنزین به‌طور میانگین، گفته است که این مقدار «باید از محل واردات جبران» می‌شد.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "15.7K",
+      "views_label": "16.3K",
       "posted_at": "2026-09-07T08:44:26+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147113",
@@ -153,7 +169,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16.3K",
+      "views_label": "16.6K",
       "posted_at": "2026-09-07T08:41:01+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147112",
@@ -169,7 +185,7 @@
       "plain_text": "✅جمهوری اسلامی از خط قرمز ما عبور کرد\n\nترامپ: در یک حمله غافلگیرانه، آنها پنج موشک با سرعت ۸۵۰۰ مایل در ساعت به سمت نیروهای آمریکایی شلیک کردند که هیچ اصابتی نداشت و هر پنج موشک سرنگون شدند.\n\nاوضاع درست می‌شود!\n\nدر همین حال، ما واقعاً به آنها ضربه خواهیم زد؛ اکنون نوبت ماست که حمله کنیم.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "17.8K",
+      "views_label": "18.5K",
       "posted_at": "2026-09-07T08:32:40+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147111",
@@ -185,7 +201,7 @@
       "plain_text": "✅فایننشال‌تایمز: نیروی دریایی ایالات متحده به طور مخفیانه به مدت چهار ماه، مشغول پاکسازی مین‌های جمهوری اسلامی از تنگه هرمز بود.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "19.5K",
+      "views_label": "20.1K",
       "posted_at": "2026-09-07T08:22:27+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147110",
@@ -213,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.5K",
+      "views_label": "22.1K",
       "posted_at": "2026-09-07T08:13:10+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147109",
@@ -241,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.9K",
+      "views_label": "23.5K",
       "posted_at": "2026-09-07T08:06:35+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147108",
@@ -269,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "54.3K",
+      "views_label": "54.6K",
       "posted_at": "2026-09-06T23:52:18+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147107",
@@ -325,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50.1K",
+      "views_label": "50.4K",
       "posted_at": "2026-09-06T23:30:19+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147105",
@@ -2377,34 +2393,6 @@
       "posted_at": "2026-09-05T07:54:16+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147018",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147017",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LEPulZgNyRXQYUH9pl6txwmy1HaX1HDx2Vj1MUZOEH08i10zaO4aZhruOq7e7tuCrDtlLu1KCqgj2aEt5We72kVXaPWY26ewl5sw9d3G7ezGzPfjPB-4pQM-cGqEAZhmN8PmaDxycrwl1DnrM0MMCdCLoAkc3GNj2ciAWHd7PaEDCkRqMS0AA97Kre37DwtmJRlvO9HWWQ3L1lrW1B0vJZ7PZ9KN7v_ochZfRsNLzcI5qicVpEqEzWUd2ikFhWbkLGHz2-LFcGyh7UrCtcmLvMDozbJtR8Vtccyc0WXtH3ZnLExU2BRwof0c-62a6UypDkGSOoxACOw167DnfXIvVA.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/93aceceef10a8532f638aaa7.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>زمان در تنگه هرمز به سود کدام طرف می رود؟<br><br>آمریکا و ایران با محاصره و اعمال قدرت در تنگه هرمز، هر دو تصور می‌کردند که گذشت زمان به سودشان خواهد بود و می‌توانند بیش از طرف مقابل در این درگیری دوام بیاورند، اما به گزارش وال‌استریت ژورنال، اکنون به نظر می‌رسد موازنه قدرت تغییر کرده و ثانیه‌ها به ضرر تهران سپری می‌شوند.یورونیوز<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅زمان در تنگه هرمز به سود کدام طرف می رود؟\n\nآمریکا و ایران با محاصره و اعمال قدرت در تنگه هرمز، هر دو تصور می‌کردند که گذشت زمان به سودشان خواهد بود و می‌توانند بیش از طرف مقابل در این درگیری دوام بیاورند، اما به گزارش وال‌استریت ژورنال، اکنون به نظر می‌رسد موازنه قدرت تغییر کرده و ثانیه‌ها به ضرر تهران سپری می‌شوند.یورونیوز\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/sahamnewsorg/147017",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/eolAMZmm_pZP6tnxHc5n4w49wzDOOP-lSzvTugQLFyQgpcRKixMWHZxkreJkPaGzuxFsLePZ7yz9kN4v7YNSb6pOxEgbWGulOFSYQnLIuo0rr5ZscjZpe3YPUGRODTr2YfGJR5DSotDMLMFRNUFUK0jibqfmx-9kZ02FvdQlpwDr6LB1khj_trRgHgi-a9l8-kkWAFpesINAU7iC3Sw7OBR15Wr_E1JEZGmJfHSKPHl9a0gXlqLaryzzPFy0o-UQVWOdR5pd5I1iHQDWusbCnIvhoyLKABjS7nkWgG5q5utnxAlbZDnMt_aMQtSaf3lZGHFYg5TZAPnHJOMhhpzR4w.jpg",
-          "thumbnail_path": "channels/sahamnewsorg/media/90ecf215d967d3435e8ca1d2.jpg",
-          "thumbnail_sha256": "37a0f4551f1286b2c795b12c82255c30b5cdc2eb8632b1f704574afff946c64d",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "44.2K",
-      "posted_at": "2026-09-05T07:28:58+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147017",
       "reply": null
     }
   ]
