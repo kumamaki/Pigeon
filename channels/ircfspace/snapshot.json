@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T07:22:17.551Z",
+  "fetched_at": "2026-09-07T07:27:16.163Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -35,11 +35,11 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "122"
+          "count": "124"
         },
         {
           "emoji": "🤡",
-          "count": "53"
+          "count": "54"
         },
         {
           "emoji": "❤",
@@ -50,15 +50,15 @@
           "count": "2"
         },
         {
-          "emoji": "👍",
-          "count": "1"
+          "emoji": "🤬",
+          "count": "2"
         },
         {
-          "emoji": "🤬",
+          "emoji": "👍",
           "count": "1"
         }
       ],
-      "views_label": "6.09K",
+      "views_label": "6.25K",
       "posted_at": "2026-09-07T05:41:19+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2586",
@@ -88,7 +88,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "52"
+          "count": "53"
         },
         {
           "emoji": "👏",
@@ -107,7 +107,7 @@
           "count": "2"
         }
       ],
-      "views_label": "6.18K",
+      "views_label": "6.3K",
       "posted_at": "2026-09-07T05:32:27+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2585",
@@ -137,7 +137,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "39"
+          "count": "40"
         },
         {
           "emoji": "👍",
@@ -145,10 +145,10 @@
         },
         {
           "emoji": "👎",
-          "count": "3"
+          "count": "4"
         }
       ],
-      "views_label": "6.16K",
+      "views_label": "6.27K",
       "posted_at": "2026-09-07T05:23:54+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2584",
@@ -182,14 +182,14 @@
         },
         {
           "emoji": "❤",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "👏",
           "count": "1"
         }
       ],
-      "views_label": "6.87K",
+      "views_label": "6.99K",
       "posted_at": "2026-09-07T05:10:20+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2583",
@@ -319,7 +319,7 @@
           "count": "1"
         }
       ],
-      "views_label": "16.9K",
+      "views_label": "17K",
       "posted_at": "2026-09-06T03:47:35+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2581",
@@ -421,7 +421,7 @@
           "count": "1"
         }
       ],
-      "views_label": "18.8K",
+      "views_label": "18.9K",
       "posted_at": "2026-09-06T03:29:02+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2579",
@@ -600,7 +600,7 @@
           "count": "1"
         }
       ],
-      "views_label": "24.5K",
+      "views_label": "24.6K",
       "posted_at": "2026-09-03T14:39:14+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2576",
@@ -832,7 +832,7 @@
           "count": "2"
         }
       ],
-      "views_label": "30.5K",
+      "views_label": "30.6K",
       "posted_at": "2026-08-30T08:11:03+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2572",
@@ -893,7 +893,7 @@
           "count": "1"
         }
       ],
-      "views_label": "25.8K",
+      "views_label": "25.9K",
       "posted_at": "2026-08-30T08:04:22+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2571",

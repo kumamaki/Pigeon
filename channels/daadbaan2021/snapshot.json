@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T07:22:11.684Z",
+  "fetched_at": "2026-09-07T07:27:10.841Z",
   "channel": {
     "username": "daadbaan2021",
     "title": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
@@ -32,8 +32,13 @@
           "aspect_ratio": 0.8
         }
       ],
-      "reactions": [],
-      "views_label": "6",
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "18",
       "posted_at": "2026-09-07T07:20:32+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20203",
@@ -61,7 +66,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "157",
+      "views_label": "159",
       "posted_at": "2026-09-06T22:30:12+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20202",
@@ -98,7 +103,7 @@
           "count": "2"
         }
       ],
-      "views_label": "182",
+      "views_label": "183",
       "posted_at": "2026-09-06T19:20:22+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20201",
@@ -135,7 +140,7 @@
           "count": "1"
         }
       ],
-      "views_label": "193",
+      "views_label": "194",
       "posted_at": "2026-09-06T17:17:36+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20200",
@@ -242,7 +247,7 @@
           "count": "1"
         }
       ],
-      "views_label": "211",
+      "views_label": "212",
       "posted_at": "2026-09-06T12:11:07+00:00",
       "edited": false,
       "permalink": "https://t.me/Daadbaan2021/20197",
@@ -279,7 +284,7 @@
           "count": "1"
         }
       ],
-      "views_label": "204",
+      "views_label": "205",
       "posted_at": "2026-09-06T10:47:08+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20196",
@@ -648,7 +653,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "242",
+      "views_label": "243",
       "posted_at": "2026-09-05T07:39:50+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20185",
