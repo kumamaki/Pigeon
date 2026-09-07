@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T09:42:12.734Z",
+  "fetched_at": "2026-09-07T09:47:09.539Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93436",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "«اسماعیل بقائی»، سخنگوی وزارت امور خارجه جمهوری اسلامی، روز دوشنبه ۱۶شهریور۱۴۰۵، در نشست خبری هفتگی خود درباره روابط ایران و چین، مذاکره با آمریکا، حملات اسراییل به فلسطینیان و لبنان و جنگ اقتصادی آمریکا علیه ایران اظهارنظر کرد.<br><br>بقائی در پاسخ به پرسشی درباره تغییر رویکرد جمهوری اسلامی در حوزه مذاکره و دیپلماسی پس از خروج آمریکا از تفاهم‌نامه اسلام‌آباد گفت: «مذاکره مطلقا نه بد است و نه خوب، بلکه ابزاری برای پیشبرد منافع کشور و تامین منافع و امنیت ملی است.»<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157260\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157260</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "«اسماعیل بقائی»، سخنگوی وزارت امور خارجه جمهوری اسلامی، روز دوشنبه ۱۶شهریور۱۴۰۵، در نشست خبری هفتگی خود درباره روابط ایران و چین، مذاکره با آمریکا، حملات اسراییل به فلسطینیان و لبنان و جنگ اقتصادی آمریکا علیه ایران اظهارنظر کرد.\n\nبقائی در پاسخ به پرسشی درباره تغییر رویکرد جمهوری اسلامی در حوزه مذاکره و دیپلماسی پس از خروج آمریکا از تفاهم‌نامه اسلام‌آباد گفت: «مذاکره مطلقا نه بد است و نه خوب، بلکه ابزاری برای پیشبرد منافع کشور و تامین منافع و امنیت ملی است.»\nبخوانید: https://iranwire.com/fa/news-1/157260\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93436",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/F69pc21EkrvvT6d8EnQBMX-NTC3kk4D4IrVyW1RD0D9R5qdSAVPBw9amKBDhvYJ5UrANrmlbYxxAOeRYTD_5AhpPvc0Tv0R0ousqMkiJAlHm55nFgqH6qqzP8ktinhlu_aFB-VGI7S2LpI4EOlD9O6IixBCzp2Bm_82tAvX5NtHIWa0LMIZLDp8t9B31plVEtyJdso6x4Q6qIwF-y3EkhV57SMiGAeKT4FpirzTugpmL1vQLjgrHxMs_M6UWvwailuPM_mlxhnfmCPVMqnrKxvPWFazBo6oCQAck4GHW1CsHcJ_WopHYPDcbhWAra6sRVsQIQuDQbNskWzv6ESChQw.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/e257c29f124d5732b78a48fb.jpg",
+          "thumbnail_sha256": "3e9824441dda2e56ef346adba6e0de9e38b3a6b06668d959e80ceb22444149fa",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "50",
+      "posted_at": "2026-09-07T09:44:16+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93436",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93435",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "431",
+      "views_label": "463",
       "posted_at": "2026-09-07T08:36:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93435",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "623",
+      "views_label": "652",
       "posted_at": "2026-09-07T08:02:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93434",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "560",
+      "views_label": "583",
       "posted_at": "2026-09-07T08:00:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93433",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "671",
+      "views_label": "689",
       "posted_at": "2026-09-07T07:43:45+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93432",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "736",
+      "views_label": "756",
       "posted_at": "2026-09-07T07:16:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93431",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "760",
+      "views_label": "776",
       "posted_at": "2026-09-07T07:05:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93430",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "875",
+      "views_label": "888",
       "posted_at": "2026-09-07T06:28:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93429",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.69K",
+      "views_label": "1.7K",
       "posted_at": "2026-09-06T19:59:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93428",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.33K",
+      "views_label": "1.34K",
       "posted_at": "2026-09-06T18:35:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93424",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.42K",
+      "views_label": "1.43K",
       "posted_at": "2026-09-06T18:27:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93423",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.76K",
+      "views_label": "1.77K",
       "posted_at": "2026-09-06T14:28:33+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93418",
@@ -509,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.85K",
+      "views_label": "1.86K",
       "posted_at": "2026-09-06T12:08:01+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93417",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-04T10:33:01+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93336",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93335",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/L-i8b5V9xIgA88YBHLEUctA3K5L0fB69hAYkoRft-0UVJtaAnHU03fETwfydxrMtZ8M_vKBbbacap444mS3xZtRluI_3BA_zc4GZCBEv8TsZHDNhhBL_6gFT79je2k509097Ifq1A8CLfIydsjEBSplZp6dLBgLKkKTqtbbFRrWWm9iAtvPaZ9at1B-YsDW9Of1EBqYTV6LbEOZCaV15cCCjJTEwUlUtoCRqzyJTmJoqsDMDY7wM7qxgf7aG4TmjuUlM8fbsu7Fg7PTmdvqYeq9P8AOYraq2Jr5rGE_6-wv3iXnHfIGXSjE0-Z89LWq-Ci4YYzmfQ4tdetZ0G-iTNA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/8441f6253784e44bccb2a9c5.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "سازمان «حقوق بشر برای ورزش» در نامه‌ای سرگشاده به فدراسیون جهانی سوارکاری و فدراسیون سوارکاری آسیا، درباره وضعیت «ترانه رحیمی»، سوارکار و مربی ایرانی محکوم به اعدام، ابراز نگرانی کرده است.<br>بیشتر: <a href=\"https://iranwire.com/fa/news-1/157151\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157151</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "سازمان «حقوق بشر برای ورزش» در نامه‌ای سرگشاده به فدراسیون جهانی سوارکاری و فدراسیون سوارکاری آسیا، درباره وضعیت «ترانه رحیمی»، سوارکار و مربی ایرانی محکوم به اعدام، ابراز نگرانی کرده است.\nبیشتر: https://iranwire.com/fa/news-1/157151\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93335",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/CVtcIZbRznlciI-R_4w6bevhCr-4vSmW8uA0iRph4PDfvXJDBXL8P-jSe8ZgpN9cnDwQLk1yFbYQTcBh8BRyzg6kwmWP6bd1y9Ll4-wkqrZ2dYBhWw2FJU9FeygD3TurdMq94QkhcNpwQmkRfk8AMLD-nl11UUGCxALf-Zth2PE8_P9SZfdhT-fQy6WpEegq0fgkGo1q9JFZDzZe9GwDCWkDkVhh8Slsib34KxF6OE0JEGgI9KSpVJUz4_8JwbDRDyZRGnXS_oDnc-FN1DG2THIy5qdErbmkFgM97rgJ7SESY9IbYTuhG6FfG9DNjPBn5G690Yj733lv-E3i1q0U2Q.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/325df448b4002aa4cc061593.jpg",
-          "thumbnail_sha256": "ff1bdbe66dac4e3b81fe88d76d3459a80f7b72e22f3919767f8fdec7d3210bf5",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.41K",
-      "posted_at": "2026-09-04T10:11:56+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93335",
       "reply": null
     }
   ]

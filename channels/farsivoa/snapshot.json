@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T09:42:13.772Z",
+  "fetched_at": "2026-09-07T09:47:10.457Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229705",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "بازگشت خرید نفت چین قیمت نفت خام آفریقا، کانادا و آمریکای لاتین را بالا برده است، چون پالایشگاه‌ها به دلیل اختلال تنگه هرمز به دنبال جایگزین در نقاط دورتر می‌روند.<br><br>بر پایه گزارش بلومبرگ، نفت جِنو کنگو این هفته با قیمتی تا ۲۰ دلار بالاتر از هر بشکه نفت برنت به خریداران چینی پیشنهاد شد که از حدود ۱۵ دلار دو هفته پیش بیشتر است.<br><br>همین جهش، پالایشگاه‌های کوچک‌تر چینی را که حاشیه سود باریک‌تری دارند از بازار بیرون رانده است.<br><br>خرید چین هنوز به سطح پیش از جنگ نرسیده و به سوی ۱۰ میلیون بشکه در روز می‌رود در حالی که پیش از درگیری ۱۲ میلیون بشکه بود.<br><br>بلومبرگ نوشت این روند در چین در شرایطی صورت می‌گیرد که صادرات نفت جمهوری اسلامی به دلیل محاصره آمریکا تقریباً به‌طور کامل صفر شده است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "بازگشت خرید نفت چین قیمت نفت خام آفریقا، کانادا و آمریکای لاتین را بالا برده است، چون پالایشگاه‌ها به دلیل اختلال تنگه هرمز به دنبال جایگزین در نقاط دورتر می‌روند.\n\nبر پایه گزارش بلومبرگ، نفت جِنو کنگو این هفته با قیمتی تا ۲۰ دلار بالاتر از هر بشکه نفت برنت به خریداران چینی پیشنهاد شد که از حدود ۱۵ دلار دو هفته پیش بیشتر است.\n\nهمین جهش، پالایشگاه‌های کوچک‌تر چینی را که حاشیه سود باریک‌تری دارند از بازار بیرون رانده است.\n\nخرید چین هنوز به سطح پیش از جنگ نرسیده و به سوی ۱۰ میلیون بشکه در روز می‌رود در حالی که پیش از درگیری ۱۲ میلیون بشکه بود.\n\nبلومبرگ نوشت این روند در چین در شرایطی صورت می‌گیرد که صادرات نفت جمهوری اسلامی به دلیل محاصره آمریکا تقریباً به‌طور کامل صفر شده است.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229705",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Vu20CdCyhb23vbELaRCheuPRvSlHHlfIsEn_Do6rCjQrhxfoqbQZywNpRwTtkePvla5XMBteUxacOok67pvzWVetwNYtqDW8d5XvhCZBPLC-GckifY1lE_hhYqo_Jvz_5bMTu9q0YqVqwV70-lc3rYUgv1wBD5hxJp7_7hl0OvA1KKKJbOBYEIi8FBYvgWBq6mHLwQ_pl5LaNpymDG1h0ihp00I8hyxSFgXYxn0q5NdOj6L-xnNifS9K_EnnP2t1NnsFDHngu_IChI-sLK7MPfbkP8Mo-EOM0sK3C4e0ylE1ba1eT0yqODkCZgJETtVVdxoqANsvsy-QdZagp9oRdg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/0708fa06430e165dece74b34.jpg",
+          "thumbnail_sha256": "57af60ae77dfaf24b2f1c0533d6d4c4cbc643e80c3cfe8f24b5282eb94528d65",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "218",
+      "posted_at": "2026-09-07T09:43:29+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229705",
+      "reply": null
+    },
     {
       "id": "farsivoa/229704",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "886",
+      "views_label": "1.04K",
       "posted_at": "2026-09-07T09:19:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229704",
@@ -49,7 +77,7 @@
       "plain_text": "🔺دو فوتبالیست زن ایرانی پناهنده: به کشتن مردم توسط حکومت اعتراض داشتیم\n\n▪️دو عضو تیم ملی فوتبال زنان ایران که در استرالیا پناهندگی گرفتند، تأیید کردند خودداری‌شان از خواندن سرود ملی در جام ملت‌های آسیا اعتراض به جمهوری اسلامی بود.\n\n▪️عاطفه رمضانی‌صادق ۳۴ ساله و فاطمه پسندیده ۲۲ ساله نخستین گفت‌وگوی رسانه‌ای خود را با برنامه «۶۰ دقیقه» شبکه ۹ استرالیا انجام دادند. در این مصاحبه که روز یکشنبه پخش شد آنها نسبت به کشته شدن مردم معترض به دست جمهوری اسلامی اعتراض کردند.\n\n▪️در همین رابطه رمضانی‌صادق گفت: «فقط می‌خواستیم کنار مردممان بایستیم. گاهی می‌ترسیدم، اما تلاش کردم کار درست را انجام دهم و بگویم هیچ‌کس نباید صرفاً برای اعتراض کشته شود.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/iranian-soccer-players-who-sought-asylum-in-australia-say-anthem-silence-was-protest/8195031.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.49K",
+      "views_label": "1.62K",
       "posted_at": "2026-09-07T08:58:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229703",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.45K",
+      "views_label": "1.55K",
       "posted_at": "2026-09-07T08:50:14+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229702",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.61K",
+      "views_label": "1.68K",
       "posted_at": "2026-09-07T08:33:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229701",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.76K",
+      "views_label": "1.82K",
       "posted_at": "2026-09-07T08:21:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229700",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.99K",
+      "views_label": "2.05K",
       "posted_at": "2026-09-07T08:02:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229699",
@@ -177,7 +205,7 @@
       "plain_text": "🔺کانادا بر توقف اقدامات بی‌ثبات‌کننده جمهوری اسلامی تأکید کرد\n\n▪️وزیر امور خارجه کانادا، با محکوم کردن اقدامات بی‌ثبات‌کننده جمهوری اسلامی تصریح کرد که جمهوری اسلامی باید فوراً تهدیدها در تنگه هرمز، فعالیت‌های هسته‌ای غیرقانونی و حمایت از گروه‌های نیابتی را متوقف کند.\n\n▪️آنیتا آناند تصریح کرد: «تهدیدهای ایران در تنگه هرمز، فعالیت‌های هسته‌ای غیرقانونی و حمایت آن از گروه‌های نیابتی منطقه‌ای، همچنان صلح و امنیت جهانی را تضعیف می‌کند و این اقدامات باید پایان یابند.»\n\n▪️او به بیانیه‌ای مشترک با وزیر دارایی کانادا، اشاره کرد که در آن «اقدامات کانادا و شرکایش برای حفظ فشار بر ایران، و تلاش‌ها برای مختل کردن توانایی ایران در تأمین مالی فعالیت‌های تروریستی» تشریح شده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/canada-condemns-iran-s-destabilizing-actions-in-the-middle-east/8195030.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.95K",
+      "views_label": "2.01K",
       "posted_at": "2026-09-07T07:57:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229698",
@@ -193,7 +221,7 @@
       "plain_text": "🔺احتمال خاموشی در زمستان؛ معاون وزیر نیرو از «سال دشوار» خبر داد\n\n▪️معاون برق و انرژی وزارت نیرو هشدار داد کشور به دلیل ناترازی باقی‌مانده در بخش گاز و آسیب‌های وارد‌شده به زنجیره تأمین سوخت، احتمالاً سال دشواری را در پیش دارد.\n\n▪️مصطفی رجبی مشهدی این موضوع را در گفت‌وگو با روزنامه ایران گفت و تاکید کرد نیروگاه‌های حرارتی در زمستان برای تولید برق وابستگی بالایی به گاز دارند. رسانه‌ها با اتکا بر اعتراف معاون وزیر نیرو از احتمال بروز خاموشی در زمستان خبر داده و نوشتند بحران تامین انرژی در کشور حادتر خواهد شد.\n\n▪️در صورت کمبود گاز، نیروگاه‌ها ممکن است ناچار به استفاده بیشتر از سوخت‌های مایع شوند؛ اقدامی که افزون بر دشواری تأمین و حمل، آثار زیست‌محیطی نیز به همراه دارد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/deputy-minister-of-energy-warns-of-difficult-year-and-possibility-of-winter-blackout/8195028.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.05K",
+      "views_label": "2.09K",
       "posted_at": "2026-09-07T07:47:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229697",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.09K",
+      "views_label": "2.12K",
       "posted_at": "2026-09-07T07:37:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229696",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.18K",
+      "views_label": "2.22K",
       "posted_at": "2026-09-07T07:27:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229695",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.22K",
+      "views_label": "2.25K",
       "posted_at": "2026-09-07T07:16:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229694",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.26K",
+      "views_label": "2.29K",
       "posted_at": "2026-09-07T07:04:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229693",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.35K",
+      "views_label": "2.38K",
       "posted_at": "2026-09-07T06:53:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229692",
@@ -349,7 +377,7 @@
       "plain_text": "🔺وزیر انرژی آمریکا: با حصر دریایی یا جمهوری اسلامی عوض می‌شود یا سیاست‌هایش\n\n▪️وزیر انرژی آمریکا، گفت ممکن است توافق هسته‌ای با جمهوری اسلامی به دست نیاید و راه‌حل صرفاً نابود کردن توان جمهوری اسلامی باشد. او همچنین گفت که محاصره دریایی بنادر ایران «یا حکومتشان را تغییر می‌دهد یا سیاست‌های حکومت را».\n\n▪️کریس رایت، روز یکشنبه گفت: «شاید توافق هسته‌ای وجود نداشته باشد. شاید صرفاً نابود کردن توانمندی‌های آنان برای انجام آن باشد. توافق ممکن است در انتظار دولت بعدی در ایران بماند. ما به‌سادگی نمی‌دانیم.»\n\n▪️او افزود: «ما توان آنان برای توسعه سلاح هسته‌ای و در نهایت پرتاب آن در صورت توسعه را تضعیف می‌کنیم. این تلاشی ۴۷ ساله است. کار کوچکی نیست، اما آمریکا کار را به سرانجام می‌رساند.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195027.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.48K",
+      "views_label": "2.51K",
       "posted_at": "2026-09-07T06:42:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229691",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.84K",
+      "views_label": "2.87K",
       "posted_at": "2026-09-07T06:13:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229689",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.94K",
+      "views_label": "2.98K",
       "posted_at": "2026-09-07T05:59:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229688",
@@ -477,7 +505,7 @@
       "plain_text": "🔺کارزار اقتصادی آمریکا اهرم فشار جمهوری اسلامی در تنگه هرمز را تضعیف کرده است\n\n▪️شش ماه پس از آغاز جنگ، تشدید تحریم‌ها و محاصره دریایی توسط ایالات متحده فشار فزاینده‌ای بر جمهوری اسلامی وارد آورده، و به گفته منابع ایرانی و منطقه‌ای، توان رژیم ایران برای استفاده از تنگه هرمز به عنوان اهرمی در برابر آمریکا را کاهش داده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/president-trump-economic-pressure-iran-hormuz-leverage/8195025.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.92K",
+      "views_label": "2.95K",
       "posted_at": "2026-09-07T05:39:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229686",
@@ -2394,34 +2422,6 @@
       "posted_at": "2026-09-06T12:00:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229605",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229604",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/cQgmNvY74QjMaJtRlGlAgwARq80-ngAFt95OGdUvawYpXRlgX1I0clW8a36_0wg0KQW01LJ0WQu9BqpST7mohIffbNUFA69ex-Lkf6Uxm-tRC9fnRtAzxAzkh0gbyyb0gskR6k6eYyyxmBrreDKOZ3GI717bPZ9fXIO5OPouQSOk6lXWlHM6cd2P_frgT1Wg5WzirdR4Wrxa3cFM5EbbDLoQnZesAGGbAJQC-7-_M1BM1x6rMu_j7_nT_BryWHEWoQu34Hwt3C5O6uTaZY0PWF5cpl7--mPsz-xFvsqjpvn05avmOnilCpREWkKLcCK4OERe7ekk1gf0pDPtLCNTyg.jpg",
-      "author_photo_path": "channels/farsivoa/media/0abbb3eafc2bacb0efcb50a7.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "وزیر نیروی جمهوری اسلامی، از محدودیت منابع آب در تهران خبر داد و درباره زمستان پیش رو هشدار داد.<br><br>عباس علی‌آبادی، گفت: «متأسفانه وضعیت منابع آبی در بعضی استان‌ها همچنان کمتر از شرایط نرمال است. برای مثال، تهران مقداری با مشکل مواجه است.»<br><br>علی‌آبادی افزود بارش‌ها کافی نیست و «در شرایط فعلی منابع، امکان مصرف بی‌رویه نداریم».<br><br>او درباره فصل سرد گفت: «امسال زمستان شرایط خاصی دارد. امیدواریم سرمای شدید رخ ندهد، اما در جریان جنگ نیز آسیب‌هایی در بخش‌های مختلف، از جمله در حوزه سوخت، وارد شده که باید جبران شود.»<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "وزیر نیروی جمهوری اسلامی، از محدودیت منابع آب در تهران خبر داد و درباره زمستان پیش رو هشدار داد.\n\nعباس علی‌آبادی، گفت: «متأسفانه وضعیت منابع آبی در بعضی استان‌ها همچنان کمتر از شرایط نرمال است. برای مثال، تهران مقداری با مشکل مواجه است.»\n\nعلی‌آبادی افزود بارش‌ها کافی نیست و «در شرایط فعلی منابع، امکان مصرف بی‌رویه نداریم».\n\nاو درباره فصل سرد گفت: «امسال زمستان شرایط خاصی دارد. امیدواریم سرمای شدید رخ ندهد، اما در جریان جنگ نیز آسیب‌هایی در بخش‌های مختلف، از جمله در حوزه سوخت، وارد شده که باید جبران شود.»\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229604",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/kQnGWwrR2iTDmHfDoeCDZH3d-Zk0rObld_5Wc1VZwl0HoqYvCBttUo2sVumRyHethd7tCP0AItGHxsLq_c5_gKT0iaxTmm-88eDg6uUyPC_gv8lnL3mhC_7gW4GPES3XkrXdNLP31JXJB4tcUudUn-2POSgp6LqyCfBPIBkQsU18ZtjqcfQoi9qI9ElQQjd78mQ_pAFn_WEnwcnkA3ZT5UqeccinP-UB3z8P8jeIy1gZ3LfNPjKL12j3im_jl4IuzEys0fZP9mYUOC3uXof0JT7SsudpC4tlFQ0JgM2UlyomX1Yv1Alpw4G6B_P9X8xysDvhvZFJEl7Nu8Uc29AFHw.jpg",
-          "thumbnail_path": "channels/farsivoa/media/59e353e4f9f87e81f84c21f7.jpg",
-          "thumbnail_sha256": "55e7b3ed30a3bde5572c4c2fb8c9dfd9ad6a0b36d38c740dbaba1799da3a11db",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.73K",
-      "posted_at": "2026-09-06T11:53:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229604",
       "reply": null
     }
   ]
