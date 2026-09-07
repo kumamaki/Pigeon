@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T09:27:46.836Z",
+  "fetched_at": "2026-09-07T09:33:35.972Z",
   "channel": {
     "username": "filter_watch",
     "title": "فیلتربان",
@@ -23,10 +23,10 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "5"
+          "count": "6"
         }
       ],
-      "views_label": "457",
+      "views_label": "459",
       "posted_at": "2026-09-06T17:18:06+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1901",
