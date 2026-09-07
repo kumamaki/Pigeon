@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T14:17:27.719Z",
+  "fetched_at": "2026-09-07T14:24:44.935Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -35,11 +35,11 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "249"
+          "count": "250"
         },
         {
           "emoji": "🤡",
-          "count": "102"
+          "count": "103"
         },
         {
           "emoji": "🤬",
@@ -190,7 +190,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "68"
+          "count": "69"
         },
         {
           "emoji": "❤",
@@ -201,7 +201,7 @@
           "count": "2"
         }
       ],
-      "views_label": "11.4K",
+      "views_label": "11.5K",
       "posted_at": "2026-09-07T05:10:20+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2583",
@@ -502,8 +502,8 @@
           "asset_url": "https://t.me/ircfspace/2577",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/QQqkezqIoWSTqMG_072r1Ohw6Tk8jaKu2Em4AMwCTvsBmTbqO7KVsTp4YB97yWfV9m64e3uit_zOg2QBgMgNBicG51MfVOauFCm6MSv5p7egmW54ziBx39jkpRtzCv4koUlLHf0vlAyHkzODj9bUWu41yN_X9FwQtWbZxBB2a_fzj6fRoOjVwF1vSArTcUNdXzZuuG7IWz9d8mSJKnsbR3hyTJpj8N_qnktRp9oFCsyrpaG_zhCv-e-vYUJSfeCOStn53J66p6hdgo8VWKPjDfUyiVg6LnoGU_Czu1SbiqDjMbzpNh3z6FG1wnKzta0A_K3Cpu5Grch-Yj97M4kBZQ.jpg",
-          "thumbnail_path": "channels/ircfspace/media/7b069a855987a0a7731c181d.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/TtUHZADA0OlunlN5me8TyfsrOmAK0USLEGSNpQ5a9HcUGyTOZFs6GS5BIUPL4pxFkzQP3c2nv1AJFMWLN5p2EB7IadCjQk0X9-qHadXpze4kB3zhF35-PkRIHvvibacMHZUctd6Z1uv2ahGOxZrrIdGF3IQvPEtgxaK673TJg7J1J3TC50ktTz8wuJcJzAL4ZlY7cASzL0hDkzEGIKb74e73NCM6Bn5vEh84MplsZnD2uSSoUJsOaVAXgoAjhmJ4qBm5C1CYFn-StkcDR1jqvyKrhZ6A_MrPtUxqWEeu6GSvXkC5Jbq0TORV_d75ygJ0tqZDTzBZxDgbl4hClcFbUg.jpg",
+          "thumbnail_path": "channels/ircfspace/media/8fc0b13873558b93323b1c6d.jpg",
           "thumbnail_sha256": "ee1e377f8d324a1f70acc0738276c940a5cd531475cb1d8a1ed499f2e6d9ff84",
           "duration_label": null,
           "aspect_ratio": 1.1140776699029127
@@ -905,7 +905,7 @@
           "count": "1"
         }
       ],
-      "views_label": "27.3K",
+      "views_label": "27.4K",
       "posted_at": "2026-08-30T08:04:22+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2571",
