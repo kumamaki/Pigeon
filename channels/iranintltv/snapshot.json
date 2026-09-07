@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T12:27:25.214Z",
+  "fetched_at": "2026-09-07T12:32:17.596Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,50 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356140",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA7.png')\"><b>🎧</b></i>نسخه صوتی اخبار نیمروزی | دوشنبه ۱۶ شهریور<br><a href=\"https://t.me/iranintlTV\" target=\"_blank\">@iranintlTV</a>",
+      "plain_text": "🎧نسخه صوتی اخبار نیمروزی | دوشنبه ۱۶ شهریور\n@iranintlTV",
+      "media": [],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-07T12:32:11+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356140",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356139",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در خصوص گرانی‌های روزافزون می‌گوید برای تماشای فوتبال، دو بستنی، مقداری تخمه آفتابگردان و دو پفک را به قیمت ۵۵۰ هزار تومان خریده است.",
+      "plain_text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در خصوص گرانی‌های روزافزون می‌گوید برای تماشای فوتبال، دو بستنی، مقداری تخمه آفتابگردان و دو پفک را به قیمت ۵۵۰ هزار تومان خریده است.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356139",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Rx7RRAGXgm6QuEAEqZJWHKgdblf6foU5VOa2vs2VXkszzJ9rZiZ1y_Jm7lbyVDBnyhdpDYCzCU8uNao6QaHi9FuDjZGonpvK9nvDgp422AdA3drAzul8figrwEY9N8sh_P6MWAk5UplpHCj74i-XtKsSh4RvM95qpEqJSuplFfiLqjTaMGmH2eT2C2oCpzHartz4Lui08luHDb_n96IjQdpOh0h-McpfTXNw81sXHtAOP1V_RIol67BljEg3jxsGzKYlA6tFivR44j_b9i6iMs7ZjsfDdlGmrb6cpss6okSvjY9RtoA9RKaxQx9jIs7lQCIJxbER8TKpECHbpSKYgQ",
+          "thumbnail_path": "channels/iranintltv/media/a7dfd760812eef07ea9894d1.jpg",
+          "thumbnail_sha256": "7c95b6057ab37d8b6320dbc0edc2d19bc81e63dbb55bd7c37222ce6cb6e573c1",
+          "duration_label": "0:58",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-07T12:31:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356139",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356138",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.07K",
+      "views_label": "6.28K",
       "posted_at": "2026-09-07T12:24:06+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356138",
@@ -61,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.16K",
+      "views_label": "6.34K",
       "posted_at": "2026-09-07T12:23:16+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356137",
@@ -89,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.22K",
+      "views_label": "6.32K",
       "posted_at": "2026-09-07T12:22:04+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356136",
@@ -117,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.35K",
+      "views_label": "8.44K",
       "posted_at": "2026-09-07T12:18:16+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356135",
@@ -145,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.41K",
+      "views_label": "9.47K",
       "posted_at": "2026-09-07T12:15:56+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356134",
@@ -173,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.51K",
+      "views_label": "10.5K",
       "posted_at": "2026-09-07T12:13:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356132",
@@ -201,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.49K",
+      "views_label": "10.6K",
       "posted_at": "2026-09-07T12:11:17+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356131",
@@ -229,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.5K",
+      "views_label": "12.7K",
       "posted_at": "2026-09-07T12:08:49+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356130",
@@ -257,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.6K",
+      "views_label": "11.6K",
       "posted_at": "2026-09-07T12:08:35+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356129",
@@ -285,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.6K",
+      "views_label": "12.7K",
       "posted_at": "2026-09-07T12:06:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356128",
@@ -313,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.6K",
+      "views_label": "12.7K",
       "posted_at": "2026-09-07T12:05:29+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356127",
@@ -341,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.7K",
+      "views_label": "13.7K",
       "posted_at": "2026-09-07T12:02:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356126",
@@ -357,7 +401,7 @@
       "plain_text": "🗣روایت شما از افزایش لحظه‌ای قیمت‌ها و از دست رفتن امکان برنامه‌ریزی برای آینده- دوشنبه ۱۶ شهریور:\n\n🔹درآمدمان دیگر حتی به مواد غذایی نمی‌رسد، چه برسد به لوازم ضروری زندگی.\n\n🔹سال‌هاست دیگر برنامه‌ای برای آینده و حتی فردایمان نداریم و فقط تلاش می‌کنیم زنده بمانیم.\n\n🔹من معلمم و سال‌هاست نتوانسته‌ام گوشی‌ام رو عوض کنم. حتی مدل‌های پایین‌رده هم قابل خرید نیستن. با حقوق ۲۰ میلیونی دغدغه‌ام شده صرفا تامین خورد و خوراک.\n\n🔹از بی‌کفنی زنده‌ایم و چندین ساله شدیم مرده‌های متحرک. هیچ هدف و آینده‌ای نیست؛ درآمدها بسیار ناچیز و مخارج بسیار بالاست.\n\n🔹درگیر هزینه‌های روزمره‌ایم و فرصتی برای برنامه‌ریزی برای آینده برایمان باقی نمانده است.\n\n🔹پولی برای خرید لوازم مورد نیازمان نداریم و مواد غذایی را هم به سختی تامین می‌کنیم.\n\n🔹با حقوق ۲۰ میلیونی و این گرانی سرسام‌آور، امکان برنامه‌ریزی وجود ندارد.\n\n🔹نه برنامه‌ای مانده و نه آرزویی؛ فقط تلاش می‌کنیم زنده بمانیم.\n\n🔹هر بار که پول جمع می‌کنم، قیمت کالا آن‌قدر بالا می‌رود که دیگر توان خریدش را ندارم.\n\n🔹با افزایش روز به روز قیمت‌ها، دیگر توان خرید جهیزیه را ندارم.",
       "media": [],
       "reactions": [],
-      "views_label": "22.2K",
+      "views_label": "24.2K",
       "posted_at": "2026-09-07T11:39:58+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356125",
@@ -385,7 +429,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.2K",
+      "views_label": "25.3K",
       "posted_at": "2026-09-07T11:33:21+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356124",
@@ -413,7 +457,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.3K",
+      "views_label": "25.3K",
       "posted_at": "2026-09-07T11:30:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356123",
@@ -441,7 +485,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.3K",
+      "views_label": "26.3K",
       "posted_at": "2026-09-07T11:24:53+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356122",
@@ -469,7 +513,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.3K",
+      "views_label": "25.4K",
       "posted_at": "2026-09-07T11:22:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356121",
@@ -497,7 +541,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.3K",
+      "views_label": "26.4K",
       "posted_at": "2026-09-07T11:16:42+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356120",
@@ -2693,50 +2737,6 @@
       "posted_at": "2026-09-06T19:55:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356036",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356035",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dua7-1F68YLJEFGTSTDkU4pbo7m29v_PUJo2Id0N3mpOijzM-Ub3dUhVIdGgiFiUhiPrQlMJKmZS7PXc6vsLzQw5lcMV_0vR2fRD2DKa3RDILk1oxcl2xdhmXItFOYchjDiDsgeLBQ_1T0LBPZcIoH3hZQWRinokn6_n3QMh3HeLQL1xTx-T4w5vhLmH_pMyugiDxZG96Q94OLXBePfpnJaSWRQdpdGWA29Z7E5pCPobtE0Sj7srHnvAGLaBDNDonYlFCLdCBSiGWmc2pRkrFtkr9og4kQ9w7KNWP8eu8Ze6jPWegnUYoPiQLkQNQtTHDMO_6IRz2XARr4G6gn_TuQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/ca7f2807f5839f47a1129d1b.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA7.png')\"><b>🎧</b></i>نسخه صوتی چشم‌انداز: دستورالعمل محرمانه جمهوری اسلامی به شبکه‌های ترور در خارج<br><a href=\"https://t.me/iranintlTV\" target=\"_blank\">@iranintlTV</a>",
-      "plain_text": "🎧نسخه صوتی چشم‌انداز: دستورالعمل محرمانه جمهوری اسلامی به شبکه‌های ترور در خارج\n@iranintlTV",
-      "media": [],
-      "reactions": [],
-      "views_label": "72.6K",
-      "posted_at": "2026-09-06T19:46:40+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356035",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356034",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dua7-1F68YLJEFGTSTDkU4pbo7m29v_PUJo2Id0N3mpOijzM-Ub3dUhVIdGgiFiUhiPrQlMJKmZS7PXc6vsLzQw5lcMV_0vR2fRD2DKa3RDILk1oxcl2xdhmXItFOYchjDiDsgeLBQ_1T0LBPZcIoH3hZQWRinokn6_n3QMh3HeLQL1xTx-T4w5vhLmH_pMyugiDxZG96Q94OLXBePfpnJaSWRQdpdGWA29Z7E5pCPobtE0Sj7srHnvAGLaBDNDonYlFCLdCBSiGWmc2pRkrFtkr9og4kQ9w7KNWP8eu8Ze6jPWegnUYoPiQLkQNQtTHDMO_6IRz2XARr4G6gn_TuQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/ca7f2807f5839f47a1129d1b.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "محسن رضایی، دبیر شورای عالی امنیت ملی، گفت اسرائیل توانسته بخش‌هایی از لبنان را بگیرد، اما به گفته او، لبنان دوباره «سر بلند می‌کند» و ضربه‌های «سخت و دردناکی» به اسرائیل وارد خواهد کرد.<br><br>رضایی در گفت‌وگو با صداوسیمای جمهوری اسلامی گفت: «این دفعه خشم بزرگی راه می‌افتد که نمی‌گذارد چیزی از اسرائیل بماند.» او افزود لبنان مانند غزه نیست که «از چهار طرف محاصره شود» و «عقبه‌هایی» دارد.<br><br>رضایی همچنین گفت جمهوری اسلامی ۴۸ ساعت پیش برای اولین بار یک موشک «خاص و ضدناوشکن» ایرانی را بالای سر یک ناو آمریکایی آزمایش کرده است و حق پاسخ به آنچه «حمله آمریکا به مراسم عروسی در کوهستک» خواند، برای خود محفوظ می‌داند.<br><a href=\"https://iranintl.com/202609064568\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609064568</a>",
-      "plain_text": "محسن رضایی، دبیر شورای عالی امنیت ملی، گفت اسرائیل توانسته بخش‌هایی از لبنان را بگیرد، اما به گفته او، لبنان دوباره «سر بلند می‌کند» و ضربه‌های «سخت و دردناکی» به اسرائیل وارد خواهد کرد.\n\nرضایی در گفت‌وگو با صداوسیمای جمهوری اسلامی گفت: «این دفعه خشم بزرگی راه می‌افتد که نمی‌گذارد چیزی از اسرائیل بماند.» او افزود لبنان مانند غزه نیست که «از چهار طرف محاصره شود» و «عقبه‌هایی» دارد.\n\nرضایی همچنین گفت جمهوری اسلامی ۴۸ ساعت پیش برای اولین بار یک موشک «خاص و ضدناوشکن» ایرانی را بالای سر یک ناو آمریکایی آزمایش کرده است و حق پاسخ به آنچه «حمله آمریکا به مراسم عروسی در کوهستک» خواند، برای خود محفوظ می‌داند.\nhttps://iranintl.com/202609064568",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356034",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/c91hzd78cS6Z6KDIaTVuhPcyqN7lDBvIhGvv1Qe1FZNzch85Q4Ne3RQAI6k-h7B2ZITmDJ-PJd502zdiBBcwQ0EJzbh72iVfDWO15gVcRr2cwzrIV0oYElj0VDN_-N6cZgCoDmeilWvjfhosV_xRJU8Fg_HQpDg3fuExzjbvtc3DabS5o8qZ1OCVtsHdc46sPjYUJjPd1R9grJktxNC2jT2otsbfxKSeH4DkaVk90SNFgqQ3AexoxbgcdNXJGKvllFwnKPZncoYorjKon8IFRCFse5j0FX1CYtSsWfiCscscedCUM0AU-nBfZbUIHu5aguZcm6cOnZ2-ToFdJ2LQMA.jpg",
-          "thumbnail_path": "channels/iranintltv/media/d3b0845c3b709fb441219402.jpg",
-          "thumbnail_sha256": "365cf16b78b7480d5e1ca13fcebda58c8bd52ed6374e34c4ff7c3004cc37407a",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "78.8K",
-      "posted_at": "2026-09-06T19:31:50+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356034",
       "reply": null
     }
   ]
