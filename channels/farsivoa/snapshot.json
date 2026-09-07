@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T21:37:06.576Z",
+  "fetched_at": "2026-09-07T21:42:00.635Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229801",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "بازتاب تنش‌های نظامی با جمهوری اسلامی و تاثیر آن بر انتخابات میان‌دوره‌ای در رسانه‌های آمریکا<br><a href=\"https://t.me/FardiVOA\" target=\"_blank\">@FardiVOA</a>",
+      "plain_text": "بازتاب تنش‌های نظامی با جمهوری اسلامی و تاثیر آن بر انتخابات میان‌دوره‌ای در رسانه‌های آمریکا\n@FardiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229801",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/ltAPtLXu0X4Kys_lfMXFmax1Q1IA6tL7FgSrrAbtvScQmx0DasJG90cKswShLMun0inTP0rSXPCbX0tQZ-NsAqpH45E5uQEf3Q6nsGom6CRCzrF7B_LJi-_EP1sqrJLs4QVQVjZh_xTZJOlsePYtDs8fsigGzeUIAx0Jenczd6vMRAI31ueSZ_C4u_yvP8d9pdB5yXNrZLYWKZPw3BljMgtghPBFLLRK9lvdQXSsQ-gk2pzMwOfpZGHGCSBc4GLiuDGZZqTiYIoOlxZvH9xZvI9YePUJNDj43gBJy12m-Lp2bw2BgotldGEO97FECqvbwZnt5eUrBGYUPExxLY_KdA",
+          "thumbnail_path": "channels/farsivoa/media/2b29937a3780cba1652ec77e.jpg",
+          "thumbnail_sha256": "0f327e0680500b97df015d9a2e4b01126f03a7f5cbe53ffa57e24a38127d1d98",
+          "duration_label": "3:47",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "163",
+      "posted_at": "2026-09-07T21:39:09+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229801",
+      "reply": null
+    },
     {
       "id": "farsivoa/229800",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "292",
+      "views_label": "515",
       "posted_at": "2026-09-07T21:32:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229800",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.45K",
+      "views_label": "1.61K",
       "posted_at": "2026-09-07T20:56:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229799",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.03K",
+      "views_label": "2.16K",
       "posted_at": "2026-09-07T20:41:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229798",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.22K",
+      "views_label": "2.34K",
       "posted_at": "2026-09-07T20:31:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229797",
@@ -133,7 +161,7 @@
       "plain_text": "🔴📢‌ پادکست میدان - دوشنبه ۱۶ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از\nنسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه\nسبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "2.91K",
+      "views_label": "3K",
       "posted_at": "2026-09-07T19:54:30+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229796",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.19K",
+      "views_label": "3.22K",
       "posted_at": "2026-09-07T19:31:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229795",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.13K",
+      "views_label": "3.19K",
       "posted_at": "2026-09-07T19:24:59+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229794",
@@ -205,7 +233,7 @@
       "plain_text": "🔺تداوم فشار حکومت بر مخالفان؛ بازداشت‌ معترضان و توقیف اموال بهائیان همچنان ادامه دارد\n\n▪️منابع و رسانه‌های حقوق بشری روز دوشنبه ۱۶ شهریور از تداوم فشار حاکمان جمهوری اسلامی بر معترضان و ادامه بازداشت‌ مخالفان حکومت در سرتاسر ایران خبر دادند و اعلام کردند ماموران حکومتی به توقیف اموال بهائیان ادامه می‌دهند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/bahai-national-security-arrest-detention-assault-battery-property-seizure-search-dadban-human-rights-charge-conviction--bah%C3%A1%CA%BC%C3%AD-faith/8195160.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.06K",
+      "views_label": "3.12K",
       "posted_at": "2026-09-07T19:20:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229793",
@@ -221,7 +249,7 @@
       "plain_text": "🔺پرزیدنت ترامپ: «بمباردیه» کانادا دیگر اجازه فروش محصولاتش در آمریکا را نخواهد داشت\n\n▪️دونالد ترامپ، رئیس‌جمهوری آمریکا، روز دوشنبه ۱۶ شهریور گفت شرکت هوافضای کانادایی «بمباردیه» دیگر اجازه فروش محصولات خود را در آمریکا را نخواهد داشت، مگر آنکه تولیدات خود را در ایالات متحده انجام دهد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/trump-us-canada-bombardier-gulfstream-aerospace/8195165.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "2.86K",
+      "views_label": "2.89K",
       "posted_at": "2026-09-07T19:14:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229792",
@@ -237,7 +265,7 @@
       "plain_text": "🔺دستمزدها در آمریکا از تورم پیشی گرفت؛ افزایش قدرت خرید کارگران در دوران پرزیدنت ترامپ\n\n▪️گزارش تازه‌ای بر پایه داده‌های رسمی اداره آمار کار آمریکا نشان می‌دهد متوسط دستمزد هفتگی کارگران در ایالات متحده طی یک سال گذشته اندکی سریع‌تر از تورم افزایش یافته، و قدرت خرید واقعی آنها، هرچند به میزان محدود، بهبود پیدا کرده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/us-wages-outpace-inflation/8195166.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "2.77K",
+      "views_label": "2.8K",
       "posted_at": "2026-09-07T19:10:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229791",
@@ -265,7 +293,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.84K",
+      "views_label": "2.87K",
       "posted_at": "2026-09-07T19:00:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229790",
@@ -293,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.05K",
+      "views_label": "3.09K",
       "posted_at": "2026-09-07T18:55:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229789",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.17K",
+      "views_label": "3.24K",
       "posted_at": "2026-09-07T18:50:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229788",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.11K",
+      "views_label": "3.14K",
       "posted_at": "2026-09-07T18:47:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229787",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.43K",
+      "views_label": "3.46K",
       "posted_at": "2026-09-07T18:36:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229786",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.42K",
+      "views_label": "3.46K",
       "posted_at": "2026-09-07T18:34:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229785",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.39K",
+      "views_label": "3.42K",
       "posted_at": "2026-09-07T18:26:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229784",
@@ -494,7 +522,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.52K",
+      "views_label": "3.56K",
       "posted_at": "2026-09-07T18:15:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229780",
@@ -2579,34 +2607,6 @@
       "posted_at": "2026-09-07T06:27:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229690",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229689",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "کیم جونگ اون، رهبر کره شمالی، گفت ناوشکن تازه این کشور بخشی از سامانه پاسخ هسته‌ای خواهد بود و می‌تواند «ضربه‌های تلافی‌جویانه نابودکننده» وارد کند.<br><br>خبرگزاری دولتی کی‌سی‌ان‌ای این را روز دوشنبه گزارش داد، اما نگفت آیا شناور سلاح هسته‌ای حمل می‌کند.<br><br>کیم در مراسم به‌کارگیری ناوشکن «کانگ کون» در بندر ونسان گفت استقرار شناور در دریای شرق شبه‌جزیره کره پیامی روشن به دشمنان می‌فرستد. او افزود: «زمان آن رسیده که حاکمیت خود را در دریا و زیر آب اعمال کنیم.»<br><br>کیم وعده داد ظرف هشت ماه مرحله تازه‌ای از تقویت نیروی دریایی را به نمایش بگذارد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "کیم جونگ اون، رهبر کره شمالی، گفت ناوشکن تازه این کشور بخشی از سامانه پاسخ هسته‌ای خواهد بود و می‌تواند «ضربه‌های تلافی‌جویانه نابودکننده» وارد کند.\n\nخبرگزاری دولتی کی‌سی‌ان‌ای این را روز دوشنبه گزارش داد، اما نگفت آیا شناور سلاح هسته‌ای حمل می‌کند.\n\nکیم در مراسم به‌کارگیری ناوشکن «کانگ کون» در بندر ونسان گفت استقرار شناور در دریای شرق شبه‌جزیره کره پیامی روشن به دشمنان می‌فرستد. او افزود: «زمان آن رسیده که حاکمیت خود را در دریا و زیر آب اعمال کنیم.»\n\nکیم وعده داد ظرف هشت ماه مرحله تازه‌ای از تقویت نیروی دریایی را به نمایش بگذارد.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229689",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/eW7l7BPpAs2VXkRU1hcSyXYKLCMEjioR6-sxS3EjIupSQJbLuhm7MPrauDV20zhRiSK99zd0Sl7NCMnAuAWnRnKGREozFx5_dCTZ9SfVPluQMHoliGvFRua8JxAtpjT7Hjp_OeHli345cdXW2Yuh2DxRapTVRQ5xllIvkW81QR-WJARoXOKW9WmQmNmq2kR7loQFIc1BnSkIHghglSfg5zYVNfpx5618yTyJu5BdJTL7CeNQ-ROxBPzJJ1R05mQhtOKzVR6aZxsr1xdDbD-azWIS-VI-U7ES93EQ1j9dKioXu4E0PRFObCVKzQnwbXp5knycdELZyRb0tIYCAadTDg.jpg",
-          "thumbnail_path": "channels/farsivoa/media/5fcc666877c48e8962b1ff7c.jpg",
-          "thumbnail_sha256": "1f751ba7ec628b97920bc7073a39b81eedaaf30e001c382e483dde49c1b79394",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.04K",
-      "posted_at": "2026-09-07T06:13:52+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229689",
       "reply": null
     }
   ]
