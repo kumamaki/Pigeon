@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T15:42:07.285Z",
+  "fetched_at": "2026-09-07T15:48:19.326Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,62 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229750",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "در یک گزارش تازه هشدار داده شده که روسیه ممکن است تا سال ۲۰۴۰ میلادی کنترل بیش از یک‌سوم اورانیوم استخراجی جهان را در اختیار داشته باشد. این موضوع، به ویژه در شرایطی که بریتانیا به دنبال گسترش انرژی هسته‌ای و کاهش وابستگی به روسیه است، می‌تواند خطری تازه برای غرب محسوب شود.",
+      "plain_text": "در یک گزارش تازه هشدار داده شده که روسیه ممکن است تا سال ۲۰۴۰ میلادی کنترل بیش از یک‌سوم اورانیوم استخراجی جهان را در اختیار داشته باشد. این موضوع، به ویژه در شرایطی که بریتانیا به دنبال گسترش انرژی هسته‌ای و کاهش وابستگی به روسیه است، می‌تواند خطری تازه برای غرب محسوب شود.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229750",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/qPW0wMzELdB5e65lZVO06fW5sbx-3pjOtQFDWZ0vrYzrGtyxsOTc33EIekx2av51ycbsVgLrepC8X3SKHGvX2fbEJiXhfp-glP65TnxP6NiWhRc1U1a8sxN8RHdH8eLL496Bi4ywLG4ASa0Gw-t1eupDuC3PryNZWQYgnbiJ2f_om4kdFk0VmdfeCwFfvU8WtQhobXdU5weljq_Z9HnL-6LBVpgmlIv56tN5SKgRy-E0IuGp6gNIZNZuOZLiwwWEmksfws7V2DqLPHm0pQKlBoZdUCR3SVhHOHV51utDIjBV71xL24cDIhpOiBjlLVpGZDNQtZ6aumc2WfS0QQMsqQ",
+          "thumbnail_path": "channels/farsivoa/media/12303db51fdcced483264f91.jpg",
+          "thumbnail_sha256": "ffdc3139d3c0a1e6b01ebb7841e102d80fe27148471aaa91b0de673c8f646d39",
+          "duration_label": "4:03",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "190",
+      "posted_at": "2026-09-07T15:45:56+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229750",
+      "reply": null
+    },
+    {
+      "id": "farsivoa/229749",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "روح‌الله رحیم‌پور در میدان: حکومتی می‌تواند دستیابی به انرژی هسته‌ای را حق مردم بخواند که پیش از آن برای شهروندانش حق داشتن اقتصادی قدرتمند، امنیتی پایدار و روابط بین‌المللی باثبات را قائل باشد.",
+      "plain_text": "روح‌الله رحیم‌پور در میدان: حکومتی می‌تواند دستیابی به انرژی هسته‌ای را حق مردم بخواند که پیش از آن برای شهروندانش حق داشتن اقتصادی قدرتمند، امنیتی پایدار و روابط بین‌المللی باثبات را قائل باشد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229749",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/qqzvBftoGTKix7j4GoBlY7aocZEeZq0sN2LOmHsW6rn0hmQR4gRPbPvTYyn0eVZsriCiBnuHBaMXgFqu3O_ft_BK0_wnURPRjYmD5Q95WameoV6nzyP_I7q85NWDFGrfR4rljq-ir5EWboFQ7-UyZLOxqhkHTXCBq8up-qoo5vJZixzBlLVZeid13d3R7JakvZY0jFIwgNfbTb8OyTBm6j0Yo7WqfyYGBE2oRigwcdJQigH7SHE_C1lKdV2ot6P00oIW5mBiZFUJ7HXhOR0BMM6OEKxbq6StOiqnEoTtj9DEnmQR13wCW9a8cXF6XBrrwNGB-BDYY_3oZOdsZfhxIg",
+          "thumbnail_path": "channels/farsivoa/media/7c3773469946e0f74af2350a.jpg",
+          "thumbnail_sha256": "3f8a466bb18095d892040b2124c720b666cf94b31d32ec256f67ecc8559b7a01",
+          "duration_label": "1:15",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "254",
+      "posted_at": "2026-09-07T15:43:56+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229749",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229748",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
@@ -21,7 +77,7 @@
       "plain_text": "🔺مایک جانسون: سیاست‌های جمهوری‌خواهان فرصت و درآمد بیشتری برای کارگران آمریکایی فراهم کرده است\n\n▪️مایک جانسون، رئیس مجلس نمایندگان آمریکا، روز دوشنبه ۱۶ شهریور، همزمان با روز کارگر در ایالات متحده، گفت کارگران آمریکایی «دوباره در حال پیروزی هستند»، و سیاست‌های جمهوری‌خواهان را عامل افزایش فرصت‌های اقتصادی و درآمد بیشتر برای خانواده‌های شاغل دانست.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/republicans-deliver-for-workers/8195095.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "224",
+      "views_label": "479",
       "posted_at": "2026-09-07T15:39:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229748",
@@ -37,7 +93,7 @@
       "plain_text": "🔺گردهمایی «هیلی ۲۰۲۶» در ابوظبی با تمرکز بر امنیت تنگه هرمز آغاز شد\n\n▪️به گزارش رسانه‌های امارات در روز دوشنبه ۱۶ شهریور، سومین اجلاس گردهمایی هیلی ۲۰۲۶ با عنوان «خلیج [فارس] بر سر دو راهی: درگیری‌ها، پیامدها و تصحیح روند» در ابوظبی آغاز شد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/emirates-hili-forum-security-studies-hormuz/8195090.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "382",
+      "views_label": "602",
       "posted_at": "2026-09-07T15:34:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229747",
@@ -65,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "587",
+      "views_label": "777",
       "posted_at": "2026-09-07T15:30:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229746",
@@ -93,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "892",
+      "views_label": "1.05K",
       "posted_at": "2026-09-07T15:20:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229745",
@@ -121,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.15K",
+      "views_label": "1.28K",
       "posted_at": "2026-09-07T15:12:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229744",
@@ -149,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.25K",
+      "views_label": "1.34K",
       "posted_at": "2026-09-07T15:04:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229743",
@@ -177,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.54K",
+      "views_label": "1.64K",
       "posted_at": "2026-09-07T14:48:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229742",
@@ -205,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.7K",
+      "views_label": "1.79K",
       "posted_at": "2026-09-07T14:41:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229741",
@@ -233,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.62K",
+      "views_label": "1.68K",
       "posted_at": "2026-09-07T14:37:29+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229740",
@@ -261,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.72K",
+      "views_label": "1.81K",
       "posted_at": "2026-09-07T14:31:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229739",
@@ -289,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.01K",
+      "views_label": "2.07K",
       "posted_at": "2026-09-07T14:17:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229738",
@@ -317,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2K",
+      "views_label": "2.06K",
       "posted_at": "2026-09-07T14:11:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229737",
@@ -345,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.26K",
+      "views_label": "2.35K",
       "posted_at": "2026-09-07T13:54:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229736",
@@ -361,7 +417,7 @@
       "plain_text": "🔺بسنت در روز کارگر: دستمزد واقعی آمریکایی‌ها از تورم پیشی گرفته است\n\n▪️اسکات بسنت، وزیر خزانه‌داری آمریکا، روز دوشنبه ۱۶ شهریور، هم‌زمان با «روز کارگر» در ایالات متحده، گفت دستمزد واقعی آمریکایی‌ها از نرخ تورم پیشی گرفته، و رشد دستمزد در میان کارگران کم‌درآمد سریع‌تر از افراد با درآمد بالاتر بوده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/bessent-us-labor-day-american-workers-income/8195055.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.3K",
+      "views_label": "2.34K",
       "posted_at": "2026-09-07T13:44:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229735",
@@ -377,7 +433,7 @@
       "plain_text": "🔺درگیری‌های یمن میان نیروهای دولتی و شورشیان حوثی به شمال شرق صنعا رسید\n\n▪️اخبار جدید از یمن حاکی از آن است که نیروهای دولتی جبهه جدیدی در شمال شرق صنعا، پایتخت یمن، علیه شورشیان حوثی باز کردند؛ و بخش دیگری از نیروهای دولتی در جنوب بندر استراتژیک الحدیده در حال پیشروی و عقب راندن حوثی‌ها هستند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/houthi-yemen-irgc-proxy-war-iran/8195045.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.2K",
+      "views_label": "2.27K",
       "posted_at": "2026-09-07T13:40:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229734",
@@ -393,7 +449,7 @@
       "plain_text": "🔺پرزیدنت ترامپ درباره نویسنده کتاب «ضدانقلاب»: او شاید من را از خودم بهتر می‌شناسد\n\n▪️دونالد ترامپ، رئیس جمهوری آمریکا، هر دو بخش مصاحبه مارک لوین، مجری و مفسر سرشناس، با ویکتور دیویس هانسون، مورخ و نویسنده آمریکایی، در شبکه فاکس نیوز را در تروت سوشال خود بازنشر کرد؛ گفت‌وگویی که محور اصلی آن کتاب تازه هانسون و توصیف او از پرزیدنت ترامپ به عنوان یک چهره «ضدانقلاب» در سیاست آمریکا بود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/president-trump-counterrevolution-interview-mark-levin/8195049.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.17K",
+      "views_label": "2.24K",
       "posted_at": "2026-09-07T13:33:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229732",
@@ -421,7 +477,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.1K",
+      "views_label": "2.17K",
       "posted_at": "2026-09-07T13:30:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229731",
@@ -437,7 +493,7 @@
       "plain_text": "🔺امارات: اجازه نمی‌دهیم صادرات انرژی ما «گروگان» درگیری نظامی با جمهوری اسلامی شود\n\n▪️امارات می‌گوید که با ایجاد مسیرهای جایگزین برای صادرات انرژی اجازه نخواهد داد این فعالیت‌ها در نتیجه درگیری‌های جاری با جمهوری اسلامی «گروگان» گرفته شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/uae-emirates-iran-us-iran-war-strait-hormuz/8195047.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.28K",
+      "views_label": "2.31K",
       "posted_at": "2026-09-07T13:23:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229730",
@@ -2381,50 +2437,6 @@
       "posted_at": "2026-09-06T18:33:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229649",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229648",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "پادکست تفسیر خبر - یکشنبه ۱۵ شهریور&nbsp;<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i>‌<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')\"><b>🛜</b></i>در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از <br>نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه <br>سبک وب‌سایت ما پیگیر باشید:<br><a href=\"https://ir.voanews.com/lite\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/lite</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i>بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:<br><a href=\"https://ir.voanews.com/satellite\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/satellite</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9494.png')\"><b>🔔</b></i>دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:<br><a href=\"https://linktr.ee/voafarsi\" target=\"_blank\" rel=\"noopener\">https://linktr.ee/voafarsi</a><br><br>با دوستانتان به اشتراک بگذارید<br><a href=\"https://t.me/farsivoa\" target=\"_blank\">@farsivoa</a>",
-      "plain_text": "پادکست تفسیر خبر - یکشنبه ۱۵ شهریور 🔴📢‌\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از\nنسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه\nسبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
-      "media": [],
-      "reactions": [],
-      "views_label": "3.38K",
-      "posted_at": "2026-09-06T18:32:49+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229648",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229647",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "گفت‌وگوی صدای آمریکا با لیزا میرا، مدیر «بنیاد جوانه‌های امید» و از پیشگامان امدادرسانی به کردها و به ویژه قربانیان داعش، در حاشیه «کنفرانس بین‌المللی روابط یهودیان و کردها» به میزبانی شبکه یهودیان کُرد با مشارکت مرکز مطالعات یهود‌ستیزی در لندن.",
-      "plain_text": "گفت‌وگوی صدای آمریکا با لیزا میرا، مدیر «بنیاد جوانه‌های امید» و از پیشگامان امدادرسانی به کردها و به ویژه قربانیان داعش، در حاشیه «کنفرانس بین‌المللی روابط یهودیان و کردها» به میزبانی شبکه یهودیان کُرد با مشارکت مرکز مطالعات یهود‌ستیزی در لندن.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229647",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/G9ihDVbvpLJJ4I_vxJpug7EPXmcJgDSPvt9eTqhGu-GTSQSImfaOJmlF7g0pZfEjyBFMDHWYA74VmAtoEVGmC0vMrByNOxisuV1gfVQx6ZJDqAfRHh_z0-ufKn1M-MHt-A7mKsmnPECFAV6uzbw_d9Ut-nEvyXR_7V3hgxUqq26t7fh7Ax2D-6fLLwtf3-f3brYkWl8gIyC8ewZuECH2W15vyoSuGpxmNToVPVCgcC32JRqafPHl-7wYgXj-NWnoKmiPGiZyvn6waFC9qpr_4bnMvpBF02tVJAQHAP0gGJDeG25EB1lblyi3wZwa2hXza3DZHLK81s0ZgkHMfxf2DA",
-          "thumbnail_path": "channels/farsivoa/media/8b76404c03038f8e8969e86f.jpg",
-          "thumbnail_sha256": "e12fd7a98f1f15a43a4afed90084d1df7579ee2368a02ccc8530fb1a85659993",
-          "duration_label": "4:24",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.97K",
-      "posted_at": "2026-09-06T18:32:39+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229647",
       "reply": null
     }
   ]

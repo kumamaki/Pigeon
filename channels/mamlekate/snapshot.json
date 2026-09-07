@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T15:42:10.422Z",
+  "fetched_at": "2026-09-07T15:48:23.067Z",
   "channel": {
     "username": "mamlekate",
     "title": "مملکته",
@@ -11,6 +11,139 @@
     "subscriber_count": "568K"
   },
   "posts": [
+    {
+      "id": "mamlekate/104366",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ZVNNlpWoKwkYBFouLcs_Pw4lKzSdPj7BUcq-WCAfe2zDrbgKBhUD37VZcO12mZ4OothvbZpVjUT-5g2ixUn6ZtLKtBRnJrfIa9aYHrETdhtqTiF6Yg64928z7b0n7h4TNFiKdHk3FcTz3xny5zLAbTZ-VarlLYIfm16tkWNL4sWnBJoGAz4un4YQDplR3yjJls96U6vnpnlgoTJTY-BxS0UIC4RWdg7BblsjFoe7Ec7jqIX27Ogh-CZMdSKXPQwNF6ODUhPKh_obvvcXBfbrDvhV1awU1Tml-senhn_FOeuiLtVl45fdIWei5jVSX7x1-VcXu9PK8279RGHEV6CX7Q.jpg",
+      "author_photo_path": "channels/mamlekate/media/a66c1a3300ad5823463961c8.jpg",
+      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D8%A7%D8%AA%D9%87%D8%A7%D9%85-%D8%AA%D8%B9%D8%B1%D8%B6-%DA%86%D9%86%D8%AF-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C-%D8%B9%D8%B1%D8%A7%D9%82%DB%8C-%D8%A8%D9%87-%DB%8C%DA%A9-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%A8%D9%87-%D8%AF%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%AE%D9%88%D8%A7%D8%A8%DA%AF%D8%A7%D9%87-%D8%A7%D9%86%D8%AC%D8%A7%D9%85%DB%8C%D8%AF-09-07\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>اتهام تعرض چند دانشجوی عراقی به یک دختر در سمنان به درگیری در خوابگاه انجامید</b></a><br><br>در پی طرح اتهام تعرض چند دانشجوی عراقی منتسب به حشد شعبی به یک دختر ایرانی، در محل اسکان دانشجویان عراقی دانشگاه سمنان درگیری رخ داد و شماری زخمی شدند. به‌دنبال این رخداد، دادگستری سمنان از شناسایی دو نفر از افراد دخیل در درگیری خبر داد.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a></div>",
+      "plain_text": "📝 اتهام تعرض چند دانشجوی عراقی به یک دختر در سمنان به درگیری در خوابگاه انجامید\n\nدر پی طرح اتهام تعرض چند دانشجوی عراقی منتسب به حشد شعبی به یک دختر ایرانی، در محل اسکان دانشجویان عراقی دانشگاه سمنان درگیری رخ داد و شماری زخمی شدند. به‌دنبال این رخداد، دادگستری سمنان از شناسایی دو نفر از افراد دخیل در درگیری خبر داد.\n\n@mamlekate",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104366?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/AhLN4tsTVbeqoCnNSva-CM3_5EhWIBrnlX93Z7yJjynmcXvyUjevUmTwCG7j-QMkZCW4tBFMtyLZqRa_fvN-OptGNo56HLdp9Kh1iSFDO3pW4SP8mabsF5hyUf5I482QNXwf4i-3YIgXURs-O_DnMvq5c-kgbVAqraGKoxoBWTzRMu4X-Mr7XXLkF8bFfjqVXg3KHmCBFCptQYTaripZIpnz9N0GC8HXBhAELtBxJiAFziuEmBqXc95rm_WaRW7eVL0a1JFy9QxMQfofquqbg91BteWkpE9He95TQ-otAdZdPzmC99I_WuDiUjJa7zRRKxpLerL6j6YTvpk1OTgdxQ",
+          "thumbnail_path": "channels/mamlekate/media/1d1f2490652c873983e8642b.jpg",
+          "thumbnail_sha256": "fd51a56f6cabc9dc9e8ad6b1388fcd9cb6f4a7d0358e0165c40b62583d0f1122",
+          "duration_label": "0:12",
+          "aspect_ratio": null
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104367?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/aDc-fcWsQ3V_JYySqGf4RkRoPM17Wf-fMrVxd1rQc81QCu3BEOdjk_kkDmDhX4IR-EBBT_wGmH36NJ-7w94nVrCQXwSts-XZz7az8s12GynCGY1j3IK7kww2lXCC0vjV1bfPD7IoziGy46inpunK9qu_DcJEHyOjaHwJwlutKc1aesR8uUpCa3qZ_tgL4dJfckY78Ytp2gJsllU-lHFI7jpTUblZj_ZWXgKAa7GT5O-8X3ZF-RDv96kOtFUC4hLt9VxRCsZom-j7wMsWkHdebU9HRPIzh4wJ5pmk7D2GQCpl-g1MizHd8P1z5nR9HcE1lvLEdlrdPxSwz_kyM3R83g",
+          "thumbnail_path": "channels/mamlekate/media/268169a405eb7d6cc1a50717.jpg",
+          "thumbnail_sha256": "af3226f3a19a8d8a5a2e10f43de233f525a81b9cdfe10de28bb57be154774503",
+          "duration_label": "1:25",
+          "aspect_ratio": null
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104368?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/msaq7zNf8vOWcCCgsS0rr7jib5OfUMoDMUHeh-vXXvtN-HxbnCnQBvSK13w8k_bfyEChp5eVKLiG2j8teH93J2TNkeuKyPF2DGLs8mD4azxaoClnHat7w7aR7VWcSkURWmQDCsCGg88BeCz2yNs1O09iuQ8b4PgmWieOTAij-ppYs3b-LrVMoBPUokc8NBkvdbs-I7bDO959q_eOIjC6MKbENADbOjyA-aQEqpqxXeec0IaEdh55iaeclJ0EPZ6wqqFaOGEvUS2qa7ZaZV9w4NIIw9ADJXHT1Qp9ONc0xB-h3XvJylUk1s2TYXfhSKlMLaW16KKpYZt24jnHJ5vwJA",
+          "thumbnail_path": "channels/mamlekate/media/19f0942759d4073ba7d1b5c8.jpg",
+          "thumbnail_sha256": "a6e04a1b710d07a12fc6707622805ea91bbef61c1be10d9ada7d1228857aa79c",
+          "duration_label": "0:13",
+          "aspect_ratio": null
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104369?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/fsL5q4ERNkoXn06PYvfGazzXybL-Yn2m-bE3tVie6xXqgyoPHE1dnvf8nal-h-KG6LtIPFiedBAAcOf5LJQvan1LYcY48dzY54At1sJjMKqxMtnTaLN3biaw-DTCBs4sVuiWNyrrWydNrEqWd--yDXHE_sYSXe5lgTXH3fa_F7FPbof_ZHdjvCA6fRIz4sUDfxAjcAPneQ5v4adKnYAlK_DO0DMJj8H9ITFx5LEk-Aq4oEzdjMckbN04iEhjmyMaWNvNGddS9fXutlQ2IGKxLAFLfMMe63Ctm2VUJqwvK_Vay-kxiJ9ILnwhtgEIwAThWLB10A6bAg0MLJQoPmOxVw",
+          "thumbnail_path": "channels/mamlekate/media/3ee36859afa08c51b0d5bcfe.jpg",
+          "thumbnail_sha256": "098d516ddbff9a90d65450508b27a649e9b352ee53c915bc53dfe793ef44d7c7",
+          "duration_label": "0:14",
+          "aspect_ratio": null
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104370?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/EvFNIboY8QQGpuzzHhOUgYXFD-CzS6Sb8DFfQlldgVBh5RaMYLlWpI-Qj-LdqVFKjSktvFpKk9deKBUNn3SoRTL36rkGBVY9a8cKUL852Yj7a7oehN5Yo7LufwapouDzvC5fEtScYx_C2cadFwE1hCaQBrrQHGjrIoRox_vJJcgHs4AnffLZS09p9-yce0PUJ7iukj9wEmwKV7KoScq0eBHO7kU2lk9om5FGxBBD9xFhpy3a9swoho723UAK7hfBAV-u6_i5WSfqJDEXVrUEy5DMfBvnFyCJWKkPdB19cw-1ogZpEnxXtn1g9kk4dsJbyCUL3V1y6uKDjhD_MwVDiQ",
+          "thumbnail_path": "channels/mamlekate/media/4848e91ffe1acdc848e9f94e.jpg",
+          "thumbnail_sha256": "5cf2d684b2c0b97ac84a770e5bb41b86b608a63b992af806b0f1a965cfec5d0c",
+          "duration_label": "0:34",
+          "aspect_ratio": null
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104371?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/XZ78e4ZYr32qnsrZMhnxcoXp5Qy7_dA3XShGFo9xB4GL36BkvgJrIwuxTn5jc0I6A-A8CTKWXujsshH6GwX1hXq3gag3zHbSqXwqMrHnRAZNJ2JPCcopPhTffHKh5II193bnEgaXDRh2BsAzJRftEY1pVL4Vt5gbT0RioYK1xtnM_R3uE0zBYF3Xe4E3zLzxMY1uBKpTmlv1zhTs-UhEZuJS-WQ7kdIAxUthSr5G4qcM1XaB7ifCqZdaQgFUzTyrYd1Goch__JHdOsDiGT7_JihbQMfBKCOwMme8eN7SJxZfIgUQ9Hbvq6n7QGsRVWCcaxlYvRsDJByrE0GqZfzh2A",
+          "thumbnail_path": "channels/mamlekate/media/444ed41a4577a5b0d56eb797.jpg",
+          "thumbnail_sha256": "17a638f18008c20f823cc8c6675e2216dd9d512cd6482970ff870538ab15903c",
+          "duration_label": "1:39",
+          "aspect_ratio": null
+        }
+      ],
+      "reactions": [],
+      "views_label": "4.51K",
+      "posted_at": "2026-09-07T15:44:02+00:00",
+      "edited": false,
+      "permalink": "https://t.me/mamlekate/104366",
+      "reply": null
+    },
+    {
+      "id": "mamlekate/104363",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ZVNNlpWoKwkYBFouLcs_Pw4lKzSdPj7BUcq-WCAfe2zDrbgKBhUD37VZcO12mZ4OothvbZpVjUT-5g2ixUn6ZtLKtBRnJrfIa9aYHrETdhtqTiF6Yg64928z7b0n7h4TNFiKdHk3FcTz3xny5zLAbTZ-VarlLYIfm16tkWNL4sWnBJoGAz4un4YQDplR3yjJls96U6vnpnlgoTJTY-BxS0UIC4RWdg7BblsjFoe7Ec7jqIX27Ogh-CZMdSKXPQwNF6ODUhPKh_obvvcXBfbrDvhV1awU1Tml-senhn_FOeuiLtVl45fdIWei5jVSX7x1-VcXu9PK8279RGHEV6CX7Q.jpg",
+      "author_photo_path": "channels/mamlekate/media/a66c1a3300ad5823463961c8.jpg",
+      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D9%82%D8%AA%D9%84-%D8%B1%D9%BE%D8%B1-%DB%B2%DB%B1-%D8%B3%D8%A7%D9%84%D9%87-%D8%AF%D8%B1-%D8%B2%D9%86%D8%AF%D8%A7%D9%86-%D8%AF%D8%B3%D8%AA%DA%AF%D8%B1%D8%AF-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9%D8%A7%D9%86-%D8%B9%D8%B1%D9%81%D8%A7%D9%86-%D9%85%DB%8C%D8%B1%D8%B2%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%B4%DA%A9%D9%86%D8%AC%D9%87-%D8%B4%D8%AF%DB%8C%D8%AF-%D9%85%DB%8C%DA%AF%D9%88%DB%8C%D9%86%D8%AF-09-07\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>قتل رپر ۲۱ ساله در زندان دستگرد؛ نزدیکان عرفان میرزایی از «شکنجه شدید» می‌گویند</b></a><br><br>عرفان میرزایی، خواننده جوان موسیقی رپ و از بازداشت‌شدگان اعتراض‌های&nbsp;ملی دی‌ماه ۱۴۰۴، به گفته نزدیکانش پس از ماه‌ها بازداشت و تحمل شکنجه و ضرب‌وشتم شدید در زندان دستگرد اصفهان، کشته شده است.<br><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i>  مراسم خاکسپاری: دوشنبه ۱۶ شهریور، ساعت ۹ صبح، روستای غرغن شهرستان فریدن<br><br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a></div>",
+      "plain_text": "📝 قتل رپر ۲۱ ساله در زندان دستگرد؛ نزدیکان عرفان میرزایی از «شکنجه شدید» می‌گویند\n\nعرفان میرزایی، خواننده جوان موسیقی رپ و از بازداشت‌شدگان اعتراض‌های ملی دی‌ماه ۱۴۰۴، به گفته نزدیکانش پس از ماه‌ها بازداشت و تحمل شکنجه و ضرب‌وشتم شدید در زندان دستگرد اصفهان، کشته شده است.\n\n\n📝 مراسم خاکسپاری: دوشنبه ۱۶ شهریور، ساعت ۹ صبح، روستای غرغن شهرستان فریدن\n\n\n@mamlekate",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/mamlekate/104364?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/EGQBLTG0_8r8AHIn2wPsgtomjVlXbohWf3BftmwWy_YKQTYLqqa7IKxp4JYjd4lwlPG-_TUoJetThqvZB8VykbB-gPm8I5u7OPl9_IW7kadEQgivIxsC229E7nYgp2STlbc_GPM3FlgN1iBvjYzeSSh9Fb6R1JDngG3k2J_-1Tnaz3cdg4Vy7WCeWh9nQQ69ojrVtukXOeBYKzEfEv9J8Dyu-xssf9UwThyJfbr_sXykDq28j7RBo3GpxBtsK87i73ORwprem54kJ44_VzGakgR651ZhUhc_37rTXvuK527LnJ3ZnA_RwB2k9E9PmQb2MDJZyk9gKZBSNspHn0zKxg.jpg",
+          "thumbnail_path": "channels/mamlekate/media/3927b8251bd3e07e822036bc.jpg",
+          "thumbnail_sha256": "c9b7cd3781ef7800a700d45fbc7aa43b9fa18854e57f27100f96886fd04f15f6",
+          "duration_label": null,
+          "aspect_ratio": 0.695
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/mamlekate/104365?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/dpsjVVGgPJ2SWwjMepmlV4pUMevQtkj4LHh5BAr4sd8IO2fdK2JbNZyRPH3k_cDCnmBaZDhi_DW2rE9Miy3fHye0mH0G8wFNkRciPPkx4rl_MPEObTvZWmAHatZKzg8rQ9IqF8269Eg0qSEgd65WSu54ZC0DzP5BsWs8iTE-QGbtWK9DUnaYLmrDPPMqL5CmLMB6bJFuLhRDwbXiMeOjRZXOMmTzZ4fjX8kWo-d2_e-yI_qGhBxT99yhG4vZi-k6I4kEXstQgr-oXX4AnSpiRrLK8UCfCEHBTXVd-BnnH69NNRykc1b1LfZqmEEy4SynganiFI-W4lsvKoijiqKwvQ.jpg",
+          "thumbnail_path": "channels/mamlekate/media/bec33e25ebec2a4ad4b4d9c9.jpg",
+          "thumbnail_sha256": "18bf4256c1fa7675b8286c9dfd5592d25d768f2991a8540616c286805250914c",
+          "duration_label": null,
+          "aspect_ratio": 1.4545454545455
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104363?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/TYxVD7rSCMVjH8dDFl6IyTACs2ULpfy18KU4ibP-tUHW1FY-0ZWViWCG6DbCSNuuTgC69H2SAzUiIdJNQKLcWk_5g9ISIjq4OZ2p_9WwbgM9xtZ4cTkR9F5k8h_DfdBz432JavHVLXzc_sCWfNQeyrkLwL407xYuFL8tp8Aar2Isvy67kq0z9fOegA0Ia4Hw6yXBEwu1ziA4pZiFx28yKYdLNO8g8ItFmio2_UwVMXMMNXLs7A1SpVX8b5o1nTB3YOrgBJ_OwHVSeU3ReUPyY5e1HZozExkKKv1hrwCJrD2GCCUSBz-rULCMExRIXIEoBgTQRwWu9-7Ln259W7WO0g",
+          "thumbnail_path": "channels/mamlekate/media/38a260e2cf46010551abb7d8.jpg",
+          "thumbnail_sha256": "358357725394e6daf74fd5d4f883becfbc1bf664eeb3acbdc8c4e7cb07b8cb64",
+          "duration_label": "1:00",
+          "aspect_ratio": null
+        }
+      ],
+      "reactions": [],
+      "views_label": "3.89K",
+      "posted_at": "2026-09-07T15:43:39+00:00",
+      "edited": false,
+      "permalink": "https://t.me/mamlekate/104363",
+      "reply": null
+    },
     {
       "id": "mamlekate/104361",
       "author_name": "مملکته",
@@ -49,7 +182,7 @@
           "count": "4"
         }
       ],
-      "views_label": "52.6K",
+      "views_label": "54.5K",
       "posted_at": "2026-09-07T12:10:26+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104361",
@@ -88,7 +221,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "85.2K",
+      "views_label": "85.9K",
       "posted_at": "2026-09-07T07:04:17+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104359",
@@ -104,7 +237,7 @@
       "plain_text": "📝 حزب «آلترناتیو برای آلمان» در انتخابات ایالتی پیروز شد، اما اکثریت را به دست نیاورد\n\nحزب راست‌گرای «آلترناتیو برای آلمان» با کسب ۴۳.۸ درصد آرا در انتخابات ایالت زاکسن-آنهالت به پیروزی رسید، اما سه کرسی تا اکثریت مطلق فاصله دارد. شکست سنگین حزب فریدریش مرتس، تشکیل دولت باثبات در این ایالت را دشوار کرده است.\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "85.8K",
+      "views_label": "86.2K",
       "posted_at": "2026-09-07T06:16:36+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104358",
@@ -132,7 +265,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "83.7K",
+      "views_label": "84K",
       "posted_at": "2026-09-07T06:10:56+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104357",
@@ -2698,50 +2831,6 @@
       "posted_at": "2026-08-26T11:15:36+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104241",
-      "reply": null
-    },
-    {
-      "id": "mamlekate/104240",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DVvF2t0dXz1LaQipMYLSOuS8FnJveeVgkljAet94VVaZlo3hi7M4taMLSPJ4OcqxGW6jcyGyYKVk7dIF0uqa2nE6uq3PxlKTRhDTwQPi3X7J_0PGCv2v5ohXgEdP-kgLTiX9cXf2qGLccR5NCOxNwunSDfUFcMYY0F2jsHZqXPC0lYXWTYWviS8z_jlAVj0eA2NVwZFjY0zm0FSB1d9JIDKmgiVNuOV2fHM3hLKpVLiGKeR9UOrehJ3H9so5BS740SBksDW0AUGxOOyq9s90kxB4wNv8xmrDpeaRuXdxdfKved8wy_jERXm1jJHVhJOgqGZs_eXsLSkC6elhkEUiEw.jpg",
-      "author_photo_path": "channels/mamlekate/media/6e42bdc14bb88d268a7cc10d.jpg",
-      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D8%AA%D8%A7%D9%86%DA%A9%D8%B1-%D8%AA%D8%B1%DA%A9%D8%B1%D8%B2-%D8%A7%D8%B2-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A8%D9%87-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%AF%D8%B3%D8%AA%DA%A9%D9%85-%DB%B2%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%A8%D8%B4%DA%A9%D9%87-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C-%D8%B9%D9%85%D8%A7%D9%86-%D8%AE%D8%A8%D8%B1-%D8%AF%D8%A7%D8%AF-08-26\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>تانکر ترکرز از عملیات کشتی‌ به کشتی دست‌کم ۲۵ میلیون بشکه نفت در دریای عمان خبر داد</b></a><br><br>شرکت ردیابی نفتکش‌ها، تانکر ترکرز، از اوج‌گیری عملیات انتقال محموله‌های نفتی از یک کشتی به کشتی دیگر در دریای عمان خبر داده است.<br><br>بر اساس این گزارش روز گذشته دست‌کم ۱۵ عملیات انتقال کشتی‌ به ‌کشتی حدود ۲۵ میلیون بشکه نفت خام و فرآورده‌های نفتی در دریای عمان انجام شده است.<br>این گزارش می‌افزاید این محموله‌ها تقریباً از تمام کشورهای منطقه، به‌جز ایران، منشأ گرفته است.<br><br>کشورهای منطقه با کمک نیروهای دریایی آمریکا، نفت خود را پنهانی و با استفاده از کشتی‌هایی که سیستم شناسایی خودکار خود را خاموش کرده‌اند، راهی دریای عمان می‌کنند و این محموله‌ها از آنجا با انتقال به نفتکش‌های دیگر، راهی بازارهای جهانی می‌شود؛ روشی که پیشتر خود جمهوری اسلامی برای صادرات پنهانی نفت استفاده می‌کرد اما از زمان محاصره دریایی آمریکا صادرات نفتش کلا متوقف شده است.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
-      "plain_text": "📝 تانکر ترکرز از عملیات کشتی‌ به کشتی دست‌کم ۲۵ میلیون بشکه نفت در دریای عمان خبر داد\n\nشرکت ردیابی نفتکش‌ها، تانکر ترکرز، از اوج‌گیری عملیات انتقال محموله‌های نفتی از یک کشتی به کشتی دیگر در دریای عمان خبر داده است.\n\nبر اساس این گزارش روز گذشته دست‌کم ۱۵ عملیات انتقال کشتی‌ به ‌کشتی حدود ۲۵ میلیون بشکه نفت خام و فرآورده‌های نفتی در دریای عمان انجام شده است.\nاین گزارش می‌افزاید این محموله‌ها تقریباً از تمام کشورهای منطقه، به‌جز ایران، منشأ گرفته است.\n\nکشورهای منطقه با کمک نیروهای دریایی آمریکا، نفت خود را پنهانی و با استفاده از کشتی‌هایی که سیستم شناسایی خودکار خود را خاموش کرده‌اند، راهی دریای عمان می‌کنند و این محموله‌ها از آنجا با انتقال به نفتکش‌های دیگر، راهی بازارهای جهانی می‌شود؛ روشی که پیشتر خود جمهوری اسلامی برای صادرات پنهانی نفت استفاده می‌کرد اما از زمان محاصره دریایی آمریکا صادرات نفتش کلا متوقف شده است.\n\n@mamlekate",
-      "media": [],
-      "reactions": [],
-      "views_label": "127K",
-      "posted_at": "2026-08-26T10:05:21+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mamlekate/104240",
-      "reply": null
-    },
-    {
-      "id": "mamlekate/104239",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DVvF2t0dXz1LaQipMYLSOuS8FnJveeVgkljAet94VVaZlo3hi7M4taMLSPJ4OcqxGW6jcyGyYKVk7dIF0uqa2nE6uq3PxlKTRhDTwQPi3X7J_0PGCv2v5ohXgEdP-kgLTiX9cXf2qGLccR5NCOxNwunSDfUFcMYY0F2jsHZqXPC0lYXWTYWviS8z_jlAVj0eA2NVwZFjY0zm0FSB1d9JIDKmgiVNuOV2fHM3hLKpVLiGKeR9UOrehJ3H9so5BS740SBksDW0AUGxOOyq9s90kxB4wNv8xmrDpeaRuXdxdfKved8wy_jERXm1jJHVhJOgqGZs_eXsLSkC6elhkEUiEw.jpg",
-      "author_photo_path": "channels/mamlekate/media/6e42bdc14bb88d268a7cc10d.jpg",
-      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA6.png')\"><b>🎦</b></i> <b>دلیل کمبود بنزین مشخص شد</b><br><br><i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AB.png')\"><b>▫️</b></i>با کمبود ساختگی بنزین و بی‌کیفیت کردن بنزین، قصد توجیه گرون کردنش رو دارن<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AB.png')\"><b>▫️</b></i> قرار بود آمریکاییا برن تو صف بنزین<br>بنزینا رو فرستادن روسیه، مردم ایران رفتن تو صف<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AB.png')\"><b>▫️</b></i> بحران به بحران به بحران که برن جلو، سواری کشیدنشون از گرده مردم ادامه پیدا می‌کنه. بحران نباشه، بساط فساد و مفت‌خوری تعطیله و باید کار کنن و بسازن</i><br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
-      "plain_text": "🎦 دلیل کمبود بنزین مشخص شد\n\n\n▫️با کمبود ساختگی بنزین و بی‌کیفیت کردن بنزین، قصد توجیه گرون کردنش رو دارن\n\n▫️ قرار بود آمریکاییا برن تو صف بنزین\nبنزینا رو فرستادن روسیه، مردم ایران رفتن تو صف\n\n▫️ بحران به بحران به بحران که برن جلو، سواری کشیدنشون از گرده مردم ادامه پیدا می‌کنه. بحران نباشه، بساط فساد و مفت‌خوری تعطیله و باید کار کنن و بسازن\n\n@mamlekate",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104239",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/fuKlQ3QrIyB8pp16gGNwqWU-GHrN--afMnWzoNnz8cLU8xiZT3PP6Pee9FegdaSILDMK71_OEe5iAuYy3jx3fLzTs0mBf4U37nss8H3heG-r6Ds2_YX3WJ_6XNp5clEl9X05BEJnUx3IYrXXUr1adXaky4NaUwC_mgveZcGpNkMv653ts1YSfX5D7VVIN9yxGjVw9r-ArvxtUzMMi1gZbutcLoddlNN8i75iX4cezfsqU_99SOPfAKpLsHKJrEYclrIFmH9dO1G_uOAlC1Vhy40YttsA2VcHi8TWNLEwYWNdXzDNPwNd68MZLdu4MjGXUgKRr5XAiMqCwJJQxXmgPQ",
-          "thumbnail_path": "channels/mamlekate/media/5efec80250c215b5dc9b269f.jpg",
-          "thumbnail_sha256": "44e0ac238d0de6a0f0922c3dcd2f92d02253df7dc599a87f3ac281e4079b857d",
-          "duration_label": "0:58",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "131K",
-      "posted_at": "2026-08-26T09:07:00+00:00",
-      "edited": true,
-      "permalink": "https://t.me/mamlekate/104239",
       "reply": null
     }
   ]
