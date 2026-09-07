@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T10:32:18.798Z",
+  "fetched_at": "2026-09-07T10:37:15.007Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12669",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/fMVnOc1uSucjuboT6V0k7ELXy0-AF7uXhfQKrT0ABzO4YzNvYVYnhQDl9twI5SD7s_WY23CPVzE1kCYrgwBE-c0afmMRE4w0x1v9fJg2JPujS6glrH0OikU9oZB7LN90gFgqsYvcd6hcSfUWJGw9K7p7qJGl0c1YSpXmSrRkUabxYJw4-0ABlI1K019Rc4i4hddSvcxPaBcfBxscaRfeZ2IAghENZ4crQZSKfSCyu-vReE4p-qu7FL3BVKVpjlewu9IH_c86Ie703hT2oR8BPw-_W35Ebf76o_in2_h7S0lirkU8mZyQ9oCUpBRTYO2xsEYmfY7qyRK21qYFBO7xfA.jpg",
+      "author_photo_path": "channels/iranlix/media/d6f23b233b51f82bbdb3cdba.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>کاتز،وزیر دفاع اسرائیل:<br></b><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>دستورالعمل‌هایی را برای ارتش اسرائیل صادر کرده‌ایم تا برای یک جنگ تمام‌عیار علیه رهبران تشکیلات خودگردان، نهادهای آن و گروه‌های مرتبط با آن، و همچنین تمام زیرساخت‌های نظامی در کرانه باختری، آماده شوند. <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>هدف، پایان دادن کامل و سریع به این تهدید است، در صورتی که به طور قطعی مشخص شود که آن‌ها در حال آماده‌سازی برای یک حمله مشابه حمله ۷ اکتبر علیه نیروهای ارتش و سکونتگاه‌های یهودی هستند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>سیاست ما در کرانه باختری روشن است: مقابله قاطعانه با تروریسم فلسطینی، توسعه و تقویت سکونتگاه‌های یهودی، و حفظ ثبات امنیتی.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔻کاتز،وزیر دفاع اسرائیل:\n\n▪️دستورالعمل‌هایی را برای ارتش اسرائیل صادر کرده‌ایم تا برای یک جنگ تمام‌عیار علیه رهبران تشکیلات خودگردان، نهادهای آن و گروه‌های مرتبط با آن، و همچنین تمام زیرساخت‌های نظامی در کرانه باختری، آماده شوند.\n\n▪️هدف، پایان دادن کامل و سریع به این تهدید است، در صورتی که به طور قطعی مشخص شود که آن‌ها در حال آماده‌سازی برای یک حمله مشابه حمله ۷ اکتبر علیه نیروهای ارتش و سکونتگاه‌های یهودی هستند.\n\n▪️سیاست ما در کرانه باختری روشن است: مقابله قاطعانه با تروریسم فلسطینی، توسعه و تقویت سکونتگاه‌های یهودی، و حفظ ثبات امنیتی.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/12669",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/efNOpkQsLmekeASqwycHe2DjN1ktYfsr7WSc-S0k10bh0kN9gqFjbxOT2mgchQKHT4pgDOgTyhmrU7pa9E_xUJ54E596avY7YPRhXR9aU76GsuH7vg69CqTTf_Xu7zoX_q4sg2_lMt5tauXis1bjPYHqoWQPVKFxtUGPr8XA2QhJBv4PskhErClRSWN5Usfh4he81eWtsS4B_bfma6JWkv4JtxwfxvuC1ZOtb4efPS37G5FMSmLDXSjIFZIUg9IXoIZAQVgrrkbwlTclciOW8vj0eAgnGAArzVinzPUt-4jcR30YlK8R4CTMArZleHDvKgDwnhlc5_f6gKBDMjxJFw.jpg",
+          "thumbnail_path": "channels/iranlix/media/7c42dcaf87afbbe3d55b37f3.jpg",
+          "thumbnail_sha256": "625fdfc3500f3ba234751f6646501a2881d0965024c8b6b97f8a248e4f731bee",
+          "duration_label": null,
+          "aspect_ratio": 1.4986301369863009
+        }
+      ],
+      "reactions": [],
+      "views_label": "33",
+      "posted_at": "2026-09-07T10:34:30+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12669",
+      "reply": null
+    },
     {
       "id": "iranlix/12668",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "158",
+      "views_label": "220",
       "posted_at": "2026-09-07T10:17:52+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12668",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "251",
+      "views_label": "283",
       "posted_at": "2026-09-07T10:06:00+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12667",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "435",
+      "views_label": "438",
       "posted_at": "2026-09-07T09:32:56+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12666",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "466",
+      "views_label": "499",
       "posted_at": "2026-09-07T09:22:23+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12665",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "522",
+      "views_label": "553",
       "posted_at": "2026-09-07T09:09:05+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12664",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "563",
+      "views_label": "594",
       "posted_at": "2026-09-07T08:50:58+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12663",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "633",
+      "views_label": "664",
       "posted_at": "2026-09-07T08:19:37+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12662",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "707",
+      "views_label": "738",
       "posted_at": "2026-09-07T07:43:56+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12661",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "691",
+      "views_label": "692",
       "posted_at": "2026-09-07T07:42:48+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12660",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "823",
+      "views_label": "824",
       "posted_at": "2026-09-07T06:45:15+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12659",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "858",
+      "views_label": "859",
       "posted_at": "2026-09-07T06:24:00+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12658",
@@ -2848,34 +2876,6 @@
       "posted_at": "2026-09-04T20:49:01+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12568",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12567",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/VK7UxP3xK7XXY_E9qNcDJ9R-ugu8Kqr7hzd-V0Osm8FpZUxtY4hXl4rV0HsqaChh7d8JSJjgFWTh5WIRkwxmi-z7LWuC_etM9QCxqe6lmIh9aDtiHHDYBpAW0-0H_AVdL1YEM683dsoUj2w8l1NOtudtgUcDRAsQo1ZOQp_6nC8orT5o9026LgcHj_uJLQZ2u0tTjug-6Lhs-pJLX7MPK0tW3JQkNF4aE-MhuIPm6DDcI8Sw9TBAhYCXoWJqkUpgxeNNuaxB6X9jzyB0zY_R2x6tcaz8EDuoySW9KALS3r8g9tGuy9SUlSsE_QaNLXNdEWB7vVSlxHr5PIHEugIN4A.jpg",
-      "author_photo_path": "channels/iranlix/media/1fe3bf02c3c024640c615e89.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i><b>ارتش اسرائیل:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>یک موشک شلیک‌شده از سوی حزب الله به سمت نیروهای ما در منطقه امنیتی را رهگیری کردیم و در حال حاضر در حال پاسخ‌دهی با حملات هوایی هستیم.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "💢ارتش اسرائیل:\n\n🔺یک موشک شلیک‌شده از سوی حزب الله به سمت نیروهای ما در منطقه امنیتی را رهگیری کردیم و در حال حاضر در حال پاسخ‌دهی با حملات هوایی هستیم.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/12567",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/LlyzP4sUROxmd4bSQdGEnLT3BkZvXoPPk5Z3-ZQePBkcIyqI41RKrbyMWAyRRt69vNSBEKC0wynhjGYDO0PY0JsdjyXvGanChH9u7NmdM96WbJAo9-whi3Y-_whqLBbMeAUihUmH06RPzVaeU1Sj66TMHUxcQ27mwWlHikKlzxKfhGeWAb_549UHXyrqy726zjidBtygMv36BrA1aLB8MV-DKu3WuaZ7ypQMfjholKdU6br_VeYqtlrYFiXT6TO9K4kCDkew4rKjFPoIWHGP6D376cMd0XrN0YPhrYTlG2cu4zJwt7AsdmpJEcNBn7uopgjUX5k-iOyIGl7c9-ntCQ.jpg",
-          "thumbnail_path": "channels/iranlix/media/89c61dd7dd874e9ae508ae75.jpg",
-          "thumbnail_sha256": "b64f727ade3c7acd2692ea8797d282479af8de49020ead16799f7318bdcd9e2a",
-          "duration_label": null,
-          "aspect_ratio": 1.5023474178403755
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.39K",
-      "posted_at": "2026-09-04T20:19:38+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12567",
       "reply": null
     }
   ]
