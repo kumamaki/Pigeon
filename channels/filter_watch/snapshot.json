@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T09:37:13.448Z",
+  "fetched_at": "2026-09-07T09:42:13.997Z",
   "channel": {
     "username": "filter_watch",
     "title": "فیلتربان",
@@ -26,7 +26,7 @@
           "count": "6"
         }
       ],
-      "views_label": "460",
+      "views_label": "462",
       "posted_at": "2026-09-06T17:18:06+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1901",
@@ -55,7 +55,7 @@
           "count": "1"
         }
       ],
-      "views_label": "524",
+      "views_label": "525",
       "posted_at": "2026-09-04T12:18:41+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1900",
@@ -92,7 +92,7 @@
           "count": "3"
         }
       ],
-      "views_label": "471",
+      "views_label": "472",
       "posted_at": "2026-09-03T15:38:25+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1899",
@@ -117,7 +117,7 @@
           "count": "1"
         }
       ],
-      "views_label": "622",
+      "views_label": "623",
       "posted_at": "2026-09-03T14:29:14+00:00",
       "edited": true,
       "permalink": "https://t.me/filter_watch/1898",
@@ -549,8 +549,8 @@
           "asset_url": "https://t.me/filter_watch/1884",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/fPF5wATmOQ0jwzeyBaXVVTv8-GAc5ZxizFTo90xEV_k5Kbi8ZgJtlWfe4qezja9OyjbFO2FzesXGdPyQBsrG1WlGvyLr-k2HEvNG_rc9jE7Hto-Z-q380zCcVcr8JhGClNJXTcFBrtpi1AL9LemN_ZsTUO0_EdHHjjJHXXQ1xto6YOMsXxDYBbW79SOaNJ9QATb5x9DeO4kDDoW5oViFQuBmYOXYYPwCP6bcre4dLD7fS41M0X3zM3dYYkaXO66Wp5AG9C5PMMRG682wQUxAdkJ5XDbG-K-qtvuCcMikWhgn-fugFAXLsTEqs9b7sTltUaKjvkAUT_10QyKfmAE-Jg.jpg",
-          "thumbnail_path": "channels/filter_watch/media/843acf5fa127a199343df26f.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/dAwG9YRD3mcmUeQOVcAIM5uDCYjRDbcq3irlamUQzRv1gpmDI2GnqkDNuJ396PVRRRIfRx4PoREvOE_4yA2lYXgFUf0aS72MqZ1Sf-ljnF9A_CbH_RbSXkbfZWC2of7x1xihnUzwyMecRfIH0-ZQQ6rNme4QOJTsTLcEQclP2AKLzV1Igg6VGnAU7G1RAmZ3Z1ZPszTzoADzGNkToguZ6S8oX12EH8lx4BIiENHIDC5h-xV8okQplzxfS7a3Hgv1shJklrKcmI25vTEEIPbGTi3UOLBqRzATpdePjMRmexo7tJaDMlMO3et8v7pg_DI1ZexUQq_c_RVrFvazaHapjA.jpg",
+          "thumbnail_path": "channels/filter_watch/media/d41c5512a527fba121bd23e5.jpg",
           "thumbnail_sha256": "7f8611ed66352868272a0a5cf545f7ffda314fa3a439be8995fc20f800da9a3e",
           "duration_label": null,
           "aspect_ratio": 0.8
