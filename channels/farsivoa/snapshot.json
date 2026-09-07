@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T10:47:12.327Z",
+  "fetched_at": "2026-09-07T10:52:10.091Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229711",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "بازنشستگان مخابرات کردستان دوباره به خیابان آمدند؛<br><br>بازنشستگان مخابرات استان کردستان در ادامه اعتراضات صنفی خود تجمع کردند و نسبت به تداوم مشکلات معیشتی، معوقات پرداخت‌نشده و نابسامانی بیمه تکمیلی اعتراض کردند.<br><br>معترضان تأکید کردند اجرای آیین‌نامه ۸۹/۲۴ و پرداخت کامل مطالبات سال‌های گذشته همچنان روی زمین مانده و شرکت مخابرات باید درباره تعهدات مالی خود پاسخ‌گو باشد.<br><br>آنها همچنین سهامداران عمده شرکت، از جمله ستاد اجرایی و کنسرسیوم اعتماد مبین سپاه، را به اجرا نکردن تعهدات در قبال بازنشستگان متهم کردند<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "بازنشستگان مخابرات کردستان دوباره به خیابان آمدند؛\n\nبازنشستگان مخابرات استان کردستان در ادامه اعتراضات صنفی خود تجمع کردند و نسبت به تداوم مشکلات معیشتی، معوقات پرداخت‌نشده و نابسامانی بیمه تکمیلی اعتراض کردند.\n\nمعترضان تأکید کردند اجرای آیین‌نامه ۸۹/۲۴ و پرداخت کامل مطالبات سال‌های گذشته همچنان روی زمین مانده و شرکت مخابرات باید درباره تعهدات مالی خود پاسخ‌گو باشد.\n\nآنها همچنین سهامداران عمده شرکت، از جمله ستاد اجرایی و کنسرسیوم اعتماد مبین سپاه، را به اجرا نکردن تعهدات در قبال بازنشستگان متهم کردند\n\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229711",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/nfvJgTGMZYCTzdCN1UUku9GhIk9A5nuLc4j6DBBeu9srZeBC-wE0yvSZI4X-yps0GzVujfh-H5-gV2gPS4pIDxMYFSOdJpgpbFEt7wvhhlfZIMdn5-9CnmLWftOGCt6mOEOygq5CxsdiWEdSpn42u-9SPNT_kFqRVYyYJHYcjV09bryD7h_VUMuncmppXOg5lZw6Od4RfVnE-llFbW-FXeAe_cjdNQ9ngK2hn0IekFT6vCu4svG2d-1w90jsCyQUPv2DoxaG5S6cXyRrxhDYcRK924bi30cbq7CovFNGdDho13djfJHtg6ADpkdJjIxzfKhRJ3m251fqvEmZcmk0zA",
+          "thumbnail_path": "channels/farsivoa/media/e17a0cc6ab787ded846d7875.jpg",
+          "thumbnail_sha256": "56c43f00c42e881d4ebe2c1798813b2e160b2ac4b0cae0681535d18c558749de",
+          "duration_label": "0:20",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "189",
+      "posted_at": "2026-09-07T10:48:17+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229711",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229710",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺ثبت ده‌ها مورد نقض حقوق زنان طی یک ماه در ایران\n\n▪️سازمان حقوق بشری هه‌نگاو می‌گوید در ماه اوت ۲۰۲۶، دست‌کم ۲۰ زن فعال در ایران بازداشت و ۲۶ زن نیز به احکام قضایی، از جمله اعدام و حبس، محکوم شده‌اند.\n\n▪️براساس گزارش هه‌نگاو در همین مدت دست‌کم ۱۹ مورد زن‌کشی در شهرهای مختلف ایران ثبت شده و حکم اعدام شش زن نیز در زندان‌های جمهوری اسلامی اجرا شده است.\n\n▪️بر پایه آمار مرکز آمار و اسناد هه‌نگاو، دست‌کم ۲۰ فعال زن در ماه اوت توسط نهادهای سرکوب در جمهوری اسلامی بازداشت شده‌اند. این تعداد حدود ۱۷ درصد از کل بازداشت‌شدگان ثبت‌شده در این ماه را تشکیل می‌دهد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/dozens-of-women-rights-violations-recorded-in-iran-in-one-month/8195034.html",
       "media": [],
       "reactions": [],
-      "views_label": "513",
+      "views_label": "702",
       "posted_at": "2026-09-07T10:34:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229710",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "923",
+      "views_label": "1.02K",
       "posted_at": "2026-09-07T10:23:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229709",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.3K",
+      "views_label": "1.39K",
       "posted_at": "2026-09-07T10:08:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229708",
@@ -93,7 +121,7 @@
       "plain_text": "🔺مشاور رئیس امارات متحده عربی: بازسازی اعتماد با جمهوری اسلامی دهه‌ها طول می‌کشد\n\n▪️مشاور رئیس امارات متحده عربی، گفت رابطه کارکردی با جمهوری اسلامی قابل ترمیم است، اما بازسازی اعتماد ممکن است دهه‌ها طول بکشد.\n\n▪️انور قرقاش، روز دوشنبه در انجمن حیلی در ابوظبی گفت: «رابطه کارکردی با ایران می‌تواند و باید بازسازی شود، اما بازسازی اعتماد مسئله دیگری است.»\n\n▪️قرقاش اعلام کرد امارات مسیرهای جایگزینی برای صادرات انرژی و تجارت خود می‌سازد. او گفت: «صادرات انرژی ما گروگان گرفته نمی‌شود، همچنین تجارت و فعالیت اقتصادی‌مان.»\n\n▪️بر پایه گفته او، امارات ظرفیت بنادر ساحل شرقی خود و نیز خطوط لوله، راه‌آهن و مسیرهای تجاری را برای ایجاد کریدورهای جایگزین گسترش داده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195033.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.53K",
+      "views_label": "1.59K",
       "posted_at": "2026-09-07T09:59:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229707",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.66K",
+      "views_label": "1.72K",
       "posted_at": "2026-09-07T09:50:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229706",
@@ -149,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.72K",
+      "views_label": "1.75K",
       "posted_at": "2026-09-07T09:43:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229705",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.16K",
+      "views_label": "2.19K",
       "posted_at": "2026-09-07T09:19:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229704",
@@ -193,7 +221,7 @@
       "plain_text": "🔺دو فوتبالیست زن ایرانی پناهنده: به کشتن مردم توسط حکومت اعتراض داشتیم\n\n▪️دو عضو تیم ملی فوتبال زنان ایران که در استرالیا پناهندگی گرفتند، تأیید کردند خودداری‌شان از خواندن سرود ملی در جام ملت‌های آسیا اعتراض به جمهوری اسلامی بود.\n\n▪️عاطفه رمضانی‌صادق ۳۴ ساله و فاطمه پسندیده ۲۲ ساله نخستین گفت‌وگوی رسانه‌ای خود را با برنامه «۶۰ دقیقه» شبکه ۹ استرالیا انجام دادند. در این مصاحبه که روز یکشنبه پخش شد آنها نسبت به کشته شدن مردم معترض به دست جمهوری اسلامی اعتراض کردند.\n\n▪️در همین رابطه رمضانی‌صادق گفت: «فقط می‌خواستیم کنار مردممان بایستیم. گاهی می‌ترسیدم، اما تلاش کردم کار درست را انجام دهم و بگویم هیچ‌کس نباید صرفاً برای اعتراض کشته شود.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/iranian-soccer-players-who-sought-asylum-in-australia-say-anthem-silence-was-protest/8195031.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.51K",
+      "views_label": "2.54K",
       "posted_at": "2026-09-07T08:58:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229703",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.28K",
+      "views_label": "2.35K",
       "posted_at": "2026-09-07T08:50:14+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229702",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.35K",
+      "views_label": "2.38K",
       "posted_at": "2026-09-07T08:33:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229701",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.43K",
+      "views_label": "2.46K",
       "posted_at": "2026-09-07T08:21:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229700",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.53K",
+      "views_label": "2.56K",
       "posted_at": "2026-09-07T08:02:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229699",
@@ -337,7 +365,7 @@
       "plain_text": "🔺احتمال خاموشی در زمستان؛ معاون وزیر نیرو از «سال دشوار» خبر داد\n\n▪️معاون برق و انرژی وزارت نیرو هشدار داد کشور به دلیل ناترازی باقی‌مانده در بخش گاز و آسیب‌های وارد‌شده به زنجیره تأمین سوخت، احتمالاً سال دشواری را در پیش دارد.\n\n▪️مصطفی رجبی مشهدی این موضوع را در گفت‌وگو با روزنامه ایران گفت و تاکید کرد نیروگاه‌های حرارتی در زمستان برای تولید برق وابستگی بالایی به گاز دارند. رسانه‌ها با اتکا بر اعتراف معاون وزیر نیرو از احتمال بروز خاموشی در زمستان خبر داده و نوشتند بحران تامین انرژی در کشور حادتر خواهد شد.\n\n▪️در صورت کمبود گاز، نیروگاه‌ها ممکن است ناچار به استفاده بیشتر از سوخت‌های مایع شوند؛ اقدامی که افزون بر دشواری تأمین و حمل، آثار زیست‌محیطی نیز به همراه دارد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/deputy-minister-of-energy-warns-of-difficult-year-and-possibility-of-winter-blackout/8195028.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.57K",
+      "views_label": "2.6K",
       "posted_at": "2026-09-07T07:47:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229697",
@@ -365,7 +393,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.54K",
+      "views_label": "2.57K",
       "posted_at": "2026-09-07T07:37:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229696",
@@ -393,7 +421,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.63K",
+      "views_label": "2.66K",
       "posted_at": "2026-09-07T07:27:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229695",
@@ -421,7 +449,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.64K",
+      "views_label": "2.67K",
       "posted_at": "2026-09-07T07:16:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229694",
@@ -477,7 +505,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.7K",
+      "views_label": "2.73K",
       "posted_at": "2026-09-07T06:53:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229692",
@@ -2385,34 +2413,6 @@
       "posted_at": "2026-09-06T12:56:14+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229611",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229610",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/cQgmNvY74QjMaJtRlGlAgwARq80-ngAFt95OGdUvawYpXRlgX1I0clW8a36_0wg0KQW01LJ0WQu9BqpST7mohIffbNUFA69ex-Lkf6Uxm-tRC9fnRtAzxAzkh0gbyyb0gskR6k6eYyyxmBrreDKOZ3GI717bPZ9fXIO5OPouQSOk6lXWlHM6cd2P_frgT1Wg5WzirdR4Wrxa3cFM5EbbDLoQnZesAGGbAJQC-7-_M1BM1x6rMu_j7_nT_BryWHEWoQu34Hwt3C5O6uTaZY0PWF5cpl7--mPsz-xFvsqjpvn05avmOnilCpREWkKLcCK4OERe7ekk1gf0pDPtLCNTyg.jpg",
-      "author_photo_path": "channels/farsivoa/media/0abbb3eafc2bacb0efcb50a7.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "فرماندهی مرکزی ایالات متحده، سنتکام، تصویری از یک جنگنده رادارگریز اف‌۳۵ای نیروی هوایی آمریکا در حال گشت‌زنی بر فراز آب‌های منطقه منتشر کرد و اعلام کرد نیروهای آمریکایی به اجرای محاصره دریایی رژیم ایران ادامه می‌دهند.<br> <br>به گفته سنتکام، نیروهای آمریکایی تا روز ۱۵ شهریور مسیر ۹۲ کشتی تجاری را تغییر داده‌اند، سه شناور را از کار انداخته‌اند، و وارد دو شناور دیگر شده‌اند.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "فرماندهی مرکزی ایالات متحده، سنتکام، تصویری از یک جنگنده رادارگریز اف‌۳۵ای نیروی هوایی آمریکا در حال گشت‌زنی بر فراز آب‌های منطقه منتشر کرد و اعلام کرد نیروهای آمریکایی به اجرای محاصره دریایی رژیم ایران ادامه می‌دهند.\n\nبه گفته سنتکام، نیروهای آمریکایی تا روز ۱۵ شهریور مسیر ۹۲ کشتی تجاری را تغییر داده‌اند، سه شناور را از کار انداخته‌اند، و وارد دو شناور دیگر شده‌اند.\n\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229610",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/fN7MTqwgVBdx2khWjwvMlkgEcu6V8fkF5mNXCswsAMIAvMHTRZnYTu4HcG5t0mkkDAqBnJDWuP02LhdI0rdPVAntN5f1awfZrss511jNdMSdk3saLlIRbN_E5gedVkgBBzuJEUxUjx-VAkhn5KR7Vnz14Fduz2nfpPmDIQj3ao-JVB0VwEhIk-3iZA87yEd6QqWFYuVEURgHmHICp7S3t_3WtUTAdBpc51JrqmlYAHU7A-wb7gyFcdDe8NS4mEZZS6ni_TDU3PdB8y5VC-anctX-pST_5RBHTkvhHh1BY2_giWDTa__hcLnZF8963sX5ZpzPCwCmQhM3_5ZGSIvDyQ.jpg",
-          "thumbnail_path": "channels/farsivoa/media/116ef91891035f44cfc0b7d5.jpg",
-          "thumbnail_sha256": "4e547f89ab4eb3c9b9701508bbd8c2aedff859c9a1001cfeecc4cae0b42585a0",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.95K",
-      "posted_at": "2026-09-06T12:48:09+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229610",
       "reply": null
     }
   ]
