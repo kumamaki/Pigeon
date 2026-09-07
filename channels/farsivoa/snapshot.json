@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T17:07:13.788Z",
+  "fetched_at": "2026-09-07T17:12:05.229Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,111 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229763",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">ولودیمیر زلنسکی، رئیس‌ جمهوری اوکراین، روز دوشنبه ۱۶ شهریور به مناسبت «روز اطلاعات نظامی اوکراین» تصاویری از نیروهای این نهاد منتشر کرد و از فعالیت آنها در جنگ با روسیه قدردانی کرد.<br><br>زلنسکی گفت نیروهای اطلاعات نظامی با جمع‌آوری اطلاعات و اجرای عملیات، به تقویت توان دفاعی اوکراین و جلوگیری از دستیابی روسیه به اهدافش کمک می‌کنند.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a></div>",
+      "plain_text": "ولودیمیر زلنسکی، رئیس‌ جمهوری اوکراین، روز دوشنبه ۱۶ شهریور به مناسبت «روز اطلاعات نظامی اوکراین» تصاویری از نیروهای این نهاد منتشر کرد و از فعالیت آنها در جنگ با روسیه قدردانی کرد.\n\nزلنسکی گفت نیروهای اطلاعات نظامی با جمع‌آوری اطلاعات و اجرای عملیات، به تقویت توان دفاعی اوکراین و جلوگیری از دستیابی روسیه به اهدافش کمک می‌کنند.\n\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229763?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/A0LyUYeTM1AfsrpcagExTQNQBpMiMTTADxxNiNMZ5hQ5XYDlZ8usMRgOi3vj00bCzJChkmc9LPvkXucDJiK-EHSNN1pgTb_csftzoitHcTtFMijTUj0ojoPb16ikWUrDSOJ1hG_neQj0ZXbm0UpvqptY8jtRPq1jW-4_L4xotePomPhipnxYoIZ97f1OjBQhpDdughjYS3Bep_vF-9UfD3N-cssMQTEJn9R1xf5T6AZVqKueXJIuVrxuHhnC9STQb-3QsY5jw5fJQBv00mUomYcynEONmUjQcw9scLjdcj8QgsImzGVDjghxdpg3QL2zTWCz2Lw7jAYROpRsSoqCEw.jpg",
+          "thumbnail_path": "channels/farsivoa/media/74fe1e6ceea889a3a2e7b77e.jpg",
+          "thumbnail_sha256": "743c775ed2861a97c4007d49437cb30bd8b5624369d3564ec88b1bc6b49b637a",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229764?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/BPOCDJ9u4I5WRXZ8CCLUudcu0fO7_8XnZPGeYROwhI4JyN5lot5VYdBSmaULx8HKs5nNjc6NQbXb_Ulpb1c09jDeYHhz41KcS4NueFfohlR6eVNWUFPkkB9DklUnQKp2LURatS931G710y4ZefI_9hEgFfMDnFVWrJKvHblzblhbK1dbCOWCSob5z0IgP438yTuXRlFeEgtqtKB5OGVMziFJqcnSI2NeAgJ37Y3tz87NsCTHvGWIFxHnJbB-E7KlKzmbgeYz7Ob-phi1udeEywqX_yzJvygn-1mI0VuUIms8lwj5tGCzBSTHNYpMQ0G_gTmk5vJaYgEmmF8nOQ-mXQ.jpg",
+          "thumbnail_path": "channels/farsivoa/media/b1fac13e75dc17cc0e8a173f.jpg",
+          "thumbnail_sha256": "dcfdbfb8ae662b4f2802428a92f679f585382963858ddf2ee6ab85445a04ab77",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229765?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/p9Y4eUBDy5K2MinHE5OOw0cuygdSObBo6k7afcMDS5Azk4o_fF1SAH8zhXGf1JM1_RMR5UYb0lRDOESPMqdKNWwfcrU8SEQaSzlZOpgey1uMVfZPV0Mo0HBPXm5bF3-jP6OvOcNibcw09A6fM9wNH8JMobAhFclwRuzDVr6ORNclsmbodys25OPak53INuF9puP5xuY2ezZZ55tiqBL8jbcNSKsGnnQwnSgGiNZ0iCGxZP_kyNhdC8crEMvsSHnhv1IF22lYNgLddGle4PqyEyGPodKgpytMaxnuck3Dqe14sjXYL-60-_KRDBOTx8mhXuhEBn8jarR4LK-OzUD0AA.jpg",
+          "thumbnail_path": "channels/farsivoa/media/0c75729fbb214d4a82a08e7d.jpg",
+          "thumbnail_sha256": "4deea81b39680ed217b090c7561c68604ad7a6e07a39dab9c49ff500ed51123e",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229766?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Szh70XYsbkzJZV2vv9Dp4TzvgGyDndnh-zVhc8hW_EJWuGZBOoMINYOycyjKnddDqjfT928tRfzbMSaFNf0n85CQP-MPO5DBdhLTuz3eYcm-1a7RzmVb9JnxErcxe8csQ8vUT91s_t1CUfbqCNzbusTSUUm7V7iJUbWn8Xj2pdOMWZa7Dtva_KgkhpseOD8emH9d2Ar1W2DGeC8elM0Geb0u0SzAGQPkRG0xB5s81T5eQNPs4QX--OQEH2l0xBJvCqMHKmlGAmSqbhpo4k5wDw_yn-ny_IJ-p6rivGdnv3GsVAY6Enm1aPC4c73s4l-idGKt3P5GzvFWwWU8oNAemQ.jpg",
+          "thumbnail_path": "channels/farsivoa/media/6e40e24122d2901f1557dded.jpg",
+          "thumbnail_sha256": "25db3df737d8d97c195414f9caad5551adf51f4b393c2166abdf274ca615bd35",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229767?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/AqTbxatiW4QXdJqMmpPMTfDbnxt5YBL0EdCGWqav62xlLF_E1YP7I7Hkmvt9oGStwcXD9xiQTxTTEySKqKOZfAi6CmxUxdUrwhq6BJfvJbyYMP5w33jwlKeZizvpYbY78B_djlxNtENieuGjQg-_1J0afbktIOq46SfMxUkBHjv3RZjMmsxV3lqKDvgi_YDjJSnIzYDhaXTh7zkQU0d-F2nNx2OIm8N2xX3J_SDsEQKrS5_idfScEvZHQN-RQkVq5HV_P_3owfSH4V-2NcWd5HO58X2cSdiA-DoRMtTZW00ZKzWBGh6295IKZj2HeAeT2i_ZvOmFQz8eMqE786mong.jpg",
+          "thumbnail_path": "channels/farsivoa/media/67f4beb2244ce5bfe31a8c0c.jpg",
+          "thumbnail_sha256": "c28bb921c3dec28b6e737706cf9697c202e4dd581c29fa396da46a8c5d22a32e",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229768?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/YNfzYYr_V3m_HvmOZOu544M2xJJTQVRIfO9miTM87AjeR8ZE1HRigMcgr5TBgewkV2IO1XZ43AuBr4EX9eYdHidqznd9Frx8fFBdgx44YEf27103REdTxylmg4UAAI3c3HZDSlOcLb0yHjHlH0OwXDwJmypuSNcQhbGu52LecYLBLMVhIO_EHxv4BT-29okr-JUr_jh0S2HEOxD9qnybsyeowbRnyXFQzTKHw23XEckSy8ZcCebWNxtdc5yLYv3GYIVcVL5GnCwQqCGPqrlzalACZbaNeLw3rb78W7BW4sB309KdA5w3enEL823acyYaE9Csrs3_zTWQddVCDjqKbw.jpg",
+          "thumbnail_path": "channels/farsivoa/media/c3295c3f82c0c653028bb4d5.jpg",
+          "thumbnail_sha256": "2c7554a5c6934e5a0a065dd7f888c0295d2c9719e0b49446a178c457b54d5a60",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229769?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/V03CQKdYx3_lWGRupIwIGziMUCYy74knFslPgea2nakZdgb9IfZivUgn9uw8NqJJlXqrjCqHbJecmb485vGH2be5f1xQmQ1mwDaUP0hSRZvx7HZMzx33C4b9eJomTdpVyVfWyAz8rUC2tQtD7l9e1dLC7SimEm8CRENH2_ycBN8BvcC0HI6AZb-5yGSWhVQkogvb3lX2eBTlFHgwVwTnG--FwFQsWQEBonQhIkIyIvqCT8y5Ppc6o13LbuDsmCs22-M1i9AiqDYFCSIqJsP6QBhOBvjDqzXWEuOiI-haOkA3QH4bayY_Cbx3Vxcj_LfMzTRic7DIy8iiWNzcUQeTCg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/5a4e82d1317f9e966ad375aa.jpg",
+          "thumbnail_sha256": "087df1d14183d03b45f77c5b563f008c63c69fc28c5b4295ef0ac272472ddb44",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229770?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/nf00JTcYnXris9vIp8ediPBtNyiQ3GdnYPw8ZJUgBEwvCKl__oW2e_q90njA3cgZkvTwsF5Mz4Ezj3uPjxE4EcxxNhvwi9IpWe2se3lmCCjIdNQ0BPLU9grZYFRfdnJxxUErCMnbW_zmmWWx0dXkgIWoi08KFCvMqblZcygQKNaSANS24RtlxMPI-bDXoajUCFr0OmxQnVOpSsQyn458YjidO61zeXHUrHliVFoIwKyifsLoaIja3kFfph2GEWmcgApI9_FYgnxfbOtLgAkMs0xLAVaqJJJz0wUgIOWmPjANP0gbYtBO_xtMGto2tb_a8-bzCFaLo5X1B3C2RnEw-g.jpg",
+          "thumbnail_path": "channels/farsivoa/media/2745c86c528dd391bd290502.jpg",
+          "thumbnail_sha256": "b2684ca6d5dae485bda0eb46f91687c92697c9f800520353c3d2c487a2b4ad1b",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-07T17:11:25+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229763",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229762",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
@@ -21,7 +126,7 @@
       "plain_text": "🔴📢‌ پادکست تفسیر خبر- دوشنبه ۱۶ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "670",
+      "views_label": "799",
       "posted_at": "2026-09-07T16:52:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229762",
@@ -37,7 +142,7 @@
       "plain_text": "🔺فرمان آماده‌باش ارتش اسرائیل در کرانه باختری و کشته شدن فرمانده گردان نخبه حماس در غزه\n\n▪️به گزارش رسانه‌های منطقه در روز دوشنبه ۱۶ شهریور، یسرائیل کاتس، وزیر دفاع اسرائیل، اعلام کرد در با هماهنگی با بنیامین نتانیاهو، نخست وزیر این کشور، به ارتش اسرائیل دستور داده برای یک «جنگ تمام عیار علیه تروریسم در کرانه باختری» آماده شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/israel-palestine-west-bank-hamas-iran/8195115.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.02K",
+      "views_label": "1.18K",
       "posted_at": "2026-09-07T16:46:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229761",
@@ -65,7 +170,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "959",
+      "views_label": "1.06K",
       "posted_at": "2026-09-07T16:45:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229760",
@@ -93,7 +198,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.19K",
+      "views_label": "1.26K",
       "posted_at": "2026-09-07T16:40:36+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229759",
@@ -121,7 +226,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.29K",
+      "views_label": "1.35K",
       "posted_at": "2026-09-07T16:35:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229758",
@@ -149,7 +254,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.26K",
+      "views_label": "1.33K",
       "posted_at": "2026-09-07T16:30:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229757",
@@ -177,7 +282,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.58K",
+      "views_label": "1.62K",
       "posted_at": "2026-09-07T16:19:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229756",
@@ -193,7 +298,7 @@
       "plain_text": "🔺ویتکاف می‌گوید در مذاکرات برای پایان جنگ روسیه و اوکراین پیشرفت چشمگیری حاصل شد\n\n▪️استیو ویتکاف، فرستاده ویژه رئیس‌ جمهوری آمریکا، روز دوشنبه ۱۶ شهریور در حساب خود در شبکه اجتماعی ایکس از «پیشرفت چشمگیر» در مذاکرات برای پایان دادن به جنگ روسیه و اوکراین خبر داد و گفت در زمینه برنامه‌ریزی برای برگزاری مذاکرات سه‌جانبه نیز پیشرفت حاصل شده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/witkoff-says-progress-made-russia-ukraine-peace-talks/8195101.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.71K",
+      "views_label": "1.74K",
       "posted_at": "2026-09-07T16:16:15+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229755",
@@ -221,7 +326,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.45K",
+      "views_label": "1.49K",
       "posted_at": "2026-09-07T16:15:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229754",
@@ -249,7 +354,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.61K",
+      "views_label": "1.64K",
       "posted_at": "2026-09-07T16:06:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229753",
@@ -265,7 +370,7 @@
       "plain_text": "🔺پرزیدنت ترامپ تصاویر نمادین «نیروی دریایی ایران در کف دریا» را منتشر کرد\n\n▪️پرزیدنت ترامپ، رئیس جمهوری آمریکا، روز دوشنبه ۱۶ شهریور دو تصویر جداگانه در تروت سوشال منتشر کرد که در آنها ده‌ها شناور نظامی با پرچم جمهوری اسلامی به صورت غرق‌شده در کف دریا دیده می‌شوند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/trump-posts-sunken-iran-navy/8195098.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.84K",
+      "views_label": "1.87K",
       "posted_at": "2026-09-07T15:59:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229752",
@@ -293,7 +398,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.67K",
+      "views_label": "1.71K",
       "posted_at": "2026-09-07T15:58:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229751",
@@ -2409,34 +2514,6 @@
       "posted_at": "2026-09-06T20:57:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229662",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229661",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "هراس حکومت از اعتراضات موجب شده به تهدید مردم روی بیاورد - گفت‌وگو با شیوا محبوبی<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "هراس حکومت از اعتراضات موجب شده به تهدید مردم روی بیاورد - گفت‌وگو با شیوا محبوبی\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229661",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/p4DOUUBhfefZdyfARlnkUgHUmdFSLalEN4J_qFssZQLTvHTpj3PWTeBmIEAQHK48Eh25uw7P1TAXU-vLS0zp-wuMa4UHc71TYM08KyorgLeOD0--N7bDZAAmp7f4oOmDPo2dk_5D5s4l0_hTvJjFAu45tFj_IN1itK--xDCsZXGJViUhc9OAOg_8bPmFy1S6-EGE6yXBTcdpFKtM0UXh22yxfZ7scmu2gW3OJLEFeJuHlJC5nM56sy5kHkVavAuJ0OyWHZNnt2xcIwIaCo3Ij2m5MV6IC_YQPTgIKl4mlRCdc3m6UlpDXgmcN3b2i3XOkLVGoLIR2tThtwSmjeX4_w",
-          "thumbnail_path": "channels/farsivoa/media/394ee81e841741fb5ec678aa.jpg",
-          "thumbnail_sha256": "40deabbaa8a484374ece72979511230e1b3fb7de42fa3b1eec533bf965556ee1",
-          "duration_label": "2:10",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "4.12K",
-      "posted_at": "2026-09-06T20:25:52+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229661",
       "reply": null
     }
   ]
