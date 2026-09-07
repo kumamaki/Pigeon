@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T08:47:15.155Z",
+  "fetched_at": "2026-09-07T08:52:13.113Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229702",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "سخنگوی وزارت امور خارجه جمهوری اسلامی در پیامی به زبان کره‌ای هشدار داد هرگونه مشارکت عملیاتی یا حضور نظامی کره جنوبی در خلیج فارس و تنگه هرمز «پیامدهای جدی» خواهد داشت.<br><br>اسماعیل بقائی نوشت: «هرگونه مشارکت عملیاتی یا حضور نظامی دیگر طرف‌ها در خلیج فارس و تنگه هرمز، به منزله حمایت مستقیم از طرف متجاوز بوده و پیامدهای جدی خواهد داشت.»<br><br>پیام بقائی دومین هشدار تهران به سئول ظرف سه روز است.<br><br>کره جنوبی زیر فشار واشنگتن برای مشارکت در تأمین امنیت تنگه هرمز قرار دارد. دونالد ترامپ، رئیس‌جمهوری آمریکا، بارها متحدان را به دلیل نبود همکاری در پرونده هرمز نقد کرده است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "سخنگوی وزارت امور خارجه جمهوری اسلامی در پیامی به زبان کره‌ای هشدار داد هرگونه مشارکت عملیاتی یا حضور نظامی کره جنوبی در خلیج فارس و تنگه هرمز «پیامدهای جدی» خواهد داشت.\n\nاسماعیل بقائی نوشت: «هرگونه مشارکت عملیاتی یا حضور نظامی دیگر طرف‌ها در خلیج فارس و تنگه هرمز، به منزله حمایت مستقیم از طرف متجاوز بوده و پیامدهای جدی خواهد داشت.»\n\nپیام بقائی دومین هشدار تهران به سئول ظرف سه روز است.\n\nکره جنوبی زیر فشار واشنگتن برای مشارکت در تأمین امنیت تنگه هرمز قرار دارد. دونالد ترامپ، رئیس‌جمهوری آمریکا، بارها متحدان را به دلیل نبود همکاری در پرونده هرمز نقد کرده است.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229702",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/VXno3CbNkfYaMoZLjjGHGpAH87gWmHGw3wpo98rb8Hm7kcuIj9mWcqlrJLYPQ6gvcWLIxxu-OIFNdHiBQcB4DrDvwD-AhbMVvIjZHkL3PXyvSulEY94KcO1UMddYEOZP8a1P2bs31Z4HmvtBHFaFuXNOj8Ogy__3ZPr14I_7U1yVH2bbFD7T4acLHVrXgA0d-FUw89Tm3A3G7D3QOto1QUBphlwB3su-1Tw8KIGM2VfdPZOYX9VrpebJ8UHKafV7CYpnLzOc_4f5unNkHut-BTOEn8LsYMvZPlbbLu6VNBJkvnsK2VON75iKQFIVPsnxIDcR8rcaL5hrTpZnu5l-Kw.jpg",
+          "thumbnail_path": "channels/farsivoa/media/10d385aa6db15b66e8f68189.jpg",
+          "thumbnail_sha256": "5a3f391239aec562122cdfb74dcc409b5b17ec3f9d31b908b985438767db00a4",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "127",
+      "posted_at": "2026-09-07T08:50:14+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229702",
+      "reply": null
+    },
     {
       "id": "farsivoa/229701",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "503",
+      "views_label": "629",
       "posted_at": "2026-09-07T08:33:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229701",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "874",
+      "views_label": "968",
       "posted_at": "2026-09-07T08:21:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229700",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.32K",
+      "views_label": "1.38K",
       "posted_at": "2026-09-07T08:02:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229699",
@@ -105,7 +133,7 @@
       "plain_text": "🔺کانادا بر توقف اقدامات بی‌ثبات‌کننده جمهوری اسلامی تأکید کرد\n\n▪️وزیر امور خارجه کانادا، با محکوم کردن اقدامات بی‌ثبات‌کننده جمهوری اسلامی تصریح کرد که جمهوری اسلامی باید فوراً تهدیدها در تنگه هرمز، فعالیت‌های هسته‌ای غیرقانونی و حمایت از گروه‌های نیابتی را متوقف کند.\n\n▪️آنیتا آناند تصریح کرد: «تهدیدهای ایران در تنگه هرمز، فعالیت‌های هسته‌ای غیرقانونی و حمایت آن از گروه‌های نیابتی منطقه‌ای، همچنان صلح و امنیت جهانی را تضعیف می‌کند و این اقدامات باید پایان یابند.»\n\n▪️او به بیانیه‌ای مشترک با وزیر دارایی کانادا، اشاره کرد که در آن «اقدامات کانادا و شرکایش برای حفظ فشار بر ایران، و تلاش‌ها برای مختل کردن توانایی ایران در تأمین مالی فعالیت‌های تروریستی» تشریح شده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/canada-condemns-iran-s-destabilizing-actions-in-the-middle-east/8195030.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.38K",
+      "views_label": "1.44K",
       "posted_at": "2026-09-07T07:57:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229698",
@@ -121,7 +149,7 @@
       "plain_text": "🔺احتمال خاموشی در زمستان؛ معاون وزیر نیرو از «سال دشوار» خبر داد\n\n▪️معاون برق و انرژی وزارت نیرو هشدار داد کشور به دلیل ناترازی باقی‌مانده در بخش گاز و آسیب‌های وارد‌شده به زنجیره تأمین سوخت، احتمالاً سال دشواری را در پیش دارد.\n\n▪️مصطفی رجبی مشهدی این موضوع را در گفت‌وگو با روزنامه ایران گفت و تاکید کرد نیروگاه‌های حرارتی در زمستان برای تولید برق وابستگی بالایی به گاز دارند. رسانه‌ها با اتکا بر اعتراف معاون وزیر نیرو از احتمال بروز خاموشی در زمستان خبر داده و نوشتند بحران تامین انرژی در کشور حادتر خواهد شد.\n\n▪️در صورت کمبود گاز، نیروگاه‌ها ممکن است ناچار به استفاده بیشتر از سوخت‌های مایع شوند؛ اقدامی که افزون بر دشواری تأمین و حمل، آثار زیست‌محیطی نیز به همراه دارد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/deputy-minister-of-energy-warns-of-difficult-year-and-possibility-of-winter-blackout/8195028.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.51K",
+      "views_label": "1.54K",
       "posted_at": "2026-09-07T07:47:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229697",
@@ -149,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.61K",
+      "views_label": "1.67K",
       "posted_at": "2026-09-07T07:37:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229696",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.74K",
+      "views_label": "1.77K",
       "posted_at": "2026-09-07T07:27:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229695",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.84K",
+      "views_label": "1.87K",
       "posted_at": "2026-09-07T07:16:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229694",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.87K",
+      "views_label": "1.94K",
       "posted_at": "2026-09-07T07:04:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229693",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.02K",
+      "views_label": "2.06K",
       "posted_at": "2026-09-07T06:53:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229692",
@@ -277,7 +305,7 @@
       "plain_text": "🔺وزیر انرژی آمریکا: با حصر دریایی یا جمهوری اسلامی عوض می‌شود یا سیاست‌هایش\n\n▪️وزیر انرژی آمریکا، گفت ممکن است توافق هسته‌ای با جمهوری اسلامی به دست نیاید و راه‌حل صرفاً نابود کردن توان جمهوری اسلامی باشد. او همچنین گفت که محاصره دریایی بنادر ایران «یا حکومتشان را تغییر می‌دهد یا سیاست‌های حکومت را».\n\n▪️کریس رایت، روز یکشنبه گفت: «شاید توافق هسته‌ای وجود نداشته باشد. شاید صرفاً نابود کردن توانمندی‌های آنان برای انجام آن باشد. توافق ممکن است در انتظار دولت بعدی در ایران بماند. ما به‌سادگی نمی‌دانیم.»\n\n▪️او افزود: «ما توان آنان برای توسعه سلاح هسته‌ای و در نهایت پرتاب آن در صورت توسعه را تضعیف می‌کنیم. این تلاشی ۴۷ ساله است. کار کوچکی نیست، اما آمریکا کار را به سرانجام می‌رساند.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195027.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.16K",
+      "views_label": "2.19K",
       "posted_at": "2026-09-07T06:42:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229691",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.39K",
+      "views_label": "2.42K",
       "posted_at": "2026-09-07T06:27:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229690",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.55K",
+      "views_label": "2.58K",
       "posted_at": "2026-09-07T06:13:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229689",
@@ -361,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.65K",
+      "views_label": "2.69K",
       "posted_at": "2026-09-07T05:59:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229688",
@@ -389,7 +417,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.73K",
+      "views_label": "2.76K",
       "posted_at": "2026-09-07T05:48:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229687",
@@ -405,7 +433,7 @@
       "plain_text": "🔺کارزار اقتصادی آمریکا اهرم فشار جمهوری اسلامی در تنگه هرمز را تضعیف کرده است\n\n▪️شش ماه پس از آغاز جنگ، تشدید تحریم‌ها و محاصره دریایی توسط ایالات متحده فشار فزاینده‌ای بر جمهوری اسلامی وارد آورده، و به گفته منابع ایرانی و منطقه‌ای، توان رژیم ایران برای استفاده از تنگه هرمز به عنوان اهرمی در برابر آمریکا را کاهش داده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/president-trump-economic-pressure-iran-hormuz-leverage/8195025.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.7K",
+      "views_label": "2.73K",
       "posted_at": "2026-09-07T05:39:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229686",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.66K",
+      "views_label": "2.7K",
       "posted_at": "2026-09-07T05:25:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229685",
@@ -461,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.69K",
+      "views_label": "2.72K",
       "posted_at": "2026-09-07T05:14:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229684",
@@ -477,7 +505,7 @@
       "plain_text": "🔺نفت به ۹۷ دلار نزدیک شد؛ چشم‌انداز هرمز تا سال ۲۰۲۷ مبهم است\n\n▪️قیمت نفت روز دوشنبه به رشد خود ادامه داد، پس از آنکه حملات متقابل آمریکا و جمهوری اسلامی به شناورها در تنگه هرمز نگرانی از اختلال طولانی عرضه خاورمیانه را تشدید کرد.\n\n▪️قراردادهای آتی نفت برنت ۵۲ سنت بالا رفت و به ۹۶ دلار و ۸۰ سنت در هر بشکه رسید. نفت وست تگزاس اینترمدییت آمریکا نیز با ۶۶ سنت رشد به ۹۲ دلار و ۱۴ سنت رسید.\n\n▪️برنت هفته گذشته ۷ و هشت دهم درصد و دبلیوتی‌آی نزدیک ۱۰ درصد رشد کردند.\n\n▪️بر پایه تحلیل بانک ای‌ان‌زد، محتمل‌ترین سناریو رویارویی طولانی همراه با اقدام نظامی سنجیده دو طرف است. بر همین اساس، بازگشت به سطح تردد پیش از جنگ تا اواخر فصل نخست یا اوایل فصل دوم سال ۲۰۲۷ انتظار نمی‌رود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/oil-price-reaching-97-usd-per-barrel/8195026.html",
       "media": [],
       "reactions": [],
-      "views_label": "3.01K",
+      "views_label": "3.04K",
       "posted_at": "2026-09-07T05:03:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229683",
@@ -2394,34 +2422,6 @@
       "posted_at": "2026-09-06T11:34:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229602",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229601",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/cQgmNvY74QjMaJtRlGlAgwARq80-ngAFt95OGdUvawYpXRlgX1I0clW8a36_0wg0KQW01LJ0WQu9BqpST7mohIffbNUFA69ex-Lkf6Uxm-tRC9fnRtAzxAzkh0gbyyb0gskR6k6eYyyxmBrreDKOZ3GI717bPZ9fXIO5OPouQSOk6lXWlHM6cd2P_frgT1Wg5WzirdR4Wrxa3cFM5EbbDLoQnZesAGGbAJQC-7-_M1BM1x6rMu_j7_nT_BryWHEWoQu34Hwt3C5O6uTaZY0PWF5cpl7--mPsz-xFvsqjpvn05avmOnilCpREWkKLcCK4OERe7ekk1gf0pDPtLCNTyg.jpg",
-      "author_photo_path": "channels/farsivoa/media/0abbb3eafc2bacb0efcb50a7.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "عبدالرضا فرهادیان، وکیل محمدباقر خرازی، دبیرکل حزب‌الله ایران، گفت طولانی شدن بازداشت موکلش نگرانی خانواده و نزدیکان او را برانگیخته است و از مقام‌های قضایی خواست قرار بازداشت را تبدیل کنند.<br><br>پرونده خرازی پس از ادعاهای او درباره رئیس‌جمهوری و رهبر جمهوری اسلامی تشکیل شد.<br><br>او مدعی شد مسعود پزشکیان ۲۸ بار استعفا داده، متن استعفا نوشته یا تهدید به کناره‌گیری کرده است.<br><br>خرازی سپس روایتی از واکنش مجتبی خامنه‌ای ارائه کرد و گفت رهبر جمهوری اسلامی به رئیس‌جمهوری پیغام داده اگر «یک بار دیگر» استعفا کند، این بار استعفایش پذیرفته می‌شود.<br><br>دفتر مجتبی خامنه‌ای و دفتر پزشکیان این ادعاها را تکذیب کردند.<br><br>خرازی پس از تکذیب دفتر رهبری، هوادارانش را به حضور خیابانی برای حمایت از رهبری و براندازی دولت پزشکیان فراخواند.<br><br>خرازی با خانواده رهبر جمهوری اسلامی نسبت خانوادگی دارد و خواهر او همسر مسعود خامنه‌ای، یکی از پسران علی خامنه‌ای، است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "عبدالرضا فرهادیان، وکیل محمدباقر خرازی، دبیرکل حزب‌الله ایران، گفت طولانی شدن بازداشت موکلش نگرانی خانواده و نزدیکان او را برانگیخته است و از مقام‌های قضایی خواست قرار بازداشت را تبدیل کنند.\n\nپرونده خرازی پس از ادعاهای او درباره رئیس‌جمهوری و رهبر جمهوری اسلامی تشکیل شد.\n\nاو مدعی شد مسعود پزشکیان ۲۸ بار استعفا داده، متن استعفا نوشته یا تهدید به کناره‌گیری کرده است.\n\nخرازی سپس روایتی از واکنش مجتبی خامنه‌ای ارائه کرد و گفت رهبر جمهوری اسلامی به رئیس‌جمهوری پیغام داده اگر «یک بار دیگر» استعفا کند، این بار استعفایش پذیرفته می‌شود.\n\nدفتر مجتبی خامنه‌ای و دفتر پزشکیان این ادعاها را تکذیب کردند.\n\nخرازی پس از تکذیب دفتر رهبری، هوادارانش را به حضور خیابانی برای حمایت از رهبری و براندازی دولت پزشکیان فراخواند.\n\nخرازی با خانواده رهبر جمهوری اسلامی نسبت خانوادگی دارد و خواهر او همسر مسعود خامنه‌ای، یکی از پسران علی خامنه‌ای، است.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229601",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/c-wd_SpRPpD7FHOmvBsspWh1jOLjF8nlGAcK834Dmr5TBFWJc1kINcNmgZJWHNByLZvDXqBceArgF28rWWhrw-VMC5wNDoHt-ZkUOK_awpTeykWUBUn8ZHaPTr3i6znWAcH5reLTDoHRx17i8z9AvKTsM31emMNkNzQx6wQa7taiLAQovstCU6HB_uhOBMzm7SkTCrEcdZkkg59yXoCOpcBtRt-qLiOSV6b_jX0aHU7toMAlM-uhxoTO3lCOy5_xHExFUcvfTmX8dnNXhclrBN14Z9YzmxHKzcIVATqYPWRIxZYI87ajaWg34UFVRm7q4Ibh9xTw6GlWId4w4KRBXQ.jpg",
-          "thumbnail_path": "channels/farsivoa/media/7106e8c52bccd6acb3d0b596.jpg",
-          "thumbnail_sha256": "f995c487c48a527f70cdf3dc07ba0975c747e33be485134c6045c49b02a02e20",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.8K",
-      "posted_at": "2026-09-06T11:27:39+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229601",
       "reply": null
     }
   ]
