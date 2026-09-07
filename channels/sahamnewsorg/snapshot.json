@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T19:22:24.679Z",
+  "fetched_at": "2026-09-07T19:27:23.535Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -12,13 +12,41 @@
   },
   "posts": [
     {
+      "id": "sahamnewsorg/147140",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/642684be024870091c2036fb.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>روزنامه تلگراف انگلیس: رئیس جمهوری سابق ایران ( روحانی) خواهان برگزاری رفراندوم برای پایان جنگ شد<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅روزنامه تلگراف انگلیس: رئیس جمهوری سابق ایران ( روحانی) خواهان برگزاری رفراندوم برای پایان جنگ شد\n\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/147140",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/N40UX09zGpY4ZcRTYFcbiyWdKlhmEMGLKphjQU-LRiIZd6HJ80oHiVOV1XTXA9Zqwwxj6eb1l_k_muOs_CiA3_U4ZIOYCYzi6yentmBzFr1x8uiq_X5KcX4wjj5_jjzBIf1f5W_hMrrBf13lUBVrZuk5ysWc6shQPNAZUjdXM7T23Pc1jIKSQzt4DB0yzqulQ3DTD8PeAkVDK73nsjh46Tu8ZHOVefmoYMjQ5btZ3-V1Gp1Jea2VvljbXW0tbRy24rxJeWPI14OnWdpJnAi_OVoH4u1GzT6AV1rA5OgCGFrGzydKw8iaVDENO1RpVM5nLTkeSH1uzctDLf4-sEOpmQ.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/8297de91a6a0ab9e56cbbe88.jpg",
+          "thumbnail_sha256": "bccfb9e42a6cbb448e06a217b3d9794bfb4a0c77cf4d79b858eb8b474bf51f66",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.86K",
+      "posted_at": "2026-09-07T19:25:22+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147140",
+      "reply": null
+    },
+    {
       "id": "sahamnewsorg/147139",
       "author_name": "سهام نیوز",
       "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
       "author_photo_path": "channels/sahamnewsorg/media/642684be024870091c2036fb.jpg",
       "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>اکبر اعلمی نماینده‌ی اسبق مجلس با انتشار این ویدیو نوشت:<br><b><br>نه پشت بابک زنجانی روشن شد، نه پشت مهدی جهانگیری و نه پشت مقاماتی که پرونده‌هایشان قطورتر شده است!</b><br><br>این اظهارات <b>اسحاق جهانگیری</b>، معاون اول دولت روحانی و رئیس پیشین ستاد مبارزه با مفاسد اقتصادی، درباره پرونده فساد بابک زنجانی شنیدنی است؛ <br>او می‌گوید:<br>«نه من و نه وزیر نفت هرگز نفهمیدیم پشت بابک زنجانی به کجا گرم است!»<br><br>با این همه روشنگری‌ها، <b>بابک زنجانی امروز چنان ظاهر می‌شود که گویی امپراطوری صاحب‌نفوذ است</b>؛ با محافظانش شق‌ورق راه می‌رود، فخر می‌فروشد و به عالم و آدم رهنمود می‌دهد! <b>واقعاً کی به کیه؟!</b><br><br>البته عدالت اقتضا می‌کرد اسحاق درباره پرونده فساد برادرش مهدی نیز روشنگری کند؛ توضیحی هرچند مختصر درباره قاچاق حرفه‌ای ارز به خارج، تحصیل ده‌ها میلیارد تومان مال نامشروع، و اینکه چگونه ۷۴ ضربه شلاق به ۵۰ میلیون ریال جزای نقدی تقلیل یافت. همچنین می‌بایست توضیح دهد که فرزند یک کارگر معدن کرومیت آبدشت با اتکا به چه رانت‌هایی چنین جهشی کرده و به بانکداری، تأسیس هلدینگ گروه مالی گردشگری و انبوهی از فعالیت‌های اقتصادی و ثروت‌های کلان رسیده است.",
-      "plain_text": "✅اکبر اعلمی نماینده‌ی اسبق مجلس با انتشار این ویدیو نوشت:\n\nنه پشت بابک زنجانی روشن شد، نه پشت مهدی جهانگیری و نه پشت مقاماتی که پرونده‌هایشان قطورتر شده است!\n\nاین اظهارات اسحاق جهانگیری، معاون اول دولت روحانی و رئیس پیشین ستاد مبارزه با مفاسد اقتصادی، درباره پرونده فساد بابک زنجانی شنیدنی است؛\nاو می‌گوید:\n«نه من و نه وزیر نفت هرگز نفهمیدیم پشت بابک زنجانی به کجا گرم است!»\n\nبا این همه روشنگری‌ها، بابک زنجانی امروز چنان ظاهر می‌شود که گویی امپراطوری صاحب‌نفوذ است؛ با محافظانش شق‌ورق راه می‌رود، فخر می‌فروشد و به عالم و آدم رهنمود می‌دهد! واقعاً کی به کیه؟!\n\nالبته عدالت اقتضا می‌کرد اسحاق درباره پرونده فساد برادرش مهدی نیز روشنگری کند؛ توضیحی هرچند مختصر درباره قاچاق حرفه‌ای ارز به خارج، تحصیل ده‌ها میلیارد تومان مال نامشروع، و اینکه چگونه ۷۴ ضربه شلاق به ۵۰ میلیون ریال جزای نقدی تقلیل یافت. همچنین می‌بایست توضیح دهد که فرزند یک کارگر معدن کرومیت آبدشت با اتکا به چه رانت‌هایی چنین جهشی کرده و به بانکداری، تأسیس هلدینگ گروه مالی گردشگری و انبوهی از فعالیت‌های اقتصادی و ثروت‌های کلان رسیده است.",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>اکبر اعلمی نماینده‌ی اسبق مجلس با انتشار این ویدیو نوشت:<br><br><b>نه پشت بابک زنجانی روشن شد، نه پشت مهدی جهانگیری و نه پشت مقاماتی که پرونده‌هایشان قطورتر شده است!</b><br><br>این اظهارات <b>اسحاق جهانگیری</b>، معاون اول دولت روحانی و رئیس پیشین ستاد مبارزه با مفاسد اقتصادی، درباره پرونده فساد بابک زنجانی شنیدنی است؛ <br>او می‌گوید:<br>«نه من و نه وزیر نفت هرگز نفهمیدیم پشت بابک زنجانی به کجا گرم است!»<br><br>با این همه روشنگری‌ها، <b>بابک زنجانی امروز چنان ظاهر می‌شود که گویی امپراطوری صاحب‌نفوذ است</b>؛ با محافظانش شق‌ورق راه می‌رود، فخر می‌فروشد و به عالم و آدم رهنمود می‌دهد! <b>واقعاً کی به کیه؟!</b><br><br>البته عدالت اقتضا می‌کرد اسحاق درباره پرونده فساد برادرش مهدی نیز روشنگری کند؛ توضیحی هرچند مختصر درباره قاچاق حرفه‌ای ارز به خارج، تحصیل ده‌ها میلیارد تومان مال نامشروع، و اینکه چگونه ۷۴ ضربه شلاق به ۵۰ میلیون ریال جزای نقدی تقلیل یافت. همچنین می‌بایست توضیح دهد که فرزند یک کارگر معدن کرومیت آبدشت با اتکا به چه رانت‌هایی چنین جهشی کرده و به بانکداری، تأسیس هلدینگ گروه مالی گردشگری و انبوهی از فعالیت‌های اقتصادی و ثروت‌های کلان رسیده است.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅اکبر اعلمی نماینده‌ی اسبق مجلس با انتشار این ویدیو نوشت:\n\nنه پشت بابک زنجانی روشن شد، نه پشت مهدی جهانگیری و نه پشت مقاماتی که پرونده‌هایشان قطورتر شده است!\n\nاین اظهارات اسحاق جهانگیری، معاون اول دولت روحانی و رئیس پیشین ستاد مبارزه با مفاسد اقتصادی، درباره پرونده فساد بابک زنجانی شنیدنی است؛\nاو می‌گوید:\n«نه من و نه وزیر نفت هرگز نفهمیدیم پشت بابک زنجانی به کجا گرم است!»\n\nبا این همه روشنگری‌ها، بابک زنجانی امروز چنان ظاهر می‌شود که گویی امپراطوری صاحب‌نفوذ است؛ با محافظانش شق‌ورق راه می‌رود، فخر می‌فروشد و به عالم و آدم رهنمود می‌دهد! واقعاً کی به کیه؟!\n\nالبته عدالت اقتضا می‌کرد اسحاق درباره پرونده فساد برادرش مهدی نیز روشنگری کند؛ توضیحی هرچند مختصر درباره قاچاق حرفه‌ای ارز به خارج، تحصیل ده‌ها میلیارد تومان مال نامشروع، و اینکه چگونه ۷۴ ضربه شلاق به ۵۰ میلیون ریال جزای نقدی تقلیل یافت. همچنین می‌بایست توضیح دهد که فرزند یک کارگر معدن کرومیت آبدشت با اتکا به چه رانت‌هایی چنین جهشی کرده و به بانکداری، تأسیس هلدینگ گروه مالی گردشگری و انبوهی از فعالیت‌های اقتصادی و ثروت‌های کلان رسیده است.\n\n@Sahamnewsorg",
       "media": [
         {
           "kind": "video",
@@ -33,9 +61,9 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.03K",
+      "views_label": "6.47K",
       "posted_at": "2026-09-07T19:17:16+00:00",
-      "edited": false,
+      "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147139",
       "reply": null
     },
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16.7K",
+      "views_label": "18.8K",
       "posted_at": "2026-09-07T18:47:26+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147138",
@@ -77,7 +105,7 @@
       "plain_text": "✅محمد مهاجری: آقای پزشکیان برکناری حداقل۳ وزیر ناتراز حتی در شرایط جنگی به سود کشور است.\n\nاما اگر نگرانید مجلس در رای‌اعتماد،بازی در بیاورد، برای این وزیران ضعیف، قائم‌مقام با اختیار کامل منصوب کنید.\n\nحفظ مدیران ضعیف نه اخلاق‌مداری است،نه وفاق.\nدر این روزهای سخت رودربایستی را کنار بگذارید.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "19.4K",
+      "views_label": "21K",
       "posted_at": "2026-09-07T18:37:19+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147137",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.8K",
+      "views_label": "24.4K",
       "posted_at": "2026-09-07T18:26:49+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147136",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.9K",
+      "views_label": "30.8K",
       "posted_at": "2026-09-07T17:55:32+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147135",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.1K",
+      "views_label": "32.7K",
       "posted_at": "2026-09-07T17:37:44+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147134",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.8K",
+      "views_label": "32.4K",
       "posted_at": "2026-09-07T17:33:46+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147133",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.5K",
+      "views_label": "36.1K",
       "posted_at": "2026-09-07T17:14:47+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147132",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "42K",
+      "views_label": "42.6K",
       "posted_at": "2026-09-07T15:32:31+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147131",
@@ -261,7 +289,7 @@
       "plain_text": "✅شیخ! بهتر نبود از اف ۴ شروع می‌کردید؟\n\n✍️مازیار اوستا\nخسروپناه، دبیر شورای انقلاب فرهنگی:\nامروز همه نهادهای ما باید پهپاد بسازند؛ پهپادی که اف‌۳۵ را بزند.\n\nمملکت به چه بدبختی گرفتار شده که کسی که کوچکترین آشنایی با فرهنگ ندارد شده دبیر شورای عالی فرهنگی! و همین فرد بدون هیچ تخصص نظامی، در این زمینه هم وارد شده دستور ساخت پهباد، آنهم  پهبادی که اف۳۵  بزند می دهد!\n\nشیخ از قدیم گفتند :«گنجشکی که انجیر می خوره نوکش کجه» !\nشما قیمت دلار را دو روز ثابت نگه دار! پهباد اف۳۵ زن پیشکش!\n\nدر ضمن شیخ! هنوز در دنیا  آنها که دانش ساخت هواپیما دارند، هواپیمایی که اف ۳۵ شکار کنه نساخته اند! بعد جنابعالی میخوای در مثلا اداره ثبت یا دارایی  پهبادی بسازی که  اف۳۵ پنج بزند؟\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "48.9K",
+      "views_label": "49.2K",
       "posted_at": "2026-09-07T14:19:53+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147130",
@@ -298,7 +326,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "46.6K",
+      "views_label": "46.9K",
       "posted_at": "2026-09-07T14:04:40+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147129",
@@ -314,7 +342,7 @@
       "plain_text": "✅بلومبرگ:آمریکا قصد دارد امروز پرونده هسته‌ای ایران را به شورای امنیت سازمان ملل متحد ارجاع دهد\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "46K",
+      "views_label": "46.3K",
       "posted_at": "2026-09-07T13:56:02+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147128",
@@ -330,7 +358,7 @@
       "plain_text": "✅مهدي كروبي در دیدار با سيد هادي خامنه ای: شرایط امروز کشور در همه حوزه ها اسفبار و شرم‌آور است\n\nحجت الاسلام و المسلمين \"مهدي كروبي\" با حضور در منزل حجت الاسلام و المسلمين \"سيد هادي خامنه اي\" با ايشان ديدار و گفت و گو كرد.\n\nدر اين ديدار كه خانواده مهدی کروبی نيز حضور داشتند، پيرامون مسائل روز و تحولات داخلي و خارجي گفت و گوهايی انجام شد.\n\nمهدی كروبی در اين ديدار با يادآوری مجاهدت های مردم ایران برای تحقق آزادی، عدالت و حق تعیین سرنوشت شأن شرایط امروز کشور در همه حوزه ها را اسفبار و شرم‌آور خواند. کروبی شرایط امروز را نتیجه سیاست های فاجعه بار چند دهه حاکمیت بریده از مردم دانست. حاکمیتی که به گفته او با همان رویکرد و بدون توجه به منافع ملی و مشکلات اقتصادی و سیاسی کشور تفاهم نامه اسلام آباد را تحت نفوذ نفوذی ها برهم زد.\n\nسيد هادي خامنه اي نيز در اين ديدار ضمن تشکر و آرزوی سلامتي و عزت روزافزون برای آقای کروبی از رفع حصر ایشان ابراز خوشحالي کرد و گفت: عدم دسترسي علاقمندان و مردم در سال هاي طولاني حصر و محرومیت نظام از تجربه و نگاه شما در اين سال‌ها موجب خسران است. امیدواریم این روند پایان بپذیرد و هرچه زودتر شاهد رفع حصر مهندس ميرحسين موسوي و دکتر زهرا رهنورد هم باشيم که هر دو از سرمایه‌های جامعه هستند و غیبت آن‌ها از حضور موثر اجتماعی به ضرر مردم و نظام بوده است.\nسيد هادي خامنه‌ای با تاکید بر ضرورت توجه به معیشت مردم و مشکلات اقتصادی که فشار زیادی بر آحاد جامعه وارد کرده است گفت: مردم مهمترین پشتوانه نظام هستند که در مقاطع مختلف از جمله دو جنگ اخیر امتحان خود را پس داده‌اند، اکنون شایسته نیست که با شدیدترین فشار اقتصادی و انواع کمبودها مواجه باشند.\nاین روحانی اصلاح طلب با اشاره به اهمیت حفظ انسجام داخلی و استفاده از ظرفیت‌های موجود با هر سلیقه و گرایشی، گفتگو و تعامل حول منافع ملی برای عبور از بحران‌های داخلی و بین‌المللی را در این مقطع ضروری دانست.\n\nدر پایان این دیدار مهدي كروبی و سید هادی خامنه‌ای ضمن یادآوری خدمات ارزشمند مهندس موسوی در دوران جنگ خواستار پایان حصر غیر قانونی ایشان و همسرش خانم دکتر رهنورد شدند.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "50.5K",
+      "views_label": "50.8K",
       "posted_at": "2026-09-07T12:44:04+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147127",
@@ -358,7 +386,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.8K",
+      "views_label": "50.1K",
       "posted_at": "2026-09-07T12:22:26+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147126",
@@ -374,7 +402,7 @@
       "plain_text": "✅گروسی:ایران باید به حرف ما گوش دهد\n\nاظهارات مدیرکل آژانس بین المللی انرژی اتمی:\n\n🔸 ما تا الان اقدامی فنی درباره ایران نداشتیم و همانطور که در گزارش آمده است هیچ تعامل و اطلاعاتی وجود ندارد\n\n🔸 ایران گفته است تا زمانی که توافقاتی در مذاکرات حاصل نشود همکاری نخواهند کرد\n\n🔸 ایران همچنان عضو پیمان NPT است و تعهداتی دارد\n\n🔸 ما به تعامل با ایران نیاز داریم و درس خوبی از اتفاقات قبلی میتوانیم بگیریم\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "48.7K",
+      "views_label": "49K",
       "posted_at": "2026-09-07T12:20:11+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147125",
@@ -390,7 +418,7 @@
       "plain_text": "✅هشدار ایران به آمریکا؛ در صورت اشغال تپه علی‌الطاهر مستقیم وارد عمل می‌شویم\n\nالجزیره به نقل از یک تحلیل‌گر:\n\n🔸 ایران به آمریکا اطلاع داده که در صورت اشغال تپه علی‌الطاهر توسط اسرائیل، مستقیماً وارد عمل می‌شود\n\n🔸 تل‌آویو عملاً کنترل تپه علی‌الطاهر را در دست نگرفته.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "48.9K",
+      "views_label": "49.2K",
       "posted_at": "2026-09-07T12:16:12+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147124",
@@ -406,7 +434,7 @@
       "plain_text": "✅امارات: گروگان تنگه هرمز نمی‌مانیم و مسیر جایگزین می‌سازیم\n\nممکن است دهه‌ها طول بکشد تا اعتماد میان امارات و ایران دوباره شکل بگیرد\n\n🔹قرقاش مشاور رئیس امارات مدعی شد امارات متحده عربی معطل تنگه هرمز نمی ماند و در حال توسعه مسیرهای جایگزین برای صادرات انرژی و تجارت است تا وابستگی خود را به کریدورهای کشتیرانی آسیب‌پذیر در بحبوحه درگیری مداوم با ایران کاهش دهد.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "52.8K",
+      "views_label": "53.1K",
       "posted_at": "2026-09-07T10:57:52+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147123",
@@ -2343,43 +2371,6 @@
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147040",
       "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147039",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LEPulZgNyRXQYUH9pl6txwmy1HaX1HDx2Vj1MUZOEH08i10zaO4aZhruOq7e7tuCrDtlLu1KCqgj2aEt5We72kVXaPWY26ewl5sw9d3G7ezGzPfjPB-4pQM-cGqEAZhmN8PmaDxycrwl1DnrM0MMCdCLoAkc3GNj2ciAWHd7PaEDCkRqMS0AA97Kre37DwtmJRlvO9HWWQ3L1lrW1B0vJZ7PZ9KN7v_ochZfRsNLzcI5qicVpEqEzWUd2ikFhWbkLGHz2-LFcGyh7UrCtcmLvMDozbJtR8Vtccyc0WXtH3ZnLExU2BRwof0c-62a6UypDkGSOoxACOw167DnfXIvVA.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/93aceceef10a8532f638aaa7.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>تصویر مردی که نیلوفر مجاور را مورد شکنجه و آزار جنسی قرار داده بود<br><br>نیلوفر مجاور، دختر ۲۷ ساله پیرانشهری که فریب یه مرد غریبه رو خورده بود و به مدت ۱۰ روز تو مکانی نامشخص به شدت مورد خشونت، شکنجه و محرومیت از آب و غذا قرار گرفت و در نهایت جان باخت!<br><br>مرد موردنظر بدون اجرای مراسم خواستگاری و با دادن وعده هایی، اعتماد نیلوفر را جلب کرده و او را به خانه ای در اطراف پیرانشهر برده<br>نیلوفر پس از مدتی از این تصمیم پشیمان شده و قصد بازگشت به خانه را داشته اما بنا به اظهارات آنان، بازگشت برای او ممکن نشده <br>پس ‌از این ۱۰ روز دچار مرگ مغزی شد و پس‌از چند روز بستری شدن تو بیمارستان فقط ۲ کلیه‌ش سالم موند و در نهایت فوت شد!رکنا<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅تصویر مردی که نیلوفر مجاور را مورد شکنجه و آزار جنسی قرار داده بود\n\nنیلوفر مجاور، دختر ۲۷ ساله پیرانشهری که فریب یه مرد غریبه رو خورده بود و به مدت ۱۰ روز تو مکانی نامشخص به شدت مورد خشونت، شکنجه و محرومیت از آب و غذا قرار گرفت و در نهایت جان باخت!\n\nمرد موردنظر بدون اجرای مراسم خواستگاری و با دادن وعده هایی، اعتماد نیلوفر را جلب کرده و او را به خانه ای در اطراف پیرانشهر برده\nنیلوفر پس از مدتی از این تصمیم پشیمان شده و قصد بازگشت به خانه را داشته اما بنا به اظهارات آنان، بازگشت برای او ممکن نشده\nپس ‌از این ۱۰ روز دچار مرگ مغزی شد و پس‌از چند روز بستری شدن تو بیمارستان فقط ۲ کلیه‌ش سالم موند و در نهایت فوت شد!رکنا\n\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/sahamnewsorg/147039",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/QSs6lUttW227oSRETCGI4hnKwuVaX0HVcpEALf-4DfRMdl6YJM4zTGfuvZE0ghjXK2lTDAqbYWCWuWeRlmsR0a_z0JdKGxAPdO75HaLyHTAShQcZtciLQlCT_7HUA2u7XPfqydLgsrkXijoF5nEx89T-0xeyBIed882aoiqbqiNArUAhc_vzd1lrogHJ55Nth1Nym3Z9c9H9vFjHh5CwMB1i5nUN36viACwNpgzQC_rMQm-MxN2st9iYkM4dDS5WNH7oc5kBKyxQFXPYS16oNajIxC8ydZmyBQblBz3oa8dval5Uo5ygY2zmAFZHbxhcck0kCIny3gKAieUDwdOKVQ.jpg",
-          "thumbnail_path": "channels/sahamnewsorg/media/05ec77a86cf8fde6c071c4bf.jpg",
-          "thumbnail_sha256": "d5f3155a7dfe32afd09096af89f87fa42edd4a20e46fe75f7491680afc00bf9b",
-          "duration_label": null,
-          "aspect_ratio": 1.7937219730941705
-        }
-      ],
-      "reactions": [],
-      "views_label": "47.9K",
-      "posted_at": "2026-09-05T14:27:43+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147039",
-      "reply": {
-        "channel_username": "sahamnewsorg",
-        "post_id": "147032",
-        "author_name": "سهام نیوز",
-        "preview_text": "✅مرگ نیلوفر مجاور پس از ۱۰ روز شکنجه و آزار جنسی؛ دو کلیه او اهدا شد کُردپا گزارش داده است که نیلوفر مجاور، زن ۲۷ ساله اهل پیرانشهر، پس از حدود ۱۰ روز نگهداری در مکانی نامعلوم و آنچه خانواده‌اش شکنجه، خشونت جسمی و جنسی و محرومیت از آب و غذا عنوان کرده‌اند،…",
-        "thumbnail_url": "https://cdn4.telesco.pe/file/p9rAP8iGVhM8NY39zLbgOGxqPZyAAzZxoR1g2RZ1Jc6lnJQhtVbpBlVVYApOZEIOsen00aiPFyyKwtvt7uIwY6_KWo8QbkrodSpIg1ScOM9YxVXPcmDof7nrJIJFgGGVacssgIOUvRXbCYUimpwa1xCGfYwIhVKIXizOtNsNkKOB-8k2G1kQwCw8_mSFJqhf-_uQ5xNWWK_uAKAE1sR_9rawO4u5a4v8x6Ud9m_VQl8sZBGk2EBoEj-lpHCJSuuD_BHdEBZ-oJlWcWil9JXXTZtSbahWETEbWCuuz_xXLGyXlRXBPkYpMma7WdUK_OiISq-go46OEGgjs4q73XMWRA",
-        "thumbnail_path": "channels/sahamnewsorg/media/ddbe548d9a90ad6922ce1400.jpg",
-        "thumbnail_sha256": "4bb81f4deec763d486762c265101fdd8ec5b19c4400e6f7b7986bc54593113f3",
-        "permalink": "https://t.me/sahamnewsorg/147032"
-      }
     }
   ]
 }
