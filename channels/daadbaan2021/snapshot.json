@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T18:42:07.896Z",
+  "fetched_at": "2026-09-07T18:47:04.408Z",
   "channel": {
     "username": "daadbaan2021",
     "title": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
@@ -32,8 +32,13 @@
           "aspect_ratio": 0.8
         }
       ],
-      "reactions": [],
-      "views_label": "62",
+      "reactions": [
+        {
+          "emoji": "👎",
+          "count": "1"
+        }
+      ],
+      "views_label": "64",
       "posted_at": "2026-09-07T17:54:18+00:00",
       "edited": false,
       "permalink": "https://t.me/Daadbaan2021/20229",
@@ -66,7 +71,7 @@
           "count": "1"
         }
       ],
-      "views_label": "76",
+      "views_label": "77",
       "posted_at": "2026-09-07T17:22:09+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20228",
@@ -99,7 +104,7 @@
           "count": "2"
         }
       ],
-      "views_label": "101",
+      "views_label": "102",
       "posted_at": "2026-09-07T15:34:48+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20227",
