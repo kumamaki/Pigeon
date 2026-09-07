@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T15:17:11.361Z",
+  "fetched_at": "2026-09-07T15:22:11.617Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356162",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "هم‌زمان با تهدید قالیباف به هدف قرار دادن تاسیسات نفت و انرژی منطقه، پالایشگاه آرامکو عربستان سعودی در جازان هدف حمله قرار گرفت.<br><br>جزییات بیشتر در گفت‌وگو با سمیرا قرایی، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "هم‌زمان با تهدید قالیباف به هدف قرار دادن تاسیسات نفت و انرژی منطقه، پالایشگاه آرامکو عربستان سعودی در جازان هدف حمله قرار گرفت.\n\nجزییات بیشتر در گفت‌وگو با سمیرا قرایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356162",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/kE2PEhHMMpb5Adsc5ZW4LPmvP2xeBcHy1E8iqs2US8zTOo9j2byTZzMQNM8HwnwuHnz4S3uvWrKw-rtEh-GZyRLPtzxmPc4y3ux9q9QDrO7Ug_GBlIFyCu6kGAlM18cICWzF6Txny7kyX5JAG5E6gH7af2JHRm0t20-q0KmVmhP3vfW1Fvh5WQhYiHbOx6Mnn06G3bwp_3Nmxwj2ojaghpq40BlN6Cqn0eLjf4Vgb2IF8g-ZJ-2O54vFcC6kos_7Hq-6Ei861Izjy3ffqhpOeQRwPcAxcAE1md1CxjBq0qb1wJ6jxh5ukwn59bnvuVPjdQ9IELvGwa_NDjcDb8XnvA",
+          "thumbnail_path": "channels/iranintltv/media/1ae2905d9bab649177becec6.jpg",
+          "thumbnail_sha256": "6c61c9fe56b39a4f622e59423188da306471cb5a162f6898d3d027d210d5ca06",
+          "duration_label": "5:28",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "3.18K",
+      "posted_at": "2026-09-07T15:17:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356162",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356161",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.55K",
+      "views_label": "13.8K",
       "posted_at": "2026-09-07T15:00:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356161",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.2K",
+      "views_label": "23.4K",
       "posted_at": "2026-09-07T14:38:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356160",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.2K",
+      "views_label": "22.3K",
       "posted_at": "2026-09-07T14:37:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356159",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.2K",
+      "views_label": "22.4K",
       "posted_at": "2026-09-07T14:30:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356158",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.2K",
+      "views_label": "21.3K",
       "posted_at": "2026-09-07T14:28:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356157",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.2K",
+      "views_label": "21.3K",
       "posted_at": "2026-09-07T14:26:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356156",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.3K",
+      "views_label": "22.4K",
       "posted_at": "2026-09-07T14:19:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356155",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.4K",
+      "views_label": "23.5K",
       "posted_at": "2026-09-07T14:14:05+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356154",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.7K",
+      "views_label": "27.8K",
       "posted_at": "2026-09-07T14:02:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356153",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.8K",
+      "views_label": "29.9K",
       "posted_at": "2026-09-07T13:55:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356152",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.1K",
+      "views_label": "34.1K",
       "posted_at": "2026-09-07T13:35:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356151",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.1K",
+      "views_label": "35.2K",
       "posted_at": "2026-09-07T13:32:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356150",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30K",
+      "views_label": "31K",
       "posted_at": "2026-09-07T13:31:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356149",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.1K",
+      "views_label": "34.2K",
       "posted_at": "2026-09-07T13:17:56+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356147",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.2K",
+      "views_label": "36.2K",
       "posted_at": "2026-09-07T13:11:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356146",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.3K",
+      "views_label": "36.3K",
       "posted_at": "2026-09-07T13:02:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356145",
@@ -509,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.2K",
+      "views_label": "35.2K",
       "posted_at": "2026-09-07T13:01:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356144",
@@ -537,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.2K",
+      "views_label": "35.3K",
       "posted_at": "2026-09-07T12:57:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356143",
@@ -2709,34 +2737,6 @@
       "posted_at": "2026-09-07T02:14:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356060",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356059",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "رویترز گزارش داد خروج یک هواپیمای باری آمازون پرایم‌ایر از باند فرودگاه بین‌المللی میامی و برخورد آن با چند خودرو، دست‌کم پنج کشته و پنج زخمی بر جای گذاشت. حال سه مجروح وخیم گزارش شده است.<br><br>این هواپیمای بوئینگ ۷۶۷-۳۰۰ که از سن‌خوان پورتوریکو برخاسته بود، کمی پیش از ساعت دو بعدازظهر یکشنبه هنگام فرود از باند خارج شد و با خودروهای روی زمین برخورد کرد.<br><br>ری جادالله، رییس آتش‌نشانی میامی‌دید، گفت دست‌کم دو نفر در خودروها گرفتار شدند و خلبان و کمک‌خلبان نیز پس از سانحه داخل هواپیما محبوس ماندند.<br><br>بیش از ۶۰ واحد امدادی و حدود ۲۰۰ نیروی عملیاتی به محل اعزام شدند و امدادگران برای مهار نشت سوخت وارد عمل شدند. فرودگاه میامی پس از حادثه همه پروازها را متوقف کرد، اما دو باند آن بعدتر بازگشایی شد.<br><br>شرکت «۲۱ ایر» این پرواز را به نمایندگی از آمازون انجام می‌داد. اداره هوانوردی فدرال آمریکا اعلام کرد درباره علت سانحه تحقیق خواهد کرد.<br><br><a href=\"https://iranintl.com/202609065726\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609065726</a>",
-      "plain_text": "رویترز گزارش داد خروج یک هواپیمای باری آمازون پرایم‌ایر از باند فرودگاه بین‌المللی میامی و برخورد آن با چند خودرو، دست‌کم پنج کشته و پنج زخمی بر جای گذاشت. حال سه مجروح وخیم گزارش شده است.\n\nاین هواپیمای بوئینگ ۷۶۷-۳۰۰ که از سن‌خوان پورتوریکو برخاسته بود، کمی پیش از ساعت دو بعدازظهر یکشنبه هنگام فرود از باند خارج شد و با خودروهای روی زمین برخورد کرد.\n\nری جادالله، رییس آتش‌نشانی میامی‌دید، گفت دست‌کم دو نفر در خودروها گرفتار شدند و خلبان و کمک‌خلبان نیز پس از سانحه داخل هواپیما محبوس ماندند.\n\nبیش از ۶۰ واحد امدادی و حدود ۲۰۰ نیروی عملیاتی به محل اعزام شدند و امدادگران برای مهار نشت سوخت وارد عمل شدند. فرودگاه میامی پس از حادثه همه پروازها را متوقف کرد، اما دو باند آن بعدتر بازگشایی شد.\n\nشرکت «۲۱ ایر» این پرواز را به نمایندگی از آمازون انجام می‌داد. اداره هوانوردی فدرال آمریکا اعلام کرد درباره علت سانحه تحقیق خواهد کرد.\n\nhttps://iranintl.com/202609065726",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356059",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/cvln8QbE6iCLIn4kgxB0zDhWe9FjlhG_QRwWb62BbQhk3MMubbaMG1SedJgmdHotfS3JMho64AEwdMrsJDjRNW9BLRUmbMgS0qKdYYfd_itVjIJQ1NwiTt_4KfM6auVimx32oftQZAj4RSRIWWTqvp_PEMsrr7vBI-eSLIDkTXvHGKZiUmhwh4sb8dsHxrpdjybJPRKNsf0hc11gnNEahm0YhV6QKzOQnUgasxaakoazQCrFSEeiuOIJ9LD3VUzwchech9MZZpM6tZRSeA3cjeqjUavc4M-1E0KwO-oKP-9NwBJ8sL3-nk7WYUaVFTT9-5hmTrgQAKFIegS0w3HECQ.jpg",
-          "thumbnail_path": "channels/iranintltv/media/e7bd5caa478601b1cb31973b.jpg",
-          "thumbnail_sha256": "f483b3491cc23570835f98523e33fb5df2aa85c8746c82047c49382bd132c915",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "68.1K",
-      "posted_at": "2026-09-07T01:04:36+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356059",
       "reply": null
     }
   ]

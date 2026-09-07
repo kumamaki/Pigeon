@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T15:17:13.492Z",
+  "fetched_at": "2026-09-07T15:22:14.081Z",
   "channel": {
     "username": "matinsenpaii",
     "title": "Matin SenPai",
@@ -27,7 +27,7 @@
         },
         {
           "emoji": "💔",
-          "count": "460"
+          "count": "462"
         },
         {
           "emoji": "😁",
@@ -72,7 +72,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "171"
+          "count": "172"
         },
         {
           "emoji": "👍",
@@ -140,7 +140,7 @@
           "count": "1"
         }
       ],
-      "views_label": "22.9K",
+      "views_label": "23K",
       "posted_at": "2026-09-06T19:26:02+00:00",
       "edited": false,
       "permalink": "https://t.me/MatinSenPaii/5208",
@@ -436,8 +436,8 @@
           "asset_url": "https://t.me/MatinSenPaii/5201",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/K1lwUauonw5fvSrRF0uBN00dVNkWDwjD-o0QQva4NkYwKNcwZd0V92YBp3hKIabE6z0OMs4lwdLH6prACoTYN8heTzOfhHRWpIclzFEKdnie449XrxZ7KsMxnTlbrd9m8JUP2BD04uPakShq8GoKh3niI1vaiStPU3bRuAeNJ9lGNUrnTP3bRit_HkcJMTxk6HH9-2TU6aWAWC8ht5uZ067_a2SmLl0ogHDPMh6ap-_213-Yhmk09byY7LdillS_SZB707Jobo--g8T7mDGnTxMsK1l_RLveQR048vL1ieN-J4Qv3ewj19YlSH3C9XAihICdPqNiLaOotRvtEX3wFA.jpg",
-          "thumbnail_path": "channels/matinsenpaii/media/81a719fe5d32c8bfdab9d392.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/RsYeLetlg66nWEYQ12NtvaPlAA0UBIbj5db6TJ7HTJwM9uNDSZpP5H8g5yOtKAL3RdXL295VXWTOZktXvPVJJCt2dNZ1go0awPpC-qr_lombiBgne-mIqItPYdRZK_-3X7RzW5LGZzCTOgXXfAla7oe8_QztTOCEAN8AgWLikjrYPjf3ScI4R8xXDmESdgxAC6i0rDivMEJAoXdL9x9kwFcX1mGAbngDoZ2H2qoIqwlRsEAOS-hKXvlwrMbReaelpD43bDq-_2rOHWOcsCmDTRVha3UBG4FEWIGumxw6_HlvQ9gU6ogi5MUwWv6Sa85GwyV6lvjYVOQqS5nVBjdHSw.jpg",
+          "thumbnail_path": "channels/matinsenpaii/media/bf314149acc20869460665d1.jpg",
           "thumbnail_sha256": "731b053e83591c57a18cc44842e721ab917ee0aa8c00dcb862f889b3d0cbf8ef",
           "duration_label": null,
           "aspect_ratio": 1.1126564673157162

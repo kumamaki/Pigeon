@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T15:17:09.196Z",
+  "fetched_at": "2026-09-07T15:22:08.846Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229745",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "دوشنبه ۱۶ شهریور گروهی از بازنشستگان مخابرات در ایلام در اعتراض به رسیدگی نشدن به مطالبات و مشکلات معیشتی خود تجمع کردند و خواستار اجرای کامل آیین‌نامه اجرایی و ساماندهی وضعیت بیمه‌های تکمیلی شدند.",
+      "plain_text": "دوشنبه ۱۶ شهریور گروهی از بازنشستگان مخابرات در ایلام در اعتراض به رسیدگی نشدن به مطالبات و مشکلات معیشتی خود تجمع کردند و خواستار اجرای کامل آیین‌نامه اجرایی و ساماندهی وضعیت بیمه‌های تکمیلی شدند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229745",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/jRD5f_hgpw_G-akpbGL0-9L9qlMoi2ZbC1uHo-NWxO3VnaAeuxRLfQi1hMGv_Z31sxh6U2IV_3nInvvZNhow0mtwWQtF_2LlJJ0QwhZUAspTRmsmCY5Kr_HZozIvNTHLMe91NdxNBilW4r0nfcRqQouGvwlKQsq6caPVOffthF6_btzQHfyW43aFeQ-N_Szxp2vjnGYmucup0Zz_ZlBmB80quosiBXsyty5Xc9U6z7COg_Qfs0CDqQgBmMGk1jzCvHmeIc2X3ZwRiS5abiX_8NiRvot78DPoFOXV4OexLxRKPXc_XtbESYwsHpppW0XKNwFGcNTbJ4Fl305r9hDV2w",
+          "thumbnail_path": "channels/farsivoa/media/56027d8cfaa2563ddf5f486d.jpg",
+          "thumbnail_sha256": "f135c449cf7080340d33b404d0d51dfe3122ebd5991dea9cc46aa1c2b9967a16",
+          "duration_label": "0:12",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "128",
+      "posted_at": "2026-09-07T15:20:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229745",
+      "reply": null
+    },
     {
       "id": "farsivoa/229744",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "292",
+      "views_label": "514",
       "posted_at": "2026-09-07T15:12:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229744",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "548",
+      "views_label": "740",
       "posted_at": "2026-09-07T15:04:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229743",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.04K",
+      "views_label": "1.14K",
       "posted_at": "2026-09-07T14:48:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229742",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.23K",
+      "views_label": "1.36K",
       "posted_at": "2026-09-07T14:41:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229741",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.24K",
+      "views_label": "1.34K",
       "posted_at": "2026-09-07T14:37:29+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229740",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.4K",
+      "views_label": "1.47K",
       "posted_at": "2026-09-07T14:31:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229739",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.69K",
+      "views_label": "1.76K",
       "posted_at": "2026-09-07T14:17:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229738",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.72K",
+      "views_label": "1.78K",
       "posted_at": "2026-09-07T14:11:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229737",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.98K",
+      "views_label": "2.04K",
       "posted_at": "2026-09-07T13:54:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229736",
@@ -273,7 +301,7 @@
       "plain_text": "🔺بسنت در روز کارگر: دستمزد واقعی آمریکایی‌ها از تورم پیشی گرفته است\n\n▪️اسکات بسنت، وزیر خزانه‌داری آمریکا، روز دوشنبه ۱۶ شهریور، هم‌زمان با «روز کارگر» در ایالات متحده، گفت دستمزد واقعی آمریکایی‌ها از نرخ تورم پیشی گرفته، و رشد دستمزد در میان کارگران کم‌درآمد سریع‌تر از افراد با درآمد بالاتر بوده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/bessent-us-labor-day-american-workers-income/8195055.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.05K",
+      "views_label": "2.12K",
       "posted_at": "2026-09-07T13:44:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229735",
@@ -289,7 +317,7 @@
       "plain_text": "🔺درگیری‌های یمن میان نیروهای دولتی و شورشیان حوثی به شمال شرق صنعا رسید\n\n▪️اخبار جدید از یمن حاکی از آن است که نیروهای دولتی جبهه جدیدی در شمال شرق صنعا، پایتخت یمن، علیه شورشیان حوثی باز کردند؛ و بخش دیگری از نیروهای دولتی در جنوب بندر استراتژیک الحدیده در حال پیشروی و عقب راندن حوثی‌ها هستند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/houthi-yemen-irgc-proxy-war-iran/8195045.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.98K",
+      "views_label": "2.04K",
       "posted_at": "2026-09-07T13:40:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229734",
@@ -305,7 +333,7 @@
       "plain_text": "🔺پرزیدنت ترامپ درباره نویسنده کتاب «ضدانقلاب»: او شاید من را از خودم بهتر می‌شناسد\n\n▪️دونالد ترامپ، رئیس جمهوری آمریکا، هر دو بخش مصاحبه مارک لوین، مجری و مفسر سرشناس، با ویکتور دیویس هانسون، مورخ و نویسنده آمریکایی، در شبکه فاکس نیوز را در تروت سوشال خود بازنشر کرد؛ گفت‌وگویی که محور اصلی آن کتاب تازه هانسون و توصیف او از پرزیدنت ترامپ به عنوان یک چهره «ضدانقلاب» در سیاست آمریکا بود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/president-trump-counterrevolution-interview-mark-levin/8195049.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.95K",
+      "views_label": "2.02K",
       "posted_at": "2026-09-07T13:33:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229732",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.91K",
+      "views_label": "1.97K",
       "posted_at": "2026-09-07T13:30:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229731",
@@ -349,7 +377,7 @@
       "plain_text": "🔺امارات: اجازه نمی‌دهیم صادرات انرژی ما «گروگان» درگیری نظامی با جمهوری اسلامی شود\n\n▪️امارات می‌گوید که با ایجاد مسیرهای جایگزین برای صادرات انرژی اجازه نخواهد داد این فعالیت‌ها در نتیجه درگیری‌های جاری با جمهوری اسلامی «گروگان» گرفته شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/uae-emirates-iran-us-iran-war-strait-hormuz/8195047.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.05K",
+      "views_label": "2.12K",
       "posted_at": "2026-09-07T13:23:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229730",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.38K",
+      "views_label": "2.41K",
       "posted_at": "2026-09-07T13:02:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229729",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.53K",
+      "views_label": "2.59K",
       "posted_at": "2026-09-07T12:55:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229728",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.37K",
+      "views_label": "2.4K",
       "posted_at": "2026-09-07T12:49:28+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229727",
@@ -449,7 +477,7 @@
       "plain_text": "🔺تجمع‌های کارگران و بازنشستگان در چند استان ایران؛ اعتراض به وضعیت معیشت و مطالبات پرداخت‌نشده\n\n▪️گزارش‌ها از ایران حاکی از برگزاری تجمع‌های اعتراضی کارگران و بازنشستگان در چند استان در روز دوشنبه ۱۶ شهریور، در اعتراض به مشکلات معیشتی، مطالبات پرداخت‌نشده، و بلاتکلیفی شغلی است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-protests-retirees-protest-workers-protest/8195041.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.38K",
+      "views_label": "2.41K",
       "posted_at": "2026-09-07T12:43:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229726",
@@ -2409,34 +2437,6 @@
       "posted_at": "2026-09-06T18:10:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229644",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229643",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "انبار سلاح به جای خلع سلاح؛ فرمول تازه بغداد برای مهار گروه‌های مسلح هم‌پیمان جمهوری اسلامی",
-      "plain_text": "انبار سلاح به جای خلع سلاح؛ فرمول تازه بغداد برای مهار گروه‌های مسلح هم‌پیمان جمهوری اسلامی",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229643",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/ppLIifT7hQswIZEgXPoEdv18wFuMeFl6ojSd-mhOrMxAsYiJnvwbYT1U5F2I1xqj7yn7Uz3qLNC_gG5ndSKzKjHozi5dKBYyVBuO6B1p3-sF6Ck2rolkR8nMnJhuNskSpwn43wZ81kOGQWyXUw5_jqkUTbVMwUxW1Zgtptj2Ta8bsLHiUMPBWSUcXaAl1J8U-OnoTqYgDEgyWX2nxk3mQ6Eb2_bo6syKr9GtIhVWGBt1iKLhSyPrdN0dUOBR8wGEBW7aloKzOOvUOrs6a6GNjjFjn2l_ItvqD48DqSjhR640ZCzUvxoL9FOLwE1dcKZ_-d5Ga-3qRa8bjbQbi1LoxQ",
-          "thumbnail_path": "channels/farsivoa/media/91f38b3deaad4b797fa18544.jpg",
-          "thumbnail_sha256": "8a58f16bddf69a3b5697dc9b0f0fa7de77bbc7669286fc54ea5bca2ef60b2a2d",
-          "duration_label": "4:38",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.49K",
-      "posted_at": "2026-09-06T18:03:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229643",
       "reply": null
     }
   ]
