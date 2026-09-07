@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T19:57:03.141Z",
+  "fetched_at": "2026-09-07T20:03:01.164Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -12,6 +12,118 @@
   },
   "posts": [
     {
+      "id": "IranintlTV/356196",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "یک شهروند در ویدیویی که از بازار میوه و تره‌بار اصفهان در دوشنبه ۱۶ شهریور گرفته، کسادی این بازار و خالی بودنش از مشتری را نشان می‌دهد.",
+      "plain_text": "یک شهروند در ویدیویی که از بازار میوه و تره‌بار اصفهان در دوشنبه ۱۶ شهریور گرفته، کسادی این بازار و خالی بودنش از مشتری را نشان می‌دهد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356196",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/QNrqXrj7kMugBXVK0frGm2MAA66zjZWlbR26rTLV-lQefkp15n7Y1PM0vDnBRy8B2N6gN2M46Mc7GGGARUG2AlBT0rYuV6h9AVSdvM7PmDIYVkmyViwHNvDKhXxyapvzM6_7DuqT7oI4c_UCKLIWHGmmszgU-Ba0W_JOzduZucWDcZD_j2JX8cr8C4tIeiWGD8gOwLR_lwJ9N6zQ6nvjDPKz9AfGkr0grcm5iiygPtqg4Pq4GEhYX96urzZvYX2Qt0I_cFIHDDGnhH9HQLGwgmTI2jtBXNdkVnniO7-iyJK8p2qtk3H4V4AhV6YUclwbxqDwY551Bkeet_TlrNhhbA",
+          "thumbnail_path": "channels/iranintltv/media/a5a38beaa03704f9e076d72e.jpg",
+          "thumbnail_sha256": "7064a4f2915dcf0d75e953ad2ecf95eb069b5a9139da3f417080d3ec6d0f4f8d",
+          "duration_label": "0:10",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "23",
+      "posted_at": "2026-09-07T20:02:32+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356196",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356195",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "دادگاه فدرال کانادا دولت این کشور را مکلف کرد حداکثر ظرف ۶۰ روز درباره پرونده درخواست ویزای اقامت موقت ناصر منصور شریفلو، از مدیران ارشد و متخصصان سابق صنعت هسته‌ای ایران، تصمیم‌گیری نهایی کند. این حکم پس از آن صادر شد که درخواست ویزای نامبرده به دلیل بررسی‌های امنیتی، برای بیش از ۹۰۰ روز در چرخه‌های اداری معلق مانده بود. این پرونده در حالی جریان دارد که نهادهای امنیتی کانادا هزاران درخواست مرتبط با وابستگان حکومت ایران را زیر ذره‌بین برده و صدها ویزا را باطل کرده‌اند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "دادگاه فدرال کانادا دولت این کشور را مکلف کرد حداکثر ظرف ۶۰ روز درباره پرونده درخواست ویزای اقامت موقت ناصر منصور شریفلو، از مدیران ارشد و متخصصان سابق صنعت هسته‌ای ایران، تصمیم‌گیری نهایی کند. این حکم پس از آن صادر شد که درخواست ویزای نامبرده به دلیل بررسی‌های امنیتی، برای بیش از ۹۰۰ روز در چرخه‌های اداری معلق مانده بود. این پرونده در حالی جریان دارد که نهادهای امنیتی کانادا هزاران درخواست مرتبط با وابستگان حکومت ایران را زیر ذره‌بین برده و صدها ویزا را باطل کرده‌اند.\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356195",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/fFnzHemOtIfVo8ZJnLcU68JgoWkl7LHZXagep2ZA8p38bPqvJ7UNe2aRoba8N-XCyHLKDVa30tJ1l1idRSu6S25eRV4HH43x-kumd12gtcQ5cahkc-gc-_tHIOGsZUZf-zE_v_3tCqm5Q9imWDN6xhwoy2QtwzQaxZyytcxPRF_XIZV3Y7Hy3dI8n9gHRlxzQHd_u_pHQqjUeLLlmXBG7DrXdUOfmVz6J315y3fJ4pk7r0kQ2hvmiv0o_ECBfeTscP8Tx6e4E030lsFP0CvbSm-e-3gg0fWgYhgHneSa6tyHQDJnt3c2COGnixE-t6kO8D33LAnw8pL3QlBwJJuWPw",
+          "thumbnail_path": "channels/iranintltv/media/a39733ce7da0f1f1b4e0e459.jpg",
+          "thumbnail_sha256": "d21f0e24f462771ea482ca5082921f63f1644409849fb629e84e73cd2b0a6f86",
+          "duration_label": "2:16",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.12K",
+      "posted_at": "2026-09-07T20:01:23+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356195",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356194",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "دادگاه فدرال کانادا دولت این کشور را مکلف کرد حداکثر ظرف ۶۰ روز درباره پرونده درخواست ویزای اقامت موقت ناصر منصور شریفلو، از مدیران ارشد و متخصصان سابق صنعت هسته‌ای ایران، تصمیم‌گیری نهایی کند. این حکم پس از آن صادر شد که درخواست ویزای نامبرده به دلیل بررسی‌های امنیتی، برای بیش از ۹۰۰ روز در چرخه‌های اداری معلق مانده بود. این پرونده در حالی جریان دارد که نهادهای امنیتی کانادا هزاران درخواست مرتبط با وابستگان حکومت ایران را زیر ذره‌بین برده و صدها ویزا را باطل کرده‌اند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "دادگاه فدرال کانادا دولت این کشور را مکلف کرد حداکثر ظرف ۶۰ روز درباره پرونده درخواست ویزای اقامت موقت ناصر منصور شریفلو، از مدیران ارشد و متخصصان سابق صنعت هسته‌ای ایران، تصمیم‌گیری نهایی کند. این حکم پس از آن صادر شد که درخواست ویزای نامبرده به دلیل بررسی‌های امنیتی، برای بیش از ۹۰۰ روز در چرخه‌های اداری معلق مانده بود. این پرونده در حالی جریان دارد که نهادهای امنیتی کانادا هزاران درخواست مرتبط با وابستگان حکومت ایران را زیر ذره‌بین برده و صدها ویزا را باطل کرده‌اند.\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356194",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/D6sPJ38bo_qz4LU3NOoDdpRf_pLg3apparnfIe9qZI9ZcdupFXIWCxx6RxOOG5hB656cSG74YCD5s26X0X8aQDzg3-oY05f8WfeAI7slm6CLdOQsWJbDnQiSamXzeCvEGOnFDXsLxFGna3FahzV5nsR5BYKu8OPpasqy0rWUudAoFcSnsOTEagNAvxDLeG5UMNxzmA5IS58us6Rw35i7qzvgfmxCdkSGETul98gmlZ5Ie50pa3mQrlF2QeNGU6GT8kRLCf9tfvCgql8f6D1YSVhmdAYWAYoPj7Re0FyzXDWzmfFlJkvUr6KHcweTw0VSC2OmtFqSqE4iSH0pPcSEdA",
+          "thumbnail_path": "channels/iranintltv/media/8cfdea0ce0fbde04c839e7c4.jpg",
+          "thumbnail_sha256": "d21f0e24f462771ea482ca5082921f63f1644409849fb629e84e73cd2b0a6f86",
+          "duration_label": "2:16",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "3.16K",
+      "posted_at": "2026-09-07T20:00:33+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356194",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356193",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "آیا روح هیتلر به کمک پوتین و مجتبی خامنه‌ای می‌آید؟!<br><br>چشم‌انداز با مهدی مهدوی‌آزاد<br><br>نسخه کامل این برنامه در یوتیوب:<br><a href=\"https://youtu.be/sqzuzHWCFHQ\" target=\"_blank\" rel=\"noopener\">https://youtu.be/sqzuzHWCFHQ</a><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "آیا روح هیتلر به کمک پوتین و مجتبی خامنه‌ای می‌آید؟!\n\nچشم‌انداز با مهدی مهدوی‌آزاد\n\nنسخه کامل این برنامه در یوتیوب:\nhttps://youtu.be/sqzuzHWCFHQ\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356193",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/im5nR9EiaFJImE6KaDMuex1ab-3UzhaTYLtFCprq2ukMjnQjhA2Z0Yw8Z6bbvKr_M8b9L9yI3TGAe4OJd46Ww5H-uhr4LtdsmxlugI49TabuDA0XS6_gdBJT49qf6ya1YdkpwW3FdvlfqF_AULutCHcA-CrHE_SY83mLlhXUNJfdEbCHSKVNLmM0wXN0irYW1Pv7xeNml5tZbUjamEJN5Apho7GzaUEoI0BzvhjHbr_F3ESwGSEB0JGkvAet0rK-bMF7C3OGtFTMsO9IaL0Ew--IKKWmLSVVdq9UFGEfpoclPolYpCZRzSfgIIPUmSyC36EBQCFf9smw2s0743QBKA",
+          "thumbnail_path": "channels/iranintltv/media/029b3c00e693f556fabbb2b2.jpg",
+          "thumbnail_sha256": "c4558df36d132c80ae43d6bfaccd0a58536e2eb35c29b8746b258ab791584785",
+          "duration_label": "6:20",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "5.25K",
+      "posted_at": "2026-09-07T19:58:32+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356193",
+      "reply": null
+    },
+    {
       "id": "IranintlTV/356192",
       "author_name": "Iran International ایران اینترنشنال",
       "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
@@ -21,7 +133,7 @@
       "plain_text": "🎧نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: ترامپ؛ پایان جنگ یا حمله به خارک؟\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "10.5K",
+      "views_label": "16.8K",
       "posted_at": "2026-09-07T19:45:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356192",
@@ -49,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.1K",
+      "views_label": "27.3K",
       "posted_at": "2026-09-07T19:30:58+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356191",
@@ -77,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.6K",
+      "views_label": "39.8K",
       "posted_at": "2026-09-07T19:06:28+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356190",
@@ -105,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.6K",
+      "views_label": "36.7K",
       "posted_at": "2026-09-07T19:03:41+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356189",
@@ -133,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.7K",
+      "views_label": "38.8K",
       "posted_at": "2026-09-07T18:56:49+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356188",
@@ -172,7 +284,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.7K",
+      "views_label": "39.8K",
       "posted_at": "2026-09-07T18:52:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356186",
@@ -228,7 +340,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.7K",
+      "views_label": "37.8K",
       "posted_at": "2026-09-07T18:44:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356184",
@@ -256,7 +368,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.6K",
+      "views_label": "35.7K",
       "posted_at": "2026-09-07T18:43:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356183",
@@ -284,7 +396,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.6K",
+      "views_label": "34.7K",
       "posted_at": "2026-09-07T18:43:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356182",
@@ -312,7 +424,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "41K",
+      "views_label": "43K",
       "posted_at": "2026-09-07T18:25:18+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356181",
@@ -340,7 +452,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50.3K",
+      "views_label": "51.4K",
       "posted_at": "2026-09-07T18:02:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356180",
@@ -368,7 +480,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "46.2K",
+      "views_label": "48.3K",
       "posted_at": "2026-09-07T18:02:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356179",
@@ -396,7 +508,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "54.6K",
+      "views_label": "56.7K",
       "posted_at": "2026-09-07T17:36:29+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356178",
@@ -424,7 +536,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.4K",
+      "views_label": "50.5K",
       "posted_at": "2026-09-07T17:35:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356177",
@@ -452,7 +564,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "46.3K",
+      "views_label": "47.4K",
       "posted_at": "2026-09-07T17:35:18+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356176",
@@ -2636,118 +2748,6 @@
       "posted_at": "2026-09-07T08:38:54+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356094",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356093",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، با شوخی و طعنه به وضعیت بنزین در ایران، شادی می‌کند: «به من بنزین دادند». بسیاری از خودروها پس از ساعت‌ها معطلی در صف جایگاه سوخت، موفق به تهیه بنزین نمی‌شوند.",
-      "plain_text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، با شوخی و طعنه به وضعیت بنزین در ایران، شادی می‌کند: «به من بنزین دادند». بسیاری از خودروها پس از ساعت‌ها معطلی در صف جایگاه سوخت، موفق به تهیه بنزین نمی‌شوند.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356093",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ldrlt6jIq6xx4EtvlOtYN9RqmesTSYYCN6uYb9tZtwepPLKMjdUu5Nf0iWfgF2Z2Qu22Q0m3E7v3BV_qmQ5WRv-cTqfoVHS-PXBU13yMmyKag3x64g_Bl2BbZi4KnXW-Wot30tPjVKG71-COo_B6T8cdlgzgz8WC4_n28RYdMWr478J28-q_7_zqT2ua88CPvt031KNK82m-E0XJg0-RIr19IxQoL3mCdWgdjXaJUCT6yRF711AQVOIl36OQtHii3Fc_h0deKp1JHBO9aU8j5D3j8OsIltJIj56t4pfrfMknrf1BFm9J_mmQXb4PAmZ_b51sNci_-sT_z08-bwLoBw",
-          "thumbnail_path": "channels/iranintltv/media/1a8d79003049e51d89aca2b6.jpg",
-          "thumbnail_sha256": "4a5c2a9155bfd5072838d0ac77f0ccce5854da9d2b73deeb9907560562ecaae3",
-          "duration_label": "0:12",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "30.4K",
-      "posted_at": "2026-09-07T08:34:57+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356093",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356092",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "به گزارش رویترز، انور قرقاش، مشاور سیاست خارجی رییس امارات متحده عربی، گفت که این کشور اجازه نخواهد داد صادرات انرژی گروگان گرفته شود. <br><br>قرقاش افزود: «بازسازی اعتماد با ایران ممکن است دهه‌ها طول بکشد.»<br><a href=\"https://iranintl.com/202609078507\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609078507</a>",
-      "plain_text": "به گزارش رویترز، انور قرقاش، مشاور سیاست خارجی رییس امارات متحده عربی، گفت که این کشور اجازه نخواهد داد صادرات انرژی گروگان گرفته شود.\n\nقرقاش افزود: «بازسازی اعتماد با ایران ممکن است دهه‌ها طول بکشد.»\nhttps://iranintl.com/202609078507",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356092",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ovTVo00XCtnAzo_ZTOqJgNZNZ6Tvr9SB918J2ZUqxCAZXIFCeDQ3IlujwG6oahLMhlaTlJzoh6H5V5X7kFlXmFUgfjxqJ90civrQkspSVIqPLssMLvRM7g2J9eiVoJZaDFdwsrPgIbDO4l3sz81qhY6pV9dLQPxEr7wzd846ANJSmsYBdIrpoK7q_iukJDBMIJhJzFxe7lv9ii1aSzUp4Q4HsPCVz4wrBmNrI8cpfSjt2V0vTCeI5Z2TGghHwLsTNCLp9qVeg1gjKEo7UbNTfdfS4TqvREH55KwESJq0upbaMqVqr4sWb_znS-UCsFV1D9vgrFzrx2qF25xFm-qmiA.jpg",
-          "thumbnail_path": "channels/iranintltv/media/30e7cf16c0b1f129fbae8c84.jpg",
-          "thumbnail_sha256": "c178daadeb0a8f2a25474d61484e5a00d3dcee3e124ef4fadb6d9968dc8e76f4",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "33.5K",
-      "posted_at": "2026-09-07T08:24:24+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356092",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356091",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "اسماعیل بقائی، سخنگوی وزارت خارجه جمهوری اسلامی، گفت تفاهم جمهوری اسلامی و عمان برای تعیین مسیر تردد امن در تنگه هرمز طی روزهای آینده در سازمان بین‌المللی دریانوردی ثبت خواهد شد.<br><br>بقائی ناامن شدن تنگه هرمز را ناشی از اقدامات آمریکا دانست و ابراز امیدواری کرد برخی طرف‌ها مانع اجرای تفاهم جمهوری اسلامی و عمان نشوند.<br><br>او همچنین به تلاش‌های دیپلماتیک قطر اشاره کرد و گفت هیاتی از این کشور یکشنبه در ایران حضور داشت و تلاش‌های دیپلماتیک خود را ادامه داد.<br><br>بقائی گفت: «قطعا از فرصت حضور در مجمع عمومی سازمان ملل برای تبیین مواضع جمهوری اسلامی استفاده خواهیم کرد، مشروط بر اینکه کشور میزبان به تعهدات خود عمل کرده و روادید ورود را به‌موقع صادر کند.»<br><br>سخنگوی وزارت خارجه گفت: «بدعهدی دشمن نباید موجب شود که دستاوردهای خودمان را زیر سوال ببریم.»<br><a href=\"https://iranintl.com/202609075963\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609075963</a>",
-      "plain_text": "اسماعیل بقائی، سخنگوی وزارت خارجه جمهوری اسلامی، گفت تفاهم جمهوری اسلامی و عمان برای تعیین مسیر تردد امن در تنگه هرمز طی روزهای آینده در سازمان بین‌المللی دریانوردی ثبت خواهد شد.\n\nبقائی ناامن شدن تنگه هرمز را ناشی از اقدامات آمریکا دانست و ابراز امیدواری کرد برخی طرف‌ها مانع اجرای تفاهم جمهوری اسلامی و عمان نشوند.\n\nاو همچنین به تلاش‌های دیپلماتیک قطر اشاره کرد و گفت هیاتی از این کشور یکشنبه در ایران حضور داشت و تلاش‌های دیپلماتیک خود را ادامه داد.\n\nبقائی گفت: «قطعا از فرصت حضور در مجمع عمومی سازمان ملل برای تبیین مواضع جمهوری اسلامی استفاده خواهیم کرد، مشروط بر اینکه کشور میزبان به تعهدات خود عمل کرده و روادید ورود را به‌موقع صادر کند.»\n\nسخنگوی وزارت خارجه گفت: «بدعهدی دشمن نباید موجب شود که دستاوردهای خودمان را زیر سوال ببریم.»\nhttps://iranintl.com/202609075963",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356091",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ZAAsBNXln3SIbhbxLDP5GsprJnDRhXzsIJZIrHFyIdrGnnA5BVCZr7PZxJvsOIIE-s4fifFOJmFoSRnKI_8AWrH_-sYbHYTj05vUccqqYMd4bMDfQz_xgmQXQ405t98KxLoL0UemP_KTuuCWXjzriNyZbJQb5kjNhVeFzBZ9hnuBGepfphWohAIoY0HPYS4eQW_M1J40-RWSWPgsyWsSd9vYypXu_kbzfz6dVYKkVwGQtQONeXwfnipf2KmpuMvVJcnm0ocPT69LiIV3YmQ2JVxHz3voMMDCr2TrPz5vIGNjEEZt92YKFSFx3fwsOOLJkeAtnmrqY6jn-OYrDF43qw.jpg",
-          "thumbnail_path": "channels/iranintltv/media/99bf8e5abd5fbfb5caf82047.jpg",
-          "thumbnail_sha256": "453b59ad58c8ada189ead5da0f98134841e2ebb5ca7bff0d07a6b329d5f1e178",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "32.4K",
-      "posted_at": "2026-09-07T08:18:37+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356091",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356090",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>خبرورزشی در یادداشتی تند و انتقادی درباره حواشی اخیر خداداد عزیزی و درگیری او با امید عالیشاه نوشت: «باید حق بدهید از شنیدن حرف‌ها و فحاشی‌های خداداد عزیزی حال‌مان بد شود. مردی که به نظر می‌رسد هیچ حد و مرزی برای ادبیات خود نمی‌شناسد و این بار نیز در جریان درگیری با امید عالیشاه، کار به فحاشی و اهانت کشیده است.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>همچنین در این یادداشت با اشاره به سابقه رفتارهای جنجالی عزیزی آمده است: «از آنتن زنده تلویزیون تا پشت در رختکن تیم مهمان و از ویژگی‌های ظاهری یک انسان تا مادر و ناموسش، همه چیز می‌تواند تبدیل به سوژه فحاشی و استهزا شود. تکه‌کلامش در مواجهه با دیگران این است که \"چند بازی ملی داری؟\" غافل از اینکه پیش از فوتبالیست بودن و رسیدن به تیم ملی، باید انسان بود و یک انسان باید شعور داشته باشد.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>جزییات بیشتر را <a href=\"https://iranintl.com/202609077556\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>اینجا</b></a> بخوانید.<br><br><a href=\"https://t.me/iranintltvsport\" target=\"_blank\">@iranintltvsport</a>",
-      "plain_text": "🔻خبرورزشی در یادداشتی تند و انتقادی درباره حواشی اخیر خداداد عزیزی و درگیری او با امید عالیشاه نوشت: «باید حق بدهید از شنیدن حرف‌ها و فحاشی‌های خداداد عزیزی حال‌مان بد شود. مردی که به نظر می‌رسد هیچ حد و مرزی برای ادبیات خود نمی‌شناسد و این بار نیز در جریان درگیری با امید عالیشاه، کار به فحاشی و اهانت کشیده است.»\n\n🔹همچنین در این یادداشت با اشاره به سابقه رفتارهای جنجالی عزیزی آمده است: «از آنتن زنده تلویزیون تا پشت در رختکن تیم مهمان و از ویژگی‌های ظاهری یک انسان تا مادر و ناموسش، همه چیز می‌تواند تبدیل به سوژه فحاشی و استهزا شود. تکه‌کلامش در مواجهه با دیگران این است که \"چند بازی ملی داری؟\" غافل از اینکه پیش از فوتبالیست بودن و رسیدن به تیم ملی، باید انسان بود و یک انسان باید شعور داشته باشد.»\n\n🔹جزییات بیشتر را اینجا بخوانید.\n\n@iranintltvsport",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356090",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/XA24IQxZ0m_dTNNdBi5fBBvmii_7wXBAr1pafltOXcy_9tBR78c4t_bNrr2ZkDc-568B9c7dMZwadx08d3Hwak17x8PF8ON34UPVTNHhQuQzvAmaWuJ_8CFDCN39RGFzwM-33q2q4Qhffm3w13o--hqrSOOLZZML1uwv7K9Hir89m8pQcA7vnmLMzQ17OYDgo1G5UBuN7BlHV7ITCjThC676CODr1_Wlj8NrB-gV7p5rz0oHjETZM8kYgkuf1AvE3f_2gZfg_Kcw4RwweBccE7cZlDu5k4NFFkFGAB5d6lsY3dwcRIQno4knLhlZXKTVwBoVN-LVeiY_ORDoYM7pXA.jpg",
-          "thumbnail_path": "channels/iranintltv/media/4b4841b26a43ed10ea262729.jpg",
-          "thumbnail_sha256": "7638132b2b279a72fcc2a48ceecc04e7a01b2ce6ba8c4fa3b6fafda558a298a9",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "31.4K",
-      "posted_at": "2026-09-07T08:07:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356090",
       "reply": null
     }
   ]
