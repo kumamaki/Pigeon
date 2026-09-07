@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T21:27:05.423Z",
+  "fetched_at": "2026-09-07T21:32:19.288Z",
   "channel": {
     "username": "mamlekate",
     "title": "مملکته",
@@ -12,6 +12,62 @@
   },
   "posts": [
     {
+      "id": "mamlekate/104376",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ZVNNlpWoKwkYBFouLcs_Pw4lKzSdPj7BUcq-WCAfe2zDrbgKBhUD37VZcO12mZ4OothvbZpVjUT-5g2ixUn6ZtLKtBRnJrfIa9aYHrETdhtqTiF6Yg64928z7b0n7h4TNFiKdHk3FcTz3xny5zLAbTZ-VarlLYIfm16tkWNL4sWnBJoGAz4un4YQDplR3yjJls96U6vnpnlgoTJTY-BxS0UIC4RWdg7BblsjFoe7Ec7jqIX27Ogh-CZMdSKXPQwNF6ODUhPKh_obvvcXBfbrDvhV1awU1Tml-senhn_FOeuiLtVl45fdIWei5jVSX7x1-VcXu9PK8279RGHEV6CX7Q.jpg",
+      "author_photo_path": "channels/mamlekate/media/a66c1a3300ad5823463961c8.jpg",
+      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
+      "body_html": "بی بی سی فارسی از لندن فرمودند بنزین در ایران تقریباً مجانی است. به این برکت قسم این عین جمله ای است که بی بی سی برای ایرانیان پخش کرد. <br><br>تا حالا شده بی بی سی فارسی حقوق کارگران در ایران را هم به دلار حساب کند و نتیجه بگیرد مجانی کار می کنند؟<br><br><a href=\"https://x.com/jcp_dude/status/2097004554206286302\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">jcp_dude</a><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
+      "plain_text": "بی بی سی فارسی از لندن فرمودند بنزین در ایران تقریباً مجانی است. به این برکت قسم این عین جمله ای است که بی بی سی برای ایرانیان پخش کرد.\n\nتا حالا شده بی بی سی فارسی حقوق کارگران در ایران را هم به دلار حساب کند و نتیجه بگیرد مجانی کار می کنند؟\n\njcp_dude\n@mamlekate",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104376",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/LMf4JHSjOphcYSU6rtBtN1hOc7R1Qn4PpfJO4qAKwHF6QC7zhyMd4DKVbFRcFn_ToozzrF3LxXnHLF0Q_IzxRg3BPsKgSkshSqk4xU3ikS52QIaQYhChlHNrq5zyybbeDZEwAoO6S3ad9UMPImZgmVGtPWzJSTfMJDQibu-M8_JMND62-1uIkUH_hEtCJeL56r9ZhmzZxf2OeCusxwx9nuxi265f_3FzQRPfL6qBvRzBwtfuglYqbSHIGIqKNKMv2Xxmmbx-2l1bEWLkPn0-5nLX01OkBU9GOAa92q54bG9UedOX34x3SI2bYice2VYR_qWqyIs4TnYpbKWyDr3bSQ",
+          "thumbnail_path": "channels/mamlekate/media/2446d21eb65feefaa6d7dfd4.jpg",
+          "thumbnail_sha256": "53a37066d1136e6ccd3240f2ff06bb537a814aacfe7b3d376510e9dff64e9090",
+          "duration_label": "1:12",
+          "aspect_ratio": 1.9555555555555415
+        }
+      ],
+      "reactions": [],
+      "views_label": "3.79K",
+      "posted_at": "2026-09-07T21:30:07+00:00",
+      "edited": false,
+      "permalink": "https://t.me/mamlekate/104376",
+      "reply": null
+    },
+    {
+      "id": "mamlekate/104375",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ZVNNlpWoKwkYBFouLcs_Pw4lKzSdPj7BUcq-WCAfe2zDrbgKBhUD37VZcO12mZ4OothvbZpVjUT-5g2ixUn6ZtLKtBRnJrfIa9aYHrETdhtqTiF6Yg64928z7b0n7h4TNFiKdHk3FcTz3xny5zLAbTZ-VarlLYIfm16tkWNL4sWnBJoGAz4un4YQDplR3yjJls96U6vnpnlgoTJTY-BxS0UIC4RWdg7BblsjFoe7Ec7jqIX27Ogh-CZMdSKXPQwNF6ODUhPKh_obvvcXBfbrDvhV1awU1Tml-senhn_FOeuiLtVl45fdIWei5jVSX7x1-VcXu9PK8279RGHEV6CX7Q.jpg",
+      "author_photo_path": "channels/mamlekate/media/a66c1a3300ad5823463961c8.jpg",
+      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
+      "body_html": "لحظه برخورد موشک به نزدیکی خبرنگار شبکه المنار در شهر نبطیه در جنوب لبنان<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
+      "plain_text": "لحظه برخورد موشک به نزدیکی خبرنگار شبکه المنار در شهر نبطیه در جنوب لبنان\n\n@mamlekate",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104375",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/EOX1vRhIhG4xKpf2kQfF9KbkRBvQJaV1j-r6oZkQTLLiN9kj9Oy-pwLswei0fJ2skCdai_9ZnQGh7Y-IHelHga8KtFYDjJJImC_DDNBF6F7UtYHino0QfHbqO7lRipN_KuI23o_Cn9_ftb5jcLMGJQ34hhW_Rxrn9VDuFeih8Wdi6Y73d7RlaqpC46K3dEHpnqRmDQyTDFoMicA3OMY4KWKVQ4HIie7gXLlmOiGFEI-54gJGbXYosBjGR899c-V7lGICuuLwRKcRsqeaKuN4pq92Nbe7cWlhH-P7LsYOEDg2SqTRzi8GgvNBC4sQsuKyopPedyabNW5Y97pGQxyHTA",
+          "thumbnail_path": "channels/mamlekate/media/b52e4e5622c61100838c2351.jpg",
+          "thumbnail_sha256": "aa997624677c9b60026b636e6b9aed06fc17c8884188ec88199b15b3e3e39a04",
+          "duration_label": "0:19",
+          "aspect_ratio": 1.766666666666656
+        }
+      ],
+      "reactions": [],
+      "views_label": "5.39K",
+      "posted_at": "2026-09-07T21:28:18+00:00",
+      "edited": false,
+      "permalink": "https://t.me/mamlekate/104375",
+      "reply": null
+    },
+    {
       "id": "mamlekate/104374",
       "author_name": "مملکته",
       "author_photo_url": "https://cdn4.telesco.pe/file/ZVNNlpWoKwkYBFouLcs_Pw4lKzSdPj7BUcq-WCAfe2zDrbgKBhUD37VZcO12mZ4OothvbZpVjUT-5g2ixUn6ZtLKtBRnJrfIa9aYHrETdhtqTiF6Yg64928z7b0n7h4TNFiKdHk3FcTz3xny5zLAbTZ-VarlLYIfm16tkWNL4sWnBJoGAz4un4YQDplR3yjJls96U6vnpnlgoTJTY-BxS0UIC4RWdg7BblsjFoe7Ec7jqIX27Ogh-CZMdSKXPQwNF6ODUhPKh_obvvcXBfbrDvhV1awU1Tml-senhn_FOeuiLtVl45fdIWei5jVSX7x1-VcXu9PK8279RGHEV6CX7Q.jpg",
@@ -21,7 +77,7 @@
       "plain_text": "📞 امروز ۱۶ شهریور از ساعت ۹ شب موتورای دوترکه مسلح تمام میادین شهر ایستاده بودن و داشت به تعدادشون اضافه میشد. تمام سگاشونن آورده بودن بیرون برای جلوگیری از اعتراض مردم به دو برابر کردن قیمت بنزین\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "52.3K",
+      "views_label": "55.1K",
       "posted_at": "2026-09-07T19:15:38+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104374",
@@ -49,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "65.8K",
+      "views_label": "68.1K",
       "posted_at": "2026-09-07T18:44:37+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104373",
@@ -65,7 +121,7 @@
       "plain_text": "📝 «تسلط نیروهای دولتی یمن بر یک پایگاه راهبردی حوثی‌ها»\n\nنیروهای دولتی یمن در میان نبردهای چندجبهه‌ای، یک پایگاه مهم حوثی‌ها را تصرف کردند.\n\nچند روز پس از دفع حمله حوثی‌ها به شهر بندری المخا، نیروهای نظامی دولت یمن که از شناسایی بین‌المللی و حمایت عربستان برخوردار است پادگان \"اللبنات\" در استان الجوف را محاصره کرده و به سمت مرکز این استان پیشروی می‌کنند.\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "71.9K",
+      "views_label": "73.9K",
       "posted_at": "2026-09-07T18:12:50+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104372",
@@ -153,7 +209,7 @@
           "count": "3"
         }
       ],
-      "views_label": "88.3K",
+      "views_label": "89.6K",
       "posted_at": "2026-09-07T15:44:02+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104366",
@@ -203,7 +259,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "83.6K",
+      "views_label": "84.5K",
       "posted_at": "2026-09-07T15:43:39+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104363",
@@ -247,7 +303,7 @@
           "count": "5"
         }
       ],
-      "views_label": "98.9K",
+      "views_label": "99.8K",
       "posted_at": "2026-09-07T12:10:26+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104361",
@@ -286,7 +342,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "111K",
+      "views_label": "112K",
       "posted_at": "2026-09-07T07:04:17+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104359",
@@ -2757,73 +2813,6 @@
       "posted_at": "2026-08-26T22:10:37+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104247",
-      "reply": null
-    },
-    {
-      "id": "mamlekate/104246",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/kVIUzGOcKB2QTv8jspsZszXErHtPKZ387jivsEfyz12rYNMd0DxYuLaLLSY7CrCJUGClnxlq7nA6anz-p01J8cOSHUYppb4u68HyT8AGviD3uPYu7UKHVof0mjefA3I-jTDg3h2FB14KeSxJM9QoFn_aTbYf-dLqb8LWBOvYYUzG_bWS_Zbrl8pflzJfsef_pcUCL-8apAy8LFJhY4vgekTkJqSDbwbbKR2yxDrORrsqL9IVmYQnezQqxFtN7GUrmU8g8EBLZQA_ClO6er63zpkI6QvSw_i88CfJU94dkKXe6WcRyXH1IAsnlxo3VS4iRKeo-Sw-Rtq9eS2Kdjouqg.jpg",
-      "author_photo_path": "channels/mamlekate/media/5565e343a0f09946e5853780.jpg",
-      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
-      "body_html": "بازار میوه تره‌بار تهران اینجوری سوت و کور!<br><br><a href=\"https://x.com/jojo_1900/status/2092497307241496610\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">jojo_1900</a><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
-      "plain_text": "بازار میوه تره‌بار تهران اینجوری سوت و کور!\n\njojo_1900\n@mamlekate",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104246",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/vclfBvs3F6qYUdYG65yrvtMJ53neFQouizyh2PHhnXi5aJ8PwsZdhryUP90uGvzwe_ucJyCKznwLUSTVKLlkL_TVPG36a33r-f_J6gfgs7I9R2IREi3dC8QX7923vBCSeB1CrFj0Lt8HELB0tpDeLkAM8atjG_U0b41pOyRbZ4APGBO6rfOyikD3vkFDRp3qfVyWx9USnuDSo_y3kz0tIQUb-5FWWXHazv8S0bann1Ozl7oxae1Of-yHcdYCVbVlcFxuriY8FvwkBWhT-UlqfCxsRa_bGNFEYfgCzToAq-BF_ZV8atYf74VrAVg-00pwoVr8qyvtJQwq83Qf9rz9Xg",
-          "thumbnail_path": "channels/mamlekate/media/5e0d809aeca7dd40738324af.jpg",
-          "thumbnail_sha256": "39d78275760b2fa1546c1f8dec8ebdf2d1fabfcd87eb1615d76b5083b4693796",
-          "duration_label": "0:36",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "125K",
-      "posted_at": "2026-08-26T22:09:21+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mamlekate/104246",
-      "reply": null
-    },
-    {
-      "id": "mamlekate/104244",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/kVIUzGOcKB2QTv8jspsZszXErHtPKZ387jivsEfyz12rYNMd0DxYuLaLLSY7CrCJUGClnxlq7nA6anz-p01J8cOSHUYppb4u68HyT8AGviD3uPYu7UKHVof0mjefA3I-jTDg3h2FB14KeSxJM9QoFn_aTbYf-dLqb8LWBOvYYUzG_bWS_Zbrl8pflzJfsef_pcUCL-8apAy8LFJhY4vgekTkJqSDbwbbKR2yxDrORrsqL9IVmYQnezQqxFtN7GUrmU8g8EBLZQA_ClO6er63zpkI6QvSw_i88CfJU94dkKXe6WcRyXH1IAsnlxo3VS4iRKeo-Sw-Rtq9eS2Kdjouqg.jpg",
-      "author_photo_path": "channels/mamlekate/media/5565e343a0f09946e5853780.jpg",
-      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
-      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D8%B3%DB%8C%D9%84-%D9%85%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2-%D9%86%D9%BE%D8%A7%D9%84-%D9%88-%D8%AA%D8%A8%D8%AA-%D8%AF%D8%B3%D8%AA%DA%A9%D9%85-%DB%B1%DB%B6%DB%B0-%DA%A9%D8%B4%D8%AA%D9%87-%D9%88-%D8%B5%D8%AF%D9%87%D8%A7-%D9%85%D9%81%D9%82%D9%88%D8%AF-%D8%A8%D8%B1-%D8%AC%D8%A7%DB%8C-%DA%AF%D8%B0%D8%A7%D8%B4%D8%AA-08-26\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>سیل مرگبار در مرز نپال و تبت دست‌کم ۱۶۰ کشته و صدها مفقود بر جای گذاشت</b></a><br><br>سیلی ویرانگر در مرز نپال و تبت دست‌کم ۱۶۰ کشته بر جای گذاشت و به مفقود شدن بیش از ۷۵۰ نفر انجامید. مقام‌های نپال گفتند تاکنون پیکر ۹۵ نفر از قربانیان را یافته‌اند و ۴۸۴ گردشگر ناپدید شده‌اند. در بخش چینی مرز نیز سه نفر کشته و ۲۶۵ نفر مفقود شدند.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a></div>",
-      "plain_text": "📝 سیل مرگبار در مرز نپال و تبت دست‌کم ۱۶۰ کشته و صدها مفقود بر جای گذاشت\n\nسیلی ویرانگر در مرز نپال و تبت دست‌کم ۱۶۰ کشته بر جای گذاشت و به مفقود شدن بیش از ۷۵۰ نفر انجامید. مقام‌های نپال گفتند تاکنون پیکر ۹۵ نفر از قربانیان را یافته‌اند و ۴۸۴ گردشگر ناپدید شده‌اند. در بخش چینی مرز نیز سه نفر کشته و ۲۶۵ نفر مفقود شدند.\n\n@mamlekate",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104244?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/nVykV0Swlg_axQmDopf2-rFuaFg3QdV6FthkWX_H6obDs5XD002EawPH1gNFWC_q8zJlzdYkhtLjnHTD0YWPGX793g4_sS2WpCib2ikk2HAO1BPOCLHMXat3ghaTbzMpCYIU3EOwK_J4NEWP31gaBBGr7osCJ9mA3r1BEvcmQaNQ-jn7DLisVMIAIzNAnW0yMmlSEqiidWkPaW9W3uzQ9uEGxSqoyrNBGHQtxcvbpxDOFUJS2ej4s4xl9c6hmViqzzkBV-ZQwPR2XfkV6iL3CIw8DA8v8-dNkVz5Ced3_eRQQkWfL2ztcqm8t6nbgKOMjD7U0hMe3cSUEVK9HzHRYw",
-          "thumbnail_path": "channels/mamlekate/media/fb4980458d9aa51e78a03db5.jpg",
-          "thumbnail_sha256": "9c60618890157c25e84a31d3de99060f95666233cc1db32e2aac4c5fe2b513a8",
-          "duration_label": "1:07",
-          "aspect_ratio": null
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104245?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/fCqSAB9LnnAr8E5rEMUcIAJq3UsfOXavTqEMEOxTl6GcT4QBgiHLVG0U_q21MZfHHI-yZpM1yUjrGphrSxgc8o_Bx2COWy5-SwDEwx_4qt5ateF_m_JBzYkNndlKmkVik3Qy7A0PKAfwTivr5Og998wRnEAnXpMynzFhIxqw3s8OoaeRuxcEW2oTAjpoKpr-EhEEelWWKQ7KmbQe08XqtB38t2J6CshXYTCYpQ_oOCun4-XcHRvR5Jh-YUf4szWnxaGB6ygvJakhauSgNlDAtrTZDJ2ZGn3jWYsevJZ2bLBV1be5nVKSdq5vfNGAIS3jCQ_PAtBUviJEyb9IYmqicQ",
-          "thumbnail_path": "channels/mamlekate/media/36af9726744ffdcb340054dc.jpg",
-          "thumbnail_sha256": "d255ba1dc3d2fc060f4fe49c9cb8e80dc1bc3596605af24e69cbf5c44ae8d668",
-          "duration_label": "2:07",
-          "aspect_ratio": null
-        }
-      ],
-      "reactions": [],
-      "views_label": "125K",
-      "posted_at": "2026-08-26T20:18:47+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mamlekate/104244",
       "reply": null
     }
   ]
