@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T05:22:31.615Z",
+  "fetched_at": "2026-09-07T05:27:35.101Z",
   "channel": {
     "username": "telegram",
     "title": "Telegram News",
@@ -133,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "689K",
+      "views_label": "690K",
       "posted_at": "2026-08-26T19:11:39+00:00",
       "edited": false,
       "permalink": "https://t.me/telegram/456",
@@ -253,8 +253,8 @@
           "asset_url": "https://t.me/telegram/451",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/H89KHXq4JBwU38bOLRP3ClXuwxBs3eSST991NaCOEbL0IqgUrfmkXFv9avJnSRJJHY2Boe9l-ZZT-IYvSoD06smrHC4lmez9p3OwMWqgb3rZnT4SgUL5DbAXK29Zjp4FGUiLHw-poYUVElHXnAKWyNoJpUuKnHwkJ4JCrdyCNC1ntqDTZWzgvYuE_C2-ivg9iztxc0VeECqBdvNtfwH0xaEFxhcYP4tg5h2bMpcAzbZph7DZKz1Ec92NHmt3hO7c6NL3HDXdd-gxezsg_ctpxGdgnEzOUeOw6hWG9eknNskJo_vpYAVyf0NibXRRwI9Fb09Ui-T70Lr03N-S182EKA",
-          "thumbnail_path": "channels/telegram/media/0b487033effca2a21d408d90.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/IxyYKdQi0IkGXxuiqYDWnwBnCDiPtzxjKD4XIRsqZANQ3W_zk0GLClVcwEtzPdiV7KTdqMVTxnYj95tPLMT_48zaYBDaS1xFSq9FHyf7TYfSEjxj2vZM0mMUoQRqCsqrvK3g0kCohsPIT8el24UCnARoz5Xe-IXzsEZrxlMywKwMT-L5_2BYOYs2DOd7_ySDhvDpwXxMr06aAgdvQnKdZlQ8d-nPLBDhKOYc2u5Q1jE7tXeQuq7I2IcUveJg589NNO8FEAKADKJwnGtAxkJbbt-bqj9iKOFPHQLeXLXdJnW7oKr-H_HQfFACIwaHdebt1XI1VxxIJVv-MuEiqCFA9g",
+          "thumbnail_path": "channels/telegram/media/4427f343c27adad0548d91fc.jpg",
           "thumbnail_sha256": "a93901c400ec5395c7ae3e8bf43148b629d9eb2d2585d22179eabf652002f36c",
           "duration_label": "0:18",
           "aspect_ratio": 1
