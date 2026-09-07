@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T18:52:16.094Z",
+  "fetched_at": "2026-09-07T18:57:12.959Z",
   "channel": {
     "username": "tavaana_tavaanatech",
     "title": "آموزشکده توانا",
@@ -35,14 +35,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "6"
+          "count": "8"
         },
         {
           "emoji": "👍",
-          "count": "1"
+          "count": "2"
         }
       ],
-      "views_label": "313",
+      "views_label": "347",
       "posted_at": "2026-09-07T18:31:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105960",
@@ -83,7 +83,7 @@
           "count": "1"
         }
       ],
-      "views_label": "533",
+      "views_label": "566",
       "posted_at": "2026-09-07T17:35:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105959",
@@ -113,14 +113,14 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "7"
+          "count": "9"
         },
         {
           "emoji": "❤",
           "count": "3"
         }
       ],
-      "views_label": "644",
+      "views_label": "677",
       "posted_at": "2026-09-07T17:14:52+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105958",
@@ -136,7 +136,7 @@
       "plain_text": "hey - you should join us for this live room happening now \"افزایش فشار بر خانواده‌های دادخواه\". https://www.clubhouse.com/i/افزایش-فشار-بر-خانوادههای-دادخواه/RhmmzojD",
       "media": [],
       "reactions": [],
-      "views_label": "508",
+      "views_label": "541",
       "posted_at": "2026-09-07T17:07:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105957",
@@ -169,7 +169,7 @@
           "count": "5"
         }
       ],
-      "views_label": "713",
+      "views_label": "715",
       "posted_at": "2026-09-07T15:41:10+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105956",
@@ -206,7 +206,7 @@
           "count": "3"
         }
       ],
-      "views_label": "864",
+      "views_label": "865",
       "posted_at": "2026-09-07T13:56:43+00:00",
       "edited": true,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105955",
@@ -594,8 +594,8 @@
           "asset_url": "https://t.me/Tavaana_TavaanaTech/105942",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/fhiT-zj9AG8ty1Qrr6j2dl6auSYaURGWTcLyfRxG-ijbE3qZ00DEe0XZ5YU4O7qRCWQfUORCqBZU7KtJG1TLnTRsGEl2tSCtnlAs4ibZWo1pX5wYbn-X6DpIB5SZpNxYifZaLvlFPHu8U84UGr1FNHcp8a9Ux22IOLBW-FbHPnP5nlK3Fib3F7UhTZlXn0MPqkhkiVw7cYRw65EJ5nrK3-UWxI9In_gwELWld4XCGl8OlfBbzoCyLiv-0axXuDc90Gn_cSb4oa_Z0Xajfcb7Sd-gG-amDnZpJ84KxK0xMhKfgTfE1pVnL1BwSbEit1lCDZx1EgEMM8T9luns2FJ1RA.jpg",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/77fb69a9cfd1728f4a911e6f.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/qauJxchEeFuFrq8_9lSNkNT0_AsF2OcOEpslLdwJfjXn6gl5_XiuErabuGF4YxgW2wmxNDRzS5Jvsakmm9GMEpV8R2G-HlP7vd1Lyni4KZuUC_1PlAxnrsgFNc5qe7CrnOgKysCDqAIOErYvO3Maa96wPEUSRcwqUa4A6ZUKCxYRWSSIqWN5gai6nEplD-FWsVf2qyZsC9L-h8IhIJE7XUwE2ocDZywPkCsvUoM75aDrtOC5La5bz1cB2H2W-75-TRd5-InKgbIuHvBOXP4lIe1WTwzUns4WCAl6-89YNnmqoeEmqtdPOsvXNIdCCvs-IK4PBbmL2l-Q0gSyBKamXw.jpg",
+          "thumbnail_path": "channels/tavaana_tavaanatech/media/d6b72c11c4b26ce663a8c342.jpg",
           "thumbnail_sha256": "e6371b1b87bcfe07473992f26a481b73b08f74b998cb5ee7f914ec0528075dfa",
           "duration_label": null,
           "aspect_ratio": 0.8
