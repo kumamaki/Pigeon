@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T10:27:18.774Z",
+  "fetched_at": "2026-09-07T10:32:23.578Z",
   "channel": {
     "username": "telegram",
     "title": "Telegram News",
@@ -97,8 +97,8 @@
           "asset_url": "https://t.me/telegram/457",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/ZXGUg1ssVrMjBXYy0pngBwoXRdrCXsC9M6-7XjB_TZA_Abehb8o21PH1CUAFIL-uCQHEqXK29l02aIvKY93kYnM7oIf_uVb3qoYO_-yWwA7FEyORmroSLBRM00k7OY1zRt6LCQm4lClBcC5441Lss4SiB6kPbw1d_CIGwrZWJ17u9YRN-MqsGJObOmdJ7XavrDEfNtsNpMdqXTeqAB_0qo-RZ26AvlTA0ZGvNpAV0vHpjnUkfJvk1OzK2cgPeFmbNEswgbuIRvN7aeK_WCMWOnqR8-dqXGABJFst_EyXMe0hiXoMeY6gOCPKClWDLEuQWE_lYfvSwNs56kDidTZnvA.jpg",
-          "thumbnail_path": "channels/telegram/media/44cfcb9f9c675f8bec27a4ab.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/jGi24puLBA40U4RoL1SAfEKHeITPZHd0mDsByct0-bbfrUOspSALm_C1rdKPv5ec0s1OI-40ghV-ra54L7XtpphAv6yUT8gjwATWhYOPRB88iBtElTH8PNyNtRpj8EEwqDjcGVr1YBjx2gyMEyUu971322z_z58hV2M7xWKGezYQdvvFzfpV38wV-tnfuk5J5fwLrrmZmEBQ5L-t3bpfD9dBYpriqkMEyWK5IOIcRb50oruKXgeZtXpXWkocabjTIq_nHthfrpJZypNJsFbGgE3tdHcGdMRGdBUUmp_L292LSnuEZ3L3abNhnzBMxV3MN0J7avaJXdw23aW1ydFf2A.jpg",
+          "thumbnail_path": "channels/telegram/media/ffdad27061cf6972452aaeac.jpg",
           "thumbnail_sha256": "c7655dfc41df5620469bf250bf5a91f14a5ddafa2a65aca1e763930718fd112a",
           "duration_label": null,
           "aspect_ratio": 1
