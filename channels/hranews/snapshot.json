@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T10:02:22.244Z",
+  "fetched_at": "2026-09-07T10:07:14.181Z",
   "channel": {
     "username": "hranews",
     "title": "خبرگزاری هرانا",
@@ -11,6 +11,34 @@
     "subscriber_count": "31.8K"
   },
   "posts": [
+    {
+      "id": "hranews/115457",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/V70wgIIyDFpgsG7sY6W9p07pWzRiwt74B9Gvxn3QUHjxf6-ey3QC5D-eVEHqmTI1ZhRgkUPaIwqfIV6_28Z8QK4HLGV9nrXKabtxAdfhNvWOv0PdOLolMfPGR_mfQxTUGM6tmHf_FkY734vVWGG2a8pxQD9xqcZwpPsgJH9AVpfPKjkegXck_6mDhRyB4Vl5jKEknm4rrznGVIObwphL_RXOM-kd2Uh3gnXXg_fNTavEb-fteB-lvBRdgZOvrUrAULRTAxPmuhWPPfJ71EYAflVKDVNRa8I1iP_SzQ_3xlPSXqarl8apIPXyEmKTsb8ixsTQFhNq-DmB4rmHD55GWQ.jpg",
+      "author_photo_path": "channels/hranews/media/a0268111c426ab2ca58fac65.jpg",
+      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
+      "body_html": "رمضان حاجی‌مشهدی و رامین صفرنیا، وکلای سهیل عربی، با ثبت درخواست تجدیدنظر نسبت به دادنامه صادره در ۲۵ مرداد ۱۴۰۵، اتهاماتی از جمله «اجتماع و تبانی» و ارتباط با «فدراسیون عصر آنارشیسم» را فاقد مستندات قانونی دانسته و خواستار نقض حکم و برائت موکل خود شده‌اند. به گفته آنان، بازنشر نوشته‌های عربی در یک مجموعه سیاسی، فعالیت‌های خیریه و عقاید شخصی او به‌عنوان مستند اتهامات مورد استناد قرار گرفته است.<br><br>وکلای عربی همچنین به نقل از موکل خود اعلام کرده‌اند که وی در بازداشتگاه و زندان با «بدرفتاری، آزار و شکنجه» مواجه شده و خواستار استرداد تلفن همراه، موتورسیکلت، مدارک هویتی و وسایل شخصی و کاری او شده‌اند. سهیل عربی پیشتر با حکم دادگاه انقلاب تهران به پنج سال حبس و دو سال محرومیت از فعالیت در شبکه‌های اجتماعی محکوم شد.<br><br><a href=\"?q=%23%D8%B3%D9%87%DB%8C%D9%84_%D8%B9%D8%B1%D8%A8%DB%8C\">#سهیل_عربی</a> <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "رمضان حاجی‌مشهدی و رامین صفرنیا، وکلای سهیل عربی، با ثبت درخواست تجدیدنظر نسبت به دادنامه صادره در ۲۵ مرداد ۱۴۰۵، اتهاماتی از جمله «اجتماع و تبانی» و ارتباط با «فدراسیون عصر آنارشیسم» را فاقد مستندات قانونی دانسته و خواستار نقض حکم و برائت موکل خود شده‌اند. به گفته آنان، بازنشر نوشته‌های عربی در یک مجموعه سیاسی، فعالیت‌های خیریه و عقاید شخصی او به‌عنوان مستند اتهامات مورد استناد قرار گرفته است.\n\nوکلای عربی همچنین به نقل از موکل خود اعلام کرده‌اند که وی در بازداشتگاه و زندان با «بدرفتاری، آزار و شکنجه» مواجه شده و خواستار استرداد تلفن همراه، موتورسیکلت، مدارک هویتی و وسایل شخصی و کاری او شده‌اند. سهیل عربی پیشتر با حکم دادگاه انقلاب تهران به پنج سال حبس و دو سال محرومیت از فعالیت در شبکه‌های اجتماعی محکوم شد.\n\n#سهیل_عربی\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/hranews/115457",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/fJSWQpu3bJlmC2GKYY8ldsuCDHDYp5u48Q5aInBVYVCfdxpNQl0PueJoa-noNCKiGJjBLOFTZKHwSNF-0rMRDCdiZyHfHEtzf6D5WJ1c8rQudGE8yvGQroJgjpAduwYFkWAxiFr89X5usaRAjXA8xwDztSTMX5lU4H60Te5tb_h9u7a8zwqWnyErbsqAzIlqRHO7zQaSo-GqVEaDV4FBsyijgW9tdXeqas887k5PFgSZLKFK4JQEvOZB_Ibv6n5HjWAXZHuF7BWZSNjWdpZeI-yK5vnou8Eyh35rlKzGlUcPkPPd8PuKOrlKzUA_ZM_Geecf-Rg1WfpG5hN7q3fL4Q.jpg",
+          "thumbnail_path": "channels/hranews/media/5a8bd90586073dbf8bc02ef0.jpg",
+          "thumbnail_sha256": "91c3d2c7e64d69530f11eceeb148a2a7e710052e17220ea0c6d013e7d0fd4e5a",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [],
+      "views_label": "54",
+      "posted_at": "2026-09-07T10:02:28+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/115457",
+      "reply": null
+    },
     {
       "id": "hranews/115456",
       "author_name": "خبرگزاری هرانا",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "154",
+      "views_label": "194",
       "posted_at": "2026-09-07T09:46:12+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115456",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "324",
+      "views_label": "352",
       "posted_at": "2026-09-07T09:02:22+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115455",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "323",
+      "views_label": "346",
       "posted_at": "2026-09-07T08:49:38+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115454",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "334",
+      "views_label": "354",
       "posted_at": "2026-09-07T08:33:04+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115453",
@@ -133,7 +161,7 @@
       "plain_text": "شادگان؛ ۳ شهروند توسط نیروهای انتظامی بازداشت شدند\n\n❗️❗️❗️❗️❗️– فرمانده انتظامی شادگان از #بازداشت سه شهروند در این شهرستان، به دلیل آنچه انتشار مطلب در فضای مجازی به قصد تشویش اذهان عمومی و تبلیغ علیه نظام جمهوری اسلامی عنوان کرده، خبر داد.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "404",
+      "views_label": "418",
       "posted_at": "2026-09-07T07:58:42+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115452",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "454",
+      "views_label": "464",
       "posted_at": "2026-09-07T07:32:21+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115451",
@@ -177,7 +205,7 @@
       "plain_text": "بازداشت سیامک مفیدی و سروش عنایتی، دو نوجوان در تکاب\n\n❗️❗️❗️❗️❗️– سیامک مفیدی، ۱۷ ساله و سروش عنایتی، ۱۶ ساله، دو نوجوان اهل تکاب، روز شنبه توسط نیروهای امنیتی در این شهرستان بازداشت و به مکانی نامعلوم در تهران منتقل شدند.\n\nادامه مطلب\n\n#سیامک_مفیدی #سروش_عنایتی\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "511",
+      "views_label": "527",
       "posted_at": "2026-09-07T07:02:19+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115450",
@@ -193,7 +221,7 @@
       "plain_text": "دستکم ۱۰ تجمع اعتراضی برگزار شد\n\n❗️❗️❗️❗️❗️– امروز یکشنبه ۱۵ شهریورماه، شماری از بازنشستگان فرهنگی، مخابرات و تامین اجتماعی در تهران، گروهی از بازنشستگان تامین اجتماعی در اهواز، شوش، کرمانشاه، دزفول و رشت، جمعی از معلمان در تهران، جمعی از بازنشستگان فرهنگی در یاسوج و شماری از شهروندان جویای کار در اهواز با برگزاری تجمعات اعتراضی خواستار رسیدگی به مطالبات خود شدند. افزون بر این، روز گذشته نیز گروهی از رانندگان کامیون و خودروهای باری در کمرگ مرزی پیشین دست به تجمع اعتراضی زدند.\n\nادامه مطلب\n\n#تجمع_اعتراضی #بازنشستگان\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "1.17K",
+      "views_label": "1.18K",
       "posted_at": "2026-09-06T19:29:41+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115449",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "817",
+      "views_label": "822",
       "posted_at": "2026-09-06T19:23:16+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115448",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "729",
+      "views_label": "735",
       "posted_at": "2026-09-06T19:03:23+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115447",
@@ -265,7 +293,7 @@
       "plain_text": "برخلاف پیمان‌نامه حقوق کودک؛ تعدادی از نوجوانان به مناطق عملیاتی کشور اعزام شدند\n\n❗️❗️❗️❗️❗️– برخلاف تعهدات بین‌المللی ایران تحت عنوان الحاق به پیمان‌نامه حقوق کودک و تعهدات مربوط به عدم به‌کارگیری کودکان در امور نظامی، شماری از نوجوانان شهرستان دورود به اردوی موسوم به «راهیان نور» در مناطق عملیاتی دوران جنگ اعزام شدند.\n\nادامه مطلب\n\n#حقوق_کودک\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "649",
+      "views_label": "654",
       "posted_at": "2026-09-06T18:52:36+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115446",
@@ -281,7 +309,7 @@
       "plain_text": "گزارشی از معوقات مزدی و بیمه‌ای کارگران جهاد کشاورزی سیستان و بلوچستان\n\n❗️❗️❗️❗️❗️– حدود ۲۶ کارگر امور اراضی جهاد کشاورزی سیستان و بلوچستان از معوقات مزدی و عدم پرداخت حق بیمه خود ابراز نارضایتی کرده و خواستار رسیدگی به وضعیتشان شدند.\n\nادامه مطلب\n\n#کارگران\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "700",
+      "views_label": "706",
       "posted_at": "2026-09-06T18:11:45+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115445",
@@ -297,7 +325,7 @@
       "plain_text": "علی‌محمد باغشاهی پس از حضور در دادسرای یزد بازداشت شد\n\n❗️❗️❗️❗️❗️– امروز یکشنبه ۱۵ شهریورماه، علی‌محمد باغشاهی، دانشجوی رشته روان‌شناسی بالینی دانشگاه بهشتی، پس از احضار و حضور در دادسرای یزد بازداشت شد.\n\nادامه مطلب\n\n#علی‌محمد_باغشاهی\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "694",
+      "views_label": "698",
       "posted_at": "2026-09-06T17:48:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115444",
@@ -313,7 +341,7 @@
       "plain_text": "اجرای حکم اعدام یک زندانی در زندان سمنان/ رهایی ۳ زندانی از چوبه‌دار\n\n❗️❗️❗️❗️❗️– سحرگاه روز گذشته، حکم یک زندانی که پیشتر از بابت اتهام قتل به اعدام محکوم شده بود، در زندان سمنان اجرا شد. از سوی دیگر، سه زندانی محکوم به اعدام در قزوین و سمنان با اعلام رضایت اولیای دم از چوبه‌دار رهایی یافتند.\n\nادامه مطلب\n\n#اعدام #رضا_سلیمی\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "737",
+      "views_label": "741",
       "posted_at": "2026-09-06T17:19:55+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115443",
@@ -329,7 +357,7 @@
       "plain_text": "یک شهروند در مهاباد بازداشت شد\n\n❗️❗️❗️❗️❗️– روز جاری، سهیلا (الهام) علیزاده، شهروند ساکن مهاباد، توسط ماموران اداره اطلاعات در این شهرستان #بازداشت و به یکی از بازداشتگاه‌های این نهاد در ارومیه منتقل شد.\n\nادامه مطلب\n\n#سهیلا_علیزاده\n#الهام_علیزاده\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "728",
+      "views_label": "732",
       "posted_at": "2026-09-06T16:45:30+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115442",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "737",
+      "views_label": "740",
       "posted_at": "2026-09-06T16:08:57+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115441",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "745",
+      "views_label": "748",
       "posted_at": "2026-09-06T15:33:55+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115440",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "738",
+      "views_label": "741",
       "posted_at": "2026-09-06T15:21:22+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115439",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "792",
+      "views_label": "796",
       "posted_at": "2026-09-06T14:49:38+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115438",
@@ -2261,34 +2289,6 @@
       "posted_at": "2026-09-02T13:44:52+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115354",
-      "reply": null
-    },
-    {
-      "id": "hranews/115353",
-      "author_name": "خبرگزاری هرانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OGeDqijqMbhR-4VIncUiRft80T8uFo-Y9xB5-RlI2oDV_xHvvDdjLaZaMPfgs6cJDMV4sFHWPAhw_GFtxwryFGBGhdCgQ-4je2Xd6XM8xdNMRE_v4DfJKDlDoXM1_JP4Xk4rAWgbptZyfTDgZ5H8XeqSPxPxcT4rv4XqZZiyE2bcyLIicKQqI6LEAr7_tSrgkM0q3K5E_3HfwpTOfYkunPfwpjEuyi6bwB94Z7IhwWyH0N_12ZkeArJnlsZ0dMagDHYODI36-8zBlR1Mem6k504xrOSEQyMRUsp5-1sy3jwPfIrF0L4L3-HB2j81cHkDw_r6zp0iB-qMiM6C5D-1eg.jpg",
-      "author_photo_path": "channels/hranews/media/393a7ac2dc897271d7fcc1ac.jpg",
-      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
-      "body_html": "عیسی سهرابی، مدیرکل آموزش و پرورش لرستان، از وجود حدود ۶۰۰ مدرسه فرسوده در این استان خبر داد و این وضعیت را از چالش‌های مهم حوزه آموزش عنوان کرد. فرسودگی گسترده مدارس می‌تواند ایمنی دانش‌آموزان و دسترسی آنان به فضای آموزشی استاندارد را با مشکل مواجه کند.<br><br>وی همچنین ساختار جداگانه آموزش و پرورش و سازمان نوسازی مدارس و دشواری هماهنگی میان این دو مجموعه را از موانع روند نوسازی مدارس دانست.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
-      "plain_text": "عیسی سهرابی، مدیرکل آموزش و پرورش لرستان، از وجود حدود ۶۰۰ مدرسه فرسوده در این استان خبر داد و این وضعیت را از چالش‌های مهم حوزه آموزش عنوان کرد. فرسودگی گسترده مدارس می‌تواند ایمنی دانش‌آموزان و دسترسی آنان به فضای آموزشی استاندارد را با مشکل مواجه کند.\n\nوی همچنین ساختار جداگانه آموزش و پرورش و سازمان نوسازی مدارس و دشواری هماهنگی میان این دو مجموعه را از موانع روند نوسازی مدارس دانست.\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/hranews/115353",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/lq4FDwtVZNWOZz8eN7iiOqmgQqlTjMbHAlcVbKO18_OQ8hXIdzNckK9WTdTsDEywzlTWrUmP0IZTSiui999CtS0iTUmgeVIBffT6g5DSi8PivutyqGNcL5qI5qIRPqfIxd3dEepXQ8gQdD3X2gsmAMDCyDXSs9k2E_ijE470ohscXxkKiloMsK7Z9sC_CMXoPtIT7RDroo2bwlfqLN2ebc82Q2tXfjApePU7Lf4vC86wNQIo_0X57Qlqk1bqeYOEgk3SwKqZ7R2Hqa1LO4IMxJ1wPvgrPJsA7MIC_HAdf-23iMy4oT8tnZrIDl8V14GzlrXvD5q01QdRsDVYOBbB0A.jpg",
-          "thumbnail_path": "channels/hranews/media/6691e8d71e2119587f16f980.jpg",
-          "thumbnail_sha256": "5abe4e842629425c99aeab5aaa8cbf891dc32dd3c4d3a85fea67fdc9ec0af715",
-          "duration_label": null,
-          "aspect_ratio": 1
-        }
-      ],
-      "reactions": [],
-      "views_label": "706",
-      "posted_at": "2026-09-02T13:23:53+00:00",
-      "edited": false,
-      "permalink": "https://t.me/hranews/115353",
       "reply": null
     }
   ]
