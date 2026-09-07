@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T08:02:31.014Z",
+  "fetched_at": "2026-09-07T08:07:32.855Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229699",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "۱۱ کشته در حملات اسرائیل به کفر رمان لبنان؛<br><br>حملات اسرائیل به شهرک کفر رمان در جنوب لبنان بامداد دوشنبه دست‌کم ۱۱ نفر را کشت.<br><br>بر پایه گزارش خبرگزاری ملی لبنان، جنگنده‌های اسرائیل اندکی پس از نیمه‌شب ساختمانی مسکونی را زدند و ۹ نفر کشته و پنج نفر زخمی شدند. حمله پهپادی جداگانه به خودرویی غیرنظامی در همان شهرک، دو امدادگر داخل خودرو را کشت.<br><br>روز یکشنبه نیز دست‌کم هفت نفر در حملات اسرائیل کشته شده بودند.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "۱۱ کشته در حملات اسرائیل به کفر رمان لبنان؛\n\nحملات اسرائیل به شهرک کفر رمان در جنوب لبنان بامداد دوشنبه دست‌کم ۱۱ نفر را کشت.\n\nبر پایه گزارش خبرگزاری ملی لبنان، جنگنده‌های اسرائیل اندکی پس از نیمه‌شب ساختمانی مسکونی را زدند و ۹ نفر کشته و پنج نفر زخمی شدند. حمله پهپادی جداگانه به خودرویی غیرنظامی در همان شهرک، دو امدادگر داخل خودرو را کشت.\n\nروز یکشنبه نیز دست‌کم هفت نفر در حملات اسرائیل کشته شده بودند.\n\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229699",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/S3BGPl50-oHQSy8tM57aLgg-KV8-N9bliZBukI6wwjHbwEP_J-6KeGWdK8olnGOqnovGrusBhmpw91vS8QpexlkQOSVzgRaDHmTPpTuCSGW62mPA_SR7r2fvkEugdxYk6JD5c1l_l1v-qxgzD3ICb-lkB6f1JLIoz5sPkAMQ6slyP87TsX3Nw_Og-WhKn7K9al2mKND7h1mvi5KvoJYAe-zTSai5wQPuBu2gu8WLC2x0NrfgduKMc3bnYF-qV3NYpmQmBa6Xhw02Cb63Cnjr-uSAXNRzeZAok0gt0Fwr9FF4JRjaob2i_muAfyGbozbX9-y5lVRnrsiHbJ0MhHtBKg",
+          "thumbnail_path": "channels/farsivoa/media/9ce47a7fc09f8596f2e890c0.jpg",
+          "thumbnail_sha256": "4afab31d83f2b8c69b48f1f4793e11317123aa3464cf4464977c80ca87e66cc8",
+          "duration_label": "0:30",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "283",
+      "posted_at": "2026-09-07T08:02:32+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229699",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229698",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺کانادا بر توقف اقدامات بی‌ثبات‌کننده جمهوری اسلامی تأکید کرد\n\n▪️وزیر امور خارجه کانادا، با محکوم کردن اقدامات بی‌ثبات‌کننده جمهوری اسلامی تصریح کرد که جمهوری اسلامی باید فوراً تهدیدها در تنگه هرمز، فعالیت‌های هسته‌ای غیرقانونی و حمایت از گروه‌های نیابتی را متوقف کند.\n\n▪️آنیتا آناند تصریح کرد: «تهدیدهای ایران در تنگه هرمز، فعالیت‌های هسته‌ای غیرقانونی و حمایت آن از گروه‌های نیابتی منطقه‌ای، همچنان صلح و امنیت جهانی را تضعیف می‌کند و این اقدامات باید پایان یابند.»\n\n▪️او به بیانیه‌ای مشترک با وزیر دارایی کانادا، اشاره کرد که در آن «اقدامات کانادا و شرکایش برای حفظ فشار بر ایران، و تلاش‌ها برای مختل کردن توانایی ایران در تأمین مالی فعالیت‌های تروریستی» تشریح شده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/canada-condemns-iran-s-destabilizing-actions-in-the-middle-east/8195030.html",
       "media": [],
       "reactions": [],
-      "views_label": "248",
+      "views_label": "469",
       "posted_at": "2026-09-07T07:57:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229698",
@@ -37,7 +65,7 @@
       "plain_text": "🔺احتمال خاموشی در زمستان؛ معاون وزیر نیرو از «سال دشوار» خبر داد\n\n▪️معاون برق و انرژی وزارت نیرو هشدار داد کشور به دلیل ناترازی باقی‌مانده در بخش گاز و آسیب‌های وارد‌شده به زنجیره تأمین سوخت، احتمالاً سال دشواری را در پیش دارد.\n\n▪️مصطفی رجبی مشهدی این موضوع را در گفت‌وگو با روزنامه ایران گفت و تاکید کرد نیروگاه‌های حرارتی در زمستان برای تولید برق وابستگی بالایی به گاز دارند. رسانه‌ها با اتکا بر اعتراف معاون وزیر نیرو از احتمال بروز خاموشی در زمستان خبر داده و نوشتند بحران تامین انرژی در کشور حادتر خواهد شد.\n\n▪️در صورت کمبود گاز، نیروگاه‌ها ممکن است ناچار به استفاده بیشتر از سوخت‌های مایع شوند؛ اقدامی که افزون بر دشواری تأمین و حمل، آثار زیست‌محیطی نیز به همراه دارد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/deputy-minister-of-energy-warns-of-difficult-year-and-possibility-of-winter-blackout/8195028.html",
       "media": [],
       "reactions": [],
-      "views_label": "695",
+      "views_label": "850",
       "posted_at": "2026-09-07T07:47:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229697",
@@ -65,7 +93,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.01K",
+      "views_label": "1.11K",
       "posted_at": "2026-09-07T07:37:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229696",
@@ -93,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.21K",
+      "views_label": "1.3K",
       "posted_at": "2026-09-07T07:27:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229695",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.37K",
+      "views_label": "1.43K",
       "posted_at": "2026-09-07T07:16:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229694",
@@ -149,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.47K",
+      "views_label": "1.53K",
       "posted_at": "2026-09-07T07:04:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229693",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.62K",
+      "views_label": "1.71K",
       "posted_at": "2026-09-07T06:53:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229692",
@@ -193,7 +221,7 @@
       "plain_text": "🔺وزیر انرژی آمریکا: با حصر دریایی یا جمهوری اسلامی عوض می‌شود یا سیاست‌هایش\n\n▪️وزیر انرژی آمریکا، گفت ممکن است توافق هسته‌ای با جمهوری اسلامی به دست نیاید و راه‌حل صرفاً نابود کردن توان جمهوری اسلامی باشد. او همچنین گفت که محاصره دریایی بنادر ایران «یا حکومتشان را تغییر می‌دهد یا سیاست‌های حکومت را».\n\n▪️کریس رایت، روز یکشنبه گفت: «شاید توافق هسته‌ای وجود نداشته باشد. شاید صرفاً نابود کردن توانمندی‌های آنان برای انجام آن باشد. توافق ممکن است در انتظار دولت بعدی در ایران بماند. ما به‌سادگی نمی‌دانیم.»\n\n▪️او افزود: «ما توان آنان برای توسعه سلاح هسته‌ای و در نهایت پرتاب آن در صورت توسعه را تضعیف می‌کنیم. این تلاشی ۴۷ ساله است. کار کوچکی نیست، اما آمریکا کار را به سرانجام می‌رساند.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195027.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.79K",
+      "views_label": "1.85K",
       "posted_at": "2026-09-07T06:42:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229691",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.08K",
+      "views_label": "2.14K",
       "posted_at": "2026-09-07T06:27:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229690",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.27K",
+      "views_label": "2.33K",
       "posted_at": "2026-09-07T06:13:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229689",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.4K",
+      "views_label": "2.44K",
       "posted_at": "2026-09-07T05:59:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229688",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.47K",
+      "views_label": "2.51K",
       "posted_at": "2026-09-07T05:48:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229687",
@@ -321,7 +349,7 @@
       "plain_text": "🔺کارزار اقتصادی آمریکا اهرم فشار جمهوری اسلامی در تنگه هرمز را تضعیف کرده است\n\n▪️شش ماه پس از آغاز جنگ، تشدید تحریم‌ها و محاصره دریایی توسط ایالات متحده فشار فزاینده‌ای بر جمهوری اسلامی وارد آورده، و به گفته منابع ایرانی و منطقه‌ای، توان رژیم ایران برای استفاده از تنگه هرمز به عنوان اهرمی در برابر آمریکا را کاهش داده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/president-trump-economic-pressure-iran-hormuz-leverage/8195025.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.48K",
+      "views_label": "2.51K",
       "posted_at": "2026-09-07T05:39:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229686",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.48K",
+      "views_label": "2.51K",
       "posted_at": "2026-09-07T05:25:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229685",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.5K",
+      "views_label": "2.53K",
       "posted_at": "2026-09-07T05:14:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229684",
@@ -393,7 +421,7 @@
       "plain_text": "🔺نفت به ۹۷ دلار نزدیک شد؛ چشم‌انداز هرمز تا سال ۲۰۲۷ مبهم است\n\n▪️قیمت نفت روز دوشنبه به رشد خود ادامه داد، پس از آنکه حملات متقابل آمریکا و جمهوری اسلامی به شناورها در تنگه هرمز نگرانی از اختلال طولانی عرضه خاورمیانه را تشدید کرد.\n\n▪️قراردادهای آتی نفت برنت ۵۲ سنت بالا رفت و به ۹۶ دلار و ۸۰ سنت در هر بشکه رسید. نفت وست تگزاس اینترمدییت آمریکا نیز با ۶۶ سنت رشد به ۹۲ دلار و ۱۴ سنت رسید.\n\n▪️برنت هفته گذشته ۷ و هشت دهم درصد و دبلیوتی‌آی نزدیک ۱۰ درصد رشد کردند.\n\n▪️بر پایه تحلیل بانک ای‌ان‌زد، محتمل‌ترین سناریو رویارویی طولانی همراه با اقدام نظامی سنجیده دو طرف است. بر همین اساس، بازگشت به سطح تردد پیش از جنگ تا اواخر فصل نخست یا اوایل فصل دوم سال ۲۰۲۷ انتظار نمی‌رود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/oil-price-reaching-97-usd-per-barrel/8195026.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.79K",
+      "views_label": "2.82K",
       "posted_at": "2026-09-07T05:03:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229683",
@@ -409,7 +437,7 @@
       "plain_text": "🔺سرگردانی ۱۷۰ هزار مسافر به دلیل فوران آتشفشان و تعطیلی فرودگاه‌ها در اندونزی\n\n▪️در پی فوران آتشفشان «سینابونگ» در اندونزی و تعطیلی فرودگاه بین‌المللی اصلی و دیگر فرودگاه‌های این کشور، روز یکشنبه ۱۵ شهریور صدها پرواز لغو شدند، که این امر منجر به سرگردانی ۱۷۰ هزار مسافر شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/confusion-airport-indonesia-thousands-passengers/8195024.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "4.67K",
+      "views_label": "4.7K",
       "posted_at": "2026-09-07T02:56:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229682",
@@ -453,7 +481,7 @@
       "plain_text": "🔺آمادگی اسرائیل برای انهدام تونل‌های حزب‌الله در «علی طاهر» و سپس عقب‌نشینی تا مرز لبنان\n\n▪️ارتش اسرائیل در حال آماده‌سازی برای انفجار دو تونل زیرزمینی متعلق به حزب‌الله در بلندی‌های راهبردی «علی طاهر» در جنوب لبنان است، و احتمالا پس از تکمیل عملیات مذکور، نیروهای خود را از این منطقه عقب خواهد کشید.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/israel-hezbollah-ali-taher-tunnels-lebanon-withdrawal/8195023.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "4.3K",
+      "views_label": "4.33K",
       "posted_at": "2026-09-07T02:30:19+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229680",
@@ -2370,34 +2398,6 @@
       "posted_at": "2026-09-06T11:07:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229599",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229598",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/cQgmNvY74QjMaJtRlGlAgwARq80-ngAFt95OGdUvawYpXRlgX1I0clW8a36_0wg0KQW01LJ0WQu9BqpST7mohIffbNUFA69ex-Lkf6Uxm-tRC9fnRtAzxAzkh0gbyyb0gskR6k6eYyyxmBrreDKOZ3GI717bPZ9fXIO5OPouQSOk6lXWlHM6cd2P_frgT1Wg5WzirdR4Wrxa3cFM5EbbDLoQnZesAGGbAJQC-7-_M1BM1x6rMu_j7_nT_BryWHEWoQu34Hwt3C5O6uTaZY0PWF5cpl7--mPsz-xFvsqjpvn05avmOnilCpREWkKLcCK4OERe7ekk1gf0pDPtLCNTyg.jpg",
-      "author_photo_path": "channels/farsivoa/media/0abbb3eafc2bacb0efcb50a7.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "سرگئی ریابکوف، معاون وزیر امور خارجه روسیه، گفت مسکو نشست سه‌جانبه رهبران روسیه، آمریکا و چین را منتفی نمی‌داند.<br><br>به گزارش خبرگزاری دولتی تاس، او افزود پیش از آغاز آماده‌سازی عملی، باید روشن شود دستور کار نشست چیست.<br><br>ریابکوف گفت: «اینجا پرسش اصلی به این برمی‌گردد که محتوای نشست چگونه تدوین می‌شود و چه نتیجه‌ای می‌توانیم انتظار داشته باشیم.»<br><br>یوری اوشاکوف، دستیار کرملین، هفته گذشته احتمال چنین نشستی میان ولادیمیر پوتین، دونالد ترامپ و شی جین‌پینگ را در حاشیه نشست همکاری اقتصادی آسیا-اقیانوسیه مطرح کرده بود.<br><br>بر پایه گزارش ساوت چاینا مورنینگ پست، نشست یادشده ۲۷ و ۲۸ آبان در شنژن چین برگزار می‌شود. کاخ سفید حضور آقای ترامپ را تأیید نکرده است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "سرگئی ریابکوف، معاون وزیر امور خارجه روسیه، گفت مسکو نشست سه‌جانبه رهبران روسیه، آمریکا و چین را منتفی نمی‌داند.\n\nبه گزارش خبرگزاری دولتی تاس، او افزود پیش از آغاز آماده‌سازی عملی، باید روشن شود دستور کار نشست چیست.\n\nریابکوف گفت: «اینجا پرسش اصلی به این برمی‌گردد که محتوای نشست چگونه تدوین می‌شود و چه نتیجه‌ای می‌توانیم انتظار داشته باشیم.»\n\nیوری اوشاکوف، دستیار کرملین، هفته گذشته احتمال چنین نشستی میان ولادیمیر پوتین، دونالد ترامپ و شی جین‌پینگ را در حاشیه نشست همکاری اقتصادی آسیا-اقیانوسیه مطرح کرده بود.\n\nبر پایه گزارش ساوت چاینا مورنینگ پست، نشست یادشده ۲۷ و ۲۸ آبان در شنژن چین برگزار می‌شود. کاخ سفید حضور آقای ترامپ را تأیید نکرده است.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229598",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/OkHi33FH4xW1J0mEMfjCXiVJnFJy2wgwSpvJ-4ZK5V_pgXbwSXhgV3wYMnBufRXhhh_RRx9NuwGHN0tW_f-QQ8_oYhjaDkb4GSofS9-Y4rErnjVuU13jihXatNhXYl-eDv-9qEwvS4g8S5BBVfLhxdRDVmUViIK1I1NeHIJtvPpABOvvZ6a_tKOnZE_6LkIG429ELybmKIw9vUgfOJ6t6eWMHB5rUOcZgge5cyhVW-2OOL-TDCqRtIwhi-xGRacqB2mSnz-UYMtV6ge3ByqEMn5MYAI91N1z8xXjApkKyfMICs7w_pFnam97jnA7Hv3YklYNyWQM0nG5ghH6iraQjw.jpg",
-          "thumbnail_path": "channels/farsivoa/media/6ebbd3839991d47937b58540.jpg",
-          "thumbnail_sha256": "94617e6160f1b447c722321bd8716cbd0e1d61bb8408859753bf37fbf1547d62",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.93K",
-      "posted_at": "2026-09-06T10:56:43+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229598",
       "reply": null
     }
   ]
