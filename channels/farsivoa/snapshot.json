@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T06:22:11.052Z",
+  "fetched_at": "2026-09-07T06:27:11.770Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229690",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "ارتش اسرائيل با صدور اطلاعیه ای اعلام کرد: یک خودروی مهندسی نیروهای این ارتش، روز یکشنبه پانزدهم شهریورماه، بر روی یک بمب دستی متعلق به «سازمان تروریستی حماس» در منطقه خط زرد در شمال نوار غزه قرار گرفت.<br><br>ارتش اسرائيل با اعلام اینکه حادثه فوق هیچ تلفاتی به دنبال نداشت، آن را نقض آشکار توافق آتش‌بس از سوی حماس توصیف کرد.<br><br>در واکنش به این نقض آتش‌بس، ارتش اسرائیل بامداد دوشنبه، شانزدهم شهریورماه، زیرساخت‌های «سازمان تروریستی حماس» را که برای پیشبرد طرح‌های تروریستی علیه شهروندان اسرائیل و نیروهای ارتش مورد استفاده قرار می‌گرفت، هدف حمله قرار داد.<br><br>آمریکا و اسرائيل، به همراه برخی دیگر کشورها، حماس را در فهرست سازمان‌های تروریستی قرار داده‌‌اند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "ارتش اسرائيل با صدور اطلاعیه ای اعلام کرد: یک خودروی مهندسی نیروهای این ارتش، روز یکشنبه پانزدهم شهریورماه، بر روی یک بمب دستی متعلق به «سازمان تروریستی حماس» در منطقه خط زرد در شمال نوار غزه قرار گرفت.\n\nارتش اسرائيل با اعلام اینکه حادثه فوق هیچ تلفاتی به دنبال نداشت، آن را نقض آشکار توافق آتش‌بس از سوی حماس توصیف کرد.\n\nدر واکنش به این نقض آتش‌بس، ارتش اسرائیل بامداد دوشنبه، شانزدهم شهریورماه، زیرساخت‌های «سازمان تروریستی حماس» را که برای پیشبرد طرح‌های تروریستی علیه شهروندان اسرائیل و نیروهای ارتش مورد استفاده قرار می‌گرفت، هدف حمله قرار داد.\n\nآمریکا و اسرائيل، به همراه برخی دیگر کشورها، حماس را در فهرست سازمان‌های تروریستی قرار داده‌‌اند.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229690",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/E9ea2pXN_fNoSM8WQQMJGcvIIws3DaeJpwfkgFU_c0gr9-BkDK8wS-sXZyPFa_e50ADqPj-OE7W-LM_WP5Q0sJXeYvcWuToBBfbxCYPZsCSJJE7TZXHFiy66q1tCqZ9tzxrGsMlMeb2BGUZHS80gx-6YAFGPRk7YEdceB_ZhheM9rdhzQQ7swwiKCpVFinWUibktmp76r6R_x2RKMb70mImjLGo9NBZJfccNG0E-9zisRQLVaP1x651eCCvjdPemE4CTMOc5gc9pTOJixtPLSbrJ2LN1siwk19qc-tCMrxTOR6OfQpDNlkxv9CVpUosMl1_VlGzeUiwe5UKt822T0A.jpg",
+          "thumbnail_path": "channels/farsivoa/media/13aeaa16596d5933bbf7dd36.jpg",
+          "thumbnail_sha256": "827f3fd4a62a0ae7dbe834b2a7d7c460bb0e3f89df61240cedc0741de59b7705",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-07T06:27:02+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229690",
+      "reply": null
+    },
     {
       "id": "farsivoa/229689",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "455",
+      "views_label": "614",
       "posted_at": "2026-09-07T06:13:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229689",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "905",
+      "views_label": "1.03K",
       "posted_at": "2026-09-07T05:59:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229688",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.26K",
+      "views_label": "1.36K",
       "posted_at": "2026-09-07T05:48:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229687",
@@ -105,7 +133,7 @@
       "plain_text": "🔺کارزار اقتصادی آمریکا اهرم فشار جمهوری اسلامی در تنگه هرمز را تضعیف کرده است\n\n▪️شش ماه پس از آغاز جنگ، تشدید تحریم‌ها و محاصره دریایی توسط ایالات متحده فشار فزاینده‌ای بر جمهوری اسلامی وارد آورده، و به گفته منابع ایرانی و منطقه‌ای، توان رژیم ایران برای استفاده از تنگه هرمز به عنوان اهرمی در برابر آمریکا را کاهش داده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/president-trump-economic-pressure-iran-hormuz-leverage/8195025.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.39K",
+      "views_label": "1.48K",
       "posted_at": "2026-09-07T05:39:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229686",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.52K",
+      "views_label": "1.58K",
       "posted_at": "2026-09-07T05:25:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229685",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.61K",
+      "views_label": "1.67K",
       "posted_at": "2026-09-07T05:14:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229684",
@@ -177,7 +205,7 @@
       "plain_text": "🔺نفت به ۹۷ دلار نزدیک شد؛ چشم‌انداز هرمز تا سال ۲۰۲۷ مبهم است\n\n▪️قیمت نفت روز دوشنبه به رشد خود ادامه داد، پس از آنکه حملات متقابل آمریکا و جمهوری اسلامی به شناورها در تنگه هرمز نگرانی از اختلال طولانی عرضه خاورمیانه را تشدید کرد.\n\n▪️قراردادهای آتی نفت برنت ۵۲ سنت بالا رفت و به ۹۶ دلار و ۸۰ سنت در هر بشکه رسید. نفت وست تگزاس اینترمدییت آمریکا نیز با ۶۶ سنت رشد به ۹۲ دلار و ۱۴ سنت رسید.\n\n▪️برنت هفته گذشته ۷ و هشت دهم درصد و دبلیوتی‌آی نزدیک ۱۰ درصد رشد کردند.\n\n▪️بر پایه تحلیل بانک ای‌ان‌زد، محتمل‌ترین سناریو رویارویی طولانی همراه با اقدام نظامی سنجیده دو طرف است. بر همین اساس، بازگشت به سطح تردد پیش از جنگ تا اواخر فصل نخست یا اوایل فصل دوم سال ۲۰۲۷ انتظار نمی‌رود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/oil-price-reaching-97-usd-per-barrel/8195026.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.86K",
+      "views_label": "1.89K",
       "posted_at": "2026-09-07T05:03:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229683",
@@ -193,7 +221,7 @@
       "plain_text": "🔺سرگردانی ۱۷۰ هزار مسافر به دلیل فوران آتشفشان و تعطیلی فرودگاه‌ها در اندونزی\n\n▪️در پی فوران آتشفشان «سینابونگ» در اندونزی و تعطیلی فرودگاه بین‌المللی اصلی و دیگر فرودگاه‌های این کشور، روز یکشنبه ۱۵ شهریور صدها پرواز لغو شدند، که این امر منجر به سرگردانی ۱۷۰ هزار مسافر شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/confusion-airport-indonesia-thousands-passengers/8195024.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "4.06K",
+      "views_label": "4.09K",
       "posted_at": "2026-09-07T02:56:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229682",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.97K",
+      "views_label": "4K",
       "posted_at": "2026-09-07T02:36:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229681",
@@ -237,7 +265,7 @@
       "plain_text": "🔺آمادگی اسرائیل برای انهدام تونل‌های حزب‌الله در «علی طاهر» و سپس عقب‌نشینی تا مرز لبنان\n\n▪️ارتش اسرائیل در حال آماده‌سازی برای انفجار دو تونل زیرزمینی متعلق به حزب‌الله در بلندی‌های راهبردی «علی طاهر» در جنوب لبنان است، و احتمالا پس از تکمیل عملیات مذکور، نیروهای خود را از این منطقه عقب خواهد کشید.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/israel-hezbollah-ali-taher-tunnels-lebanon-withdrawal/8195023.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.72K",
+      "views_label": "3.75K",
       "posted_at": "2026-09-07T02:30:19+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229680",
@@ -265,7 +293,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.57K",
+      "views_label": "3.6K",
       "posted_at": "2026-09-07T02:10:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229679",
@@ -281,7 +309,7 @@
       "plain_text": "🔺در پی سقوط هواپیمای باری آمازون در میامی دست‌کم پنج نفر کشته شدند\n\n▪️مقامات محلی روز یکشنبه ۱۵ شهریور اعلام کردند در پی سقوط یک هواپیمای باری شرکت «آمازون» هنگام نشستن در فرودگاه بین‌المللی میامی حداقل پنج نفر جان خود را از دست دادند و این حادثه منجر به بسته شدن تمام باندها و مسیر تاکسی‌‌‌ها شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/five-people-killed-plane-crash-miami/8195021.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.71K",
+      "views_label": "3.74K",
       "posted_at": "2026-09-07T01:51:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229678",
@@ -297,7 +325,7 @@
       "plain_text": "🔺کانادا حمایت خود را از تلاش‌های آمریکا برای بازگشایی تنگه هرمز و افزایش فشار بر جمهوری اسلامی اعلام کرد\n\n▪️دولت کانادا با محکوم کردن آنچه «فعالیت‌های بی‌ثبات‌کننده» جمهوری اسلامی در خاورمیانه خواند، اعلام کرد از تلاش‌های تحت رهبری ایالات متحده برای بازگشایی تنگه هرمز و کارزار اقتصادی آمریکا علیه حکومت ایران حمایت می‌کند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/canada-supports-us-iran-pressure-hormuz-economic-outcast/8195020.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.51K",
+      "views_label": "3.54K",
       "posted_at": "2026-09-07T01:16:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229677",
@@ -325,7 +353,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.31K",
+      "views_label": "3.34K",
       "posted_at": "2026-09-07T01:02:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229676",
@@ -353,7 +381,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.33K",
+      "views_label": "3.36K",
       "posted_at": "2026-09-07T00:53:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229675",
@@ -369,7 +397,7 @@
       "plain_text": "🔺پرزیدنت ترامپ بار دیگر تنگه هرمز را «قلمرو جدید آمریکا» خواند؛ انتشار تصویری از ضربه پتک به نقشه ایران\n\n▪️دونالد ترامپ، رئیس جمهوری آمریکا، شامگاه یکشنبه ۱۵ شهریور با انتشار دو تصویر در «تروت سوشال»، بار دیگر بر کنترل ایالات متحده بر تنگه هرمز و فشار بر جمهوری اسلامی تاکید کرد. این تازه‌ترین پیام او در ادامه مجموعه اظهاراتی است که طی هفته‌های اخیر درباره این آبراه راهبردی و وضعیت حکومت ایران مطرح کرده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/president-trump-hormuz-new-us-territory-iran-pressure/8195019.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.42K",
+      "views_label": "3.45K",
       "posted_at": "2026-09-07T00:41:08+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229674",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.23K",
+      "views_label": "3.26K",
       "posted_at": "2026-09-07T00:19:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229673",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.1K",
+      "views_label": "3.13K",
       "posted_at": "2026-09-07T00:02:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229671",
@@ -2382,34 +2410,6 @@
       "posted_at": "2026-09-06T09:21:08+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229590",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229589",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/cQgmNvY74QjMaJtRlGlAgwARq80-ngAFt95OGdUvawYpXRlgX1I0clW8a36_0wg0KQW01LJ0WQu9BqpST7mohIffbNUFA69ex-Lkf6Uxm-tRC9fnRtAzxAzkh0gbyyb0gskR6k6eYyyxmBrreDKOZ3GI717bPZ9fXIO5OPouQSOk6lXWlHM6cd2P_frgT1Wg5WzirdR4Wrxa3cFM5EbbDLoQnZesAGGbAJQC-7-_M1BM1x6rMu_j7_nT_BryWHEWoQu34Hwt3C5O6uTaZY0PWF5cpl7--mPsz-xFvsqjpvn05avmOnilCpREWkKLcCK4OERe7ekk1gf0pDPtLCNTyg.jpg",
-      "author_photo_path": "channels/farsivoa/media/0abbb3eafc2bacb0efcb50a7.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "رئیس مرکز مدیریت بیماری‌های واگیر وزارت بهداشت جمهوری اسلامی از افزایش موارد کووید-۱۹ در سه هفته گذشته خبر داد.<br><br>قباد مرادی گفت سرفه و تب از علائم شایع‌اند و در برخی افراد علائم گوارشی نیز دیده می‌شود.<br><br>به گزارش خبرگزاری ایسنا، حدود ۵ و نیم درصد مراجعان با علائم عفونت تنفسی از نظر آنفلوانزا مثبت بوده‌اند و آنفلوانزای نوع بی بیشترین نوع در گردش است.<br><br>بر پایه گزارش مرکز مدیریت بیماری‌های واگیر، در هفته منتهی به ۶ شهریور حدود ۸ و سه دهم درصد نمونه‌های تنفسی از نظر کووید مثبت بوده و رشد دو برابری داشته است.<br><br>این در حالی است که همزمان گزارش‌هایی درباره کمبود واکسن آنفلوانزا در بازار دارویی ایران منتشر می‌شود.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "رئیس مرکز مدیریت بیماری‌های واگیر وزارت بهداشت جمهوری اسلامی از افزایش موارد کووید-۱۹ در سه هفته گذشته خبر داد.\n\nقباد مرادی گفت سرفه و تب از علائم شایع‌اند و در برخی افراد علائم گوارشی نیز دیده می‌شود.\n\nبه گزارش خبرگزاری ایسنا، حدود ۵ و نیم درصد مراجعان با علائم عفونت تنفسی از نظر آنفلوانزا مثبت بوده‌اند و آنفلوانزای نوع بی بیشترین نوع در گردش است.\n\nبر پایه گزارش مرکز مدیریت بیماری‌های واگیر، در هفته منتهی به ۶ شهریور حدود ۸ و سه دهم درصد نمونه‌های تنفسی از نظر کووید مثبت بوده و رشد دو برابری داشته است.\n\nاین در حالی است که همزمان گزارش‌هایی درباره کمبود واکسن آنفلوانزا در بازار دارویی ایران منتشر می‌شود.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229589",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/uWbT0t7yVIQuHenqt-GIKdFnT3unW5EL8IaSYcGHNTVMvfqdE5Z7I37whq10kDTg0WtDnADwaOAp9NqdMBgi6VjWy0xnvv7G6OGKf7W56ryf0-Dy_Q_GwGPrgNDHOtBxnX8UrF07fMWt-M0cxwijjy0VvAtL_MHkmUgxvFgq85Y6kooklfXWomfgRm8FLpgggDmg0s2GEgxfK2Yef2WJFG07YqWuvc1KX10H-WpV_11q772_1QWfPyiUEmqiJwOBO5RnVIUoyUe7aVHxAm6kAgJBapyCcnNBNVJZPtnQhW1mrksBztlxW32tDgUpnM-5cl3jIosWMoyQlmMhekTy1w.jpg",
-          "thumbnail_path": "channels/farsivoa/media/26f5ffd68abe0efe8e1477aa.jpg",
-          "thumbnail_sha256": "3129c9e299a47307c05fc2584dee3d3d42660b0e4cfead2b7d7cd35f9d7418d4",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.91K",
-      "posted_at": "2026-09-06T09:02:56+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229589",
       "reply": null
     }
   ]

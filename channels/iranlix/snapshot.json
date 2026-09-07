@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T06:22:13.072Z",
+  "fetched_at": "2026-09-07T06:27:13.786Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,43 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12658",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/fMVnOc1uSucjuboT6V0k7ELXy0-AF7uXhfQKrT0ABzO4YzNvYVYnhQDl9twI5SD7s_WY23CPVzE1kCYrgwBE-c0afmMRE4w0x1v9fJg2JPujS6glrH0OikU9oZB7LN90gFgqsYvcd6hcSfUWJGw9K7p7qJGl0c1YSpXmSrRkUabxYJw4-0ABlI1K019Rc4i4hddSvcxPaBcfBxscaRfeZ2IAghENZ4crQZSKfSCyu-vReE4p-qu7FL3BVKVpjlewu9IH_c86Ie703hT2oR8BPw-_W35Ebf76o_in2_h7S0lirkU8mZyQ9oCUpBRTYO2xsEYmfY7qyRK21qYFBO7xfA.jpg",
+      "author_photo_path": "channels/iranlix/media/d6f23b233b51f82bbdb3cdba.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>تصاویری از مواضع تخریب شده حزب الله در شهر کفر رمان در جنوب لبنان، پس از حملات هوایی ارتش اسرائیل</b> <b>که منجر به هلاکت رسیدن ۹ تروریست شد.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "♦️تصاویری از مواضع تخریب شده حزب الله در شهر کفر رمان در جنوب لبنان، پس از حملات هوایی ارتش اسرائیل که منجر به هلاکت رسیدن ۹ تروریست شد.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/iranlix/12658",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/L4JxypNmFtCrxu-2GueUPFPHLrGkEEhy6VAsRXvw6EsyofR8pnxioBAGHZOeYs0MI78Was1CoUm2m_N9ZvzJsmxCqQ_VkBL18pF7RIEgZ52PBbLhWBXcVwf0qQ4veVa7gcu6b_El0Xtgyvy4RapY78h_7jhv_sfi_dKxKsZZ6PiPEHZ1fvZAAbtZaiiWMB8XXAllByLT2VM-yYczZ1SxJ29o-7ywgNIV4QVZCkJIb9ZMgXhTEYiuywZOe2fzryPUzQ0WFHMlfv7kUVXCVavDMsmMmFhRsWRbVrsYH2__b_j6kzfsMQXuUuy2iluks3VuHW0__KYPfXWNnTKpXXOTaQ",
+          "thumbnail_path": "channels/iranlix/media/b0770f2ba90aa6bd6829f22c.jpg",
+          "thumbnail_sha256": "1bbb53f3289e5c92192858d145a4be7680f630566b67d3d478dda274712b1904",
+          "duration_label": "0:29",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "34",
+      "posted_at": "2026-09-07T06:24:00+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12658",
+      "reply": {
+        "channel_username": "iranlix",
+        "post_id": "12654",
+        "author_name": "ایرانلیکس",
+        "preview_text": "",
+        "thumbnail_url": "https://cdn4.telesco.pe/file/mPNoeUlr4dH-jIFJnME-bRCrm6JYAS5WjXHFIagJSfBVCmiqO9HkVv3hMbSCIz9H2Yo4zZF-eCWByPpg-STzWYZdZa3qDoRZCPaizPPFX4QbhlP3NuRzAPkY8xbrH8kWPRaSTMQSAe-OZsBYuRdUuA0itBUOG5M4zzeR136GpE9NSsnpZwOAmyZeXJMRiJpaIFxO_2wTwdZlzXC-3JvHXrzZh-qasav175erto3WqggAJi7a_EJnmwDz-hnehdisQr31_uTXwrEBpk9DXf5ZJSDrj_Hlow7jUx2ln_ezz-ZxEFMwVICQ6YeM1SEwKitPC3QCiwYW6krn2pdf23yKHg.jpg",
+        "thumbnail_path": "channels/iranlix/media/5c948b9ae57619f8b359d5c7.jpg",
+        "thumbnail_sha256": "b502ff92c66d880c6ffb5501c0c0e21c4c6134fa05b009711f4209eb8984c9e9",
+        "permalink": "https://t.me/iranlix/12654"
+      }
+    },
     {
       "id": "iranlix/12657",
       "author_name": "ایرانلیکس",
@@ -33,7 +70,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "266",
+      "views_label": "302",
       "posted_at": "2026-09-07T05:43:41+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12657",
@@ -72,7 +109,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "657",
+      "views_label": "683",
       "posted_at": "2026-09-07T03:27:48+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12655",
@@ -120,7 +157,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "659",
+      "views_label": "683",
       "posted_at": "2026-09-07T03:23:35+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12653",
@@ -148,7 +185,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "670",
+      "views_label": "693",
       "posted_at": "2026-09-07T03:21:03+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12652",
@@ -185,7 +222,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "638",
+      "views_label": "658",
       "posted_at": "2026-09-07T03:19:38+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12651",
@@ -213,7 +250,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.01K",
+      "views_label": "1.02K",
       "posted_at": "2026-09-06T22:08:12+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12650",
@@ -269,7 +306,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.17K",
+      "views_label": "1.18K",
       "posted_at": "2026-09-06T21:05:14+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12648",
@@ -325,7 +362,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.4K",
+      "views_label": "1.41K",
       "posted_at": "2026-09-06T20:07:59+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12646",
@@ -2839,34 +2876,6 @@
       "posted_at": "2026-09-04T18:25:56+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12557",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12556",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/VK7UxP3xK7XXY_E9qNcDJ9R-ugu8Kqr7hzd-V0Osm8FpZUxtY4hXl4rV0HsqaChh7d8JSJjgFWTh5WIRkwxmi-z7LWuC_etM9QCxqe6lmIh9aDtiHHDYBpAW0-0H_AVdL1YEM683dsoUj2w8l1NOtudtgUcDRAsQo1ZOQp_6nC8orT5o9026LgcHj_uJLQZ2u0tTjug-6Lhs-pJLX7MPK0tW3JQkNF4aE-MhuIPm6DDcI8Sw9TBAhYCXoWJqkUpgxeNNuaxB6X9jzyB0zY_R2x6tcaz8EDuoySW9KALS3r8g9tGuy9SUlSsE_QaNLXNdEWB7vVSlxHr5PIHEugIN4A.jpg",
-      "author_photo_path": "channels/iranlix/media/1fe3bf02c3c024640c615e89.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>العربیه گزارش داد موشک‌های پرتاب‌شده از ایران در شمال اردن رهگیری شده‌اند؛ هم‌زمان کانال‌های نزدیک به سپاه از شلیک موشک از اصفهان، کرمان و کرمانشاه خبر دادند. وزارت خارجه قطر نیز اعلام کرد این کشور طرف درگیری نیست و حمله به خاکش قابل توجیه نیست و موفقیت پدافند قطر در رهگیری حملات، از خطر آن‌ها نمی‌کاهد</b>.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "♦️العربیه گزارش داد موشک‌های پرتاب‌شده از ایران در شمال اردن رهگیری شده‌اند؛ هم‌زمان کانال‌های نزدیک به سپاه از شلیک موشک از اصفهان، کرمان و کرمانشاه خبر دادند. وزارت خارجه قطر نیز اعلام کرد این کشور طرف درگیری نیست و حمله به خاکش قابل توجیه نیست و موفقیت پدافند قطر در رهگیری حملات، از خطر آن‌ها نمی‌کاهد.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/12556",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/lf1SViEURsl8FbzEnjzIxUBgatCKfPrkU2K5edr2clMARs8tzEC0PUqzAxlelCtEEguAye2Dp-i2_E6INQJLHnn5YuaI1BoacjgOIbvFbxFOUWKII3Q7Lilol9gtZlmUEs8_jSAtEFX-C79-y31iGRSstXVDi9-RFCVV5kJjhvv1-h7fh5-qV8sYfjOoS0uWmVdF1A04YQvDqOYWFyfTk9308Yo_IUeENvxZaKqvm5d36bzEazyOzsDlHFUJR_WtxrVNdvD3I_Cezl2LHUe-VONPCO-1dQY2htwPQpFx9kQeGzGP49a7_hit6X0FIU9eaig7qQnPVD_V3Bk1zmgftA.jpg",
-          "thumbnail_path": "channels/iranlix/media/0142f1c2b7cef2d4b2fb3a15.jpg",
-          "thumbnail_sha256": "62b74d2def030018dab6cc76598a54a9e68d8892f586b23c71b382027f45b749",
-          "duration_label": null,
-          "aspect_ratio": 1.2790697674418634
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.18K",
-      "posted_at": "2026-09-04T17:32:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12556",
       "reply": null
     }
   ]
