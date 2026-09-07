@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T05:32:15.578Z",
+  "fetched_at": "2026-09-07T05:37:19.955Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -11,6 +11,47 @@
     "subscriber_count": "96.3K"
   },
   "posts": [
+    {
+      "id": "ircfspace/2585",
+      "author_name": "IRCF | اینترنت آزاد برای همه",
+      "author_photo_url": "https://cdn1.telesco.pe/file/LcX8vxMqe0lI1XuHYAL8Yeejm4uNZ7HzfqMwyRYhyGzcjPmZo1A5CBSySV1m9IgKl6SbzruXO6lEBvRL3PPXoF6fnUGraQiBoIrsfOSxa53g04xNefZFosIzW8N49qJTruIt9kwW0m3gwEX2D66om-lRTMhWuc-yohxGg8pGsOgSB6GuoMJ5k4UrGJtjJT74Cy3FsIaZxUu7KwootcRau6CchLTGALkmcfpOJik_1vEJ5FF1iHryybFf1iEdK8jbT-b8jniRnDPs5QinRUVTzKFHARq5BbTafNJxpbdslQnBJ6KQPzv0d59by-TWMaPVqYj6uRUP7A-fpiQJPacpbA.jpg",
+      "author_photo_path": "channels/ircfspace/media/884b53ba005df29b04fb0fd9.jpg",
+      "author_photo_sha256": "158f2dc02d1e6a05c082153b128dee184884a3f1159a3f635b1a111432f7eabc",
+      "body_html": "کاسپین یه ابزار رایگان و متن‌باز برای ویندوز، مک، لینوکس و رزبری‌پای هست، که دستگاهتون رو به یک هات‌اسپات مجهز به VPN تبدیل می‌کنه تا بتونین فیلترشکن رو با همه دستگاه‌های خونه به اشتراک بذارین.<br>کافیه لینک VLESS، VMess، Trojan، Shadowsocks یا Hysteria2 خودتون رو وارد کنید، تا ترافیک دستگاه‌هایی که به Wifi کاسپین وصل میشن، از تانل Xray رد بشه؛ بدون اینکه لازم باشه روی تک‌تک دستگاه‌ها VPN یا پروکسی نصب کنین. درضمن اگه تانل قطع بشه، کاسپین دسترسی اینترنت دستگاه‌های متصل رو قطع می‌کنه.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9189.png')\"><b>👉</b></i> <a href=\"http://github.com/Iman/caspian/releases\" target=\"_blank\" rel=\"noopener\">github.com/Iman/caspian/releases</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴡᴇʙꜱɪᴛᴇ</a> • <a href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴠᴘɴʜᴜʙ</a> • <a href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
+      "plain_text": "کاسپین یه ابزار رایگان و متن‌باز برای ویندوز، مک، لینوکس و رزبری‌پای هست، که دستگاهتون رو به یک هات‌اسپات مجهز به VPN تبدیل می‌کنه تا بتونین فیلترشکن رو با همه دستگاه‌های خونه به اشتراک بذارین.\nکافیه لینک VLESS، VMess، Trojan، Shadowsocks یا Hysteria2 خودتون رو وارد کنید، تا ترافیک دستگاه‌هایی که به Wifi کاسپین وصل میشن، از تانل Xray رد بشه؛ بدون اینکه لازم باشه روی تک‌تک دستگاه‌ها VPN یا پروکسی نصب کنین. درضمن اگه تانل قطع بشه، کاسپین دسترسی اینترنت دستگاه‌های متصل رو قطع می‌کنه.\n\n👉 github.com/Iman/caspian/releases\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/ircfspace/2585",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/OEyk0lUnGghtfnTcx88yqWI-_uroy0BaaQPcFEDREMl_tNdHS6sNap1oN6WM5IxLBQLi4PfqP3R1L-HpaoOkuyoBXK8CV6I9LzTr6-BCxO-VpXIn7yol9E1DX8Jl83TFLjt3-J5ZuoGUuCX9xNiWAbCNagn3f_oO69GdwfCOrkg7qokXN_AA2pvi9xBWi1vhk2XSUGe1j3cKRJ0A3O88dAyoT0zZ0C040KNxq6gHP4X2p1y9-WVFBLeWli7BdnfPRTwiEB5mPJVpjwP242-2tbd87kMIIgZtddWu5GkVmKB7PZYR71Xt3b9dp4YYZg6TyWfuJ_CLGWmzHgckpTbHnA.jpg",
+          "thumbnail_path": "channels/ircfspace/media/25f566b922c424733d9bf339.jpg",
+          "thumbnail_sha256": "b4374c0479d3c1af25f1307472c33b364b78975c0f985a3653f9b49f9b50bf1e",
+          "duration_label": null,
+          "aspect_ratio": 1.3333333333333333
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "7"
+        },
+        {
+          "emoji": "👏",
+          "count": "3"
+        },
+        {
+          "emoji": "🗿",
+          "count": "1"
+        }
+      ],
+      "views_label": "736",
+      "posted_at": "2026-09-07T05:32:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/ircfspace/2585",
+      "reply": null
+    },
     {
       "id": "ircfspace/2584",
       "author_name": "IRCF | اینترنت آزاد برای همه",
@@ -35,18 +76,18 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "9"
+          "count": "12"
         },
         {
           "emoji": "👍",
-          "count": "2"
+          "count": "3"
         },
         {
           "emoji": "👎",
           "count": "2"
         }
       ],
-      "views_label": "1.06K",
+      "views_label": "1.6K",
       "posted_at": "2026-09-07T05:23:54+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2584",
@@ -76,14 +117,14 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "13"
+          "count": "15"
         },
         {
           "emoji": "❤",
           "count": "2"
         }
       ],
-      "views_label": "2.19K",
+      "views_label": "2.61K",
       "posted_at": "2026-09-07T05:10:20+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2583",
@@ -113,7 +154,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "820"
+          "count": "821"
         },
         {
           "emoji": "🗿",
@@ -152,7 +193,7 @@
           "count": "1"
         }
       ],
-      "views_label": "16.7K",
+      "views_label": "16.8K",
       "posted_at": "2026-09-06T04:09:39+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2582",
@@ -182,7 +223,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "129"
+          "count": "130"
         },
         {
           "emoji": "🤡",
@@ -213,7 +254,7 @@
           "count": "1"
         }
       ],
-      "views_label": "16.1K",
+      "views_label": "16.2K",
       "posted_at": "2026-09-06T03:47:35+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2581",
@@ -276,7 +317,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "532"
+          "count": "534"
         },
         {
           "emoji": "😱",
@@ -425,7 +466,7 @@
           "count": "1"
         }
       ],
-      "views_label": "23K",
+      "views_label": "23.1K",
       "posted_at": "2026-09-03T15:17:25+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2577",
@@ -494,7 +535,7 @@
           "count": "1"
         }
       ],
-      "views_label": "23.4K",
+      "views_label": "23.5K",
       "posted_at": "2026-09-03T14:39:14+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2576",
@@ -547,7 +588,7 @@
           "count": "1"
         }
       ],
-      "views_label": "33.2K",
+      "views_label": "33.3K",
       "posted_at": "2026-08-31T15:17:54+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2575",
@@ -661,7 +702,7 @@
           "count": "1"
         }
       ],
-      "views_label": "31.3K",
+      "views_label": "31.4K",
       "posted_at": "2026-08-30T08:14:25+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2573",
@@ -691,7 +732,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "648"
+          "count": "649"
         },
         {
           "emoji": "😐",
@@ -726,7 +767,7 @@
           "count": "2"
         }
       ],
-      "views_label": "29.9K",
+      "views_label": "30K",
       "posted_at": "2026-08-30T08:11:03+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2572",
@@ -756,7 +797,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "238"
+          "count": "239"
         },
         {
           "emoji": "👍",
@@ -787,7 +828,7 @@
           "count": "1"
         }
       ],
-      "views_label": "24.2K",
+      "views_label": "24.3K",
       "posted_at": "2026-08-30T08:04:22+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2571",
@@ -5632,59 +5673,6 @@
       "posted_at": "2026-07-11T05:20:27+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2485",
-      "reply": null
-    },
-    {
-      "id": "ircfspace/2484",
-      "author_name": "IRCF | اینترنت آزاد برای همه",
-      "author_photo_url": "https://cdn1.telesco.pe/file/segV5qD8V3HVtbgyh_GP2-xCOJnEnbNpWWTZRPiU6hLTNVHvzFyguB6gy2v8p-R8rFCjcaarNQAqVmzyvwDEouBjIaBaSHwFUJbSwgdwx387oNrtTE8dK3GtmN1_BKCCWwPF7lwvcD7mYfDQSpuwnj22DiJciuCIZ2ninMgdLkNJOywYO3imbygEcFgQlj3ThiKnJdSLP8CkzgV3_9BAJt3O6QigBks-MOPIS_urMoVmgT4EURdf563lK4PI6CXmP9dAxlHstVDWSF4k7SxDYZOrpvz9cbgs0LunVp1JuIjuObpwcMSxsu5Rn_5orKzbePGPfZgFUOvQxOpNAdzQjw.jpg",
-      "author_photo_path": "channels/ircfspace/media/01e7dbe9c0a4610466f991fe.jpg",
-      "author_photo_sha256": "158f2dc02d1e6a05c082153b128dee184884a3f1159a3f635b1a111432f7eabc",
-      "body_html": "پنل زئوس یه ابزار متن‌باز برای ساخت فیلترشکن رایگان روی بستر ورکر کلودفلر هست، که امکاناتی مثل آیپی و لوکیشن ثابت، دریافت خودکار آی‌پی تمیز، لینک ساب و QR Code اختصاصی، فرگمنت، شبیه‌سازی فینگرپرینت، بکاپ‌گیری و ... رو بصورت یکجا در اختیارتون میذاره.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9189.png')\"><b>👉</b></i> <a href=\"http://github.com/IR-NETLIFY/zeus\" target=\"_blank\" rel=\"noopener\">github.com/IR-NETLIFY/zeus</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴡᴇʙꜱɪᴛᴇ</a> • <a href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴠᴘɴʜᴜʙ</a> • <a href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
-      "plain_text": "پنل زئوس یه ابزار متن‌باز برای ساخت فیلترشکن رایگان روی بستر ورکر کلودفلر هست، که امکاناتی مثل آیپی و لوکیشن ثابت، دریافت خودکار آی‌پی تمیز، لینک ساب و QR Code اختصاصی، فرگمنت، شبیه‌سازی فینگرپرینت، بکاپ‌گیری و ... رو بصورت یکجا در اختیارتون میذاره.\n\n👉 github.com/IR-NETLIFY/zeus\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/ircfspace/2484",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/JkwfNJojrHjSiT3lXJqQqB3mt9btrEUKro8pxW6kySu3rWv9UwUnnEDtCtPnn3opE8VzewMJO4k0RgS2Fr5t3ILFwKnotnGUeGZFXXSvAjAIUgoqFxNGgz4wj4HGeP60ebIK9heA_yIQ-jyfVWqV_zRk7sFV-2GIUGFcRBa6k8XLO9vP8MhV13SKvg2oWHB-ijRUE-r2Tp6rXvxKtdNuvMbuRvYyxoGOER233QDVL-yN2swSbE7gJ3ya3BfODnRTH7-aI5m4ssLCg87hiW_fLYywHczD-0CmA8umLGiMMKNAERANU3of613etL5W4iAGyA-1OAdKsQWx3ZKymFB-ng.jpg",
-          "thumbnail_path": "channels/ircfspace/media/ac3df57c16b6dca3fe863375.jpg",
-          "thumbnail_sha256": "2e0fbf2b08ee9baf9057c0e5d8e829c76479e3890529a43c5d8427bf9653097b",
-          "duration_label": null,
-          "aspect_ratio": 1.3333333333333333
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "148"
-        },
-        {
-          "emoji": "❤",
-          "count": "48"
-        },
-        {
-          "emoji": "😁",
-          "count": "7"
-        },
-        {
-          "emoji": "🔥",
-          "count": "5"
-        },
-        {
-          "emoji": "👎",
-          "count": "4"
-        },
-        {
-          "emoji": "👏",
-          "count": "2"
-        }
-      ],
-      "views_label": "34.3K",
-      "posted_at": "2026-07-11T05:05:24+00:00",
-      "edited": true,
-      "permalink": "https://t.me/ircfspace/2484",
       "reply": null
     }
   ]
