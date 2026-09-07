@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T17:21:59.763Z",
+  "fetched_at": "2026-09-07T17:27:02.415Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,62 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229773",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "باقر موسوی، عکاس و فعال محیط زیست، روز دوشنبه ۱۶ شهریور با انتشار تصاویری از تالاب هورالعظیم نوشت که پس از ماه‌ها خشکی در بخش ایرانی این تالاب، بار دیگر مقداری آب به آن روانه شده و با بازگشت آب، سمورهای آبی نیز دوباره ظاهر شده‌اند.<br><br>او با ابراز امیدواری نسبت به بقای این گونه و احیای زیستگاه آن نوشت: «دیدن دوباره آنها در آب‌های هورالعظیم یعنی هنوز امید زنده است.»<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "باقر موسوی، عکاس و فعال محیط زیست، روز دوشنبه ۱۶ شهریور با انتشار تصاویری از تالاب هورالعظیم نوشت که پس از ماه‌ها خشکی در بخش ایرانی این تالاب، بار دیگر مقداری آب به آن روانه شده و با بازگشت آب، سمورهای آبی نیز دوباره ظاهر شده‌اند.\n\nاو با ابراز امیدواری نسبت به بقای این گونه و احیای زیستگاه آن نوشت: «دیدن دوباره آنها در آب‌های هورالعظیم یعنی هنوز امید زنده است.»\n\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229773",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/dH17z1ZlUo-AIWa56c6gCqu-yWvJ9HnRmNxLmEKch5IWTPTxkOESfHpCrKTKmeFbOjhTjLkUG8Sjdj6fHDxdqF0pcP7B7fPufgXdUK999RVraTl3R60c70lGqz-uIgKl05zbd2J4EOjE2x0FOgURN0J7l-l2fiZNnfZNKI6xuAYCrZ0-xp8-xrhmcwCfEw8zp3Anu9ShfA9q2dg8QXkQ8Kc11vmSNVkekUaEV1aNNFzmmfmmP-A6EWqTA4PnDvY8-r2XhKbQktJhaozeB12_hetlURqPnRX2LvWoYopTEI3brAwVwB-lPuD_uBXQNnJ09ijBrgv55WFKw1ZgWRMaww",
+          "thumbnail_path": "channels/farsivoa/media/ff9105dde9eaf0de6553331a.jpg",
+          "thumbnail_sha256": "fa5d6196495c41520961d9d2a8ec334c025287580516cb145b1555f13328361c",
+          "duration_label": "0:40",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-07T17:25:55+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229773",
+      "reply": null
+    },
+    {
+      "id": "farsivoa/229772",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "ویدیوی منتشر شده در شبکه‌های اجتماعی صف طولانی بنزین را در یک جایگاه سوخت تهران نشان می‌دهد. جمهوری اسلامی اعلام کرد بهای بنزین عرضه‌شده با کارت جایگاه از بامداد سه‌شنبه ۱۷ شهریور ۱۴۰۵ دو برابر و از لیتری پنج هزار تومان به ۱۰ هزار تومان افزایش می‌یابد؛ تصمیمی که یادآور افزایش ناگهانی قیمت بنزین در آبان ۱۳۹۸ و اعتراضات خونین پس از آن است.",
+      "plain_text": "ویدیوی منتشر شده در شبکه‌های اجتماعی صف طولانی بنزین را در یک جایگاه سوخت تهران نشان می‌دهد. جمهوری اسلامی اعلام کرد بهای بنزین عرضه‌شده با کارت جایگاه از بامداد سه‌شنبه ۱۷ شهریور ۱۴۰۵ دو برابر و از لیتری پنج هزار تومان به ۱۰ هزار تومان افزایش می‌یابد؛ تصمیمی که یادآور افزایش ناگهانی قیمت بنزین در آبان ۱۳۹۸ و اعتراضات خونین پس از آن است.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229772",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/HTAmMD0jxpxb19K_sXavabd5tUZAW2p9s4KXIgEYSM0zOhbBvrNXbC0iLEzmuMlTMIP4MoCnlU5y-V8D237IHmKn9woMt_LbmMuGDiga64owNwN42GTwX83heqhlPn5Edg9Qb94vm9feUmU03ZQMylJnMqOXCjrew6PhcZzV9ZSCC4gE4KialzC6iP1cLTulA80qgKFUEyNx4BxTdYuwQhslyN6O4wMq9A5FXxUFfcuw8nUxLZORqkU-aKjvunYzlubRSkVBgni7J6tu1yC4tutujQwbx5oTTBg6Ptwa7RQD9wLV5hI1lMFG3iS7d8Uh9qnYzQ6Poh-gA58xkWp5Vw",
+          "thumbnail_path": "channels/farsivoa/media/da2b147967fac36a37491c27.jpg",
+          "thumbnail_sha256": "c3478fdf9cb1595e519b831f805b4fcf7c4f5e15b09d3a7474dc2e3ba13c0928",
+          "duration_label": "0:31",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "228",
+      "posted_at": "2026-09-07T17:24:13+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229772",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229771",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
@@ -21,7 +77,7 @@
       "plain_text": "🔺تاکید خانواده‌های دادخواه بر «تقابل و انتقام»: نه می‌بخشیم و نه فراموش می‌کنیم\n\n▪️حکومت جمهوری اسلامی در آستانه چهارمین سالگرد کشته‌شدن مهسا امینی در بازداشت گشت ارشاد و آغاز اعتراضات بزرگ مردمی در ایران، فشار بر خانواده‌های دادخواه سال‌های اخیر را افزایش داده، دادخواهان نیز در مقابل با انتشار ویدیو در فضای مجازی، بر تقابل و انتقام تاکید می‌کنند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-human-rights-arrest-detention-execution/8195104.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "388",
+      "views_label": "640",
       "posted_at": "2026-09-07T17:13:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229771",
@@ -126,7 +182,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "507",
+      "views_label": "698",
       "posted_at": "2026-09-07T17:11:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229763",
@@ -142,7 +198,7 @@
       "plain_text": "🔴📢‌ پادکست تفسیر خبر- دوشنبه ۱۶ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "1.09K",
+      "views_label": "1.24K",
       "posted_at": "2026-09-07T16:52:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229762",
@@ -158,7 +214,7 @@
       "plain_text": "🔺فرمان آماده‌باش ارتش اسرائیل در کرانه باختری و کشته شدن فرمانده گردان نخبه حماس در غزه\n\n▪️به گزارش رسانه‌های منطقه در روز دوشنبه ۱۶ شهریور، یسرائیل کاتس، وزیر دفاع اسرائیل، اعلام کرد در با هماهنگی با بنیامین نتانیاهو، نخست وزیر این کشور، به ارتش اسرائیل دستور داده برای یک «جنگ تمام عیار علیه تروریسم در کرانه باختری» آماده شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/israel-palestine-west-bank-hamas-iran/8195115.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.41K",
+      "views_label": "1.47K",
       "posted_at": "2026-09-07T16:46:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229761",
@@ -186,7 +242,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.25K",
+      "views_label": "1.31K",
       "posted_at": "2026-09-07T16:45:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229760",
@@ -214,7 +270,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.48K",
+      "views_label": "1.54K",
       "posted_at": "2026-09-07T16:40:36+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229759",
@@ -242,7 +298,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.54K",
+      "views_label": "1.61K",
       "posted_at": "2026-09-07T16:35:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229758",
@@ -270,7 +326,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.45K",
+      "views_label": "1.52K",
       "posted_at": "2026-09-07T16:30:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229757",
@@ -298,7 +354,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.78K",
+      "views_label": "1.81K",
       "posted_at": "2026-09-07T16:19:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229756",
@@ -314,7 +370,7 @@
       "plain_text": "🔺ویتکاف می‌گوید در مذاکرات برای پایان جنگ روسیه و اوکراین پیشرفت چشمگیری حاصل شد\n\n▪️استیو ویتکاف، فرستاده ویژه رئیس‌ جمهوری آمریکا، روز دوشنبه ۱۶ شهریور در حساب خود در شبکه اجتماعی ایکس از «پیشرفت چشمگیر» در مذاکرات برای پایان دادن به جنگ روسیه و اوکراین خبر داد و گفت در زمینه برنامه‌ریزی برای برگزاری مذاکرات سه‌جانبه نیز پیشرفت حاصل شده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/witkoff-says-progress-made-russia-ukraine-peace-talks/8195101.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.87K",
+      "views_label": "1.94K",
       "posted_at": "2026-09-07T16:16:15+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229755",
@@ -342,7 +398,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.65K",
+      "views_label": "1.71K",
       "posted_at": "2026-09-07T16:15:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229754",
@@ -2458,62 +2514,6 @@
       "posted_at": "2026-09-06T21:50:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229665",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229664",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "خروج نیروها و سامانه‌های دفاع هوایی آمریکا از عراق و نگرانی اقلیم کردستان از حملات جمهوری اسلامی<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "خروج نیروها و سامانه‌های دفاع هوایی آمریکا از عراق و نگرانی اقلیم کردستان از حملات جمهوری اسلامی\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229664",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/pW8N6_Vay6QPSxRc3jAnHnpkakMVufSaVJHcVsoAjhlS6R7P80kZNGBFLysz3BkBbcNtsnNduDrK786P9gX-VNqd4S7m0WFI5xit_OTtji_T3zxlxnzEz48IgtkTqx67TKx7azTWRX2fx8DOPOHpx37R4khFeUa1totybIiBeJLtwxZDxO433Fd4r2Wv6Tf4HhWNuLqyQzz5DVY9A10E7d6E38E_UpHJXWnNLonb6-gAvVcg_Uh9TxEAtWjcUd7FntXbiMXCUs4f5fKPJxJg-qewvRYQnbbdja9DOYyFCQOKwye0-O0zxLt1RMt0X348APt5gtNkZBWObvOaXWDvkg",
-          "thumbnail_path": "channels/farsivoa/media/f62e41ee5e04273d2feb6ff2.jpg",
-          "thumbnail_sha256": "07e460831125eefc039341359023cef2535577d075b34d6880638ce3ba20d493",
-          "duration_label": "4:23",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.54K",
-      "posted_at": "2026-09-06T21:44:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229664",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229663",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "کاظم‌زاده: یکی از بزرگ‌ترین خطاهای جمهوری اسلامی ارزیابی نادرست از انتخابات آمریکا بود<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "کاظم‌زاده: یکی از بزرگ‌ترین خطاهای جمهوری اسلامی ارزیابی نادرست از انتخابات آمریکا بود\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229663",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/df6IhHx9EPNuOXEzFJgBqC2eqcUxVhUlhHkz_dk91eZWodXBPmGQzNr6zdMRBLrfo0iCgoYbEGl-PURuo0-S0SPswSORXt3hnzdAYwyTcUg8ia28Prp9mPQSDX6tLECau488dH33h0rAy8R3aMq4b3d_fiY74WHppftCjyMJvkFj9YC0YxGKvhbqOQD7r1uAQPILNOm1mK5dMFKlFG78koCaKC8mymAJgCAy5FCgy2i9-XrPxbQ4W6_pDWHgXVbN62npPMrk1epy4leHN6oOVMhA8AYcPlrg-S8ML_viivDwdUFPg4G0_2re7ZZG8kWacQePUc6vUYFXgmfja3q3iQ",
-          "thumbnail_path": "channels/farsivoa/media/2e6527c4bfeffa137d313244.jpg",
-          "thumbnail_sha256": "68368cf7ce7b60207413ad291a5ebb0bad356bd4cfcaa4ef6d08382e975b4214",
-          "duration_label": "1:59",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "4.28K",
-      "posted_at": "2026-09-06T21:03:16+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229663",
       "reply": null
     }
   ]

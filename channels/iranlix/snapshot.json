@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T17:22:02.218Z",
+  "fetched_at": "2026-09-07T17:27:04.921Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,62 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12684",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/fMVnOc1uSucjuboT6V0k7ELXy0-AF7uXhfQKrT0ABzO4YzNvYVYnhQDl9twI5SD7s_WY23CPVzE1kCYrgwBE-c0afmMRE4w0x1v9fJg2JPujS6glrH0OikU9oZB7LN90gFgqsYvcd6hcSfUWJGw9K7p7qJGl0c1YSpXmSrRkUabxYJw4-0ABlI1K019Rc4i4hddSvcxPaBcfBxscaRfeZ2IAghENZ4crQZSKfSCyu-vReE4p-qu7FL3BVKVpjlewu9IH_c86Ie703hT2oR8BPw-_W35Ebf76o_in2_h7S0lirkU8mZyQ9oCUpBRTYO2xsEYmfY7qyRK21qYFBO7xfA.jpg",
+      "author_photo_path": "channels/iranlix/media/d6f23b233b51f82bbdb3cdba.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>پست‌ جدید ترامپ:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i><b>نیروی دریایی ج.ا (کف دریا)</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔻پست‌ جدید ترامپ:\n\n🔹نیروی دریایی ج.ا (کف دریا)\n\n@iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/12684",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/l2gDXiupN-5dgkAf42gbF_qMsX8SI073mErDrfNp5qEUyp9DkA9O-488yEyq3O1wFt8y3H8W1OyxZC8RYhG2pPW2M13j-wGeJ3pRAjv7sq5WI0sqLYrY1kMSy6ENVw3nYokul0bP-M4_5OG1nBfH8t5nS6jdSrMSbfW_Eb9rtvH43nZox1G9sh9AsXhKqT3grT5Aa0vTanXLDkTjqoD0SZ6bP_-r-PNecaJ3_MODjHGirpkoxtBD74TqWKnk9k9tTXRAO5GrARWBeHmQBR1FFNWr4RtNZfZTj92GwZFzDbzbIbgLf3Zgc-b9CgYEyDLPdeWyGGN-IphsKQhrry7CGw.jpg",
+          "thumbnail_path": "channels/iranlix/media/ecc079e23b7116c56746f105.jpg",
+          "thumbnail_sha256": "007facf3b6275937dc5db330da7e560670d3c623aefd55f42d0ec50d238f9a6a",
+          "duration_label": null,
+          "aspect_ratio": 1.199400299850075
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-07T17:26:39+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12684",
+      "reply": null
+    },
+    {
+      "id": "iranlix/12683",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/fMVnOc1uSucjuboT6V0k7ELXy0-AF7uXhfQKrT0ABzO4YzNvYVYnhQDl9twI5SD7s_WY23CPVzE1kCYrgwBE-c0afmMRE4w0x1v9fJg2JPujS6glrH0OikU9oZB7LN90gFgqsYvcd6hcSfUWJGw9K7p7qJGl0c1YSpXmSrRkUabxYJw4-0ABlI1K019Rc4i4hddSvcxPaBcfBxscaRfeZ2IAghENZ4crQZSKfSCyu-vReE4p-qu7FL3BVKVpjlewu9IH_c86Ie703hT2oR8BPw-_W35Ebf76o_in2_h7S0lirkU8mZyQ9oCUpBRTYO2xsEYmfY7qyRK21qYFBO7xfA.jpg",
+      "author_photo_path": "channels/iranlix/media/d6f23b233b51f82bbdb3cdba.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>دیروز یک خبرنگار لبنانی هنگام گزارش از شهر «نبطیه» بود که اسرائیل درست در نزدیکی او حمله هوایی انجام داد.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "♦️دیروز یک خبرنگار لبنانی هنگام گزارش از شهر «نبطیه» بود که اسرائیل درست در نزدیکی او حمله هوایی انجام داد.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/iranlix/12683",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/XlqRCu0jJXAY8VRFC_ufBbkFFFOJ9PBjTiErm8-moYTq7x7yoWJM8zQ4satGDLSF0eD4K7QHTYO6Uowg9S9WJl6FoP1WYIyk2lXHcG13V8qrpGFmRvHYoYuXXiJcQjmPys_Va5U3-ErxFevK9uya3bni8LLYo2etTBhakWlZy_Gfg7gVEN2DQR9emxHuDhmLS96JMQKOUuFmW5xG2FNdfxS8LgkbLobNdu6o9CoUyHWfjcVcglEsBdVpyLLqP-3OkapsPI70h0B29yjEEix4w0r4XqRkSflH0A4Cc3VS6CZVC7sbbLOCQWI1mOiu_sXTKB7onHIYpi5-7PV7pu4S2g",
+          "thumbnail_path": "channels/iranlix/media/c9ef3e5ac80d402e1f961c4e.jpg",
+          "thumbnail_sha256": "71354ac3bf2576d877749d675c07104c07fff75123936dbea83304fc820a1875",
+          "duration_label": "0:15",
+          "aspect_ratio": 1.766666666666656
+        }
+      ],
+      "reactions": [],
+      "views_label": "47",
+      "posted_at": "2026-09-07T17:24:38+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12683",
+      "reply": null
+    },
     {
       "id": "iranlix/12682",
       "author_name": "ایرانلیکس",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "134",
+      "views_label": "188",
       "posted_at": "2026-09-07T17:11:05+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12682",
@@ -61,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "377",
+      "views_label": "399",
       "posted_at": "2026-09-07T16:32:32+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12681",
@@ -111,7 +167,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "673",
+      "views_label": "689",
       "posted_at": "2026-09-07T15:12:30+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12678",
@@ -139,7 +195,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "689",
+      "views_label": "706",
       "posted_at": "2026-09-07T15:05:47+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12677",
@@ -167,7 +223,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "723",
+      "views_label": "739",
       "posted_at": "2026-09-07T14:36:04+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12676",
@@ -195,7 +251,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "795",
+      "views_label": "808",
       "posted_at": "2026-09-07T13:46:04+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12675",
@@ -223,7 +279,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "940",
+      "views_label": "948",
       "posted_at": "2026-09-07T12:21:07+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12674",
@@ -271,7 +327,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "928",
+      "views_label": "933",
       "posted_at": "2026-09-07T12:04:06+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12672",
@@ -299,7 +355,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "941",
+      "views_label": "947",
       "posted_at": "2026-09-07T11:38:32+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12671",
@@ -327,7 +383,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "918",
+      "views_label": "927",
       "posted_at": "2026-09-07T11:33:05+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12670",
@@ -355,7 +411,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "972",
+      "views_label": "976",
       "posted_at": "2026-09-07T10:34:30+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12669",
@@ -383,7 +439,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "973",
+      "views_label": "976",
       "posted_at": "2026-09-07T10:17:52+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12668",
@@ -411,7 +467,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "967",
+      "views_label": "970",
       "posted_at": "2026-09-07T10:06:00+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12667",
@@ -439,7 +495,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "980",
+      "views_label": "982",
       "posted_at": "2026-09-07T09:32:56+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12666",
@@ -2853,71 +2909,6 @@
       "posted_at": "2026-09-05T09:08:32+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12580",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12579",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/VK7UxP3xK7XXY_E9qNcDJ9R-ugu8Kqr7hzd-V0Osm8FpZUxtY4hXl4rV0HsqaChh7d8JSJjgFWTh5WIRkwxmi-z7LWuC_etM9QCxqe6lmIh9aDtiHHDYBpAW0-0H_AVdL1YEM683dsoUj2w8l1NOtudtgUcDRAsQo1ZOQp_6nC8orT5o9026LgcHj_uJLQZ2u0tTjug-6Lhs-pJLX7MPK0tW3JQkNF4aE-MhuIPm6DDcI8Sw9TBAhYCXoWJqkUpgxeNNuaxB6X9jzyB0zY_R2x6tcaz8EDuoySW9KALS3r8g9tGuy9SUlSsE_QaNLXNdEWB7vVSlxHr5PIHEugIN4A.jpg",
-      "author_photo_path": "channels/iranlix/media/1fe3bf02c3c024640c615e89.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>تصاویری از نفتکش هدف قرار گرفته توسط آمریکا</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "♦️تصاویری از نفتکش هدف قرار گرفته توسط آمریکا\n\n@iranlix",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/iranlix/12579",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/fZaclqCa_aDnDaIcNO6zovrRuAFae9e3AaeTdGB_pTg9ffeJBY-9BbnNiH235t9MfyMcAFH-lsj1rVptNmwr-TBmCN9KpJSRaMIe3ZozBq--iS8DN09yYIDpy-7keVYJIyTNVNqnE4eN2Oom6T9S8BLoE4km8QUc5jPUb4OGc7IiRFyRxj8vSeH3ya-a92QQvCB_cNF-dx4HD1ktF-asVBGQUcSYsAWEEsWkULiuH1B86YbXgdmMOLrzwXqRoZf9LL8D6WZ2aqFF8Rvzrh3aYbpTkmWf3LL9uCRQCaA_Ec6sRYPnMDowEywInCfG9-YQ8756Z98QQ10pjDhBFK81Rg",
-          "thumbnail_path": "channels/iranlix/media/b7ab44be2f7c223f95923f4a.jpg",
-          "thumbnail_sha256": "1f1c70d63b92e9ed747ab571e758a29ccda601394d25aa1d5a66344929575e07",
-          "duration_label": "0:16",
-          "aspect_ratio": 2.045454545454541
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.12K",
-      "posted_at": "2026-09-05T08:57:26+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12579",
-      "reply": {
-        "channel_username": "iranlix",
-        "post_id": "12575",
-        "author_name": "ایرانلیکس",
-        "preview_text": "🔻خبرگزاری های داخلی: ♦️دقایقی پیش، صدای چند انفجار از خلیج فارس در محدوده جزیره خارک شنیده شد. ♦️بر اساس گزارش منابع محلی، یک نفتکش ایرانی در جزیره‌ی خارگ هدف موشک‌های نیروهای آمریکایی قرار گرفته است. @iranlix",
-        "thumbnail_url": "https://cdn4.telesco.pe/file/cHaTYjOs5JOR-SVDXjSMCVDdH7hmcGkD-ZVQ5ltsvEKyvgjgsgOmwO67MIcvEuvuCt_g5ViDLjUI7LOJUs5LwP0ERh8s8RqjZbexOamVFRIm1_96xxOnPvZhJ_cuhtPkgQgcNFw2RLsSXBjaCgqdKcTH8eo-sNWF540MmIX1cJNqrrXIoyBQ7uD7RgAXqKDsEEy4xzlDf2dTEMDNViOIXGlWzwzKPH1A79J1gqTe6uVoyQEhYBB5yP21NRHpe2tBnktoTIC5k6xymrZvdpludGYan7bd1CCwtT40yKl9F_mQYFvZmtvPrgDVIClyRTYHCGkHOGLIxr7ibnRVZH7WfQ.jpg",
-        "thumbnail_path": "channels/iranlix/media/dea215715fe213cba4b45c96.jpg",
-        "thumbnail_sha256": "d336436e5ad2ef3f19cd2b90e1a236313b65779420521734eb372b86ae75058f",
-        "permalink": "https://t.me/iranlix/12575"
-      }
-    },
-    {
-      "id": "iranlix/12578",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/VK7UxP3xK7XXY_E9qNcDJ9R-ugu8Kqr7hzd-V0Osm8FpZUxtY4hXl4rV0HsqaChh7d8JSJjgFWTh5WIRkwxmi-z7LWuC_etM9QCxqe6lmIh9aDtiHHDYBpAW0-0H_AVdL1YEM683dsoUj2w8l1NOtudtgUcDRAsQo1ZOQp_6nC8orT5o9026LgcHj_uJLQZ2u0tTjug-6Lhs-pJLX7MPK0tW3JQkNF4aE-MhuIPm6DDcI8Sw9TBAhYCXoWJqkUpgxeNNuaxB6X9jzyB0zY_R2x6tcaz8EDuoySW9KALS3r8g9tGuy9SUlSsE_QaNLXNdEWB7vVSlxHr5PIHEugIN4A.jpg",
-      "author_photo_path": "channels/iranlix/media/1fe3bf02c3c024640c615e89.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>نیویورک‌پست: ذخایر سوخت ج.ا تنها برای حدود دو ماه دیگر کافی است</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>بر اساس گزارش نیویورک‌پست، تشدید تحریم‌ها و محدود شدن امکان واردات سوخت، ذخایر بنزین ج.ا را تحت فشار قرار داده است. در صورت ادامه این وضعیت، تهران با سه گزینه اصلی روبه‌رو خواهد بود: سهمیه‌بندی شدید بنزین، افزایش قیمت یا ایجاد بازار چندنرخی. این گزارش همچنین مدعی است که امکان تأمین کسری سوخت از مسیرهایی مانند ترکیه، امارات و ونزوئلا به‌شدت محدود شده است.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "♦️نیویورک‌پست: ذخایر سوخت ج.ا تنها برای حدود دو ماه دیگر کافی است\n\n🔸بر اساس گزارش نیویورک‌پست، تشدید تحریم‌ها و محدود شدن امکان واردات سوخت، ذخایر بنزین ج.ا را تحت فشار قرار داده است. در صورت ادامه این وضعیت، تهران با سه گزینه اصلی روبه‌رو خواهد بود: سهمیه‌بندی شدید بنزین، افزایش قیمت یا ایجاد بازار چندنرخی. این گزارش همچنین مدعی است که امکان تأمین کسری سوخت از مسیرهایی مانند ترکیه، امارات و ونزوئلا به‌شدت محدود شده است.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/12578",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/fCO42zVjj9jhzIVipB9WsZPcfaksOrRjL5mSJc95vQ6EXyQ6F2igz6T_awvUpGkXEANIUhh_FEe1IJQrUAmjOmNdYDAKSyAeS7kyOX-HqX2KuaAIbB6VJ1BS1rXgQcg2_4-3nLN1SsABz0flb66XssMronjeEku32XXTQK-TvS1tUQyL-spAekw8CvvmSzDT2DnmFMuj_7RXwKLDA9j7rx1XDLiEwbixLC5IFI9KERlqXgyQAybRAPkuiEtZRAj85Nf13WIg8z7Liqo2bldv-PApG5NsGJQoKW6M0zf1jDUeQwWCjkqD6A-7TiHWe5z4Ol7CzrKa9mbkL0374OiHpg.jpg",
-          "thumbnail_path": "channels/iranlix/media/8c778e826ed82a2b96680fe4.jpg",
-          "thumbnail_sha256": "5757fb3d441a8c760962455a8241dc1056a687c0786b4e4403d1fa9b9b931e36",
-          "duration_label": null,
-          "aspect_ratio": 1.3245033112582782
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.18K",
-      "posted_at": "2026-09-05T08:15:29+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12578",
       "reply": null
     }
   ]
