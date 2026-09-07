@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T14:27:31.195Z",
+  "fetched_at": "2026-09-07T14:32:15.908Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229739",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "سناتور جان کندی از احتمال ادامه درگیری نظامی با جمهوری اسلامی تا انتخابات میان‌دوره‌ای خبر داد",
+      "plain_text": "سناتور جان کندی از احتمال ادامه درگیری نظامی با جمهوری اسلامی تا انتخابات میان‌دوره‌ای خبر داد",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229739",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/nMCYFytKKwUuWLdbYfiBOH968Ilg4SvNwv369Ofma9aMRhEmUUPa4nim3oJqF8Rw9NjKs73p80CaKhj07Y9fbmr55Ib-BnqEbWd98_dSxhNiP60YOSK151dyYmyuFMxeGue80vzjWPXDqhR3iLZb4mF_ADBCuBS8WV4PljiWQ2qB0iLi0SJMLnSUjAOI3yeJRAGPYcunVjQ6vJcXQNFvRUyCZbYRTq9QSpEtlvvDb4ibJTNvt1wogkuHHne-h90i_SEcCSzY1wAD2hI6czoOVgwVNXbnsd4EEWzT2GsOsrnQKlZx9615P4VMFNei7RfuR--MyBC-aH4FLr8ouEWz2A",
+          "thumbnail_path": "channels/farsivoa/media/f1fb38099f0cbed10f73b6f6.jpg",
+          "thumbnail_sha256": "6e0bbd6a82612b523cdad0b63790ccc056627ab794f7ba3171289d79a4001dce",
+          "duration_label": "4:06",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "34",
+      "posted_at": "2026-09-07T14:31:07+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229739",
+      "reply": null
+    },
     {
       "id": "farsivoa/229738",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "486",
+      "views_label": "678",
       "posted_at": "2026-09-07T14:17:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229738",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "740",
+      "views_label": "897",
       "posted_at": "2026-09-07T14:11:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229737",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.16K",
+      "views_label": "1.26K",
       "posted_at": "2026-09-07T13:54:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229736",
@@ -105,7 +133,7 @@
       "plain_text": "🔺بسنت در روز کارگر: دستمزد واقعی آمریکایی‌ها از تورم پیشی گرفته است\n\n▪️اسکات بسنت، وزیر خزانه‌داری آمریکا، روز دوشنبه ۱۶ شهریور، هم‌زمان با «روز کارگر» در ایالات متحده، گفت دستمزد واقعی آمریکایی‌ها از نرخ تورم پیشی گرفته، و رشد دستمزد در میان کارگران کم‌درآمد سریع‌تر از افراد با درآمد بالاتر بوده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/bessent-us-labor-day-american-workers-income/8195055.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.39K",
+      "views_label": "1.49K",
       "posted_at": "2026-09-07T13:44:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229735",
@@ -121,7 +149,7 @@
       "plain_text": "🔺درگیری‌های یمن میان نیروهای دولتی و شورشیان حوثی به شمال شرق صنعا رسید\n\n▪️اخبار جدید از یمن حاکی از آن است که نیروهای دولتی جبهه جدیدی در شمال شرق صنعا، پایتخت یمن، علیه شورشیان حوثی باز کردند؛ و بخش دیگری از نیروهای دولتی در جنوب بندر استراتژیک الحدیده در حال پیشروی و عقب راندن حوثی‌ها هستند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/houthi-yemen-irgc-proxy-war-iran/8195045.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.36K",
+      "views_label": "1.45K",
       "posted_at": "2026-09-07T13:40:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229734",
@@ -137,7 +165,7 @@
       "plain_text": "🔺پرزیدنت ترامپ درباره نویسنده کتاب «ضدانقلاب»: او شاید من را از خودم بهتر می‌شناسد\n\n▪️دونالد ترامپ، رئیس جمهوری آمریکا، هر دو بخش مصاحبه مارک لوین، مجری و مفسر سرشناس، با ویکتور دیویس هانسون، مورخ و نویسنده آمریکایی، در شبکه فاکس نیوز را در تروت سوشال خود بازنشر کرد؛ گفت‌وگویی که محور اصلی آن کتاب تازه هانسون و توصیف او از پرزیدنت ترامپ به عنوان یک چهره «ضدانقلاب» در سیاست آمریکا بود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/president-trump-counterrevolution-interview-mark-levin/8195049.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.43K",
+      "views_label": "1.49K",
       "posted_at": "2026-09-07T13:33:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229732",
@@ -165,7 +193,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.39K",
+      "views_label": "1.45K",
       "posted_at": "2026-09-07T13:30:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229731",
@@ -181,7 +209,7 @@
       "plain_text": "🔺امارات: اجازه نمی‌دهیم صادرات انرژی ما «گروگان» درگیری نظامی با جمهوری اسلامی شود\n\n▪️امارات می‌گوید که با ایجاد مسیرهای جایگزین برای صادرات انرژی اجازه نخواهد داد این فعالیت‌ها در نتیجه درگیری‌های جاری با جمهوری اسلامی «گروگان» گرفته شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/uae-emirates-iran-us-iran-war-strait-hormuz/8195047.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.59K",
+      "views_label": "1.65K",
       "posted_at": "2026-09-07T13:23:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229730",
@@ -209,7 +237,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.96K",
+      "views_label": "1.99K",
       "posted_at": "2026-09-07T13:02:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229729",
@@ -237,7 +265,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.08K",
+      "views_label": "2.14K",
       "posted_at": "2026-09-07T12:55:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229728",
@@ -265,7 +293,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.98K",
+      "views_label": "2.01K",
       "posted_at": "2026-09-07T12:49:28+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229727",
@@ -281,7 +309,7 @@
       "plain_text": "🔺تجمع‌های کارگران و بازنشستگان در چند استان ایران؛ اعتراض به وضعیت معیشت و مطالبات پرداخت‌نشده\n\n▪️گزارش‌ها از ایران حاکی از برگزاری تجمع‌های اعتراضی کارگران و بازنشستگان در چند استان در روز دوشنبه ۱۶ شهریور، در اعتراض به مشکلات معیشتی، مطالبات پرداخت‌نشده، و بلاتکلیفی شغلی است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-protests-retirees-protest-workers-protest/8195041.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.99K",
+      "views_label": "2.05K",
       "posted_at": "2026-09-07T12:43:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229726",
@@ -309,7 +337,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.08K",
+      "views_label": "2.14K",
       "posted_at": "2026-09-07T12:36:15+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229724",
@@ -337,7 +365,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.16K",
+      "views_label": "2.19K",
       "posted_at": "2026-09-07T12:25:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229723",
@@ -365,7 +393,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.39K",
+      "views_label": "2.42K",
       "posted_at": "2026-09-07T12:11:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229722",
@@ -393,7 +421,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.4K",
+      "views_label": "2.43K",
       "posted_at": "2026-09-07T12:05:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229721",
@@ -409,7 +437,7 @@
       "plain_text": "🔺چیپ روی: جمهوری اسلامی «در حال فلج شدن» است\n\n▪️نماینده جمهوری‌خواه تگزاس در مجلس نمایندگان آمریکا گفت ادامه فشار نظامی و اقتصادی بر جمهوری اسلامی با وجود افزایش هزینه سوخت برای شهروندان آمریکایی در بلندمدت به سود واشنگتن است.\n\n▪️چیپ روی در گفت‌وگو با شبکه فاکس‌نیوز گفت: «آنها آسیب دیده‌اند؛ از نظر اقتصادی آسیب دیده‌اند.»\n\n▪️او افزود جمهوری اسلامی اکنون تنها بخش کوچکی از میزان معمول نفت خود را صادر می‌کند و «در حال فلج شدن» است. روی گفت هدف واشنگتن باید سه چیز باشد یعنی جلوگیری از دستیابی جمهوری اسلامی به سلاح هسته‌ای، محدود کردن فعالیت‌های تروریستی، و تضعیف توان نظامی و درآمدهای نفتی جمهوری اسلامی.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/gop-lawmaker-roy-warns-us-must-hold-the-line-against-iran/8195039.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.4K",
+      "views_label": "2.43K",
       "posted_at": "2026-09-07T11:58:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229720",
@@ -465,7 +493,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.46K",
+      "views_label": "2.49K",
       "posted_at": "2026-09-07T11:46:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229718",
@@ -2385,34 +2413,6 @@
       "posted_at": "2026-09-06T17:22:19+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229638",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229637",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/cQgmNvY74QjMaJtRlGlAgwARq80-ngAFt95OGdUvawYpXRlgX1I0clW8a36_0wg0KQW01LJ0WQu9BqpST7mohIffbNUFA69ex-Lkf6Uxm-tRC9fnRtAzxAzkh0gbyyb0gskR6k6eYyyxmBrreDKOZ3GI717bPZ9fXIO5OPouQSOk6lXWlHM6cd2P_frgT1Wg5WzirdR4Wrxa3cFM5EbbDLoQnZesAGGbAJQC-7-_M1BM1x6rMu_j7_nT_BryWHEWoQu34Hwt3C5O6uTaZY0PWF5cpl7--mPsz-xFvsqjpvn05avmOnilCpREWkKLcCK4OERe7ekk1gf0pDPtLCNTyg.jpg",
-      "author_photo_path": "channels/farsivoa/media/0abbb3eafc2bacb0efcb50a7.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "سفر الزیدی به فرانسه و آلمان؛ از همکاری امنیتی تا سرمایه‌گذاری و انرژی، محور گفت‌وگوها",
-      "plain_text": "سفر الزیدی به فرانسه و آلمان؛ از همکاری امنیتی تا سرمایه‌گذاری و انرژی، محور گفت‌وگوها",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229637",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/jRRSzOa6l0oOn2N1gDbeNwmW07heoBok5HA3MZQoNW0U5GMESz40APszpqmtvY-rNElv6ZABPiRC5kXzryWy8EMPNO0_pagSteG-Iu0O60TZQcfA8MlUnJKQt5O3UfkmX1UuEonwQ4k0MM3R9-GJoaapy3soVHN865G452-hmpr5MoJA0pD5jB7NLpXJ9GPS91IpaeeqhJkGvgAcebFRB6W4xqxb_czs_3fXSVP4bfubnCmNYtDX3HaB8kjD_LGwnjDloeVulbyNQAPJ3IgfzQOqrOYYFQHb7YG_1IJu5dxMwRpv0QGBTy8gm-1H9s1yipglI9SVRP4QcTIDmm4tvQ",
-          "thumbnail_path": "channels/farsivoa/media/c9088bb788b6ab0a8755d8c3.jpg",
-          "thumbnail_sha256": "cba6e3239ba2d61a5c23c70a425b01de8e2ea6fbf525eebf9e02f637ee14b0d5",
-          "duration_label": "3:52",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.01K",
-      "posted_at": "2026-09-06T17:13:41+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229637",
       "reply": null
     }
   ]
