@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T18:47:07.305Z",
+  "fetched_at": "2026-09-07T18:52:10.088Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,62 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229788",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "کنفرانس دو روزه پیوند کردها و یهودی‌ها به میزبانی شبکه یهودیان کرد در لندن با مشارکت پژوهشگران، فعالان سیاسی، وصاحب‌نظران از سراسر جهان و همچنین برخی سیاستمداران بریتانیایی در لندن به با اعلام تداوم همکاری بین جوامع یهودی و کردی به پایان رسید.",
+      "plain_text": "کنفرانس دو روزه پیوند کردها و یهودی‌ها به میزبانی شبکه یهودیان کرد در لندن با مشارکت پژوهشگران، فعالان سیاسی، وصاحب‌نظران از سراسر جهان و همچنین برخی سیاستمداران بریتانیایی در لندن به با اعلام تداوم همکاری بین جوامع یهودی و کردی به پایان رسید.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229788",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/KkPgW6uwFAVevnhtVf7MtXwJCA2nbhrLHf-KlbBtExYRlwJm3YpKpxid1diKV3KAEycm-OUjhRRw4TeKMApjw-83wV5Mks7tgwAypCCo9VeCzpRl1hmvZ5DKQp9vs_2n_4wfPcV1Dp61MqhDQ4EL3kEa-BhjNGdvMwKkzQeUJKF24VaRjnqx45-sxb1Uci2IGo_fD_xMRRWrqUnogeVIDGHH9EgjFVNNspmODjuuaOLZWOsfkdtiXVNp9877VaGAMypeLWEsDmTsshjuZBYi0UyGjHfCy3ouybmR2WJNcdzMgN1UgO5lLAPHPu6B0UB7UxvYHXsdCxbBHOdhBYWU0g",
+          "thumbnail_path": "channels/farsivoa/media/9e5131ea22d788bfcd430c8e.jpg",
+          "thumbnail_sha256": "9256c97f3fc7e8408358da03bcf8311c6ac7932cadc4ad869d64ddd631d72197",
+          "duration_label": "5:48",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "127",
+      "posted_at": "2026-09-07T18:50:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229788",
+      "reply": null
+    },
+    {
+      "id": "farsivoa/229787",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "عملیات «طرد اقتصادی» و اعمال شدیدترین فشارهای اقتصادی و سیاسی تاریخ بر جمهوری اسلامی",
+      "plain_text": "عملیات «طرد اقتصادی» و اعمال شدیدترین فشارهای اقتصادی و سیاسی تاریخ بر جمهوری اسلامی",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229787",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/UrHfyobivMP9ornb8_U3hBQqLzaimac0jiY_aivvzrRKwuuVcq2UnyOhijo1sQt28kee-5mZ8CEJjqyotgtkUQZwMPHy35MXqhTEfaHhK2D2YBrx5-YVyLHHJySG25e4em_e0WutVO5NCvdtEB6yt-JRE8wQgTt6oJl6UQdHaQ3g8s_z8mv_PcTEbxdAH45v4gfhKbbEAl7HJL5x7LI0j5LrLR4tdyr-r8sfXuuYjWKC05nuPEKhGCt_2CNN9KgOUSaEPECMcjkZcHu4NtB2hVfzVnPQKzdPNQvHroEjQI9InF3kvcTr2-AJl5yLvRk0TWayRkhyZbdFwhLIpjVITQ",
+          "thumbnail_path": "channels/farsivoa/media/89e2743e3f01fdad07371d28.jpg",
+          "thumbnail_sha256": "1f599115244272a46d30dd32a0bca0d1bfdbfd33d25e2f6811a134023ddb4606",
+          "duration_label": "3:43",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "384",
+      "posted_at": "2026-09-07T18:47:18+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229787",
+      "reply": null
+    },
     {
       "id": "farsivoa/229786",
       "author_name": "Farsi VOA",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "823",
+      "views_label": "1.11K",
       "posted_at": "2026-09-07T18:36:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229786",
@@ -61,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "891",
+      "views_label": "1.18K",
       "posted_at": "2026-09-07T18:34:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229785",
@@ -89,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.21K",
+      "views_label": "1.43K",
       "posted_at": "2026-09-07T18:26:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229784",
@@ -150,7 +206,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.65K",
+      "views_label": "1.81K",
       "posted_at": "2026-09-07T18:15:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229780",
@@ -178,7 +234,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.77K",
+      "views_label": "1.9K",
       "posted_at": "2026-09-07T18:07:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229779",
@@ -206,7 +262,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.97K",
+      "views_label": "2.07K",
       "posted_at": "2026-09-07T17:57:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229778",
@@ -234,7 +290,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.2K",
+      "views_label": "2.32K",
       "posted_at": "2026-09-07T17:50:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229777",
@@ -262,7 +318,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.23K",
+      "views_label": "2.29K",
       "posted_at": "2026-09-07T17:44:58+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229776",
@@ -278,7 +334,7 @@
       "plain_text": "🔺افزایش فشار بر فعالان دانشگاهی در آستانه فصل جدید تحصیلی؛ مطهره گونه‌ای راهی زندان شد\n\n▪️جمهوری اسلامی در آستانه آغاز فصل تازه تحصیلی، در تلاش برای خاموش کردن صداهای مخالف، شماری از دانشجویان را از تحصیل محروم، و مطهره گونه‌ای، فعال دانشجویی، را برای تحمل محکومیت حبس روانه زندان کرد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iranian-student-activists-persecuted/8195138.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.33K",
+      "views_label": "2.42K",
       "posted_at": "2026-09-07T17:37:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229775",
@@ -306,7 +362,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.3K",
+      "views_label": "2.39K",
       "posted_at": "2026-09-07T17:30:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229774",
@@ -334,7 +390,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.36K",
+      "views_label": "2.42K",
       "posted_at": "2026-09-07T17:25:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229773",
@@ -362,7 +418,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.34K",
+      "views_label": "2.4K",
       "posted_at": "2026-09-07T17:24:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229772",
@@ -378,7 +434,7 @@
       "plain_text": "🔺تاکید خانواده‌های دادخواه بر «تقابل و انتقام»: نه می‌بخشیم و نه فراموش می‌کنیم\n\n▪️حکومت جمهوری اسلامی در آستانه چهارمین سالگرد کشته‌شدن مهسا امینی در بازداشت گشت ارشاد و آغاز اعتراضات بزرگ مردمی در ایران، فشار بر خانواده‌های دادخواه سال‌های اخیر را افزایش داده، دادخواهان نیز در مقابل با انتشار ویدیو در فضای مجازی، بر تقابل و انتقام تاکید می‌کنند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-human-rights-arrest-detention-execution/8195104.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.39K",
+      "views_label": "2.45K",
       "posted_at": "2026-09-07T17:13:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229771",
@@ -483,7 +539,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.23K",
+      "views_label": "2.3K",
       "posted_at": "2026-09-07T17:11:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229763",
@@ -2527,62 +2583,6 @@
       "posted_at": "2026-09-07T01:16:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229677",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229676",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "پیروزی بی‌سابقه راست افراطی در انتخابات آلمان، نشانه تغییر گرایش سیاسی رای دهندگان - گفت‌وگو با شیوا شفاهی",
-      "plain_text": "پیروزی بی‌سابقه راست افراطی در انتخابات آلمان، نشانه تغییر گرایش سیاسی رای دهندگان - گفت‌وگو با شیوا شفاهی",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229676",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/rl2Eh4kGG_HCeIKXhjwmU1PXOW5ygch9qOdsG0FEZODTCthpE5xn0iJdsDNGG6KT6dJgTS1CRZjhVzNBcWwRE574A4YzZicJpdi4hnM-ztkeDe1hCkkhr4KSHf8nn3R5AN_odXXjZq7nmnk_FIB-YlekDFZ71tCG-KoIVMVgSZHueryauyTiuFFZw9cM939qxxeYXkL1Gr7YyI_N_ob1c4Bk_LIdjocJE6YhOAEqY7IrJ8cImNEDITDuD4p8Nxjvbr76FsoSVKlaqVdOajd1lJIyQlbHKP-6Us_wm2uaE-MpzFVDCgGLN3eg7SstWzdATRGb1efEGrAnayHSgS7SWA",
-          "thumbnail_path": "channels/farsivoa/media/985579da584f3dc1825a1502.jpg",
-          "thumbnail_sha256": "0d4a5134ddf23caa9d594a403e2e6d40b3a0b05ca0b7961cc8dd11c3c3b80e67",
-          "duration_label": "1:44",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.66K",
-      "posted_at": "2026-09-07T01:02:39+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229676",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229675",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "محدودیت تازه برای استفاده از هوش مصنوعی در مدارس لس‌آنجلس و نیویورک<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "محدودیت تازه برای استفاده از هوش مصنوعی در مدارس لس‌آنجلس و نیویورک\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229675",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/pb_fG-qGkbv9CebXu70B_AysQ1wvNjPXtoE3TH-7wYGnFuH4iJY9xQrvuEIsKpVrrcQQPhrfs8GHLiOKpHf2ybH8q_AKT8S1IUNwOw0SNff6YWt6FfQSgjAIiZYpZUwEuRSJWl7kVxEdx_111CJcWrnyDp7XgCE7rzcpxO-pZiVEkF6-lHnIg5yP6vLVk87KAv5dJOgyx6lpGnFHc4g_8LRv1DZ_ni3WFaCJzLifIvY2O728v69eSrMRIM3m__f33j4w4jWXoXqEguRqT4_Z5QC12CXLKGGzQKPRtpAUtEeETXUX6CF-E1dPyVVMCxB-thV-jGM9X6ADrDF40buhtQ",
-          "thumbnail_path": "channels/farsivoa/media/81c101845a81f16826dafdb4.jpg",
-          "thumbnail_sha256": "4504452457abd84c9160fc5eaadb629361305a706918d8ce944eb055e1994133",
-          "duration_label": "5:07",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.65K",
-      "posted_at": "2026-09-07T00:53:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229675",
       "reply": null
     }
   ]
