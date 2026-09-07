@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T11:47:19.066Z",
+  "fetched_at": "2026-09-07T11:53:30.694Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229719",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "خبرگزاری رسمی لبنان اعلام کرد که ارتش اسرائيل صبح روز دوشنبه شانزدهم شهریورماه، با انجام حملات پهپادی، «بشکه‌هایی حاوی مواد منفجره بسیار قوی» را بر فراز شهرک منصوری در جنوب این کشور رها کرده است.<br><br>تاکنون گزارشی از میزان خسارات این حملات پهپادی اعلام نشده است. همچنین ارتش اسرائيل انجام چنین حملاتی را تأیید و یا تکذیب نکرده است.<br><br>خبرگزاری رسمی لبنان ساعاتی قبل نیز طی گزارش اعلام کرده بود که جنگنده‌های اسرائیل، بامداد دوشنبه، ساختمانی را در «شهرک کفر رمان» در جنوب این کشور هدف قرار داد که منجر به کشته شدن ۱۱ نفر شده است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "خبرگزاری رسمی لبنان اعلام کرد که ارتش اسرائيل صبح روز دوشنبه شانزدهم شهریورماه، با انجام حملات پهپادی، «بشکه‌هایی حاوی مواد منفجره بسیار قوی» را بر فراز شهرک منصوری در جنوب این کشور رها کرده است.\n\nتاکنون گزارشی از میزان خسارات این حملات پهپادی اعلام نشده است. همچنین ارتش اسرائيل انجام چنین حملاتی را تأیید و یا تکذیب نکرده است.\n\nخبرگزاری رسمی لبنان ساعاتی قبل نیز طی گزارش اعلام کرده بود که جنگنده‌های اسرائیل، بامداد دوشنبه، ساختمانی را در «شهرک کفر رمان» در جنوب این کشور هدف قرار داد که منجر به کشته شدن ۱۱ نفر شده است.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229719",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/gd-wrO2YQXScMNcrH0IQs8mif7kWT-Fzm3pSM-6vdvuIAzbAWRkTJvdtodBnLv6oRbtHnCriWPfWM7JzgKJzsBU42SekIOt_T8bFF1dzqOxsKjD7aYNSA1iTKm2dqz8x6ptUXgVOD18zozsKxo66B4h23pKpXiH8BWNjD8ZYwdCxk5rbLZYf-iBdSYR90k0NoQoMJs2TfXJwfufideFhhcTY0xQgFBi9ddPZVYvJwZYj_Ni9CCsoWYwh5FHdbsK9d7Ne4jpnBl8aHQhOeVglIM8T0V6a5DImTw2KlZ5CCjzqLCE9RyY0Zia57aGLLqy0WRoN0HsxLvbZeVvpQAMl8w.jpg",
+          "thumbnail_path": "channels/farsivoa/media/6d20dcf0102306bd845d416d.jpg",
+          "thumbnail_sha256": "056f6657dda8b4012a3431460ad292d586ff150afd9713bb0648de4733a87747",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "69",
+      "posted_at": "2026-09-07T11:52:49+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229719",
+      "reply": null
+    },
     {
       "id": "farsivoa/229718",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2",
+      "views_label": "477",
       "posted_at": "2026-09-07T11:46:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229718",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "641",
+      "views_label": "897",
       "posted_at": "2026-09-07T11:34:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229717",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "833",
+      "views_label": "1.11K",
       "posted_at": "2026-09-07T11:26:16+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229716",
@@ -105,7 +133,7 @@
       "plain_text": "🔺جان باختن یکی از معترضان دی ماه در زندان دستگرد اصفهان\n\n▪️منابع حقوق بشری از جان باختن عرفان میرزایی، معترضی که در اعتراضات دی ماه بازداشت شده بود، در زندان دستگرد اصفهان خبر دادند.\n\n▪️کمیته آزادی زندانیان سیاسی در ایران، جان باختن این معترض را تأیید کرده، اما اعلام کرد که درباره علت جان‌باختن عرفان میرزایی روایت‌های متفاوتی منتشر شده است.\n\n▪️به گفته این کمیته، برخی منابع از «اجرای مخفیانه حکم اعدام» خبر داده‌اند، در حالی که شماری دیگر مدعی هستند عرفان میرزایی در بند امنیتی «الف‌طا» زندان دستگرد، دست به خودکشی زده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195036.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.03K",
+      "views_label": "1.25K",
       "posted_at": "2026-09-07T11:18:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229715",
@@ -121,7 +149,7 @@
       "plain_text": "🔺نتانیاهو: هیچ تروریستی مخفیگاه نخواهد داشت\n\n▪️نخست‌وزیر اسرائیل پس از کشته شدن مهاجم فلسطینی در کرانه باختری اشغالی نوشت: «هیچ تروریستی مخفیگاه ندارد.»\n\n▪️بنیامین نتانیاهو در شبکه ایکس افزود: «رزمندگان قهرمان ما را که برای برخورد پیش رفتند و تروریست انجام‌دهنده حمله در سامره را از میان بردند، تقویت می‌کنم.»\n\n▪️نخست‌وزیر اسرائیل برای مصدوم آرزوی بهبودی کرد و گفت: «به کشتن تروریست‌ها، تعقیب اعزام‌کنندگانشان و نابود کردن زیرساخت‌های تروریستی ادامه می‌دهیم. هر کس بکوشد دولت اسرائیل و شهروندانش را تهدید کند، بهای سنگینی می‌پردازد.»\n\n▪️مهاجمی فلسطینی دوشنبه در نزدیکی روستای عوصرین در شمال کرانه باختری یک شهروند اسرائیلی را با چاقو زخمی کرد و از محل گریخت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195035.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.25K",
+      "views_label": "1.35K",
       "posted_at": "2026-09-07T11:11:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229714",
@@ -149,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.21K",
+      "views_label": "1.31K",
       "posted_at": "2026-09-07T11:05:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229713",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.44K",
+      "views_label": "1.54K",
       "posted_at": "2026-09-07T10:57:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229712",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.56K",
+      "views_label": "1.66K",
       "posted_at": "2026-09-07T10:48:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229711",
@@ -221,7 +249,7 @@
       "plain_text": "🔺ثبت ده‌ها مورد نقض حقوق زنان طی یک ماه در ایران\n\n▪️سازمان حقوق بشری هه‌نگاو می‌گوید در ماه اوت ۲۰۲۶، دست‌کم ۲۰ زن فعال در ایران بازداشت و ۲۶ زن نیز به احکام قضایی، از جمله اعدام و حبس، محکوم شده‌اند.\n\n▪️براساس گزارش هه‌نگاو در همین مدت دست‌کم ۱۹ مورد زن‌کشی در شهرهای مختلف ایران ثبت شده و حکم اعدام شش زن نیز در زندان‌های جمهوری اسلامی اجرا شده است.\n\n▪️بر پایه آمار مرکز آمار و اسناد هه‌نگاو، دست‌کم ۲۰ فعال زن در ماه اوت توسط نهادهای سرکوب در جمهوری اسلامی بازداشت شده‌اند. این تعداد حدود ۱۷ درصد از کل بازداشت‌شدگان ثبت‌شده در این ماه را تشکیل می‌دهد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/dozens-of-women-rights-violations-recorded-in-iran-in-one-month/8195034.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.78K",
+      "views_label": "1.85K",
       "posted_at": "2026-09-07T10:34:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229710",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.91K",
+      "views_label": "1.97K",
       "posted_at": "2026-09-07T10:23:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229709",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.13K",
+      "views_label": "2.19K",
       "posted_at": "2026-09-07T10:08:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229708",
@@ -293,7 +321,7 @@
       "plain_text": "🔺مشاور رئیس امارات متحده عربی: بازسازی اعتماد با جمهوری اسلامی دهه‌ها طول می‌کشد\n\n▪️مشاور رئیس امارات متحده عربی، گفت رابطه کارکردی با جمهوری اسلامی قابل ترمیم است، اما بازسازی اعتماد ممکن است دهه‌ها طول بکشد.\n\n▪️انور قرقاش، روز دوشنبه در انجمن حیلی در ابوظبی گفت: «رابطه کارکردی با ایران می‌تواند و باید بازسازی شود، اما بازسازی اعتماد مسئله دیگری است.»\n\n▪️قرقاش اعلام کرد امارات مسیرهای جایگزینی برای صادرات انرژی و تجارت خود می‌سازد. او گفت: «صادرات انرژی ما گروگان گرفته نمی‌شود، همچنین تجارت و فعالیت اقتصادی‌مان.»\n\n▪️بر پایه گفته او، امارات ظرفیت بنادر ساحل شرقی خود و نیز خطوط لوله، راه‌آهن و مسیرهای تجاری را برای ایجاد کریدورهای جایگزین گسترش داده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195033.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.26K",
+      "views_label": "2.32K",
       "posted_at": "2026-09-07T09:59:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229707",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.33K",
+      "views_label": "2.39K",
       "posted_at": "2026-09-07T09:50:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229706",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.36K",
+      "views_label": "2.42K",
       "posted_at": "2026-09-07T09:43:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229705",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.74K",
+      "views_label": "2.8K",
       "posted_at": "2026-09-07T09:19:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229704",
@@ -393,7 +421,7 @@
       "plain_text": "🔺دو فوتبالیست زن ایرانی پناهنده: به کشتن مردم توسط حکومت اعتراض داشتیم\n\n▪️دو عضو تیم ملی فوتبال زنان ایران که در استرالیا پناهندگی گرفتند، تأیید کردند خودداری‌شان از خواندن سرود ملی در جام ملت‌های آسیا اعتراض به جمهوری اسلامی بود.\n\n▪️عاطفه رمضانی‌صادق ۳۴ ساله و فاطمه پسندیده ۲۲ ساله نخستین گفت‌وگوی رسانه‌ای خود را با برنامه «۶۰ دقیقه» شبکه ۹ استرالیا انجام دادند. در این مصاحبه که روز یکشنبه پخش شد آنها نسبت به کشته شدن مردم معترض به دست جمهوری اسلامی اعتراض کردند.\n\n▪️در همین رابطه رمضانی‌صادق گفت: «فقط می‌خواستیم کنار مردممان بایستیم. گاهی می‌ترسیدم، اما تلاش کردم کار درست را انجام دهم و بگویم هیچ‌کس نباید صرفاً برای اعتراض کشته شود.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/iranian-soccer-players-who-sought-asylum-in-australia-say-anthem-silence-was-protest/8195031.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.99K",
+      "views_label": "3.05K",
       "posted_at": "2026-09-07T08:58:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229703",
@@ -421,7 +449,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.76K",
+      "views_label": "2.8K",
       "posted_at": "2026-09-07T08:50:14+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229702",
@@ -449,7 +477,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.79K",
+      "views_label": "2.83K",
       "posted_at": "2026-09-07T08:33:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229701",
@@ -477,7 +505,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.82K",
+      "views_label": "2.85K",
       "posted_at": "2026-09-07T08:21:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229700",
@@ -2409,22 +2437,6 @@
       "posted_at": "2026-09-06T14:39:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229620",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229619",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/cQgmNvY74QjMaJtRlGlAgwARq80-ngAFt95OGdUvawYpXRlgX1I0clW8a36_0wg0KQW01LJ0WQu9BqpST7mohIffbNUFA69ex-Lkf6Uxm-tRC9fnRtAzxAzkh0gbyyb0gskR6k6eYyyxmBrreDKOZ3GI717bPZ9fXIO5OPouQSOk6lXWlHM6cd2P_frgT1Wg5WzirdR4Wrxa3cFM5EbbDLoQnZesAGGbAJQC-7-_M1BM1x6rMu_j7_nT_BryWHEWoQu34Hwt3C5O6uTaZY0PWF5cpl7--mPsz-xFvsqjpvn05avmOnilCpREWkKLcCK4OERe7ekk1gf0pDPtLCNTyg.jpg",
-      "author_photo_path": "channels/farsivoa/media/0abbb3eafc2bacb0efcb50a7.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>واکنش سنتکام به ادعای جمهوری اسلامی درباره هدف قرار دادن شناور بدون سرنشین آمریکایی: «دروغ محض» است<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>سخنگوی سنتکام روز یکشنبه ۱۵ شهریور ۱۴۰۵ گزارش رسانه‌های دولتی جمهوری اسلامی مبنی بر هدف قرار گرفتن یک شناور نظامی بدون سرنشین آمریکایی در تنگه هرمز را رد کرد و آن را «دروغ محض» خواند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/us-denies-iranian-strike/8194751.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/us-denies-iranian-strike/8194751.html/?nocach=1</a>",
-      "plain_text": "🔺واکنش سنتکام به ادعای جمهوری اسلامی درباره هدف قرار دادن شناور بدون سرنشین آمریکایی: «دروغ محض» است\n\n▪️سخنگوی سنتکام روز یکشنبه ۱۵ شهریور ۱۴۰۵ گزارش رسانه‌های دولتی جمهوری اسلامی مبنی بر هدف قرار گرفتن یک شناور نظامی بدون سرنشین آمریکایی در تنگه هرمز را رد کرد و آن را «دروغ محض» خواند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/us-denies-iranian-strike/8194751.html/?nocach=1",
-      "media": [],
-      "reactions": [],
-      "views_label": "2.75K",
-      "posted_at": "2026-09-06T14:29:48+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229619",
       "reply": null
     }
   ]
