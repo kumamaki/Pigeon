@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T17:49:39.935Z",
+  "fetched_at": "2026-09-07T17:52:33.183Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229777",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "صف برای دریافت بنزین در کرج در آستانه افزایش قیمت سوخت؛ سخنگوی دولت جمهوری اسلامی، یکشنبه شب ۱۵ شهریور اعلام کرد نرخ سوم بنزین از بامداد ۱۷ شهریور به ۱۰ هزار تومان خواهد رسید. افزایش تازه قیمت سوخت در شرایطی صورت می‌گیرد که دولت پرزیدنت ترامپ فشار اقتصادی بر جمهوری اسلامی را به‌شدت افزایش داده است.",
+      "plain_text": "صف برای دریافت بنزین در کرج در آستانه افزایش قیمت سوخت؛ سخنگوی دولت جمهوری اسلامی، یکشنبه شب ۱۵ شهریور اعلام کرد نرخ سوم بنزین از بامداد ۱۷ شهریور به ۱۰ هزار تومان خواهد رسید. افزایش تازه قیمت سوخت در شرایطی صورت می‌گیرد که دولت پرزیدنت ترامپ فشار اقتصادی بر جمهوری اسلامی را به‌شدت افزایش داده است.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229777",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/G1Ymjd_I5XoIzyp17tMYCw_2cG1t_01ulPiC4RJhjFCHVloGfKW_2hifYvtvSoiM9Ih6FkWvRFwZLsHq2-1qdEUinE1XNouFMjMVhXZ9FtFLYdvOkmoqHHX0tYM3K2iHvvWTmXO5pXhOPFa5jE_W5JwQ3q6IpCZYPmCsuouJ0vzvIiJwaDHUi1l6XTp8Et3mc0stTTMVZoW7imifqIycnyN4p2kASnEErWtHlxG6pA1bAY8aQneUJhhTlZss-BkDo2tfQVB86qAOGroGDb69UKm0auDhQF2OEN8lF6TFw01u9HPCJhm6wGceAvpcXt6hGhUgjhiXoSgjbz9-RLCg2Q",
+          "thumbnail_path": "channels/farsivoa/media/882e81de2c577bbb3d5fb14d.jpg",
+          "thumbnail_sha256": "7e2a9e23bbde3988268fe44eab425376db0306d2515666e0166f06659ab80775",
+          "duration_label": "0:57",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "255",
+      "posted_at": "2026-09-07T17:50:21+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229777",
+      "reply": null
+    },
     {
       "id": "farsivoa/229776",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "327",
+      "views_label": "582",
       "posted_at": "2026-09-07T17:44:58+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229776",
@@ -49,7 +77,7 @@
       "plain_text": "🔺افزایش فشار بر فعالان دانشگاهی در آستانه فصل جدید تحصیلی؛ مطهره گونه‌ای راهی زندان شد\n\n▪️جمهوری اسلامی در آستانه آغاز فصل تازه تحصیلی، در تلاش برای خاموش کردن صداهای مخالف، شماری از دانشجویان را از تحصیل محروم، و مطهره گونه‌ای، فعال دانشجویی، را برای تحمل محکومیت حبس روانه زندان کرد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iranian-student-activists-persecuted/8195138.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "742",
+      "views_label": "898",
       "posted_at": "2026-09-07T17:37:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229775",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.09K",
+      "views_label": "1.22K",
       "posted_at": "2026-09-07T17:30:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229774",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.22K",
+      "views_label": "1.31K",
       "posted_at": "2026-09-07T17:25:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229773",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.25K",
+      "views_label": "1.37K",
       "posted_at": "2026-09-07T17:24:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229772",
@@ -149,7 +177,7 @@
       "plain_text": "🔺تاکید خانواده‌های دادخواه بر «تقابل و انتقام»: نه می‌بخشیم و نه فراموش می‌کنیم\n\n▪️حکومت جمهوری اسلامی در آستانه چهارمین سالگرد کشته‌شدن مهسا امینی در بازداشت گشت ارشاد و آغاز اعتراضات بزرگ مردمی در ایران، فشار بر خانواده‌های دادخواه سال‌های اخیر را افزایش داده، دادخواهان نیز در مقابل با انتشار ویدیو در فضای مجازی، بر تقابل و انتقام تاکید می‌کنند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-human-rights-arrest-detention-execution/8195104.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.44K",
+      "views_label": "1.5K",
       "posted_at": "2026-09-07T17:13:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229771",
@@ -254,7 +282,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.38K",
+      "views_label": "1.44K",
       "posted_at": "2026-09-07T17:11:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229763",
@@ -270,7 +298,7 @@
       "plain_text": "🔴📢‌ پادکست تفسیر خبر- دوشنبه ۱۶ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "1.7K",
+      "views_label": "1.73K",
       "posted_at": "2026-09-07T16:52:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229762",
@@ -286,7 +314,7 @@
       "plain_text": "🔺فرمان آماده‌باش ارتش اسرائیل در کرانه باختری و کشته شدن فرمانده گردان نخبه حماس در غزه\n\n▪️به گزارش رسانه‌های منطقه در روز دوشنبه ۱۶ شهریور، یسرائیل کاتس، وزیر دفاع اسرائیل، اعلام کرد در با هماهنگی با بنیامین نتانیاهو، نخست وزیر این کشور، به ارتش اسرائیل دستور داده برای یک «جنگ تمام عیار علیه تروریسم در کرانه باختری» آماده شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/israel-palestine-west-bank-hamas-iran/8195115.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.92K",
+      "views_label": "1.95K",
       "posted_at": "2026-09-07T16:46:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229761",
@@ -314,7 +342,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.73K",
+      "views_label": "1.76K",
       "posted_at": "2026-09-07T16:45:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229760",
@@ -342,7 +370,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.93K",
+      "views_label": "1.96K",
       "posted_at": "2026-09-07T16:40:36+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229759",
@@ -370,7 +398,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.96K",
+      "views_label": "2.02K",
       "posted_at": "2026-09-07T16:35:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229758",
@@ -2498,22 +2526,6 @@
       "posted_at": "2026-09-06T23:04:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229669",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229668",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>نتانیاهو دستور برچیدن پایگاه‌های غیرمجاز شهرک‌نشینان در کرانه باختری را صادر کرد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>بنیامین نتانیاهو، نخست‌ وزیر اسرائیل، دستور برچیدن پایگاه‌های غیرمجاز شهرک‌نشینان در کرانه باختری را صادر کرده است؛ اقدامی که به گفته منابع آگاه در پی فشار ایالات متحده بر دولت اسرائیل برای مقابله با خشونت شهرک‌نشینان علیه فلسطینیان صورت می‌گیرد. <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/us-pressure-israel-west-bank-settler-outposts/8194810.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/us-pressure-israel-west-bank-settler-outposts/8194810.html</a><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "🔺نتانیاهو دستور برچیدن پایگاه‌های غیرمجاز شهرک‌نشینان در کرانه باختری را صادر کرد\n\n▪️بنیامین نتانیاهو، نخست‌ وزیر اسرائیل، دستور برچیدن پایگاه‌های غیرمجاز شهرک‌نشینان در کرانه باختری را صادر کرده است؛ اقدامی که به گفته منابع آگاه در پی فشار ایالات متحده بر دولت اسرائیل برای مقابله با خشونت شهرک‌نشینان علیه فلسطینیان صورت می‌گیرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/us-pressure-israel-west-bank-settler-outposts/8194810.html\n@FarsiVOA",
-      "media": [],
-      "reactions": [],
-      "views_label": "3.4K",
-      "posted_at": "2026-09-06T22:57:47+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229668",
       "reply": null
     }
   ]
