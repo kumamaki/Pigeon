@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T18:12:04.239Z",
+  "fetched_at": "2026-09-07T18:17:03.481Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,67 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229780",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">فرماندهی مرکزی ایالات متحده، سنتکام، روز دوشنبه ۱۶ شهریور تصاویری از تمرین شبانه با مهمات جنگی تفنگداران دریایی آمریکا بر عرشه ناو «یواس‌اس باکسر» منتشر کرد.<br><br>به گفته سنتکام، نیروهای حاضر در این تمرین از اعضای یازدهمین یگان اعزامی تفنگداران دریایی آمریکا هستند.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a></div>",
+      "plain_text": "فرماندهی مرکزی ایالات متحده، سنتکام، روز دوشنبه ۱۶ شهریور تصاویری از تمرین شبانه با مهمات جنگی تفنگداران دریایی آمریکا بر عرشه ناو «یواس‌اس باکسر» منتشر کرد.\n\nبه گفته سنتکام، نیروهای حاضر در این تمرین از اعضای یازدهمین یگان اعزامی تفنگداران دریایی آمریکا هستند.\n\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229780?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/efeS_zrSe2i096YJrnzZfv8NNpPx4xlhR3wPo9VSocqG3wzgOTUkkqkSRjUEQe3xa_E0Qtk7d3oEcXV-RHaVYv38-_NO54565Deh-_D-fuSw0Pv5_4_gD03ehkiDsvcBTe04u-BMtWR3F1zGgRtc9iNx4CLh_EXYwbQeuBYeqzUBqDSpK-cdLe4QNChDs7wAFa1YBD-Wa4vkvKtKx8lasAWNyJtfnnNbOvJIc2ZKkneJGw0LDPXny752pcEvmPgkjmGN1lBfpCy06my8l_GXAON1OeUQZzVcsm6Kj-PC5lLi24qGKz--7oFA8JjkjVG-so2XgncNEA3jIqj_5owO8Q.jpg",
+          "thumbnail_path": "channels/farsivoa/media/7ac7d91b68af369bfe4cd0b3.jpg",
+          "thumbnail_sha256": "463a39b8a02f9857845e116dddc2cd6529c1ede120d9eb629cd59200fceb1db9",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229781?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/qXBXy5jme8M9dEA8OuU1csFl62MgpjQz0pYefRaNPD4_TOQ4vAjeDr40W4DZQvSUywkHWDnMULkIlsNj4xAfqggKZqV_Rmeo6QoswBtCfzdeVLDVrpFdf6GwN4J278zHsFU57L0oFzgA7Jqbkjo0kTx-xNCzfI5ZlRItHk-7jijxZbnaSXdAoPFliuQh5k3a0mHdo9R-VPk6_jZC57ghsx5v7jEAg7AJxjjioniH3PnXWG3RBCXJLi_eMrdshBrWFKPw9KEpoUJvrvnHjYEsxbkQqLbbjuLW1XcyKfyGt63rVeBhAJa8Gq0jDa_WaNXw52P7EN02yvtkDf9SOEBIZw.jpg",
+          "thumbnail_path": "channels/farsivoa/media/ac95b2b65e4dbee18b7cc011.jpg",
+          "thumbnail_sha256": "7e40f8a227b9a50ac5133434d5f6f5eaf7c16199136ec939c749967ef57443c5",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229782?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/VS2xzcxrLOR_bMYx1jRBXm5u_hUTxZn2lRYa-hi9iFjR3BQPCo29s1A3zQh_D0Bl5Scn3-y7IySQTRFYynqR5Dj0Vx9V-3v3e4MdMb74kR1SNcngZ7fWNWXM2eo6EJDTbGY0EEkIoyMOWhq1etXgqnSRKTg8MhG16sY8sKiw5n9D-9pQ8jDQ4hIy2cWkbe-9FC_F_BtK6LCPW__9qt_gj6FIhx3MAswdCPQKGke7jxYWWS-4fu87FxDg-6VRDtjpqPWZjQr05M6Ac3dasfAAv6Ifabu0AI_TtvYRjBJnQh8h0EElPIMHmCwSIcgakKblLp95_o5FQOK4ZMy72Xuu-A.jpg",
+          "thumbnail_path": "channels/farsivoa/media/dc68d4f94aac440ee94f9a54.jpg",
+          "thumbnail_sha256": "6cf2d07e1703640973ae0604b139ff0af861aa317b01857d77022eaa88cfed03",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229783?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/IF94xZT7xgTHev4H5u7mWWxvRz_HzYxDB10XhQa0jVlkhDzEDUJRzuxzvrRa1w4tlrPqSsRu7W8kb5M0A-Iq6nrsBPNxLfAfnw-ehN2R7VTLR9Td-tJ5-8jWheVSIBxVc-T_UG5d-P7nnHXT9KNNw4OQuPIzAta80-gU3UH1Yic44aZ6pS88eAR8H6mzIOpzlWP-MoBDwCUu5Zh2Dy-DcExCbQWc2JWA8y77Blx11GA5ch4waTDbht4x6WQfCfHblW9NX0OXWKZ2kT92MY0-pxJLDJNQaf_C354lQAucuJqbVNeDy9ZN2XwBsZqVxWW8cRYVHiBKwlYuC2LfgEslag.jpg",
+          "thumbnail_path": "channels/farsivoa/media/46c5a736b7525e5e3ceb53f6.jpg",
+          "thumbnail_sha256": "226072f4ebdcaa0fbcaf08fb58afbab65d636b14b5790a88dbb0ce918b7e1e3a",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "100",
+      "posted_at": "2026-09-07T18:15:34+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229780",
+      "reply": null
+    },
     {
       "id": "farsivoa/229779",
       "author_name": "Farsi VOA",
@@ -33,7 +94,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "312",
+      "views_label": "632",
       "posted_at": "2026-09-07T18:07:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229779",
@@ -61,7 +122,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "854",
+      "views_label": "1.11K",
       "posted_at": "2026-09-07T17:57:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229778",
@@ -89,7 +150,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.27K",
+      "views_label": "1.5K",
       "posted_at": "2026-09-07T17:50:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229777",
@@ -117,7 +178,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.46K",
+      "views_label": "1.59K",
       "posted_at": "2026-09-07T17:44:58+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229776",
@@ -133,7 +194,7 @@
       "plain_text": "🔺افزایش فشار بر فعالان دانشگاهی در آستانه فصل جدید تحصیلی؛ مطهره گونه‌ای راهی زندان شد\n\n▪️جمهوری اسلامی در آستانه آغاز فصل تازه تحصیلی، در تلاش برای خاموش کردن صداهای مخالف، شماری از دانشجویان را از تحصیل محروم، و مطهره گونه‌ای، فعال دانشجویی، را برای تحمل محکومیت حبس روانه زندان کرد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iranian-student-activists-persecuted/8195138.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.65K",
+      "views_label": "1.78K",
       "posted_at": "2026-09-07T17:37:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229775",
@@ -161,7 +222,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.72K",
+      "views_label": "1.85K",
       "posted_at": "2026-09-07T17:30:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229774",
@@ -189,7 +250,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.78K",
+      "views_label": "1.88K",
       "posted_at": "2026-09-07T17:25:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229773",
@@ -217,7 +278,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.78K",
+      "views_label": "1.88K",
       "posted_at": "2026-09-07T17:24:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229772",
@@ -233,7 +294,7 @@
       "plain_text": "🔺تاکید خانواده‌های دادخواه بر «تقابل و انتقام»: نه می‌بخشیم و نه فراموش می‌کنیم\n\n▪️حکومت جمهوری اسلامی در آستانه چهارمین سالگرد کشته‌شدن مهسا امینی در بازداشت گشت ارشاد و آغاز اعتراضات بزرگ مردمی در ایران، فشار بر خانواده‌های دادخواه سال‌های اخیر را افزایش داده، دادخواهان نیز در مقابل با انتشار ویدیو در فضای مجازی، بر تقابل و انتقام تاکید می‌کنند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-human-rights-arrest-detention-execution/8195104.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.88K",
+      "views_label": "1.95K",
       "posted_at": "2026-09-07T17:13:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229771",
@@ -338,7 +399,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.78K",
+      "views_label": "1.85K",
       "posted_at": "2026-09-07T17:11:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229763",
@@ -2498,34 +2559,6 @@
       "posted_at": "2026-09-07T00:04:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229672",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229671",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "رویارویی شروط پوتین و زلنسکی در مأموریت فرستادگان پرزیدنت ترامپ<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "رویارویی شروط پوتین و زلنسکی در مأموریت فرستادگان پرزیدنت ترامپ\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229671",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/VbPANlvQuy-0hDUn7UwHy62H849qUpqE9URbPnxuQ6DKP-izR0GT3XDzQF-FnX8HjJEbcfd2YhVdrRY6CQvEwxkYzIrdpPrsUsMHABc5i6RDyBJOrsPe84WZKtT3OAUSZjP2CrVC9y8QyzVTai0woB5MhHmJv84bCfHjI7OaDYDgK2ZXiAtoOU0_wPlqRHGKcRHP6TVhN_Y8msKRf7xlHfi5JU4exNPnZHqIu89znfAK1Ld9qM-PLG_Jnhj7wHjf6zm6A4hp91XA0c6nWgGzv-H5rT0cUBgamxTw2HehTI1T3BoDqoHqJxxNVU3k5T-zouMiVZprBvoEF-TJivIVBg",
-          "thumbnail_path": "channels/farsivoa/media/e140cbb8bb70d97ec50f1880.jpg",
-          "thumbnail_sha256": "ee0e478247e9d866b75c806d661b4d252e9e5a7ac2b745794762f1dd23215844",
-          "duration_label": "3:42",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.19K",
-      "posted_at": "2026-09-07T00:02:55+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229671",
       "reply": null
     }
   ]
