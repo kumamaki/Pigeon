@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T11:32:17.606Z",
+  "fetched_at": "2026-09-07T11:38:04.653Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229717",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "سخنگوی وزارت امور خارجه جمهوری اسلامی گفت مسعود پزشکیان در صورت صدور به‌موقع روادید از سوی آمریکا در نشست مجمع عمومی سازمان ملل شرکت می‌کند.<br><br>اسماعیل بقایی در نشست خبری روز دوشنبه گفت: «قطعاً ما از این فرصت‌ها برای تبیین مواضع خود، به سبک سال‌های گذشته، استفاده خواهیم کرد.»<br><br>او این را در پاسخ به پرسشی درباره تصمیم نهایی سفر رئیس‌جمهوری به نیویورک مطرح کرد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "سخنگوی وزارت امور خارجه جمهوری اسلامی گفت مسعود پزشکیان در صورت صدور به‌موقع روادید از سوی آمریکا در نشست مجمع عمومی سازمان ملل شرکت می‌کند.\n\nاسماعیل بقایی در نشست خبری روز دوشنبه گفت: «قطعاً ما از این فرصت‌ها برای تبیین مواضع خود، به سبک سال‌های گذشته، استفاده خواهیم کرد.»\n\nاو این را در پاسخ به پرسشی درباره تصمیم نهایی سفر رئیس‌جمهوری به نیویورک مطرح کرد.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229717",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/S0otqqn-YsVV1t5RGozVjb6SY9w5L9UH1FQYHcZ5suGyIoXCi4jMPUQF7J30fkkvsAYUH-nLrYJH6OtUK2TemzsOsSDiQRFiRBZgv0o0vXRe3m2hLGs0gjJcB5XhRC_9CirHCr15QtJf2xnSTve-4tydl-yk0Mq1FUe1-8NCace0fszS1h7-tWczgBDSdQfwjR6d9wbZ8jamGMiO1xuf608hmJHPWSRbQImJicOJrFL3IUog2X-B5kWCDeJHsgZx2LyZUTlJO65HXBaVyfgqaZk45h0_KCUNAxfjzLmJZhApHSMliPrHHyeRv1YRNjQ2LG-5NnDL2wvA0zpg6JoGpQ.jpg",
+          "thumbnail_path": "channels/farsivoa/media/42261f6d8e9752bc89236fd7.jpg",
+          "thumbnail_sha256": "3902cc83d23c044bdce7005af2222e2aa5d32025bef602461a3c96543762775c",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "256",
+      "posted_at": "2026-09-07T11:34:18+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229717",
+      "reply": null
+    },
     {
       "id": "farsivoa/229716",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "292",
+      "views_label": "575",
       "posted_at": "2026-09-07T11:26:16+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229716",
@@ -49,7 +77,7 @@
       "plain_text": "🔺جان باختن یکی از معترضان دی ماه در زندان دستگرد اصفهان\n\n▪️منابع حقوق بشری از جان باختن عرفان میرزایی، معترضی که در اعتراضات دی ماه بازداشت شده بود، در زندان دستگرد اصفهان خبر دادند.\n\n▪️کمیته آزادی زندانیان سیاسی در ایران، جان باختن این معترض را تأیید کرده، اما اعلام کرد که درباره علت جان‌باختن عرفان میرزایی روایت‌های متفاوتی منتشر شده است.\n\n▪️به گفته این کمیته، برخی منابع از «اجرای مخفیانه حکم اعدام» خبر داده‌اند، در حالی که شماری دیگر مدعی هستند عرفان میرزایی در بند امنیتی «الف‌طا» زندان دستگرد، دست به خودکشی زده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195036.html",
       "media": [],
       "reactions": [],
-      "views_label": "611",
+      "views_label": "831",
       "posted_at": "2026-09-07T11:18:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229715",
@@ -65,7 +93,7 @@
       "plain_text": "🔺نتانیاهو: هیچ تروریستی مخفیگاه نخواهد داشت\n\n▪️نخست‌وزیر اسرائیل پس از کشته شدن مهاجم فلسطینی در کرانه باختری اشغالی نوشت: «هیچ تروریستی مخفیگاه ندارد.»\n\n▪️بنیامین نتانیاهو در شبکه ایکس افزود: «رزمندگان قهرمان ما را که برای برخورد پیش رفتند و تروریست انجام‌دهنده حمله در سامره را از میان بردند، تقویت می‌کنم.»\n\n▪️نخست‌وزیر اسرائیل برای مصدوم آرزوی بهبودی کرد و گفت: «به کشتن تروریست‌ها، تعقیب اعزام‌کنندگانشان و نابود کردن زیرساخت‌های تروریستی ادامه می‌دهیم. هر کس بکوشد دولت اسرائیل و شهروندانش را تهدید کند، بهای سنگینی می‌پردازد.»\n\n▪️مهاجمی فلسطینی دوشنبه در نزدیکی روستای عوصرین در شمال کرانه باختری یک شهروند اسرائیلی را با چاقو زخمی کرد و از محل گریخت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195035.html",
       "media": [],
       "reactions": [],
-      "views_label": "926",
+      "views_label": "1.05K",
       "posted_at": "2026-09-07T11:11:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229714",
@@ -93,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "954",
+      "views_label": "1.05K",
       "posted_at": "2026-09-07T11:05:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229713",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.18K",
+      "views_label": "1.27K",
       "posted_at": "2026-09-07T10:57:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229712",
@@ -149,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.3K",
+      "views_label": "1.43K",
       "posted_at": "2026-09-07T10:48:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229711",
@@ -165,7 +193,7 @@
       "plain_text": "🔺ثبت ده‌ها مورد نقض حقوق زنان طی یک ماه در ایران\n\n▪️سازمان حقوق بشری هه‌نگاو می‌گوید در ماه اوت ۲۰۲۶، دست‌کم ۲۰ زن فعال در ایران بازداشت و ۲۶ زن نیز به احکام قضایی، از جمله اعدام و حبس، محکوم شده‌اند.\n\n▪️براساس گزارش هه‌نگاو در همین مدت دست‌کم ۱۹ مورد زن‌کشی در شهرهای مختلف ایران ثبت شده و حکم اعدام شش زن نیز در زندان‌های جمهوری اسلامی اجرا شده است.\n\n▪️بر پایه آمار مرکز آمار و اسناد هه‌نگاو، دست‌کم ۲۰ فعال زن در ماه اوت توسط نهادهای سرکوب در جمهوری اسلامی بازداشت شده‌اند. این تعداد حدود ۱۷ درصد از کل بازداشت‌شدگان ثبت‌شده در این ماه را تشکیل می‌دهد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/dozens-of-women-rights-violations-recorded-in-iran-in-one-month/8195034.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.56K",
+      "views_label": "1.65K",
       "posted_at": "2026-09-07T10:34:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229710",
@@ -193,7 +221,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.72K",
+      "views_label": "1.81K",
       "posted_at": "2026-09-07T10:23:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229709",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.97K",
+      "views_label": "2.03K",
       "posted_at": "2026-09-07T10:08:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229708",
@@ -237,7 +265,7 @@
       "plain_text": "🔺مشاور رئیس امارات متحده عربی: بازسازی اعتماد با جمهوری اسلامی دهه‌ها طول می‌کشد\n\n▪️مشاور رئیس امارات متحده عربی، گفت رابطه کارکردی با جمهوری اسلامی قابل ترمیم است، اما بازسازی اعتماد ممکن است دهه‌ها طول بکشد.\n\n▪️انور قرقاش، روز دوشنبه در انجمن حیلی در ابوظبی گفت: «رابطه کارکردی با ایران می‌تواند و باید بازسازی شود، اما بازسازی اعتماد مسئله دیگری است.»\n\n▪️قرقاش اعلام کرد امارات مسیرهای جایگزینی برای صادرات انرژی و تجارت خود می‌سازد. او گفت: «صادرات انرژی ما گروگان گرفته نمی‌شود، همچنین تجارت و فعالیت اقتصادی‌مان.»\n\n▪️بر پایه گفته او، امارات ظرفیت بنادر ساحل شرقی خود و نیز خطوط لوله، راه‌آهن و مسیرهای تجاری را برای ایجاد کریدورهای جایگزین گسترش داده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195033.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.1K",
+      "views_label": "2.16K",
       "posted_at": "2026-09-07T09:59:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229707",
@@ -265,7 +293,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.2K",
+      "views_label": "2.26K",
       "posted_at": "2026-09-07T09:50:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229706",
@@ -293,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.23K",
+      "views_label": "2.29K",
       "posted_at": "2026-09-07T09:43:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229705",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.61K",
+      "views_label": "2.67K",
       "posted_at": "2026-09-07T09:19:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229704",
@@ -337,7 +365,7 @@
       "plain_text": "🔺دو فوتبالیست زن ایرانی پناهنده: به کشتن مردم توسط حکومت اعتراض داشتیم\n\n▪️دو عضو تیم ملی فوتبال زنان ایران که در استرالیا پناهندگی گرفتند، تأیید کردند خودداری‌شان از خواندن سرود ملی در جام ملت‌های آسیا اعتراض به جمهوری اسلامی بود.\n\n▪️عاطفه رمضانی‌صادق ۳۴ ساله و فاطمه پسندیده ۲۲ ساله نخستین گفت‌وگوی رسانه‌ای خود را با برنامه «۶۰ دقیقه» شبکه ۹ استرالیا انجام دادند. در این مصاحبه که روز یکشنبه پخش شد آنها نسبت به کشته شدن مردم معترض به دست جمهوری اسلامی اعتراض کردند.\n\n▪️در همین رابطه رمضانی‌صادق گفت: «فقط می‌خواستیم کنار مردممان بایستیم. گاهی می‌ترسیدم، اما تلاش کردم کار درست را انجام دهم و بگویم هیچ‌کس نباید صرفاً برای اعتراض کشته شود.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/iranian-soccer-players-who-sought-asylum-in-australia-say-anthem-silence-was-protest/8195031.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.89K",
+      "views_label": "2.92K",
       "posted_at": "2026-09-07T08:58:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229703",
@@ -365,7 +393,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.67K",
+      "views_label": "2.7K",
       "posted_at": "2026-09-07T08:50:14+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229702",
@@ -393,7 +421,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.7K",
+      "views_label": "2.73K",
       "posted_at": "2026-09-07T08:33:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229701",
@@ -421,7 +449,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.72K",
+      "views_label": "2.78K",
       "posted_at": "2026-09-07T08:21:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229700",
@@ -449,7 +477,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.82K",
+      "views_label": "2.85K",
       "posted_at": "2026-09-07T08:02:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229699",
@@ -481,7 +509,7 @@
       "plain_text": "🔺احتمال خاموشی در زمستان؛ معاون وزیر نیرو از «سال دشوار» خبر داد\n\n▪️معاون برق و انرژی وزارت نیرو هشدار داد کشور به دلیل ناترازی باقی‌مانده در بخش گاز و آسیب‌های وارد‌شده به زنجیره تأمین سوخت، احتمالاً سال دشواری را در پیش دارد.\n\n▪️مصطفی رجبی مشهدی این موضوع را در گفت‌وگو با روزنامه ایران گفت و تاکید کرد نیروگاه‌های حرارتی در زمستان برای تولید برق وابستگی بالایی به گاز دارند. رسانه‌ها با اتکا بر اعتراف معاون وزیر نیرو از احتمال بروز خاموشی در زمستان خبر داده و نوشتند بحران تامین انرژی در کشور حادتر خواهد شد.\n\n▪️در صورت کمبود گاز، نیروگاه‌ها ممکن است ناچار به استفاده بیشتر از سوخت‌های مایع شوند؛ اقدامی که افزون بر دشواری تأمین و حمل، آثار زیست‌محیطی نیز به همراه دارد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/deputy-minister-of-energy-warns-of-difficult-year-and-possibility-of-winter-blackout/8195028.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.86K",
+      "views_label": "2.89K",
       "posted_at": "2026-09-07T07:47:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229697",
@@ -2385,34 +2413,6 @@
       "posted_at": "2026-09-06T14:11:16+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229617",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229616",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/cQgmNvY74QjMaJtRlGlAgwARq80-ngAFt95OGdUvawYpXRlgX1I0clW8a36_0wg0KQW01LJ0WQu9BqpST7mohIffbNUFA69ex-Lkf6Uxm-tRC9fnRtAzxAzkh0gbyyb0gskR6k6eYyyxmBrreDKOZ3GI717bPZ9fXIO5OPouQSOk6lXWlHM6cd2P_frgT1Wg5WzirdR4Wrxa3cFM5EbbDLoQnZesAGGbAJQC-7-_M1BM1x6rMu_j7_nT_BryWHEWoQu34Hwt3C5O6uTaZY0PWF5cpl7--mPsz-xFvsqjpvn05avmOnilCpREWkKLcCK4OERe7ekk1gf0pDPtLCNTyg.jpg",
-      "author_photo_path": "channels/farsivoa/media/0abbb3eafc2bacb0efcb50a7.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "یک کوهنورد با انتشار ویدیویی صعود خود به قله دماوند را به جاویدنامان میهن تقدیم کرد. او تصویری از مسعود ذات‌پرور، مهران رفیعی و صابر رمضانی، سه نفر از کشته‌شدگان در ۱۸ دی ماه ۱۴۰۴، را همراه خود به «بام ایران» برد.",
-      "plain_text": "یک کوهنورد با انتشار ویدیویی صعود خود به قله دماوند را به جاویدنامان میهن تقدیم کرد. او تصویری از مسعود ذات‌پرور، مهران رفیعی و صابر رمضانی، سه نفر از کشته‌شدگان در ۱۸ دی ماه ۱۴۰۴، را همراه خود به «بام ایران» برد.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229616",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/BgonNqExLYAfdNBSyHOguoq1J7ScXO8aygfgZojdv_8Au-wyxgqC2Ef5cuvPp1xl-1XZQSa68Bxe1y0ICbO-2I1pc01CCWPxx_D_P6izawXOK25rdf8yUyH2QT3WQxspfqiU22wPA2swp4LAljzuelOf7xsVg1nLvT57xOV_Ok7VdlQRB9snHF4bqtN1yVQlOoTErTMvT68y4mzuqkJSTJajjPPcMswO9UrNzSoftV1tCBBRCc7eVBJhdpSjhceWUf5Im-Zw2ZeiqkyV2lGs2ekeRWKKekYKNYdWzrwTudFopDIzwDOTBKxfno0V5EcaxzgrtBPg7wyqoLigRdu4fw",
-          "thumbnail_path": "channels/farsivoa/media/7f2eb6caf99fe29f466827ac.jpg",
-          "thumbnail_sha256": "b205e30b21a88fa93276437dc43bcf2e07b69f4f048ad824cc58eba5533f3781",
-          "duration_label": "0:10",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.95K",
-      "posted_at": "2026-09-06T13:54:47+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229616",
       "reply": null
     }
   ]
