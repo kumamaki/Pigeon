@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T08:17:08.530Z",
+  "fetched_at": "2026-09-07T08:22:21.711Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229700",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "کره جنوبی، آمریکا و ژاپن روز دوشنبه رزمایش مشترک پنج‌روزه «لبه آزادی» را در آب‌های بین‌المللی شرق و جنوب جزیره ججو آغاز کردند.<br><br>بر پایه بیانیه ستاد مشترک ارتش کره جنوبی، سه کشور از رزمایش برای تقویت توان عملیاتی و پاسخ مشترک در حوزه‌های دریایی، هوایی و سایبری بهره می‌گیرند.<br><br>رزمایش با وجود کاهش رزمایش دوجانبه «سپر آزادی اولچی» به دستور دونالد ترامپ، رئیس‌جمهوری آمریکا، طبق برنامه برگزار می‌شود.<br><br>بر اساس گزارش‌ها، هیچ ناو هواپیمابر آمریکایی به دلیل جنگ جاری با جمهوری اسلامی در این رزمایش حضور ندارد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "کره جنوبی، آمریکا و ژاپن روز دوشنبه رزمایش مشترک پنج‌روزه «لبه آزادی» را در آب‌های بین‌المللی شرق و جنوب جزیره ججو آغاز کردند.\n\nبر پایه بیانیه ستاد مشترک ارتش کره جنوبی، سه کشور از رزمایش برای تقویت توان عملیاتی و پاسخ مشترک در حوزه‌های دریایی، هوایی و سایبری بهره می‌گیرند.\n\nرزمایش با وجود کاهش رزمایش دوجانبه «سپر آزادی اولچی» به دستور دونالد ترامپ، رئیس‌جمهوری آمریکا، طبق برنامه برگزار می‌شود.\n\nبر اساس گزارش‌ها، هیچ ناو هواپیمابر آمریکایی به دلیل جنگ جاری با جمهوری اسلامی در این رزمایش حضور ندارد.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229700",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/MFJZAOZ_KuyfxZwgkE6fB5jG4YklGbZkQKfh3qrjO5dV1oIQyI_hB3xypT0BHOKiUk9kR3ViSS-5dK4RfgiOBwTDvaEzPWB1dBNHCFKUGy1lMHGO5mzLPyeaq847Trds7azJcCW_SU__YwvhHjSIPspe4NTUoQl-8d8CJCTD_4tmcCk-ymPuI3RtXGQ1Vz1yWwy45EJA0axgHs_xYPIe-vIHiQPeWes9cLPhvOFCFBT1T1kC1BzGI5xbi0bsRQGSPXProkaZoWRU1w1JACKfhNjDHhJJhInU7zBeFhlNcc7UhkqT5eqf7yc6q1z8AbkwIO_MyP32HeppgXQt0Z5CYg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/a96372fe21c9f622443ccf8d.jpg",
+          "thumbnail_sha256": "a8871e0e90d50dd7eebb948654e27ce286903682e009f93ab5d1df543a79b00e",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-07T08:21:47+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229700",
+      "reply": null
+    },
     {
       "id": "farsivoa/229699",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "598",
+      "views_label": "722",
       "posted_at": "2026-09-07T08:02:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229699",
@@ -49,7 +77,7 @@
       "plain_text": "🔺کانادا بر توقف اقدامات بی‌ثبات‌کننده جمهوری اسلامی تأکید کرد\n\n▪️وزیر امور خارجه کانادا، با محکوم کردن اقدامات بی‌ثبات‌کننده جمهوری اسلامی تصریح کرد که جمهوری اسلامی باید فوراً تهدیدها در تنگه هرمز، فعالیت‌های هسته‌ای غیرقانونی و حمایت از گروه‌های نیابتی را متوقف کند.\n\n▪️آنیتا آناند تصریح کرد: «تهدیدهای ایران در تنگه هرمز، فعالیت‌های هسته‌ای غیرقانونی و حمایت آن از گروه‌های نیابتی منطقه‌ای، همچنان صلح و امنیت جهانی را تضعیف می‌کند و این اقدامات باید پایان یابند.»\n\n▪️او به بیانیه‌ای مشترک با وزیر دارایی کانادا، اشاره کرد که در آن «اقدامات کانادا و شرکایش برای حفظ فشار بر ایران، و تلاش‌ها برای مختل کردن توانایی ایران در تأمین مالی فعالیت‌های تروریستی» تشریح شده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/canada-condemns-iran-s-destabilizing-actions-in-the-middle-east/8195030.html",
       "media": [],
       "reactions": [],
-      "views_label": "782",
+      "views_label": "876",
       "posted_at": "2026-09-07T07:57:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229698",
@@ -65,7 +93,7 @@
       "plain_text": "🔺احتمال خاموشی در زمستان؛ معاون وزیر نیرو از «سال دشوار» خبر داد\n\n▪️معاون برق و انرژی وزارت نیرو هشدار داد کشور به دلیل ناترازی باقی‌مانده در بخش گاز و آسیب‌های وارد‌شده به زنجیره تأمین سوخت، احتمالاً سال دشواری را در پیش دارد.\n\n▪️مصطفی رجبی مشهدی این موضوع را در گفت‌وگو با روزنامه ایران گفت و تاکید کرد نیروگاه‌های حرارتی در زمستان برای تولید برق وابستگی بالایی به گاز دارند. رسانه‌ها با اتکا بر اعتراف معاون وزیر نیرو از احتمال بروز خاموشی در زمستان خبر داده و نوشتند بحران تامین انرژی در کشور حادتر خواهد شد.\n\n▪️در صورت کمبود گاز، نیروگاه‌ها ممکن است ناچار به استفاده بیشتر از سوخت‌های مایع شوند؛ اقدامی که افزون بر دشواری تأمین و حمل، آثار زیست‌محیطی نیز به همراه دارد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/deputy-minister-of-energy-warns-of-difficult-year-and-possibility-of-winter-blackout/8195028.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.07K",
+      "views_label": "1.13K",
       "posted_at": "2026-09-07T07:47:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229697",
@@ -93,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.29K",
+      "views_label": "1.32K",
       "posted_at": "2026-09-07T07:37:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229696",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.39K",
+      "views_label": "1.45K",
       "posted_at": "2026-09-07T07:27:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229695",
@@ -149,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.55K",
+      "views_label": "1.59K",
       "posted_at": "2026-09-07T07:16:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229694",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.63K",
+      "views_label": "1.66K",
       "posted_at": "2026-09-07T07:04:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229693",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.78K",
+      "views_label": "1.84K",
       "posted_at": "2026-09-07T06:53:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229692",
@@ -221,7 +249,7 @@
       "plain_text": "🔺وزیر انرژی آمریکا: با حصر دریایی یا جمهوری اسلامی عوض می‌شود یا سیاست‌هایش\n\n▪️وزیر انرژی آمریکا، گفت ممکن است توافق هسته‌ای با جمهوری اسلامی به دست نیاید و راه‌حل صرفاً نابود کردن توان جمهوری اسلامی باشد. او همچنین گفت که محاصره دریایی بنادر ایران «یا حکومتشان را تغییر می‌دهد یا سیاست‌های حکومت را».\n\n▪️کریس رایت، روز یکشنبه گفت: «شاید توافق هسته‌ای وجود نداشته باشد. شاید صرفاً نابود کردن توانمندی‌های آنان برای انجام آن باشد. توافق ممکن است در انتظار دولت بعدی در ایران بماند. ما به‌سادگی نمی‌دانیم.»\n\n▪️او افزود: «ما توان آنان برای توسعه سلاح هسته‌ای و در نهایت پرتاب آن در صورت توسعه را تضعیف می‌کنیم. این تلاشی ۴۷ ساله است. کار کوچکی نیست، اما آمریکا کار را به سرانجام می‌رساند.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195027.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.94K",
+      "views_label": "1.97K",
       "posted_at": "2026-09-07T06:42:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229691",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.2K",
+      "views_label": "2.24K",
       "posted_at": "2026-09-07T06:27:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229690",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.39K",
+      "views_label": "2.43K",
       "posted_at": "2026-09-07T06:13:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229689",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.53K",
+      "views_label": "2.56K",
       "posted_at": "2026-09-07T05:59:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229688",
@@ -349,7 +377,7 @@
       "plain_text": "🔺کارزار اقتصادی آمریکا اهرم فشار جمهوری اسلامی در تنگه هرمز را تضعیف کرده است\n\n▪️شش ماه پس از آغاز جنگ، تشدید تحریم‌ها و محاصره دریایی توسط ایالات متحده فشار فزاینده‌ای بر جمهوری اسلامی وارد آورده، و به گفته منابع ایرانی و منطقه‌ای، توان رژیم ایران برای استفاده از تنگه هرمز به عنوان اهرمی در برابر آمریکا را کاهش داده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/president-trump-economic-pressure-iran-hormuz-leverage/8195025.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.57K",
+      "views_label": "2.6K",
       "posted_at": "2026-09-07T05:39:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229686",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.54K",
+      "views_label": "2.57K",
       "posted_at": "2026-09-07T05:25:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229685",
@@ -465,7 +493,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.55K",
+      "views_label": "4.58K",
       "posted_at": "2026-09-07T02:36:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229681",
@@ -2382,22 +2410,6 @@
       "posted_at": "2026-09-06T11:17:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229600",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229599",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/cQgmNvY74QjMaJtRlGlAgwARq80-ngAFt95OGdUvawYpXRlgX1I0clW8a36_0wg0KQW01LJ0WQu9BqpST7mohIffbNUFA69ex-Lkf6Uxm-tRC9fnRtAzxAzkh0gbyyb0gskR6k6eYyyxmBrreDKOZ3GI717bPZ9fXIO5OPouQSOk6lXWlHM6cd2P_frgT1Wg5WzirdR4Wrxa3cFM5EbbDLoQnZesAGGbAJQC-7-_M1BM1x6rMu_j7_nT_BryWHEWoQu34Hwt3C5O6uTaZY0PWF5cpl7--mPsz-xFvsqjpvn05avmOnilCpREWkKLcCK4OERe7ekk1gf0pDPtLCNTyg.jpg",
-      "author_photo_path": "channels/farsivoa/media/0abbb3eafc2bacb0efcb50a7.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>قیمت جهانی مواد غذایی به بالاترین سطح از ۲۰۲۲ رسید<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>قیمت جهانی مواد غذایی در ماه اوت ۲۰۲۶ به بالاترین سطح خود از نوامبر ۲۰۲۲ رسید.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>سازمان خواربار و کشاورزی ملل متحد می‌گوید هم‌زمانی گرمای شدید اروپا، جنگ و اختلال در تجارت و حمل‌ونقل ناشی از جنگ خاورمیانه و اوکراین نگرانی‌ها درباره عرضه کودهای شیمیایی و محصولات کشاورزی را افزایش داده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>شاخص قیمت مواد غذایی در ماه اوت به ۱۳۳.۳ واحد رسیده که ۱.۹ واحد بالاتر از ماه گذشته است. البته این رقم همچنان ۱۷ واحد کمتر از رکورد مارس ۲۰۲۲، یک ماه بعد از حمله روسیه به اوکراین است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>فائو می‌گوید تمام پنج گروه اصلی غذایی شامل غلات، روغن گیاهی، شکر، گوشت و لبنیات نسبت به ماه گذشته افزایش قیمت داشته است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8194727.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8194727.html</a>",
-      "plain_text": "🔺قیمت جهانی مواد غذایی به بالاترین سطح از ۲۰۲۲ رسید\n\n▪️قیمت جهانی مواد غذایی در ماه اوت ۲۰۲۶ به بالاترین سطح خود از نوامبر ۲۰۲۲ رسید.\n\n▪️سازمان خواربار و کشاورزی ملل متحد می‌گوید هم‌زمانی گرمای شدید اروپا، جنگ و اختلال در تجارت و حمل‌ونقل ناشی از جنگ خاورمیانه و اوکراین نگرانی‌ها درباره عرضه کودهای شیمیایی و محصولات کشاورزی را افزایش داده است.\n\n▪️شاخص قیمت مواد غذایی در ماه اوت به ۱۳۳.۳ واحد رسیده که ۱.۹ واحد بالاتر از ماه گذشته است. البته این رقم همچنان ۱۷ واحد کمتر از رکورد مارس ۲۰۲۲، یک ماه بعد از حمله روسیه به اوکراین است.\n\n▪️فائو می‌گوید تمام پنج گروه اصلی غذایی شامل غلات، روغن گیاهی، شکر، گوشت و لبنیات نسبت به ماه گذشته افزایش قیمت داشته است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8194727.html",
-      "media": [],
-      "reactions": [],
-      "views_label": "2.9K",
-      "posted_at": "2026-09-06T11:07:40+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229599",
       "reply": null
     }
   ]
