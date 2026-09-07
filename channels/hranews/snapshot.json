@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T10:37:14.286Z",
+  "fetched_at": "2026-09-07T10:42:28.673Z",
   "channel": {
     "username": "hranews",
     "title": "خبرگزاری هرانا",
@@ -11,6 +11,34 @@
     "subscriber_count": "31.8K"
   },
   "posts": [
+    {
+      "id": "hranews/115458",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/V70wgIIyDFpgsG7sY6W9p07pWzRiwt74B9Gvxn3QUHjxf6-ey3QC5D-eVEHqmTI1ZhRgkUPaIwqfIV6_28Z8QK4HLGV9nrXKabtxAdfhNvWOv0PdOLolMfPGR_mfQxTUGM6tmHf_FkY734vVWGG2a8pxQD9xqcZwpPsgJH9AVpfPKjkegXck_6mDhRyB4Vl5jKEknm4rrznGVIObwphL_RXOM-kd2Uh3gnXXg_fNTavEb-fteB-lvBRdgZOvrUrAULRTAxPmuhWPPfJ71EYAflVKDVNRa8I1iP_SzQ_3xlPSXqarl8apIPXyEmKTsb8ixsTQFhNq-DmB4rmHD55GWQ.jpg",
+      "author_photo_path": "channels/hranews/media/a0268111c426ab2ca58fac65.jpg",
+      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
+      "body_html": "بهزاد شریفی‌پور، مدیرکل منابع طبیعی و آبخیزداری کردستان، از کمبود نیروی حفاظتی در این استان خبر داد و گفت تنها حدود ۸۰ جنگلبان برای حفاظت از جنگل‌ها و مراتع فعالیت می‌کنند؛ در حالی که بر اساس شاخص‌های جهانی، به ازای هر سه تا چهار هزار هکتار یک <a href=\"?q=%23%D8%AC%D9%86%DA%AF%D9%84%D8%A8%D8%A7%D9%86\">#جنگلبان</a> مورد نیاز است.<br><br>وی کمبود نیروی انسانی و تجهیزات را از چالش‌های جدی حفاظت از منابع طبیعی دانست و افزود این نیروها همزمان مسئول مقابله با آتش‌سوزی، زمین‌خواری و قاچاق چوب نیز هستند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "بهزاد شریفی‌پور، مدیرکل منابع طبیعی و آبخیزداری کردستان، از کمبود نیروی حفاظتی در این استان خبر داد و گفت تنها حدود ۸۰ جنگلبان برای حفاظت از جنگل‌ها و مراتع فعالیت می‌کنند؛ در حالی که بر اساس شاخص‌های جهانی، به ازای هر سه تا چهار هزار هکتار یک #جنگلبان مورد نیاز است.\n\nوی کمبود نیروی انسانی و تجهیزات را از چالش‌های جدی حفاظت از منابع طبیعی دانست و افزود این نیروها همزمان مسئول مقابله با آتش‌سوزی، زمین‌خواری و قاچاق چوب نیز هستند.\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/hranews/115458",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/pKpwXIK3jbDIOQYzGeRdxaMq8mJVug8HLs8MA3ozhsBNwZ3oxb-WL_kpUO6cGABS34a4JlczK9mPNfeUPNrmrFyGbunbjdem7Mmu0FpJazGF7Xx6WyT8jGBAEzXBxuy8VrN3X-O2AubRM0NSDnsv2uDEDaj-w4x30g3zpLM-k7mtBR7rAsgGkwP1kPhnBpd9vrcVqF1O-x508fDyRjc-zK3F2xxIURXpBjr06Vc4WNxu7Mu433uUeTQE3NBYtLS315i_TNVp-xHWeJ7S1_bsb4q8VbqE2GrClmy8fTStljo-T00BLDng1_GDmTnV3CD3fCZCmbgFD6IOOfvNoAw2ww.jpg",
+          "thumbnail_path": "channels/hranews/media/71e6dc7f0ba4d9e18e708a2d.jpg",
+          "thumbnail_sha256": "865bd51e0579d30969064561c5056c6396abfc2140ef923b77a4a366941c6447",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-07T10:41:30+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/115458",
+      "reply": null
+    },
     {
       "id": "hranews/115457",
       "author_name": "خبرگزاری هرانا",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "196",
+      "views_label": "218",
       "posted_at": "2026-09-07T10:02:28+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115457",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "323",
+      "views_label": "342",
       "posted_at": "2026-09-07T09:46:12+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115456",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "414",
+      "views_label": "418",
       "posted_at": "2026-09-07T09:02:22+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115455",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "400",
+      "views_label": "407",
       "posted_at": "2026-09-07T08:49:38+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115454",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "402",
+      "views_label": "405",
       "posted_at": "2026-09-07T08:33:04+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115453",
@@ -161,7 +189,7 @@
       "plain_text": "شادگان؛ ۳ شهروند توسط نیروهای انتظامی بازداشت شدند\n\n❗️❗️❗️❗️❗️– فرمانده انتظامی شادگان از #بازداشت سه شهروند در این شهرستان، به دلیل آنچه انتشار مطلب در فضای مجازی به قصد تشویش اذهان عمومی و تبلیغ علیه نظام جمهوری اسلامی عنوان کرده، خبر داد.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "451",
+      "views_label": "457",
       "posted_at": "2026-09-07T07:58:42+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115452",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "499",
+      "views_label": "505",
       "posted_at": "2026-09-07T07:32:21+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115451",
@@ -205,7 +233,7 @@
       "plain_text": "بازداشت سیامک مفیدی و سروش عنایتی، دو نوجوان در تکاب\n\n❗️❗️❗️❗️❗️– سیامک مفیدی، ۱۷ ساله و سروش عنایتی، ۱۶ ساله، دو نوجوان اهل تکاب، روز شنبه توسط نیروهای امنیتی در این شهرستان بازداشت و به مکانی نامعلوم در تهران منتقل شدند.\n\nادامه مطلب\n\n#سیامک_مفیدی #سروش_عنایتی\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "564",
+      "views_label": "571",
       "posted_at": "2026-09-07T07:02:19+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115450",
@@ -221,7 +249,7 @@
       "plain_text": "دستکم ۱۰ تجمع اعتراضی برگزار شد\n\n❗️❗️❗️❗️❗️– امروز یکشنبه ۱۵ شهریورماه، شماری از بازنشستگان فرهنگی، مخابرات و تامین اجتماعی در تهران، گروهی از بازنشستگان تامین اجتماعی در اهواز، شوش، کرمانشاه، دزفول و رشت، جمعی از معلمان در تهران، جمعی از بازنشستگان فرهنگی در یاسوج و شماری از شهروندان جویای کار در اهواز با برگزاری تجمعات اعتراضی خواستار رسیدگی به مطالبات خود شدند. افزون بر این، روز گذشته نیز گروهی از رانندگان کامیون و خودروهای باری در کمرگ مرزی پیشین دست به تجمع اعتراضی زدند.\n\nادامه مطلب\n\n#تجمع_اعتراضی #بازنشستگان\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "1.19K",
+      "views_label": "1.2K",
       "posted_at": "2026-09-06T19:29:41+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115449",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "742",
+      "views_label": "743",
       "posted_at": "2026-09-06T19:03:23+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115447",
@@ -293,7 +321,7 @@
       "plain_text": "برخلاف پیمان‌نامه حقوق کودک؛ تعدادی از نوجوانان به مناطق عملیاتی کشور اعزام شدند\n\n❗️❗️❗️❗️❗️– برخلاف تعهدات بین‌المللی ایران تحت عنوان الحاق به پیمان‌نامه حقوق کودک و تعهدات مربوط به عدم به‌کارگیری کودکان در امور نظامی، شماری از نوجوانان شهرستان دورود به اردوی موسوم به «راهیان نور» در مناطق عملیاتی دوران جنگ اعزام شدند.\n\nادامه مطلب\n\n#حقوق_کودک\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "660",
+      "views_label": "662",
       "posted_at": "2026-09-06T18:52:36+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115446",
@@ -325,7 +353,7 @@
       "plain_text": "علی‌محمد باغشاهی پس از حضور در دادسرای یزد بازداشت شد\n\n❗️❗️❗️❗️❗️– امروز یکشنبه ۱۵ شهریورماه، علی‌محمد باغشاهی، دانشجوی رشته روان‌شناسی بالینی دانشگاه بهشتی، پس از احضار و حضور در دادسرای یزد بازداشت شد.\n\nادامه مطلب\n\n#علی‌محمد_باغشاهی\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "707",
+      "views_label": "708",
       "posted_at": "2026-09-06T17:48:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115444",
@@ -341,7 +369,7 @@
       "plain_text": "اجرای حکم اعدام یک زندانی در زندان سمنان/ رهایی ۳ زندانی از چوبه‌دار\n\n❗️❗️❗️❗️❗️– سحرگاه روز گذشته، حکم یک زندانی که پیشتر از بابت اتهام قتل به اعدام محکوم شده بود، در زندان سمنان اجرا شد. از سوی دیگر، سه زندانی محکوم به اعدام در قزوین و سمنان با اعلام رضایت اولیای دم از چوبه‌دار رهایی یافتند.\n\nادامه مطلب\n\n#اعدام #رضا_سلیمی\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "745",
+      "views_label": "746",
       "posted_at": "2026-09-06T17:19:55+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115443",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "748",
+      "views_label": "750",
       "posted_at": "2026-09-06T16:08:57+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115441",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "754",
+      "views_label": "756",
       "posted_at": "2026-09-06T15:33:55+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115440",
@@ -2273,22 +2301,6 @@
       "posted_at": "2026-09-02T13:52:53+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115355",
-      "reply": null
-    },
-    {
-      "id": "hranews/115354",
-      "author_name": "خبرگزاری هرانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OGeDqijqMbhR-4VIncUiRft80T8uFo-Y9xB5-RlI2oDV_xHvvDdjLaZaMPfgs6cJDMV4sFHWPAhw_GFtxwryFGBGhdCgQ-4je2Xd6XM8xdNMRE_v4DfJKDlDoXM1_JP4Xk4rAWgbptZyfTDgZ5H8XeqSPxPxcT4rv4XqZZiyE2bcyLIicKQqI6LEAr7_tSrgkM0q3K5E_3HfwpTOfYkunPfwpjEuyi6bwB94Z7IhwWyH0N_12ZkeArJnlsZ0dMagDHYODI36-8zBlR1Mem6k504xrOSEQyMRUsp5-1sy3jwPfIrF0L4L3-HB2j81cHkDw_r6zp0iB-qMiM6C5D-1eg.jpg",
-      "author_photo_path": "channels/hranews/media/393a7ac2dc897271d7fcc1ac.jpg",
-      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
-      "body_html": "قروه؛ هژیر یعقوبی به حبس و شلاق محکوم شد<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– هژیر یعقوبی، شهروند اهل قروه و از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، توسط دادگاه کیفری به یک سال حبس تعزیری و ۳۱ ضربه شلاق محکوم شد.<br><br><a href=\"?q=%23%D9%87%DA%98%DB%8C%D8%B1_%DB%8C%D8%B9%D9%82%D9%88%D8%A8%DB%8C\">#هژیر_یعقوبی</a> <a href=\"?q=%23%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA_%DB%B1%DB%B4%DB%B0%DB%B4\">#اعتراضات_۱۴۰۴</a><br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-95d610bd/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
-      "plain_text": "قروه؛ هژیر یعقوبی به حبس و شلاق محکوم شد\n\n❗️❗️❗️❗️❗️– هژیر یعقوبی، شهروند اهل قروه و از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، توسط دادگاه کیفری به یک سال حبس تعزیری و ۳۱ ضربه شلاق محکوم شد.\n\n#هژیر_یعقوبی #اعتراضات_۱۴۰۴\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
-      "media": [],
-      "reactions": [],
-      "views_label": "732",
-      "posted_at": "2026-09-02T13:44:52+00:00",
-      "edited": false,
-      "permalink": "https://t.me/hranews/115354",
       "reply": null
     }
   ]

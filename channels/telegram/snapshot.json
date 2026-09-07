@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T10:37:19.456Z",
+  "fetched_at": "2026-09-07T10:42:34.849Z",
   "channel": {
     "username": "telegram",
     "title": "Telegram News",
@@ -8,7 +8,7 @@
     "photo_url": "https://cdn1.telesco.pe/file/mqj1cd9zCZ6KOO0UqJs3YZcpyIfEq9gDYLh0eyVzdb3q8PB6GyXUw7SoLiCSuL1eqd7r-WWBxggT0muFDyi9k5IKTXh_Lm9Bfd4JprZOIa_N7dnQGTYw9vmH9OlNmuIRZbdQjIUWDaQFslSdUz8zs0H0qnyj8Lg0dIfB2dKKtVK9XEJG2AMXba7FuF3JfEhf5hVMuQup7sBkeMiltb97WErW_KLvyuTjB_9OfzBqGsCjuwQsi3JWVlMlsjk1aVi6uffwtGoFbzjUOZGpyHN92Wul-iIzFUP-gjr1TxLkogTmiLPwQBjS3NvJLrj5dLXMt1YTX6f-XUfJEjsGze3wcA.jpg",
     "photo_path": "channels/telegram/media/4fa257c2ba2ab5d87f457de5.jpg",
     "photo_sha256": "baecc3508c6838397382402292fbe1331e2c405a6f5f71b17d03b1466aa7ce37",
-    "subscriber_count": "9.62M"
+    "subscriber_count": "9.61M"
   },
   "posts": [
     {
