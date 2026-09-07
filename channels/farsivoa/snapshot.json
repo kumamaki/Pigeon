@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T23:42:07.592Z",
+  "fetched_at": "2026-09-07T23:47:28.802Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,22 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229812",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>ترامپ: قیمت نفت کاهش خواهد یافت و جمهوری اسلامی به سلاح هسته‌ای دست پیدا نمی‌کند<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>دونالد ترامپ، رئیس‌جمهوری آمریکا، دوشنبه شب در شبکه اجتماعی تروت‌سوشال نوشت وقتی در جنگ با جمهوری اسلامی ایران «پیروز شویم، قیمت نفت به سرعت کاهش خواهد یافت.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8195221.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8195221.html</a><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "🔺ترامپ: قیمت نفت کاهش خواهد یافت و جمهوری اسلامی به سلاح هسته‌ای دست پیدا نمی‌کند\n\n▪️دونالد ترامپ، رئیس‌جمهوری آمریکا، دوشنبه شب در شبکه اجتماعی تروت‌سوشال نوشت وقتی در جنگ با جمهوری اسلامی ایران «پیروز شویم، قیمت نفت به سرعت کاهش خواهد یافت.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195221.html\n@FarsiVOA",
+      "media": [],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-07T23:46:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229812",
+      "reply": null
+    },
     {
       "id": "farsivoa/229811",
       "author_name": "Farsi VOA",
@@ -33,7 +49,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "66",
+      "views_label": "135",
       "posted_at": "2026-09-07T23:39:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229811",
@@ -61,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "172",
+      "views_label": "239",
       "posted_at": "2026-09-07T23:33:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229810",
@@ -89,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "411",
+      "views_label": "506",
       "posted_at": "2026-09-07T23:15:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229809",
@@ -105,7 +121,7 @@
       "plain_text": "🔺جمهوری اسلامی رسماً قیمت بنزین را افزایش داد و نیروهای سرکوب لباس شخصی را در اطراف جایگاه‌های سوخت مستقر کرد\n\n▪️جمهوری اسلامی بامداد سه‌شنبه ۱۷ شهریور قیمت بنزین موسوم به «سوخت سهمیه جایگاه‌ها» را به‌طور رسمی افزایش داد و نیروهای سرکوب را در اطراف پمپ‌بنزین‌ها مستقر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195211.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "578",
+      "views_label": "644",
       "posted_at": "2026-09-07T23:06:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229808",
@@ -133,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "773",
+      "views_label": "806",
       "posted_at": "2026-09-07T22:50:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229807",
@@ -189,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.42K",
+      "views_label": "1.46K",
       "posted_at": "2026-09-07T22:10:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229805",
@@ -205,7 +221,7 @@
       "plain_text": "🔺خبرنگار سی‌بی‌اس: کامران حکمتی، شهروند آمریکایی از زندان اوین آزاد شد اما همچنان ممنوع‌الخروج است\n\n▪️مارگارت برنان، خبرنگار شبکه خبری سی‌بی‌اس آمریکا، روز دوشنبه ‍‍۱۶ شهریور اعلام کرد کامران حکمتی، شهروند دوتابعیتی ایرانی-آمریکایی، سه روز پیش از زندان اوین آزاد شده است، اما همچنان اجازه خروج از ایران را ندارد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195205.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.48K",
+      "views_label": "1.52K",
       "posted_at": "2026-09-07T22:03:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229804",
@@ -221,7 +237,7 @@
       "plain_text": "🔺سنتکام مسیر ۹۴ کشتی تجاری را در جریان محاصره دریایی علیه جمهوری اسلامی تغییر داده است\n\n▪️ستاد فرماندهی مرکزی آمریکا، سنتکام، روز دوشنبه اعلام کرد نیروهای آمریکایی تاکنون مسیر ۹۴ کشتی تجاری را در چارچوب اجرای موج دوم محاصره دریایی علیه جمهوری اسلامی تغییر داده‌اند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195203.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.6K",
+      "views_label": "1.63K",
       "posted_at": "2026-09-07T21:49:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229803",
@@ -249,7 +265,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.5K",
+      "views_label": "1.54K",
       "posted_at": "2026-09-07T21:47:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229802",
@@ -277,7 +293,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.66K",
+      "views_label": "1.67K",
       "posted_at": "2026-09-07T21:39:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229801",
@@ -305,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.85K",
+      "views_label": "1.89K",
       "posted_at": "2026-09-07T21:32:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229800",
@@ -333,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.6K",
+      "views_label": "2.63K",
       "posted_at": "2026-09-07T20:56:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229799",
@@ -361,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.07K",
+      "views_label": "3.11K",
       "posted_at": "2026-09-07T20:41:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229798",
@@ -477,7 +493,7 @@
       "plain_text": "🔺تداوم فشار حکومت بر مخالفان؛ بازداشت‌ معترضان و توقیف اموال بهائیان همچنان ادامه دارد\n\n▪️منابع و رسانه‌های حقوق بشری روز دوشنبه ۱۶ شهریور از تداوم فشار حاکمان جمهوری اسلامی بر معترضان و ادامه بازداشت‌ مخالفان حکومت در سرتاسر ایران خبر دادند و اعلام کردند ماموران حکومتی به توقیف اموال بهائیان ادامه می‌دهند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/bahai-national-security-arrest-detention-assault-battery-property-seizure-search-dadban-human-rights-charge-conviction--bah%C3%A1%CA%BC%C3%AD-faith/8195160.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.6K",
+      "views_label": "3.61K",
       "posted_at": "2026-09-07T19:20:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229793",
@@ -2579,34 +2595,6 @@
       "posted_at": "2026-09-07T08:33:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229701",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229700",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "کره جنوبی، آمریکا و ژاپن روز دوشنبه رزمایش مشترک پنج‌روزه «لبه آزادی» را در آب‌های بین‌المللی شرق و جنوب جزیره ججو آغاز کردند.<br><br>بر پایه بیانیه ستاد مشترک ارتش کره جنوبی، سه کشور از رزمایش برای تقویت توان عملیاتی و پاسخ مشترک در حوزه‌های دریایی، هوایی و سایبری بهره می‌گیرند.<br><br>رزمایش با وجود کاهش رزمایش دوجانبه «سپر آزادی اولچی» به دستور دونالد ترامپ، رئیس‌جمهوری آمریکا، طبق برنامه برگزار می‌شود.<br><br>بر اساس گزارش‌ها، هیچ ناو هواپیمابر آمریکایی به دلیل جنگ جاری با جمهوری اسلامی در این رزمایش حضور ندارد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "کره جنوبی، آمریکا و ژاپن روز دوشنبه رزمایش مشترک پنج‌روزه «لبه آزادی» را در آب‌های بین‌المللی شرق و جنوب جزیره ججو آغاز کردند.\n\nبر پایه بیانیه ستاد مشترک ارتش کره جنوبی، سه کشور از رزمایش برای تقویت توان عملیاتی و پاسخ مشترک در حوزه‌های دریایی، هوایی و سایبری بهره می‌گیرند.\n\nرزمایش با وجود کاهش رزمایش دوجانبه «سپر آزادی اولچی» به دستور دونالد ترامپ، رئیس‌جمهوری آمریکا، طبق برنامه برگزار می‌شود.\n\nبر اساس گزارش‌ها، هیچ ناو هواپیمابر آمریکایی به دلیل جنگ جاری با جمهوری اسلامی در این رزمایش حضور ندارد.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229700",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/MFJZAOZ_KuyfxZwgkE6fB5jG4YklGbZkQKfh3qrjO5dV1oIQyI_hB3xypT0BHOKiUk9kR3ViSS-5dK4RfgiOBwTDvaEzPWB1dBNHCFKUGy1lMHGO5mzLPyeaq847Trds7azJcCW_SU__YwvhHjSIPspe4NTUoQl-8d8CJCTD_4tmcCk-ymPuI3RtXGQ1Vz1yWwy45EJA0axgHs_xYPIe-vIHiQPeWes9cLPhvOFCFBT1T1kC1BzGI5xbi0bsRQGSPXProkaZoWRU1w1JACKfhNjDHhJJhInU7zBeFhlNcc7UhkqT5eqf7yc6q1z8AbkwIO_MyP32HeppgXQt0Z5CYg.jpg",
-          "thumbnail_path": "channels/farsivoa/media/a96372fe21c9f622443ccf8d.jpg",
-          "thumbnail_sha256": "a8871e0e90d50dd7eebb948654e27ce286903682e009f93ab5d1df543a79b00e",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.88K",
-      "posted_at": "2026-09-07T08:21:47+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229700",
       "reply": null
     }
   ]
