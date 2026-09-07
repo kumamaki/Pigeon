@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T23:37:07.253Z",
+  "fetched_at": "2026-09-07T23:42:07.592Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229811",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "نشست شورای حقوق بشر سازمان ملل متحد در ژنو آغاز شده و وضعیت حقوق بشر در جمهوری اسلامی نیز در دستور کار این دوره قرار دارد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "نشست شورای حقوق بشر سازمان ملل متحد در ژنو آغاز شده و وضعیت حقوق بشر در جمهوری اسلامی نیز در دستور کار این دوره قرار دارد.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229811",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/dWewO2dPA5Ig2GQHVE8IQMRDhQVb8A87wtHDQ3OJ27BJWRd72mpDnXY55OP_N4JRIsxJwRW6P9cOqP5qYqOAx9M6bbhiiMiUzuLYLj_nqDVw-zyE0BH9gNGZRi3gVq9Dm7rzz_34k2M9AwWZGS2MuWUrM3g0Ubm3GJtS5VlLRGamreofw5_uGg-HvRbAcS2Sj-CEWXpaWtcrgdfTHz47X0VIh58LeWmc07zQYFDCpvCCzHtT1NIqVtRZdzMuHwUAgduPrrkkLm376QMm8NLa0nroS7m2mNj5a9s27GHSVdiw9vg5-rL2CxHAgNlGhFIvJoZWBJ6fDJut2no165lyZA",
+          "thumbnail_path": "channels/farsivoa/media/32a93ba2bd43a89120edaa35.jpg",
+          "thumbnail_sha256": "6065cb6359d8ac0a8f5134c097b6a990df5840826881da03341b8c03c2b70a79",
+          "duration_label": "3:20",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "66",
+      "posted_at": "2026-09-07T23:39:48+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229811",
+      "reply": null
+    },
     {
       "id": "farsivoa/229810",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "68",
+      "views_label": "172",
       "posted_at": "2026-09-07T23:33:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229810",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "341",
+      "views_label": "411",
       "posted_at": "2026-09-07T23:15:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229809",
@@ -77,7 +105,7 @@
       "plain_text": "🔺جمهوری اسلامی رسماً قیمت بنزین را افزایش داد و نیروهای سرکوب لباس شخصی را در اطراف جایگاه‌های سوخت مستقر کرد\n\n▪️جمهوری اسلامی بامداد سه‌شنبه ۱۷ شهریور قیمت بنزین موسوم به «سوخت سهمیه جایگاه‌ها» را به‌طور رسمی افزایش داد و نیروهای سرکوب را در اطراف پمپ‌بنزین‌ها مستقر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195211.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "512",
+      "views_label": "578",
       "posted_at": "2026-09-07T23:06:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229808",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "738",
+      "views_label": "773",
       "posted_at": "2026-09-07T22:50:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229807",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.3K",
+      "views_label": "1.33K",
       "posted_at": "2026-09-07T22:18:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229806",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.39K",
+      "views_label": "1.42K",
       "posted_at": "2026-09-07T22:10:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229805",
@@ -177,7 +205,7 @@
       "plain_text": "🔺خبرنگار سی‌بی‌اس: کامران حکمتی، شهروند آمریکایی از زندان اوین آزاد شد اما همچنان ممنوع‌الخروج است\n\n▪️مارگارت برنان، خبرنگار شبکه خبری سی‌بی‌اس آمریکا، روز دوشنبه ‍‍۱۶ شهریور اعلام کرد کامران حکمتی، شهروند دوتابعیتی ایرانی-آمریکایی، سه روز پیش از زندان اوین آزاد شده است، اما همچنان اجازه خروج از ایران را ندارد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195205.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.45K",
+      "views_label": "1.48K",
       "posted_at": "2026-09-07T22:03:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229804",
@@ -193,7 +221,7 @@
       "plain_text": "🔺سنتکام مسیر ۹۴ کشتی تجاری را در جریان محاصره دریایی علیه جمهوری اسلامی تغییر داده است\n\n▪️ستاد فرماندهی مرکزی آمریکا، سنتکام، روز دوشنبه اعلام کرد نیروهای آمریکایی تاکنون مسیر ۹۴ کشتی تجاری را در چارچوب اجرای موج دوم محاصره دریایی علیه جمهوری اسلامی تغییر داده‌اند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195203.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.56K",
+      "views_label": "1.6K",
       "posted_at": "2026-09-07T21:49:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229803",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.63K",
+      "views_label": "1.66K",
       "posted_at": "2026-09-07T21:39:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229801",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.82K",
+      "views_label": "1.85K",
       "posted_at": "2026-09-07T21:32:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229800",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.59K",
+      "views_label": "2.6K",
       "posted_at": "2026-09-07T20:56:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229799",
@@ -361,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.1K",
+      "views_label": "3.13K",
       "posted_at": "2026-09-07T20:31:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229797",
@@ -377,7 +405,7 @@
       "plain_text": "🔴📢‌ پادکست میدان - دوشنبه ۱۶ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از\nنسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه\nسبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "3.65K",
+      "views_label": "3.68K",
       "posted_at": "2026-09-07T19:54:30+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229796",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.74K",
+      "views_label": "3.77K",
       "posted_at": "2026-09-07T19:31:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229795",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.68K",
+      "views_label": "3.71K",
       "posted_at": "2026-09-07T19:24:59+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229794",
@@ -2579,34 +2607,6 @@
       "posted_at": "2026-09-07T08:21:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229700",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229699",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "۱۱ کشته در حملات اسرائیل به کفر رمان لبنان؛<br><br>حملات اسرائیل به شهرک کفر رمان در جنوب لبنان بامداد دوشنبه دست‌کم ۱۱ نفر را کشت.<br><br>بر پایه گزارش خبرگزاری ملی لبنان، جنگنده‌های اسرائیل اندکی پس از نیمه‌شب ساختمانی مسکونی را زدند و ۹ نفر کشته و پنج نفر زخمی شدند. حمله پهپادی جداگانه به خودرویی غیرنظامی در همان شهرک، دو امدادگر داخل خودرو را کشت.<br><br>روز یکشنبه نیز دست‌کم هفت نفر در حملات اسرائیل کشته شده بودند.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "۱۱ کشته در حملات اسرائیل به کفر رمان لبنان؛\n\nحملات اسرائیل به شهرک کفر رمان در جنوب لبنان بامداد دوشنبه دست‌کم ۱۱ نفر را کشت.\n\nبر پایه گزارش خبرگزاری ملی لبنان، جنگنده‌های اسرائیل اندکی پس از نیمه‌شب ساختمانی مسکونی را زدند و ۹ نفر کشته و پنج نفر زخمی شدند. حمله پهپادی جداگانه به خودرویی غیرنظامی در همان شهرک، دو امدادگر داخل خودرو را کشت.\n\nروز یکشنبه نیز دست‌کم هفت نفر در حملات اسرائیل کشته شده بودند.\n\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229699",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/S3BGPl50-oHQSy8tM57aLgg-KV8-N9bliZBukI6wwjHbwEP_J-6KeGWdK8olnGOqnovGrusBhmpw91vS8QpexlkQOSVzgRaDHmTPpTuCSGW62mPA_SR7r2fvkEugdxYk6JD5c1l_l1v-qxgzD3ICb-lkB6f1JLIoz5sPkAMQ6slyP87TsX3Nw_Og-WhKn7K9al2mKND7h1mvi5KvoJYAe-zTSai5wQPuBu2gu8WLC2x0NrfgduKMc3bnYF-qV3NYpmQmBa6Xhw02Cb63Cnjr-uSAXNRzeZAok0gt0Fwr9FF4JRjaob2i_muAfyGbozbX9-y5lVRnrsiHbJ0MhHtBKg",
-          "thumbnail_path": "channels/farsivoa/media/9ce47a7fc09f8596f2e890c0.jpg",
-          "thumbnail_sha256": "4afab31d83f2b8c69b48f1f4793e11317123aa3464cf4464977c80ca87e66cc8",
-          "duration_label": "0:30",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.88K",
-      "posted_at": "2026-09-07T08:02:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229699",
       "reply": null
     }
   ]
