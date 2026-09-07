@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T04:52:23.539Z",
+  "fetched_at": "2026-09-07T04:57:12.551Z",
   "channel": {
     "username": "followupiran",
     "title": "کمیته پیگیری وضعیت بازداشت‌شدگان",
@@ -59,8 +59,8 @@
           "asset_path": null,
           "asset_sha256": null,
           "thumbnail_url": "https://cdn1.telesco.pe/file/Efgpn8Q0LYERmygcYecodCjY66hwAKzRkmpRUO0TmFkAS7CZOHq6phvS8JuKRYfr0DGhrkuTDvqyGe8IbWeXerQqhS1LopYEbaOTI_tD43ZBc-WpVVFrpY71b9w6aEAHWbVCxmJ_WQCb6IxNnehd_0s-61UqHOsgbNrWGpc0f8RvEnmScGvd8Nq1QJrqya1MV6g7otZERQGukGkqBi24rK2J53qosABnLbZjxLk5EOuIOnvUl94dz-2BVlvvq8S_Gt1OBslQTQ3l8lMZyJ8Pm7DxHisGhxvqwK9dVf8wuDR62quZP-6RM3ZmZ9AFTXwQCJkAFYFsXi8bTXF028oEQw.jpg",
-          "thumbnail_path": null,
-          "thumbnail_sha256": null,
+          "thumbnail_path": "channels/followupiran/media/636b19b5ff04ae79de605747.jpg",
+          "thumbnail_sha256": "e05784d6e16e866cded6d2c5b832599740be2854496b260679089ae37a9f8496",
           "duration_label": null,
           "aspect_ratio": 0.8
         }

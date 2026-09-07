@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T04:52:21.718Z",
+  "fetched_at": "2026-09-07T04:57:10.373Z",
   "channel": {
     "username": "durov",
     "title": "Pavel Durov",
@@ -31,14 +31,14 @@
         },
         {
           "emoji": "💎",
-          "count": "4.3K"
+          "count": "4.32K"
         },
         {
           "emoji": "💎",
-          "count": "3.74K"
+          "count": "3.75K"
         }
       ],
-      "views_label": "617K",
+      "views_label": "619K",
       "posted_at": "2026-09-06T17:40:39+00:00",
       "edited": false,
       "permalink": "https://t.me/durov/547",
@@ -80,7 +80,7 @@
         },
         {
           "emoji": "💎",
-          "count": "6.07K"
+          "count": "6.08K"
         }
       ],
       "views_label": "1.65M",
@@ -568,8 +568,8 @@
           "asset_url": "https://t.me/durov/532",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/JnQjHU2_nK1P0OLSFat2Q83e8ForNWVqH-KYEy6DRHvPGhOwtROciRM3ZxTKs0vW8DBO6UFT0kH1qz2FVG_uCtbOi5fQHNppegJXDW4Sh7pukYH_f7DeqAO7hcLechHtUFh-DkGGTL94aq8GD8Hh4273wBJyO8fXWupjCZg80byqo5zjK__TxL_lFO7bSTfVHMRg7AIheyAx0pWsqpVezJg9nnmJcpa_590LFkUo09fquy8yGI06pWLYszyHFCWb8ZHAvtKAaPI4DTe-FHPSSL_LYc076cwnwMaaV_xuQgV2i6DhYjA9VwIBx96QU658auq5351HXebbpy1JXeFitQ",
-          "thumbnail_path": "channels/durov/media/fc03f2ececd62aaa481724e5.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/dz19S1znQ0kRlru5KbzsQfyy6QFROSUq0B7rzfV2xE7nSNYuAWrp0DP4J_n7UD56AddjHSZvrPnf7oXsO8ZWKmhLuPeqmLO0vUOMAUntKR0RG_zelyD3pXX6t0COIlBW3obDszvLR1ZWwrY541AvRiBtPKQrguYmGfxRUmo6A5kxdfXLwDyKRqxVJrLxa8oRrNPv9qhLPyvuxNYwZTElK66p6Gk119ps8ngY_dTvzkAajcjfgYFC83cXI2CQm8z5PmYP-oEXDAanJZwcxFdBjjCy8TG7ns9Ncy85pwpsJIhlS6huFOZHJlW2c5LMNzzUJFOP0QOM-KJ1AoU2kZ1X_Q",
+          "thumbnail_path": "channels/durov/media/7ca0a17af07e9f95b90deaea.jpg",
           "thumbnail_sha256": "c2b0204e3c9dc687288c6ef2960f38a248584015b78efc881d814f015ef79a0f",
           "duration_label": null,
           "aspect_ratio": 1
