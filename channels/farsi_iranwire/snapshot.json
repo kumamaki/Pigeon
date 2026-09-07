@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T21:07:07.306Z",
+  "fetched_at": "2026-09-07T21:12:04.269Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93469",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "صبح روز یکشنبه ۱۵ شهریور ماه، منازل سه خانواده بهایی در اصفهان، به نام‌های دهقانی، مظلومی و آقابابایی، به‌طور هم‌زمان مورد تفتیش نیروهای امنیتی قرار گرفت و برخی از وسایل شخصی ساکنان این منازل توقیف شد.<br>بازرسی این منازل چندین ساعت به طول انجامید و ماموران در جریان تفتیش، وسایل شخصی و اثاثیه خانه‌ها را به‌هم ریختند.<br>بر اساس این گزارش، ماموران علاوه بر کتب مذهبی، تمامی وسایل الکترونیکی موجود در منازل، از جمله کامپیوتر، لپ‌تاپ، تلفن‌های همراه و حتی تلویزیون را توقیف کردند. همچنین طلا و زیورآلات ساکنان نیز ضبط شد. بنا بر گزارش‌های دریافتی، ماموران حتی گردنبند از گردن و دستبند از دست برخی از ساکنان منازل خارج کرده و با خود بردند.<br><br><br>بیشتر بخوانید: <a href=\"https://iranwire.com/fa/news-1/157302\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157302</a><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "صبح روز یکشنبه ۱۵ شهریور ماه، منازل سه خانواده بهایی در اصفهان، به نام‌های دهقانی، مظلومی و آقابابایی، به‌طور هم‌زمان مورد تفتیش نیروهای امنیتی قرار گرفت و برخی از وسایل شخصی ساکنان این منازل توقیف شد.\nبازرسی این منازل چندین ساعت به طول انجامید و ماموران در جریان تفتیش، وسایل شخصی و اثاثیه خانه‌ها را به‌هم ریختند.\nبر اساس این گزارش، ماموران علاوه بر کتب مذهبی، تمامی وسایل الکترونیکی موجود در منازل، از جمله کامپیوتر، لپ‌تاپ، تلفن‌های همراه و حتی تلویزیون را توقیف کردند. همچنین طلا و زیورآلات ساکنان نیز ضبط شد. بنا بر گزارش‌های دریافتی، ماموران حتی گردنبند از گردن و دستبند از دست برخی از ساکنان منازل خارج کرده و با خود بردند.\n\n\nبیشتر بخوانید: https://iranwire.com/fa/news-1/157302\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93469",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/hr4HeluO1qibXqA0jFoIF5F2YFusq1Aj-JiZ-WIKG2peNOYsWr5wBhAaUQWPXfM1IhwSOmjS0czWbptqFz19s6NT6AOjHCD5Tw4qfNfYO8o74Xdhm_9Lc8NjsPKuxHMsPz14gSVc9y-BFrnu59SXa_2WovqM3EsMlDRIXTQ5QPLcIHJRTnAMZPWLYVOI2zZ9_Pg5CxVmU-PW1ruWnU50qjnjqyi9bHRafagXaG0a77K3woreh4jo5VpMGnnKMGzn2-Iaq9kJ8F7JkpYxYRPcUCeMnQ6NksBsI92-Ex1XAxDTeK8GBvzRQU_BZA42JNlwsXklaFQP8Deq_aCJf_MHoA.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/380386af0b5fd0b77ef4ec6f.jpg",
+          "thumbnail_sha256": "4950aeeeca1bfca383601fc18c4d33ae50695c31f4efff9e1f8342552bf31016",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "39",
+      "posted_at": "2026-09-07T21:09:13+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93469",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93468",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "150",
+      "views_label": "218",
       "posted_at": "2026-09-07T20:57:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93468",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "948",
+      "views_label": "983",
       "posted_at": "2026-09-07T19:29:53+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93466",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "952",
+      "views_label": "985",
       "posted_at": "2026-09-07T19:17:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93465",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "994",
+      "views_label": "998",
       "posted_at": "2026-09-07T19:00:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93464",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "920",
+      "views_label": "922",
       "posted_at": "2026-09-07T18:34:52+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93463",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "843",
+      "views_label": "875",
       "posted_at": "2026-09-07T18:30:58+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93462",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "985",
+      "views_label": "1.02K",
       "posted_at": "2026-09-07T17:21:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93460",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "993",
+      "views_label": "995",
       "posted_at": "2026-09-07T17:03:23+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93459",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.14K",
+      "views_label": "1.17K",
       "posted_at": "2026-09-07T14:58:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93456",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "995",
+      "views_label": "998",
       "posted_at": "2026-09-07T14:38:27+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93454",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.08K",
+      "views_label": "1.09K",
       "posted_at": "2026-09-07T14:01:44+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93452",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-05T07:34:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93367",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93366",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EmUP9mB5rt_E-ktfi7gsZJiU2Vg2Igy7ZYPwCUj5ZBNBwKSs_5STWybgkDUrOJ8Mf21eZIyZX1Az3KyjeThtIqmK00XzVEbMQyr4Rtqm3BijZmsPdRtLDWb7uCAuOYVGfriyYjsEeD9-i5W2gDSuIa3DhMv1wA1h89ViwCSNAsbSBBXCFCCpRLzR03zsSwFJpI2uSI2Ypew-4R4EEINKuBXLsu1m9siY-A0_Db8j3HxwgV0GuSEPB4zv5KfCaNPxjp4EaKGdI-IcXaIBcqZoOpDe26XPYVEQJMiRoikQH4QRpuY3i_p41FKCMmJLQel9Vz2g8emShtFRNit2tEGUQw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/c769a9c378fcf30292902ce1.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "فریدالدین حداد عادل، برادر همسر مجتبی خامنه‌ای، خبر از آن داد که او از خرداد۱۳۷۶ فعالیت‌های سیاسی را برعهده گرفته و حدود ۲۵ سال در امور سیاسی، امنیتی و نظامی دستیار علی خامنه‌ای بوده است.<br>حداد عادل در گفت‌وگویی با نشریه «خط»، متعلق به «خانه طلاب جوان»، جزییاتی درباره نقش مجتبی خامنه‌ای در دفتر پدرش و ارتباط او با فرماندهان ارشد نظامی بیان کرده است. متن کامل این مصاحبه را «عصر ایران» نیز منتشر کرده است.<br><br>بخوانید : <a href=\"https://iranwire.com/fa/news-1/157178\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157178</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "فریدالدین حداد عادل، برادر همسر مجتبی خامنه‌ای، خبر از آن داد که او از خرداد۱۳۷۶ فعالیت‌های سیاسی را برعهده گرفته و حدود ۲۵ سال در امور سیاسی، امنیتی و نظامی دستیار علی خامنه‌ای بوده است.\nحداد عادل در گفت‌وگویی با نشریه «خط»، متعلق به «خانه طلاب جوان»، جزییاتی درباره نقش مجتبی خامنه‌ای در دفتر پدرش و ارتباط او با فرماندهان ارشد نظامی بیان کرده است. متن کامل این مصاحبه را «عصر ایران» نیز منتشر کرده است.\n\nبخوانید : https://iranwire.com/fa/news-1/157178\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93366",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/gueSz7vFE_aDjDGEUx63NjcjwLI4J6LHIwmTooJapiTOeKUyMacI-8ctlS4LG_M-6UqlxMn0UVXVGcPVXBWB6ojKPU6X7bxxFKA5mhQZj5ifVWOuG-Wn9l7fJLjGVK1ig7SMhAiTLbpkg9XxrPSc-78ztluD2yXV2bCwQZhUsQek8dWvl-dBIX33R30yPQDMQYzTr6HYtBepWh8d-8FzpHBqYMzm0jfkTM2pjJKIQKfeiYuI3elF5vWDVvENsR5_ahuFOvNZRB0kXLDL0J5Miy6DgTJEN2k6Xcd6A3dvu0QjDBEarC3VZqUmy-bKmOkzaDRJtY142in-R6Cq33zIsQ.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/8ecac79f8b38b26b3b5b84df.jpg",
-          "thumbnail_sha256": "9c5afbe97fea559595b23e9cf1ea122d53e984d6630e2852822aecfa7e2709b6",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.04K",
-      "posted_at": "2026-09-05T07:29:15+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93366",
       "reply": null
     }
   ]
