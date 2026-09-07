@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T10:17:17.796Z",
+  "fetched_at": "2026-09-07T10:22:24.584Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12668",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/fMVnOc1uSucjuboT6V0k7ELXy0-AF7uXhfQKrT0ABzO4YzNvYVYnhQDl9twI5SD7s_WY23CPVzE1kCYrgwBE-c0afmMRE4w0x1v9fJg2JPujS6glrH0OikU9oZB7LN90gFgqsYvcd6hcSfUWJGw9K7p7qJGl0c1YSpXmSrRkUabxYJw4-0ABlI1K019Rc4i4hddSvcxPaBcfBxscaRfeZ2IAghENZ4crQZSKfSCyu-vReE4p-qu7FL3BVKVpjlewu9IH_c86Ie703hT2oR8BPw-_W35Ebf76o_in2_h7S0lirkU8mZyQ9oCUpBRTYO2xsEYmfY7qyRK21qYFBO7xfA.jpg",
+      "author_photo_path": "channels/iranlix/media/d6f23b233b51f82bbdb3cdba.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i><b>گزارش‌های میدانی از یمن حاکی است نیروهای دولتی این کشور روز دوشنبه کنترل پایگاه راهبردی «اللبنات» در استان الجوف را پس از درگیری با حوثی‌ ها( تروریستهای نیابتی ج.ا) به دست گرفتند.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "💢گزارش‌های میدانی از یمن حاکی است نیروهای دولتی این کشور روز دوشنبه کنترل پایگاه راهبردی «اللبنات» در استان الجوف را پس از درگیری با حوثی‌ ها( تروریستهای نیابتی ج.ا) به دست گرفتند.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/iranlix/12668",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/vPpxOsjN15CjyFM8DqNOxKjDgaNAOzW-FzVCOqT7fvnodyq5PrleXNIb1OkEwip91SjzgF8Jk4odMbTJTlLMnYuAYq7E_F7F6HzEh_WT0JKBjr50qf-IRuDPJWpR4YsVJsbpiBLUUyjjB463qAf-eSVizD-Jm8t2ImOEkPD5Fk2YleyXHE55Etd6RuUQCCmCt8cVrqDWx_C0Kf8GigL9tdOeW-5ZlwykMt1oxU2eITxPN_C9UXTb00d7aZlezOWJhjEgnqc4u_DHz90wsUHadRnrwXfLkJDhYKP0PV5W8Rad0XHE-uzUDf-yAm2v67wjm2CnxPFvcpVKhdywlRAs1w",
+          "thumbnail_path": "channels/iranlix/media/8c64df9f0b6fbdee1f508beb.jpg",
+          "thumbnail_sha256": "538524b9946f77ec892ce6af453f08629568bd5f11a8d247f4dfb906940e0ada",
+          "duration_label": "0:57",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "64",
+      "posted_at": "2026-09-07T10:17:52+00:00",
+      "edited": true,
+      "permalink": "https://t.me/iranlix/12668",
+      "reply": null
+    },
     {
       "id": "iranlix/12667",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "126",
+      "views_label": "157",
       "posted_at": "2026-09-07T10:06:00+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12667",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "342",
+      "views_label": "372",
       "posted_at": "2026-09-07T09:32:56+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12666",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "404",
+      "views_label": "434",
       "posted_at": "2026-09-07T09:22:23+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12665",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "460",
+      "views_label": "490",
       "posted_at": "2026-09-07T09:09:05+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12664",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "501",
+      "views_label": "531",
       "posted_at": "2026-09-07T08:50:58+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12663",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "601",
+      "views_label": "631",
       "posted_at": "2026-09-07T08:19:37+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12662",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "675",
+      "views_label": "705",
       "posted_at": "2026-09-07T07:43:56+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12661",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "629",
+      "views_label": "659",
       "posted_at": "2026-09-07T07:42:48+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12660",
@@ -409,7 +437,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.03K",
+      "views_label": "1.06K",
       "posted_at": "2026-09-07T03:23:35+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12653",
@@ -437,7 +465,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.08K",
+      "views_label": "1.11K",
       "posted_at": "2026-09-07T03:21:03+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12652",
@@ -474,7 +502,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.02K",
+      "views_label": "1.06K",
       "posted_at": "2026-09-07T03:19:38+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12651",
@@ -2848,34 +2876,6 @@
       "posted_at": "2026-09-04T20:19:38+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12567",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12566",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/VK7UxP3xK7XXY_E9qNcDJ9R-ugu8Kqr7hzd-V0Osm8FpZUxtY4hXl4rV0HsqaChh7d8JSJjgFWTh5WIRkwxmi-z7LWuC_etM9QCxqe6lmIh9aDtiHHDYBpAW0-0H_AVdL1YEM683dsoUj2w8l1NOtudtgUcDRAsQo1ZOQp_6nC8orT5o9026LgcHj_uJLQZ2u0tTjug-6Lhs-pJLX7MPK0tW3JQkNF4aE-MhuIPm6DDcI8Sw9TBAhYCXoWJqkUpgxeNNuaxB6X9jzyB0zY_R2x6tcaz8EDuoySW9KALS3r8g9tGuy9SUlSsE_QaNLXNdEWB7vVSlxHr5PIHEugIN4A.jpg",
-      "author_photo_path": "channels/iranlix/media/1fe3bf02c3c024640c615e89.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>وزارت امور خارجه ایالات متحده، فروش احتمالی دو محموله تسلیحاتی به عربستان سعودی به ارزش مجموعاً ۵.۷۵ میلیارد دلار را تایید کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i>این محموله‌ها شامل فروش تخمینی ۵ میلیارد دلاری موشک‌های هدایت‌شونده دقیق با برد افزایش‌یافته (JDAM-ER) است که شرکت بوئینگ پیمانکار اصلی آن خواهد بود، و همچنین فروش جداگانه‌ای به ارزش ۷۵۰ میلیون دلار از موتورهای تانک AGT-1500 است که شرکت هانی‌ول پیمانکار اصلی آن خواهد بود.<br></b><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "♦️وزارت امور خارجه ایالات متحده، فروش احتمالی دو محموله تسلیحاتی به عربستان سعودی به ارزش مجموعاً ۵.۷۵ میلیارد دلار را تایید کرده است.\n\n♦️این محموله‌ها شامل فروش تخمینی ۵ میلیارد دلاری موشک‌های هدایت‌شونده دقیق با برد افزایش‌یافته (JDAM-ER) است که شرکت بوئینگ پیمانکار اصلی آن خواهد بود، و همچنین فروش جداگانه‌ای به ارزش ۷۵۰ میلیون دلار از موتورهای تانک AGT-1500 است که شرکت هانی‌ول پیمانکار اصلی آن خواهد بود.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/12566",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/fXJpAF2u9dYtfCaySszTDf268F1Icwnlaza47T6-XcfRBr0PIRb8s69KmUCVyX4cl-egnNs9xZ1Z-9vwfywHoEDmvKg_c14UJFeg6QyqC7Eu_eJh1wZUS_rx8Vj8gFCumd3-GtrvYHO3D1O2RLefZz9doWHwOhkuIEwkPBYipvO2xlTK44mheZS8-TsdIsWEMty1v0kdigaEoaKSp1bEh3kLLd1qUF_lHENDFvHB-fo8-3_0vgY6sivz0j77Ul42mx-XbQ39MatVOR74QgKiTzvf1t3qCgAja4u_yh4tHJYVIWX83ndSmVX7GVCrcga9WUWs-BzDhoslbxCsS4upaw.jpg",
-          "thumbnail_path": "channels/iranlix/media/01ccddb34156f54c9bd81f95.jpg",
-          "thumbnail_sha256": "a74d0736decd71560af1f3eae6322b555e510869d739bb42fd7dc05f4b4eb7d1",
-          "duration_label": null,
-          "aspect_ratio": 1.5009380863039399
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.36K",
-      "posted_at": "2026-09-04T19:51:30+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12566",
       "reply": null
     }
   ]
