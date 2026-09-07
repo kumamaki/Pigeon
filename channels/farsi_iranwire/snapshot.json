@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T13:17:27.318Z",
+  "fetched_at": "2026-09-07T13:22:07.495Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93449",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "«انور قرقاش»، مشاور دیپلماتیک رییس امارات متحده عربی، گفته است روابط کارکردی با جمهوری اسلامی قابل ترمیم است، اما بازسازی اعتماد میان دو کشور ممکن است دهه‌ها طول بکشد.<br><br>قرقاش روز دوشنبه ۱۶شهریور۱۴۰۵، در سومین دوره «انجمن هیلی» «Hili Forum» در ابوظبی گفت: «رابطه کارکردی با ایران می‌تواند و باید بازسازی شود، اما بازسازی اعتماد مساله دیگری است.» <br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157275\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157275</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "«انور قرقاش»، مشاور دیپلماتیک رییس امارات متحده عربی، گفته است روابط کارکردی با جمهوری اسلامی قابل ترمیم است، اما بازسازی اعتماد میان دو کشور ممکن است دهه‌ها طول بکشد.\n\nقرقاش روز دوشنبه ۱۶شهریور۱۴۰۵، در سومین دوره «انجمن هیلی» «Hili Forum» در ابوظبی گفت: «رابطه کارکردی با ایران می‌تواند و باید بازسازی شود، اما بازسازی اعتماد مساله دیگری است.»\nبخوانید: https://iranwire.com/fa/news-1/157275\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93449",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/pDKvi2z2QjItreNQG9slK_FgmmAN7bnx6xsJYwtD7V8iSvZtum3nytq459-a2vLBgf2E2UnYKpJvrVPUpQdUod8uWc2FlcaJzkPFIAxUE23EzbZA02AGBF9OqeEnhMNZg_brz0wPlS_WyNdhj27CDnnheguO3WrmdSoZ-g451c_GAnxf_SaLdOjPOIyJJ1ZZFBTVag-hMQHoz0LKJHcBE7lYZqHHXog7eKhYHrjC807APq0-UPpf_frhzpMCfphunw602IO0IRV6WBR4ZSc1b751tRBz5-bDR49RtA-mF-hFGz6yQkMioQUWd7Y7gFAXSUqZR-4_47CAk9O2dvzlPw.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/0bf9b31bc7436e784bb3fac0.jpg",
+          "thumbnail_sha256": "7f6774bdbfe1929972a3a903a02bd302946f1df49d8eb545b57125c57a42a050",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "61",
+      "posted_at": "2026-09-07T13:17:56+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93449",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93448",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "68",
+      "views_label": "122",
       "posted_at": "2026-09-07T13:11:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93448",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "410",
+      "views_label": "437",
       "posted_at": "2026-09-07T12:20:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93447",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "475",
+      "views_label": "496",
       "posted_at": "2026-09-07T12:12:31+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93446",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "529",
+      "views_label": "541",
       "posted_at": "2026-09-07T12:00:27+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93445",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "502",
+      "views_label": "513",
       "posted_at": "2026-09-07T11:56:15+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93444",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "558",
+      "views_label": "568",
       "posted_at": "2026-09-07T11:44:43+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93443",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "722",
+      "views_label": "735",
       "posted_at": "2026-09-07T11:15:10+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93442",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "752",
+      "views_label": "760",
       "posted_at": "2026-09-07T10:55:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93441",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "698",
+      "views_label": "709",
       "posted_at": "2026-09-07T10:52:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93440",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "720",
+      "views_label": "729",
       "posted_at": "2026-09-07T10:45:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93439",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "678",
+      "views_label": "685",
       "posted_at": "2026-09-07T10:43:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93438",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "913",
+      "views_label": "920",
       "posted_at": "2026-09-07T09:53:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93437",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "855",
+      "views_label": "863",
       "posted_at": "2026-09-07T09:44:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93436",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1K",
+      "views_label": "1.01K",
       "posted_at": "2026-09-07T08:36:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93435",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "943",
+      "views_label": "945",
       "posted_at": "2026-09-07T08:00:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93433",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.05K",
+      "views_label": "1.06K",
       "posted_at": "2026-09-07T07:43:45+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93432",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-04T16:53:23+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93349",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93348",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EmUP9mB5rt_E-ktfi7gsZJiU2Vg2Igy7ZYPwCUj5ZBNBwKSs_5STWybgkDUrOJ8Mf21eZIyZX1Az3KyjeThtIqmK00XzVEbMQyr4Rtqm3BijZmsPdRtLDWb7uCAuOYVGfriyYjsEeD9-i5W2gDSuIa3DhMv1wA1h89ViwCSNAsbSBBXCFCCpRLzR03zsSwFJpI2uSI2Ypew-4R4EEINKuBXLsu1m9siY-A0_Db8j3HxwgV0GuSEPB4zv5KfCaNPxjp4EaKGdI-IcXaIBcqZoOpDe26XPYVEQJMiRoikQH4QRpuY3i_p41FKCMmJLQel9Vz2g8emShtFRNit2tEGUQw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/c769a9c378fcf30292902ce1.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "وزیر نفت دولت پزشکیان می‌گوید در جریان جنگ چهل روزه میان اسراییل و آمریکا با ایران و همچنین جنگ سوم که بر مناطق جنوبی ایران متمرکز بود تنها جزیره خارک بیش از «۵۵۰ مرتبه مورد حمله هوایی توسط آمریکا» قرار گرفته است.<br><br>«محسن پاک‌نژاد» می‌گوید با این‌وجود در سال ۱۴۰۵ و با آغاز محاصره دریایی تنگه هرمز، علیرغم محدودیت‌های ایجاد شده، فرایند «انتقال و فروش نفت هزاران کیلومتر دورتر از منطقه خلیج فارس عملیاتی شد.»<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157164\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157164</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "وزیر نفت دولت پزشکیان می‌گوید در جریان جنگ چهل روزه میان اسراییل و آمریکا با ایران و همچنین جنگ سوم که بر مناطق جنوبی ایران متمرکز بود تنها جزیره خارک بیش از «۵۵۰ مرتبه مورد حمله هوایی توسط آمریکا» قرار گرفته است.\n\n«محسن پاک‌نژاد» می‌گوید با این‌وجود در سال ۱۴۰۵ و با آغاز محاصره دریایی تنگه هرمز، علیرغم محدودیت‌های ایجاد شده، فرایند «انتقال و فروش نفت هزاران کیلومتر دورتر از منطقه خلیج فارس عملیاتی شد.»\nبخوانید: https://iranwire.com/fa/news-1/157164\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93348",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/raLZ9W2SuSMtpcUAdBomMIhwqIjfP8K86A0_Bd54uroRwZuKcbEskWCQubyqGCkfA9EoxWlQFSPZS1D_S8-AKJwSJfDRIYd74PtZjYbruOo7H-WnDA3L18ufF_FdfhNUfTOKXcyZ_I64fWCaHBlj6J6VRm959eAOE0v4XUJkJbJfTLADxVX8DFLa4-w7jU4iJXnUsoF27BOeooUAY9-XheWae8G0FGMArLd2w76l3JAboL2lEFNEKMidRWbBUtcDnNLA6yXG6rdLIilSnltaAFw3dO3gq46rtbp21_wy15HnA8Ai3WQljYICk17SXBzf5iuNzWUouhf1f5X88071Pg.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/85efb015a5258595fca5bf92.jpg",
-          "thumbnail_sha256": "2c8c923ac06081a292eea5caacd777a81a75dcd4ca04314dd589b7ee08d2abd0",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.59K",
-      "posted_at": "2026-09-04T16:12:23+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93348",
       "reply": null
     }
   ]
