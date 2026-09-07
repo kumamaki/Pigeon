@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T23:12:09.124Z",
+  "fetched_at": "2026-09-07T23:17:23.729Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12692",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/fMVnOc1uSucjuboT6V0k7ELXy0-AF7uXhfQKrT0ABzO4YzNvYVYnhQDl9twI5SD7s_WY23CPVzE1kCYrgwBE-c0afmMRE4w0x1v9fJg2JPujS6glrH0OikU9oZB7LN90gFgqsYvcd6hcSfUWJGw9K7p7qJGl0c1YSpXmSrRkUabxYJw4-0ABlI1K019Rc4i4hddSvcxPaBcfBxscaRfeZ2IAghENZ4crQZSKfSCyu-vReE4p-qu7FL3BVKVpjlewu9IH_c86Ie703hT2oR8BPw-_W35Ebf76o_in2_h7S0lirkU8mZyQ9oCUpBRTYO2xsEYmfY7qyRK21qYFBO7xfA.jpg",
+      "author_photo_path": "channels/iranlix/media/d6f23b233b51f82bbdb3cdba.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>دولت</b> <b>یمن وارد فاز درگیری گسترده با تروریستهای حوثی‌ها شده است</b>.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>در یمن چندین جبهه علیه تروریستهای حوثی در مناطق الجوف و مأرب تا البیضاء، الضالع، تعز و حدیده هم‌زمان فعال شده و نیروهای ضدحوثی در برخی مناطق پیشروی کرده‌اند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>نیروهای دولت یمن، قبایل محلی و نیروهای نزدیک به عربستان و امارات در این جبهه‌ها حضور دارند. هدف، افزایش فشار بر حوثی‌ها و عقب‌راندن آن‌ها از مناطق نزدیک به باب‌المندب است.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔻دولت یمن وارد فاز درگیری گسترده با تروریستهای حوثی‌ها شده است.\n\n🔹در یمن چندین جبهه علیه تروریستهای حوثی در مناطق الجوف و مأرب تا البیضاء، الضالع، تعز و حدیده هم‌زمان فعال شده و نیروهای ضدحوثی در برخی مناطق پیشروی کرده‌اند.\n\n🔹نیروهای دولت یمن، قبایل محلی و نیروهای نزدیک به عربستان و امارات در این جبهه‌ها حضور دارند. هدف، افزایش فشار بر حوثی‌ها و عقب‌راندن آن‌ها از مناطق نزدیک به باب‌المندب است.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/12692",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/L_4ZHHvI0ze_Zhp9MpdpcIW45xNQfpfxBGPtqRPuGNhk4gg5lo8M7sTN4KfFkHZLQzEo4SUR69z7Mg7aQZjI9CRswjNK50XE8WD_oR-9SE1qIwy-BkSJ86o13B7CE4ukkPxbOPrqzDjTzEItt8gPMgTPkKOlRJvZpOWKCCoccQzu7mW_ucvni6vHaCKdlz0BilUNR2kj9f13UU-gIyGlH53E3TbFNeqWCV6JpEaI9LoSI_SQUqJM74ugX_Gw9-hIy345p4uiqsDVWhHD3kFNJIPnCGBhPMCQL1T_b5YeW408cgTAr9Wb8rP0MUaqIbqAIanP8KQATcQnimYMxoBCrA.jpg",
+          "thumbnail_path": "channels/iranlix/media/b65091f8d13848bed9447e19.jpg",
+          "thumbnail_sha256": "182f0b6eaa56122e4bf715f2d5475e1072b7496971ad74af1835eca98670d7bf",
+          "duration_label": null,
+          "aspect_ratio": 1.5238095238095237
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-07T23:16:37+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12692",
+      "reply": null
+    },
     {
       "id": "iranlix/12691",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "419",
+      "views_label": "432",
       "posted_at": "2026-09-07T21:28:38+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12691",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "681",
+      "views_label": "687",
       "posted_at": "2026-09-07T20:43:20+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12690",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "919",
+      "views_label": "923",
       "posted_at": "2026-09-07T19:47:50+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12689",
@@ -296,7 +324,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.12K",
+      "views_label": "1.13K",
       "posted_at": "2026-09-07T16:32:32+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12681",
@@ -402,7 +430,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.18K",
+      "views_label": "1.19K",
       "posted_at": "2026-09-07T14:36:04+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12676",
@@ -2892,34 +2920,6 @@
       "posted_at": "2026-09-05T12:37:33+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12587",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12586",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/VK7UxP3xK7XXY_E9qNcDJ9R-ugu8Kqr7hzd-V0Osm8FpZUxtY4hXl4rV0HsqaChh7d8JSJjgFWTh5WIRkwxmi-z7LWuC_etM9QCxqe6lmIh9aDtiHHDYBpAW0-0H_AVdL1YEM683dsoUj2w8l1NOtudtgUcDRAsQo1ZOQp_6nC8orT5o9026LgcHj_uJLQZ2u0tTjug-6Lhs-pJLX7MPK0tW3JQkNF4aE-MhuIPm6DDcI8Sw9TBAhYCXoWJqkUpgxeNNuaxB6X9jzyB0zY_R2x6tcaz8EDuoySW9KALS3r8g9tGuy9SUlSsE_QaNLXNdEWB7vVSlxHr5PIHEugIN4A.jpg",
-      "author_photo_path": "channels/iranlix/media/1fe3bf02c3c024640c615e89.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>روزنامه‌نگار سعودی:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>ده‌ها خاخام در داخل کاخ سفید جلسه‌ای محرمانه با رئیس‌جمهور ترامپ برگزار کردند و خاخام‌ها در حال خروج دیده شدند<br></b><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i><b>رسانه‌ها از ورود یا پوشش این جلسه که غیرمعمول توصیف شد، منع شدند.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔻روزنامه‌نگار سعودی:\n\n🔹ده‌ها خاخام در داخل کاخ سفید جلسه‌ای محرمانه با رئیس‌جمهور ترامپ برگزار کردند و خاخام‌ها در حال خروج دیده شدند\n\n🔹رسانه‌ها از ورود یا پوشش این جلسه که غیرمعمول توصیف شد، منع شدند.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/iranlix/12586",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/JKdQErtdqPtbNFMzEKzCN-3f96UsYcf5XKfFfFGvOEuPPIAUrWhg3yl1A8H6Al_wP9uj1XpCWylyAU4tHVS_EhpZg8xSlotwTjk0Le1aZ3aP4naOTmvtSxUJowkevS6DTfmZijaGomuiAYNTv39c-znm_bIDFSQ2p4U4Ps3YCEW6PnKUbcc3G0AQrDeVRGOajFzgXEMsHf3uLX9V7U7K4i81y7Kg7uql_e8L66uga2hsReKmY9NbOleCZL4XmBLOx40s9wdQ5x-qk-0FDRVap2WnzyQ3cEW56Uvx43VmrtFqrwHhUVEbe5ddDtwmcazjS6sOiAtrQrYHNLm9Hid3_w",
-          "thumbnail_path": "channels/iranlix/media/41b9d645ff80c0f5e0409ecf.jpg",
-          "thumbnail_sha256": "a8bdfab86679b3e2f9470da4e11f63dc50da18f8684fa1bcb1ab2458eadfd4ca",
-          "duration_label": "0:56",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.14K",
-      "posted_at": "2026-09-05T12:05:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12586",
       "reply": null
     }
   ]
