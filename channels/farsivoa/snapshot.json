@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T09:17:10.788Z",
+  "fetched_at": "2026-09-07T09:22:11.030Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229704",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "ویدیوی منتسب به توقف تردد کامیون‌های ایرانی در مرز پاکستان؛<br><br>گزارش‌های غیر رسمی حاکی از آن است که پاکستان از ورود کامیون‌های تجاری ایران به خاک خود در مرز مشترک دو کشور جلوگیری کرده است.<br><br>در صورت تأیید رسمی این رویداد، این اقدام می‌تواند نشانه‌ای از آغاز موج جدید اجرای سخت‌گیرانه‌تر تحریم‌های بین‌المللی علیه جمهوری اسلامی باشد.<br><br>پیشتر اسکات بسنت، وزیر خزانه‌داری آمریکا راهبرد ایالات متحده را یک «ضربه چپ و راست» شامل محاصره دریایی و «سخت‌ترین تحریم‌های تاریخ» توصیف کرده و گفته بود این اقدامات با هدف تشدید فشار بر جمهوری اسلامی اجرا می‌شود.<br><br>دولت پرزیدنت ترامپ همچنین به کشورهایی که به حکومت ایران امکان دور زدن انزوای اقتصادی بدهند هشدار داده است که دچار پیامدهای تنبیهی اقتصادی خواهند شد.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "ویدیوی منتسب به توقف تردد کامیون‌های ایرانی در مرز پاکستان؛\n\nگزارش‌های غیر رسمی حاکی از آن است که پاکستان از ورود کامیون‌های تجاری ایران به خاک خود در مرز مشترک دو کشور جلوگیری کرده است.\n\nدر صورت تأیید رسمی این رویداد، این اقدام می‌تواند نشانه‌ای از آغاز موج جدید اجرای سخت‌گیرانه‌تر تحریم‌های بین‌المللی علیه جمهوری اسلامی باشد.\n\nپیشتر اسکات بسنت، وزیر خزانه‌داری آمریکا راهبرد ایالات متحده را یک «ضربه چپ و راست» شامل محاصره دریایی و «سخت‌ترین تحریم‌های تاریخ» توصیف کرده و گفته بود این اقدامات با هدف تشدید فشار بر جمهوری اسلامی اجرا می‌شود.\n\nدولت پرزیدنت ترامپ همچنین به کشورهایی که به حکومت ایران امکان دور زدن انزوای اقتصادی بدهند هشدار داده است که دچار پیامدهای تنبیهی اقتصادی خواهند شد.\n\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229704",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/KhzGqTJGuwmsXjqYJkih5XgrEaMNYQ7lunJHCx5SuxfdIpu60P5dqQh-iJq2O4UaUW79_j0gagv9hJp3_4yPsJZOJ4kpCyeIb6Wv75wsD0R1zhVIuvaJU9nu7lEtFQ3YfJt26oI092_hkmMyhJfC7vjQNvlSq_BsDVvt8KY2DfvXYE67_qFcNKBB8imMHk9_fd3ZQSNl-U-Q9BKv8DI7p18Ai-by499Rqq9STj48Sown3etrCi9pljlWcf_sorxJYDeqLBna1IEo2IxXaoTQu32H3CdZwjIXQLdI8d01OpHYcFUNat77v-hBmpr3vXhczj-qUhNxBLjxgUT7UHTuRw",
+          "thumbnail_path": "channels/farsivoa/media/5b04c7dbdd9887f9f4a21f03.jpg",
+          "thumbnail_sha256": "91ed01c7cc4b5dfd2c6cdbcbcb4ee85724a30d288e2bd1d4a3b5be7aa9cddd57",
+          "duration_label": "1:21",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "158",
+      "posted_at": "2026-09-07T09:19:09+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229704",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229703",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺دو فوتبالیست زن ایرانی پناهنده: به کشتن مردم توسط حکومت اعتراض داشتیم\n\n▪️دو عضو تیم ملی فوتبال زنان ایران که در استرالیا پناهندگی گرفتند، تأیید کردند خودداری‌شان از خواندن سرود ملی در جام ملت‌های آسیا اعتراض به جمهوری اسلامی بود.\n\n▪️عاطفه رمضانی‌صادق ۳۴ ساله و فاطمه پسندیده ۲۲ ساله نخستین گفت‌وگوی رسانه‌ای خود را با برنامه «۶۰ دقیقه» شبکه ۹ استرالیا انجام دادند. در این مصاحبه که روز یکشنبه پخش شد آنها نسبت به کشته شدن مردم معترض به دست جمهوری اسلامی اعتراض کردند.\n\n▪️در همین رابطه رمضانی‌صادق گفت: «فقط می‌خواستیم کنار مردممان بایستیم. گاهی می‌ترسیدم، اما تلاش کردم کار درست را انجام دهم و بگویم هیچ‌کس نباید صرفاً برای اعتراض کشته شود.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/iranian-soccer-players-who-sought-asylum-in-australia-say-anthem-silence-was-protest/8195031.html",
       "media": [],
       "reactions": [],
-      "views_label": "829",
+      "views_label": "1.02K",
       "posted_at": "2026-09-07T08:58:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229703",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "952",
+      "views_label": "1.11K",
       "posted_at": "2026-09-07T08:50:14+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229702",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.24K",
+      "views_label": "1.33K",
       "posted_at": "2026-09-07T08:33:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229701",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.45K",
+      "views_label": "1.51K",
       "posted_at": "2026-09-07T08:21:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229700",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.73K",
+      "views_label": "1.8K",
       "posted_at": "2026-09-07T08:02:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229699",
@@ -149,7 +177,7 @@
       "plain_text": "🔺کانادا بر توقف اقدامات بی‌ثبات‌کننده جمهوری اسلامی تأکید کرد\n\n▪️وزیر امور خارجه کانادا، با محکوم کردن اقدامات بی‌ثبات‌کننده جمهوری اسلامی تصریح کرد که جمهوری اسلامی باید فوراً تهدیدها در تنگه هرمز، فعالیت‌های هسته‌ای غیرقانونی و حمایت از گروه‌های نیابتی را متوقف کند.\n\n▪️آنیتا آناند تصریح کرد: «تهدیدهای ایران در تنگه هرمز، فعالیت‌های هسته‌ای غیرقانونی و حمایت آن از گروه‌های نیابتی منطقه‌ای، همچنان صلح و امنیت جهانی را تضعیف می‌کند و این اقدامات باید پایان یابند.»\n\n▪️او به بیانیه‌ای مشترک با وزیر دارایی کانادا، اشاره کرد که در آن «اقدامات کانادا و شرکایش برای حفظ فشار بر ایران، و تلاش‌ها برای مختل کردن توانایی ایران در تأمین مالی فعالیت‌های تروریستی» تشریح شده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/canada-condemns-iran-s-destabilizing-actions-in-the-middle-east/8195030.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.76K",
+      "views_label": "1.79K",
       "posted_at": "2026-09-07T07:57:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229698",
@@ -165,7 +193,7 @@
       "plain_text": "🔺احتمال خاموشی در زمستان؛ معاون وزیر نیرو از «سال دشوار» خبر داد\n\n▪️معاون برق و انرژی وزارت نیرو هشدار داد کشور به دلیل ناترازی باقی‌مانده در بخش گاز و آسیب‌های وارد‌شده به زنجیره تأمین سوخت، احتمالاً سال دشواری را در پیش دارد.\n\n▪️مصطفی رجبی مشهدی این موضوع را در گفت‌وگو با روزنامه ایران گفت و تاکید کرد نیروگاه‌های حرارتی در زمستان برای تولید برق وابستگی بالایی به گاز دارند. رسانه‌ها با اتکا بر اعتراف معاون وزیر نیرو از احتمال بروز خاموشی در زمستان خبر داده و نوشتند بحران تامین انرژی در کشور حادتر خواهد شد.\n\n▪️در صورت کمبود گاز، نیروگاه‌ها ممکن است ناچار به استفاده بیشتر از سوخت‌های مایع شوند؛ اقدامی که افزون بر دشواری تأمین و حمل، آثار زیست‌محیطی نیز به همراه دارد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/deputy-minister-of-energy-warns-of-difficult-year-and-possibility-of-winter-blackout/8195028.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.83K",
+      "views_label": "1.89K",
       "posted_at": "2026-09-07T07:47:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229697",
@@ -193,7 +221,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.92K",
+      "views_label": "1.96K",
       "posted_at": "2026-09-07T07:37:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229696",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.02K",
+      "views_label": "2.05K",
       "posted_at": "2026-09-07T07:27:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229695",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.06K",
+      "views_label": "2.09K",
       "posted_at": "2026-09-07T07:16:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229694",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.09K",
+      "views_label": "2.16K",
       "posted_at": "2026-09-07T07:04:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229693",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.21K",
+      "views_label": "2.25K",
       "posted_at": "2026-09-07T06:53:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229692",
@@ -321,7 +349,7 @@
       "plain_text": "🔺وزیر انرژی آمریکا: با حصر دریایی یا جمهوری اسلامی عوض می‌شود یا سیاست‌هایش\n\n▪️وزیر انرژی آمریکا، گفت ممکن است توافق هسته‌ای با جمهوری اسلامی به دست نیاید و راه‌حل صرفاً نابود کردن توان جمهوری اسلامی باشد. او همچنین گفت که محاصره دریایی بنادر ایران «یا حکومتشان را تغییر می‌دهد یا سیاست‌های حکومت را».\n\n▪️کریس رایت، روز یکشنبه گفت: «شاید توافق هسته‌ای وجود نداشته باشد. شاید صرفاً نابود کردن توانمندی‌های آنان برای انجام آن باشد. توافق ممکن است در انتظار دولت بعدی در ایران بماند. ما به‌سادگی نمی‌دانیم.»\n\n▪️او افزود: «ما توان آنان برای توسعه سلاح هسته‌ای و در نهایت پرتاب آن در صورت توسعه را تضعیف می‌کنیم. این تلاشی ۴۷ ساله است. کار کوچکی نیست، اما آمریکا کار را به سرانجام می‌رساند.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195027.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.34K",
+      "views_label": "2.38K",
       "posted_at": "2026-09-07T06:42:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229691",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.58K",
+      "views_label": "2.61K",
       "posted_at": "2026-09-07T06:27:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229690",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.81K",
+      "views_label": "2.85K",
       "posted_at": "2026-09-07T05:59:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229688",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.86K",
+      "views_label": "2.89K",
       "posted_at": "2026-09-07T05:48:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229687",
@@ -449,7 +477,7 @@
       "plain_text": "🔺کارزار اقتصادی آمریکا اهرم فشار جمهوری اسلامی در تنگه هرمز را تضعیف کرده است\n\n▪️شش ماه پس از آغاز جنگ، تشدید تحریم‌ها و محاصره دریایی توسط ایالات متحده فشار فزاینده‌ای بر جمهوری اسلامی وارد آورده، و به گفته منابع ایرانی و منطقه‌ای، توان رژیم ایران برای استفاده از تنگه هرمز به عنوان اهرمی در برابر آمریکا را کاهش داده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/president-trump-economic-pressure-iran-hormuz-leverage/8195025.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.82K",
+      "views_label": "2.86K",
       "posted_at": "2026-09-07T05:39:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229686",
@@ -2394,22 +2422,6 @@
       "posted_at": "2026-09-06T11:53:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229604",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229603",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/cQgmNvY74QjMaJtRlGlAgwARq80-ngAFt95OGdUvawYpXRlgX1I0clW8a36_0wg0KQW01LJ0WQu9BqpST7mohIffbNUFA69ex-Lkf6Uxm-tRC9fnRtAzxAzkh0gbyyb0gskR6k6eYyyxmBrreDKOZ3GI717bPZ9fXIO5OPouQSOk6lXWlHM6cd2P_frgT1Wg5WzirdR4Wrxa3cFM5EbbDLoQnZesAGGbAJQC-7-_M1BM1x6rMu_j7_nT_BryWHEWoQu34Hwt3C5O6uTaZY0PWF5cpl7--mPsz-xFvsqjpvn05avmOnilCpREWkKLcCK4OERe7ekk1gf0pDPtLCNTyg.jpg",
-      "author_photo_path": "channels/farsivoa/media/0abbb3eafc2bacb0efcb50a7.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>زلنسکی: روس‌ها به هیئت آمریکایی اجازه ندادند با هواپیما وارد کی‌یف شوند<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>رئیس‌جمهوری اوکراین اعلام کرد که نیروهای روسیه با انجام حملات هوایی عمدی علیه مراکز هوایی این کشور، مانع از پرواز مستقیم هیئت آمریکایی به اوکراین شدند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>ولودیمیر زلنسکی در جریان دیدار با استیو ویتکاف و جرد کوشنر، فرستادگان ویژه ایالات متحده، اظهار داشت: «روس‌ها به هیئت آمریکایی اجازه ورود با هواپیما را ندادند، اگرچه فرودگاه‌های ما آماده بودند.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>شامگاه شنبه، روسیه موج عظیمی از پهپادها و موشک‌ها را به سمت فرودگاه بین‌المللی کی‌یف و فرودگاه بین‌المللی بوریسپیل شلیک کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>زلنسکی این حملات را «حملات نمایشی» نامید که مستقیماً در واکنش به آماده‌سازی اوکراین برای استقبال از فرستادگان ایالات متحده انجام شد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8194732.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8194732.html</a>",
-      "plain_text": "🔺زلنسکی: روس‌ها به هیئت آمریکایی اجازه ندادند با هواپیما وارد کی‌یف شوند\n\n▪️رئیس‌جمهوری اوکراین اعلام کرد که نیروهای روسیه با انجام حملات هوایی عمدی علیه مراکز هوایی این کشور، مانع از پرواز مستقیم هیئت آمریکایی به اوکراین شدند.\n\n▪️ولودیمیر زلنسکی در جریان دیدار با استیو ویتکاف و جرد کوشنر، فرستادگان ویژه ایالات متحده، اظهار داشت: «روس‌ها به هیئت آمریکایی اجازه ورود با هواپیما را ندادند، اگرچه فرودگاه‌های ما آماده بودند.»\n\n▪️شامگاه شنبه، روسیه موج عظیمی از پهپادها و موشک‌ها را به سمت فرودگاه بین‌المللی کی‌یف و فرودگاه بین‌المللی بوریسپیل شلیک کرد.\n\n▪️زلنسکی این حملات را «حملات نمایشی» نامید که مستقیماً در واکنش به آماده‌سازی اوکراین برای استقبال از فرستادگان ایالات متحده انجام شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8194732.html",
-      "media": [],
-      "reactions": [],
-      "views_label": "2.86K",
-      "posted_at": "2026-09-06T11:43:00+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229603",
       "reply": null
     }
   ]
