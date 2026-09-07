@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T20:27:11.001Z",
+  "fetched_at": "2026-09-07T20:32:10.968Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -11,6 +11,59 @@
     "subscriber_count": "217K"
   },
   "posts": [
+    {
+      "id": "sahamnewsorg/147145",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/642684be024870091c2036fb.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>نیال کریمی، پدر امیرمحمد کریمی، از جان‌باختگان اعتراضات دی‌ماه در مرودشت، روز ۱۵ شهریور به زندگی خود پایان داد. دو روز پیش هم آیدا حیدری نامزد یکی دیگر از جان‌باختگان اعتراضات دیماه به زندگی خودش پایان داد./یغما فشخامی<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅نیال کریمی، پدر امیرمحمد کریمی، از جان‌باختگان اعتراضات دی‌ماه در مرودشت، روز ۱۵ شهریور به زندگی خود پایان داد. دو روز پیش هم آیدا حیدری نامزد یکی دیگر از جان‌باختگان اعتراضات دیماه به زندگی خودش پایان داد./یغما فشخامی\n\n@Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "1.25K",
+      "posted_at": "2026-09-07T20:30:48+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/147145",
+      "reply": {
+        "channel_username": "sahamnewsorg",
+        "post_id": "147144",
+        "author_name": "سهام نیوز",
+        "preview_text": "✅آیدا حیدری نامزد ابوالفضل سلیمانی که هشت ماه پیش در کشتار ۱۸ دی به قتل رسیده بود به زندگی خود پایان داد این دو جوان قرار بود این ماه مراسم ازدواج خود را برپا کنند @Sahamnewsorg",
+        "thumbnail_url": "https://cdn4.telesco.pe/file/iFJyImf_6eY8gFZF1eM1yG5dT51qZz4j_Ljw_o6iSnuh_zZRr7ENA0HPZ0v5Q_I39lcXda9iW6tpScD2JLKnrsULYMFJBULkSQsTK9XuG7WwkxNlYWiSvVDtn5OTxj3rtkIAcaKaBwleLn8CketjZ1zzY7h8NltZXCuOQeav1YopJmQTBz8D7IeIeuubemCZVurlnmoWViBoKULWgnOq3q2hkaY_t0uATEj9OKyaDyyaABo6ET_Gn4abN79nzBtOEQh6CrGUbuP8FeqZ4g-HFq9-qXovR8go6U4z-_aV7YwzQ80lVI65uzB9EBH73ZJ8mZYhqzRMoaq_jKU0l4kbuA.jpg",
+        "thumbnail_path": "channels/sahamnewsorg/media/29cec41aec6a9e48c50b9e72.jpg",
+        "thumbnail_sha256": "22a05cd0eb7e2a2561c89590f2710e676acee04bc8f7bdb4dda0df16b6473420",
+        "permalink": "https://t.me/sahamnewsorg/147144"
+      }
+    },
+    {
+      "id": "sahamnewsorg/147144",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/642684be024870091c2036fb.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>آیدا حیدری نامزد ابوالفضل سلیمانی که هشت ماه پیش در کشتار ۱۸ دی به قتل رسیده بود به زندگی خود پایان داد<br><br>این دو جوان قرار بود این ماه مراسم ازدواج خود را برپا کنند<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅آیدا حیدری نامزد ابوالفضل سلیمانی که هشت ماه پیش در کشتار ۱۸ دی به قتل رسیده بود به زندگی خود پایان داد\n\nاین دو جوان قرار بود این ماه مراسم ازدواج خود را برپا کنند\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/147144",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/kKS3KLe7ZX6408UU05i-JDKbHFDJrzkp_v-Fds2sQsG9GLaBUS9TUdCPamaELHP2NLeLL_q0dSPLaTTKKL9XBk67Ni9jfnT8zJdRnOPMvaKS_FWVsQC-LAgI3tSOjNWtXlv4041Y4sKsyny_1ngwh234f_AFGpVW2XtdPQewtGnm1jRg8onen5-V58ZatLSjN5LwkHCELFX4TRVeuKS6u0FDPK7gZ4H0bsqBq-T6uhbVlSF-sIrlbURvz2jKMdsRPNh361ekPK1FhE8oPZmiQXWFgd-M0-L_txLQ-QthTSR6rkxq593YUTiKrP2m9AEwa8z2XrclIDJbFgdr_Tzk9Q.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/22059caa1abfa3d69cb31474.jpg",
+          "thumbnail_sha256": "ea91dc071b08c337dbb1e6195008e9b6525b2f843c938f57a3c977411bfa5fb7",
+          "duration_label": null,
+          "aspect_ratio": 0.8574999999999947
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.48K",
+      "posted_at": "2026-09-07T20:29:08+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147144",
+      "reply": null
+    },
     {
       "id": "sahamnewsorg/147143",
       "author_name": "سهام نیوز",
@@ -33,7 +86,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.7K",
+      "views_label": "12.3K",
       "posted_at": "2026-09-07T19:58:40+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147143",
@@ -49,7 +102,7 @@
       "plain_text": "✅چرا اخبار یمن مهمه؟\n\nچون اگه کنترل حوثی‌ها از جنوب غربی یمن که مسلط به تنگه باب المندب هست برداشته بشه کار برای صادرات نفت عربستان بدون نیاز به تنگه هرمز راحت میشه و دیگه چالشی از این بابت وجود نداره و کارت تنگه هرمز برای ایران کمرنگ میشه\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "17.6K",
+      "views_label": "18.9K",
       "posted_at": "2026-09-07T19:41:42+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147142",
@@ -74,7 +127,7 @@
       "plain_text": "✅طارق صالح، عضو شورای رهبری یمن:\nحملات زمینی و هوایی را در تمام جبهه های شمال، شرق و جنوب یمن بر علیه حوثی ها آغاز کردیم\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "19.2K",
+      "views_label": "20.4K",
       "posted_at": "2026-09-07T19:35:34+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147141",
@@ -102,7 +155,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22K",
+      "views_label": "23.3K",
       "posted_at": "2026-09-07T19:25:22+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147140",
@@ -130,7 +183,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.3K",
+      "views_label": "25.2K",
       "posted_at": "2026-09-07T19:17:16+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147139",
@@ -158,7 +211,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33K",
+      "views_label": "33.7K",
       "posted_at": "2026-09-07T18:47:26+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147138",
@@ -174,7 +227,7 @@
       "plain_text": "✅محمد مهاجری: آقای پزشکیان برکناری حداقل۳ وزیر ناتراز حتی در شرایط جنگی به سود کشور است.\n\nاما اگر نگرانید مجلس در رای‌اعتماد،بازی در بیاورد، برای این وزیران ضعیف، قائم‌مقام با اختیار کامل منصوب کنید.\n\nحفظ مدیران ضعیف نه اخلاق‌مداری است،نه وفاق.\nدر این روزهای سخت رودربایستی را کنار بگذارید.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "32.5K",
+      "views_label": "33.1K",
       "posted_at": "2026-09-07T18:37:19+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147137",
@@ -202,7 +255,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.2K",
+      "views_label": "35.8K",
       "posted_at": "2026-09-07T18:26:49+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147136",
@@ -230,7 +283,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.4K",
+      "views_label": "40.1K",
       "posted_at": "2026-09-07T17:55:32+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147135",
@@ -258,7 +311,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.3K",
+      "views_label": "40.6K",
       "posted_at": "2026-09-07T17:37:44+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147134",
@@ -286,7 +339,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.9K",
+      "views_label": "40.5K",
       "posted_at": "2026-09-07T17:33:46+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147133",
@@ -314,7 +367,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "43.4K",
+      "views_label": "43.7K",
       "posted_at": "2026-09-07T17:14:47+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147132",
@@ -342,7 +395,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.3K",
+      "views_label": "47.7K",
       "posted_at": "2026-09-07T15:32:31+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147131",
@@ -358,7 +411,7 @@
       "plain_text": "✅شیخ! بهتر نبود از اف ۴ شروع می‌کردید؟\n\n✍️مازیار اوستا\nخسروپناه، دبیر شورای انقلاب فرهنگی:\nامروز همه نهادهای ما باید پهپاد بسازند؛ پهپادی که اف‌۳۵ را بزند.\n\nمملکت به چه بدبختی گرفتار شده که کسی که کوچکترین آشنایی با فرهنگ ندارد شده دبیر شورای عالی فرهنگی! و همین فرد بدون هیچ تخصص نظامی، در این زمینه هم وارد شده دستور ساخت پهباد، آنهم  پهبادی که اف۳۵  بزند می دهد!\n\nشیخ از قدیم گفتند :«گنجشکی که انجیر می خوره نوکش کجه» !\nشما قیمت دلار را دو روز ثابت نگه دار! پهباد اف۳۵ زن پیشکش!\n\nدر ضمن شیخ! هنوز در دنیا  آنها که دانش ساخت هواپیما دارند، هواپیمایی که اف ۳۵ شکار کنه نساخته اند! بعد جنابعالی میخوای در مثلا اداره ثبت یا دارایی  پهبادی بسازی که  اف۳۵ پنج بزند؟\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "53.8K",
+      "views_label": "54.1K",
       "posted_at": "2026-09-07T14:19:53+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147130",
@@ -395,7 +448,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50.7K",
+      "views_label": "51.1K",
       "posted_at": "2026-09-07T14:04:40+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147129",
@@ -411,7 +464,7 @@
       "plain_text": "✅بلومبرگ:آمریکا قصد دارد امروز پرونده هسته‌ای ایران را به شورای امنیت سازمان ملل متحد ارجاع دهد\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "49.8K",
+      "views_label": "50.1K",
       "posted_at": "2026-09-07T13:56:02+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147128",
@@ -2312,62 +2365,6 @@
         "thumbnail_sha256": null,
         "permalink": "https://t.me/sahamnewsorg/147042"
       }
-    },
-    {
-      "id": "sahamnewsorg/147044",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LEPulZgNyRXQYUH9pl6txwmy1HaX1HDx2Vj1MUZOEH08i10zaO4aZhruOq7e7tuCrDtlLu1KCqgj2aEt5We72kVXaPWY26ewl5sw9d3G7ezGzPfjPB-4pQM-cGqEAZhmN8PmaDxycrwl1DnrM0MMCdCLoAkc3GNj2ciAWHd7PaEDCkRqMS0AA97Kre37DwtmJRlvO9HWWQ3L1lrW1B0vJZ7PZ9KN7v_ochZfRsNLzcI5qicVpEqEzWUd2ikFhWbkLGHz2-LFcGyh7UrCtcmLvMDozbJtR8Vtccyc0WXtH3ZnLExU2BRwof0c-62a6UypDkGSOoxACOw167DnfXIvVA.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/93aceceef10a8532f638aaa7.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>مشهد؛ گیر افتادن چند جوان بی‌گناه ، بی‌سلاح و معترض در یک کوچه بن‌بست! و شلیک زمینی نیروهای سرکوبگر بسوی معترضین بی سلاح<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅مشهد؛ گیر افتادن چند جوان بی‌گناه ، بی‌سلاح و معترض در یک کوچه بن‌بست! و شلیک زمینی نیروهای سرکوبگر بسوی معترضین بی سلاح\n\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/sahamnewsorg/147044",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/k59qstu1UZ-ytsawnnJIy1kFXV50G3yZcshPzcO384IZluw1XerD5AOfriCew907I78Bshad0PPG3dcgRpEfavuB7gbIqCRFzFOGHYbHi8A0ShfpGRA-F12HNjoitSRdcVOIzV7frK8HhnXRwdM-bQUSSNyjQsejl654OU71W75rvfb8Gzv_jZ2ATwnXtkP_OOSqBIwRojVJ4M-2nHFrOVxbnAv5TwEHh0cgcNis0azG3yvCgh9Sm_whDAurMVY60ifbc_ghRc-2y7zINKmhTkiuG8M1coE339qWeBzYBkM7BR4_5_CTDMDEH1FvAybJ-NjzXzIv4oPbnwCiV4yX4A",
-          "thumbnail_path": "channels/sahamnewsorg/media/a9273c5a4880c9aaa8d2f670.jpg",
-          "thumbnail_sha256": "a0b13137639652a59f2a60454a09655a15836f000b81a6445937df33c597f2cc",
-          "duration_label": "0:16",
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "50.8K",
-      "posted_at": "2026-09-05T15:12:58+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147044",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147043",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LEPulZgNyRXQYUH9pl6txwmy1HaX1HDx2Vj1MUZOEH08i10zaO4aZhruOq7e7tuCrDtlLu1KCqgj2aEt5We72kVXaPWY26ewl5sw9d3G7ezGzPfjPB-4pQM-cGqEAZhmN8PmaDxycrwl1DnrM0MMCdCLoAkc3GNj2ciAWHd7PaEDCkRqMS0AA97Kre37DwtmJRlvO9HWWQ3L1lrW1B0vJZ7PZ9KN7v_ochZfRsNLzcI5qicVpEqEzWUd2ikFhWbkLGHz2-LFcGyh7UrCtcmLvMDozbJtR8Vtccyc0WXtH3ZnLExU2BRwof0c-62a6UypDkGSOoxACOw167DnfXIvVA.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/93aceceef10a8532f638aaa7.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>ارابه مرگ میلیاردی شد!</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹️</b></i>خودرویی که سال‌ها با لقب «ارابه مرگ» شناخته می‌شد، حالا به جمع خودروهای میلیاردی بازار پیوسته است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹️</b></i>معدود دستگاه‌های پراید صندوقدار صفرکیلومتر که از سال‌های ۱۳۹۸ و ۱۳۹۹ در پارکینگ‌ها باقی مانده‌اند، این روزها با عنوان «پراید کلکسیونی» و با قیمت‌هایی بین یک میلیارد و ۲۰۰ تا یک میلیارد و ۳۰۰ میلیون تومان برای فروش آگهی شده‌اند.<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅ارابه مرگ میلیاردی شد!\n\n🔹️خودرویی که سال‌ها با لقب «ارابه مرگ» شناخته می‌شد، حالا به جمع خودروهای میلیاردی بازار پیوسته است.\n\n🔹️معدود دستگاه‌های پراید صندوقدار صفرکیلومتر که از سال‌های ۱۳۹۸ و ۱۳۹۹ در پارکینگ‌ها باقی مانده‌اند، این روزها با عنوان «پراید کلکسیونی» و با قیمت‌هایی بین یک میلیارد و ۲۰۰ تا یک میلیارد و ۳۰۰ میلیون تومان برای فروش آگهی شده‌اند.\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/sahamnewsorg/147043",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/lzy8XgFav_Cq8xpgOlnCPZ4oceFD5cVE8rCZA3sY9D_9QtAC-iu4DksPlXpo11snfcKRgb8mJjcvJiSq-6h7AVBsauLkeQvg2w5OqMfVd86u2u5DXVQ8E-ze2HUn2mPlYywU6r00t9LkyM2JdFTvHXmcPCrwDWB2Uexw-eghR9EKjcrYh-5GUEg-sG_6Wv4g5gpkcEOAdJZs88F8DX4TDstGhstMf1LSeWpxY7d8QJ8EcJDgw4zVCLWC7k0BlG7mvbfmCmv99wK60o_YOM5Jl41rcdsKF3iVDRbKFJiSMVpWC6Ow3u65P0fQ4waYVsr4Uy7riUzicdlyWkepDWrhEA.jpg",
-          "thumbnail_path": "channels/sahamnewsorg/media/9597147a6535e6f29b495bd9.jpg",
-          "thumbnail_sha256": "7dd8320e8aa120dcc1a4576de8e321252dcd26e958fd3fd69268696a09719e0b",
-          "duration_label": null,
-          "aspect_ratio": 1.499061913696067
-        }
-      ],
-      "reactions": [],
-      "views_label": "50.4K",
-      "posted_at": "2026-09-05T14:52:44+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147043",
-      "reply": null
     }
   ]
 }
