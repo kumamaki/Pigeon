@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T16:07:16.802Z",
+  "fetched_at": "2026-09-07T16:12:16.436Z",
   "channel": {
     "username": "telegram",
     "title": "Telegram News",
@@ -69,8 +69,8 @@
           "asset_url": "https://t.me/telegram/458",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/qv6ahQvLMwlNA8uTCZ-AEmydCrlzLRzQ0GmvAaQRNKgLoRywMqMQr4xrbXxAWsh__bmUdaCz05kl6At6KI1gal1PZr7TKm47l6AEE04P6sT9lIi_f5dLz7OT0qJ_iJKjce8luz9q92lTG6-lKa5GJ54k_uGUmNWLuHv5KOUZIw9XBpjPmDmPlhf0bcfVp0PaQYXj34bjiPEyFBehp4Cpt8tT_pPxcSnPpg9Cbx69UtRLMy56mF9qjz2OseoqkitehpGHwgF6tNk3g47Se-M3cAY2e9dlVNQ7DzOSa_xj8i6c0CJY8yndzSVPEE9A_96j2fXMYq7-BT_Lk_S8JQJiVQ.jpg",
-          "thumbnail_path": "channels/telegram/media/3038a5ebbf2ecc1f42c180d4.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/q0FTX0ch87LooZDJQd98O2appWeUXnWUa85CEHC9XxSWZInzE8ZCRs3udkR728M4d2mkO3yN2IMudF76SvuAknA1QHVt7CsdyDUDrUdTeLjaH4MO1F9HF8P591g0LGyW4HbpGOWaQzjTlM27tAI950tjoHCfHeY16u_ba8qMxJ1A7vzFDblTxCc_k_ZqLaakftb5ulPnxo2TgkDlJZZqOlENVaoy60lMS3OIXt1S8WaiK4Hfe3DVVyZOX9qk2udxXYw9YELndd2B_W1uJMF93wyBM0tSG2RJAf6RaimzDy8GA06G6QXNCp6jf4-JbHEGTTJ_im7N4VKVbPyOiTg6SQ.jpg",
+          "thumbnail_path": "channels/telegram/media/055f339f9f12fdd23447def5.jpg",
           "thumbnail_sha256": "544b626448b69908fa0b2fac19f58a26594e0f0b9500669123fece37827db541",
           "duration_label": null,
           "aspect_ratio": 1.0269576379974326
@@ -125,15 +125,15 @@
           "asset_url": "https://t.me/telegram/456",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/g8sm5m5pcohb0lOa6zDLRVRLMab-Hb2qGn_E9Lkudz5DgwcL_7OPb43fyScqIfakC3X434nRUU0n8PR-bLrruJv8MlRSlF536xw_p8uIU6zONXpYDNMSTPGcws-NoFDEQR_Z5UNbABFPPxS2ZAFCAogsI9QbGe9svVP7wVCHd2xtR389NpRn2fQWqr-Yj47NCe8fOG_tLV01p5pt3B-bc-4e3AYOXoKk3rdRIuzZVq_xT2VVNjaqQrXSQX9UhgybnVeeH-fzeWaNLcd06q-_TJi3MKhrQbo6ZEnJRrOM4JVeJAp0YB-mdY9r0GoF1x9tv4y7akbh9DGF30s-YWwwwQ",
-          "thumbnail_path": "channels/telegram/media/53f4d63a6d78f8130cd675ef.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/V2jd0LH_3buJFKNQiejwLZfLRnyTncpTaKQHbJ2P3kYq6UEQMODLR4p6-JL5zC5GFl5jfK2BbbOS7qjl3pGtNgC8MAhQ1uWo2cfxfxUzCnmSuhHiTtdI8M4yOg5HL22z16Amfwyn3fWqIaMYT0fb9wBF3B7DCQJV_A2h9SJmWsMKtTLzN0LGVboh51csRxP7hTLzPkSdeqDnBOc65h2pZm2ptdpWAqkAlQZWlpHZJ_P5Y9dmDT6WglbnjNIykB0fjQw1X0cS4maAcuyluTn7Yvl3T4VQQtnEv3Ng4racN587hBsRcmLNaIoz-vWZFExfUDgBC6R2ykSnLnskp5RUOg",
+          "thumbnail_path": "channels/telegram/media/2ecaf01c73cbd295daf6035c.jpg",
           "thumbnail_sha256": "853f353658f3da54fe43351844d6d37457ce00d5d3b58db7fdae5bb254dcc3de",
           "duration_label": "0:10",
           "aspect_ratio": 1
         }
       ],
       "reactions": [],
-      "views_label": "696K",
+      "views_label": "697K",
       "posted_at": "2026-08-26T19:11:39+00:00",
       "edited": false,
       "permalink": "https://t.me/telegram/456",
@@ -153,15 +153,15 @@
           "asset_url": "https://t.me/telegram/455",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/XsaVK82u--mi288uRvceOx7CilkVOGM9L62sUO4InnUvAUtwy25BK6FRBMezQWJRyCWu_IfzpR9hgv9C_kjdiXt_MoDHmAANgkuA1B_0xw6unOG_8I98_s7d0lKCpd6finfWwi8K6aMKcOVgYUCj_5yvU4mNmhO5HuokZ4YVuuvqkswy6tFinQb1hqqMtGZVXjma511Qw_695ixp6yyyPNhiVWbsQbYEjuFq6iPN0rJIzTdRkq5I9WTpScUVvFzBOZE2LfyhrBF3QN3qhVd3rxwjBcuJ0mWvMJcb2bWonLEnX_C9Fjib0eOKSf4koY2s6641TuWTm8dbZBCfNaDv0w",
-          "thumbnail_path": "channels/telegram/media/2ef1e941da1c71b713e56ef9.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/TxVjA6JP1MrdKCxtYiXi37z6iFo_xcKE76IQKfihTuqQgeFwirTXcpgOiLi1vuXOcg--e2GQnAXgVF7LVhZevqJlnp27Je5ZWeVmx4dazEYVo5xVcoFkPYoLKYQPpqYLNv9J9E-esxTLqbls-6-rmP3TlsoGBgI-X8SCx_rvI9FYSOFbZg_PUgGfYHhjKaPj9D9cqIQkdLEUEBPSo1FnID2Oo954_jLcsRqKHS3RE0Quxc8J73JWb-yM4LvyKUAN6BuhxEctQnG7YaSf6pQeEmWdGaxXYMpHsxTvaOy544BLzlYPU8YkAjxCnGEoAPFSlOyvV9TE-cQUWVqicudR5w",
+          "thumbnail_path": "channels/telegram/media/9c9b9d5e30321f473cde87e8.jpg",
           "thumbnail_sha256": "01fe0d76d575c672dbf8721d3bb8f465a1e3b0524bca6c80a9e5e3f14db65089",
           "duration_label": "0:10",
           "aspect_ratio": 1
         }
       ],
       "reactions": [],
-      "views_label": "715K",
+      "views_label": "716K",
       "posted_at": "2026-08-26T19:11:05+00:00",
       "edited": true,
       "permalink": "https://t.me/telegram/455",
