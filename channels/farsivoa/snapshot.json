@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T16:17:15.018Z",
+  "fetched_at": "2026-09-07T16:22:11.149Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229756",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "آغاز دور تازه مذاکرات خلع سلاح گروه‌های هم‌پیمان جمهوری اسلامی در عراق از ماه مهر",
+      "plain_text": "آغاز دور تازه مذاکرات خلع سلاح گروه‌های هم‌پیمان جمهوری اسلامی در عراق از ماه مهر",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229756",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/mExsuIx_ZOtC0HMNjT-8SiiG76GY-FotcHEnEU6fk2ZfhQN1wB8v_lrR1HJPRtcyq8ZWXRpWCwG6GDyjmeJRKRGQumthz31pYfRVDAOqZEMVXXeWTmEoiLDKexP8K15FwyALQlYmAisB6dGSNFu4le2BvjuidbodPLOZ6gRXU27txCs6Ec0g20u1IovSb31J1gsiA3BzKm19n7TaZ-yCUgqRtAi8JsqCgz2tjq8nTuim6mEAVhDpAx3in4FKM3bpcO2tL6n16rwg-Q37ZznTuPYhMYehBEwI7qlc_QSxCTq2omN55w6KELZ5GZMCCAwWrRvdbB1Fd03h25sDhW9eGg",
+          "thumbnail_path": "channels/farsivoa/media/b3aa161cf9c277541f7afe8c.jpg",
+          "thumbnail_sha256": "01fbbd00f21b7fd14ca6517c4249e4961555f204c9b512ba04c1fa159fae9a95",
+          "duration_label": "4:16",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "132",
+      "posted_at": "2026-09-07T16:19:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229756",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229755",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺ویتکاف می‌گوید در مذاکرات برای پایان جنگ روسیه و اوکراین پیشرفت چشمگیری حاصل شد\n\n▪️استیو ویتکاف، فرستاده ویژه رئیس‌ جمهوری آمریکا، روز دوشنبه ۱۶ شهریور در حساب خود در شبکه اجتماعی ایکس از «پیشرفت چشمگیر» در مذاکرات برای پایان دادن به جنگ روسیه و اوکراین خبر داد و گفت در زمینه برنامه‌ریزی برای برگزاری مذاکرات سه‌جانبه نیز پیشرفت حاصل شده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/witkoff-says-progress-made-russia-ukraine-peace-talks/8195101.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2",
+      "views_label": "454",
       "posted_at": "2026-09-07T16:16:15+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229755",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "134",
+      "views_label": "422",
       "posted_at": "2026-09-07T16:15:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229754",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "511",
+      "views_label": "737",
       "posted_at": "2026-09-07T16:06:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229753",
@@ -93,7 +121,7 @@
       "plain_text": "🔺پرزیدنت ترامپ تصاویر نمادین «نیروی دریایی ایران در کف دریا» را منتشر کرد\n\n▪️پرزیدنت ترامپ، رئیس جمهوری آمریکا، روز دوشنبه ۱۶ شهریور دو تصویر جداگانه در تروت سوشال منتشر کرد که در آنها ده‌ها شناور نظامی با پرچم جمهوری اسلامی به صورت غرق‌شده در کف دریا دیده می‌شوند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/trump-posts-sunken-iran-navy/8195098.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "870",
+      "views_label": "1.06K",
       "posted_at": "2026-09-07T15:59:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229752",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "865",
+      "views_label": "994",
       "posted_at": "2026-09-07T15:58:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229751",
@@ -149,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.28K",
+      "views_label": "1.38K",
       "posted_at": "2026-09-07T15:45:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229750",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.28K",
+      "views_label": "1.38K",
       "posted_at": "2026-09-07T15:43:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229749",
@@ -193,7 +221,7 @@
       "plain_text": "🔺مایک جانسون: سیاست‌های جمهوری‌خواهان فرصت و درآمد بیشتری برای کارگران آمریکایی فراهم کرده است\n\n▪️مایک جانسون، رئیس مجلس نمایندگان آمریکا، روز دوشنبه ۱۶ شهریور، همزمان با روز کارگر در ایالات متحده، گفت کارگران آمریکایی «دوباره در حال پیروزی هستند»، و سیاست‌های جمهوری‌خواهان را عامل افزایش فرصت‌های اقتصادی و درآمد بیشتر برای خانواده‌های شاغل دانست.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/republicans-deliver-for-workers/8195095.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.35K",
+      "views_label": "1.44K",
       "posted_at": "2026-09-07T15:39:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229748",
@@ -209,7 +237,7 @@
       "plain_text": "🔺گردهمایی «هیلی ۲۰۲۶» در ابوظبی با تمرکز بر امنیت تنگه هرمز آغاز شد\n\n▪️به گزارش رسانه‌های امارات در روز دوشنبه ۱۶ شهریور، سومین اجلاس گردهمایی هیلی ۲۰۲۶ با عنوان «خلیج [فارس] بر سر دو راهی: درگیری‌ها، پیامدها و تصحیح روند» در ابوظبی آغاز شد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/emirates-hili-forum-security-studies-hormuz/8195090.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.31K",
+      "views_label": "1.37K",
       "posted_at": "2026-09-07T15:34:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229747",
@@ -237,7 +265,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.4K",
+      "views_label": "1.46K",
       "posted_at": "2026-09-07T15:30:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229746",
@@ -265,7 +293,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.57K",
+      "views_label": "1.66K",
       "posted_at": "2026-09-07T15:20:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229745",
@@ -293,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.76K",
+      "views_label": "1.83K",
       "posted_at": "2026-09-07T15:12:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229744",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.77K",
+      "views_label": "1.83K",
       "posted_at": "2026-09-07T15:04:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229743",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.02K",
+      "views_label": "2.09K",
       "posted_at": "2026-09-07T14:48:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229742",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.15K",
+      "views_label": "2.21K",
       "posted_at": "2026-09-07T14:41:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229741",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.07K",
+      "views_label": "2.1K",
       "posted_at": "2026-09-07T14:37:29+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229740",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.13K",
+      "views_label": "2.17K",
       "posted_at": "2026-09-07T14:31:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229739",
@@ -461,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.39K",
+      "views_label": "2.45K",
       "posted_at": "2026-09-07T14:17:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229738",
@@ -489,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.35K",
+      "views_label": "2.38K",
       "posted_at": "2026-09-07T14:11:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229737",
@@ -2409,22 +2437,6 @@
       "posted_at": "2026-09-06T19:20:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229655",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229654",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>جمهوری اسلامی نرخ بنزین را دو برابر کرد؛ تنها دو هفته پس از آغاز عملیات «طرد اقتصادی» آمریکا<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>جمهوری اسلامی در بحبوحه تشدید فشار اقتصادی ایالات متحده و نگرانی‌ها از کمبود سوخت اعلام کرد بهای بنزین عرضه‌شده با کارت جایگاه از بامداد سه‌شنبه ۱۷ شهریور ۱۴۰۵ دو برابر و از لیتری پنج هزار تومان به ۱۰ هزار تومان افزایش می‌یابد؛ تصمیمی که یادآور افزایش ناگهانی قیمت بنزین در آبان ۱۳۹۸ و اعتراضات خونین پس از آن است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/iranian-regime-doubles-fuel-prices/8194794.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/iranian-regime-doubles-fuel-prices/8194794.html</a><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "🔺جمهوری اسلامی نرخ بنزین را دو برابر کرد؛ تنها دو هفته پس از آغاز عملیات «طرد اقتصادی» آمریکا\n\n▪️جمهوری اسلامی در بحبوحه تشدید فشار اقتصادی ایالات متحده و نگرانی‌ها از کمبود سوخت اعلام کرد بهای بنزین عرضه‌شده با کارت جایگاه از بامداد سه‌شنبه ۱۷ شهریور ۱۴۰۵ دو برابر و از لیتری پنج هزار تومان به ۱۰ هزار تومان افزایش می‌یابد؛ تصمیمی که یادآور افزایش ناگهانی قیمت بنزین در آبان ۱۳۹۸ و اعتراضات خونین پس از آن است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/iranian-regime-doubles-fuel-prices/8194794.html\n@FarsiVOA",
-      "media": [],
-      "reactions": [],
-      "views_label": "4.01K",
-      "posted_at": "2026-09-06T19:13:52+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229654",
       "reply": null
     }
   ]
