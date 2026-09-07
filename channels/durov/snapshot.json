@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T20:42:32.044Z",
+  "fetched_at": "2026-09-07T20:48:25.684Z",
   "channel": {
     "username": "durov",
     "title": "Pavel Durov",
@@ -8,7 +8,7 @@
     "photo_url": "https://cdn4.telesco.pe/file/qDMWoxIhIUbCF641qfgdW5xYP75EGcbpwE4O_4hfL1xgG8Ug690QdhrP-zpKtOj9A5Yh8_jj7Ayhl9EvBk1c-hAXhTU1-gzweEtnq2qT2EmDKcBadFpHzr6n8xLcKbmvl6z74uW6jtyBB82Zx3iYwo3ExEUd-j9u2IXRwf_mRrsI4IfKJzW1hbw8QU3w5Y8YRPdHtDcu8lL1p55_T6cbbhsgbpj2j0xKkSSGDuqV9LAcyLwIaIis1ciGrYJLSlVfX0ke5kkmHlvetmQITOGL4rOiH4kKxFzKS7LPfT3KE-5Rig8bQwu7gFpfPIWHk4pBgzvziBBosI9jP2A6BdM6Tg.jpg",
     "photo_path": "channels/durov/media/9c3f66b94f11bd826a7bc662.jpg",
     "photo_sha256": "c8dc5acc961fc086e84217b035d6fa85e23dcae971eeed4d5b0c446914f4204b",
-    "subscriber_count": "10.9M"
+    "subscriber_count": "10.8M"
   },
   "posts": [
     {
@@ -38,7 +38,7 @@
           "count": "4.56K"
         }
       ],
-      "views_label": "810K",
+      "views_label": "811K",
       "posted_at": "2026-09-06T17:40:39+00:00",
       "edited": false,
       "permalink": "https://t.me/durov/547",
