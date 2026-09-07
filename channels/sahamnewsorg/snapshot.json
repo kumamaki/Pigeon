@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T17:52:39.409Z",
+  "fetched_at": "2026-09-07T17:57:19.664Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -11,6 +11,34 @@
     "subscriber_count": "217K"
   },
   "posts": [
+    {
+      "id": "sahamnewsorg/147135",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/642684be024870091c2036fb.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>جسد « مهین اعتصام » دختر ۳۳ساله اهل هشتگرد البرز بعداز ۱۶ روز بی خبری سرانجام پیدا شد./قاتل آشنا بود!<br>مهین قصد داشته پرایدش رو بفروشه و یه ماشین بهتر بخره که یکی از آشناهای خانوادگیشون میگه من اینکارو برات میکنم. پرایدتو بفروش و طلاهاتم بیار بده بهم تا با پولش ماشین بهتر برات بخرم. مهین برای همین کار ۲۹ مرداد از خونه خارج میشه ولی دیگه برنمیگرده تا اینکه معلوم میشه این دوست خانوادگی وسط راه مهین رو خفه کرده و طلاها رو دزدیده جسدشم توی نظرآباد کرج رها کرده.<br>واقعا به دوست و آشنا هم دیگه نمیشه اعتماد کرد. پدر مهین گفته طرف انقدر آدم خوبی بوده مثل چشمامون بهش اعتماد داشتیم و هرگز فکر نمیکردیم اینکارو بکنه.رکنا<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅جسد « مهین اعتصام » دختر ۳۳ساله اهل هشتگرد البرز بعداز ۱۶ روز بی خبری سرانجام پیدا شد./قاتل آشنا بود!\nمهین قصد داشته پرایدش رو بفروشه و یه ماشین بهتر بخره که یکی از آشناهای خانوادگیشون میگه من اینکارو برات میکنم. پرایدتو بفروش و طلاهاتم بیار بده بهم تا با پولش ماشین بهتر برات بخرم. مهین برای همین کار ۲۹ مرداد از خونه خارج میشه ولی دیگه برنمیگرده تا اینکه معلوم میشه این دوست خانوادگی وسط راه مهین رو خفه کرده و طلاها رو دزدیده جسدشم توی نظرآباد کرج رها کرده.\nواقعا به دوست و آشنا هم دیگه نمیشه اعتماد کرد. پدر مهین گفته طرف انقدر آدم خوبی بوده مثل چشمامون بهش اعتماد داشتیم و هرگز فکر نمیکردیم اینکارو بکنه.رکنا\n\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/147135",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/LqwrV5BRk1n2n_L_0oM18ehENYnnMfcqSu45Ed-r9HcyFWXba5nuTTB5EwzkyJ42YJqRKdxeMcqR3i32X1ssD84rcoj_O5muqywGpCoPbV9XS7iXICNtY99PPH1_A-XG4NOYWCufT1obnT1kNkvtat1Ya1X2j5OgNBcGE2i8TVNdnK5kU9tg4tPbcZ0ovPXAhYxDMq0PcxPd764ci4hO5gsaxo5rvVP_as6_GS-3fdgGCxt_J2B87QgT9M-fsrTmC-Khkq4g8wlJSKE6YIkoQGYrKNTPur6sZyEYmCgFu3G7fcPk6BqSqaZQ5ZGnv7mqCv4DILIvUNqcNUEoRbPAMA.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/716ebaf8868c4dc20c54f687.jpg",
+          "thumbnail_sha256": "d3255ad17ce30eaba336bf237ba97b3f8e78dc28d59189bc8e7c5043377c19ba",
+          "duration_label": null,
+          "aspect_ratio": 1.7543859649122806
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.85K",
+      "posted_at": "2026-09-07T17:55:32+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147135",
+      "reply": null
+    },
     {
       "id": "sahamnewsorg/147134",
       "author_name": "سهام نیوز",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7.39K",
+      "views_label": "9.56K",
       "posted_at": "2026-09-07T17:37:44+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147134",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.94K",
+      "views_label": "10.8K",
       "posted_at": "2026-09-07T17:33:46+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147133",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.4K",
+      "views_label": "16.7K",
       "posted_at": "2026-09-07T17:14:47+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147132",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.7K",
+      "views_label": "30.6K",
       "posted_at": "2026-09-07T15:32:31+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147131",
@@ -133,7 +161,7 @@
       "plain_text": "✅شیخ! بهتر نبود از اف ۴ شروع می‌کردید؟\n\n✍️مازیار اوستا\nخسروپناه، دبیر شورای انقلاب فرهنگی:\nامروز همه نهادهای ما باید پهپاد بسازند؛ پهپادی که اف‌۳۵ را بزند.\n\nمملکت به چه بدبختی گرفتار شده که کسی که کوچکترین آشنایی با فرهنگ ندارد شده دبیر شورای عالی فرهنگی! و همین فرد بدون هیچ تخصص نظامی، در این زمینه هم وارد شده دستور ساخت پهباد، آنهم  پهبادی که اف۳۵  بزند می دهد!\n\nشیخ از قدیم گفتند :«گنجشکی که انجیر می خوره نوکش کجه» !\nشما قیمت دلار را دو روز ثابت نگه دار! پهباد اف۳۵ زن پیشکش!\n\nدر ضمن شیخ! هنوز در دنیا  آنها که دانش ساخت هواپیما دارند، هواپیمایی که اف ۳۵ شکار کنه نساخته اند! بعد جنابعالی میخوای در مثلا اداره ثبت یا دارایی  پهبادی بسازی که  اف۳۵ پنج بزند؟\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "38.4K",
+      "views_label": "39K",
       "posted_at": "2026-09-07T14:19:53+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147130",
@@ -170,7 +198,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.4K",
+      "views_label": "38K",
       "posted_at": "2026-09-07T14:04:40+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147129",
@@ -186,7 +214,7 @@
       "plain_text": "✅بلومبرگ:آمریکا قصد دارد امروز پرونده هسته‌ای ایران را به شورای امنیت سازمان ملل متحد ارجاع دهد\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "37.7K",
+      "views_label": "38K",
       "posted_at": "2026-09-07T13:56:02+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147128",
@@ -202,7 +230,7 @@
       "plain_text": "✅مهدي كروبي در دیدار با سيد هادي خامنه ای: شرایط امروز کشور در همه حوزه ها اسفبار و شرم‌آور است\n\nحجت الاسلام و المسلمين \"مهدي كروبي\" با حضور در منزل حجت الاسلام و المسلمين \"سيد هادي خامنه اي\" با ايشان ديدار و گفت و گو كرد.\n\nدر اين ديدار كه خانواده مهدی کروبی نيز حضور داشتند، پيرامون مسائل روز و تحولات داخلي و خارجي گفت و گوهايی انجام شد.\n\nمهدی كروبی در اين ديدار با يادآوری مجاهدت های مردم ایران برای تحقق آزادی، عدالت و حق تعیین سرنوشت شأن شرایط امروز کشور در همه حوزه ها را اسفبار و شرم‌آور خواند. کروبی شرایط امروز را نتیجه سیاست های فاجعه بار چند دهه حاکمیت بریده از مردم دانست. حاکمیتی که به گفته او با همان رویکرد و بدون توجه به منافع ملی و مشکلات اقتصادی و سیاسی کشور تفاهم نامه اسلام آباد را تحت نفوذ نفوذی ها برهم زد.\n\nسيد هادي خامنه اي نيز در اين ديدار ضمن تشکر و آرزوی سلامتي و عزت روزافزون برای آقای کروبی از رفع حصر ایشان ابراز خوشحالي کرد و گفت: عدم دسترسي علاقمندان و مردم در سال هاي طولاني حصر و محرومیت نظام از تجربه و نگاه شما در اين سال‌ها موجب خسران است. امیدواریم این روند پایان بپذیرد و هرچه زودتر شاهد رفع حصر مهندس ميرحسين موسوي و دکتر زهرا رهنورد هم باشيم که هر دو از سرمایه‌های جامعه هستند و غیبت آن‌ها از حضور موثر اجتماعی به ضرر مردم و نظام بوده است.\nسيد هادي خامنه‌ای با تاکید بر ضرورت توجه به معیشت مردم و مشکلات اقتصادی که فشار زیادی بر آحاد جامعه وارد کرده است گفت: مردم مهمترین پشتوانه نظام هستند که در مقاطع مختلف از جمله دو جنگ اخیر امتحان خود را پس داده‌اند، اکنون شایسته نیست که با شدیدترین فشار اقتصادی و انواع کمبودها مواجه باشند.\nاین روحانی اصلاح طلب با اشاره به اهمیت حفظ انسجام داخلی و استفاده از ظرفیت‌های موجود با هر سلیقه و گرایشی، گفتگو و تعامل حول منافع ملی برای عبور از بحران‌های داخلی و بین‌المللی را در این مقطع ضروری دانست.\n\nدر پایان این دیدار مهدي كروبی و سید هادی خامنه‌ای ضمن یادآوری خدمات ارزشمند مهندس موسوی در دوران جنگ خواستار پایان حصر غیر قانونی ایشان و همسرش خانم دکتر رهنورد شدند.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "43.8K",
+      "views_label": "44.4K",
       "posted_at": "2026-09-07T12:44:04+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147127",
@@ -230,7 +258,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "44K",
+      "views_label": "44.3K",
       "posted_at": "2026-09-07T12:22:26+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147126",
@@ -246,7 +274,7 @@
       "plain_text": "✅گروسی:ایران باید به حرف ما گوش دهد\n\nاظهارات مدیرکل آژانس بین المللی انرژی اتمی:\n\n🔸 ما تا الان اقدامی فنی درباره ایران نداشتیم و همانطور که در گزارش آمده است هیچ تعامل و اطلاعاتی وجود ندارد\n\n🔸 ایران گفته است تا زمانی که توافقاتی در مذاکرات حاصل نشود همکاری نخواهند کرد\n\n🔸 ایران همچنان عضو پیمان NPT است و تعهداتی دارد\n\n🔸 ما به تعامل با ایران نیاز داریم و درس خوبی از اتفاقات قبلی میتوانیم بگیریم\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "42.6K",
+      "views_label": "43.2K",
       "posted_at": "2026-09-07T12:20:11+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147125",
@@ -262,7 +290,7 @@
       "plain_text": "✅هشدار ایران به آمریکا؛ در صورت اشغال تپه علی‌الطاهر مستقیم وارد عمل می‌شویم\n\nالجزیره به نقل از یک تحلیل‌گر:\n\n🔸 ایران به آمریکا اطلاع داده که در صورت اشغال تپه علی‌الطاهر توسط اسرائیل، مستقیماً وارد عمل می‌شود\n\n🔸 تل‌آویو عملاً کنترل تپه علی‌الطاهر را در دست نگرفته.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "43K",
+      "views_label": "43.3K",
       "posted_at": "2026-09-07T12:16:12+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147124",
@@ -278,7 +306,7 @@
       "plain_text": "✅امارات: گروگان تنگه هرمز نمی‌مانیم و مسیر جایگزین می‌سازیم\n\nممکن است دهه‌ها طول بکشد تا اعتماد میان امارات و ایران دوباره شکل بگیرد\n\n🔹قرقاش مشاور رئیس امارات مدعی شد امارات متحده عربی معطل تنگه هرمز نمی ماند و در حال توسعه مسیرهای جایگزین برای صادرات انرژی و تجارت است تا وابستگی خود را به کریدورهای کشتیرانی آسیب‌پذیر در بحبوحه درگیری مداوم با ایران کاهش دهد.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "47.9K",
+      "views_label": "48.2K",
       "posted_at": "2026-09-07T10:57:52+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147123",
@@ -294,7 +322,7 @@
       "plain_text": "✅دولت ترامپ آمریکا را فقیرتر و بیمارتر کرده است\n\nگوین نیوسام، فرماندار کالیفرنیا:\n\n«ما با یک گونه مهاجم در کاخ سفید روبه‌رو هستیم. چیزی که تا به حال هرگز تجربه نکرده‌ایم؛ کسی که می‌گفت قرار است ما را ثروتمندتر و سالم‌تر کند، اما حالا در تمام شاخص‌ها، هم بیمارتر شده‌ایم و هم فقیرتر.»\n\n🔻پ ن: مظلوم مردم ایران\nحدود ۶ ماهه تورم امریکا ۲ تا ۳ درصد بیشتر شده و مدیران امریکا معتقدند ترامپ مردم امریکا را فقیرتر کرده است اما ملت ایران بیش از ۲۰ ساله گرفتار تورم ۴۰ تا ۱۳۰ درصد شدند و در صورت اعتراض به شخص اول کشور یا باید به زندان بروند یا در خیابان کشته،کور و زخمی شوند\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "50.4K",
+      "views_label": "50.7K",
       "posted_at": "2026-09-07T10:06:45+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147122",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50.5K",
+      "views_label": "50.8K",
       "posted_at": "2026-09-07T09:40:09+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147120",
@@ -349,7 +377,7 @@
       "plain_text": "✅خسروپناه، دبیر شورای انقلاب فرهنگی:\nامروز همه نهادهای ما باید پهپاد بسازند؛ پهپادی که اف‌۳۵ را بزند:(\nچون فضای هوایی را مورد تهدید قرار داده است\n\n🔻چطور به عقل کسی نرسیده بود؟😁\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "52.5K",
+      "views_label": "52.9K",
       "posted_at": "2026-09-07T09:36:17+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147119",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "48.7K",
+      "views_label": "49K",
       "posted_at": "2026-09-07T09:23:30+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147117",
@@ -2339,56 +2367,6 @@
       "posted_at": "2026-09-05T13:52:06+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147035",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147032",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LEPulZgNyRXQYUH9pl6txwmy1HaX1HDx2Vj1MUZOEH08i10zaO4aZhruOq7e7tuCrDtlLu1KCqgj2aEt5We72kVXaPWY26ewl5sw9d3G7ezGzPfjPB-4pQM-cGqEAZhmN8PmaDxycrwl1DnrM0MMCdCLoAkc3GNj2ciAWHd7PaEDCkRqMS0AA97Kre37DwtmJRlvO9HWWQ3L1lrW1B0vJZ7PZ9KN7v_ochZfRsNLzcI5qicVpEqEzWUd2ikFhWbkLGHz2-LFcGyh7UrCtcmLvMDozbJtR8Vtccyc0WXtH3ZnLExU2BRwof0c-62a6UypDkGSOoxACOw167DnfXIvVA.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/93aceceef10a8532f638aaa7.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>مرگ نیلوفر مجاور پس از ۱۰ روز شکنجه و آزار جنسی؛ دو کلیه او اهدا شد</b><br><br>کُردپا گزارش داده است که <b>نیلوفر مجاور</b>، زن ۲۷ ساله اهل پیرانشهر، پس از حدود ۱۰ روز نگهداری در مکانی نامعلوم و آنچه خانواده‌اش شکنجه، خشونت جسمی و جنسی و محرومیت از آب و غذا عنوان کرده‌اند، دچار مرگ مغزی شد و جان باخت.<br><br>به گفته خاله نیلوفر، آثار جراحات شدید در سراسر بدن او دیده می‌شد؛ از جمله کبودی گسترده، شکستگی چانه و استخوان‌های پهلو، آسیب شدید به سر و جراحات جدی در نواحی تناسلی و مقعد. خانواده می‌گویند آثار ضرب‌وشتم و شلاق نیز بر بدن او وجود داشته است.<br><br>بر اساس گزارش کُردپا، نیلوفر روز ۱۰ شهریور در وضعیت بسیار وخیم به درمانگاه روستای «اندیزه» منتقل شد. فردی به نام <b>سید عزت‌الدین سیدطاهری</b>، ۴۱ ساله و اهل پیرانشهر، مدعی شده بود که او در حادثه رانندگی آسیب دیده است؛ اما بنا بر این گزارش، پس از درخواست کادر درمان برای انتقال فوری نیلوفر به بیمارستان، در مسیر از آمبولانس جدا شده و متواری شده است.<br>اعضای بدن نیلوفر به بیماران اهدا شد<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a></div>",
-      "plain_text": "✅مرگ نیلوفر مجاور پس از ۱۰ روز شکنجه و آزار جنسی؛ دو کلیه او اهدا شد\n\nکُردپا گزارش داده است که نیلوفر مجاور، زن ۲۷ ساله اهل پیرانشهر، پس از حدود ۱۰ روز نگهداری در مکانی نامعلوم و آنچه خانواده‌اش شکنجه، خشونت جسمی و جنسی و محرومیت از آب و غذا عنوان کرده‌اند، دچار مرگ مغزی شد و جان باخت.\n\nبه گفته خاله نیلوفر، آثار جراحات شدید در سراسر بدن او دیده می‌شد؛ از جمله کبودی گسترده، شکستگی چانه و استخوان‌های پهلو، آسیب شدید به سر و جراحات جدی در نواحی تناسلی و مقعد. خانواده می‌گویند آثار ضرب‌وشتم و شلاق نیز بر بدن او وجود داشته است.\n\nبر اساس گزارش کُردپا، نیلوفر روز ۱۰ شهریور در وضعیت بسیار وخیم به درمانگاه روستای «اندیزه» منتقل شد. فردی به نام سید عزت‌الدین سیدطاهری، ۴۱ ساله و اهل پیرانشهر، مدعی شده بود که او در حادثه رانندگی آسیب دیده است؛ اما بنا بر این گزارش، پس از درخواست کادر درمان برای انتقال فوری نیلوفر به بیمارستان، در مسیر از آمبولانس جدا شده و متواری شده است.\nاعضای بدن نیلوفر به بیماران اهدا شد\n\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/sahamnewsorg/147033?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/GPipozwkHnQd75yRbnkNowclzArrvLyWRpUfz-fzQ3XcmfoIC1yCK6pmoA8DZEyYhHzCndBx-S9-q4PTo5WX6N8ipNZZjNzQ8bd3gb6PbS_06-rYR3Po5wOE0N0YHHOt_SsjRM0FYrBYxr2z6kQzvjL-tXfig_FgNIa7Z5-Eitykh_dqTI6X8LJxaGJv30AWoB0UqgNfUInrlSDlRZ9D_7gqx2NVYnz11hxLOUOQfh6FUi8YhmBvRFsubc2itzj7qVDyiK91oHewTcfFY81XViMdqBVJUnx1olHbgoMnPNJCNhlbDayYO9diNFWhx4AqyV4ovnoMMYud3-cDM1DbyQ.jpg",
-          "thumbnail_path": "channels/sahamnewsorg/media/ab06a418659ea0438fc9c14b.jpg",
-          "thumbnail_sha256": "fc1430f3d8429f5bdcfc0c9634e6a4925ffc4b070b47bc418ef7d0469afc4658",
-          "duration_label": null,
-          "aspect_ratio": 1.7777777777778
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/sahamnewsorg/147034?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/rBYlN9O4TeqOjVpkBhCkUR7MONjImFXpkU2AVXfrkedYF85Z1Gjd2Rad3Y7k_1gr4jvAlbv5A_xU-J-2PejWFXjeBKcGlRJJqguF91nbbJ7BDrPAIcqf7Xq4XOvNiCiZC6HE0nhPrLH6kkRZRB22sJ-2WsEgIqS_JdcVAEb40OuJNX53ittyXxMwexhX5z39CYkI0DbP05ms8R2oUJlvqvdb-R5DuYgkC0ALeb8Lb7OihnTmYiiFYm87LErCDbsEmwz4-OW9X-MtpHF0vHZ087RgxnJ2m0FKpYhGztFvQO0pRWVakvhMzGkD_g6h84bO3Gk_r8wXxJg6y07JiJSEYg.jpg",
-          "thumbnail_path": "channels/sahamnewsorg/media/3bb41c898c5894e113ea26c4.jpg",
-          "thumbnail_sha256": "f7a943ab1ab737fad87fc0711d2925066f497a67f839eb731f64725799531d6a",
-          "duration_label": null,
-          "aspect_ratio": 1.1799410029499
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/sahamnewsorg/147032?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/cz5ghatx5AHO7Hri4pIumnBhHq4mwurs8drYYcdf22SgP2KOWGB5x4PVwhIXPbhcTCNnM2AHiuS8nL-piAPQIFETS-l_FWn0TE6FqEhiwhzkN8N_Wn2MOa-jEpCJYOQHd1kaju7iyMWjDL7vNVvbGBGt8C09QbG8TpXZWZhxpXoUepzIsabuSkZ9JMA1W0Pkpv5hA83pj5mTyV86moWSKuxlPfk0EjZO0nL82drGEUzei2IwRxDVtysjQlyuLxgLtLBczSb46kYFg5ntbWTEziNKZ1GAOYJPjEQjQSRlkLaAIXK78hHHTS8GiOJn2g5YXYpogcCDP9dcHQsQtRf3ww",
-          "thumbnail_path": "channels/sahamnewsorg/media/b93e4334a2420de0c0dbcae9.jpg",
-          "thumbnail_sha256": "4bb81f4deec763d486762c265101fdd8ec5b19c4400e6f7b7986bc54593113f3",
-          "duration_label": "1:44",
-          "aspect_ratio": null
-        }
-      ],
-      "reactions": [],
-      "views_label": "39.8K",
-      "posted_at": "2026-09-05T13:36:42+00:00",
-      "edited": false,
-      "permalink": "https://t.me/sahamnewsorg/147032",
       "reply": null
     }
   ]
