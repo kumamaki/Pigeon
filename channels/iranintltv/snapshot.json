@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T12:07:13.724Z",
+  "fetched_at": "2026-09-07T12:12:15.847Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,90 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356131",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "‏پس از آنکه قیمت بنزین در اسرائیل هفته گذشته به بالاترین میزان خود در طول تاریخ رسید، بنیامین نتانیاهو، نخست‌وزیر این کشور، از کاهش قیمت بنزین خبر داد.<br><br>‏یک‌شنبه بهای بنزین در اسرائیل با حذف بخشی از مالیات سوخت، به شکل چشمگیری کاهش یافت.<br><br>‏گفت‌وگو با اشکان صفایی، خبرنگار ایران‌اینترنشنال",
+      "plain_text": "‏پس از آنکه قیمت بنزین در اسرائیل هفته گذشته به بالاترین میزان خود در طول تاریخ رسید، بنیامین نتانیاهو، نخست‌وزیر این کشور، از کاهش قیمت بنزین خبر داد.\n\n‏یک‌شنبه بهای بنزین در اسرائیل با حذف بخشی از مالیات سوخت، به شکل چشمگیری کاهش یافت.\n\n‏گفت‌وگو با اشکان صفایی، خبرنگار ایران‌اینترنشنال",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356131",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/v0IF9Uqo6jKd2gIMUewGBLuTVlBQ6bZTFnVY_2XdNLjmK6XhRfFaI6x-42RkzlYExuEUARuJvk1LQirmeJ_kTfNURhMWkpLBhSUibeJ0xIWDb13vUya9v7ZRco01ncHIoX2VGWwChH8wkOH2z0Yi7WYdBRO1Zo_z-0mCfwTLc-M627etsg8HKKjqdzxUzEwWDkhG2ouchn2NpMMNa7mtOJ6drqabfHWhDA-s7hWi-V1mqPgPQppWPjk_KoAzYeVAUuxe7uc2R7DYnjBJk779dCkabrgShXONaH4NHGtE0ylbfh_kI779p5ddIRPBU2_dDlYXFVAo_XKAqGGSunWXuQ",
+          "thumbnail_path": "channels/iranintltv/media/58616e647bfb249717be9bcb.jpg",
+          "thumbnail_sha256": "e87a9c8ca97669af5bc1eecf27de5cdc13ef4564d378db655f63d44e375dd864",
+          "duration_label": "3:09",
+          "aspect_ratio": 1.733333333333324
+        }
+      ],
+      "reactions": [],
+      "views_label": "5",
+      "posted_at": "2026-09-07T12:11:17+00:00",
+      "edited": true,
+      "permalink": "https://t.me/IranintlTV/356131",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356130",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "رافائل گروسی، مدیرکل آژانس بین‌المللی انرژی اتمی، در پاسخ به خبرنگار ایران‌اینترنشنال گفت: «تهران هیچ راه‌حلی جز تعامل با آژانس ندارد. اینکه مقام‌های ایران می‌گویند تا به دست آمدن توافقی بزرگ‌تر با آمریکا با آژانس همکاری نخواهند کرد، پذیرفتنی نیست.»<br><br>جزییات بیشتر در گزارش احمد صمدی، خبرنگار ایران‌اینترنشنال<br><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "رافائل گروسی، مدیرکل آژانس بین‌المللی انرژی اتمی، در پاسخ به خبرنگار ایران‌اینترنشنال گفت: «تهران هیچ راه‌حلی جز تعامل با آژانس ندارد. اینکه مقام‌های ایران می‌گویند تا به دست آمدن توافقی بزرگ‌تر با آمریکا با آژانس همکاری نخواهند کرد، پذیرفتنی نیست.»\n\nجزییات بیشتر در گزارش احمد صمدی، خبرنگار ایران‌اینترنشنال\n\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356130",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/fpIK6j3U_NAh2DCH2gDzLcmoJpQt9OopFsrYW2-x6AJxdaY4y1FBSCGMHlPYTl9XHss2XvBy4KAsKITEMsEL_wiJ7pvaGVUzwIU_DbbJuaHNiFs3APCAuGH-RBeeL1kfto7ZlJAsU3IMaG8fdZBVNBQ56e5mraHCHglHQrNarEyXnuOgl07CEUTw_NxEAakiP1QXOERHbX3ltEgnc0xH-x6E0NS9TTapuSyqZgOgV0MxT_-8fxh1iGzs0ziBUm26MGPdYviwMsEoZ30sl_vpoyxvwVCOy2wipZob6Xlh0F8XVal-f72in1iPDUL3Y-OZG_0SvcWmHUU0ZvQ8RdqB7w",
+          "thumbnail_path": "channels/iranintltv/media/7ebdd71fa4c75cb757d88aa4.jpg",
+          "thumbnail_sha256": "46d065edcf2148193eddfe9b40b4e54b9d9febf3809966a536020fa0bf462677",
+          "duration_label": "4:21",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.13K",
+      "posted_at": "2026-09-07T12:08:49+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356130",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356129",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
+      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "‏علی‌حسین قاضی‌زاده، عضو تحریریه ایران‌اینترنشنال، با اشاره به تهدیدهای جمهوری اسلامی در تنگه هرمز گفت حکومت تلاش می‌کند با ایجاد اختلال در بازار انرژی و بازارهای مالی، فشار آمریکا را به واشینگتن بازگرداند.",
+      "plain_text": "‏علی‌حسین قاضی‌زاده، عضو تحریریه ایران‌اینترنشنال، با اشاره به تهدیدهای جمهوری اسلامی در تنگه هرمز گفت حکومت تلاش می‌کند با ایجاد اختلال در بازار انرژی و بازارهای مالی، فشار آمریکا را به واشینگتن بازگرداند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356129",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/gr6ArP_xWV53vZWJ-YMw_k6YdstyC6_8woP41lKbNRIlkssmuujZSSmdVNn31E9T2ZRC8HItC4EilpdXLrH3Hsh2mCC9mIZ2fRnUU7m_MrLBWgIyc7lwk_OKnyOgbl6asMfRImYbZ9pz5a3lAfoQkOeT4hxjtJWaZ25NdSCAHtYUXJecoxdZpDf2M8_VM6-_MJ5ePGypLWsOWzeLd5zawTM5rrf4ikCpuyNs7fYXV6hJVC0hBORktmJ3FFqh1sU_ixGUpkv99qfc3WEBQb9KO9tAR3BpUU25cWZP2JsaPie0JMm4Pqn5d94XlxGMR8y0oZTLixAoV3SKX6n4jluuSw",
+          "thumbnail_path": "channels/iranintltv/media/e455c2d96a61d8bd94e75da8.jpg",
+          "thumbnail_sha256": "f3abf0ad024958bb095bf352a74c7b2422ae0a891d3acd5d45264054f9f28246",
+          "duration_label": "4:17",
+          "aspect_ratio": 1.733333333333324
+        }
+      ],
+      "reactions": [],
+      "views_label": "3.13K",
+      "posted_at": "2026-09-07T12:08:35+00:00",
+      "edited": true,
+      "permalink": "https://t.me/IranintlTV/356129",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356128",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22",
+      "views_label": "4.23K",
       "posted_at": "2026-09-07T12:06:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356128",
@@ -61,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.07K",
+      "views_label": "5.3K",
       "posted_at": "2026-09-07T12:05:29+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356127",
@@ -89,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.19K",
+      "views_label": "6.34K",
       "posted_at": "2026-09-07T12:02:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356126",
@@ -105,7 +189,7 @@
       "plain_text": "🗣روایت شما از افزایش لحظه‌ای قیمت‌ها و از دست رفتن امکان برنامه‌ریزی برای آینده- دوشنبه ۱۶ شهریور:\n\n🔹درآمدمان دیگر حتی به مواد غذایی نمی‌رسد، چه برسد به لوازم ضروری زندگی.\n\n🔹سال‌هاست دیگر برنامه‌ای برای آینده و حتی فردایمان نداریم و فقط تلاش می‌کنیم زنده بمانیم.\n\n🔹من معلمم و سال‌هاست نتوانسته‌ام گوشی‌ام رو عوض کنم. حتی مدل‌های پایین‌رده هم قابل خرید نیستن. با حقوق ۲۰ میلیونی دغدغه‌ام شده صرفا تامین خورد و خوراک.\n\n🔹از بی‌کفنی زنده‌ایم و چندین ساله شدیم مرده‌های متحرک. هیچ هدف و آینده‌ای نیست؛ درآمدها بسیار ناچیز و مخارج بسیار بالاست.\n\n🔹درگیر هزینه‌های روزمره‌ایم و فرصتی برای برنامه‌ریزی برای آینده برایمان باقی نمانده است.\n\n🔹پولی برای خرید لوازم مورد نیازمان نداریم و مواد غذایی را هم به سختی تامین می‌کنیم.\n\n🔹با حقوق ۲۰ میلیونی و این گرانی سرسام‌آور، امکان برنامه‌ریزی وجود ندارد.\n\n🔹نه برنامه‌ای مانده و نه آرزویی؛ فقط تلاش می‌کنیم زنده بمانیم.\n\n🔹هر بار که پول جمع می‌کنم، قیمت کالا آن‌قدر بالا می‌رود که دیگر توان خریدش را ندارم.\n\n🔹با افزایش روز به روز قیمت‌ها، دیگر توان خرید جهیزیه را ندارم.",
       "media": [],
       "reactions": [],
-      "views_label": "15.8K",
+      "views_label": "17.9K",
       "posted_at": "2026-09-07T11:39:58+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356125",
@@ -133,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.9K",
+      "views_label": "20K",
       "posted_at": "2026-09-07T11:33:21+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356124",
@@ -161,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.9K",
+      "views_label": "20K",
       "posted_at": "2026-09-07T11:30:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356123",
@@ -173,8 +257,8 @@
       "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
       "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "فایننشال‌تایمز به نقل از دو فرد مطلع گزارش داد تاسیسات نفتی آرامکو در جیزان عربستان سعودی، دوشنبه هدف حمله قرار گرفتند.<br><br>به گزارش این روزنامه، ارزیابی میزان خسارت این حمله ادامه دارد. یکی از منابع گفت حمله اخیر از نظر ابعاد مشابه حمله ماه گذشته بوده است؛ حمله‌ای که به‌طور موقت تولید پالایشگاه آرامکو در جیزان را مختل کرد.<br><a href=\"https://iranintl.com/202609072540\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609072540</a>",
-      "plain_text": "فایننشال‌تایمز به نقل از دو فرد مطلع گزارش داد تاسیسات نفتی آرامکو در جیزان عربستان سعودی، دوشنبه هدف حمله قرار گرفتند.\n\nبه گزارش این روزنامه، ارزیابی میزان خسارت این حمله ادامه دارد. یکی از منابع گفت حمله اخیر از نظر ابعاد مشابه حمله ماه گذشته بوده است؛ حمله‌ای که به‌طور موقت تولید پالایشگاه آرامکو در جیزان را مختل کرد.\nhttps://iranintl.com/202609072540",
+      "body_html": "فایننشال‌تایمز به نقل از دو فرد مطلع گزارش داد تاسیسات نفتی آرامکو در جازان عربستان سعودی، دوشنبه هدف حمله قرار گرفتند.<br><br>به گزارش این روزنامه، ارزیابی میزان خسارت این حمله ادامه دارد. یکی از منابع گفت حمله اخیر از نظر ابعاد مشابه حمله ماه گذشته بوده است؛ حمله‌ای که به‌طور موقت تولید پالایشگاه آرامکو در جازان را مختل کرد.<br><a href=\"https://iranintl.com/202609072540\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609072540</a>",
+      "plain_text": "فایننشال‌تایمز به نقل از دو فرد مطلع گزارش داد تاسیسات نفتی آرامکو در جازان عربستان سعودی، دوشنبه هدف حمله قرار گرفتند.\n\nبه گزارش این روزنامه، ارزیابی میزان خسارت این حمله ادامه دارد. یکی از منابع گفت حمله اخیر از نظر ابعاد مشابه حمله ماه گذشته بوده است؛ حمله‌ای که به‌طور موقت تولید پالایشگاه آرامکو در جازان را مختل کرد.\nhttps://iranintl.com/202609072540",
       "media": [
         {
           "kind": "photo",
@@ -189,9 +273,9 @@
         }
       ],
       "reactions": [],
-      "views_label": "20K",
+      "views_label": "22.1K",
       "posted_at": "2026-09-07T11:24:53+00:00",
-      "edited": false,
+      "edited": true,
       "permalink": "https://t.me/IranintlTV/356122",
       "reply": null
     },
@@ -217,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20K",
+      "views_label": "21.1K",
       "posted_at": "2026-09-07T11:22:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356121",
@@ -245,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.1K",
+      "views_label": "23.2K",
       "posted_at": "2026-09-07T11:16:42+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356120",
@@ -273,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.1K",
+      "views_label": "22.1K",
       "posted_at": "2026-09-07T11:16:09+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356119",
@@ -301,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.3K",
+      "views_label": "26.4K",
       "posted_at": "2026-09-07T11:03:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356118",
@@ -329,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.2K",
+      "views_label": "25.3K",
       "posted_at": "2026-09-07T11:02:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356117",
@@ -345,7 +429,7 @@
       "plain_text": "🗣روایت شما از شرایط زندگی و بحران اقتصادی- دوشنبه ۱۶ شهریور:\n\n🔹در تهران اکثر پله‌برقی‌های متروها خرابند و روز به روز به تعداد پله‌های از کار افتاده اضافه می‌شه و مردم مجبورند هر روز در مسیرهای خود بیش از ۷۰ تا ۱۰۰ پله رو بالا و پایین کنند. هیچ اهتمامی هم برای تعمیر و راه‌اندازیشون نیست.\n\n🔹از شیراز پیام می‌دم. من ۲۷ سالمه، مشکل دیابت دارم، مجرد هستم، ۲۰ میلیون تومن حقوق می‌گیرم. الان با اوضاع ازدواج که یه آرزو شده، حتی برای دارو خریدن هم به مشکل خوردم.\n\n🔹از قزوین پیام می‌دم. وقتی اعتراضی به گرونی و زندگی سخت مردم می‌شه، می‌گیرن می‌برنت. اینجا حرف حساب جوابش چوب و چماقه.\n\n🔹من وانت دارم و کنار خیابان میوه می‌فروشم. هر بار که می‌رم میدان تره بار قیمت‌ها بالا رفته. باور کنید سود خیلی کمی می‌ذارم رو بار که مردم بتونن بخرن ولی بازم مردم قادر به خرید ارزان‌ترین نوع میوه هم نیستن. کلا میوه داره از سبد خانوار حذف می‌شه.\n\n🔹از شهرکرد پیام می‌دم. رفتم شیشه‌بالابر ماشینم را درست کنم، یک میلیون و ۸۵۰ هزار تومان ازم گرفت. دیگه کم آوردم.\n\n🔹من تو بازار موبایل فعالیت دارم. قیمت موبایل چند برابر شده. A07 که یه موبایل ضعیف و کم فروش بوده الان شده ۵۰ الی ۶۰ میلیون تومن. بازار ما که کساده ولی اونی که موبایل لازم داره چرا باید انقدر هزینه کنه وقتی حقوقش ۲۰ میلیونه.\n\n🔹در نور ایزدشهر مازندران هر روز حداقل ۵ بار به مدت حدوداً ۱۵ دقیقه آنتن سیم‌کارتمون و اینترنتمون به‌صورت کامل قطع می‌شه. یعنی روزانه حداقل یک ساعت آنتن و اینترنت نداریم. دارن از روش مدرن و پنهانی برای سرکوب مردم استفاده می‌کنند.\n\n🔹قیمت پمپ شیمی‌درمانی از تیرماه تا الان سه بار عوض شده. از ۸۰۰ هزار تومن تا یک میلیون و نیم. داروی وکتیبیکس مخصوص بیماران سرطانی هم دیگه توی بازار نیست. گفتن شاید مهرماه گیر بیاد.",
       "media": [],
       "reactions": [],
-      "views_label": "32.6K",
+      "views_label": "33.6K",
       "posted_at": "2026-09-07T10:39:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356116",
@@ -373,7 +457,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.6K",
+      "views_label": "33.6K",
       "posted_at": "2026-09-07T10:35:26+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356115",
@@ -401,7 +485,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.5K",
+      "views_label": "33.6K",
       "posted_at": "2026-09-07T10:35:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356114",
@@ -429,7 +513,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.8K",
+      "views_label": "39.9K",
       "posted_at": "2026-09-07T10:17:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356113",
@@ -457,7 +541,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45.1K",
+      "views_label": "46.1K",
       "posted_at": "2026-09-07T09:56:31+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356112",
@@ -2653,90 +2737,6 @@
       "posted_at": "2026-09-06T18:29:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356028",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356027",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dua7-1F68YLJEFGTSTDkU4pbo7m29v_PUJo2Id0N3mpOijzM-Ub3dUhVIdGgiFiUhiPrQlMJKmZS7PXc6vsLzQw5lcMV_0vR2fRD2DKa3RDILk1oxcl2xdhmXItFOYchjDiDsgeLBQ_1T0LBPZcIoH3hZQWRinokn6_n3QMh3HeLQL1xTx-T4w5vhLmH_pMyugiDxZG96Q94OLXBePfpnJaSWRQdpdGWA29Z7E5pCPobtE0Sj7srHnvAGLaBDNDonYlFCLdCBSiGWmc2pRkrFtkr9og4kQ9w7KNWP8eu8Ze6jPWegnUYoPiQLkQNQtTHDMO_6IRz2XARr4G6gn_TuQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/ca7f2807f5839f47a1129d1b.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>درگیری منجر به فحاشی خداداد عزیزی،‌ مدیر تیم فوتبال تراکتور با امید عالیشاه، بازیکن گل گهر،‌ با واکنش مهدی تارتار و عبدالله ویسی، سرمربیان پرسپولیس و ذوب‌آهن مواجه شد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>عبدالله ویسی، سرمربی ذوب‌آهن در نشست خبری پیش از بازی با پرسپولیس دراین‌باره گفت: «من خجالت می‌کشم که اصلا درباره این موضوع صحبت کنم. واقعا جای خجالت دارد. چطور جرأت میکنی جلوی زن و بچه‌ات فحاشی کنی؟ تو خودت انسانی، واقعا جای تاسف دارد.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>مهدی تارتار، سرمربی پرسپولیس‌ هم در نشست خبری پیش از بازی با ذوب آهن در این‌باره گفت: «تنها راه‌حلش، برخورد شدید است. ما فرهنگ بالای ایرانی داریم و نباید به راحتی از این مسائل عبور کنند. خیلی زشت که این فضا ایجاد شده است. جوان‌ها و بچه‌های ما اصلا نباید این چیزها را بشنوند. واقعا وحشتناک است و به نظرم باید برخورد صورت بگیرد.»<br><br><a href=\"https://t.me/iranintltvsport\" target=\"_blank\">@iranintltvsport</a>",
-      "plain_text": "🔻درگیری منجر به فحاشی خداداد عزیزی،‌ مدیر تیم فوتبال تراکتور با امید عالیشاه، بازیکن گل گهر،‌ با واکنش مهدی تارتار و عبدالله ویسی، سرمربیان پرسپولیس و ذوب‌آهن مواجه شد.\n\n🔹عبدالله ویسی، سرمربی ذوب‌آهن در نشست خبری پیش از بازی با پرسپولیس دراین‌باره گفت: «من خجالت می‌کشم که اصلا درباره این موضوع صحبت کنم. واقعا جای خجالت دارد. چطور جرأت میکنی جلوی زن و بچه‌ات فحاشی کنی؟ تو خودت انسانی، واقعا جای تاسف دارد.»\n\n🔹مهدی تارتار، سرمربی پرسپولیس‌ هم در نشست خبری پیش از بازی با ذوب آهن در این‌باره گفت: «تنها راه‌حلش، برخورد شدید است. ما فرهنگ بالای ایرانی داریم و نباید به راحتی از این مسائل عبور کنند. خیلی زشت که این فضا ایجاد شده است. جوان‌ها و بچه‌های ما اصلا نباید این چیزها را بشنوند. واقعا وحشتناک است و به نظرم باید برخورد صورت بگیرد.»\n\n@iranintltvsport",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356027",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/jbASCJj_YC5fSWrOGq_jnpIn_BTNtH_9JNMgte6ai5Yg_pdQyleucfyezatvTZSYs-CGqVV77jJlFoZFw1HbPMENnpMhW1VQMT2fIqkxkThRDzv09aks08wgZUz39hBs3AUGhCDqv55HOniiTaAARY8NxJVAlnNMX4N0Fs5fy3vevcw4-WzgWo7x1dzHpIWhsEQlJQUkI-EG6MuVyyQLqOkk4cSlPRzCRy_fbZg7YJaLLTjEaMaHZk6kUc9htmWpm-YdFxgURkYVbOu8r85-_laIg-iILUEzLklbRik37Cp4jCfXV3PpI0qlUSoIGqWYJfM2F5ROUly829xMp3-3pw",
-          "thumbnail_path": "channels/iranintltv/media/80b59166b5ab1a63b7091c7e.jpg",
-          "thumbnail_sha256": "1dec6bb90e2d5c58782976d21153f2507271280f316f6c55c8cac4518d822fc3",
-          "duration_label": "1:29",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "83.6K",
-      "posted_at": "2026-09-06T18:04:09+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356027",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356026",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dua7-1F68YLJEFGTSTDkU4pbo7m29v_PUJo2Id0N3mpOijzM-Ub3dUhVIdGgiFiUhiPrQlMJKmZS7PXc6vsLzQw5lcMV_0vR2fRD2DKa3RDILk1oxcl2xdhmXItFOYchjDiDsgeLBQ_1T0LBPZcIoH3hZQWRinokn6_n3QMh3HeLQL1xTx-T4w5vhLmH_pMyugiDxZG96Q94OLXBePfpnJaSWRQdpdGWA29Z7E5pCPobtE0Sj7srHnvAGLaBDNDonYlFCLdCBSiGWmc2pRkrFtkr9og4kQ9w7KNWP8eu8Ze6jPWegnUYoPiQLkQNQtTHDMO_6IRz2XARr4G6gn_TuQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/ca7f2807f5839f47a1129d1b.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "مهدی مهدوی‌آزاد در برنامه «چشم‌انداز» گفت ابوالفضل شکارچی، سخنگوی ارشد نیروهای مسلح جمهوری اسلامی، چند روز پیش رسانه‌های فارسی‌زبان خارج از کشور، از جمله ایران‌اینترنشنال، بی‌بی‌سی و رادیو فردا، و افرادی را که در این رسانه‌ها فعالیت می‌کنند، «اهداف نظامی» خوانده است.<br>او با اشاره به این اظهارات گفت: «این‌ها چنین آدم‌های پرت، پرادعا و خطرناکی هستند.»<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "مهدی مهدوی‌آزاد در برنامه «چشم‌انداز» گفت ابوالفضل شکارچی، سخنگوی ارشد نیروهای مسلح جمهوری اسلامی، چند روز پیش رسانه‌های فارسی‌زبان خارج از کشور، از جمله ایران‌اینترنشنال، بی‌بی‌سی و رادیو فردا، و افرادی را که در این رسانه‌ها فعالیت می‌کنند، «اهداف نظامی» خوانده است.\nاو با اشاره به این اظهارات گفت: «این‌ها چنین آدم‌های پرت، پرادعا و خطرناکی هستند.»\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356026",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/IMsV37yPXziKI4zK2hWnoypYi7eTShimB40ZLZY7RmXb7ZU8qt0w8iq02Drgv25sG5_4zrJ8H3huBmw2-xF3iptf_rBw1dkn7646u4v39U7H6B2098Mp9jT6cS5ejd4gQnpR2hV5qDuoHDK4FsKkgUEh6_JB6D7xOjd79pefUmXkOco6WvoNvEgvar8w6VGhPWz016f2KePC4H35f5bxD01LPBTnT5FMCdrtDuPgg3Y6pKZWnhuVstl8MfzxCyZwGV4j8JXaUCv4_NxS4uApUq1Xq1yt0G5J6dw3m5IJrvcQyAynXabhdlv_cXzuCvneNusFRW4a8DNlEDJ6m39D-Q",
-          "thumbnail_path": "channels/iranintltv/media/2861f6ba5e0c2709801b960b.jpg",
-          "thumbnail_sha256": "e5fc1107f10cc37e65452ab7b09ab5b47a2ebc54c65c8b618d3d16e80a536691",
-          "duration_label": "1:58",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "82.8K",
-      "posted_at": "2026-09-06T17:49:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356026",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356025",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/dua7-1F68YLJEFGTSTDkU4pbo7m29v_PUJo2Id0N3mpOijzM-Ub3dUhVIdGgiFiUhiPrQlMJKmZS7PXc6vsLzQw5lcMV_0vR2fRD2DKa3RDILk1oxcl2xdhmXItFOYchjDiDsgeLBQ_1T0LBPZcIoH3hZQWRinokn6_n3QMh3HeLQL1xTx-T4w5vhLmH_pMyugiDxZG96Q94OLXBePfpnJaSWRQdpdGWA29Z7E5pCPobtE0Sj7srHnvAGLaBDNDonYlFCLdCBSiGWmc2pRkrFtkr9og4kQ9w7KNWP8eu8Ze6jPWegnUYoPiQLkQNQtTHDMO_6IRz2XARr4G6gn_TuQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/ca7f2807f5839f47a1129d1b.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "فاطمه مهاجرانی، سخنگوی دولت جمهوری اسلامی، گفت نرخ سوم بنزین از بامداد ۱۷ شهریور به لیتری ۱۰ هزار تومان افزایش می‌یابد.<br><br>به گفته مهاجرانی، در جلسات کارشناسی رقم‌های متفاوتی مطرح شده بود، اما با توجه به وعده مسعود پزشکیان، رییس دولت جمهوری اسلامی، نرخ ۱۰ هزار تومان تعیین شد.<br><br>سهمیه ماهانه ۶۰ لیتر بنزین با نرخ لیتری ۱۵۰۰ تومان و ۵۰ لیتر با نرخ لیتری ۳۰۰۰ تومان بدون تغییر باقی می‌ماند.<br><br>مهاجرانی گفت درآمد حاصل از افزایش نرخ سوم بنزین برای معیشت مردم هزینه خواهد شد.<br><a href=\"https://iranintl.com/202609061464\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609061464</a>",
-      "plain_text": "فاطمه مهاجرانی، سخنگوی دولت جمهوری اسلامی، گفت نرخ سوم بنزین از بامداد ۱۷ شهریور به لیتری ۱۰ هزار تومان افزایش می‌یابد.\n\nبه گفته مهاجرانی، در جلسات کارشناسی رقم‌های متفاوتی مطرح شده بود، اما با توجه به وعده مسعود پزشکیان، رییس دولت جمهوری اسلامی، نرخ ۱۰ هزار تومان تعیین شد.\n\nسهمیه ماهانه ۶۰ لیتر بنزین با نرخ لیتری ۱۵۰۰ تومان و ۵۰ لیتر با نرخ لیتری ۳۰۰۰ تومان بدون تغییر باقی می‌ماند.\n\nمهاجرانی گفت درآمد حاصل از افزایش نرخ سوم بنزین برای معیشت مردم هزینه خواهد شد.\nhttps://iranintl.com/202609061464",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356025",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/bKrrTlC0zrj2bNYcurA7M2kkzQ6ciKrgoy4r59sntdS1WetP03NLU0rlJYqVU9h-y44mQGOgV6PKqXSq0B__NeMz6-d_UKYMHR_OokeHACgn7WUOVCR69aUHtT2duW8ZR_Hhc9VcmulBTTJnZd1jNHye6djHxkSPPB51Uh8hIXtktufpnjhZRAxaoye6tEzFxAhp87h69MJ4srkuG0n0KXD3JgFtI8Gy4TIySEYeUzkaaSHysdYTLrGjhc-gGrHEKxl2kT10Ip2xUmIskw3ydNrRLe9ul8xb-N5qI5lBNlKoLcMqgSOyi91VTjfXsMcBN_Z4TXFUuFCDFmaivM7BWQ.jpg",
-          "thumbnail_path": "channels/iranintltv/media/5786b3cf4c05657be561483c.jpg",
-          "thumbnail_sha256": "49161d887e71b57d7b0ca5027c768bbf65235759da0089f3ec2fa05153502588",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "80.8K",
-      "posted_at": "2026-09-06T17:46:47+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356025",
       "reply": null
     }
   ]

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T12:07:11.590Z",
+  "fetched_at": "2026-09-07T12:12:13.923Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229722",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "ارتش اسرائیل اعلام کرد نیروهای تیم رزمی تیپ ۴۰۱ و یگان مهندسی ویژه یک مسیر زیرزمینی سازمان تروریستی حزب‌الله را در روستای حداثا در منطقه امنیتی جنوب لبنان منهدم کردند.<br><br>بنا بر این بیانیه طول این مسیر زیرزمینی حدود ۵۵ متر بود و شامل سه اتاق استقرار می‌شد. این مسیر در زیر یک کارخانه تولید مصالح ساختمانی و در فاصله حدود ۳۰۰ متری از ساختمان یونیفیل ساخته شده بود. همچنین در محدوده این تأسیسات، یک چاهک زیرزمینی کشف شد که ده‌ها سلاح و مهمات در آن ذخیره می‌شد.<br><br>ارتش اسرائیل تاکید کرد به فعالیت برای رفع هرگونه تهدید علیه نیروهای خود ادامه خواهد داد و به سازمان تروریستی حزب‌الله اجازه نخواهد داد به شهروندان اسرائیل آسیب برساند.",
+      "plain_text": "ارتش اسرائیل اعلام کرد نیروهای تیم رزمی تیپ ۴۰۱ و یگان مهندسی ویژه یک مسیر زیرزمینی سازمان تروریستی حزب‌الله را در روستای حداثا در منطقه امنیتی جنوب لبنان منهدم کردند.\n\nبنا بر این بیانیه طول این مسیر زیرزمینی حدود ۵۵ متر بود و شامل سه اتاق استقرار می‌شد. این مسیر در زیر یک کارخانه تولید مصالح ساختمانی و در فاصله حدود ۳۰۰ متری از ساختمان یونیفیل ساخته شده بود. همچنین در محدوده این تأسیسات، یک چاهک زیرزمینی کشف شد که ده‌ها سلاح و مهمات در آن ذخیره می‌شد.\n\nارتش اسرائیل تاکید کرد به فعالیت برای رفع هرگونه تهدید علیه نیروهای خود ادامه خواهد داد و به سازمان تروریستی حزب‌الله اجازه نخواهد داد به شهروندان اسرائیل آسیب برساند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229722",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/sHznjq3r_B-Z_7DwiOitHIJ0NRWzwv1fxmYEi2XZSzr337lLcy2Y9C0hn2dxxwVtwOYXABZOs7Y6DtZ2XcJssrivSrmPZOgL7cqrAz8YesKKubBCvMWfRkthB--wX6Ov9ex6BSOSaDf6C_e52MqmgoP4jvoCbd1nB2EAR3Faz7261sPdPAg1klO-MXr04XTTIhiz-e7wj9oJrag6-gm7P6ttnfsECeRQfwL5v6cdgm_vRFsl02-hNTG6wzCdilWeVoINE9QPalnI68Wvo9E0owe68u4SuWcZsjlmr2YmUhqrRGFBUtluNO3Ua8bmOSKlObUgQ2HFQaLEPvwlk6Tn6w",
+          "thumbnail_path": "channels/farsivoa/media/5bad8f735fe7347f3058f856.jpg",
+          "thumbnail_sha256": "dc8aaa0d0e93ace391444ec8169bea6a95b620a763b6703754564df470c2d95b",
+          "duration_label": "0:50",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-07T12:11:44+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229722",
+      "reply": null
+    },
     {
       "id": "farsivoa/229721",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "127",
+      "views_label": "451",
       "posted_at": "2026-09-07T12:05:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229721",
@@ -49,7 +77,7 @@
       "plain_text": "🔺چیپ روی: جمهوری اسلامی «در حال فلج شدن» است\n\n▪️نماینده جمهوری‌خواه تگزاس در مجلس نمایندگان آمریکا گفت ادامه فشار نظامی و اقتصادی بر جمهوری اسلامی با وجود افزایش هزینه سوخت برای شهروندان آمریکایی در بلندمدت به سود واشنگتن است.\n\n▪️چیپ روی در گفت‌وگو با شبکه فاکس‌نیوز گفت: «آنها آسیب دیده‌اند؛ از نظر اقتصادی آسیب دیده‌اند.»\n\n▪️او افزود جمهوری اسلامی اکنون تنها بخش کوچکی از میزان معمول نفت خود را صادر می‌کند و «در حال فلج شدن» است. روی گفت هدف واشنگتن باید سه چیز باشد یعنی جلوگیری از دستیابی جمهوری اسلامی به سلاح هسته‌ای، محدود کردن فعالیت‌های تروریستی، و تضعیف توان نظامی و درآمدهای نفتی جمهوری اسلامی.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/gop-lawmaker-roy-warns-us-must-hold-the-line-against-iran/8195039.html",
       "media": [],
       "reactions": [],
-      "views_label": "515",
+      "views_label": "710",
       "posted_at": "2026-09-07T11:58:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229720",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "767",
+      "views_label": "930",
       "posted_at": "2026-09-07T11:52:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229719",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.02K",
+      "views_label": "1.15K",
       "posted_at": "2026-09-07T11:46:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229718",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.31K",
+      "views_label": "1.38K",
       "posted_at": "2026-09-07T11:34:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229717",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.43K",
+      "views_label": "1.54K",
       "posted_at": "2026-09-07T11:26:16+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229716",
@@ -177,7 +205,7 @@
       "plain_text": "🔺جان باختن یکی از معترضان دی ماه در زندان دستگرد اصفهان\n\n▪️منابع حقوق بشری از جان باختن عرفان میرزایی، معترضی که در اعتراضات دی ماه بازداشت شده بود، در زندان دستگرد اصفهان خبر دادند.\n\n▪️کمیته آزادی زندانیان سیاسی در ایران، جان باختن این معترض را تأیید کرده، اما اعلام کرد که درباره علت جان‌باختن عرفان میرزایی روایت‌های متفاوتی منتشر شده است.\n\n▪️به گفته این کمیته، برخی منابع از «اجرای مخفیانه حکم اعدام» خبر داده‌اند، در حالی که شماری دیگر مدعی هستند عرفان میرزایی در بند امنیتی «الف‌طا» زندان دستگرد، دست به خودکشی زده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195036.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.54K",
+      "views_label": "1.61K",
       "posted_at": "2026-09-07T11:18:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229715",
@@ -193,7 +221,7 @@
       "plain_text": "🔺نتانیاهو: هیچ تروریستی مخفیگاه نخواهد داشت\n\n▪️نخست‌وزیر اسرائیل پس از کشته شدن مهاجم فلسطینی در کرانه باختری اشغالی نوشت: «هیچ تروریستی مخفیگاه ندارد.»\n\n▪️بنیامین نتانیاهو در شبکه ایکس افزود: «رزمندگان قهرمان ما را که برای برخورد پیش رفتند و تروریست انجام‌دهنده حمله در سامره را از میان بردند، تقویت می‌کنم.»\n\n▪️نخست‌وزیر اسرائیل برای مصدوم آرزوی بهبودی کرد و گفت: «به کشتن تروریست‌ها، تعقیب اعزام‌کنندگانشان و نابود کردن زیرساخت‌های تروریستی ادامه می‌دهیم. هر کس بکوشد دولت اسرائیل و شهروندانش را تهدید کند، بهای سنگینی می‌پردازد.»\n\n▪️مهاجمی فلسطینی دوشنبه در نزدیکی روستای عوصرین در شمال کرانه باختری یک شهروند اسرائیلی را با چاقو زخمی کرد و از محل گریخت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195035.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.6K",
+      "views_label": "1.67K",
       "posted_at": "2026-09-07T11:11:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229714",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.53K",
+      "views_label": "1.6K",
       "posted_at": "2026-09-07T11:05:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229713",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.76K",
+      "views_label": "1.82K",
       "posted_at": "2026-09-07T10:57:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229712",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.88K",
+      "views_label": "1.94K",
       "posted_at": "2026-09-07T10:48:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229711",
@@ -293,7 +321,7 @@
       "plain_text": "🔺ثبت ده‌ها مورد نقض حقوق زنان طی یک ماه در ایران\n\n▪️سازمان حقوق بشری هه‌نگاو می‌گوید در ماه اوت ۲۰۲۶، دست‌کم ۲۰ زن فعال در ایران بازداشت و ۲۶ زن نیز به احکام قضایی، از جمله اعدام و حبس، محکوم شده‌اند.\n\n▪️براساس گزارش هه‌نگاو در همین مدت دست‌کم ۱۹ مورد زن‌کشی در شهرهای مختلف ایران ثبت شده و حکم اعدام شش زن نیز در زندان‌های جمهوری اسلامی اجرا شده است.\n\n▪️بر پایه آمار مرکز آمار و اسناد هه‌نگاو، دست‌کم ۲۰ فعال زن در ماه اوت توسط نهادهای سرکوب در جمهوری اسلامی بازداشت شده‌اند. این تعداد حدود ۱۷ درصد از کل بازداشت‌شدگان ثبت‌شده در این ماه را تشکیل می‌دهد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/dozens-of-women-rights-violations-recorded-in-iran-in-one-month/8195034.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.04K",
+      "views_label": "2.1K",
       "posted_at": "2026-09-07T10:34:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229710",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.16K",
+      "views_label": "2.2K",
       "posted_at": "2026-09-07T10:23:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229709",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.35K",
+      "views_label": "2.38K",
       "posted_at": "2026-09-07T10:08:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229708",
@@ -365,7 +393,7 @@
       "plain_text": "🔺مشاور رئیس امارات متحده عربی: بازسازی اعتماد با جمهوری اسلامی دهه‌ها طول می‌کشد\n\n▪️مشاور رئیس امارات متحده عربی، گفت رابطه کارکردی با جمهوری اسلامی قابل ترمیم است، اما بازسازی اعتماد ممکن است دهه‌ها طول بکشد.\n\n▪️انور قرقاش، روز دوشنبه در انجمن حیلی در ابوظبی گفت: «رابطه کارکردی با ایران می‌تواند و باید بازسازی شود، اما بازسازی اعتماد مسئله دیگری است.»\n\n▪️قرقاش اعلام کرد امارات مسیرهای جایگزینی برای صادرات انرژی و تجارت خود می‌سازد. او گفت: «صادرات انرژی ما گروگان گرفته نمی‌شود، همچنین تجارت و فعالیت اقتصادی‌مان.»\n\n▪️بر پایه گفته او، امارات ظرفیت بنادر ساحل شرقی خود و نیز خطوط لوله، راه‌آهن و مسیرهای تجاری را برای ایجاد کریدورهای جایگزین گسترش داده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195033.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.48K",
+      "views_label": "2.52K",
       "posted_at": "2026-09-07T09:59:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229707",
@@ -393,7 +421,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.52K",
+      "views_label": "2.55K",
       "posted_at": "2026-09-07T09:50:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229706",
@@ -421,7 +449,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.52K",
+      "views_label": "2.58K",
       "posted_at": "2026-09-07T09:43:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229705",
@@ -449,7 +477,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.87K",
+      "views_label": "2.9K",
       "posted_at": "2026-09-07T09:19:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229704",
@@ -465,7 +493,7 @@
       "plain_text": "🔺دو فوتبالیست زن ایرانی پناهنده: به کشتن مردم توسط حکومت اعتراض داشتیم\n\n▪️دو عضو تیم ملی فوتبال زنان ایران که در استرالیا پناهندگی گرفتند، تأیید کردند خودداری‌شان از خواندن سرود ملی در جام ملت‌های آسیا اعتراض به جمهوری اسلامی بود.\n\n▪️عاطفه رمضانی‌صادق ۳۴ ساله و فاطمه پسندیده ۲۲ ساله نخستین گفت‌وگوی رسانه‌ای خود را با برنامه «۶۰ دقیقه» شبکه ۹ استرالیا انجام دادند. در این مصاحبه که روز یکشنبه پخش شد آنها نسبت به کشته شدن مردم معترض به دست جمهوری اسلامی اعتراض کردند.\n\n▪️در همین رابطه رمضانی‌صادق گفت: «فقط می‌خواستیم کنار مردممان بایستیم. گاهی می‌ترسیدم، اما تلاش کردم کار درست را انجام دهم و بگویم هیچ‌کس نباید صرفاً برای اعتراض کشته شود.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/iranian-soccer-players-who-sought-asylum-in-australia-say-anthem-silence-was-protest/8195031.html",
       "media": [],
       "reactions": [],
-      "views_label": "3.11K",
+      "views_label": "3.15K",
       "posted_at": "2026-09-07T08:58:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229703",
@@ -2397,34 +2425,6 @@
       "posted_at": "2026-09-06T14:51:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229623",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229622",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/cQgmNvY74QjMaJtRlGlAgwARq80-ngAFt95OGdUvawYpXRlgX1I0clW8a36_0wg0KQW01LJ0WQu9BqpST7mohIffbNUFA69ex-Lkf6Uxm-tRC9fnRtAzxAzkh0gbyyb0gskR6k6eYyyxmBrreDKOZ3GI717bPZ9fXIO5OPouQSOk6lXWlHM6cd2P_frgT1Wg5WzirdR4Wrxa3cFM5EbbDLoQnZesAGGbAJQC-7-_M1BM1x6rMu_j7_nT_BryWHEWoQu34Hwt3C5O6uTaZY0PWF5cpl7--mPsz-xFvsqjpvn05avmOnilCpREWkKLcCK4OERe7ekk1gf0pDPtLCNTyg.jpg",
-      "author_photo_path": "channels/farsivoa/media/0abbb3eafc2bacb0efcb50a7.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "ارتش اسرائیل اعلام کرد روز یکشنبه، در واکنش به شلیک دو پهپاد انفجاری به سوی نیروهایش در منطقه امنیتی، مجموعه‌ای از اهداف متعلق به حزب‌الله را در جنوب لبنان هدف قرار داده است.<br><br>به گفته ارتش اسرائیل، جنگنده‌های نیروی هوایی انبارهای تسلیحاتی و ساختمان‌هایی را بمباران کردند که نیروهای حزب‌الله از آنها برای برنامه‌ریزی و هدایت عملیات علیه نیروهای اسرائیلی استفاده می‌کردند.",
-      "plain_text": "ارتش اسرائیل اعلام کرد روز یکشنبه، در واکنش به شلیک دو پهپاد انفجاری به سوی نیروهایش در منطقه امنیتی، مجموعه‌ای از اهداف متعلق به حزب‌الله را در جنوب لبنان هدف قرار داده است.\n\nبه گفته ارتش اسرائیل، جنگنده‌های نیروی هوایی انبارهای تسلیحاتی و ساختمان‌هایی را بمباران کردند که نیروهای حزب‌الله از آنها برای برنامه‌ریزی و هدایت عملیات علیه نیروهای اسرائیلی استفاده می‌کردند.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229622",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ifNSXmqShUUMz_7dkwyHJFY92ABellwYwrjw16wFMzH1-3_7QGwzUsgoyjSAR7MtVs-iudT6eDsJP_9y9_9I9ZiqIZfvuKWYTuhD_Oo6_in0tz0V6ran0gVumRX9ziG0FlqylpDFD2d4CJdIu0PGaWD7zY77_flhY6lXHLbV09A87S-VSJIOOEt-mxG30n7ViIIK2RN2DZTojxYazYTO5ycTFWx1Se2SeTvOwIVsZ7mEYYdsoDhhJwHN_qSkvvKUYVoWNax8D9idYeEMWgY0-EnG1cYJFD1OAvHh5ur-DthnFgz-N9scWlybzd82F5ENHRsJT1NwIheyP34-6mnJVQ",
-          "thumbnail_path": "channels/farsivoa/media/9aac707fb915bc47f1f1c031.jpg",
-          "thumbnail_sha256": "21dd07a4322fffcba1ea87b19da82758573e8c2d820cd08cb949f34fac20ffcc",
-          "duration_label": "0:15",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.49K",
-      "posted_at": "2026-09-06T14:49:58+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229622",
       "reply": null
     }
   ]
