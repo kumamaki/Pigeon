@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T13:47:17.285Z",
+  "fetched_at": "2026-09-07T13:52:52.179Z",
   "channel": {
     "username": "daadbaan2021",
     "title": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
@@ -38,7 +38,7 @@
           "count": "1"
         }
       ],
-      "views_label": "48",
+      "views_label": "53",
       "posted_at": "2026-09-07T13:12:55+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20226",
@@ -202,7 +202,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "131",
+      "views_label": "133",
       "posted_at": "2026-09-07T09:17:20+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20212",
@@ -315,22 +315,11 @@
           "thumbnail_sha256": "2f9e41cf89f0d49cfa474a8acf6da607cee029874618410bfb26391246c2f83b",
           "duration_label": null,
           "aspect_ratio": 0.79875
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Daadbaan2021/20221?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/gDUZM89DH3Vveq_s2_KIE8kX2f1jl2hCdQAQeS4r2XcIP_ag7HhMvRrUIwobqBLPaDoo43HlfhV6FiUUCb1V9sp3pwBPrj3oDXKkqMKOetco_jnKjYYjzkII-EltNwxuYpARfWBGKKzzpDBG5C73UEipra_z0tFw3fiXYOXSCyhM5_Ycqqu-Boey9m3kif2nONpyY-1fpxHw_82XiZ5unAwWgc6xHxJahEgPoSzzFPPZ38NMk4YGE4vpIahmHod0qlCPGjZQkvmPjpwdC0hivxV4J3MuP2VpriW-s91iWUvqTp-AlBZHVshx_aGq9-MzHAJq3FAqJN52ODqxkUxfQw.jpg",
-          "thumbnail_path": "channels/daadbaan2021/media/4eee476f0fa6d7f2fd5ea803.jpg",
-          "thumbnail_sha256": "1589dc46eb48de8300ae07d964a0cfbbc236c76640659acc020dc0b77a53b93b",
-          "duration_label": null,
-          "aspect_ratio": 0.79875
         }
       ],
       "reactions": [],
-      "views_label": "97",
-      "posted_at": "2026-09-07T09:17:17+00:00",
+      "views_label": "90",
+      "posted_at": "2026-09-07T09:17:14+00:00",
       "edited": false,
       "permalink": "https://t.me/Daadbaan2021/20205",
       "reply": null
