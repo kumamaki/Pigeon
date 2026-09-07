@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T22:37:12.244Z",
+  "fetched_at": "2026-09-07T22:42:13.634Z",
   "channel": {
     "username": "mamlekate",
     "title": "مملکته",
@@ -11,6 +11,56 @@
     "subscriber_count": "568K"
   },
   "posts": [
+    {
+      "id": "mamlekate/104378",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ZVNNlpWoKwkYBFouLcs_Pw4lKzSdPj7BUcq-WCAfe2zDrbgKBhUD37VZcO12mZ4OothvbZpVjUT-5g2ixUn6ZtLKtBRnJrfIa9aYHrETdhtqTiF6Yg64928z7b0n7h4TNFiKdHk3FcTz3xny5zLAbTZ-VarlLYIfm16tkWNL4sWnBJoGAz4un4YQDplR3yjJls96U6vnpnlgoTJTY-BxS0UIC4RWdg7BblsjFoe7Ec7jqIX27Ogh-CZMdSKXPQwNF6ODUhPKh_obvvcXBfbrDvhV1awU1Tml-senhn_FOeuiLtVl45fdIWei5jVSX7x1-VcXu9PK8279RGHEV6CX7Q.jpg",
+      "author_photo_path": "channels/mamlekate/media/a66c1a3300ad5823463961c8.jpg",
+      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">وضعیت رشت با نیم ساعت بارون…<br><br><a href=\"https://x.com/amir_barmaj/status/2097055024127865169\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">amir</a><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a></div>",
+      "plain_text": "وضعیت رشت با نیم ساعت بارون…\n\namir\n@mamlekate",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104378?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/E3naM8p3RVizjaGI67mNODS9OpuHK6GADONEuZ4XsNGCTGAk3RQt9bYWmHwkBrVPQVCyX3ikXZP7_EQfyzbu_aywlcAbPl3bhbyX7HTFHgpyro6WOFfIvI0yRCs4nEZYL-zQIRFSHheWqvtZ8umL1Ug_BwiuVGDlOqJLM4OyJgpJE-vsqPdYzTjgI8zVsnYJXXrp9tdtV_gKU1ZYJ9CCOaIONbvP5sNOIs5ikp4l1WU3XdOL6ZmBnSlzCfcMy-y6xXHXsRGM5yo0B5Ze02e_YxpHHpJtgR2FzhYqx3Je_ncxM79i8lEEOi_RAmTAu-E7GtFS0XUSL8y5-qWn0N1Rbg",
+          "thumbnail_path": "channels/mamlekate/media/564ec26e4d41c73b43f5a172.jpg",
+          "thumbnail_sha256": "37d4490dc18423dc713236800f8f53849e2e14711e45f3bf36af908d53a32fd1",
+          "duration_label": "0:12",
+          "aspect_ratio": null
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104379?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/WoM_ZOZiJmkgyJymjoArdfKAPS1Bl4E0Azhs3wG5eblmrJ2HRxkDFuAVu0jltWQ1CxKdszsm-0xPHNtCVb9O-jDa6STVYBYZXislFMeRwFbUvoN__p5kBRzoaKEDYgqERceQaBw0fbBx9mimYh33kK48RFOGpd8NFlWlnUKITDfgrLGjmUzUqcDzlAMvoHmtBe_l1_GQTh_9MwG1BG5_fAzYQFl5VzXOr2jCeij1x9XGZxJ4YoOyJ2cQ7hTnC4q5sfFIDfPKkT90dA3QjKdkb4hlN20GQVgxuoi_BHx2OrhioCX0fMZT8aPDFwSY-WHVheEPRLdE1W-UzbliSL5edw",
+          "thumbnail_path": "channels/mamlekate/media/0503bf2fd2eb0217941dae9a.jpg",
+          "thumbnail_sha256": "38e428f9977c5e0742b3b2f472764bb123c24864aa7d41ec63762268bc68cf3c",
+          "duration_label": "0:12",
+          "aspect_ratio": null
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104380?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/jQ65XVB0ZQcwluj_N508JC62WnU2naH2AghIInOzpxBXJOhh1-LIEzWj_otdsveQkwkFoRSxj7Nb0icBDSOUJPGCCtd_1dX5BiUJToMsSwImcJAKV0FAaFlQ8Zz4ux7hI9roRJw0Ck6OGYIgJRfCDmlSJewTV1cMaDAIeMH1fvNOJHSjS7OGTA9bmRYbU2oULS3Y4OgzUmRvkggxteczWLejYYMA98pS8cSRyZUWwSpDvBBpJv7WzM7_I1uCxEsC0ltBLikkBIdflLaFEha_lV5IWBhv2m6nymBxaeLLjQVQAH_WzYPJ9sXtjKjNdPApVeS4ZnZt-pWyUm8BhD-new",
+          "thumbnail_path": "channels/mamlekate/media/de82405b112abfeb0081bb17.jpg",
+          "thumbnail_sha256": "9d52821c79533b2f4343a112d369dba2ec3cae914d1f8c0d189009c4e0baa643",
+          "duration_label": "0:31",
+          "aspect_ratio": null
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.91K",
+      "posted_at": "2026-09-07T22:37:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/mamlekate/104378",
+      "reply": null
+    },
     {
       "id": "mamlekate/104377",
       "author_name": "مملکته",
@@ -33,7 +83,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.9K",
+      "views_label": "16.2K",
       "posted_at": "2026-09-07T22:07:02+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104377",
@@ -61,7 +111,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.3K",
+      "views_label": "31.3K",
       "posted_at": "2026-09-07T21:30:07+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104376",
@@ -89,7 +139,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.9K",
+      "views_label": "31.2K",
       "posted_at": "2026-09-07T21:28:18+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104375",
@@ -105,7 +155,7 @@
       "plain_text": "📞 امروز ۱۶ شهریور از ساعت ۹ شب موتورای دوترکه مسلح تمام میادین شهر ایستاده بودن و داشت به تعدادشون اضافه میشد. تمام سگاشونن آورده بودن بیرون برای جلوگیری از اعتراض مردم به دو برابر کردن قیمت بنزین\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "68.5K",
+      "views_label": "69.5K",
       "posted_at": "2026-09-07T19:15:38+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104374",
@@ -133,7 +183,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "79.3K",
+      "views_label": "80K",
       "posted_at": "2026-09-07T18:44:37+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104373",
@@ -149,7 +199,7 @@
       "plain_text": "📝 «تسلط نیروهای دولتی یمن بر یک پایگاه راهبردی حوثی‌ها»\n\nنیروهای دولتی یمن در میان نبردهای چندجبهه‌ای، یک پایگاه مهم حوثی‌ها را تصرف کردند.\n\nچند روز پس از دفع حمله حوثی‌ها به شهر بندری المخا، نیروهای نظامی دولت یمن که از شناسایی بین‌المللی و حمایت عربستان برخوردار است پادگان \"اللبنات\" در استان الجوف را محاصره کرده و به سمت مرکز این استان پیشروی می‌کنند.\n\n\n📝 خلاصه وضعیت یمن اینطوری که به دلیل اختلاف شدیدی که بین نیروهای نزدیک به امارات و عربستان در قبل از جنگ ایران افتاده بود، تقریبا میشه گفت نیروهای نزدیک به امارات به نوعی به حوثی ها حتی کمک میکردند و عربستان یکبار کشتی حامل تجهیزات اماراتی را نزدیک یکی از بنادر یمن زد ، ولی بعد از جنگ ایران و ترس از بستن باب المندب برای عربستان و امارات هدف مشترک ایجاد کرد و همه این نیروها با هم در چند جبهه با حوثی ها درگیر شدند و باعث شکست حوثی ها در چند بخش شده\n\n1000pa2\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "83.7K",
+      "views_label": "84.3K",
       "posted_at": "2026-09-07T18:12:50+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104372",
@@ -237,7 +287,7 @@
           "count": "3"
         }
       ],
-      "views_label": "95.7K",
+      "views_label": "96.1K",
       "posted_at": "2026-09-07T15:44:02+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104366",
@@ -287,7 +337,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "90.5K",
+      "views_label": "90.8K",
       "posted_at": "2026-09-07T15:43:39+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104363",
@@ -2769,50 +2819,6 @@
       "posted_at": "2026-08-27T06:49:57+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104250",
-      "reply": null
-    },
-    {
-      "id": "mamlekate/104248",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/kVIUzGOcKB2QTv8jspsZszXErHtPKZ387jivsEfyz12rYNMd0DxYuLaLLSY7CrCJUGClnxlq7nA6anz-p01J8cOSHUYppb4u68HyT8AGviD3uPYu7UKHVof0mjefA3I-jTDg3h2FB14KeSxJM9QoFn_aTbYf-dLqb8LWBOvYYUzG_bWS_Zbrl8pflzJfsef_pcUCL-8apAy8LFJhY4vgekTkJqSDbwbbKR2yxDrORrsqL9IVmYQnezQqxFtN7GUrmU8g8EBLZQA_ClO6er63zpkI6QvSw_i88CfJU94dkKXe6WcRyXH1IAsnlxo3VS4iRKeo-Sw-Rtq9eS2Kdjouqg.jpg",
-      "author_photo_path": "channels/mamlekate/media/5565e343a0f09946e5853780.jpg",
-      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
-      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">طلا دادیم عن گرفتیم<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a></div>",
-      "plain_text": "طلا دادیم عن گرفتیم\n\n@mamlekate",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104248?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/O_5jCeIfN1-Cbe5VefHVLM4GDuL2nxfXbW5QLFJ5VM4QZuPDJYAKZtUWxoI0PEJVaHL76YQOZ9tQJwpx2cUB6ER_wzmrevRby4E6G9h9myjgE_U9qP48RnArPfNH-GTAogOUdwWxV8Zff3P6_YwyAS3dpa26I9sEh-G_4dO6yHOb0VMHlQ_JSY2JMIclPs7CN0BykCKR_tAuv8y5YlGyJ9IHNJqc36ggikrZIoIGp5qWOeS3OtgqeCxGJxvf-FgPfX9t9YS6sywCBRJLRvKno2iZuCPSmvjTwGtO3QMTV3j46sf_LwEZiA2T71So_MDnvo854kfIs0eP5k9SkOS-Kg",
-          "thumbnail_path": "channels/mamlekate/media/7f0b67b86a57fb561b6f5ce1.jpg",
-          "thumbnail_sha256": "01817841c21558cb9a3d9ccb5c43fe4b2e1fbd4b802d9dbeea33617bdecfee31",
-          "duration_label": "1:27",
-          "aspect_ratio": null
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104249?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/CVqyFGg3E0FLZADj-BEO-8M8-qnxEi-yQt60icA3xgvwXoz88nmodhTZ48OGWVCODMcSYpQl8NYrfQR4QtjcXt0NozFZLBe0s05azrItP2pQ5FvyVa5laEJlTYbdNiDn2RHeUm51uA9RJHTLoGTDRtw4IQNKO7RN5w1zoxaaSb2kktWg6QIqCXCnt2lTuIBmw22-qUqVYtV3YX3xX_Ic6tLRup96GKF2pNkmlKciupPOAaEzfTvTwJPcs7-Fwx8P1na2e_-IBJK3DC7rfujfDNGtNmwKepFGPrz_Rd1675pHSyhxd6sKlpPQgM89zfDfOYQ1YhT8NCdUBlGEPzqYsg",
-          "thumbnail_path": "channels/mamlekate/media/d5e56373c8680a6eaa2c9c77.jpg",
-          "thumbnail_sha256": "734750ae87af971694ddc68ad27459f4eb1d4c347fa1019ab8de8b80db0d8d07",
-          "duration_label": "0:47",
-          "aspect_ratio": null
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "146"
-        }
-      ],
-      "views_label": "134K",
-      "posted_at": "2026-08-26T22:13:36+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mamlekate/104248",
       "reply": null
     }
   ]
