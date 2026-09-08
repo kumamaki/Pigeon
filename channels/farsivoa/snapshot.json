@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T18:56:38.662Z",
+  "fetched_at": "2026-09-08T19:02:55.717Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229900",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "تبعات گرانی بنزین و افزایش قیمت‌ها؛ کوچکتر شدن آرزوهای مردم",
+      "plain_text": "تبعات گرانی بنزین و افزایش قیمت‌ها؛ کوچکتر شدن آرزوهای مردم",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229900",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/udAc3qtsDU1tSKkabwOYpt4S9mi6n8l2LNzH_Ktx8wqE5TAs0iVB1pBwGfJzwC8gfQqYQlM1gp_bQMgTRXG1kmvGuEi6LA-l79_pb_y8asEFuNokB0EdurtoReepsd3xU8t3wZQcphODqOnyndLtU3pf7nn3wf0po1IKuhyThwXz2WQ0zs058IVAn09WIwhNQVufbtYJ49lErnOkzA6jlwH0YId7DAz-Xc7_Pb5NhljTE9AnDWoBePqFVXmyhnrUAI9RdZUEJMUlEsaCAgJfGPZShOjoeCQg3MX2eTU9aUlDrMc8n0qreoIPUcv8Cog5mh7LuMeVFlbVOeLGBqEy5w",
+          "thumbnail_path": "channels/farsivoa/media/464b8820597e886f34408953.jpg",
+          "thumbnail_sha256": "2a1ae4a6688d1f3529769b3820e8cd72ed9bf8848072ea31ce4cdc7bb77c7b48",
+          "duration_label": "4:29",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "379",
+      "posted_at": "2026-09-08T18:58:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229900",
+      "reply": null
+    },
     {
       "id": "farsivoa/229899",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "256",
+      "views_label": "663",
       "posted_at": "2026-09-08T18:52:45+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229899",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "796",
+      "views_label": "1.11K",
       "posted_at": "2026-09-08T18:45:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229898",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.44K",
+      "views_label": "1.66K",
       "posted_at": "2026-09-08T18:32:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229897",
@@ -105,7 +133,7 @@
       "plain_text": "🔺آشفتگی بنزینی در ایران؛ از جرقه اعتراضات خیابانی تا خرابی خودروها در نتیجه استفاده از بنزین بی‌کیفیت\n\n▪️همزمان با افزایش قیمت دو برابری سوخت در ایران، گزارش‌ها و تصاویر منتشر شده از بروز دست کم یک مورد اعتراض خیابانی در کرمانشاه حکایت دارد و همزمان صف‌های طولانی جایگاه‌های سوخت از مناطق مختلف کشور گزارش شده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-gas-sanction-protest-islamic-republic-of-iran-security-forces-currency-import-operation-economic-outcast--asphyxiation-/8195598.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.72K",
+      "views_label": "1.94K",
       "posted_at": "2026-09-08T18:26:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229896",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.86K",
+      "views_label": "1.98K",
       "posted_at": "2026-09-08T18:18:11+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229895",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.01K",
+      "views_label": "2.11K",
       "posted_at": "2026-09-08T18:11:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229894",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.08K",
+      "views_label": "2.21K",
       "posted_at": "2026-09-08T18:07:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229893",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.05K",
+      "views_label": "2.17K",
       "posted_at": "2026-09-08T18:03:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229891",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.24K",
+      "views_label": "2.36K",
       "posted_at": "2026-09-08T17:54:58+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229890",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.12K",
+      "views_label": "2.24K",
       "posted_at": "2026-09-08T17:50:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229889",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.5K",
+      "views_label": "2.62K",
       "posted_at": "2026-09-08T17:37:42+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229888",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.72K",
+      "views_label": "2.82K",
       "posted_at": "2026-09-08T17:27:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229887",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.95K",
+      "views_label": "3.04K",
       "posted_at": "2026-09-08T17:16:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229886",
@@ -373,7 +401,7 @@
       "plain_text": "🔴📢‌ پادکست تفسیر خبر- سه شنبه ۱۷ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "2.78K",
+      "views_label": "2.87K",
       "posted_at": "2026-09-08T17:08:28+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229885",
@@ -401,7 +429,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.86K",
+      "views_label": "2.92K",
       "posted_at": "2026-09-08T16:56:30+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229884",
@@ -429,7 +457,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.93K",
+      "views_label": "2.99K",
       "posted_at": "2026-09-08T16:52:14+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229883",
@@ -445,7 +473,7 @@
       "plain_text": "🔺مارکو روبیو درباره اقدامات حوثی‌ها: دست جمهوری اسلامی پشت آنها است\n\n▪️مارکو روبیو، وزیر امور خارجه ایالات متحده، روز سه‌شنبه ۱۷ شهریور با اشاره به حملات حوثی‌های یمن به عربستان سعودی گفت این گروه «از بسیاری جهات عوامل و نیروهای نیابتی» جمهوری اسلامی است و افزود که «به‌وضوح دست جمهوری اسلامی» پشت بخشی از این تحولات دیده می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/rubio-links-houthis-to-iran/8195596.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.95K",
+      "views_label": "3.01K",
       "posted_at": "2026-09-08T16:46:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229882",
@@ -473,7 +501,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.67K",
+      "views_label": "2.7K",
       "posted_at": "2026-09-08T16:44:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229881",
@@ -489,7 +517,7 @@
       "plain_text": "🔺واکنش اسرائیل به اقدامات بریتانیا؛ تعطیلی کنسولگری در اورشلیم و اخراج نمایندگان از مرکز هماهنگی غزه\n\n▪️به گزارش رسانه‌های اسرائیل، گیدئون سعار، وزیر امور خارجه اسرائیل، روز سه‌شنبه ۱۷ شهریور با انتشار بیانیه‌ای اعلام کرد که اسرائیل چند اقدام دیپلماتیک را علیه بریتانیا به اجرا خواهد گذاشت.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/gideon-saar-israel-british-relations/8195571.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.99K",
+      "views_label": "3.02K",
       "posted_at": "2026-09-08T16:36:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229880",
@@ -2505,34 +2533,6 @@
       "posted_at": "2026-09-07T21:32:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229800",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229799",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "افزایش نرخ بنزین برای سومین بار در سایه دلار ۲۲۰ هزار تومانی؛ نظرات کاربران شبکه‌های اجتماعی<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "افزایش نرخ بنزین برای سومین بار در سایه دلار ۲۲۰ هزار تومانی؛ نظرات کاربران شبکه‌های اجتماعی\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229799",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/Y-zsRdqlI67uouS6iu-TkBrxK9ICTBx0Yd_FrrPXCHvGqLt1MAD9eZ4SRgJZfnGc5QBmd0QFmVXSrxLOOIiJFJA9kZltW_gpvEvAYCOo8aQhe94ZuUgMX_Q_eFwEq0REPa7h89NkTARkKpjpB_Ei8ssKhavemK-CXFg4kGp9PsJ-NQjzoi2691tatX-pplStXmG0agYHXzgspyqUpe8mJYTe0YUqnpzVYinZ1tW7b4DSHsuSaAqgD4tnMZ9J9oeX6fVh8yRdXrEZRAnpd7HFk66LknpI4RThbtMKhzD5lwV1mbZqNn0VYD34HNfAJsGn6HDUYScx6kmbhIhE7FUuCg",
-          "thumbnail_path": "channels/farsivoa/media/5bf4dfeb60133981b637dbf3.jpg",
-          "thumbnail_sha256": "258f8011bb7418b58b24883b09c9ba6b5508ec77667df69513d8a09837554b36",
-          "duration_label": "5:54",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.98K",
-      "posted_at": "2026-09-07T20:56:46+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229799",
       "reply": null
     }
   ]
