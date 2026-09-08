@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T19:41:40.269Z",
+  "fetched_at": "2026-09-08T19:46:41.354Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229906",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "رسانه‌های حکومتی در ایران سه‌شنبه شب تائید کردند که یک نفتکش در اطراف جزیره خارک هدف حمله قرار گرفته است. به گفته تسنیم، نزدیک به سپاه پاسداران، یک پرتابه به این نفتکش برخورد کرده است. تسنیم مدعی حمله آمریکا به این نفتکش شده است. اما روزنامه اسرائيلی جروزالم پست به نقل از «یک مقام آمریکایی» نوشت که سنتکام مشغول حمله به «نفتکش‌های» جمهوری اسلامی ایران است.<br>یک خبرنگار فاکس‌نیوز نیز گزارش داد که مقامات ارشد آمریکایی به این شبکه گفتند ارتش آمریکا به اهدافی در نزدیکی جزیره خارک و جاسک حمله کرده است. به گفته این خبرنگار،‌ مقامات آمریکایی گفتند این اهداف شامل نفتکش‌های ایرانی نیز می‌شود. خبرنگار فاکس نیوز گزارش داد که این بخشی از یک تلاش بزرگتر برای تحت فشار قرار دادن جمهوری اسلامی از نظر اقتصادی است. این استراتژی شامل غرق کردن و از کار انداختن نفتکش‌های نفت خام است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "رسانه‌های حکومتی در ایران سه‌شنبه شب تائید کردند که یک نفتکش در اطراف جزیره خارک هدف حمله قرار گرفته است. به گفته تسنیم، نزدیک به سپاه پاسداران، یک پرتابه به این نفتکش برخورد کرده است. تسنیم مدعی حمله آمریکا به این نفتکش شده است. اما روزنامه اسرائيلی جروزالم پست به نقل از «یک مقام آمریکایی» نوشت که سنتکام مشغول حمله به «نفتکش‌های» جمهوری اسلامی ایران است.\nیک خبرنگار فاکس‌نیوز نیز گزارش داد که مقامات ارشد آمریکایی به این شبکه گفتند ارتش آمریکا به اهدافی در نزدیکی جزیره خارک و جاسک حمله کرده است. به گفته این خبرنگار،‌ مقامات آمریکایی گفتند این اهداف شامل نفتکش‌های ایرانی نیز می‌شود. خبرنگار فاکس نیوز گزارش داد که این بخشی از یک تلاش بزرگتر برای تحت فشار قرار دادن جمهوری اسلامی از نظر اقتصادی است. این استراتژی شامل غرق کردن و از کار انداختن نفتکش‌های نفت خام است.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229906",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Cmhdi2Rcd9tgokHlnYmxsVkf4_eAjfOAYlAVeTiHYpFKtyAgY5KKFk-gvd-ru42yGDc94i87UblgcRUMde_Veh4dmRXAMDRjNkLPnQkvbmD9DfL_51iqyhOF13WKynZms8FWJAlnsZakrSj_iI3HUGqrEbBsfmAyj6D-HeouCWvaukhwyT2dIQDta2HfIL22iDjdHxOp9t6_OT-RPOyK6ddGm1NDhDmLHUsWrJ9JWGb-YQX2pyGllvX4xotRmF14bJuvvQDyk3VW2ehzkE3pysderY4sukFtXKCQPOsMG1qK9RCa7ke10H2_FH-PAWytSSw5eiMuPOzd6didxlaNfA.jpg",
+          "thumbnail_path": "channels/farsivoa/media/659c31d8df03c65ce4437f19.jpg",
+          "thumbnail_sha256": "1a6143254637d37de905f8dc429ab8d88426be6d1a71fa40f2425a13b6d164d7",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T19:46:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229906",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229905",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺پیام حسین شنبه‌زاده از زندان اوین: اوین هتل نیست؛ به داد زندانیان مالی برسید\n\n▪️حسین شنبه‌زاده، جوان ویراستاری که به دلیل گذاشتن یک نقطه‌ زیر پیام علی خامنه‌ای» زندانی شده است، روز ۱۷ شهریور همزمان با سالروز تولدش در یک پیام صوتی ۱۷ دقیقه‌ای از زندان اوین، خواستار توجه ویژه به زندانیان مالی شد و از به کار بردن لفظ «هتل» برای اوین انتقاد کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/hossein-shanbehzadeh-financial-prisoners/8195635.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "253",
+      "views_label": "600",
       "posted_at": "2026-09-08T19:39:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229905",
@@ -37,7 +65,7 @@
       "plain_text": "🔺روبیو: جمهوری اسلامی دیگر در میدان‌های نفتی ونزوئلا جایگاهی ندارد\n\n▪️مارکو روبیو، وزیر امور خارجه ایالات متحده، می‌گوید میدان‌های نفتی ونزوئلا که زمانی چین، روسیه، و جمهوری اسلامی در آنها نفوذ و امتیاز داشتند، دیگر در اختیار این کشورها نیست و همکاری با ایالات متحده منافع بیشتری برای مردم ونزوئلا خواهد داشت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/rubio-says-iran-lost-foothold/8195651.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "670",
+      "views_label": "1.01K",
       "posted_at": "2026-09-08T19:34:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229904",
@@ -65,7 +93,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "960",
+      "views_label": "1.15K",
       "posted_at": "2026-09-08T19:30:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229903",
@@ -93,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.4K",
+      "views_label": "1.59K",
       "posted_at": "2026-09-08T19:20:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229902",
@@ -109,7 +137,7 @@
       "plain_text": "🔺هشدار بسنت: تجارت با شرکت‌های هواپیمایی جمهوری اسلامی پیامدهای سنگینی دارد\n\n◾️اسکات بسنت، وزیر خزانه‌داری ایالات متحده، روز سه‌شنبه ۱۷ شهریور با اعلام تحریم‌های گسترده تازه علیه بخش هوانوردی ایران هشدار داد هر فرد یا شرکتی که با شرکت‌های هواپیمایی تحریم‌شده ایران همکاری کند، در معرض قطع دسترسی به نظام مالی جهانی قرار خواهد گرفت.\n\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/scott-bessent-economic-exclusion-iranian-regime/8195625.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.07K",
+      "views_label": "2.2K",
       "posted_at": "2026-09-08T19:06:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229901",
@@ -137,7 +165,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.1K",
+      "views_label": "2.2K",
       "posted_at": "2026-09-08T18:58:36+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229900",
@@ -165,7 +193,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.2K",
+      "views_label": "2.32K",
       "posted_at": "2026-09-08T18:52:45+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229899",
@@ -193,7 +221,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.44K",
+      "views_label": "2.51K",
       "posted_at": "2026-09-08T18:45:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229898",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.74K",
+      "views_label": "2.8K",
       "posted_at": "2026-09-08T18:32:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229897",
@@ -237,7 +265,7 @@
       "plain_text": "🔺آشفتگی بنزینی در ایران؛ از جرقه اعتراضات خیابانی تا خرابی خودروها در نتیجه استفاده از بنزین بی‌کیفیت\n\n▪️همزمان با افزایش قیمت دو برابری سوخت در ایران، گزارش‌ها و تصاویر منتشر شده از بروز دست کم یک مورد اعتراض خیابانی در کرمانشاه حکایت دارد و همزمان صف‌های طولانی جایگاه‌های سوخت از مناطق مختلف کشور گزارش شده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-gas-sanction-protest-islamic-republic-of-iran-security-forces-currency-import-operation-economic-outcast--asphyxiation-/8195598.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.9K",
+      "views_label": "2.96K",
       "posted_at": "2026-09-08T18:26:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229896",
@@ -265,7 +293,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.75K",
+      "views_label": "2.82K",
       "posted_at": "2026-09-08T18:18:11+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229895",
@@ -293,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.82K",
+      "views_label": "2.91K",
       "posted_at": "2026-09-08T18:11:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229894",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.85K",
+      "views_label": "2.95K",
       "posted_at": "2026-09-08T18:07:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229893",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.78K",
+      "views_label": "2.88K",
       "posted_at": "2026-09-08T18:03:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229891",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.97K",
+      "views_label": "3.03K",
       "posted_at": "2026-09-08T17:54:58+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229890",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.75K",
+      "views_label": "2.82K",
       "posted_at": "2026-09-08T17:50:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229889",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.13K",
+      "views_label": "3.17K",
       "posted_at": "2026-09-08T17:37:42+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229888",
@@ -461,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.3K",
+      "views_label": "3.33K",
       "posted_at": "2026-09-08T17:27:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229887",
@@ -489,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.49K",
+      "views_label": "3.52K",
       "posted_at": "2026-09-08T17:16:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229886",
@@ -2493,34 +2521,6 @@
       "posted_at": "2026-09-07T22:18:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229806",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229805",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "محمد قاعدی: جمهوری اسلامی با اتهام به بازرسان آژانس سعی می کند از برنامه اتمی خود کارت بازی بسازد<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "محمد قاعدی: جمهوری اسلامی با اتهام به بازرسان آژانس سعی می کند از برنامه اتمی خود کارت بازی بسازد\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229805",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/tQfUiOQHvQ7ADG_2QQ1A8s0aAur2SsvrDrpOxg7y9KL1LWUeLPPub_rcd8HNXI48xTH5-XrG3_kG3oqYYNlLejxk-1Y9OaGyF2hTdu1qtp-dNTLJtZ9yTscqI9STJZyY94YEpidj-_hMO9FMLNifZHHaetQxxBClr2TMPAsEUq4qKLM686ivz0IwQXXAgAX6FikDxG87M7Vbt6MofvXHJf_CoRnLqFScKNPsygRiCHlgNHsKrdfZ4TOrolcsLIPsAoy57joZbLKL9SP7ZU1dULPzD7CYPOqZa0ipcNS4t8aul8Rk5AHdYMjadxsUm2OPQJhoyh0JtF2UiUbV4zkZSg",
-          "thumbnail_path": "channels/farsivoa/media/a3a78e56610bc4717f1727c4.jpg",
-          "thumbnail_sha256": "47dffeb08f2a2b24f3ea377655fd33c2ec7897e68a2faf261be5d799972699c7",
-          "duration_label": "3:36",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.64K",
-      "posted_at": "2026-09-07T22:10:21+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229805",
       "reply": null
     }
   ]
