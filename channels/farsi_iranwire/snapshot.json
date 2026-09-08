@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T11:11:49.785Z",
+  "fetched_at": "2026-09-08T11:13:49.177Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.8K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93480",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Xp1GPjZY4ATloWqym-TkX3n9GYZxWlsZ1JtO4D0neLIWJRuH5wpmbTqs7uCbifzSxmrRAvB4RkQfdU7HCHg5ZE0qJtxdyyg8uwCTr7BFtLRcRte9trFF1imaWTJHRLFCw-X6Q0R2s4gfHibpcPDDqN-O7C-Sip6L5LU3Z2EhTU6d0TOKSgGv2s55eTjDoHnQvCOdmy9lqr40HjmQlQo2zI-H45ezXn7GynL2iQ_JqHbx3G-llmnGay-lX4jOrCLEKVrCnCiMz-GMVGehcWuLYj-lGPFR3ApxgpnjnktzRoSJSY9yrR0I5lAuE0M1bKFShaKBpqnjajGbZEDVTv8FwQ.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a45e25b72ade524afd0808f4.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "ویدیوی رسیده به ایران‌وایر صف خودروها مقابل یکی از جایگاه‌های سوخت را پس از اجرای نرخ جدید نشان می‌دهد. جمهوری اسلامی از بامداد سه‌شنبه ۱۷ شهریور قیمت بنزین مصرفی مازاد بر سهمیه ماهانه را به لیتری ۱۰ هزار تومان افزایش داده است.<br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "ویدیوی رسیده به ایران‌وایر صف خودروها مقابل یکی از جایگاه‌های سوخت را پس از اجرای نرخ جدید نشان می‌دهد. جمهوری اسلامی از بامداد سه‌شنبه ۱۷ شهریور قیمت بنزین مصرفی مازاد بر سهمیه ماهانه را به لیتری ۱۰ هزار تومان افزایش داده است.\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Farsi_Iranwire/93480",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/XIQPfuJKnPxl5Icro3mOKMTD_cCTKZlErkM22LihYa5fSk4artaVMBXQwbHQM6Y6j_m6DCawnT_o8NX5r3Lcv49hxQk4NmtZ8o2GjTkUGFWrxvULztZSclm7v7Dk4Aj4PrpJCNzlrvume14UxFd1-5wfWS68Lcxsrrji8meb6pYENKQJ-EkpCHBu3JKvdU1oZkwzAl-qz9dQ2rPNRl6dC-WzGMJ9Dqfw7uOMe-pRW0pm4gn2gOhfO52Qjrg2TLgfFUq2QbCT3dwuhIyTS60jZ0j6Rfa8-VJWXhewdxLY6jfP6GAYpVARg-RLUehmzn7-QJXoOf29MC4qQdw7YWOB2A",
+          "thumbnail_path": "channels/farsi_iranwire/media/7fa1b60a6cb5fd0bab5f139b.jpg",
+          "thumbnail_sha256": "e8925e0c4cd02f67b3135f83f7e815017b990cd1d5012b89394c642eff891a85",
+          "duration_label": "0:38",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T11:13:07+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93480",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93479",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "377",
+      "views_label": "386",
       "posted_at": "2026-09-08T10:29:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93479",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "531",
+      "views_label": "541",
       "posted_at": "2026-09-08T10:12:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93478",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "561",
+      "views_label": "571",
       "posted_at": "2026-09-08T09:57:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93477",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "666",
+      "views_label": "676",
       "posted_at": "2026-09-08T09:38:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93476",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "801",
+      "views_label": "808",
       "posted_at": "2026-09-08T09:06:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93475",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "851",
+      "views_label": "856",
       "posted_at": "2026-09-08T08:34:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93474",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "860",
+      "views_label": "864",
       "posted_at": "2026-09-08T08:18:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93473",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "714",
+      "views_label": "717",
       "posted_at": "2026-09-08T08:18:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93472",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "772",
+      "views_label": "773",
       "posted_at": "2026-09-08T08:02:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93471",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "847",
+      "views_label": "849",
       "posted_at": "2026-09-08T07:54:35+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93470",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.72K",
+      "views_label": "1.73K",
       "posted_at": "2026-09-07T20:57:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93468",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.42K",
+      "views_label": "1.43K",
       "posted_at": "2026-09-07T18:30:58+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93462",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-05T10:31:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93378",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93377",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EmUP9mB5rt_E-ktfi7gsZJiU2Vg2Igy7ZYPwCUj5ZBNBwKSs_5STWybgkDUrOJ8Mf21eZIyZX1Az3KyjeThtIqmK00XzVEbMQyr4Rtqm3BijZmsPdRtLDWb7uCAuOYVGfriyYjsEeD9-i5W2gDSuIa3DhMv1wA1h89ViwCSNAsbSBBXCFCCpRLzR03zsSwFJpI2uSI2Ypew-4R4EEINKuBXLsu1m9siY-A0_Db8j3HxwgV0GuSEPB4zv5KfCaNPxjp4EaKGdI-IcXaIBcqZoOpDe26XPYVEQJMiRoikQH4QRpuY3i_p41FKCMmJLQel9Vz2g8emShtFRNit2tEGUQw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/c769a9c378fcf30292902ce1.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "افزایش هزینه عبور کامیون‌ها از مرز «پیشین» در سیستان‌وبلوچستان، موجب توقف شمار قابل‌توجهی از خودروهای سنگین در این گذرگاه مرزی ایران و پاکستان شده است؛ اتفاقی که در شرایط محدود شدن مسیرهای دریایی ایران، می‌تواند فشار بیشتری بر تجارت زمینی کشور وارد کند.<br><br>بخوانید : <a href=\"https://iranwire.com/fa/news-1/157187\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157187</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "افزایش هزینه عبور کامیون‌ها از مرز «پیشین» در سیستان‌وبلوچستان، موجب توقف شمار قابل‌توجهی از خودروهای سنگین در این گذرگاه مرزی ایران و پاکستان شده است؛ اتفاقی که در شرایط محدود شدن مسیرهای دریایی ایران، می‌تواند فشار بیشتری بر تجارت زمینی کشور وارد کند.\n\nبخوانید : https://iranwire.com/fa/news-1/157187\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93377",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/CKK1kw_u0AXpTpUYIUliEJTgH-otrbyUZmwhMHoM8LBSK9UGY4RmW-TrvpteNAutVRnC-tuAcQ3mW2VcQXB4gnS6ol-Qd-Vt5iBxHg78tr2FHqR2Wr9dDC07ieNiAoAo0guOQmcXhNC4AIwCQ4DOiSf7-Nv2ySNjAMhATQrenkH_BYtjr536Eg5Pmbv9cCjHG7cocjvgMF_SEoi4Q5U1aMSSO6S0K-7brJ5n2Bhs7sWZpXb_8cjRVETr5DRDh_gEfykr2dlniayrUXH_ePu_3RC3kwg5V8TGCrbK1SNvLQ0h79ZhXKSJfv0eYMYz1MkYSluKUX2dGe0iGqdARA4J2w.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/f62b8293a91027bcb6d0d9dd.jpg",
-          "thumbnail_sha256": "2f9df0970d804458bf868c0822229f799c55b58568b49b97abb8acc5fc80858c",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.22K",
-      "posted_at": "2026-09-05T09:54:48+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93377",
       "reply": null
     }
   ]
