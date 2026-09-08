@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T06:42:28.957Z",
+  "fetched_at": "2026-09-08T06:47:14.224Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "IranintlTV/356258",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "جاسم محمد البدیوی، دبیرکل شورای همکاری کشورهای عربی خلیج فارس، حملات حوثی‌ها به غیرنظامیان و تاسیسات در جنوب عربستان سعودی را به‌شدت محکوم کرد و خواستار اتخاذ موضعی قاطع و بازدارنده از سوی جامعه بین‌المللی در برابر این حملات شد.<br><br>البدیوی گفت حملات حوثی‌ها به جنوب عربستان سعودی، غیرنظامیان، امکانات ملی این کشور و تاسیسات غیرنظامی را به‌طور عمدی هدف قرار داده و به زخمی شدن شماری از غیرنظامیان منجر شده است.<br><br>او این حملات را نقض آشکار قوانین و عرف‌های بین‌المللی خواند و گفت تکرار آن‌ها نشان می‌دهد حوثی‌ها با تلاش‌ها برای دستیابی به صلح و ثبات در یمن مخالفت می‌کنند.<br><br>دبیرکل شورای همکاری خلیج فارس تاکید کرد: «هدف قرار دادن تاسیسات غیرنظامی و امکانات کشورها اقدامی تروریستی و محکوم است که تحت هیچ عنوانی نمی‌توان آن را توجیه کرد یا در برابر آن کوتاه آمد.»<br><br>البدیوی ادامه حملات حوثی‌ها را تهدیدی مستقیم علیه امنیت و صلح منطقه‌ای و بین‌المللی دانست و از جامعه بین‌المللی خواست عاملان و حامیان این حملات را پاسخگو کند.<br><a href=\"https://iranintl.com/202609081454\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609081454</a>",
+      "plain_text": "جاسم محمد البدیوی، دبیرکل شورای همکاری کشورهای عربی خلیج فارس، حملات حوثی‌ها به غیرنظامیان و تاسیسات در جنوب عربستان سعودی را به‌شدت محکوم کرد و خواستار اتخاذ موضعی قاطع و بازدارنده از سوی جامعه بین‌المللی در برابر این حملات شد.\n\nالبدیوی گفت حملات حوثی‌ها به جنوب عربستان سعودی، غیرنظامیان، امکانات ملی این کشور و تاسیسات غیرنظامی را به‌طور عمدی هدف قرار داده و به زخمی شدن شماری از غیرنظامیان منجر شده است.\n\nاو این حملات را نقض آشکار قوانین و عرف‌های بین‌المللی خواند و گفت تکرار آن‌ها نشان می‌دهد حوثی‌ها با تلاش‌ها برای دستیابی به صلح و ثبات در یمن مخالفت می‌کنند.\n\nدبیرکل شورای همکاری خلیج فارس تاکید کرد: «هدف قرار دادن تاسیسات غیرنظامی و امکانات کشورها اقدامی تروریستی و محکوم است که تحت هیچ عنوانی نمی‌توان آن را توجیه کرد یا در برابر آن کوتاه آمد.»\n\nالبدیوی ادامه حملات حوثی‌ها را تهدیدی مستقیم علیه امنیت و صلح منطقه‌ای و بین‌المللی دانست و از جامعه بین‌المللی خواست عاملان و حامیان این حملات را پاسخگو کند.\nhttps://iranintl.com/202609081454",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356258",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/aDc2CYd-fBHWclIUEDTdGq2DeFiLIiR1rxlq0SU105kb4pSoT5vMPlDHio_IgdV5oOlwwiZcUVj7OK8lVD1fiP_VoEH4eLLZggsUsEdcfxh02OmTqqO7vEScD-4HV_Q0HnePLWFpG9weNcg53QyFIXtbAUm5f8XOjxuFbIWKP6qvLI3iZTON7J9p9atnW74dJb7kcEEBmlplOOFGVpbuJwRioGLs3OsPZRzrkLMEtBDCvIRotxAqAo1ekUTtEmAtnh4-oepYf0MwmmVLQxsONtm0sjwk3S0oJNVXQ4qaYQIoQSec3zMAdBwfe--j6722Qs_IJZStV5k15LHsvV5sAw.jpg",
+          "thumbnail_path": "channels/iranintltv/media/cbe2d3104ff59ff4b89f09a2.jpg",
+          "thumbnail_sha256": "0df4295d26f38eeebf7e8fb32be060d15088ad72ee5c449261a72dd510ab39bd",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.03K",
+      "posted_at": "2026-09-08T06:45:29+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356258",
+      "reply": null
+    },
+    {
       "id": "IranintlTV/356257",
       "author_name": "Iran International ایران اینترنشنال",
       "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🎧نسخه صوتی اخبار بامدادی | سه‌شنبه ۱۷ شهریور\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "3.2K",
+      "views_label": "6.31K",
       "posted_at": "2026-09-08T06:36:37+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356257",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.23K",
+      "views_label": "7.34K",
       "posted_at": "2026-09-08T06:34:39+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356256",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7.33K",
+      "views_label": "8.41K",
       "posted_at": "2026-09-08T06:29:51+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356255",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.32K",
+      "views_label": "8.42K",
       "posted_at": "2026-09-08T06:29:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356254",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.3K",
+      "views_label": "7.36K",
       "posted_at": "2026-09-08T06:28:54+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356253",
@@ -149,7 +177,7 @@
       "plain_text": "🗣روایت شما از افزایش لحظه‌ای قیمت‌ها و از دست رفتن امکان برنامه‌ریزی برای آینده- سه‌شنبه ۱۷ شهریور:\n\n🔹شهریور پارسال می‌خواستم موتور بخرم، ۱۴۰ میلیون بود ۴۰ تومن کم داشتم. گفتم یک ماه دیگه جور می‌کنم. الان یک سال گذشته، ۶۰۰ میلیون رو قیمت موتور اومده، منم ماهی ۲۰ میلیون حقوق می‌گیرم. به ناچار با پولم دوچرخه خریدم.\n\n🔹قیمت یک گوشی از هشت میلیون به ۷۵ میلیون رسیده، اما حقوق من فقط از ۱۳ به ۲۱ میلیون افزایش یافته است.\n\n🔹چشم‌اندازی برای آینده نداریم. فعلا فقط می‌توانیم مواد غذایی ضروری را آن هم با صرفه‌جویی تهیه کنیم.\n\n🔹قیمت گوشی فعلی‌ام شده ۸۰ میلیون تومان ولی اگه نیاز به تعمیر و تعویض قطعه داشته باشه باید چند ماه کار کنم برای درست کردن آن.\n\n🔹برای خرید گوشی ۶۰ میلیون جمع کردم، اما دو هفته بعد قیمتش ۱۰۰ میلیون شد و خریدش را کنار گذاشتم.\n\n🔹خواستم گوشی گرون بخرم، تا پول جمع کردم، انقدر همه‌چی گرون شد که همین گوشی فعلی خودم شد همون قیمت.\n\n🔹هدفم از تغییر خانه به تعویض موبایل کاهش پیدا کرده است.\n\n🔹سه روز کار می‌کنیم تا بتوانیم یک روز غذای کافی داشته باشیم.\n\n🔹برای کارم داشتم پول جمع می‌کردم یه دستگاه ۷۰ میلیونی بخرم تو یک ماه شده ۱۱۰ میلیون. ۲ سال پیش ۷ میلیون بود.\n\n🔹در ساخت‌وساز فعالیت می‌کنم؛ تورم آن‌قدر بالاست که بعد از پیش‌فروش، ادامه پروژه دشوار می‌شود.\n\n🔹تغییر لحظه‌ای قیمت‌ها باعث شده حتی برای فردا نتوانم برنامه‌ای بریزم. فقط می‌توانم به همان روز فکر کنم؛ تمام توانم صرف پرداخت قسط، چک و بیمه می‌شود.\n\n🔹با وام یک بانک، قسط سرویس اعتباری را می‌دهم و با همان اعتبار مواد غذایی می‌خرم.",
       "media": [],
       "reactions": [],
-      "views_label": "11.5K",
+      "views_label": "12.6K",
       "posted_at": "2026-09-08T06:19:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356252",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.8K",
+      "views_label": "19.9K",
       "posted_at": "2026-09-08T06:03:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356251",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21K",
+      "views_label": "22K",
       "posted_at": "2026-09-08T05:55:56+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356250",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.9K",
+      "views_label": "21.9K",
       "posted_at": "2026-09-08T05:55:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356249",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.9K",
+      "views_label": "22K",
       "posted_at": "2026-09-08T05:50:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356248",
@@ -289,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22K",
+      "views_label": "23.1K",
       "posted_at": "2026-09-08T05:42:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356247",
@@ -317,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22K",
+      "views_label": "23.1K",
       "posted_at": "2026-09-08T05:40:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356246",
@@ -345,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22K",
+      "views_label": "23K",
       "posted_at": "2026-09-08T05:39:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356245",
@@ -373,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.3K",
+      "views_label": "28.3K",
       "posted_at": "2026-09-08T05:21:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356244",
@@ -401,7 +429,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.3K",
+      "views_label": "27.4K",
       "posted_at": "2026-09-08T05:18:31+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356243",
@@ -429,7 +457,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.3K",
+      "views_label": "27.3K",
       "posted_at": "2026-09-08T05:16:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356242",
@@ -457,7 +485,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.2K",
+      "views_label": "25.3K",
       "posted_at": "2026-09-08T05:16:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356241",
@@ -485,7 +513,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.2K",
+      "views_label": "25.3K",
       "posted_at": "2026-09-08T05:12:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356240",
@@ -513,7 +541,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.5K",
+      "views_label": "30.5K",
       "posted_at": "2026-09-08T05:01:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356239",
@@ -2720,34 +2748,6 @@
       "posted_at": "2026-09-07T14:28:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356157",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356156",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>فدراسیون فوتبال بلژیک با انتشار بیانیه‌ای رسمی اعلام کرد که از نامزدی جیانی اینفانتینو در انتخابات ریاست فیفا پشتیبانی نخواهد کرد. این تصمیم یک روز پس از تایید رسمی نامزدی اینفانتینو برای انتخابات مارس ۲۰۲۷ اتخاذ شد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>به گفته پاسکال وان دام، رییس فدراسیون بلژیک، این تصمیم به دلیل نبود شفافیت فیفا در دو موضوع «پرونده تجاری فیفا» و تعلیق کارت قرمز فولارین بالوگان پیش از دیدار برابر تیم ملی بلژیک در جام جهانی گرفته شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>وان دام گفت که با وجود مکاتبات متعدد، پس از گذشت دو ماه هنوز هیچ پاسخ یا شفاف‌سازی مشخصی از سوی فیفا دریافت نکرده‌اند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>فدراسیون بلژیک خواستار گنجانده شدن پرونده بالوگان در دستور جلسه بعدی شورای فیفا در ۱۵ اکتبر شده و بر ضرورت اصلاح فرایندها برای حفظ اعتبار فوتبال بین‌المللی تاکید کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>اینفانتینو که از سال ۲۰۱۶ ریاست فیفا را بر عهده دارد، پیش‌تر نیز حمایت فدراسیون‌های دیگری مانند سوئد، اسکاتلند و ایتالیا را از دست داده بود.<br><br><a href=\"https://t.me/iranintltvsport\" target=\"_blank\">@iranintltvsport</a>",
-      "plain_text": "🔻فدراسیون فوتبال بلژیک با انتشار بیانیه‌ای رسمی اعلام کرد که از نامزدی جیانی اینفانتینو در انتخابات ریاست فیفا پشتیبانی نخواهد کرد. این تصمیم یک روز پس از تایید رسمی نامزدی اینفانتینو برای انتخابات مارس ۲۰۲۷ اتخاذ شد.\n\n🔹به گفته پاسکال وان دام، رییس فدراسیون بلژیک، این تصمیم به دلیل نبود شفافیت فیفا در دو موضوع «پرونده تجاری فیفا» و تعلیق کارت قرمز فولارین بالوگان پیش از دیدار برابر تیم ملی بلژیک در جام جهانی گرفته شده است.\n\n🔹وان دام گفت که با وجود مکاتبات متعدد، پس از گذشت دو ماه هنوز هیچ پاسخ یا شفاف‌سازی مشخصی از سوی فیفا دریافت نکرده‌اند.\n\n🔹فدراسیون بلژیک خواستار گنجانده شدن پرونده بالوگان در دستور جلسه بعدی شورای فیفا در ۱۵ اکتبر شده و بر ضرورت اصلاح فرایندها برای حفظ اعتبار فوتبال بین‌المللی تاکید کرده است.\n\n🔹اینفانتینو که از سال ۲۰۱۶ ریاست فیفا را بر عهده دارد، پیش‌تر نیز حمایت فدراسیون‌های دیگری مانند سوئد، اسکاتلند و ایتالیا را از دست داده بود.\n\n@iranintltvsport",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356156",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/PGqJDK-0qu19il4yXiQ_XFnQPnwxshGsPU7pLwE_x4FrsJSfWfepgkatXzgr33i7FX_ibci5aXmH1bw3icsAMDFXY8HOi88fOqRHPNDWVrhZU8ddnuf3rq4CeMr0UTBdkS_dVcp6svGehGvCVv0aL3xWFS55DEU0jnQ9qbkrLzBTxTSDwdagburdBn5MB3s-cdNce_60huPihthIWFTbms9OxnzfCx9QbiIqtSxbxdb_YtEsD-bpFqtqdmb0qekUkhc7d61vlRq6PN_uXlklsca9WKC3aV8MJV26RZqdu4U-G-w3fzaJGcg-v9eC8A8uwLC76MeM8lXqlbwTGnBpWA.jpg",
-          "thumbnail_path": "channels/iranintltv/media/ad6d95965f2609adf6c0ff41.jpg",
-          "thumbnail_sha256": "c35d239f6fd791527e46af8453c605432bca8e3c9317e81bc689722381a7e259",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "41.5K",
-      "posted_at": "2026-09-07T14:26:11+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356156",
       "reply": null
     }
   ]
