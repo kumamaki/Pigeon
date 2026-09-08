@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T15:11:52.901Z",
+  "fetched_at": "2026-09-08T15:18:40.958Z",
   "channel": {
     "username": "matinsenpaii",
     "title": "Matin SenPai",
@@ -27,7 +27,7 @@
         },
         {
           "emoji": "💔",
-          "count": "532"
+          "count": "533"
         },
         {
           "emoji": "😁",
@@ -72,7 +72,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "192"
+          "count": "193"
         },
         {
           "emoji": "👍",
@@ -420,8 +420,8 @@
         "post_id": "5201",
         "author_name": "Matin SenPai",
         "preview_text": "آموزش خرید اشتراک Claude Pro با ویزاکارت شخصی و ایمیل خودتون من امروز تجربه‌ام رو از خرید اشتراک کلاد پرو می‌خوام باهاتون در میون بذارم، که چطوری خیلی راحت و بدون نگرانی بتونید با پرداخت کریپتو روی ایمیل خودتون فعالش کنید. یکی از دوستانم دو ماهه و خودم هم…",
-        "thumbnail_url": "https://cdn1.telesco.pe/file/JWvFJk4TKCzf4pF_ONk1otTHIK7jpNjN_EHXKf4hFC7kmRu_4gxQ3Kjt2tKI-4CQ7XFHcb5SmGOVXxMiQhWiWaovljIdKZEm4q1FWUyHNFfJpQyKpz4kahd-NiK_EhJAza8iQq-BmGjvPIubLF7PrCHaHVkWjMA_ih3TLWi3SwRgcLzLhcC9syxkmEUt_c9LuRBlk8mMpWh-ZPaJLvNa47dbUMS-SNyMnhEu9eMLwcqewS3k3pdMK_omoW53pGocvTv2iyhBFuqFZ7qL2kf-HrH9MjwfFdgwBTwmcZJw_S5UgrvxwdiJErH9pySIVlGRCmpnB8OZBVPDd-Vga-y9mg.jpg",
-        "thumbnail_path": "channels/matinsenpaii/media/d865bb65bef8f29434120807.jpg",
+        "thumbnail_url": "https://cdn1.telesco.pe/file/EIJJ53oh5gzmzrKE_x65VOZC25AfmGhZguAgKAuWrjPcyatOeOXGvu69j5srGRWuhSuoDM4z9sKTc81EDAYhjbVSC5bBxyNl0LPj5BHOVSprSNfUcCXPxbdjqBxNV5Lfogf_bOTgO96QyFgYgRrIUovdo-dBqFiS0cl2B3gSqq4i7lVazs4PzMCzvLBq_QoWIoK4ee5tqw2aXUDDhKeZwQJUg8r3RHBrZHxUOQNCOvJxXU6wvidCyNUCIXgKj3bT5YqgtvwpQMMMz8Axf2dsbjEuvGvcKAmFJEKMVGqKA9LMosz_VDrv6wTeWfY6m-8ETb-V9QO0T9CfMqQSb_7lCg.jpg",
+        "thumbnail_path": "channels/matinsenpaii/media/72ea175a29b02d05e1059ce9.jpg",
         "thumbnail_sha256": "d89344050c871ac5f0cbf9d24571388f6ff4e281a9d1af9096cbd408896f971e",
         "permalink": "https://t.me/matinsenpaii/5201"
       }
@@ -646,7 +646,7 @@
           "count": "2"
         }
       ],
-      "views_label": "28.5K",
+      "views_label": "28.6K",
       "posted_at": "2026-09-05T12:28:49+00:00",
       "edited": false,
       "permalink": "https://t.me/MatinSenPaii/5197",
