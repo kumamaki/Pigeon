@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T20:21:38.656Z",
+  "fetched_at": "2026-09-08T20:26:36.240Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12735",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l_9ufMfFpJ25r_afGsqRdLe1TBpEdGtQubrLV3heTp0xaKy_3bOMj2CgWrdIc1UpDv6BDR1CUz7LUOwlbGt6cwYajWQXJCUkSLc4mDg8KVE14zTZ9LwGvkwqm71diFwCbH2nViIRdsbm6NTEHx-FPiGHK2If0glqgKIwFN6E3fpPfXG4L5B_8u0lF9SlI9JysGs-RP3ETL5mlmlmj6cRJFK1sNdtj7tP4DYND499o8XinHXPyv-COryBv7foYUzrzsqsk-AuzXwXdGL2-S-fyV30ffZpU_JFFsxZW8baXEnEFumOwn_VcgVB9V_D4tzEEogyHXtPWDrMkW0xK7JN9Q.jpg",
+      "author_photo_path": "channels/iranlix/media/cea36268eb0d26be31369b06.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i><b>نیروی دریایی سپاه اعلام کرد با توجه به اقدام ارتش آمریکا در هدف قرار دادن چند فروند از نفتکش‌های ج.ا، به تمامی خدمه نفتکش‌ها در محدود اسکله‌های کویت و بحرین که میزبان نیروهای آمریکایی است، اخطار می‌دهد شناور خود را چه در لنگرگاه و چه در اسکله‌ها سریعا ترک نمایند چرا که مورد هدف قرار خواهند گرفت.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔸نیروی دریایی سپاه اعلام کرد با توجه به اقدام ارتش آمریکا در هدف قرار دادن چند فروند از نفتکش‌های ج.ا، به تمامی خدمه نفتکش‌ها در محدود اسکله‌های کویت و بحرین که میزبان نیروهای آمریکایی است، اخطار می‌دهد شناور خود را چه در لنگرگاه و چه در اسکله‌ها سریعا ترک نمایند چرا که مورد هدف قرار خواهند گرفت.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/12735",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/MTWgF4bZvhTLdMjugfo0gUp6keO-PGDFGiKO_jKqLwu6wSUgMeFAGlMB7JRw19wZJGCDLcjGOBwtEOj8A9r-VJTh5GYGiTQLWhSGIfNmPbJJ1qLllTXMoneipsTdrp5J0ENXDUIJ2yzJNcDjiHX9eQbFSHRU0T0fvXpHkJlewZoIpt9MmvzjbjKxV_2r5HM6YwmU9X7Yrzc5mdoO-_GsKvf2b-pg57P_0JFi8Whzj9vS812w0dW49pS0Y_UQQhwZkW3kRS10TbIpKOyMt8Agt6HlmjrCqRndjRaDg73UphlastsccCGcSgWnyd3MZTw8pi9SheWh3B-bI2Gu0yb-FQ.jpg",
+          "thumbnail_path": "channels/iranlix/media/362ac5850094b5c3d50cb612.jpg",
+          "thumbnail_sha256": "f263cae681e3741a7eaa3302060e71678503379a2bce9cc3f56d1c3f937a10bc",
+          "duration_label": null,
+          "aspect_ratio": 0.9400000000000376
+        }
+      ],
+      "reactions": [],
+      "views_label": "54",
+      "posted_at": "2026-09-08T20:25:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12735",
+      "reply": null
+    },
     {
       "id": "iranlix/12734",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1",
+      "views_label": "131",
       "posted_at": "2026-09-08T20:21:03+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12734",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "320",
+      "views_label": "395",
       "posted_at": "2026-09-08T20:02:02+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12733",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "554",
+      "views_label": "603",
       "posted_at": "2026-09-08T19:35:49+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12732",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "644",
+      "views_label": "686",
       "posted_at": "2026-09-08T19:25:57+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12731",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "699",
+      "views_label": "734",
       "posted_at": "2026-09-08T19:14:41+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12730",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "704",
+      "views_label": "735",
       "posted_at": "2026-09-08T19:11:49+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12729",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "699",
+      "views_label": "733",
       "posted_at": "2026-09-08T19:09:21+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12728",
@@ -240,7 +268,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "701",
+      "views_label": "722",
       "posted_at": "2026-09-08T18:54:23+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12726",
@@ -268,7 +296,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "796",
+      "views_label": "812",
       "posted_at": "2026-09-08T18:40:45+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12725",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "874",
+      "views_label": "884",
       "posted_at": "2026-09-08T18:20:53+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12724",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.04K",
+      "views_label": "1.05K",
       "posted_at": "2026-09-08T17:10:24+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12723",
@@ -361,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.03K",
+      "views_label": "1.04K",
       "posted_at": "2026-09-08T16:56:34+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12722",
@@ -417,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "950",
+      "views_label": "956",
       "posted_at": "2026-09-08T16:34:09+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12720",
@@ -445,7 +473,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1K",
+      "views_label": "1.01K",
       "posted_at": "2026-09-08T16:13:45+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12719",
@@ -2944,34 +2972,6 @@
       "posted_at": "2026-09-06T11:37:38+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12625",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12624",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/P6wlknCu4KydGDASnYIJkSL42jXufROUjwRrm01v7d51p3YBEx4rkQqYs2krFRd4LHxq08mmEy2TgCu4J08n1ZSq4paFfXykL6OUFFjnmHtPmJBtBzfKlwmoLApVk-hNCwoL_o5_BhnH1XV2kRj1D9AC6GrktP5S1x_N6bbjtspXBjUWiGZM-RyGHabxIzRLAK0ahjPnDYjTX3GkA8zCiRKYeBgBZ2IZIJafC1T4hqw3d7cILAqS-xr4k_jJzzVdlQM_10wXECCBz6Ghjgv3P7yq1mMYdKuv0PT6kTc0TA6UOTJAVRnZgMZXVG41AUnWWGzcvDjcbkzyxVcxRpZqtg.jpg",
-      "author_photo_path": "channels/iranlix/media/140d7098768bcd69ed55b2fa.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>چمران: اطلاعات پناهگاه‌ها باید محرمانه بماند؛ساخت پناهگاه در بوستان‌ها ممنوع</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>رئیس شورای شهر تهران با تأکید بر ضرورت محرمانه ماندن اطلاعات مربوط به پناهگاه‌ها و فضاهای امن شهری گفت: اطلاعات این پناهگاه‌ها نباید در سامانه‌ای قرار گیرد که امکان دسترسی به آن از داخل و خارج وجود داشته باشد و باید صرفاً در اختیار سازمان‌های مسئول قرار گیرد.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "♦️چمران: اطلاعات پناهگاه‌ها باید محرمانه بماند؛ساخت پناهگاه در بوستان‌ها ممنوع\n\n🔸رئیس شورای شهر تهران با تأکید بر ضرورت محرمانه ماندن اطلاعات مربوط به پناهگاه‌ها و فضاهای امن شهری گفت: اطلاعات این پناهگاه‌ها نباید در سامانه‌ای قرار گیرد که امکان دسترسی به آن از داخل و خارج وجود داشته باشد و باید صرفاً در اختیار سازمان‌های مسئول قرار گیرد.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/12624",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/s6MZHlX0GfAIeB4gFr2tBT8vzvA1DFCTrbWXI3SE1tTsfhFmaGmbjS5wPgZidNwT9S3M8AJfv9QOJdY-qtx6wOuAtghEicet2Gp7N_YDGcvim4pKAMEs2yitgcdQ0LXwMtMBF-FgiFtOSlRcFNmgyJr7gdj33zE7MTrMopgsFwR58R7WZZCqBDsFz56g9_uhyE_W2LwuSZIWVchHJzPGndS_AXSMvOCcXh7N7UEkxPAm9qmXidQjugCxIPpk0xm-05SZeINn6g2e-lhPVJbD1CYiokSt3GDY16dlP8sZ0qHo4Phh_wgYPyUfqsEVcC60qx9J2RQBpFzXHg2jkA2w2g.jpg",
-          "thumbnail_path": "channels/iranlix/media/0091649bf9b1583eeabd92ae.jpg",
-          "thumbnail_sha256": "b8f3d9f2ab38491fa7f42b383df0750e6d3b14135c53da05e27b74413c900a68",
-          "duration_label": null,
-          "aspect_ratio": 1.4931129476584115
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.05K",
-      "posted_at": "2026-09-06T11:30:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12624",
       "reply": null
     }
   ]
