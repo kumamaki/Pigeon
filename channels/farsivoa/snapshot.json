@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T17:47:56.723Z",
+  "fetched_at": "2026-09-08T17:51:51.037Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229889",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "ورود یک قایق حامل حدود ۱۲۰ مهاجر به پورتسموث، به اعتراض ضد مهاجرتی و درگیری با پلیس انجامید. گزارش‌ها حاکیست به سوی مأموران سنگ و آجر پرتاب شده، برخی از آنها از روی موتورسیکلت به زمین انداخته شده‌اند و خودروهای پلیس هم آسیب دیده‌اند. پلیس تحقیقات برای شناسایی عاملان خشونت را ادامه می‌دهد",
+      "plain_text": "ورود یک قایق حامل حدود ۱۲۰ مهاجر به پورتسموث، به اعتراض ضد مهاجرتی و درگیری با پلیس انجامید. گزارش‌ها حاکیست به سوی مأموران سنگ و آجر پرتاب شده، برخی از آنها از روی موتورسیکلت به زمین انداخته شده‌اند و خودروهای پلیس هم آسیب دیده‌اند. پلیس تحقیقات برای شناسایی عاملان خشونت را ادامه می‌دهد",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229889",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/nXc2vJWQjLUov1ePclRIFblFUrtQ4JMkAow3Zk1yNZJFNztCLK_iTha2u3rtQk2xWQoOC5QQ3Q8zXw3arKa8458FofTnDqwr9aWU7WaWihmEjMKby1eZ6KK75_8apOqBK4EJ7SyXT8HdJ03oXavYNI46ZMvgbwXJli8_WIhxmzSK28fo-d7k_aGPI2V5lUKkzLwPCDo4iWkjBH15aKKuTGTKKAu_HxGeF8n_vxZlcNfpfj06wLc-Mmqe-we-Djq-PZf1mdmg9mxiPw2Y4R1Cb51CpAfbXEURjVhiVhcp6yGpLyN7dVQQsEJAWosLF9PbOVa0NrujjutMKgzTYTlx7Q",
+          "thumbnail_path": "channels/farsivoa/media/de8b0000f7d090512e192f53.jpg",
+          "thumbnail_sha256": "3baa2a5a84b9f903b79286765683f12796325c61e2997d2bc1da658a23ccb86a",
+          "duration_label": "3:39",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "67",
+      "posted_at": "2026-09-08T17:50:53+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229889",
+      "reply": null
+    },
     {
       "id": "farsivoa/229888",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "584",
+      "views_label": "841",
       "posted_at": "2026-09-08T17:37:42+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229888",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.03K",
+      "views_label": "1.23K",
       "posted_at": "2026-09-08T17:27:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229887",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.51K",
+      "views_label": "1.64K",
       "posted_at": "2026-09-08T17:16:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229886",
@@ -105,7 +133,7 @@
       "plain_text": "🔴📢‌ پادکست تفسیر خبر- سه شنبه ۱۷ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "1.57K",
+      "views_label": "1.67K",
       "posted_at": "2026-09-08T17:08:28+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229885",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.83K",
+      "views_label": "1.9K",
       "posted_at": "2026-09-08T16:56:30+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229884",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.87K",
+      "views_label": "1.97K",
       "posted_at": "2026-09-08T16:52:14+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229883",
@@ -177,7 +205,7 @@
       "plain_text": "🔺مارکو روبیو درباره اقدامات حوثی‌ها: دست جمهوری اسلامی پشت آنها است\n\n▪️مارکو روبیو، وزیر امور خارجه ایالات متحده، روز سه‌شنبه ۱۷ شهریور با اشاره به حملات حوثی‌های یمن به عربستان سعودی گفت این گروه «از بسیاری جهات عوامل و نیروهای نیابتی» جمهوری اسلامی است و افزود که «به‌وضوح دست جمهوری اسلامی» پشت بخشی از این تحولات دیده می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/rubio-links-houthis-to-iran/8195596.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.99K",
+      "views_label": "2.06K",
       "posted_at": "2026-09-08T16:46:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229882",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.78K",
+      "views_label": "1.84K",
       "posted_at": "2026-09-08T16:44:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229881",
@@ -221,7 +249,7 @@
       "plain_text": "🔺واکنش اسرائیل به اقدامات بریتانیا؛ تعطیلی کنسولگری در اورشلیم و اخراج نمایندگان از مرکز هماهنگی غزه\n\n▪️به گزارش رسانه‌های اسرائیل، گیدئون سعار، وزیر امور خارجه اسرائیل، روز سه‌شنبه ۱۷ شهریور با انتشار بیانیه‌ای اعلام کرد که اسرائیل چند اقدام دیپلماتیک را علیه بریتانیا به اجرا خواهد گذاشت.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/gideon-saar-israel-british-relations/8195571.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.07K",
+      "views_label": "2.13K",
       "posted_at": "2026-09-08T16:36:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229880",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.09K",
+      "views_label": "2.16K",
       "posted_at": "2026-09-08T16:33:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229879",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.17K",
+      "views_label": "2.2K",
       "posted_at": "2026-09-08T16:24:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229878",
@@ -321,7 +349,7 @@
       "plain_text": "🔺موج حمایت خانواده‌های دادخواه از یکدیگر؛‌ زنده بمانیم تا روز انتقام\n\n▪️در پی انتشار اخباری درباره خودکشی دو تن از بستگان کشته‌شدگانِ اعتراضات سال ۱۴۰۴، شماری از خانواده‌های دادخواه با انتشار ویدیوهایی بر لزوم «زنده ماندن و مبارزه تا فرارسیدن روز انتقام» تاکید کردند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-human-rights-suicide-protests-january-2026-murder-kill/8195558.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.46K",
+      "views_label": "2.49K",
       "posted_at": "2026-09-08T16:11:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229876",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.32K",
+      "views_label": "2.39K",
       "posted_at": "2026-09-08T16:06:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229875",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.58K",
+      "views_label": "2.62K",
       "posted_at": "2026-09-08T15:51:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229874",
@@ -393,7 +421,7 @@
       "plain_text": "🔺دو تن از نزدیکان جان‌باختگان اعتراضات دی ۱۴۰۴ به زندگی خود پایان دادند\n\n▪️گزارش‌های منتشرشده توسط چند رسانه و منبع حقوق بشری حاکی است دانیال کریمی، پدر امیرمحمد کریمی، از جان‌باختگان اعتراضات دی‌ ۱۴۰۴، و آیدا حیدری، نامزد ابوالفضل سلیمانی الموتی، یکی دیگر از جان‌باختگان این اعتراضات، به زندگی خود پایان داده‌اند؛ رخدادهایی که در ادامه گزارش‌ها درباره پیامدهای سنگین سرکوب معترضان و فشار بر خانواده‌های دادخواه منتشر می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/two-bereaved-relatives-die/8195553.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.81K",
+      "views_label": "2.84K",
       "posted_at": "2026-09-08T15:38:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229873",
@@ -409,7 +437,7 @@
       "plain_text": "🔺آمریکا ده‌ها شرکت و نهاد مرتبط با هوانوردی جمهوری اسلامی را تحریم کرد\n\n▪️دفتر کنترل دارایی‌های خارجی وزارت خزانه‌داری ایالات متحده آمریکا «اوفک» در چارچوب «عملیات طرد اقتصادی» ۳۶ نهاد، از جمله ۲۷ شرکت هواپیمایی جمهوری اسلامی، را به دلیل حمایت از بخش هوانوردی ایران - که حکومت ایران از آن برای جابه‌جایی تسلیحات، پرسنل، و محموله‌های غیرقانونی استفاده می‌کند - تحریم کرد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/ofac-iranian-regime-aviation-sanctions/8195557.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.58K",
+      "views_label": "2.61K",
       "posted_at": "2026-09-08T15:34:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229872",
@@ -437,7 +465,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.45K",
+      "views_label": "2.49K",
       "posted_at": "2026-09-08T15:27:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229871",
@@ -465,7 +493,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.49K",
+      "views_label": "2.55K",
       "posted_at": "2026-09-08T15:25:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229870",
@@ -493,7 +521,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.87K",
+      "views_label": "2.9K",
       "posted_at": "2026-09-08T15:09:26+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229869",
@@ -2469,34 +2497,6 @@
       "posted_at": "2026-09-07T19:00:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229790",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229789",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "حسن داعی در برنامه تفسیر خبر: هدف انتصاب‌های امنیتی فقط جلوگیری از اعتراضات مردمی است",
-      "plain_text": "حسن داعی در برنامه تفسیر خبر: هدف انتصاب‌های امنیتی فقط جلوگیری از اعتراضات مردمی است",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229789",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/B8_1Vf4-FoXRbEfACn_oGGSOyxoEaaJNRn9KmS8utO1dEGz73_JqS7EUAoPlk3dH4X3PZ9ClSv3f38hNUsa5iZ9kRxmIL8b9WtNGNkwphvOYq78DhaZbjvo7r6wv9B5WIGdmI6uX24fN12CVtNcZYL4yz168mFHOUXLDicuKKELBQDqVeUmiB7dxLW10G_h2OTYIdhCcSOdUZS9vcYblScCSyZTx2gyp2_DCQOpLueF49cfDW9wzwQLw3dQafem0_WvCPLP-4aEqfh85DEhu__TnGls6GZLKNGgG11Y_-gneubGPh8ZsOZ0JZiHYTbXU5hjWa0a_hGevjv_m-rlvaw",
-          "thumbnail_path": "channels/farsivoa/media/afb72fa31d9055d69742c3c7.jpg",
-          "thumbnail_sha256": "aac9a69a8dc3b731a7086e61c6173d64ea030550b441a1ca742eceaab78da2f3",
-          "duration_label": "0:50",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.45K",
-      "posted_at": "2026-09-07T18:55:40+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229789",
       "reply": null
     }
   ]
