@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T11:22:00.712Z",
+  "fetched_at": "2026-09-08T11:27:08.107Z",
   "channel": {
     "username": "tavaana_tavaanatech",
     "title": "آموزشکده توانا",
@@ -35,10 +35,10 @@
       "reactions": [
         {
           "emoji": "🕊",
-          "count": "6"
+          "count": "7"
         }
       ],
-      "views_label": "376",
+      "views_label": "382",
       "posted_at": "2026-09-08T09:58:56+00:00",
       "edited": true,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105972",
@@ -79,7 +79,7 @@
           "count": "1"
         }
       ],
-      "views_label": "867",
+      "views_label": "870",
       "posted_at": "2026-09-08T05:30:24+00:00",
       "edited": true,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105971",
@@ -120,7 +120,7 @@
           "count": "1"
         }
       ],
-      "views_label": "747",
+      "views_label": "749",
       "posted_at": "2026-09-08T05:10:28+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105970",
@@ -313,7 +313,7 @@
           "count": "2"
         }
       ],
-      "views_label": "640",
+      "views_label": "641",
       "posted_at": "2026-09-07T20:22:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105965",
@@ -387,7 +387,7 @@
           "count": "19"
         }
       ],
-      "views_label": "575",
+      "views_label": "576",
       "posted_at": "2026-09-07T20:22:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105963",
@@ -699,8 +699,8 @@
           "asset_url": "https://t.me/Tavaana_TavaanaTech/105954",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/s3MA3OJ3ZCU922PkwZpgtlbF4Ufo58lTxLG309JvQI-SwHDFcqYisOPA2MHR7HGRo7gBVl7WHfvLBFGVNaNBx0LtU7YCkl5BF75CQczU8-F85A_kT5KAI877VRWM3sJ11fANuXHJdv4reskFwt1p0TSC8NY6JEzLhPARABGmkbb4X4MaJV1IbNjK3SyoVJp8X6VROR9fU5cwkYc4Vf11efci2j8ul283dK5szO-1BPrC7d4pA9uhoKYhpQrOmobxGdoppjkT00wTbmHGJVvQaANwgg-Y-LVOoGpfsUOQH7Zr-rdkwUccb55mubniRVVyB8bzLeThQoWWVP0h7fb1nQ.jpg",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/fc5ab2484b1196446c3dcdf0.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/CXC5y51ECkHIhDPYhzDOqeHPdhTRnqeTluV7yzgMaB_zP9XRTfOGfvUwLW6820tD7OpVPaiVA79sZZecUyU-dlnkSDVhWW2guUfZHM-AmybFRcEjAPC7MpPh6O3G1EQfbvL-1qwr6CXNs3cJzTsT-MJib7iT3TL3bECasfdYF401e-_yeBpkHN9VWLYGn4aqepoV5RtlUGa4knCaAu_AbCxL2lF99ddQsvtef6zKB1ggAUaJTgplaLUJmaHn8hm-Tk-vcnAkqVYQPZKrSr_7O_oq_Iqsx1a0PfvLgUNlwLu1hFzkd9U46bEjTRU2vuF5EO-j5lcRjPXgBvHc1nAp2g.jpg",
+          "thumbnail_path": "channels/tavaana_tavaanatech/media/481efee6ee5cf7c180be84f4.jpg",
           "thumbnail_sha256": "ae5965635415434dca15034bb104f1381603ab331fb9f1086acbf45eaeeab75f",
           "duration_label": null,
           "aspect_ratio": 0.8
