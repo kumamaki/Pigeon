@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T22:24:08.137Z",
+  "fetched_at": "2026-09-08T22:27:49.458Z",
   "channel": {
     "username": "persianvpnhub",
     "title": "VPNhub | فیلترشکن رایگان",
@@ -74,7 +74,7 @@
       "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: سنگاپور 🇸🇬\n📶 پینگ: 177ms\n\n#VLESS #VPN\n\n🕒 انتشار: 01:06 - 1405/06/18\n💡 منبع: گروه MahsaNet\n\nvless://00f8cbcc-bf10-418b-a842-35519f460c7f@www.star8.cn:443?path=%2F15753%2Fsocket&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22length%22%3A%225-94%22%2C%22delay%22%3A%220%22%2C%22maxSplit%22%3A%22%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22length%22%3A%22109-1%22%2C%22delay%22%3A%221%22%2C%22maxSplit%22%3A%22355%22%7D%7D%5D%7D&insecure=0&host=dews.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=dews.irandoc.info#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net",
       "media": [],
       "reactions": [],
-      "views_label": "104",
+      "views_label": "134",
       "posted_at": "2026-09-08T21:50:13+00:00",
       "edited": false,
       "permalink": "https://t.me/persianvpnhub/59256",
