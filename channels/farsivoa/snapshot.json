@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T13:06:37.335Z",
+  "fetched_at": "2026-09-08T13:11:42.016Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229857",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "نخست‌وزیر پاکستان حمله حوثی‌ها به تأسیسات غیرنظامی و انرژی در عربستان سعودی را «بزدلانه» خواند و به‌شدت محکوم کرد.<br><br>شهباز شریف در شبکه ایکس نوشت: «با شدیدترین لحن، حمله بزدلانه حوثی‌ها به تأسیسات غیرنظامی و انرژی در پادشاهی عربستان سعودی را که شمار زیادی را زخمی کرده محکوم می‌کنم.»<br><br>او افزود: «پاکستان با استواری در همبستگی با ملک سلمان، ولیعهد شاهزاده محمد بن سلمان و مردم برادر عربستان سعودی می‌ایستد.»<br><br>شریف تأکید کرد: «چنین حملات ناجوانمردانه‌ای جان بی‌گناهان و نیز صلح و امنیت منطقه‌ای را تهدید می‌کند. پشتیبانی پابرجای خود را از حاکمیت، امنیت و تمامیت ارضی پادشاهی تکرار می‌کنیم.»",
+      "plain_text": "نخست‌وزیر پاکستان حمله حوثی‌ها به تأسیسات غیرنظامی و انرژی در عربستان سعودی را «بزدلانه» خواند و به‌شدت محکوم کرد.\n\nشهباز شریف در شبکه ایکس نوشت: «با شدیدترین لحن، حمله بزدلانه حوثی‌ها به تأسیسات غیرنظامی و انرژی در پادشاهی عربستان سعودی را که شمار زیادی را زخمی کرده محکوم می‌کنم.»\n\nاو افزود: «پاکستان با استواری در همبستگی با ملک سلمان، ولیعهد شاهزاده محمد بن سلمان و مردم برادر عربستان سعودی می‌ایستد.»\n\nشریف تأکید کرد: «چنین حملات ناجوانمردانه‌ای جان بی‌گناهان و نیز صلح و امنیت منطقه‌ای را تهدید می‌کند. پشتیبانی پابرجای خود را از حاکمیت، امنیت و تمامیت ارضی پادشاهی تکرار می‌کنیم.»",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229857",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/vkTXjAWusOPIhfR4XQKyp75oUOX9XbSNocr29KFBpcnJAA-u_DaTTl4GvQ7XrhmZVAtoCx2fsqg_U0nTaW_s29ZzUI7BBe0usY7f2o1XJzwTN7yEsENoST5a7zG8Cod2b6x4W0Nhm0-q2Tq1YTLjIceoLZfI3YaUIvB-nD1uECdTM2DqzC4MOF_2Qyg8ns866zhxhRtiygVXp3bW3QIGYI5XDvCe3IHi4XjYZIO71RurokB4CQJHRSl-hZcwL9nu5lIevBJ9-CBmtOeCx-epYZrZVBlNwzJSPAnrUxycL8lZXHjNd30Cf1KBbIbR7WJDTvlA40xHghbLLK89lWztRQ.jpg",
+          "thumbnail_path": "channels/farsivoa/media/0d743b1cccc027a69a849cc0.jpg",
+          "thumbnail_sha256": "39869c2d61c8bed333feca983da25f31a7d1d6bd911ff7f0ea027f5460cb54f6",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T13:10:48+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229857",
+      "reply": null
+    },
     {
       "id": "farsivoa/229856",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "122",
+      "views_label": "348",
       "posted_at": "2026-09-08T13:05:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229856",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "187",
+      "views_label": "410",
       "posted_at": "2026-09-08T13:03:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229855",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "724",
+      "views_label": "853",
       "posted_at": "2026-09-08T12:50:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229854",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.01K",
+      "views_label": "1.14K",
       "posted_at": "2026-09-08T12:39:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229853",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.37K",
+      "views_label": "1.43K",
       "posted_at": "2026-09-08T12:25:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229852",
@@ -161,7 +189,7 @@
       "plain_text": "🔺بریتانیا لایحه تحریم‌های سخت‌تر علیه جمهوری اسلامی را منتشر کرد\n\n▪️بریتانیا روز سه‌شنبه قانونی برای اعمال تحریم‌های سخت‌تر علیه جمهوری اسلامی منتشر کرد که محدودیت‌های تجاری و اختیارات هدف قرار دادن شناورها را گسترش می‌دهد.\n\n▪️دولت بریتانیا اقدام را بخشی از تلاش گسترده‌تر برای مهار برنامه هسته‌ای تهران و «دیگر فعالیت‌های خصمانه» خواند. بر پایه اعلام دولت بریتانیا، اقدام‌ها دسترسی جمهوری اسلامی به نظام مالی این کشور را محدود می‌کند.\n\n▪️ممنوعیت تجارت به کالاها، فناوری و خدمات بیشتری گسترش می‌یابد و فرود هواپیماهای ایرانی در بریتانیا جز در موارد استثنا ممنوع می‌شود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/uk-publishes-legislation-for-tougher-sanctions-on-iran/8195516.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.76K",
+      "views_label": "1.82K",
       "posted_at": "2026-09-08T12:07:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229851",
@@ -177,7 +205,7 @@
       "plain_text": "🔺ژاپن نگرانی خود را از حملات جمهوری اسلامی به شناورها در هرمز ابراز کرد\n\n▪️توشیمیتسو موتگی، وزیر خارجه ژاپن، در گفت‌وگوی تلفنی با عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، نگرانی خود را از ادامه حملات جمهوری اسلامی به شناورهای غیرنظامی ابراز کرد و خواستار «حداکثر خویشتنداری» شد.\n\n▪️بر پایه اعلام وزارت خارجه ژاپن، در این تماس پنج خواسته توکیو از جمله کاهش تنش و از سرگیری مذاکرات، انعطاف حداکثری، توقف حمله به شناورها، بازگشت آزادی دریانوردی بدون هزینه افزوده و مهار حوثی‌ها به عراقچی منتقل شد.\n\n▪️در مقابل عراقچی از «پیشرفت قابل توجه» گفت‌وگوها با عمان برای تعیین یک مسیر موقت تردد در تنگه هرمز خبر داد. ژاپن اما می‌گوید آینده تنگه باید در جامعه بین‌المللی بررسی شود، نه دوجانبه.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/japan-expresses-concern-over-iranian-attacks-on-vessels-in-hormuz/8195515.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.63K",
+      "views_label": "1.7K",
       "posted_at": "2026-09-08T12:02:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229850",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.68K",
+      "views_label": "1.74K",
       "posted_at": "2026-09-08T11:51:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229849",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.78K",
+      "views_label": "1.81K",
       "posted_at": "2026-09-08T11:44:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229848",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.9K",
+      "views_label": "1.94K",
       "posted_at": "2026-09-08T11:34:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229847",
@@ -289,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.99K",
+      "views_label": "2.03K",
       "posted_at": "2026-09-08T11:24:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229846",
@@ -317,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.22K",
+      "views_label": "2.28K",
       "posted_at": "2026-09-08T11:08:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229845",
@@ -345,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.34K",
+      "views_label": "2.37K",
       "posted_at": "2026-09-08T10:57:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229844",
@@ -361,7 +389,7 @@
       "plain_text": "🔺هشدار استادان دانشگاه مبنی بر اعتصاب از اول مهر و حاضر نشدن در کلاس‌ها\n\n▪️کانون صنفی استادان دانشگاهی ایران هشدار داد اگر قانون ترمیم حقوق اعضای هیئت علمی تا پایان شهریور به‌طور کامل اجرا نشود، از استادان می‌خواهد فعالیت‌های دانشگاهی خود را از ابتدای مهر تعلیق کنند.\n\n▪️بر پایه بیانیه این کانون، تعلیق حوزه‌های آموزشی، پژوهشی، اجرایی و مشاوره‌ای را در بر می‌گیرد و تا اجرای «کامل و بی‌قیدوشرط» قانون ادامه می‌یابد.\n\n▪️در بیانیه آمده است اعضای هیئت علمی پس از دو سال طی شدن مراحل کارشناسی و قانونی انتظار داشتند اجرای قانون بخشی از مشکلات معیشتی آنان را کاهش دهد.\n\n▪️با این حال با گذشت نزدیک به شش ماه از سال ۱۴۰۵، قانون همچنان به‌طور کامل اجرا نشده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195514.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.56K",
+      "views_label": "2.59K",
       "posted_at": "2026-09-08T10:45:08+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229843",
@@ -417,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.59K",
+      "views_label": "2.62K",
       "posted_at": "2026-09-08T10:26:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229841",
@@ -445,7 +473,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.85K",
+      "views_label": "2.88K",
       "posted_at": "2026-09-08T09:59:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229840",
@@ -473,7 +501,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.94K",
+      "views_label": "2.97K",
       "posted_at": "2026-09-08T09:41:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229839",
@@ -2603,22 +2631,6 @@
       "posted_at": "2026-09-07T15:39:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229748",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229747",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>گردهمایی «هیلی ۲۰۲۶» در ابوظبی با تمرکز بر امنیت تنگه هرمز آغاز شد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>به گزارش رسانه‌های امارات در روز دوشنبه ۱۶ شهریور، سومین اجلاس گردهمایی هیلی ۲۰۲۶ با عنوان «خلیج [فارس] بر سر دو راهی: درگیری‌ها، پیامدها و تصحیح روند» در ابوظبی آغاز شد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/emirates-hili-forum-security-studies-hormuz/8195090.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/emirates-hili-forum-security-studies-hormuz/8195090.html/?nocach=1</a>",
-      "plain_text": "🔺گردهمایی «هیلی ۲۰۲۶» در ابوظبی با تمرکز بر امنیت تنگه هرمز آغاز شد\n\n▪️به گزارش رسانه‌های امارات در روز دوشنبه ۱۶ شهریور، سومین اجلاس گردهمایی هیلی ۲۰۲۶ با عنوان «خلیج [فارس] بر سر دو راهی: درگیری‌ها، پیامدها و تصحیح روند» در ابوظبی آغاز شد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/emirates-hili-forum-security-studies-hormuz/8195090.html/?nocach=1",
-      "media": [],
-      "reactions": [],
-      "views_label": "1.93K",
-      "posted_at": "2026-09-07T15:34:31+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229747",
       "reply": null
     }
   ]
