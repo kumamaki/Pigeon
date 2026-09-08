@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T20:12:51.656Z",
+  "fetched_at": "2026-09-08T20:16:43.042Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229912",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "همزمان با تحریم‌های جدید آمریکا؛ دونالد ترامپ می‌گوید جمهوری اسلامی خیلی خوب تنبیە شدە است<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "همزمان با تحریم‌های جدید آمریکا؛ دونالد ترامپ می‌گوید جمهوری اسلامی خیلی خوب تنبیە شدە است\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229912",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/hcBh4m_Z5yqbIUH8c4rRmcShMYGhLnmw4Ca1ba5EsReVPbUk6uz3dFcnSQF7x7B42f0vKU224YnUnK4njobbI_7HOa7SwZQPVZgwDlhp3-q1hn_n1Iu7G64hmQV7jre3m4NyjbgmUFRtSFT169wNL6b3hWUsGDWSnzrKy-yGnBu36cQhoYhESaeJ6vvVgNjz5nd8xl02jGYX3b1tKQi1wW52d_UhBuAKkt0qjaucKyQJs8jxBp2ub6TT1hd0RZuQpnJ0DAwt9DWEtPOJfmQwmgrkVY0QFkdsragaPfUv5W8ifRgaBymzhrpEOqEzMsHWQYm7-z8lNVCR1xn197jXxQ",
+          "thumbnail_path": "channels/farsivoa/media/339cbb8012814e9cf3cadbd1.jpg",
+          "thumbnail_sha256": "6007ac2be75644d93704dcd6bc4be19a1ad12ed7f5a632eb8e2aec0e503cb981",
+          "duration_label": "5:33",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T20:16:22+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229912",
+      "reply": null
+    },
     {
       "id": "farsivoa/229911",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "571",
+      "views_label": "760",
       "posted_at": "2026-09-08T20:06:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229911",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.11K",
+      "views_label": "1.3K",
       "posted_at": "2026-09-08T19:59:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229910",
@@ -77,7 +105,7 @@
       "plain_text": "🔺سنتکام به صدای آمریکا: زیردریایی بی‌سرنشینی که دچار نقص فنی شد فاقد تجهیزات حساس بود\n\n▪️تیم هاوکینز، سخنگوی فرماندهی مرکزی آمریکا، سنتکام، روز سه‌شنبه ۱۷ شهریور در پاسخ به صدای آمریکا درباره ادعای سپاه پاسداران مبنی بر «به غنیمت گرفتن» یک زیردریایی آمریکایی در تنگه هرمز گفت یک دستگاه زیردریایی بدون سرنشین تحت کنترل نیروهای آمریکایی حدود یک روز پیش دچار نقص فنی شده بود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/centcom-says-drone-malfunctioned/8195671.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.52K",
+      "views_label": "1.67K",
       "posted_at": "2026-09-08T19:54:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229909",
@@ -93,7 +121,7 @@
       "plain_text": "🔴📢‌ پادکست میدان - سه شنبه ۱۷ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از\nنسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه\nسبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "1.42K",
+      "views_label": "1.51K",
       "posted_at": "2026-09-08T19:53:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229908",
@@ -109,7 +137,7 @@
       "plain_text": "🔺گزارش‌ها از حمله ارتش آمریکا به اهدافی در جاسک و خارک؛ فاکس‌نیوز: چند نفتکش هدف قرار گرفتند\n\n▪️رسانه‌های حکومتی در ایران سه‌شنبه شب تائید کردند که یک نفتکش در اطراف جزیره خارک هدف حمله قرار گرفته است. به گفته تسنیم، نزدیک به سپاه پاسداران، یک پرتابه به این نفتکش برخورد کرده است. تسنیم مدعی حمله آمریکا به این نفتکش شده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195682.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.62K",
+      "views_label": "1.71K",
       "posted_at": "2026-09-08T19:49:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229907",
@@ -137,7 +165,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.62K",
+      "views_label": "1.68K",
       "posted_at": "2026-09-08T19:46:36+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229906",
@@ -153,7 +181,7 @@
       "plain_text": "🔺پیام حسین شنبه‌زاده از زندان اوین: اوین هتل نیست؛ به داد زندانیان مالی برسید\n\n▪️حسین شنبه‌زاده، جوان ویراستاری که به دلیل گذاشتن یک نقطه‌ زیر پیام علی خامنه‌ای» زندانی شده است، روز ۱۷ شهریور همزمان با سالروز تولدش در یک پیام صوتی ۱۷ دقیقه‌ای از زندان اوین، خواستار توجه ویژه به زندانیان مالی شد و از به کار بردن لفظ «هتل» برای اوین انتقاد کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/hossein-shanbehzadeh-financial-prisoners/8195635.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.75K",
+      "views_label": "1.81K",
       "posted_at": "2026-09-08T19:39:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229905",
@@ -169,7 +197,7 @@
       "plain_text": "🔺روبیو: جمهوری اسلامی دیگر در میدان‌های نفتی ونزوئلا جایگاهی ندارد\n\n▪️مارکو روبیو، وزیر امور خارجه ایالات متحده، می‌گوید میدان‌های نفتی ونزوئلا که زمانی چین، روسیه، و جمهوری اسلامی در آنها نفوذ و امتیاز داشتند، دیگر در اختیار این کشورها نیست و همکاری با ایالات متحده منافع بیشتری برای مردم ونزوئلا خواهد داشت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/rubio-says-iran-lost-foothold/8195651.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.94K",
+      "views_label": "2.01K",
       "posted_at": "2026-09-08T19:34:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229904",
@@ -197,7 +225,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.95K",
+      "views_label": "2.01K",
       "posted_at": "2026-09-08T19:30:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229903",
@@ -225,7 +253,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.29K",
+      "views_label": "2.33K",
       "posted_at": "2026-09-08T19:20:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229902",
@@ -241,7 +269,7 @@
       "plain_text": "🔺هشدار بسنت: تجارت با شرکت‌های هواپیمایی جمهوری اسلامی پیامدهای سنگینی دارد\n\n◾️اسکات بسنت، وزیر خزانه‌داری ایالات متحده، روز سه‌شنبه ۱۷ شهریور با اعلام تحریم‌های گسترده تازه علیه بخش هوانوردی ایران هشدار داد هر فرد یا شرکتی که با شرکت‌های هواپیمایی تحریم‌شده ایران همکاری کند، در معرض قطع دسترسی به نظام مالی جهانی قرار خواهد گرفت.\n\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/scott-bessent-economic-exclusion-iranian-regime/8195625.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.8K",
+      "views_label": "2.87K",
       "posted_at": "2026-09-08T19:06:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229901",
@@ -269,7 +297,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.74K",
+      "views_label": "2.77K",
       "posted_at": "2026-09-08T18:58:36+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229900",
@@ -297,7 +325,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.83K",
+      "views_label": "2.89K",
       "posted_at": "2026-09-08T18:52:45+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229899",
@@ -325,7 +353,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.02K",
+      "views_label": "3.05K",
       "posted_at": "2026-09-08T18:45:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229898",
@@ -353,7 +381,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.25K",
+      "views_label": "3.28K",
       "posted_at": "2026-09-08T18:32:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229897",
@@ -369,7 +397,7 @@
       "plain_text": "🔺آشفتگی بنزینی در ایران؛ از جرقه اعتراضات خیابانی تا خرابی خودروها در نتیجه استفاده از بنزین بی‌کیفیت\n\n▪️همزمان با افزایش قیمت دو برابری سوخت در ایران، گزارش‌ها و تصاویر منتشر شده از بروز دست کم یک مورد اعتراض خیابانی در کرمانشاه حکایت دارد و همزمان صف‌های طولانی جایگاه‌های سوخت از مناطق مختلف کشور گزارش شده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-gas-sanction-protest-islamic-republic-of-iran-security-forces-currency-import-operation-economic-outcast--asphyxiation-/8195598.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "3.41K",
+      "views_label": "3.44K",
       "posted_at": "2026-09-08T18:26:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229896",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.17K",
+      "views_label": "3.2K",
       "posted_at": "2026-09-08T18:18:11+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229895",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.23K",
+      "views_label": "3.26K",
       "posted_at": "2026-09-08T18:11:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229894",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.3K",
+      "views_label": "3.33K",
       "posted_at": "2026-09-08T18:07:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229893",
@@ -2469,34 +2497,6 @@
       "posted_at": "2026-09-07T23:46:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229812",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229811",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "نشست شورای حقوق بشر سازمان ملل متحد در ژنو آغاز شده و وضعیت حقوق بشر در جمهوری اسلامی نیز در دستور کار این دوره قرار دارد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "نشست شورای حقوق بشر سازمان ملل متحد در ژنو آغاز شده و وضعیت حقوق بشر در جمهوری اسلامی نیز در دستور کار این دوره قرار دارد.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229811",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/dWewO2dPA5Ig2GQHVE8IQMRDhQVb8A87wtHDQ3OJ27BJWRd72mpDnXY55OP_N4JRIsxJwRW6P9cOqP5qYqOAx9M6bbhiiMiUzuLYLj_nqDVw-zyE0BH9gNGZRi3gVq9Dm7rzz_34k2M9AwWZGS2MuWUrM3g0Ubm3GJtS5VlLRGamreofw5_uGg-HvRbAcS2Sj-CEWXpaWtcrgdfTHz47X0VIh58LeWmc07zQYFDCpvCCzHtT1NIqVtRZdzMuHwUAgduPrrkkLm376QMm8NLa0nroS7m2mNj5a9s27GHSVdiw9vg5-rL2CxHAgNlGhFIvJoZWBJ6fDJut2no165lyZA",
-          "thumbnail_path": "channels/farsivoa/media/32a93ba2bd43a89120edaa35.jpg",
-          "thumbnail_sha256": "6065cb6359d8ac0a8f5134c097b6a990df5840826881da03341b8c03c2b70a79",
-          "duration_label": "3:20",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.87K",
-      "posted_at": "2026-09-07T23:39:48+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229811",
       "reply": null
     }
   ]
