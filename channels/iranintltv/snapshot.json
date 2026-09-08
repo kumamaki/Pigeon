@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T21:46:45.110Z",
+  "fetched_at": "2026-09-08T21:51:42.023Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,62 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356398",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "مقام‌های آمریکایی اعلام کردند نیروهای ایالات متحده در واکنش به تلاش برای حمله موشکی به یک ناو جنگی نیروی دریایی آمریکا، چند نفتکش ایرانی مرتبط با سپاه پاسداران را هدف قرار داده‌اند.<br><br>یک مقام آمریکایی به ای‌بی‌سی نیوز گفت این حملات در واکنش به «تلاش‌های بیشتر برای حمله موشکی» به ناو آمریکایی انجام شد. ان‌بی‌سی نیوز نیز به نقل از یک مقام آمریکایی گزارش داد این حملات موشکی به ناو و نیروهای مستقر در آن آسیبی وارد نکرد.<br><br>سی‌ان‌ان به نقل از دو مقام آمریکایی گزارش داد چند نفتکش ایرانی در نزدیکی جزیره خارک در تنگه هرمز هدف قرار گرفتند. به نوشته این شبکه، حملات در شرایطی انجام شده که آمریکا تمرکز خود را بر اهداف اطراف تنگه هرمز افزایش داده و هم‌زمان عملیات اسکورت کشتی‌های تجاری و محاصره دریایی بنادر ایران را ادامه می‌دهد.<br><br>در همین حال، صداوسیمای جمهوری اسلامی از حمله نیروهای آمریکایی به دو نفتکش در آب‌های بندر جاسک خبر داد و اعلام کرد خدمه هر دو نفتکش با قایق نجات در حال انتقال به ساحل جاسک هستند.<br><br><a href=\"https://iranintl.com/202609081285\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609081285</a>",
+      "plain_text": "مقام‌های آمریکایی اعلام کردند نیروهای ایالات متحده در واکنش به تلاش برای حمله موشکی به یک ناو جنگی نیروی دریایی آمریکا، چند نفتکش ایرانی مرتبط با سپاه پاسداران را هدف قرار داده‌اند.\n\nیک مقام آمریکایی به ای‌بی‌سی نیوز گفت این حملات در واکنش به «تلاش‌های بیشتر برای حمله موشکی» به ناو آمریکایی انجام شد. ان‌بی‌سی نیوز نیز به نقل از یک مقام آمریکایی گزارش داد این حملات موشکی به ناو و نیروهای مستقر در آن آسیبی وارد نکرد.\n\nسی‌ان‌ان به نقل از دو مقام آمریکایی گزارش داد چند نفتکش ایرانی در نزدیکی جزیره خارک در تنگه هرمز هدف قرار گرفتند. به نوشته این شبکه، حملات در شرایطی انجام شده که آمریکا تمرکز خود را بر اهداف اطراف تنگه هرمز افزایش داده و هم‌زمان عملیات اسکورت کشتی‌های تجاری و محاصره دریایی بنادر ایران را ادامه می‌دهد.\n\nدر همین حال، صداوسیمای جمهوری اسلامی از حمله نیروهای آمریکایی به دو نفتکش در آب‌های بندر جاسک خبر داد و اعلام کرد خدمه هر دو نفتکش با قایق نجات در حال انتقال به ساحل جاسک هستند.\n\nhttps://iranintl.com/202609081285",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356398",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/pRVUmLPtw2ujhZLqc2hjFUQCC6CQkm0RCL0OjoVYjpLD4CCD423qqzVyfIWTXFJ07zn4_b6wB0f7YkfzlCV4qtONSUbdf5rDGPhM9iYYrVAoTIZutVw0AmbQ3c7lCqJL-k98nwZi-qdqfPVAQGk9v3mstPjMDXIq0kgWj7A-eblDYWK6noVQicbg3ByQ5S8QF2Eg0bnwWllb9Jg038cNT03XU_UlEdlEsk2kcENQx3iAxShXuZcx9cGOxjDi55UIscMxHXoq_eE-roEu30nC3qzqaz0fOuL77zUrQKZB7lgY2_4PdVTJu0jZJbdSv5ByJC2UnIbfBQ5xfB4PuYmdqQ.jpg",
+          "thumbnail_path": "channels/iranintltv/media/6c96ad9911c4a7729b8b2a1f.jpg",
+          "thumbnail_sha256": "e528c7605d583812f4af3e2960ed9a2e0b6e6e8a40ffd4abde5939bc1e4c1feb",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.13K",
+      "posted_at": "2026-09-08T21:50:26+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356398",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356397",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "اقدامات دولت بریتانیا شامل تحریم‌های تجاری جدید بر کالاها، فناوری‌ها و خدمات ارسالی به ایران و ممنوعیت فرود هواپیماهای متعلق به جمهوری اسلامی در خاک این کشور است. علاوه بر این، لندن اختیارات جدیدی برای هدف قرار دادن و توقیف کشتی‌های مرتبط با تهران در نظر گرفته است.<br><br>گفت‌وگو با حسین علیزاده، تحلیلگر مسائل بین‌الملل<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "اقدامات دولت بریتانیا شامل تحریم‌های تجاری جدید بر کالاها، فناوری‌ها و خدمات ارسالی به ایران و ممنوعیت فرود هواپیماهای متعلق به جمهوری اسلامی در خاک این کشور است. علاوه بر این، لندن اختیارات جدیدی برای هدف قرار دادن و توقیف کشتی‌های مرتبط با تهران در نظر گرفته است.\n\nگفت‌وگو با حسین علیزاده، تحلیلگر مسائل بین‌الملل\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356397",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/TN9Mg8Wo09EbsX3L3oO5TgE1uJauyXRID85BFC2xWGfOacwZ1qlz-suKS0SPauedpwSkrwmUv_I9t4_mJv174_T3HZ0YXR5_8B6AGgUx5GIXtwm2Zp8Ro67tK-RbeNa6xNppfAXdLMhv4F-R2j5lQVO0pRlDKOXP2DJYBybEo72sdyeTCkk6ygjtvyXCTFt_myQWU_1Jobe_0T44xgtjdqh0c0zjdDES6AmV9jaPwfh8dWZt6azCA84OErB5RtuPHYNWN32J3JOIGFDrCX6KSqkp8N_kLMLk8b5bnLrk2A0Bz6HWU6i2U0FgLftl6VyN6K5JY3isXRSlbxTBvcYPug",
+          "thumbnail_path": "channels/iranintltv/media/fd8efd9ce567d5df33a493b9.jpg",
+          "thumbnail_sha256": "1482a5eb47c65216127544d6c2e9b6758e5c29fefacad9a5c22bf25ab2fb6ae4",
+          "duration_label": "2:29",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "5.29K",
+      "posted_at": "2026-09-08T21:48:37+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356397",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356396",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.2K",
+      "views_label": "30.4K",
       "posted_at": "2026-09-08T21:15:39+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356396",
@@ -61,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.7K",
+      "views_label": "39.8K",
       "posted_at": "2026-09-08T20:59:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356395",
@@ -89,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45K",
+      "views_label": "47.1K",
       "posted_at": "2026-09-08T20:46:37+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356394",
@@ -117,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.1K",
+      "views_label": "50.2K",
       "posted_at": "2026-09-08T20:37:50+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356393",
@@ -145,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "48.1K",
+      "views_label": "50.3K",
       "posted_at": "2026-09-08T20:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356392",
@@ -161,7 +217,7 @@
       "plain_text": "🎧نسخه صوتی چشم‌انداز: آرایش جنگی در پمپ بنزین‌ها و احتمال فروپاشی دولت\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "50.2K",
+      "views_label": "52.3K",
       "posted_at": "2026-09-08T20:23:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356391",
@@ -189,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "59.6K",
+      "views_label": "61.7K",
       "posted_at": "2026-09-08T20:08:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356390",
@@ -217,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "65.8K",
+      "views_label": "66.9K",
       "posted_at": "2026-09-08T20:00:32+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356389",
@@ -245,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "59.5K",
+      "views_label": "60.6K",
       "posted_at": "2026-09-08T19:59:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356388",
@@ -273,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "58.6K",
+      "views_label": "59.6K",
       "posted_at": "2026-09-08T19:54:17+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356387",
@@ -289,7 +345,7 @@
       "plain_text": "🎧نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: آرایش نظامی در شهرهای ایران\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "54.5K",
+      "views_label": "55.5K",
       "posted_at": "2026-09-08T19:52:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356386",
@@ -317,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "56.4K",
+      "views_label": "57.5K",
       "posted_at": "2026-09-08T19:50:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356385",
@@ -333,7 +389,7 @@
       "plain_text": "🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - سه‌شنبه ۱۷ شهریور\n\n🔹من توی جزیره خارک هستم، بهم اطلاع دادن، گفتن سه عدد نفت‌کش مورد اصابت قرار گرفته\n\n🔹ساعت ۲۲ و ۳۵ دقیقه سه‌شنبه، صدای دو فروند موشک یا هواپیمای جنگی در آسمان کرمانشاه\n\n🔹ملارد کرج، سه‌شنبه شب، دم پمپ‌بنزین، صدای شلیک تیر میاد؛ مردم با نیروی بسیجی درگیر شدند\n\n🔹من ۱۴ سالمه، ورزش می‌کنم. شهریه‌ی باشگاه انقدر گرون شده که بعضی وقتا آخر ماه شهریه رو می‌دم. انقدر تورم و گرونی زیاده که بعضی وقتا خودم از کارتم به خانواده پول می‌دم. چی داره به سر ملت ایران میاد؟\n\n🔹استامینوفن کدئین، یک خشاب یک میلیون تومان؛ یعنی هر دانه قرص صد هزار تومان شده\n\n🔹امروز با گران شدن بنزین کرایه وانت‌بارها ۴۰ درصد گران شد و راننده‌ها با کرایه‌های قبل بار نمی‌بردن\n\n🔹سلام مگه نگفتن دیگه برق‌ها رو قطع نمی‌کنن؟ میان‌دوآب از ساعت ۲ تا ۴ هر روز برق‌ها قطع می‌شه\n\n🔹عارف گفته ۷۰ سنت می‌خریم، ۳ سنت می‌فروشیم، ولی نمی‌گه ۱۰ درصدش وارداتیه، مابقی تولید خودمونه؛ یعنی ۹۰ درصد قیمت مفت داره به مردم ۱۰ تومن می‌فروشه. خودتی عمو",
       "media": [],
       "reactions": [],
-      "views_label": "56.5K",
+      "views_label": "56.6K",
       "posted_at": "2026-09-08T19:47:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356384",
@@ -361,7 +417,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "54.5K",
+      "views_label": "55.5K",
       "posted_at": "2026-09-08T19:44:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356383",
@@ -389,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "62.9K",
+      "views_label": "63.9K",
       "posted_at": "2026-09-08T19:30:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356382",
@@ -417,7 +473,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "59.7K",
+      "views_label": "60.7K",
       "posted_at": "2026-09-08T19:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356381",
@@ -445,7 +501,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "59.7K",
+      "views_label": "60.7K",
       "posted_at": "2026-09-08T19:25:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356380",
@@ -473,7 +529,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "57.6K",
+      "views_label": "58.7K",
       "posted_at": "2026-09-08T19:23:20+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356379",
@@ -2693,62 +2749,6 @@
       "posted_at": "2026-09-08T11:03:31+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356299",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356298",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "دولت بریتانیا سه‌شنبه ۱۷ شهریور قانون جدیدی برای تشدید تحریم‌ها علیه جمهوری اسلامی منتشر کرد که محدودیت‌های تجاری را افزایش می‌دهد و اختیارات این کشور برای هدف قرار دادن کشتی‌ها را گسترش می‌دهد.<br><br>دولت بریتانیا اعلام کرد این قانون بخشی از تلاش گسترده‌تر برای مهار برنامه هسته‌ای جمهوری اسلامی و مقابله با دیگر فعالیت‌های خصمانه آن است.<br><br>بر اساس این قانون، دسترسی جمهوری اسلامی به نظام مالی بریتانیا محدودتر خواهد شد و ممنوعیت‌های تجاری به کالاها، فناوری‌ها و خدمات بیشتری گسترش خواهد یافت.<br><br>این قانون همچنین اختیارات بریتانیا برای تحریم کشتی‌ها را افزایش می‌دهد و فرود هواپیماهای ایرانی در این کشور را، به‌جز در موارد مشمول معافیت، ممنوع می‌کند.<br><a href=\"https://iranintl.com/202609083082\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609083082</a>",
-      "plain_text": "دولت بریتانیا سه‌شنبه ۱۷ شهریور قانون جدیدی برای تشدید تحریم‌ها علیه جمهوری اسلامی منتشر کرد که محدودیت‌های تجاری را افزایش می‌دهد و اختیارات این کشور برای هدف قرار دادن کشتی‌ها را گسترش می‌دهد.\n\nدولت بریتانیا اعلام کرد این قانون بخشی از تلاش گسترده‌تر برای مهار برنامه هسته‌ای جمهوری اسلامی و مقابله با دیگر فعالیت‌های خصمانه آن است.\n\nبر اساس این قانون، دسترسی جمهوری اسلامی به نظام مالی بریتانیا محدودتر خواهد شد و ممنوعیت‌های تجاری به کالاها، فناوری‌ها و خدمات بیشتری گسترش خواهد یافت.\n\nاین قانون همچنین اختیارات بریتانیا برای تحریم کشتی‌ها را افزایش می‌دهد و فرود هواپیماهای ایرانی در این کشور را، به‌جز در موارد مشمول معافیت، ممنوع می‌کند.\nhttps://iranintl.com/202609083082",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356298",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ep-mX50oOJOsHKZ2SgX5v-MtlIeR3tmehpl4LR0PHqY4KPRPAhoZW9lYAcNpIEI9LZWXQDbmMWy1QukEncaFr3JPESA1b_W_0ZhthX1DiEdfmAVxadblLJamILmHKQvDPPzKORpyaERjErHG9YmREfmjN4CZhuaJcDxrCgYv1x86G3ALqN_Ix9DIcK1TYEEjrWjGXr9etqgB2ahG2MX61jIW1VFmBRBoedf2oYwibJrXIP4Sv6V1CeYXWW3D2CjQUWk_nyC4rQOc21lXpWmV50UIcG8UHOoYOsCC6tZUw-a4760YgMhqmPjk0rYZCRMFlrRMKUNiIFCFvqWtglTv5A.jpg",
-          "thumbnail_path": "channels/iranintltv/media/34d94f35076c7c1da4a0b454.jpg",
-          "thumbnail_sha256": "4cba7564cd15b3372dab23f315485ae93f344aca3fbff3460f1b8112fb1d0abb",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "48.5K",
-      "posted_at": "2026-09-08T10:40:24+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356298",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356297",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "یک شهروند با انتشار ویدیویی در رسانه‌های اجتماعی، به گران شدن قیمت بنزین اعتراض می‌کند و می‌گوید: «مگر پزشکیان نگفته بود برای گران شدن بنزین از مردم اجازه می‌گیرد؟ چه اجازه‌ای از ما گرفت؟ تازه بنزین گران شده، قیمت روغن ماشین ۵۰ درصد بالا رفته است. همه‌چیز قرار است گران شود.»",
-      "plain_text": "یک شهروند با انتشار ویدیویی در رسانه‌های اجتماعی، به گران شدن قیمت بنزین اعتراض می‌کند و می‌گوید: «مگر پزشکیان نگفته بود برای گران شدن بنزین از مردم اجازه می‌گیرد؟ چه اجازه‌ای از ما گرفت؟ تازه بنزین گران شده، قیمت روغن ماشین ۵۰ درصد بالا رفته است. همه‌چیز قرار است گران شود.»",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356297",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Cg3lceXG55KtObVMSKBMH8wVEGwZQPCgAjB-9Y_9_1Tlbu0BG4uzxZN85HjlBL07b9BGdIvDBqLRX1jWSghfaZMYFQoki4x3MUEJDc_wMkFGZwuUaBwCBYKPgqngooFQhGG1fF__7den_ctUv-2WtpaLlsEud4y0Vx7HR5xEbVJ67qMu6f21JBLtEqNdx6bhzpst0bOarEgOEjXhgKEsMvt_-y2wRg4be4BtLXxDhSXn_EkOjEp7dB4-xrYyM-P5L0blqu7i0slTz8txyQDWDxOx1mxcZyrN_C3KWDZvjuS7fyYyWWbTU2fCbVxjDS5IHlFGFqhzUCMmyAJrOm0AcQ",
-          "thumbnail_path": "channels/iranintltv/media/6addaf02b7cde68995ca40bc.jpg",
-          "thumbnail_sha256": "8095b0bcd4f823e89c5fd7670e079c089a44c465f456f3c8f602d33dd630098d",
-          "duration_label": "0:35",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "46.4K",
-      "posted_at": "2026-09-08T10:30:09+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356297",
       "reply": null
     }
   ]
