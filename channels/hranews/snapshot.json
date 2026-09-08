@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T10:02:42.218Z",
+  "fetched_at": "2026-09-08T10:10:41.539Z",
   "channel": {
     "username": "hranews",
     "title": "خبرگزاری هرانا",
@@ -11,6 +11,34 @@
     "subscriber_count": "31.8K"
   },
   "posts": [
+    {
+      "id": "hranews/115480",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/iAtALinnN_Y14sqMT75D3a3dYa5SIhHJUD_k7mwH08qsLfeDfeU4xRjBCP64o07wfsjmIauUV39S4arNXhdz2h1-wU1f63GPZwYYiKioqmrcn-cre47UY9WtbU4uhyKnRJW8R_FO6qIVD01FG7SXjrDhRyIF7epUfHz0W7hfZYDedLy7Xdl8q4WwYmoXQYeWQbkFBroR88bWG5jEAunD6z_ruLlXRXd5mhWSbSEGbcxhVp5vFvpDJGjnHyfgcn0Ciop0NlCyw5frssvQ4VO8FGC18LNbkKUUmR9MKfHXypsY1JfH07bVFWHPKQGy4BCYyJcpN8wVO2rSYF2uwgyBNg.jpg",
+      "author_photo_path": "channels/hranews/media/987f5a33f6270b696c983a37.jpg",
+      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
+      "body_html": "سوری بابائی چگینی با پایان ایام مرخصی به زندان چوبیندر قزوین بازگشت<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– سوری بابائی چگینی، زندانی سیاسی روز شنبه ۱۴ شهریورماه، با پایان ایام مرخصی به زندان چوبیندر قزوین بازگشت.<br><br>به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، سوری بابائی چگینی به زندان بازگشت.<br><br>براساس اطلاعات دریافتی هرانا، بازگشت به زندان خانم بابائی چگینی روز شنبه ۱۴ شهریورماه، با اتمام ایام مرخصی وی صورت گرفته است.<br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-d7a1fe98/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><a href=\"?q=%23%D8%B3%D9%88%D8%B1%DB%8C_%D8%A8%D8%A7%D8%A8%D8%A7%D8%A6%DB%8C_%DA%86%DA%AF%DB%8C%D9%86%DB%8C\">#سوری_بابائی_چگینی</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "سوری بابائی چگینی با پایان ایام مرخصی به زندان چوبیندر قزوین بازگشت\n\n❗️❗️❗️❗️❗️– سوری بابائی چگینی، زندانی سیاسی روز شنبه ۱۴ شهریورماه، با پایان ایام مرخصی به زندان چوبیندر قزوین بازگشت.\n\nبه گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، سوری بابائی چگینی به زندان بازگشت.\n\nبراساس اطلاعات دریافتی هرانا، بازگشت به زندان خانم بابائی چگینی روز شنبه ۱۴ شهریورماه، با اتمام ایام مرخصی وی صورت گرفته است.\n\nادامه مطلب\n\n#سوری_بابائی_چگینی\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/hranews/115480",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/kfhxxVbqyx5QtFG0I_okDisck-9_bzhsIfxkpti29qoHo3qLv63fxu2A2OPRSf0Z4-PjXDFwcgDhBUBOTa8iCQxpsOyc5qAK0vRYJcF8VUnH7c9XaqJnk_aQuS3upP1q2UdF4SWt_R5keEQ4v5qE11wy5rgfa-ki3i2jOx_LjTXrr-CzHm0gg0jy1YumFgDl8Q1JQob1qszLOjnTqKN6ZVMMkEFHzoatgRwg9NeqFPyCP3wcUiIgdb77aYDmpVTyW9HmRiZL5Pzf43iUkuqg3R8-jFUoQzCUzpBwqOvzODaAr6WIWwCU3ETtHglzTC1dr9NYM_P7cnLz3QJf41u87A.jpg",
+          "thumbnail_path": "channels/hranews/media/bfc724c4ef398edc9eaa3054.jpg",
+          "thumbnail_sha256": "c49f6f6046b820818fdf5afd9f4b9bf9cc40cfd0d895589102c74d1dff321810",
+          "duration_label": null,
+          "aspect_ratio": 1.5009380863039399
+        }
+      ],
+      "reactions": [],
+      "views_label": "72",
+      "posted_at": "2026-09-08T10:03:09+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/115480",
+      "reply": null
+    },
     {
       "id": "hranews/115479",
       "author_name": "خبرگزاری هرانا",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "249",
+      "views_label": "291",
       "posted_at": "2026-09-08T08:58:47+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115479",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "364",
+      "views_label": "387",
       "posted_at": "2026-09-08T08:19:39+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115478",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "392",
+      "views_label": "411",
       "posted_at": "2026-09-08T08:01:33+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115477",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.22K",
+      "views_label": "1.23K",
       "posted_at": "2026-09-07T19:16:41+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115476",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "976",
+      "views_label": "979",
       "posted_at": "2026-09-07T19:09:49+00:00",
       "edited": true,
       "permalink": "https://t.me/hranews/115475",
@@ -161,7 +189,7 @@
       "plain_text": "پس از تحمل ۱۱ سال حبس؛ یک زندانی از مجازات اعدام رهایی یافت\n\n❗️❗️❗️❗️❗️– یک زندانی در تهران که پیشتر از بابت اتهام قتل به #اعدام محکوم شده بود، پس از تحمل ۱۱ سال حبس، با کسب رضایت از اولیای دم، از مجازات مرگ رهایی یافت.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "810",
+      "views_label": "811",
       "posted_at": "2026-09-07T19:02:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115474",
@@ -177,7 +205,7 @@
       "plain_text": "یک شهروند در ارومیه بازداشت شد\n\n❗️❗️❗️❗️❗️– فرمانده هنگ مرزی ارومیه از #بازداشت یک شهروند در یکی از ایست و بازرسی‌های این هنگ خبر داد. به گفته وی، فرد بازداشت‌شده با «یکی از گروه‌های مخالف جمهوری اسلامی» ارتباط داشته است.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "799",
+      "views_label": "801",
       "posted_at": "2026-09-07T18:54:45+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115473",
@@ -193,7 +221,7 @@
       "plain_text": "کامران حکمتی، شهروند یهودی دوتابعیتی از زندان اوین آزاد شد\n\n❗️❗️❗️❗️❗️– کامران (یهودا) حکمتی، شهروند ۷۱ ساله یهودی دوتابعیتی ایرانی-آمریکایی و مبتلا به سرطان، از زندان اوین آزاد شد. وی با وجود آزادی همچنان ممنوع‌الخروج است و امکان ترک ایران را ندارد.\n\nادامه مطلب\n\n#کامران_حکمتی (#یهودا_حکمتی)\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "722",
+      "views_label": "727",
       "posted_at": "2026-09-07T18:32:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115472",
@@ -209,7 +237,7 @@
       "plain_text": "مطالبات مزدی و بیمه ای پرستاران دزفول و رانندگان شرکت واحد اتوبوسرانی تهران\n\n❗️❗️❗️❗️❗️– شماری از کارگران و رانندگان شرکت واحد اتوبوسرانی تهران مطالبات بیمه ای پرداخت نشده دارند. همچنین، رئیس سازمان نظام پرستاری شهرستان دزفول اعلام کرد که مطالبات پرستاران این شهرستان همچون شش ماه حق کارانه و سه ماه اضافه کاری، کماکان به آنها پرداخت نشده است.\n\nادامه مطلب\n\n#پرستاران #کارگران\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "711",
+      "views_label": "713",
       "posted_at": "2026-09-07T18:08:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115471",
@@ -225,7 +253,7 @@
       "plain_text": "دستکم ۲۴ تجمع اعتراضی برگزار شد\n\n❗️❗️❗️❗️❗️– امروز دوشنبه ۱۶ شهریورماه، جمعی از بازنشستگان مخابرات در اصفهان، سنندج، کرمانشاه، تبریز، ایلام، مشهد و همدان، گروهی از شهروندان جویای کار در اهواز و شماری از کارکنان شرکت نفت و گاز پارس در دستکم ۱۳ بخش و سکوی دریایی این شرکت واقع در منطقه پارس جنوبی، عسلویه و کنگان، تجمعات اعتراضی برگزار کردند. روز گذشته نیز گروهی از کارگران کارخانه پویا نخ ایلام و شماری از پرستاران در سنندج، با برگزاری تجمع اعتراضی خواستار رسیدگی به مطالبات خود شدند. از سوی دیگر، شهروندان معترض به الحاق مجتمع آموزش عالی اسفراین به دانشگاه بجنورد، دست به تجمع اعتراضی زده‌اند.\n\nادامه مطلب\n\n#تجمع_اعتراضی #بازنشستگان #کارگران\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "898",
+      "views_label": "904",
       "posted_at": "2026-09-07T18:03:14+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115470",
@@ -253,7 +281,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "719",
+      "views_label": "725",
       "posted_at": "2026-09-07T17:36:12+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115469",
@@ -281,7 +309,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "715",
+      "views_label": "719",
       "posted_at": "2026-09-07T17:14:59+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115468",
@@ -297,7 +325,7 @@
       "plain_text": "سنندج؛ فریدون نامداری و شعله روحی توسط نیروهای امنیتی بازداشت شدند\n\n❗️❗️❗️❗️❗️– روز گذشته، یک زوج اهل سنندج به نام های فریدون نامداری و شعله روحی، توسط نیروهای اداره اطلاعات بازداشت و به مکان نامعلومی منتقل شدند.\n\nادامه مطلب\n\n#فریدون_نامداری #شعله_روحی\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "773",
+      "views_label": "774",
       "posted_at": "2026-09-07T16:40:21+00:00",
       "edited": true,
       "permalink": "https://t.me/hranews/115467",
@@ -325,7 +353,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "725",
+      "views_label": "727",
       "posted_at": "2026-09-07T16:23:43+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115466",
@@ -353,7 +381,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "959",
+      "views_label": "961",
       "posted_at": "2026-09-07T15:35:35+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115465",
@@ -369,7 +397,7 @@
       "plain_text": "قصرشیرین؛ ابوالفضل رستمی و عرفان مرادی دنگی به حبس محکوم شدند\n\n❗️❗️❗️❗️❗️– ابوالفضل رستمی و عرفان مرادی دنگی، دو شهروند اهل قصرشیرین و از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، توسط دادگاه انقلاب این شهرستان هر کدام به پنج سال حبس محکوم شدند.\n\nادامه مطلب\n\n#ابوالفضل_رستمی #عرفان_مرادی_دنگی\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "811",
+      "views_label": "813",
       "posted_at": "2026-09-07T14:57:33+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115464",
@@ -385,7 +413,7 @@
       "plain_text": "دادگاه مطبوعات؛ مدیران مسئول چهار رسانه مجرم شناخته نشدند\n\n❗️❗️❗️❗️❗️– هیئت منصفه دادگاه‌های سیاسی و مطبوعاتی، مدیران مسئول روزنامه‌های جوان و توسعه ایرانی و پایگاه‌های خبری ماهین‌نیوز و اشکان‌نیوز را در پرونده‌های جداگانه مجرم ندانست.\n\nادامه مطلب\n\n#دادگاه_مطبوعات\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "773",
+      "views_label": "775",
       "posted_at": "2026-09-07T14:24:36+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115463",
@@ -401,7 +429,7 @@
       "plain_text": "محکومیت یک دانشجو به محرومیت از تحصیل و اخراج از دانشگاه شهید بهشتی\n\n❗️❗️❗️❗️❗️– یک دانشجوی دانشگاه شهید بهشتی توسط کمیته انضباطی این دانشگاه به دو ترم محرومیت از تحصیل و اخراج از دانشگاه محکوم شد.\n\nادامه مطلب\n\n#اخراج_دانشجو\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "800",
+      "views_label": "801",
       "posted_at": "2026-09-07T14:01:59+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115462",
@@ -429,7 +457,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "976",
+      "views_label": "978",
       "posted_at": "2026-09-07T13:35:22+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115461",
@@ -2273,34 +2301,6 @@
       "posted_at": "2026-09-03T12:30:03+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115377",
-      "reply": null
-    },
-    {
-      "id": "hranews/115376",
-      "author_name": "خبرگزاری هرانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/NMVnOQyvZGLrejNJUpV_PTZzD3cvxk1q8huHZ5p3VNT5ulNR2j-CyD_U5bQyuTlwyH_tP47EnAhlSmnw0664qW6Z0PhfXgfHzzg4Okcgh0FkeDAwXc9DE-5SV4bxfuSNfk3iYm2zRSDqm0k9FYSJ_9nfZ1PgRq7ZwrtJvVK9OBT1-BpCtMELmA_LmnMOwx6dyOt0qtX9r1i6Md1SCDn1HmbL_x07155nKT4NFFXNQSU-f1o2uXtUUbpREKNwE39q7DVIapspUQg4YKzFsNzdnlUQsW6AQMyZG0U4Ohg2s4zuhoUlsS81SOko8eJRAgqcbC9NuYSCCWIHH-4IscGBBw.jpg",
-      "author_photo_path": "channels/hranews/media/d13c29f07e2e57cd1fa61185.jpg",
-      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
-      "body_html": "تداوم بازداشت و بلاتکلیفی سیما سبتو و ناهید فلاحتی در زندان عادل‌آباد شیراز <br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– سیما سبتو و ناهید فلاحتی، شهروندان بهائی ساکن شیراز با گذشت بیش از ۷۰ روز از زمان بازداشت، همچنان به‌صورت بلاتکلیف در زندان عادل آباد به‌سر می‌برند. این شهروندان از امکان تماس و ملاقات با خانواده های خود محروم هستند.<br><br>به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، سیما سبتو و ناهید فلاحتی کماکان در زندان عادل‌آباد شیراز در بازداشت و بلاتکلیفی قضایی به سر می‌برند.<br><br>بر اساس اطلاعات دریافتی هرانا، ۷۳ روز از بازداشت این افراد می‌گذرد و آنها کماکان به‌صورت بلاتکلیف در زندان عادل‌آباد شیراز نگهداری می‌شوند. این دو شهروند بهائی همچنان از امکان برقراری تماس تلفنی و ملاقات با خانواده‌های خود محروم هستند.<br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-419488e2/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><a href=\"?q=%23%D8%B3%DB%8C%D9%85%D8%A7_%D8%B3%D8%A8%D8%AA%D9%88\">#سیما_سبتو</a> <a href=\"?q=%23%D9%86%D8%A7%D9%87%DB%8C%D8%AF_%D9%81%D9%84%D8%A7%D8%AD%D8%AA%DB%8C\">#ناهید_فلاحتی</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
-      "plain_text": "تداوم بازداشت و بلاتکلیفی سیما سبتو و ناهید فلاحتی در زندان عادل‌آباد شیراز\n\n❗️❗️❗️❗️❗️– سیما سبتو و ناهید فلاحتی، شهروندان بهائی ساکن شیراز با گذشت بیش از ۷۰ روز از زمان بازداشت، همچنان به‌صورت بلاتکلیف در زندان عادل آباد به‌سر می‌برند. این شهروندان از امکان تماس و ملاقات با خانواده های خود محروم هستند.\n\nبه گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، سیما سبتو و ناهید فلاحتی کماکان در زندان عادل‌آباد شیراز در بازداشت و بلاتکلیفی قضایی به سر می‌برند.\n\nبر اساس اطلاعات دریافتی هرانا، ۷۳ روز از بازداشت این افراد می‌گذرد و آنها کماکان به‌صورت بلاتکلیف در زندان عادل‌آباد شیراز نگهداری می‌شوند. این دو شهروند بهائی همچنان از امکان برقراری تماس تلفنی و ملاقات با خانواده‌های خود محروم هستند.\n\nادامه مطلب\n\n#سیما_سبتو #ناهید_فلاحتی\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/hranews/115376",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/ey3VwuJi709UkZYCfqfBhMJZtv-U9BKVDCuhdFGMKYtG_XdUVz51Us24c30cVvwHv5apsD3Hwd4H2dDMI-RUBohqAepquJcIMdj4Dnd92PA-XnXMyMkhPcMTDgdrTpiLuRp21r9HaTiV6iWoXJZ8S0cVxfLj3Q8P47vGO4-OCw84PJmkj7wmXXQjrglNcYUliwtqddKaGJFsIdIgOkwrzFM93t0kn4CpfOHbjr4SLDF-pbLM43dkPZLCBF-tKiewQLQeUXa3nE4Jaaqpqs-KhUCW4V7zURf7oF3HPWQ18DAScJ0pMcNpH3_N9wp4PUT7CD1_ZbL68pkn8OsMoSWdiw.jpg",
-          "thumbnail_path": "channels/hranews/media/4b041b5c41773f289595c972.jpg",
-          "thumbnail_sha256": "8d03d78697edacd5ed1b80c28863e336fac94574c65f611da3b2f940b3dbfe5b",
-          "duration_label": null,
-          "aspect_ratio": 1.5009380863039399
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.11K",
-      "posted_at": "2026-09-03T09:49:26+00:00",
-      "edited": false,
-      "permalink": "https://t.me/hranews/115376",
       "reply": null
     }
   ]
