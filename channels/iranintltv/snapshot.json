@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T11:27:03.162Z",
+  "fetched_at": "2026-09-08T11:31:27.054Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356301",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "خانواده‌ها و نزدیکان جان‌باختگان اعتراضات دی‌ماه پویشی با عنوان «یک شمع، یک نام، یک یاد» راه‌اندازی کرده‌اند.<br><br>این پویش با روشن کردن شمع و یادآوری نام و خاطره عزیزان جان‌باخته، تلاشی برای زنده نگه داشتن یاد آن‌هاست.<br><br>جزییات بیشتر با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "خانواده‌ها و نزدیکان جان‌باختگان اعتراضات دی‌ماه پویشی با عنوان «یک شمع، یک نام، یک یاد» راه‌اندازی کرده‌اند.\n\nاین پویش با روشن کردن شمع و یادآوری نام و خاطره عزیزان جان‌باخته، تلاشی برای زنده نگه داشتن یاد آن‌هاست.\n\nجزییات بیشتر با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356301",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/A1_sBTW5dquDrw8wTS7v5uue8V0nMrlcHI6uUcZ33xHGT-zGl_d9fU4tVAzcXfZhq18B5ZEGqG3oNGRCrynYz7IE9PifhkvK--_UHnsAngrjY6oBUSK-lYVDZ6SIw5tR6B2k6eK4PagM6pVICXJTGiRNCLLIBXA7lGzh2u9C8swk09bS_SrYhEREwSIVc3rGr7x4WXgrKF2Y3QtMVquhqkED204FwdM241E2iJFIaJ_g8iPHbXU2PHRNsXcpGlEPT0OoGxVoEXNkzmUClRDP12ULS1rX_aSDtEP85DbvxAgLeCgyh16XYToCtQ_BRsczxD3TaztFzIguiLo6PeSxAA",
+          "thumbnail_path": "channels/iranintltv/media/26c0bfde3508489a31499650.jpg",
+          "thumbnail_sha256": "34a8670e9c7d3f0a43d68c97fd1a64de30b70a9468c531ee2f618f58f8f0909c",
+          "duration_label": "4:15",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "3.19K",
+      "posted_at": "2026-09-08T11:27:14+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356301",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356300",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.28K",
+      "views_label": "7.42K",
       "posted_at": "2026-09-08T11:19:40+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356300",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.7K",
+      "views_label": "16.8K",
       "posted_at": "2026-09-08T11:03:31+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356299",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.3K",
+      "views_label": "27.3K",
       "posted_at": "2026-09-08T10:40:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356298",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.3K",
+      "views_label": "28.4K",
       "posted_at": "2026-09-08T10:30:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356297",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.3K",
+      "views_label": "29.4K",
       "posted_at": "2026-09-08T10:25:15+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356296",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.7K",
+      "views_label": "36.7K",
       "posted_at": "2026-09-08T10:03:14+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356295",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.6K",
+      "views_label": "35.7K",
       "posted_at": "2026-09-08T10:02:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356294",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.5K",
+      "views_label": "31.5K",
       "posted_at": "2026-09-08T10:00:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356293",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.3K",
+      "views_label": "28.3K",
       "posted_at": "2026-09-08T09:56:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356291",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.5K",
+      "views_label": "32.5K",
       "posted_at": "2026-09-08T09:56:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356292",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.3K",
+      "views_label": "27.4K",
       "posted_at": "2026-09-08T09:55:21+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356290",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.3K",
+      "views_label": "29.4K",
       "posted_at": "2026-09-08T09:54:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356289",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.5K",
+      "views_label": "34.6K",
       "posted_at": "2026-09-08T09:37:43+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356288",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.7K",
+      "views_label": "38.8K",
       "posted_at": "2026-09-08T09:24:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356286",
@@ -413,7 +441,7 @@
       "plain_text": "🗣روایت شما: پاسخ شهروندان به پرسش ایران‌اینترنشنال درخصوص بنزین ۱۰ هزار تومانی - سه‌شنبه ۱۷ شهریور\n\n🔹۱۰ هزار تومان برای یک لیتر بنزین شاید برای بعضی‌ها فقط یک عدد باشد، اما برای مردم یعنی یک قدم دیگر به سمت سخت‌تر شدن زندگی. وقتی قیمت یک چیز بالا می‌رود، فقط همان چیز گران نمی‌شود؛ رد گرانی‌اش به نان، کرایه، سفر و سفره مردم می‌رسد.\n\n🔹فقط بحث بنزین نیست. وقتی بنزین گران می‌شود، همه‌چیز با آن گران می‌شود؛ کرایه ماشین، اسنپ، نان، غذا، رستوران.\n\n🔹با گران شدن بنزین، حس یک مسافرت رفتن هم تمام شد. ۱۰ دقیقه با ماشین بیرون رفتن و دور زدن تمام شد. ما جوان‌ها خیلی وقت است با دلخوشی‌ها خداحافظی کرده‌ایم.\n\n🔹اولش گفتند بنزین لیتری ۸۰ هزار تومان، بعد ۱۰ هزار تومان را تصویب کردند که مردم بگویند ارزان است، این سیاست جمهوری اسلامی است.\n\n🔹مگر فقط بنزین ۱۰ هزار تومانی دغدغه مردم است؟ همین امروز روغن نباتی و برنج ۵۰ درصد گران شده، روغن نباتی پنج کیلویی که دو میلیون و ۲۰۰ هزار تومان بود، شده چهار میلیون تومان.\n\n🔹بنزین ۱۰ هزار تومانی مساوی است با شرمندگی پدرها، افسردگی جوان‌ها از فشار اقتصادی، ناامیدی بچه‌ها، فروپاشیدن زندگی‌ها و فقیرتر شدن جامعه.\n\n🔹حداقل بنزین را ۱۰۰ درصد گران کردند. اگر راست می‌گویند، حقوق یک کارمند را هم ۱۰۰ درصد بالا ببرند. کجای دنیا پایه حقوق کارمند ۱۰۰ دلار است؟ همه اجناس را با دلار گران می‌خریم.\n\n🔹اگر شرایط اقتصادی نرمالی مثل بقیه دنیا داشتیم و مصرف سوخت خودروهایمان هم در حد نرمال جهانی بود، افزایش قیمت بنزین مهم نبود.",
       "media": [],
       "reactions": [],
-      "views_label": "34.6K",
+      "views_label": "35.6K",
       "posted_at": "2026-09-08T09:22:43+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356285",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.5K",
+      "views_label": "32.6K",
       "posted_at": "2026-09-08T09:20:28+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356284",
@@ -497,7 +525,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.7K",
+      "views_label": "37.7K",
       "posted_at": "2026-09-08T09:03:52+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356282",
@@ -525,7 +553,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.8K",
+      "views_label": "40.8K",
       "posted_at": "2026-09-08T08:50:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356281",
@@ -2709,34 +2737,6 @@
       "posted_at": "2026-09-07T20:13:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356198",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356197",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "شاکر بوری، طنزپرداز، با انتشار ویدیویی در اینستاگرام خود اعلام کرد در پی شکایت موسی غضنفرآبادی، نماینده مجلس، به ۱۳ ماه و ۲۰ روز حبس محکوم شده است.<br><br>او در این‌باره نوشته است: «در کمتر از ۴۸ ساعت رای من را دادند و برایم زندان بریدند. ان‌شاءالله مشکل مملکت، دزدی‌ها، اختلاس‌ها، تورم، فقر، بی‌عدالتی و بیکاری با رفتن من به زندان حل شود و مردم ایران در رفاه باشند.»<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "شاکر بوری، طنزپرداز، با انتشار ویدیویی در اینستاگرام خود اعلام کرد در پی شکایت موسی غضنفرآبادی، نماینده مجلس، به ۱۳ ماه و ۲۰ روز حبس محکوم شده است.\n\nاو در این‌باره نوشته است: «در کمتر از ۴۸ ساعت رای من را دادند و برایم زندان بریدند. ان‌شاءالله مشکل مملکت، دزدی‌ها، اختلاس‌ها، تورم، فقر، بی‌عدالتی و بیکاری با رفتن من به زندان حل شود و مردم ایران در رفاه باشند.»\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356197",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Hr3M5vECqb383bh9AThk5FLEmiPvgS0VSDRDQtNCf1hspGJtdbpblTiF8Gf5bjElAANBBDbHrjfedUMkUi4vs7at2iQ_ZlPlV06Vv_BLlQaBmenwsA2E8IQOZSYKKTcRdiJOESxsqE9mhzMZE7sOj4siy_A1mNK511Yw7QRXBdf5I8zTUFamMLCSdjzEpyhGloZ-vclxWwq02K2jxjpp6wZd5nIK9uMdaCLlXZG-TQDpzaU7aRaLuJk7_HaDr0JxOGdUDQAAqNQfjfaRTjRQvPOEDZCbrbT-2EGMm_tKzQuOeUWBIlF4LlgRw-tAFj9UewzDqtMjdVs85Lpk8-d6wA",
-          "thumbnail_path": "channels/iranintltv/media/e06ee1f639631f00b56f64ea.jpg",
-          "thumbnail_sha256": "99bbf3b45696a252cdd2b61adb767d68213299d39d240c4f1096b0ec753bf817",
-          "duration_label": "1:27",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "51.7K",
-      "posted_at": "2026-09-07T20:09:25+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356197",
       "reply": null
     }
   ]

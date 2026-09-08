@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T11:27:09.800Z",
+  "fetched_at": "2026-09-08T11:31:33.167Z",
   "channel": {
     "username": "whitedns",
     "title": "White DNS",
@@ -23,7 +23,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "60"
+          "count": "61"
         },
         {
           "emoji": "👍",
@@ -50,7 +50,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.59K",
+      "views_label": "4.71K",
       "posted_at": "2026-09-08T09:52:08+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1739",
@@ -68,11 +68,11 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "61"
+          "count": "62"
         },
         {
           "emoji": "❤‍🔥",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "🙏",
@@ -95,7 +95,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.78K",
+      "views_label": "6.87K",
       "posted_at": "2026-09-08T08:02:42+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1738",
@@ -906,6 +906,10 @@
       "media": [],
       "reactions": [
         {
+          "emoji": "⭐",
+          "count": "1"
+        },
+        {
           "emoji": "❤",
           "count": "224"
         },
@@ -1076,6 +1080,10 @@
         }
       ],
       "reactions": [
+        {
+          "emoji": "⭐",
+          "count": "1"
+        },
         {
           "emoji": "❤",
           "count": "118"
