@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T06:52:28.700Z",
+  "fetched_at": "2026-09-08T06:57:15.276Z",
   "channel": {
     "username": "persianvpnhub",
     "title": "VPNhub | فیلترشکن رایگان",
@@ -20,8 +20,13 @@
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: انگلیس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87ACF09F87A7.png')\"><b>🇬🇧</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 142ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 10:05 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/PrivateVPNs\" target=\"_blank\">@PrivateVPNs</a><br><br><pre>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.242.203:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87ACF09F87A7.png')\"><b>🇬🇧</b></i>t.me/PrivateVPNs</pre>",
       "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: انگلیس 🇬🇧\n📶 پینگ: 142ms\n\n#VLESS #VPN\n\n🕒 انتشار: 10:05 - 1405/06/17\n💡 منبع: @PrivateVPNs\n\nvless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.242.203:22222?encryption=none&security=none&type=tcp#(S101)🇬🇧t.me/PrivateVPNs",
       "media": [],
-      "reactions": [],
-      "views_label": "92",
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "122",
       "posted_at": "2026-09-08T06:42:30+00:00",
       "edited": false,
       "permalink": "https://t.me/persianvpnhub/59049",
@@ -53,7 +58,7 @@
       "plain_text": "📂 کانفیگ MTPROTO\n📍 لوکیشن: آلمان 🇩🇪\n📶 پینگ: 1167ms\n\n#Proxy #MTProto\n\n🕒 انتشار: 10:04 - 1405/06/17\n💡 منبع: گروه MahsaNet\n\nhttps://t.me/proxy?server=valla.chemidonam.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "media": [],
       "reactions": [],
-      "views_label": "52",
+      "views_label": "82",
       "posted_at": "2026-09-08T06:42:21+00:00",
       "edited": false,
       "permalink": "https://t.me/persianvpnhub/59047",
