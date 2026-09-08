@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T08:38:35.639Z",
+  "fetched_at": "2026-09-08T08:42:10.697Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12698",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l_9ufMfFpJ25r_afGsqRdLe1TBpEdGtQubrLV3heTp0xaKy_3bOMj2CgWrdIc1UpDv6BDR1CUz7LUOwlbGt6cwYajWQXJCUkSLc4mDg8KVE14zTZ9LwGvkwqm71diFwCbH2nViIRdsbm6NTEHx-FPiGHK2If0glqgKIwFN6E3fpPfXG4L5B_8u0lF9SlI9JysGs-RP3ETL5mlmlmj6cRJFK1sNdtj7tP4DYND499o8XinHXPyv-COryBv7foYUzrzsqsk-AuzXwXdGL2-S-fyV30ffZpU_JFFsxZW8baXEnEFumOwn_VcgVB9V_D4tzEEogyHXtPWDrMkW0xK7JN9Q.jpg",
+      "author_photo_path": "channels/iranlix/media/cea36268eb0d26be31369b06.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i><b>در عملیات بامداد امروز در منطقه سامره، نیروهای ارتش اسرائیل یک فرد مسلح را در روستای عقربه پس از حمله با کوکتل مولوتوف، بمب دست‌ساز و چاقو به هلاکت رساندند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>همچنین ۴ فرد تحت تعقیب بازداشت شدند؛ از جمله سه نفر مرتبط با قاچاق سلاح و یک نفر که بنا بر ادعای ارتش قصد انجام حمله تروریستی داشت. نیروها در بازرسی حدود ۷۰ نقطه، مهمات، نارنجک‌انداز و تجهیزات نظامی کشف کردند.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔹در عملیات بامداد امروز در منطقه سامره، نیروهای ارتش اسرائیل یک فرد مسلح را در روستای عقربه پس از حمله با کوکتل مولوتوف، بمب دست‌ساز و چاقو به هلاکت رساندند.\n\n🔹همچنین ۴ فرد تحت تعقیب بازداشت شدند؛ از جمله سه نفر مرتبط با قاچاق سلاح و یک نفر که بنا بر ادعای ارتش قصد انجام حمله تروریستی داشت. نیروها در بازرسی حدود ۷۰ نقطه، مهمات، نارنجک‌انداز و تجهیزات نظامی کشف کردند.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/iranlix/12698",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/SmAIlPAEopsR6UPqZglgLiwMC7-lw78lhpgbaYXIOPWlVsX8yLm0LS1lyvSkQybiPi-qyl7s68sZXWrLXhffzxtMnc9UA9GJc-enGzXRs9mo0gehZYLm6NBjR5StqIrEHCsk17_KH-rHN_iTFe0ot_y5I7EKJh9JpB_8CARYK7puPguxgllVXNGVpueLhm6PC2zFY2_ceAIfuVOWvmTyxNMXJrOEDdcU51XlRqsppACjwvquFmCGOPfOHBZQm08V_iHb4uDs5cQc2XI8fLuhZ9XcFjX0j5nCPwgXrE415CNrtiYe9RO3TTSRCCEiInBbj6uktXzFDPQFWEv2AzB0yA",
+          "thumbnail_path": "channels/iranlix/media/60dcf78a75d47d811aebaaea.jpg",
+          "thumbnail_sha256": "35b33b8429cb3ea41ff2d940e9b54295a90e3eb9358efe81fae049671b47efda",
+          "duration_label": "0:16",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "47",
+      "posted_at": "2026-09-08T08:38:45+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12698",
+      "reply": null
+    },
     {
       "id": "iranlix/12697",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "525",
+      "views_label": "553",
       "posted_at": "2026-09-08T06:55:10+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12697",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "676",
+      "views_label": "703",
       "posted_at": "2026-09-08T06:16:26+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12696",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "726",
+      "views_label": "751",
       "posted_at": "2026-09-08T05:48:28+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12695",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "711",
+      "views_label": "735",
       "posted_at": "2026-09-08T05:47:10+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12694",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.17K",
+      "views_label": "1.19K",
       "posted_at": "2026-09-07T23:16:37+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12692",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.31K",
+      "views_label": "1.32K",
       "posted_at": "2026-09-07T21:28:38+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12691",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.38K",
+      "views_label": "1.39K",
       "posted_at": "2026-09-07T20:43:20+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12690",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.6K",
+      "views_label": "1.61K",
       "posted_at": "2026-09-07T18:26:06+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12687",
@@ -352,7 +380,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.36K",
+      "views_label": "1.37K",
       "posted_at": "2026-09-07T17:36:13+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12685",
@@ -380,7 +408,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.36K",
+      "views_label": "1.37K",
       "posted_at": "2026-09-07T17:26:39+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12684",
@@ -436,7 +464,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.32K",
+      "views_label": "1.33K",
       "posted_at": "2026-09-07T17:11:05+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12682",
@@ -464,7 +492,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.33K",
+      "views_label": "1.34K",
       "posted_at": "2026-09-07T16:32:32+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12681",
@@ -2892,34 +2920,6 @@
       "posted_at": "2026-09-05T16:09:42+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12593",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12592",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/VK7UxP3xK7XXY_E9qNcDJ9R-ugu8Kqr7hzd-V0Osm8FpZUxtY4hXl4rV0HsqaChh7d8JSJjgFWTh5WIRkwxmi-z7LWuC_etM9QCxqe6lmIh9aDtiHHDYBpAW0-0H_AVdL1YEM683dsoUj2w8l1NOtudtgUcDRAsQo1ZOQp_6nC8orT5o9026LgcHj_uJLQZ2u0tTjug-6Lhs-pJLX7MPK0tW3JQkNF4aE-MhuIPm6DDcI8Sw9TBAhYCXoWJqkUpgxeNNuaxB6X9jzyB0zY_R2x6tcaz8EDuoySW9KALS3r8g9tGuy9SUlSsE_QaNLXNdEWB7vVSlxHr5PIHEugIN4A.jpg",
-      "author_photo_path": "channels/iranlix/media/1fe3bf02c3c024640c615e89.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><b>هشدار امنیتی آمریکا در بحرین؛ ۵ سپتامبر</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i> سفارت آمریکا در منامه امروز به شهروندان آمریکایی هشدار داد با توجه به احتمال تشدید ناگهانی درگیری‌ها، هوشیار باشند و برای لغو پروازها، بسته‌شدن حریم هوایی و محدودیت‌های ناگهانی سفر آماده باشند.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🚨هشدار امنیتی آمریکا در بحرین؛ ۵ سپتامبر\n\n🇺🇸 سفارت آمریکا در منامه امروز به شهروندان آمریکایی هشدار داد با توجه به احتمال تشدید ناگهانی درگیری‌ها، هوشیار باشند و برای لغو پروازها، بسته‌شدن حریم هوایی و محدودیت‌های ناگهانی سفر آماده باشند.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/12592",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/lz1bRWu-bMCTnYqr9VEVzmV0f16R7PwLRO5chX4xNm2srMEsJAL126Q8csUOEmQ6EKJ1LyKAc2qExRYdWKPpBB9SkOPS3ykFfiBUFthR267m0o7mR8O0xeAIgdZAzZ36Z33mdnZJ5_mXKuEeGsrq_d7SmllaW_wqFBTlxuCqd-ySSYBphix1z7EBqW9gsMHA7MJM6p3toS3FMNODOKNeOL9eRt9Kzv69p8nw4f5b0gIb_yrRZNx6MyWO5UyXYTY4APBEBfCuxMtFucNhNDXHAOpR0DsT0IZUIgZ4LXTH8960w_nHO8WMKejC6j1CKMAWfAtHGBZadbcGcB7YXSXO8A.jpg",
-          "thumbnail_path": "channels/iranlix/media/86255c8a8091ffb90ddaadfd.jpg",
-          "thumbnail_sha256": "bb46811ff1285d62b82618edb26d6e383d3670768dbaf09afe45449604643c18",
-          "duration_label": null,
-          "aspect_ratio": 0.8487500000000073
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.25K",
-      "posted_at": "2026-09-05T14:22:53+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12592",
       "reply": null
     }
   ]
