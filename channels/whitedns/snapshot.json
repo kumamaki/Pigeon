@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T04:37:28.431Z",
+  "fetched_at": "2026-09-08T04:42:25.451Z",
   "channel": {
     "username": "whitedns",
     "title": "White DNS",
@@ -104,7 +104,7 @@
         },
         {
           "emoji": "❤‍🔥",
-          "count": "33"
+          "count": "34"
         },
         {
           "emoji": "👍",
@@ -914,10 +914,6 @@
       ],
       "reactions": [
         {
-          "emoji": "⭐",
-          "count": "1"
-        },
-        {
           "emoji": "❤",
           "count": "102"
         },
@@ -978,10 +974,6 @@
         }
       ],
       "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "1"
-        },
         {
           "emoji": "❤",
           "count": "117"

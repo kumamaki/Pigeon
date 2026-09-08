@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T04:37:19.249Z",
+  "fetched_at": "2026-09-08T04:42:17.163Z",
   "channel": {
     "username": "durov",
     "title": "Pavel Durov",
@@ -31,7 +31,7 @@
         },
         {
           "emoji": "💎",
-          "count": "5.29K"
+          "count": "5.3K"
         },
         {
           "emoji": "💎",
@@ -568,8 +568,8 @@
           "asset_url": "https://t.me/durov/532",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/dz19S1znQ0kRlru5KbzsQfyy6QFROSUq0B7rzfV2xE7nSNYuAWrp0DP4J_n7UD56AddjHSZvrPnf7oXsO8ZWKmhLuPeqmLO0vUOMAUntKR0RG_zelyD3pXX6t0COIlBW3obDszvLR1ZWwrY541AvRiBtPKQrguYmGfxRUmo6A5kxdfXLwDyKRqxVJrLxa8oRrNPv9qhLPyvuxNYwZTElK66p6Gk119ps8ngY_dTvzkAajcjfgYFC83cXI2CQm8z5PmYP-oEXDAanJZwcxFdBjjCy8TG7ns9Ncy85pwpsJIhlS6huFOZHJlW2c5LMNzzUJFOP0QOM-KJ1AoU2kZ1X_Q",
-          "thumbnail_path": "channels/durov/media/7ca0a17af07e9f95b90deaea.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/vA5ZrKCbu8ndKUFtVTXk0Y74wpXl9oPB5Xv19MuvindaTBvLUm40__5xOwXjUpQP-vIcstYB60ig72cgo9LpW6HW1ulNPVXZYFy57K-EGarY3VKGzVD-Rrt0RcDCpeH29DxmPE9zHgA1KEXQTRxd7oWqlAvhuV9aPHwF2aWpIjBdp4VAuBlpuCSETkGuvrRYQVY9Brpt1PfDLXCzZrs0oFLjq8Tp5JaUonJfdLBj97MilXx1sN2Qud73j1-LmJUY-ud74FP5BoBNWgzf2eM-noCNwAVLNHNpGz3_vzrLwM5XqPMgSD6FbBVyBrCJIG1Ss_8iQcDRnaF7CwP8exZVfA",
+          "thumbnail_path": "channels/durov/media/e1432947035d5ab0b2fcc822.jpg",
           "thumbnail_sha256": "c2b0204e3c9dc687288c6ef2960f38a248584015b78efc881d814f015ef79a0f",
           "duration_label": null,
           "aspect_ratio": 1
