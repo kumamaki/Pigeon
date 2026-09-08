@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T01:07:08.646Z",
+  "fetched_at": "2026-09-08T01:12:29.527Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229815",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "شوک سیاسی در آلمان؛ جهش راست‌گرایان در شرق و تشدید بحران برای صدراعظم<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "شوک سیاسی در آلمان؛ جهش راست‌گرایان در شرق و تشدید بحران برای صدراعظم\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229815",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/sMnm9J5XZmyi_gUMGB4ASx5Z-oMJBnAzx5LBGpxDu8wHb39ixnaeB7r_1K5AJQ1s7frbU66Jh-peIw8nVgMKPjEiO9JK-pdgNjqbiZQbSz9cChdVkKb7jJu8Z0QEofK09rcylriDfRdNKgP6ZP04p3XAYjahSwkPlD9i4jKgRlTg5lUef5_MdeTUyN8avAYcViOE7UK38q_XSDlZiNFb1OdTFtC5jIx4hGXZE9gdFN__5AMTC1KBIyCqbNHPJA-SS-tPikCGa_4KWE2ISsHsoCzZRFh7qOH4Kj3rTVVOsKw762fNoJsVda_tMkTTackInyoJUt0zD2Fr2ogCp4u-Ow",
+          "thumbnail_path": "channels/farsivoa/media/5cba52314a3cfbf50915981b.jpg",
+          "thumbnail_sha256": "338a67bb7c6e34fc194d79237f7daee42e660756c05fb89a925a609e1510fbf2",
+          "duration_label": "3:36",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "81",
+      "posted_at": "2026-09-08T01:08:37+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229815",
+      "reply": null
+    },
     {
       "id": "farsivoa/229814",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "454",
+      "views_label": "522",
       "posted_at": "2026-09-08T00:29:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229814",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "725",
+      "views_label": "780",
       "posted_at": "2026-09-08T00:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229813",
@@ -77,7 +105,7 @@
       "plain_text": "🔺ترامپ: قیمت نفت کاهش خواهد یافت و جمهوری اسلامی به سلاح هسته‌ای دست پیدا نمی‌کند\n\n▪️دونالد ترامپ، رئیس‌جمهوری آمریکا، دوشنبه شب در شبکه اجتماعی تروت‌سوشال نوشت وقتی در جنگ با جمهوری اسلامی ایران «پیروز شویم، قیمت نفت به سرعت کاهش خواهد یافت.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195221.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "913",
+      "views_label": "967",
       "posted_at": "2026-09-07T23:46:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229812",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "867",
+      "views_label": "915",
       "posted_at": "2026-09-07T23:39:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229811",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "889",
+      "views_label": "924",
       "posted_at": "2026-09-07T23:33:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229810",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.05K",
+      "views_label": "1.09K",
       "posted_at": "2026-09-07T23:15:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229809",
@@ -177,7 +205,7 @@
       "plain_text": "🔺جمهوری اسلامی رسماً قیمت بنزین را افزایش داد و نیروهای سرکوب لباس شخصی را در اطراف جایگاه‌های سوخت مستقر کرد\n\n▪️جمهوری اسلامی بامداد سه‌شنبه ۱۷ شهریور قیمت بنزین موسوم به «سوخت سهمیه جایگاه‌ها» را به‌طور رسمی افزایش داد و نیروهای سرکوب را در اطراف پمپ‌بنزین‌ها مستقر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195211.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.12K",
+      "views_label": "1.15K",
       "posted_at": "2026-09-07T23:06:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229808",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.18K",
+      "views_label": "1.2K",
       "posted_at": "2026-09-07T22:50:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229807",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.66K",
+      "views_label": "1.68K",
       "posted_at": "2026-09-07T22:18:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229806",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.75K",
+      "views_label": "1.78K",
       "posted_at": "2026-09-07T22:10:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229805",
@@ -277,7 +305,7 @@
       "plain_text": "🔺خبرنگار سی‌بی‌اس: کامران حکمتی، شهروند آمریکایی از زندان اوین آزاد شد اما همچنان ممنوع‌الخروج است\n\n▪️مارگارت برنان، خبرنگار شبکه خبری سی‌بی‌اس آمریکا، روز دوشنبه ‍‍۱۶ شهریور اعلام کرد کامران حکمتی، شهروند دوتابعیتی ایرانی-آمریکایی، سه روز پیش از زندان اوین آزاد شده است، اما همچنان اجازه خروج از ایران را ندارد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195205.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.81K",
+      "views_label": "1.84K",
       "posted_at": "2026-09-07T22:03:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229804",
@@ -293,7 +321,7 @@
       "plain_text": "🔺سنتکام مسیر ۹۴ کشتی تجاری را در جریان محاصره دریایی علیه جمهوری اسلامی تغییر داده است\n\n▪️ستاد فرماندهی مرکزی آمریکا، سنتکام، روز دوشنبه اعلام کرد نیروهای آمریکایی تاکنون مسیر ۹۴ کشتی تجاری را در چارچوب اجرای موج دوم محاصره دریایی علیه جمهوری اسلامی تغییر داده‌اند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195203.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.88K",
+      "views_label": "1.91K",
       "posted_at": "2026-09-07T21:49:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229803",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.8K",
+      "views_label": "1.82K",
       "posted_at": "2026-09-07T21:47:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229802",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.93K",
+      "views_label": "1.95K",
       "posted_at": "2026-09-07T21:39:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229801",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.12K",
+      "views_label": "2.13K",
       "posted_at": "2026-09-07T21:32:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229800",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.82K",
+      "views_label": "2.83K",
       "posted_at": "2026-09-07T20:56:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229799",
@@ -461,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.29K",
+      "views_label": "3.3K",
       "posted_at": "2026-09-07T20:31:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229797",
@@ -477,7 +505,7 @@
       "plain_text": "🔴📢‌ پادکست میدان - دوشنبه ۱۶ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از\nنسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه\nسبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "3.84K",
+      "views_label": "3.85K",
       "posted_at": "2026-09-07T19:54:30+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229796",
@@ -2579,22 +2607,6 @@
       "posted_at": "2026-09-07T09:19:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229704",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229703",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>دو فوتبالیست زن ایرانی پناهنده: به کشتن مردم توسط حکومت اعتراض داشتیم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>دو عضو تیم ملی فوتبال زنان ایران که در استرالیا پناهندگی گرفتند، تأیید کردند خودداری‌شان از خواندن سرود ملی در جام ملت‌های آسیا اعتراض به جمهوری اسلامی بود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>عاطفه رمضانی‌صادق ۳۴ ساله و فاطمه پسندیده ۲۲ ساله نخستین گفت‌وگوی رسانه‌ای خود را با برنامه «۶۰ دقیقه» شبکه ۹ استرالیا انجام دادند. در این مصاحبه که روز یکشنبه پخش شد آنها نسبت به کشته شدن مردم معترض به دست جمهوری اسلامی اعتراض کردند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>در همین رابطه رمضانی‌صادق گفت: «فقط می‌خواستیم کنار مردممان بایستیم. گاهی می‌ترسیدم، اما تلاش کردم کار درست را انجام دهم و بگویم هیچ‌کس نباید صرفاً برای اعتراض کشته شود.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/iranian-soccer-players-who-sought-asylum-in-australia-say-anthem-silence-was-protest/8195031.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/iranian-soccer-players-who-sought-asylum-in-australia-say-anthem-silence-was-protest/8195031.html</a>",
-      "plain_text": "🔺دو فوتبالیست زن ایرانی پناهنده: به کشتن مردم توسط حکومت اعتراض داشتیم\n\n▪️دو عضو تیم ملی فوتبال زنان ایران که در استرالیا پناهندگی گرفتند، تأیید کردند خودداری‌شان از خواندن سرود ملی در جام ملت‌های آسیا اعتراض به جمهوری اسلامی بود.\n\n▪️عاطفه رمضانی‌صادق ۳۴ ساله و فاطمه پسندیده ۲۲ ساله نخستین گفت‌وگوی رسانه‌ای خود را با برنامه «۶۰ دقیقه» شبکه ۹ استرالیا انجام دادند. در این مصاحبه که روز یکشنبه پخش شد آنها نسبت به کشته شدن مردم معترض به دست جمهوری اسلامی اعتراض کردند.\n\n▪️در همین رابطه رمضانی‌صادق گفت: «فقط می‌خواستیم کنار مردممان بایستیم. گاهی می‌ترسیدم، اما تلاش کردم کار درست را انجام دهم و بگویم هیچ‌کس نباید صرفاً برای اعتراض کشته شود.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/iranian-soccer-players-who-sought-asylum-in-australia-say-anthem-silence-was-protest/8195031.html",
-      "media": [],
-      "reactions": [],
-      "views_label": "3.22K",
-      "posted_at": "2026-09-07T08:58:21+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229703",
       "reply": null
     }
   ]
