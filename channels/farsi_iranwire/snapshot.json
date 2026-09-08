@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T15:22:08.831Z",
+  "fetched_at": "2026-09-08T15:27:02.238Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93490",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Xp1GPjZY4ATloWqym-TkX3n9GYZxWlsZ1JtO4D0neLIWJRuH5wpmbTqs7uCbifzSxmrRAvB4RkQfdU7HCHg5ZE0qJtxdyyg8uwCTr7BFtLRcRte9trFF1imaWTJHRLFCw-X6Q0R2s4gfHibpcPDDqN-O7C-Sip6L5LU3Z2EhTU6d0TOKSgGv2s55eTjDoHnQvCOdmy9lqr40HjmQlQo2zI-H45ezXn7GynL2iQ_JqHbx3G-llmnGay-lX4jOrCLEKVrCnCiMz-GMVGehcWuLYj-lGPFR3ApxgpnjnktzRoSJSY9yrR0I5lAuE0M1bKFShaKBpqnjajGbZEDVTv8FwQ.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a45e25b72ade524afd0808f4.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "وزارت خزانه‌داری آمریکا، روز سه‌شنبه ۱۷ شهریور ۱۴۰۵، اعلام کرد در چارچوب «عملیات طرد اقتصادی»، ۳۶ شرکت و فرد مرتبط با بخش هوانوردی ایران را در فهرست تحریم‌های خود قرار داده است. این اقدام شامل ۲۷ شرکت هواپیمایی فعال در ایران و همچنین شماری از شرکت‌های واسطه، نمایندگان فروش و ارایه‌دهندگان خدمات باربری در کشورهای ثالث است.<br><br><br>بیشتر بخوانید: <a href=\"https://iranwire.com/fa/news-1/157340\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157340</a><br><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "وزارت خزانه‌داری آمریکا، روز سه‌شنبه ۱۷ شهریور ۱۴۰۵، اعلام کرد در چارچوب «عملیات طرد اقتصادی»، ۳۶ شرکت و فرد مرتبط با بخش هوانوردی ایران را در فهرست تحریم‌های خود قرار داده است. این اقدام شامل ۲۷ شرکت هواپیمایی فعال در ایران و همچنین شماری از شرکت‌های واسطه، نمایندگان فروش و ارایه‌دهندگان خدمات باربری در کشورهای ثالث است.\n\n\nبیشتر بخوانید: https://iranwire.com/fa/news-1/157340\n\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93490",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qGCA3h_Y2J-gW6RykizoxD9vPMBYeP11AxxLcHAcqDnAZjtd6r3SEVHsYnwGJ-n_e7qoacre6nO2hbHIL30UPgzAiYllyS6rOewdu2pYs6N5YO5Zgrd4oGANwUORsQ13jtu_8F7O4_g2ARtfW-30gra8TAhOrjQ--HFZ4hW1-DXAF25-TfnZHVm-n8a238aCjWPlaBzJF2wooCSiU3xNFmeCNAGifDtkf6jazsS_OD0tAwxL3RC7Qy-M_OqH33TgMdhqzElRWdJDhd9o63EUYsSihY2VqbTJNwlFLH2VNsWnVqWQAVdSn3Xc5NVDs6ciEksloY9h9mgNha91s-dCqw.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/f340be36868838fd2be60901.jpg",
+          "thumbnail_sha256": "a586c71d3bcb401f9e9ab07b5340abc0f5f11a6863937c6bb86fa60f6315f428",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "39",
+      "posted_at": "2026-09-08T15:24:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93490",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93489",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "137",
+      "views_label": "171",
       "posted_at": "2026-09-08T15:08:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93489",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "153",
+      "views_label": "188",
       "posted_at": "2026-09-08T15:06:31+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93488",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "303",
+      "views_label": "330",
       "posted_at": "2026-09-08T14:50:47+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93487",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "816",
+      "views_label": "829",
       "posted_at": "2026-09-08T12:40:34+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93486",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "784",
+      "views_label": "797",
       "posted_at": "2026-09-08T12:30:41+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93485",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "827",
+      "views_label": "841",
       "posted_at": "2026-09-08T12:20:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93484",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "847",
+      "views_label": "856",
       "posted_at": "2026-09-08T12:10:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93483",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "847",
+      "views_label": "854",
       "posted_at": "2026-09-08T11:51:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93482",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "929",
+      "views_label": "935",
       "posted_at": "2026-09-08T11:25:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93481",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "940",
+      "views_label": "948",
       "posted_at": "2026-09-08T11:13:07+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93480",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.1K",
+      "views_label": "1.11K",
       "posted_at": "2026-09-08T10:12:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93478",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.13K",
+      "views_label": "1.14K",
       "posted_at": "2026-09-08T09:38:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93476",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.17K",
+      "views_label": "1.18K",
       "posted_at": "2026-09-08T09:06:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93475",
@@ -537,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.03K",
+      "views_label": "1.04K",
       "posted_at": "2026-09-08T08:02:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93471",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-05T14:28:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93388",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93387",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/K1ryeuKQ4KEx_W8GG_UAEgXS4WenbnqYy6I38arbtQjTENtUCZQc86aijSe5XYgmScJwV1DfLQ_4VEPN5DltoBy7THAdB-M57YdRe65wQEul8EBsDbrMRWw2zRL5OzhWguF-d-8QVWwclG6spHHFcXlsJFKgrZLGgwKhEeGbn7jfwHtI0-R8bayMDq_tttXVRSGkpMVAeAyb34TseqUs8rqvywSzheUDDm3U0EVjDW-9tmpTsswi5sMh55tZyHvVXko6rwusUIzlfc8QZNYipXbKGOAn3cz77hC389xV_7PX6pD8qx8sh7cKA0Jz_noMeNwVM5xZQ77gMTmo8209sA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/5ea6725eb75d0236588a5f92.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "مادر «علی شوش» و «عماد شوش» تصویری از دیدار خود با جعفر پناهی را در صفحه اینستاگرامش منتشر کرده است. او در توضیح این تصویر، از این دیدار با عبارت «هنر و اندیشه» یاد کرده است.<br>جعفر پناهی، فیلم‌ساز و زندانی سیاسی پیشین، حدود سه هفته پیش در رودسر با مادر این دو برادر دیدار کرده است.<br>علی شوش در جریان اعتراضات «زن، زندگی، آزادی» در سال ۱۴۰۱ در اصفهان کشته شد. عماد شوش نیز در جریان اعتراضات دی ۱۴۰۴ در لاهیجان جان باخت.<br><br>بخوانید:  <a href=\"https://iranwire.com/fa/news-1/157182\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157182</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "مادر «علی شوش» و «عماد شوش» تصویری از دیدار خود با جعفر پناهی را در صفحه اینستاگرامش منتشر کرده است. او در توضیح این تصویر، از این دیدار با عبارت «هنر و اندیشه» یاد کرده است.\nجعفر پناهی، فیلم‌ساز و زندانی سیاسی پیشین، حدود سه هفته پیش در رودسر با مادر این دو برادر دیدار کرده است.\nعلی شوش در جریان اعتراضات «زن، زندگی، آزادی» در سال ۱۴۰۱ در اصفهان کشته شد. عماد شوش نیز در جریان اعتراضات دی ۱۴۰۴ در لاهیجان جان باخت.\n\nبخوانید: https://iranwire.com/fa/news-1/157182\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93387",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/dD_lcIN8MGCQq4an65AEK28DUCurAIcXsePqbKTFqTTkg0kJMyqVdwlGInr7mBDjQ_lPXfiz-yubefCH9K6lFQeWVhlSGbCE0P6LjuNBrja7o3uCxUGZti3y26fpiPATB-aFMeRKuYGz84r_6Cmah8-JlusLAZKbd70QqUTMSd737yHT-6lfnISVbjnDIfcf3FgHPv_ruSS0LXG7orfhw144A3_iyzU4fEF8MJFE0hi4ddP88daHwLUVeRp-SaICm-PPczAyB0lEphhdYv0UdIxdE6elyt7o_DUmDzY1fgjxsyum2BINBxu4DQNf0fe1RLWizknIrySVfjmQujpCQQ.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/4cff4fa2fd3124fe85e0e32a.jpg",
-          "thumbnail_sha256": "671d449d7a362de064fee215bd625680d1b023a60b7de813144aeb628aac2e28",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.29K",
-      "posted_at": "2026-09-05T14:07:37+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93387",
       "reply": null
     }
   ]

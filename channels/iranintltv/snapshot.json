@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T15:22:11.244Z",
+  "fetched_at": "2026-09-08T15:27:05.644Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "IranintlTV/356342",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "ایران اینترنشنال به دو نامه محرمانه از وزارت نفت دست یافته که نشان می‌دهد یک چهره ارشد اطلاعات سپاه در نقش دستیار ویژه وزیر نفت، فروش نفت ایران را با تخفیفی عجیب به چهار دلال نفتی عضو شبکه فساد خود واگذار کرده که بدهی‌های سنگین میلیارد دلاری دارند.<br><br>گزارشی از مجتبا پورمحسن<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "ایران اینترنشنال به دو نامه محرمانه از وزارت نفت دست یافته که نشان می‌دهد یک چهره ارشد اطلاعات سپاه در نقش دستیار ویژه وزیر نفت، فروش نفت ایران را با تخفیفی عجیب به چهار دلال نفتی عضو شبکه فساد خود واگذار کرده که بدهی‌های سنگین میلیارد دلاری دارند.\n\nگزارشی از مجتبا پورمحسن\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356342",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/CCtU3es_y2ng8ZVT4tPFjtB2JtEvnkL5yLMmANfI9FPE0uGfcU4eJezOulMXZQL6m-XgJQnY9AwFumAECi0o8JPEl6zqhr_4WFvfxYPrZiaiVHgAEiRAVSkWhDW8_1Vvyzoxe-41Am2ifeDU_p3UXt8L1h5Ys_Gc32rhMNxG25pR0HgqNxqgqFQywWqOkyJpABBUVFZSESaf-Y851-szFmWEe09m5ppw_Xh5mYhPU8V11wcHrUUu7tPeyAS33Dex0hVL-7gpmHyQYQR_VYy7Vdd6zXlLJbmv8PbP9WAPmkpSMUsmqohfO44F-od5WPhA_QF7-0G9X6BJZU0XqH_0xQ",
+          "thumbnail_path": "channels/iranintltv/media/3dfffc9e9142b67bf4cab35e.jpg",
+          "thumbnail_sha256": "af21d89fac90edaf7970db49df923a47e37f95a930c2e1766e5c2888c1919cfa",
+          "duration_label": "10:28",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "3.2K",
+      "posted_at": "2026-09-08T15:23:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356342",
+      "reply": null
+    },
+    {
       "id": "IranintlTV/356341",
       "author_name": "Iran International ایران اینترنشنال",
       "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🎧نسخه صوتی اخبار شبانگاهی | سه‌شنبه ۱۷ شهریور\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "6.34K",
+      "views_label": "9.53K",
       "posted_at": "2026-09-08T15:14:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356341",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.34K",
+      "views_label": "9.57K",
       "posted_at": "2026-09-08T15:13:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356340",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.6K",
+      "views_label": "14.7K",
       "posted_at": "2026-09-08T15:07:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356339",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.7K",
+      "views_label": "14.8K",
       "posted_at": "2026-09-08T15:02:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356338",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.7K",
+      "views_label": "14.8K",
       "posted_at": "2026-09-08T14:59:54+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356337",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.8K",
+      "views_label": "15.9K",
       "posted_at": "2026-09-08T14:55:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356336",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.8K",
+      "views_label": "15.9K",
       "posted_at": "2026-09-08T14:54:21+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356335",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.8K",
+      "views_label": "15.9K",
       "posted_at": "2026-09-08T14:53:33+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356334",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.3K",
+      "views_label": "24.4K",
       "posted_at": "2026-09-08T14:30:20+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356333",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.4K",
+      "views_label": "25.4K",
       "posted_at": "2026-09-08T14:25:52+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356332",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.3K",
+      "views_label": "24.4K",
       "posted_at": "2026-09-08T14:25:40+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356331",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.4K",
+      "views_label": "25.5K",
       "posted_at": "2026-09-08T14:16:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356330",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.6K",
+      "views_label": "28.7K",
       "posted_at": "2026-09-08T14:06:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356329",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.6K",
+      "views_label": "29.7K",
       "posted_at": "2026-09-08T14:03:29+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356328",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.6K",
+      "views_label": "28.7K",
       "posted_at": "2026-09-08T14:00:32+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356327",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.5K",
+      "views_label": "27.6K",
       "posted_at": "2026-09-08T14:00:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356326",
@@ -497,7 +525,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.9K",
+      "views_label": "32.9K",
       "posted_at": "2026-09-08T13:38:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356324",
@@ -525,7 +553,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34K",
+      "views_label": "35.1K",
       "posted_at": "2026-09-08T13:33:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356323",
@@ -2709,34 +2737,6 @@
       "posted_at": "2026-09-08T05:12:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356240",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356239",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "غلامرضا تاجگردون، رییس کمیسیون برنامه و بودجه مجلس با خبرگزاری خانه ملت گفت: «فشار و جنگ هست و مقاومت هزینه دارد، ولی دشمنان نتوانستند به چیزی که می‌خواستند برسند. بالاخره ما تا اینجای کار آمده‌ایم و تا به آخر ادامه خواهیم داد و موفق هم خواهیم شد. مردم نیز صبوری کردند و صبوری بیشتری خواهند کرد تا بتوانیم کار را به نتیجه برسانیم.»<br><br>این نماینده مجلس اضافه کرد: «با وجود همه اقداماتی که دشمنان انجام دادند، موفق نشدند به اهداف خود برسند و می‌خواهم بگویم که ما پیروز شدیم.»<br><br>تاجگردون افزود: «آمریکایی‌ها دیگر تحریم و کار بیشتری نخواهند کرد. با تحریم‌های وضع‌شده، آمریکایی‌ها هیچ اتفاق خاصی را رقم نخواهند زد و همین کاری که تاکنون رخ داده، ادامه پیدا خواهد کرد.»<br><a href=\"https://iranintl.com/202609082883\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609082883</a>",
-      "plain_text": "غلامرضا تاجگردون، رییس کمیسیون برنامه و بودجه مجلس با خبرگزاری خانه ملت گفت: «فشار و جنگ هست و مقاومت هزینه دارد، ولی دشمنان نتوانستند به چیزی که می‌خواستند برسند. بالاخره ما تا اینجای کار آمده‌ایم و تا به آخر ادامه خواهیم داد و موفق هم خواهیم شد. مردم نیز صبوری کردند و صبوری بیشتری خواهند کرد تا بتوانیم کار را به نتیجه برسانیم.»\n\nاین نماینده مجلس اضافه کرد: «با وجود همه اقداماتی که دشمنان انجام دادند، موفق نشدند به اهداف خود برسند و می‌خواهم بگویم که ما پیروز شدیم.»\n\nتاجگردون افزود: «آمریکایی‌ها دیگر تحریم و کار بیشتری نخواهند کرد. با تحریم‌های وضع‌شده، آمریکایی‌ها هیچ اتفاق خاصی را رقم نخواهند زد و همین کاری که تاکنون رخ داده، ادامه پیدا خواهد کرد.»\nhttps://iranintl.com/202609082883",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356239",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/rToLUA1IBeQOUzFN-TP_-ou66OajALQx-yMfrGuvfL38ya5CjIyEQgsTqDUkBJFGCT0P0pWnkED2R9OJjjhf8b4rr_PLu7nzFfaXMdXBYJRW-3nmKFZIRjolV7O-j0rl6ug-SQy-gHrdAo6c6cfnwjpjEWeCqPiV_pyc7IoqzZgXxaUrfNEslWDNmVfJhvWQ0b47z-4j4hmsBruDlc2_-W-_PvioRGr9U70aOHrVQnc9sA-vT2smE65PlOFjUmrGpFsLwn74aaS9bbWMud8HbU02Wcrqgj4yrvGKOg0h3AtZtBJCgqyJH8Ax5LP9MPcW22W_mCSepZi3-ELShs9P0g.jpg",
-          "thumbnail_path": "channels/iranintltv/media/bf4b05d768c8f51c5d9ca733.jpg",
-          "thumbnail_sha256": "9eb01d739f78885d7a812872e8b38ab206de7d53ab1dd794c86fc286931e2dec",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "31.7K",
-      "posted_at": "2026-09-08T05:01:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356239",
       "reply": null
     }
   ]

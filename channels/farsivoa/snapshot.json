@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T15:22:09.136Z",
+  "fetched_at": "2026-09-08T15:27:03.305Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229870",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "بارش شدید شامگاه گذشته موجب جاری شدن سیلاب و آب‌گرفتگی معابر در مناطق شمالی کشور، به ویژه گیلان و مازندران شده است. به گزارش رسانه‌های جمهوری اسلامی در برخی نقاط مازندران بیش‌از ۲۲۰ میلی‌متر بارندگی ثبت شده است و تاکنون ۷۷۲ واحد مسکونی درپی بارش‌های سیل‌آسا خسارت دیده‌اند.",
+      "plain_text": "بارش شدید شامگاه گذشته موجب جاری شدن سیلاب و آب‌گرفتگی معابر در مناطق شمالی کشور، به ویژه گیلان و مازندران شده است. به گزارش رسانه‌های جمهوری اسلامی در برخی نقاط مازندران بیش‌از ۲۲۰ میلی‌متر بارندگی ثبت شده است و تاکنون ۷۷۲ واحد مسکونی درپی بارش‌های سیل‌آسا خسارت دیده‌اند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229870",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/GdxWdSzT857Udfbp2f0SuX7-0f5qd2AZ4jy4872buoEslrWFxozRUX0k_pI1t3l2UnhpyWU1lLp2Ivt2fisFech97BWgK8WvQ5tiEnabDAS8Wv7pHg8cJj01csD2pZKeOTuULyV377_xNc1uVC0rCzyEJ7xrdrcaWKGl2-pKaAKmeJF6DjINpjoS_B1CwmQ87QWVkJ0C8u4069bK0CQYG-F2l39iQj1ozISXj9foc5egfeLZVEt0xZ3x4lZjEe_zsk7XL3V68MGz-K--gfLZmvzVYNWTkmqQ3Dpk7n_7E5dmbCrj4IsObokPyLK7b1yaMZfq6DH7OWoDZBiNF78iEg",
+          "thumbnail_path": "channels/farsivoa/media/8cab2ee08639e7ab4066150f.jpg",
+          "thumbnail_sha256": "5d76ae960b2bd66850507779e8887466c2218858f423070bb87da3165158f903",
+          "duration_label": "0:20",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "130",
+      "posted_at": "2026-09-08T15:25:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229870",
+      "reply": null
+    },
     {
       "id": "farsivoa/229869",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "580",
+      "views_label": "808",
       "posted_at": "2026-09-08T15:09:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229869",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "965",
+      "views_label": "1.13K",
       "posted_at": "2026-09-08T14:57:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229868",
@@ -77,7 +105,7 @@
       "plain_text": "🔺وزیران خارجه کشورهای عربی حملات منطقه‌ای جمهوری اسلامی را محکوم کردند\n\n▪️وزیران امور خارجه کشورهای عربی با محکوم کردن حملات جمهوری اسلامی به کشورهای منطقه، بر حق دفاع فردی و جمعی در برابر این حملات تأکید کردند و خواستار بازگشایی فوری و بدون قید و شرط تنگه هرمز و تضمین آزادی کشتیرانی در آبراه‌های منطقه شدند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/arab-league-foreign-ministers-cairo/8195540.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.21K",
+      "views_label": "1.34K",
       "posted_at": "2026-09-08T14:46:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229867",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.44K",
+      "views_label": "1.51K",
       "posted_at": "2026-09-08T14:36:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229866",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.57K",
+      "views_label": "1.67K",
       "posted_at": "2026-09-08T14:28:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229865",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.7K",
+      "views_label": "1.76K",
       "posted_at": "2026-09-08T14:20:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229864",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.95K",
+      "views_label": "2.04K",
       "posted_at": "2026-09-08T14:07:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229863",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.08K",
+      "views_label": "2.15K",
       "posted_at": "2026-09-08T14:00:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229862",
@@ -233,7 +261,7 @@
       "plain_text": "🔺بریتانیا موسسه «القرض‌الحسن» را تحریم کرد؛ تشدید فشار بر جمهوری اسلامی با تحریم بازوی مالی حزب‌الله\n\n▪️بریتانیا روز سه‌شنبه ۱۷ شهریور ۱۴۰۵ تحریم‌هایی را علیه موسسه «القرض‌الحسن»، مؤسسه مالی وابسته به حزب‌الله لبنان، اعلام کرد؛ اقدامی که در ادامه فشارهای آمریکا و متحدانش برای محدود کردن منابع مالی این گروه مورد حمایت جمهوری اسلامی انجام می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/britain-sanctions-hezbollah-linked-institution/8195533.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.11K",
+      "views_label": "2.14K",
       "posted_at": "2026-09-08T13:45:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229861",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.15K",
+      "views_label": "2.19K",
       "posted_at": "2026-09-08T13:32:59+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229860",
@@ -289,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.18K",
+      "views_label": "2.21K",
       "posted_at": "2026-09-08T13:20:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229859",
@@ -305,7 +333,7 @@
       "plain_text": "🔺اعزام تیم ارزیاب کره‌جنوبی به منطقه برای بررسی وضعیت تنگه هرمز\n\n▪️وزارت دفاع کره‌جنوبی روز سه‌شنبه ۱۷ شهریور اعلام کرد که تیمی را برای ارزیابی وضعیت در تنگه هرمز به منطقه اعزام کرده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/south-korea-assessment-team-deployment-strait-of-hormuz/8195526.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.11K",
+      "views_label": "2.15K",
       "posted_at": "2026-09-08T13:18:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229858",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.15K",
+      "views_label": "2.21K",
       "posted_at": "2026-09-08T13:10:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229857",
@@ -361,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.11K",
+      "views_label": "2.15K",
       "posted_at": "2026-09-08T13:05:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229856",
@@ -389,7 +417,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.02K",
+      "views_label": "2.05K",
       "posted_at": "2026-09-08T13:03:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229855",
@@ -417,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.28K",
+      "views_label": "2.31K",
       "posted_at": "2026-09-08T12:50:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229854",
@@ -445,7 +473,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.44K",
+      "views_label": "2.48K",
       "posted_at": "2026-09-08T12:39:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229853",
@@ -473,7 +501,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.56K",
+      "views_label": "2.6K",
       "posted_at": "2026-09-08T12:25:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229852",
@@ -489,7 +517,7 @@
       "plain_text": "🔺بریتانیا لایحه تحریم‌های سخت‌تر علیه جمهوری اسلامی را منتشر کرد\n\n▪️بریتانیا روز سه‌شنبه قانونی برای اعمال تحریم‌های سخت‌تر علیه جمهوری اسلامی منتشر کرد که محدودیت‌های تجاری و اختیارات هدف قرار دادن شناورها را گسترش می‌دهد.\n\n▪️دولت بریتانیا اقدام را بخشی از تلاش گسترده‌تر برای مهار برنامه هسته‌ای تهران و «دیگر فعالیت‌های خصمانه» خواند. بر پایه اعلام دولت بریتانیا، اقدام‌ها دسترسی جمهوری اسلامی به نظام مالی این کشور را محدود می‌کند.\n\n▪️ممنوعیت تجارت به کالاها، فناوری و خدمات بیشتری گسترش می‌یابد و فرود هواپیماهای ایرانی در بریتانیا جز در موارد استثنا ممنوع می‌شود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/uk-publishes-legislation-for-tougher-sanctions-on-iran/8195516.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.88K",
+      "views_label": "2.89K",
       "posted_at": "2026-09-08T12:07:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229851",
@@ -2603,34 +2631,6 @@
       "posted_at": "2026-09-07T16:46:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229761",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229760",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "کامرانی: تهدیدهای محسن رضایی علیه آزادی کشتیرانی پرونده جمهوری اسلامی را سنگین‌تر می‌کند",
-      "plain_text": "کامرانی: تهدیدهای محسن رضایی علیه آزادی کشتیرانی پرونده جمهوری اسلامی را سنگین‌تر می‌کند",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229760",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/CAOYSknYIn1DXhvuEBJXrL2FMUNmg168Cvb0mOePvNEJiTpB5chpasnknRLDMrXPClr2Sg6AnV7aEza7VkytiVwpLyYVU3fYdmfx2IN2qZEXPTR_e5o7Ogbz1v0_Qyp_0HCC9QO4h1dLzjdRvd-dBwr6yCpwyk2QCKjnpXE8VFjLL2hh_suBRJfnADH7AVnJbGskOIcGd3IyLETM5D_xkrbJB2OdHUtbyffh2S6NeYOjUqRJErC5Ryt25BQLPDIGwCUKKnxG7se9zWmYJ5oK8Oi4r0o0S68IpV9WHS3JvcgY91PhWrqVB3PvF7sDUsiY6ttTlhplpeX_Rqvzq2HTcA",
-          "thumbnail_path": "channels/farsivoa/media/ca22c6b95b9899463cac3c52.jpg",
-          "thumbnail_sha256": "2edec1d8bfba0389d030f9af0b63a9951335bdd85746e84c5ed204421a29147a",
-          "duration_label": "2:23",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.04K",
-      "posted_at": "2026-09-07T16:45:33+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229760",
       "reply": null
     }
   ]
