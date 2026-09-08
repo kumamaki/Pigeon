@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T06:27:14.367Z",
+  "fetched_at": "2026-09-08T06:32:15.571Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -12,6 +12,90 @@
   },
   "posts": [
     {
+      "id": "IranintlTV/356255",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "جاویدنامان انقلاب ملی ایرانیان<br>«شکوفه عبدی» ۱۸ دی‌ماه با شلیک مستقیم نیروهای سرکوب به سرش کشته شد. نامش در حافظه‌ی این سرزمین می‌ماند و یادش چراغ راه آزادی‌خواهان است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "جاویدنامان انقلاب ملی ایرانیان\n«شکوفه عبدی» ۱۸ دی‌ماه با شلیک مستقیم نیروهای سرکوب به سرش کشته شد. نامش در حافظه‌ی این سرزمین می‌ماند و یادش چراغ راه آزادی‌خواهان است.\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356255",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/CTE0Kp0aiSCwq5CCjjpQwQFYTDwWM2TeNElAaji2swdecZqug6CXxRXwKFT8ylKWHCcsk79hHErRz7cBfannLfeyrEf-MK-saMS3lTziMSLXapAUvL3xkYLsxmvtKXNeZVRNWECzbJSYDc1jpkHXAXwavL5EXspeolDIeAMbHuw3AQeR8UZKyXeGwF_ZsW3OLHdec72xMpKsClafcg8P8GnSoc1yG0XIhPKPWXEw-BQktkyMMX8liWLqiVkwR09PjiJVPPGCdpQXOkk8sttD6ZOSyHsimH-2PdBEWc-HLpm4nOVVx9qGQqAbHJNCIhUX-JaudF6BI0lGz02UyLXLMQ",
+          "thumbnail_path": "channels/iranintltv/media/b65c519dfc8fa9222a8b2201.jpg",
+          "thumbnail_sha256": "941e01357bb3836a1c73b6ef2437397a5b630e4220eff149a2ae198c6822948e",
+          "duration_label": "1:00",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.1K",
+      "posted_at": "2026-09-08T06:29:51+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356255",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356254",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "ویدیوی رسیده به ایران‌اینترنشنال در سه‌شنبه ۱۷ شهریور، صف طولانی خودروها را مقابل جایگاه سوخت سراوان در استان سیستان و بلوچستان نشان می‌دهد.",
+      "plain_text": "ویدیوی رسیده به ایران‌اینترنشنال در سه‌شنبه ۱۷ شهریور، صف طولانی خودروها را مقابل جایگاه سوخت سراوان در استان سیستان و بلوچستان نشان می‌دهد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356254",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/WG1vRxHjDMzDgCUxhL5BqmmpLgQ0eTdGluxneCYbyPnCCe8qenwqB2iHPxKFvDiaM3gXqZhNj-ECm0RKutzrp3rCcPX6vFvzid7vIZEWTWCnjK1sVrjdgBUBm6l2So8n5f6Pc6bQ5bC_Rs1N8-X5ki0gqDRK3I2kBwQol8yRkiGYZxbw06gTh4zRwOr1cGjknI2S2Z6qshrI_eB863DGeoG0qgSW79QcnSZNq05U3wJ1hfxKqeCgrps_nQ71Mm5Ajdxo6gkL8XzZbgVZcDKbflbgEQYhVXNnmsYSlySDCdSHEK9GddT727GvCpqIXLpk78H0VCerxce3pGWpXbFbrw",
+          "thumbnail_path": "channels/iranintltv/media/b7e1f76cb6b42ea1bf4b6f47.jpg",
+          "thumbnail_sha256": "dcb239c0a7557bf1a107f4da6f2d40315898aa959d3fd65bc26b64f5e2d6e91d",
+          "duration_label": "0:20",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.11K",
+      "posted_at": "2026-09-08T06:29:34+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356254",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356253",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "علی نیکزاد، نایب رییس مجلس، در نطق پیش از دستور سه‌شنبه خود گفت: «امروز با هدف قرار گرفتن مقرهای فرماندهی آمریکا در منطقه، مجبور شدند در هتل‌ها آواره شوند و با مشاهده افسردگی سربازهای خود مجبور شدند در سواحل تایلند پهلو بگیرند. پیشنهاد ما به شما این است که هرچه زودتر از این جنگ خارج شوید، چرا که این جنگ عرصه مگس‌ها نیست.»<br><br>نیکزاد ادامه داد: «جمهوری اسلامی این جنگ را مبتنی بر طراحی دقیق و تاکتیک پیش می‌برد و همزمان از همه توان و تاکتیک‌های خود استفاده نمی‌کند و در عین حال ابزارها و تاکتیک‌های خود را به‌روز می‌کند.»<br><br>نایب رییس مجلس افزود: «به مقام‌های آمریکایی توصیه می‌کنم پیش از آنکه آبروی نداشته خود را بر باد دهید، هر چه زودتر منطقه را ترک کنید.»<br><a href=\"https://iranintl.com/202609089238\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609089238</a>",
+      "plain_text": "علی نیکزاد، نایب رییس مجلس، در نطق پیش از دستور سه‌شنبه خود گفت: «امروز با هدف قرار گرفتن مقرهای فرماندهی آمریکا در منطقه، مجبور شدند در هتل‌ها آواره شوند و با مشاهده افسردگی سربازهای خود مجبور شدند در سواحل تایلند پهلو بگیرند. پیشنهاد ما به شما این است که هرچه زودتر از این جنگ خارج شوید، چرا که این جنگ عرصه مگس‌ها نیست.»\n\nنیکزاد ادامه داد: «جمهوری اسلامی این جنگ را مبتنی بر طراحی دقیق و تاکتیک پیش می‌برد و همزمان از همه توان و تاکتیک‌های خود استفاده نمی‌کند و در عین حال ابزارها و تاکتیک‌های خود را به‌روز می‌کند.»\n\nنایب رییس مجلس افزود: «به مقام‌های آمریکایی توصیه می‌کنم پیش از آنکه آبروی نداشته خود را بر باد دهید، هر چه زودتر منطقه را ترک کنید.»\nhttps://iranintl.com/202609089238",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356253",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/L-1vYe1Tm44olbxj0RuL0P3xcn5C9dsM8ntlDZ0S7kEnOyUvYWHRXaioExzf2DSHtgCjdiCRvS2ZihYhmqr02KtOq3_9ZqzOTuv36hi_v3s9rvSJPx8hM36qRMtzyFtJ7j688e6fmzqXWd5KY-foBsy0WdfOufbYQ_Uzi9lSIpf4mkY2w1PX8rqN5KMCfvxy0BqvZ0SzSrBdAAQCSfbZ7k1qFOtvgG7q78HsgiB7sSxupwFX_yKTrFZsmq-S0EQgYW_kSDGFuCjuPkJB5BMBZW4usToLUcztvmwoX2zEOIa8k-lsa5s-R8rs4wkH2CT5e8mr7vUQywP4H4UpS5HjxA.jpg",
+          "thumbnail_path": "channels/iranintltv/media/8e374f21e7dc55a17085ed3a.jpg",
+          "thumbnail_sha256": "b727d69552e4d139511953b4b2a48af89633a94b5801d0c2114afc00e0c1a9cc",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.11K",
+      "posted_at": "2026-09-08T06:28:54+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356253",
+      "reply": null
+    },
+    {
       "id": "IranintlTV/356252",
       "author_name": "Iran International ایران اینترنشنال",
       "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
@@ -21,7 +105,7 @@
       "plain_text": "🗣روایت شما از افزایش لحظه‌ای قیمت‌ها و از دست رفتن امکان برنامه‌ریزی برای آینده- سه‌شنبه ۱۷ شهریور:\n\n🔹شهریور پارسال می‌خواستم موتور بخرم، ۱۴۰ میلیون بود ۴۰ تومن کم داشتم. گفتم یک ماه دیگه جور می‌کنم. الان یک سال گذشته، ۶۰۰ میلیون رو قیمت موتور اومده، منم ماهی ۲۰ میلیون حقوق می‌گیرم. به ناچار با پولم دوچرخه خریدم.\n\n🔹قیمت یک گوشی از هشت میلیون به ۷۵ میلیون رسیده، اما حقوق من فقط از ۱۳ به ۲۱ میلیون افزایش یافته است.\n\n🔹چشم‌اندازی برای آینده نداریم. فعلا فقط می‌توانیم مواد غذایی ضروری را آن هم با صرفه‌جویی تهیه کنیم.\n\n🔹قیمت گوشی فعلی‌ام شده ۸۰ میلیون تومان ولی اگه نیاز به تعمیر و تعویض قطعه داشته باشه باید چند ماه کار کنم برای درست کردن آن.\n\n🔹برای خرید گوشی ۶۰ میلیون جمع کردم، اما دو هفته بعد قیمتش ۱۰۰ میلیون شد و خریدش را کنار گذاشتم.\n\n🔹خواستم گوشی گرون بخرم، تا پول جمع کردم، انقدر همه‌چی گرون شد که همین گوشی فعلی خودم شد همون قیمت.\n\n🔹هدفم از تغییر خانه به تعویض موبایل کاهش پیدا کرده است.\n\n🔹سه روز کار می‌کنیم تا بتوانیم یک روز غذای کافی داشته باشیم.\n\n🔹برای کارم داشتم پول جمع می‌کردم یه دستگاه ۷۰ میلیونی بخرم تو یک ماه شده ۱۱۰ میلیون. ۲ سال پیش ۷ میلیون بود.\n\n🔹در ساخت‌وساز فعالیت می‌کنم؛ تورم آن‌قدر بالاست که بعد از پیش‌فروش، ادامه پروژه دشوار می‌شود.\n\n🔹تغییر لحظه‌ای قیمت‌ها باعث شده حتی برای فردا نتوانم برنامه‌ای بریزم. فقط می‌توانم به همان روز فکر کنم؛ تمام توانم صرف پرداخت قسط، چک و بیمه می‌شود.\n\n🔹با وام یک بانک، قسط سرویس اعتباری را می‌دهم و با همان اعتبار مواد غذایی می‌خرم.",
       "media": [],
       "reactions": [],
-      "views_label": "5.24K",
+      "views_label": "7.36K",
       "posted_at": "2026-09-08T06:19:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356252",
@@ -49,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.6K",
+      "views_label": "14.7K",
       "posted_at": "2026-09-08T06:03:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356251",
@@ -77,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16.8K",
+      "views_label": "18.8K",
       "posted_at": "2026-09-08T05:55:56+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356250",
@@ -105,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.7K",
+      "views_label": "17.8K",
       "posted_at": "2026-09-08T05:55:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356249",
@@ -133,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.8K",
+      "views_label": "18.8K",
       "posted_at": "2026-09-08T05:50:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356248",
@@ -161,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.9K",
+      "views_label": "19.9K",
       "posted_at": "2026-09-08T05:42:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356247",
@@ -189,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.8K",
+      "views_label": "19.9K",
       "posted_at": "2026-09-08T05:40:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356246",
@@ -217,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.8K",
+      "views_label": "19.9K",
       "posted_at": "2026-09-08T05:39:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356245",
@@ -245,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.1K",
+      "views_label": "25.2K",
       "posted_at": "2026-09-08T05:21:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356244",
@@ -273,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.2K",
+      "views_label": "25.2K",
       "posted_at": "2026-09-08T05:18:31+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356243",
@@ -329,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.1K",
+      "views_label": "23.1K",
       "posted_at": "2026-09-08T05:16:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356241",
@@ -357,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.1K",
+      "views_label": "23.1K",
       "posted_at": "2026-09-08T05:12:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356240",
@@ -385,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.4K",
+      "views_label": "28.4K",
       "posted_at": "2026-09-08T05:01:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356239",
@@ -413,7 +497,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.6K",
+      "views_label": "30.6K",
       "posted_at": "2026-09-08T04:49:43+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356238",
@@ -469,7 +553,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "48.8K",
+      "views_label": "49.8K",
       "posted_at": "2026-09-08T03:21:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356236",
@@ -2676,90 +2760,6 @@
       "posted_at": "2026-09-07T14:14:05+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356154",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356153",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "ویدیویی که به دست ایران‌اینترنشنال رسیده و مربوط به شنبه ۱۴ شهریور است، نشان می‌دهد که یک راننده زن کامیون از گرفتار شدن و سرگردانی کامیون‌های یخچال‌دار و حامل مواد غذایی در نقطه صفر مرزی میان ایران و پاکستان خبر می‌دهد. او می‌گوید ورود مواد غذایی به پاکستان ممنوع شده و هیچ‌کس کمکی به کامیون‌دارها نمی‌کند.",
-      "plain_text": "ویدیویی که به دست ایران‌اینترنشنال رسیده و مربوط به شنبه ۱۴ شهریور است، نشان می‌دهد که یک راننده زن کامیون از گرفتار شدن و سرگردانی کامیون‌های یخچال‌دار و حامل مواد غذایی در نقطه صفر مرزی میان ایران و پاکستان خبر می‌دهد. او می‌گوید ورود مواد غذایی به پاکستان ممنوع شده و هیچ‌کس کمکی به کامیون‌دارها نمی‌کند.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356153",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Q4JyP3SWH2Ly7G5YA9ge_T-eoB1_nqbMEFjOHz3-zyLdtP6iKSZFoy_2u0rL_9gSoPxytQoc1wYCzIuxB15ZupCey6M8avpBI8hCfvxuaK0ZDXEZyFT9a9t9L7ls9v_TI--dfBVWILttsqKCmomg7eLGYXE6hSmn5PPJKHJo4bnSDBmJaS8_29XCuuUXzUWcKlGik4Qa1SM_E38ouB1JTb4V_YCBnFpjQENUx8_JaF0o6wmWd6pyuHruWblwtNwAevll6ollAN6-6BhnkU30RKzo06ouDkbAWAWU2cL2sd5IZCEdlWacgSFmdKRFxy03xxlmTnfqVlNDfqGzMn3nZg",
-          "thumbnail_path": "channels/iranintltv/media/365f59c2ef445571b177dfc7.jpg",
-          "thumbnail_sha256": "feb3104eb0d8361536cfe5dc865657708bb4680350540685499338a5fd20df42",
-          "duration_label": "1:19",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "40.5K",
-      "posted_at": "2026-09-07T14:02:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356153",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356152",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>اولی میلروی، راننده بریتانیایی، پس از یک تصادف شدید در مسابقات چین «جی‌تی» در پیست بین‌المللی شانگهای، از یک حادثه مرگبار جان سالم به در برد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>خودروی فراری میلروی پس از برخورد دو خودرو با آن، به‌سرعت در آتش گرفتار شد و او در داخل خودرو محبوس ماند. لوک هارتوگ، راننده ۲۳ ساله هلندی، با تلاش فراوان میلروی را از خودروی در حال سوختن خارج کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>همسر میلروی پس از انجام عمل جراحی، در صفحه اینستاگرامش اعلام کرد که او از ناحیه دست راست و ترقوه آسیب دیده و شش دنده‌اش نیز شکسته است. او همچنین به دلیل آسیب ریه همچنان به اکسیژن با جریان بالا نیاز دارد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>همسر میلروی با اشاره به شدت حادثه نوشت که «هنوز نمی‌تواند باور کند او زنده است» و نجات همسرش را تا حد زیادی مدیون اقدام هارتوگ دانست.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>میلروی نیز در پیامی از حمایت‌ها و کمک‌های انجام‌شده پس از این حادثه تشکر کرد و از جامعه مسابقات اتومبیلرانی به دلیل حمایت از او و خانواده‌اش قدردانی کرد.<br><br><a href=\"https://t.me/iranintltvsport\" target=\"_blank\">@iranintltvsport</a>",
-      "plain_text": "🔻اولی میلروی، راننده بریتانیایی، پس از یک تصادف شدید در مسابقات چین «جی‌تی» در پیست بین‌المللی شانگهای، از یک حادثه مرگبار جان سالم به در برد.\n\n🔹خودروی فراری میلروی پس از برخورد دو خودرو با آن، به‌سرعت در آتش گرفتار شد و او در داخل خودرو محبوس ماند. لوک هارتوگ، راننده ۲۳ ساله هلندی، با تلاش فراوان میلروی را از خودروی در حال سوختن خارج کرد.\n\n🔹همسر میلروی پس از انجام عمل جراحی، در صفحه اینستاگرامش اعلام کرد که او از ناحیه دست راست و ترقوه آسیب دیده و شش دنده‌اش نیز شکسته است. او همچنین به دلیل آسیب ریه همچنان به اکسیژن با جریان بالا نیاز دارد.\n\n🔹همسر میلروی با اشاره به شدت حادثه نوشت که «هنوز نمی‌تواند باور کند او زنده است» و نجات همسرش را تا حد زیادی مدیون اقدام هارتوگ دانست.\n\n🔹میلروی نیز در پیامی از حمایت‌ها و کمک‌های انجام‌شده پس از این حادثه تشکر کرد و از جامعه مسابقات اتومبیلرانی به دلیل حمایت از او و خانواده‌اش قدردانی کرد.\n\n@iranintltvsport",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356152",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/rNkqfKPR8gEEqTNz2SXcqQ37xedrGijQlS7ZyRoMGsRl0WXqBh48aJ70El20eNiTX920n7CUAbwm1KDGwo1UwfoRZLoeao2ry0SNcB0G0zqE10YfjgS15_V8Goi8QWv-kJEgk9v4fBIZV5g7mnt6UTUJBaBm_A2SBaLrg3CTR7f6eAPrI2AcSfm7QbfZWLkTwKWE87ivbQrnZEzANWDzg5GdXatob_RU9N-hHAyhaFPO4cPO4byrfbfRIii7pOiggaLXeFULn0N7mg1lgF2A-_L6szmo6TUWsnro4VE1Dgg83Ut6pI6x7HBmufcl1HmWtdX_h63R5YqHc-ReTlx8kg.jpg",
-          "thumbnail_path": "channels/iranintltv/media/b1685e4b0fec0cb8f716a4ba.jpg",
-          "thumbnail_sha256": "aef4e3beab1f7524bb31721746a159551456c52e25a047a4d5e29e3219e0d2c9",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "41.6K",
-      "posted_at": "2026-09-07T13:55:34+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356152",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356151",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "سرخط خبرهای دوشنبه ۱۶ شهریور<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "سرخط خبرهای دوشنبه ۱۶ شهریور\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356151",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/W0b7vrIOJhBrfoUEv-T-bT3iIgasf1mvJ_8Np915pld3SCVf3Gd90rwcEQMxfBUGYFyXiYV_Vx1aKhBMC1hM86tiemmsYvauwcQY6WargijBD9sHVTmRkQ8SGg-kJxGdDXvhDUbcw6nI2qap38n_O0uekMO7OcG8wsbHULQJjLJyQKratPyn61JsTpx0qpNBU-zA2lwOoC8fgGqGBBOaqyXUI26XWYnrPK6J3Ed2FWiZqih_7_dh3eRQ0ZGn5tNr4M7ptGmKbRMRfFJwPfYAJ42ZiAWtGKVYRxCCiE8fqMkzhegaA5_lgaQAUzRCaov7umqO_-Ws29GoB3whMlVCsQ",
-          "thumbnail_path": "channels/iranintltv/media/519fb22828b6dc5dcea5318b.jpg",
-          "thumbnail_sha256": "f2f2a4042922f6631bdf4f3ea98b7364dc0312db814ad750541ec443babbc603",
-          "duration_label": "1:24",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "42.7K",
-      "posted_at": "2026-09-07T13:35:24+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356151",
       "reply": null
     }
   ]

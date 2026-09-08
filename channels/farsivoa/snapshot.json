@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T06:27:12.422Z",
+  "fetched_at": "2026-09-08T06:32:13.698Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229828",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "واردات نفت خام چین در مردادماه تقویت شد، چون محموله‌های خلیج فارس اندکی بالا رفت و پالایشگاه‌ها خرید از منابع دیگر را افزایش دادند.<br><br>بر پایه داده‌های گمرک چین، واردکنندگان ماه گذشته ۳۷ میلیون و ۹۰۰ هزار تن وارد کردند که ۶ و دو دهم درصد بیشتر از تیرماه بود. رقم یادشده اما همچنان ۲۳ درصد پایین‌تر از مردادماه سال گذشته است.<br><br>در این بین روسیه بیش از همه سود برد، چون پالایشگاه‌های چینی می‌کوشند وابستگی به تنگه هرمز را دور بزنند. برهمین اساس واردات دریایی چین از روسیه در مرداد به یک میلیون و ۶۸۰ هزار بشکه در روز رسید.<br><br>بر اساس داده‌های کپلر، واردات نفت ایران از سوی چین در مرداد به ۵۳۴ هزار بشکه در روز افت کرد درحالی که میانگین یک میلیون و ۴۰۰ هزار بشکه در مرداد سال گذشته ثبت شده بود.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "واردات نفت خام چین در مردادماه تقویت شد، چون محموله‌های خلیج فارس اندکی بالا رفت و پالایشگاه‌ها خرید از منابع دیگر را افزایش دادند.\n\nبر پایه داده‌های گمرک چین، واردکنندگان ماه گذشته ۳۷ میلیون و ۹۰۰ هزار تن وارد کردند که ۶ و دو دهم درصد بیشتر از تیرماه بود. رقم یادشده اما همچنان ۲۳ درصد پایین‌تر از مردادماه سال گذشته است.\n\nدر این بین روسیه بیش از همه سود برد، چون پالایشگاه‌های چینی می‌کوشند وابستگی به تنگه هرمز را دور بزنند. برهمین اساس واردات دریایی چین از روسیه در مرداد به یک میلیون و ۶۸۰ هزار بشکه در روز رسید.\n\nبر اساس داده‌های کپلر، واردات نفت ایران از سوی چین در مرداد به ۵۳۴ هزار بشکه در روز افت کرد درحالی که میانگین یک میلیون و ۴۰۰ هزار بشکه در مرداد سال گذشته ثبت شده بود.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229828",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/b0Won9XapJleU4O7SKggh6Xgd2wMhDGUNigf3vFy0JItOrl0G4G7nXULgxIHu3qoDfHUkd5aWX4ENsFs5_aqzF4RJJzEB5Gs7BUAnpjuSoqcIr38epZ_79Sd43XQQghck8zTEsVZ6GRfull6f6FA0Wc9vSoPmc1VhjlxCD9-N2k9kIcSTEkW_BrJZfXIh-tWnrjUo7cjzOapcUAHG9ie_WVC8Z4IEcQ2e12i84Se4kV1TswPOQPOoD6I7ubVjoaDyY0roSTD4cJV-2viQnKtQjGuszV9lQ-rt8PLfRIcYFrmoR3vjPOsCigVnWyS7vUHwaykK77xgQDdoWkqHaY7yw.jpg",
+          "thumbnail_path": "channels/farsivoa/media/27211e479e2873e1069b3045.jpg",
+          "thumbnail_sha256": "4a21abc06467a9739911fb58d83ca4658413b142457759488b5f67c39915d8fa",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T06:31:18+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229828",
+      "reply": null
+    },
     {
       "id": "farsivoa/229827",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "296",
+      "views_label": "432",
       "posted_at": "2026-09-08T06:22:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229827",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "621",
+      "views_label": "759",
       "posted_at": "2026-09-08T06:12:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229826",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "907",
+      "views_label": "1.01K",
       "posted_at": "2026-09-08T06:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229825",
@@ -105,7 +133,7 @@
       "plain_text": "🔺نفت با نگرانی از طولانی شدن جنگ گران‌تر شد\n\n▪️قیمت نفت روز سه‌شنبه با افزایش نگرانی از طولانی شدن درگیری خاورمیانه و پس از آنکه جمهوری اسلامی تهدید کرد به هر حمله تازه آمریکا پاسخ می‌دهد، بالا رفت.\n\n▪️بهای نفت برنت ۴۹ سنت بالا رفت و به ۹۷ دلار و ۴۹ سنت در هر بشکه رسید. نفت وست تگزاس اینترمدییت آمریکا نیز با یک دلار و ۴۴ سنت رشد به ۹۲ دلار و ۹۲ سنت رسید.\n\n▪️این تحول در حالی است که بر خلاف تصور جمهوری اسلامی شوک بزرگی از ابتدای جنگ به بازار نفت وارد نشد و هنوز حجم قابل توجهی از نفت از تنگه هرمز عبور می‌کند.\n\n▪️تولیدکنندگان دیگر هم جای خالی نفت خلیج فارس را پر می‌کنند. آمریکا، کانادا و گویانا امسال یک میلیون و ۴۰۰ هزار بشکه در روز به تولید اضافه کردند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195471.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.14K",
+      "views_label": "1.21K",
       "posted_at": "2026-09-08T05:51:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229824",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.2K",
+      "views_label": "1.26K",
       "posted_at": "2026-09-08T05:40:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229823",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.35K",
+      "views_label": "1.39K",
       "posted_at": "2026-09-08T05:30:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229822",
@@ -177,7 +205,7 @@
       "plain_text": "🔺پیشنهاد مصر برای چارچوب امنیتی مشترک عربی در پی حملات جمهوری اسلامی\n\n▪️وزیر امور خارجه مصر، در نشست شورای اتحادیه عرب در قاهره چارچوب امنیتی مشترکی برای کشورهای عربی پیشنهاد کرد.\n\n▪️بنابر گزارش رسانه‌های عربی، بدر عبدالعاطی گفت مصر آماده است با اتحادیه عرب و کشورهای عضو بر سر چارچوبی جامع کار کند که حوزه‌های همکاری، سازوکارهای هماهنگی و رویه‌های واکنش به بحران را تعیین کند.\n\n▪️عبدالعاطی افزود ترتیبات پیشنهادی می‌تواند بر پیمان دفاع مشترک عربی و تصمیم‌های اتحادیه عرب بنا شود، ضمن احترام به حاکمیت و استقلال تصمیم‌گیری کشورهای عضو.\n\n▪️او در همین نشست حملات جمهوری اسلامی به کشورهای عربی را محکوم کرد و همبستگی مصر را با کشورهای خلیج فارس، اردن و عراق اعلام کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195470.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.52K",
+      "views_label": "1.55K",
       "posted_at": "2026-09-08T05:21:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229821",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.59K",
+      "views_label": "1.66K",
       "posted_at": "2026-09-08T05:12:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229820",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.8K",
+      "views_label": "1.83K",
       "posted_at": "2026-09-08T05:01:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229819",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.9K",
+      "views_label": "1.93K",
       "posted_at": "2026-09-08T04:47:11+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229818",
@@ -289,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.18K",
+      "views_label": "2.25K",
       "posted_at": "2026-09-08T04:36:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229817",
@@ -317,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.22K",
+      "views_label": "4.26K",
       "posted_at": "2026-09-08T01:29:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229816",
@@ -345,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.86K",
+      "views_label": "3.89K",
       "posted_at": "2026-09-08T01:08:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229815",
@@ -373,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.9K",
+      "views_label": "3.93K",
       "posted_at": "2026-09-08T00:29:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229814",
@@ -401,7 +429,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.04K",
+      "views_label": "4.07K",
       "posted_at": "2026-09-08T00:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229813",
@@ -417,7 +445,7 @@
       "plain_text": "🔺ترامپ: قیمت نفت کاهش خواهد یافت و جمهوری اسلامی به سلاح هسته‌ای دست پیدا نمی‌کند\n\n▪️دونالد ترامپ، رئیس‌جمهوری آمریکا، دوشنبه شب در شبکه اجتماعی تروت‌سوشال نوشت وقتی در جنگ با جمهوری اسلامی ایران «پیروز شویم، قیمت نفت به سرعت کاهش خواهد یافت.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195221.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.98K",
+      "views_label": "4.02K",
       "posted_at": "2026-09-07T23:46:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229812",
@@ -473,7 +501,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.48K",
+      "views_label": "3.52K",
       "posted_at": "2026-09-07T23:33:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229810",
@@ -501,7 +529,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.53K",
+      "views_label": "3.56K",
       "posted_at": "2026-09-07T23:15:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229809",
@@ -2603,34 +2631,6 @@
       "posted_at": "2026-09-07T11:34:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229717",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229716",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "مسئول نمایندگی وزارت خارجه جمهوری اسلامی در هرمزگان مدعی است که امارات متحده عربی در آخرین لحظه و «بدون ارائه دلیل موجه» از خروج شهروندان بازداشت‌شده هرمزگانی جلوگیری کرده است.<br><br>محمد سلیمانی گفت بلیت بازگشت صیادان به بندرعباس صادر شده و همه هماهنگی‌های لازم میان مقام‌های ایرانی و اماراتی انجام شده بود.<br><br>این صیادان اهل شهرستان بندرلنگه‌اند و اواخر مردادماه با ورود به آب‌های امارات بازداشت شده بودند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "مسئول نمایندگی وزارت خارجه جمهوری اسلامی در هرمزگان مدعی است که امارات متحده عربی در آخرین لحظه و «بدون ارائه دلیل موجه» از خروج شهروندان بازداشت‌شده هرمزگانی جلوگیری کرده است.\n\nمحمد سلیمانی گفت بلیت بازگشت صیادان به بندرعباس صادر شده و همه هماهنگی‌های لازم میان مقام‌های ایرانی و اماراتی انجام شده بود.\n\nاین صیادان اهل شهرستان بندرلنگه‌اند و اواخر مردادماه با ورود به آب‌های امارات بازداشت شده بودند.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229716",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/UdTJfevLHvfZdBGeuLcQOLiqPF1S7YnY_AhiSRlnWEcAMyyOiDP7ps04aQPRhijFu9Y0HEVTJ8s20AtachEf5ccA1SFln3NHW5dytYC1qLCrMTI1d4g10NXnVymqNmD6RQAZ7rmK6M2lqr01ns6YXjro9DPQL8BYvjjHke4DT0ghfM_ZqG5QpD8lUP0jbMdpqHnSTdfg3KGghFC99gIoQh9lBMHL1JgBpiTWTlOYw41JecBZZ96pWzogIRlHhtvMS_CtwylUuPKP1ru2xVrmpLOqG_2IHDNG4SyL5LSRjsnq1uoBjpnFmSv72jzRXVlm_mckZXC9m7uHCLR1aR2XIg.jpg",
-          "thumbnail_path": "channels/farsivoa/media/5579f04c0c6c236069014faf.jpg",
-          "thumbnail_sha256": "99246a540792b96cac7479f584ba6ffda3ba5f8e6f7fe4095c879f5810716cea",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.55K",
-      "posted_at": "2026-09-07T11:26:16+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229716",
       "reply": null
     }
   ]
