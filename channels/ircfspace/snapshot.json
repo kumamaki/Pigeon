@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T14:36:45.648Z",
+  "fetched_at": "2026-09-08T14:41:52.981Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -11,6 +11,34 @@
     "subscriber_count": "96.3K"
   },
   "posts": [
+    {
+      "id": "ircfspace/2590",
+      "author_name": "IRCF | اینترنت آزاد برای همه",
+      "author_photo_url": "https://cdn1.telesco.pe/file/RMgoA--2hf-N1YEYDA0RZY5vqAsKwsemiYEgEpWCqXkcRchZcWW-OMfjbqPzh4wuDumtc0i_cPEUIGRwkXAS6KpmHaju4F_wIuErOsxa5RDGzpvd3YeJzrP7ZwpksWOnSfHYXmro5jriJkvl9y0XplngneMP6cOQbR744yJUQn9dFOxluoCo6cAYL-clnTTprQMSuCprmQ2ado7trEAWPB9iOM-9QhzmUrt0yRqbYKRPcWsqmhxng48sRGuFbLXffzc1ypfBNsRisyAnSckF05zqiDNkCDG_TMdHRVymEWh3fBQoMFDYLbiRKHBGKfivxHqWRda2bmeRICcaxqJxcQ.jpg",
+      "author_photo_path": "channels/ircfspace/media/f3cf30c9deec2ba3d1ddeaea.jpg",
+      "author_photo_sha256": "158f2dc02d1e6a05c082153b128dee184884a3f1159a3f635b1a111432f7eabc",
+      "body_html": "سم جدید <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9883.png')\"><b>😃</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E298A0.png')\"><b>☠️</b></i><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴡᴇʙꜱɪᴛᴇ</a> • <a href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴠᴘɴʜᴜʙ</a> • <a href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
+      "plain_text": "سم جدید 😃☠️\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/ircfspace/2590",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/jvUBUfdZDSSUWPXgmylB5ZjTngLidS9ql0Szc19fAHcgi2LLtKpFiyc281ttgN8kWS6ME9hh84c57Urh1pbc1lDYbJopY2vpx1vjF4vKaQpyEIKUhxKtK1igJHR859iaYqt3cHjGxhcALLj3QbqTv7IXRm48ZLdzQmfgwbK-cuTv2PeQl4vJGLLPscQnc9aoYeI4GLWwl3Xe82Xb5rjLLfenjNE0rV-0up1GwOvhr4puM0Px0rx5jLfxGddW7sRZ9BPAoFCfeq2Msb0mPmyyzBaKnOKYji-hUq4gJkskWKGe98G1VaLWyIT-oSIH8tYAScX-bfxScBJMnjdjzYXwmQ.jpg",
+          "thumbnail_path": "channels/ircfspace/media/249c9ea3fae33436f12e888e.jpg",
+          "thumbnail_sha256": "8847e1810b8b75c954b240f27dcf889be1c4f7f03238ec2d811027c0ed5fe6a4",
+          "duration_label": null,
+          "aspect_ratio": 1.7429193899782136
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T14:41:39+00:00",
+      "edited": false,
+      "permalink": "https://t.me/ircfspace/2590",
+      "reply": null
+    },
     {
       "id": "ircfspace/2589",
       "author_name": "IRCF | اینترنت آزاد برای همه",
@@ -35,7 +63,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "102"
+          "count": "127"
         },
         {
           "emoji": "❤",
@@ -43,7 +71,7 @@
         },
         {
           "emoji": "👎",
-          "count": "1"
+          "count": "2"
         },
         {
           "emoji": "😁",
@@ -54,7 +82,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.28K",
+      "views_label": "2.77K",
       "posted_at": "2026-09-08T14:24:46+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2589",
@@ -92,7 +120,7 @@
         },
         {
           "emoji": "👏",
-          "count": "29"
+          "count": "30"
         },
         {
           "emoji": "👍",
@@ -100,14 +128,14 @@
         },
         {
           "emoji": "🤡",
-          "count": "3"
+          "count": "2"
         },
         {
           "emoji": "🔥",
           "count": "1"
         }
       ],
-      "views_label": "5.31K",
+      "views_label": "5.6K",
       "posted_at": "2026-09-08T13:52:25+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2588",
@@ -137,7 +165,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "389"
+          "count": "390"
         },
         {
           "emoji": "🤡",
@@ -172,7 +200,7 @@
           "count": "2"
         }
       ],
-      "views_label": "12.4K",
+      "views_label": "12.5K",
       "posted_at": "2026-09-08T08:11:30+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2587",
@@ -229,7 +257,7 @@
           "count": "2"
         }
       ],
-      "views_label": "18.8K",
+      "views_label": "18.9K",
       "posted_at": "2026-09-07T05:41:19+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2586",
@@ -286,7 +314,7 @@
           "count": "2"
         }
       ],
-      "views_label": "17.6K",
+      "views_label": "17.7K",
       "posted_at": "2026-09-07T05:32:27+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2585",
@@ -335,7 +363,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.9K",
+      "views_label": "16K",
       "posted_at": "2026-09-07T05:23:54+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2584",
@@ -380,7 +408,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.9K",
+      "views_label": "16K",
       "posted_at": "2026-09-07T05:10:20+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2583",
@@ -410,7 +438,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "892"
+          "count": "893"
         },
         {
           "emoji": "🗿",
@@ -577,7 +605,7 @@
         },
         {
           "emoji": "😱",
-          "count": "19"
+          "count": "20"
         },
         {
           "emoji": "👏",
@@ -661,7 +689,7 @@
           "count": "3"
         }
       ],
-      "views_label": "21.9K",
+      "views_label": "22K",
       "posted_at": "2026-09-05T06:27:21+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2578",
@@ -722,7 +750,7 @@
           "count": "1"
         }
       ],
-      "views_label": "26.1K",
+      "views_label": "26.2K",
       "posted_at": "2026-09-03T15:17:25+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2577",
@@ -791,7 +819,7 @@
           "count": "1"
         }
       ],
-      "views_label": "28.6K",
+      "views_label": "28.7K",
       "posted_at": "2026-09-03T14:39:14+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2576",
@@ -885,7 +913,7 @@
           "count": "4"
         }
       ],
-      "views_label": "39.4K",
+      "views_label": "39.5K",
       "posted_at": "2026-08-30T08:22:53+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2574",
@@ -5652,59 +5680,6 @@
       "posted_at": "2026-07-14T04:38:33+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2490",
-      "reply": null
-    },
-    {
-      "id": "ircfspace/2489",
-      "author_name": "IRCF | اینترنت آزاد برای همه",
-      "author_photo_url": "https://cdn1.telesco.pe/file/lo4zSJZ_BOW-28MfMeOzDUZgBX6g4rBBAttlZVZzqi7Lw9EDWGX_WjDNcrFhrjAiaTIvwoyayp9r0t9LCizl3nKXGQ0GaYwOLmX4JgEDbHwmrMPL2p5gR0m2diNjVjqSPus_PvkW6_ugXBw7oYlTNxAn7jWoEA3Qnbz_GR6q3kPll8_3gcVZiZB8UjEjZaEo6sJMAlmjl9bQ_MJ5xUcs5KoGNxXy8mkV-hK7q6sE4xe2uTvWGGd0OwCOsL9ZRpMelVlVSp_maAzP8JwcPZiRm4obFEdQQ7-xW04jVnr9eIPTiZ_W6g31yjhastWm75t1ItQ4U0XEO6esbTQuTf5KBg.jpg",
-      "author_photo_path": "channels/ircfspace/media/bb54e6fd629aee189915c0e9.jpg",
-      "author_photo_sha256": "158f2dc02d1e6a05c082153b128dee184884a3f1159a3f635b1a111432f7eabc",
-      "body_html": "به یکی از شرکت‌هایی که API می‌دهند مشاوره مارکتینگ می‌دادم. چند راهکار برای کاهش هزینه جذب مشتری یا CAC گفتم، ولی تاکید داشتند که باید API‌ رایگان هم بدهند. پرسیدم چرا؟‌ خیلی راحت گفت: چون رایگان است، طبق شرایط Privacy &amp; Policy تمام پرامپت‌ها و داده‌ها و خروجی را می‌خوانیم و ذخیره می‌کنیم. فکر کردم شوخی می‌کنند. بعدا دیدم نه. جدی است. <a href=\"https://x.com/AdelTalebi/status/2076386529413370355\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">(...)</a><br>مواظب باشید، لااقل اطلاعات حسابداری و مالی و مارکتینگ و اکسل فروش و لیست مشتریانتان را به این API رایگان‌ها یا این سرویس‌های هوش مصنوعی حتی پولی که در ایران هست، نمی‌گویم ندهید، می‌گویم دقت کنید.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/C2A9.png')\"><b>©</b></i> AdelTalebi<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴡᴇʙꜱɪᴛᴇ</a> • <a href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴠᴘɴʜᴜʙ</a> • <a href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
-      "plain_text": "به یکی از شرکت‌هایی که API می‌دهند مشاوره مارکتینگ می‌دادم. چند راهکار برای کاهش هزینه جذب مشتری یا CAC گفتم، ولی تاکید داشتند که باید API‌ رایگان هم بدهند. پرسیدم چرا؟‌ خیلی راحت گفت: چون رایگان است، طبق شرایط Privacy & Policy تمام پرامپت‌ها و داده‌ها و خروجی را می‌خوانیم و ذخیره می‌کنیم. فکر کردم شوخی می‌کنند. بعدا دیدم نه. جدی است. (...)\nمواظب باشید، لااقل اطلاعات حسابداری و مالی و مارکتینگ و اکسل فروش و لیست مشتریانتان را به این API رایگان‌ها یا این سرویس‌های هوش مصنوعی حتی پولی که در ایران هست، نمی‌گویم ندهید، می‌گویم دقت کنید.\n\n© AdelTalebi\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/ircfspace/2489",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/dtqiO5_dvN0aCPdhyCUb--ngPdS5htKEbXdRDxkOjwpThWP5WfPoF3d2NeA6uNTk_D15i6X03Zsw3JM3b_JbJev9x6VLlq-Qq1afsYf6Jmm8rfCfgj-lduK-HaFJjlKx7bO6soCynMYCi86rMGuPrvTmnO_bFlE0u-Uq0cRoTIRcSZEApzKvw1UuTxv0S-1mMTi03OQsMid0xNvdb50onrOpTe7WndbnV3dRE5Ps_wy4xxQtKozndBi81M04snCOSVnYQc4IovHV7WKNE_XzSs3Z_sI579O8hUBCRSRRtctB_A8JdTApgY_4rSMmP5K6QWQ3h3s3Bjs-rFGxWckcuw.jpg",
-          "thumbnail_path": "channels/ircfspace/media/5e4ee10259ef9fb7e85fd6e8.jpg",
-          "thumbnail_sha256": "ea66b4b5e3cd532e25c10570471f4e843de8a12bbafddbef016c696f98f13af5",
-          "duration_label": null,
-          "aspect_ratio": 1.6326530612244898
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "153"
-        },
-        {
-          "emoji": "👍",
-          "count": "69"
-        },
-        {
-          "emoji": "😱",
-          "count": "17"
-        },
-        {
-          "emoji": "🤬",
-          "count": "7"
-        },
-        {
-          "emoji": "😐",
-          "count": "3"
-        },
-        {
-          "emoji": "🗿",
-          "count": "1"
-        }
-      ],
-      "views_label": "31.5K",
-      "posted_at": "2026-07-14T04:28:30+00:00",
-      "edited": true,
-      "permalink": "https://t.me/ircfspace/2489",
       "reply": null
     }
   ]
