@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T00:47:07.781Z",
+  "fetched_at": "2026-09-08T00:52:13.429Z",
   "channel": {
     "username": "vahidonline",
     "title": "Vahid Online وحید آنلاین",
@@ -121,7 +121,7 @@
       "plain_text": "",
       "media": [],
       "reactions": [],
-      "views_label": "356K",
+      "views_label": "357K",
       "posted_at": "2026-09-06T18:52:48+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78260",
@@ -381,8 +381,8 @@
           "asset_url": "https://t.me/VahidOnline/78248",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/kZHZgp0Mg2ITAa1KwSLFHPQpMiC1BSo3TO2sNKNdU9f8UShcfl1AfY1RnhBtGgVveyPlz-M5Vmsy7ZwigG2JCiXQguTmzHwDxgb9hS7F0N_xkMommTxJ9klnsfSAq3RfgS2umvBXH2anIVCSRVaW5paXIRwHvWze-3BH_sLgpyD5YFYVqQJ1gPRFgKu09ueQp-ZdfQ8GnYxSiYs2ohkEoQF6cRuDSglvA1AijYLbduoRIdU-tcO4PaajuUZ6Go_eD2LGmYws8qV9-QTzX17ymxlormnsXA_T3UWjeO8TrGesJuOrULcbGPVjXaT1zSiMsuEte14Ye4B3LCmvX-OVcw",
-          "thumbnail_path": "channels/vahidonline/media/a9e857825a63190ef94bf0f8.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/PAk42qI1RHxdYkEOFRyXPCQMBInByslX4qA48w3WemqT4Tg6cRHsoh2AGh3A3YA3-YBUala2J_d81p5GwTIpmMXaoobzV8Yyy1w4uChavbj095gc62aintTbkdIfo2AilA4roCOD4lyh4v8JEVfydHfdoZH1iO9uuCd8LSwaKwb7aFfIWggRkV8pUfn_xkHQjOQkP06LpNnJTm-y-JYIE14XOYAyrM0WwlLnClgEadcblC7MFgNdpG6QKtqk7BCelpKrYUmYK5z5HoI2S-1ynWOG-fnqR0FNxMYo8w6BmA5P443f55AfZ_ZVeMyCdJulQwVPXbb9qCpf7at4xj67RA",
+          "thumbnail_path": "channels/vahidonline/media/72a08a328918e7062648d00f.jpg",
           "thumbnail_sha256": "76d3d1544bfe65ac67d344bf9c450807d971453953ff700f83855a4a6ebe5bcb",
           "duration_label": "0:16",
           "aspect_ratio": 1.7777777777777777
