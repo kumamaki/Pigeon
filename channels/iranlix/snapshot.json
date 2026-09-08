@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T21:08:04.824Z",
+  "fetched_at": "2026-09-08T21:12:00.040Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12738",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l_9ufMfFpJ25r_afGsqRdLe1TBpEdGtQubrLV3heTp0xaKy_3bOMj2CgWrdIc1UpDv6BDR1CUz7LUOwlbGt6cwYajWQXJCUkSLc4mDg8KVE14zTZ9LwGvkwqm71diFwCbH2nViIRdsbm6NTEHx-FPiGHK2If0glqgKIwFN6E3fpPfXG4L5B_8u0lF9SlI9JysGs-RP3ETL5mlmlmj6cRJFK1sNdtj7tP4DYND499o8XinHXPyv-COryBv7foYUzrzsqsk-AuzXwXdGL2-S-fyV30ffZpU_JFFsxZW8baXEnEFumOwn_VcgVB9V_D4tzEEogyHXtPWDrMkW0xK7JN9Q.jpg",
+      "author_photo_path": "channels/iranlix/media/cea36268eb0d26be31369b06.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>آسوشیتدپرس:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>آمریکا و کشورهای E3 (بریتانیا، فرانسه و آلمان) رسماً قطعنامه خود علیه ج.ا را اواخر بعدازظهر امروز به شورای حکام آژانس بین‌ المللی انرژی اتمی ارائه کردند.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "♦️آسوشیتدپرس:\n\n🔺آمریکا و کشورهای E3 (بریتانیا، فرانسه و آلمان) رسماً قطعنامه خود علیه ج.ا را اواخر بعدازظهر امروز به شورای حکام آژانس بین‌ المللی انرژی اتمی ارائه کردند.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/12738",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/a-X1K3rEed_HqzMvtCRVE-VrfCWafo8vF9p4qxLTq1gF3LMFhvtjUhXqvMziz_LOxbbY77n6ztTdciSThaQCWlSBeR9vkiNkt_WOQ1qayWwSNawSZg9lj1SFdgDNc-sMmoc9Hj9vR7VFyEH0VFwCx6sab8ewdB7K9bce0Jx7pRi23fHibn_TZcY_PkJAcTwFRyX6uV9XNJxGbdtQyO3bHmVnGugUEVRt6ynOTkqyT_mU3HxIIkjfWsXbZuOxGng7d-V8NVnzqCwxmg7L3yVlr3_kcrHlgto4mh6MgxQE0MmXX5kUkratCrdvRGddY24OZyPytCQjXu0s8ii2WnAdLA.jpg",
+          "thumbnail_path": "channels/iranlix/media/9df7e984f5fcde43bcefff4a.jpg",
+          "thumbnail_sha256": "758de3ea73c4e5d0b3642eb80ad0f75c1e4dd09f9e29684b9549f0f2f399774a",
+          "duration_label": null,
+          "aspect_ratio": 1.6842105263157894
+        }
+      ],
+      "reactions": [],
+      "views_label": "79",
+      "posted_at": "2026-09-08T21:09:48+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12738",
+      "reply": null
+    },
     {
       "id": "iranlix/12736",
       "author_name": "ایرانلیکس",
@@ -44,7 +72,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "42",
+      "views_label": "155",
       "posted_at": "2026-09-08T21:06:15+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12736",
@@ -72,7 +100,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "473",
+      "views_label": "524",
       "posted_at": "2026-09-08T20:25:01+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12735",
@@ -100,7 +128,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "505",
+      "views_label": "549",
       "posted_at": "2026-09-08T20:21:03+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12734",
@@ -128,7 +156,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "642",
+      "views_label": "674",
       "posted_at": "2026-09-08T20:02:02+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12733",
@@ -156,7 +184,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "802",
+      "views_label": "828",
       "posted_at": "2026-09-08T19:35:49+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12732",
@@ -184,7 +212,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "861",
+      "views_label": "886",
       "posted_at": "2026-09-08T19:25:57+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12731",
@@ -212,7 +240,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "876",
+      "views_label": "895",
       "posted_at": "2026-09-08T19:14:41+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12730",
@@ -240,7 +268,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "868",
+      "views_label": "885",
       "posted_at": "2026-09-08T19:11:49+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12729",
@@ -268,7 +296,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "861",
+      "views_label": "877",
       "posted_at": "2026-09-08T19:09:21+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12728",
@@ -307,7 +335,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "831",
+      "views_label": "846",
       "posted_at": "2026-09-08T18:54:23+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12726",
@@ -335,7 +363,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "908",
+      "views_label": "923",
       "posted_at": "2026-09-08T18:40:45+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12725",
@@ -372,7 +400,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "966",
+      "views_label": "985",
       "posted_at": "2026-09-08T18:20:53+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12724",
@@ -400,7 +428,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.11K",
+      "views_label": "1.12K",
       "posted_at": "2026-09-08T17:10:24+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12723",
@@ -428,7 +456,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.09K",
+      "views_label": "1.11K",
       "posted_at": "2026-09-08T16:56:34+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12722",
@@ -456,7 +484,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.07K",
+      "views_label": "1.08K",
       "posted_at": "2026-09-08T16:35:52+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12721",
@@ -484,7 +512,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1K",
+      "views_label": "1.01K",
       "posted_at": "2026-09-08T16:34:09+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12720",
@@ -512,7 +540,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.05K",
+      "views_label": "1.06K",
       "posted_at": "2026-09-08T16:13:45+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12719",
@@ -2955,34 +2983,6 @@
       "posted_at": "2026-09-06T13:04:20+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12627",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12626",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/P6wlknCu4KydGDASnYIJkSL42jXufROUjwRrm01v7d51p3YBEx4rkQqYs2krFRd4LHxq08mmEy2TgCu4J08n1ZSq4paFfXykL6OUFFjnmHtPmJBtBzfKlwmoLApVk-hNCwoL_o5_BhnH1XV2kRj1D9AC6GrktP5S1x_N6bbjtspXBjUWiGZM-RyGHabxIzRLAK0ahjPnDYjTX3GkA8zCiRKYeBgBZ2IZIJafC1T4hqw3d7cILAqS-xr4k_jJzzVdlQM_10wXECCBz6Ghjgv3P7yq1mMYdKuv0PT6kTc0TA6UOTJAVRnZgMZXVG41AUnWWGzcvDjcbkzyxVcxRpZqtg.jpg",
-      "author_photo_path": "channels/iranlix/media/140d7098768bcd69ed55b2fa.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AEF09F87B1.png')\"><b>🇮🇱</b></i><b>ارتش اسرائیل (IDF) اعلام کرد که امروز صبح، در پاسخ به حمله پهپادی به نیروهای اسرائیلی در منطقه \"علی طاهر\"، حملات هوایی را علیه اعضای حزب‌الله و زیرساخت‌های آن در جنوب لبنان انجام داده است.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🇮🇱ارتش اسرائیل (IDF) اعلام کرد که امروز صبح، در پاسخ به حمله پهپادی به نیروهای اسرائیلی در منطقه \"علی طاهر\"، حملات هوایی را علیه اعضای حزب‌الله و زیرساخت‌های آن در جنوب لبنان انجام داده است.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/iranlix/12626",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/tfBvB96nl4Yra82Grq16ndCk3Rjg85Gav9hHV2T2gnSEago6ildEs3MZAw6j21SpWKXZyw47fLvd7FD5cvOwsI_SyctqhGSfVb_bBqqRPHBtij1bO6C5t37c311bgU2yO0LKVKE22xZqWdaz7vV6_B-zt29AuloAUtJsMvfbkL3FVs-p7MkJfcWIf1G6my6EVW3doSo8uDQz-prQ9yhZXP8k8Aaqod8q9IdGoUSn6BKLI1ffXd5OYK8KKKct8Q3dIdGrOgbphaVJ2XQwGIO-5oOzsvEsSVClz1fxnskT3w1LniMx8WZ9Uhvk5KZ91MhmZ4Wgx7nyMCAYNrGY1lSSsg",
-          "thumbnail_path": "channels/iranlix/media/fdde8852d6319ca7f124c51f.jpg",
-          "thumbnail_sha256": "f2061bc1a0c527ed59b7844c7c4edd2290fb0002a824ed71a85b816c246ac181",
-          "duration_label": "0:15",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.06K",
-      "posted_at": "2026-09-06T11:41:51+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12626",
       "reply": null
     }
   ]
