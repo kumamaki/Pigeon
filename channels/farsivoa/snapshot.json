@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T15:47:25.715Z",
+  "fetched_at": "2026-09-08T15:51:41.917Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229874",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "ریک اسکات می‌گوید ترکیه دوست آمریکا نیست",
+      "plain_text": "ریک اسکات می‌گوید ترکیه دوست آمریکا نیست",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229874",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/OVR059IVqk7scp8P84BVz3A5u8LzRydIw6yJ1fN7fiKp71ALH-XvzrF0zFF3EqxHAwPgwWu_hPwyQrB4WAv0qnn9ik7W3bg79e6iU1ZS9JNPBhRvmPelqMLwj3kW0WXUATSyWlMCQtScQxtbr2YXBjE63g64B-b4yPtARdtXDw5VdGY0_fUESZsoA8gi6ZPuzk7LRD_-okY5lBBEySE7JQqkhoEzrrPgnNXZSVKyG2yRck1SAQfQOGmST0WZJDl_bhvydUKsvddgm7JBOE4q7s0OoUpnzCgCsDkGhSwDDWuyWID-e34vHcoO0tSMe32dpl5gjrwKNhoO-VWTGhFnGw",
+          "thumbnail_path": "channels/farsivoa/media/7a44fcb452fd35a3c101f366.jpg",
+          "thumbnail_sha256": "8dc5a33abb4b5dcab052943e14823e64128d5732056d7c6b49b09b76c16fc39d",
+          "duration_label": "3:37",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T15:51:04+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229874",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229873",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺دو تن از نزدیکان جان‌باختگان اعتراضات دی ۱۴۰۴ به زندگی خود پایان دادند\n\n▪️گزارش‌های منتشرشده توسط چند رسانه و منبع حقوق بشری حاکی است دانیال کریمی، پدر امیرمحمد کریمی، از جان‌باختگان اعتراضات دی‌ ۱۴۰۴، و آیدا حیدری، نامزد ابوالفضل سلیمانی الموتی، یکی دیگر از جان‌باختگان این اعتراضات، به زندگی خود پایان داده‌اند؛ رخدادهایی که در ادامه گزارش‌ها درباره پیامدهای سنگین سرکوب معترضان و فشار بر خانواده‌های دادخواه منتشر می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/two-bereaved-relatives-die/8195553.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "425",
+      "views_label": "615",
       "posted_at": "2026-09-08T15:38:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229873",
@@ -37,7 +65,7 @@
       "plain_text": "🔺آمریکا ده‌ها شرکت و نهاد مرتبط با هوانوردی جمهوری اسلامی را تحریم کرد\n\n▪️دفتر کنترل دارایی‌های خارجی وزارت خزانه‌داری ایالات متحده آمریکا «اوفک» در چارچوب «عملیات طرد اقتصادی» ۳۶ نهاد، از جمله ۲۷ شرکت هواپیمایی جمهوری اسلامی، را به دلیل حمایت از بخش هوانوردی ایران - که حکومت ایران از آن برای جابه‌جایی تسلیحات، پرسنل، و محموله‌های غیرقانونی استفاده می‌کند - تحریم کرد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/ofac-iranian-regime-aviation-sanctions/8195557.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "581",
+      "views_label": "737",
       "posted_at": "2026-09-08T15:34:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229872",
@@ -65,7 +93,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "756",
+      "views_label": "851",
       "posted_at": "2026-09-08T15:27:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229871",
@@ -93,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "849",
+      "views_label": "945",
       "posted_at": "2026-09-08T15:25:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229870",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.37K",
+      "views_label": "1.46K",
       "posted_at": "2026-09-08T15:09:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229869",
@@ -149,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.56K",
+      "views_label": "1.62K",
       "posted_at": "2026-09-08T14:57:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229868",
@@ -165,7 +193,7 @@
       "plain_text": "🔺وزیران خارجه کشورهای عربی حملات منطقه‌ای جمهوری اسلامی را محکوم کردند\n\n▪️وزیران امور خارجه کشورهای عربی با محکوم کردن حملات جمهوری اسلامی به کشورهای منطقه، بر حق دفاع فردی و جمعی در برابر این حملات تأکید کردند و خواستار بازگشایی فوری و بدون قید و شرط تنگه هرمز و تضمین آزادی کشتیرانی در آبراه‌های منطقه شدند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/arab-league-foreign-ministers-cairo/8195540.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.74K",
+      "views_label": "1.77K",
       "posted_at": "2026-09-08T14:46:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229867",
@@ -193,7 +221,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.83K",
+      "views_label": "1.86K",
       "posted_at": "2026-09-08T14:36:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229866",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.96K",
+      "views_label": "2K",
       "posted_at": "2026-09-08T14:28:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229865",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.03K",
+      "views_label": "2.06K",
       "posted_at": "2026-09-08T14:20:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229864",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.25K",
+      "views_label": "2.31K",
       "posted_at": "2026-09-08T14:07:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229863",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.38K",
+      "views_label": "2.41K",
       "posted_at": "2026-09-08T14:00:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229862",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.35K",
+      "views_label": "2.39K",
       "posted_at": "2026-09-08T13:32:59+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229860",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.38K",
+      "views_label": "2.41K",
       "posted_at": "2026-09-08T13:20:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229859",
@@ -449,7 +477,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.28K",
+      "views_label": "2.31K",
       "posted_at": "2026-09-08T13:05:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229856",
@@ -477,7 +505,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.15K",
+      "views_label": "2.18K",
       "posted_at": "2026-09-08T13:03:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229855",
@@ -2538,22 +2566,6 @@
       "posted_at": "2026-09-07T17:24:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229772",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229771",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>تاکید خانواده‌های دادخواه بر «تقابل و انتقام»: نه می‌بخشیم و نه فراموش می‌کنیم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>حکومت جمهوری اسلامی در آستانه چهارمین سالگرد کشته‌شدن مهسا امینی در بازداشت گشت ارشاد و آغاز اعتراضات بزرگ مردمی در ایران، فشار بر خانواده‌های دادخواه سال‌های اخیر را افزایش داده، دادخواهان نیز در مقابل با انتشار ویدیو در فضای مجازی، بر تقابل و انتقام تاکید می‌کنند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/iran-human-rights-arrest-detention-execution/8195104.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/iran-human-rights-arrest-detention-execution/8195104.html/?nocach=1</a>",
-      "plain_text": "🔺تاکید خانواده‌های دادخواه بر «تقابل و انتقام»: نه می‌بخشیم و نه فراموش می‌کنیم\n\n▪️حکومت جمهوری اسلامی در آستانه چهارمین سالگرد کشته‌شدن مهسا امینی در بازداشت گشت ارشاد و آغاز اعتراضات بزرگ مردمی در ایران، فشار بر خانواده‌های دادخواه سال‌های اخیر را افزایش داده، دادخواهان نیز در مقابل با انتشار ویدیو در فضای مجازی، بر تقابل و انتقام تاکید می‌کنند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-human-rights-arrest-detention-execution/8195104.html/?nocach=1",
-      "media": [],
-      "reactions": [],
-      "views_label": "2.55K",
-      "posted_at": "2026-09-07T17:13:54+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229771",
       "reply": null
     }
   ]
