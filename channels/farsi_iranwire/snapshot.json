@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T08:02:12.832Z",
+  "fetched_at": "2026-09-08T08:08:22.319Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93471",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Xp1GPjZY4ATloWqym-TkX3n9GYZxWlsZ1JtO4D0neLIWJRuH5wpmbTqs7uCbifzSxmrRAvB4RkQfdU7HCHg5ZE0qJtxdyyg8uwCTr7BFtLRcRte9trFF1imaWTJHRLFCw-X6Q0R2s4gfHibpcPDDqN-O7C-Sip6L5LU3Z2EhTU6d0TOKSgGv2s55eTjDoHnQvCOdmy9lqr40HjmQlQo2zI-H45ezXn7GynL2iQ_JqHbx3G-llmnGay-lX4jOrCLEKVrCnCiMz-GMVGehcWuLYj-lGPFR3ApxgpnjnktzRoSJSY9yrR0I5lAuE0M1bKFShaKBpqnjajGbZEDVTv8FwQ.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a45e25b72ade524afd0808f4.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "جمهوری اسلامی از بامداد سه‌شنبه ۱۷ شهریور ۱۴۰۵ نرخ بنزین مصرفی مازاد بر سهمیه ماهانه را دو برابر کرد. هم‌زمان گزارش‌ها از استقرار نیروهای انتظامی با لباس رسمی و نیروهای لباس‌شخصی در اطراف شماری از جایگاه‌های سوخت حکایت دارند.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157309\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157309</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "جمهوری اسلامی از بامداد سه‌شنبه ۱۷ شهریور ۱۴۰۵ نرخ بنزین مصرفی مازاد بر سهمیه ماهانه را دو برابر کرد. هم‌زمان گزارش‌ها از استقرار نیروهای انتظامی با لباس رسمی و نیروهای لباس‌شخصی در اطراف شماری از جایگاه‌های سوخت حکایت دارند.\nبخوانید: https://iranwire.com/fa/news-1/157309\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93471",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/IEwQpuZcQ9mnmiVY7y10qt-Zv4e1BmcPgZGr4F7SkJU8VHsgVjTqdua0W3SZIhP3DSwuTrlbO4zgCakZnY1VtbcwbVPxdCbe61gywe00g-mfXk7V6rOtd5NmMyzj2RXNn7YaLfB1WXZUEKHFRXgOL2GxCKQQVkl4Tzs1Dzh7cFeifUVw-1q3E4EBZ0XFvU0SZmpglolnyzBCUhhV9Zb_CQ8Z3tWg7jvkV-4eXMikWb99zQ9v8kxUmSA60l8YdWtEehyF_P74-EaTjjRBtsfN9_SfImaQeXGzKd5fjOL9QOCqEzS8pv9zU-2-9cTYaiBkO88N_1_o2znSyz9QKtHk7w.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/8b12725a82fedc520da45edf.jpg",
+          "thumbnail_sha256": "1936eaa27bccce639722883f234e1057a3951771471f9f81b8f07a90e51fe6ee",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "98",
+      "posted_at": "2026-09-08T08:02:19+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93471",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93470",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "111",
+      "views_label": "176",
       "posted_at": "2026-09-08T07:54:35+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93470",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.52K",
+      "views_label": "1.54K",
       "posted_at": "2026-09-07T21:09:13+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93469",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.48K",
+      "views_label": "1.5K",
       "posted_at": "2026-09-07T20:57:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93468",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.74K",
+      "views_label": "1.75K",
       "posted_at": "2026-09-07T19:17:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93465",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.28K",
+      "views_label": "1.29K",
       "posted_at": "2026-09-07T18:30:58+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93462",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.34K",
+      "views_label": "1.35K",
       "posted_at": "2026-09-07T17:21:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93460",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.44K",
+      "views_label": "1.45K",
       "posted_at": "2026-09-07T14:58:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93456",
@@ -509,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.19K",
+      "views_label": "1.2K",
       "posted_at": "2026-09-07T13:56:59+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93451",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-05T07:57:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93369",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93368",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EmUP9mB5rt_E-ktfi7gsZJiU2Vg2Igy7ZYPwCUj5ZBNBwKSs_5STWybgkDUrOJ8Mf21eZIyZX1Az3KyjeThtIqmK00XzVEbMQyr4Rtqm3BijZmsPdRtLDWb7uCAuOYVGfriyYjsEeD9-i5W2gDSuIa3DhMv1wA1h89ViwCSNAsbSBBXCFCCpRLzR03zsSwFJpI2uSI2Ypew-4R4EEINKuBXLsu1m9siY-A0_Db8j3HxwgV0GuSEPB4zv5KfCaNPxjp4EaKGdI-IcXaIBcqZoOpDe26XPYVEQJMiRoikQH4QRpuY3i_p41FKCMmJLQel9Vz2g8emShtFRNit2tEGUQw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/c769a9c378fcf30292902ce1.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "شهرام کرمی، نمایشنامه‌نویس و مدیر فرهنگسرای ارسباران، به‌دلیل حضور شماری از هنرمندان زن بدون حجاب اجباری در مراسم بزرگداشت بهرام شاه‌محمدلو از ریاست این فرهنگسرا برکنار شده است.<br>در مراسم «شب شعر و موسیقی کانون زمستان» هنرمندان زنی از جمله احترام برومند، مجری تلویزیون و بازیگر همچنین لیلی رشیدی، بازیگر سینما و تئاتر، حضور داشتند. این مراسم روز جمعه ۶ شهریور ۱۴۰۵ با حضور گروهی از هنرمندان در فرهنگسرای ارسباران تهران برگزار شد. <br><br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157179\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157179</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "شهرام کرمی، نمایشنامه‌نویس و مدیر فرهنگسرای ارسباران، به‌دلیل حضور شماری از هنرمندان زن بدون حجاب اجباری در مراسم بزرگداشت بهرام شاه‌محمدلو از ریاست این فرهنگسرا برکنار شده است.\nدر مراسم «شب شعر و موسیقی کانون زمستان» هنرمندان زنی از جمله احترام برومند، مجری تلویزیون و بازیگر همچنین لیلی رشیدی، بازیگر سینما و تئاتر، حضور داشتند. این مراسم روز جمعه ۶ شهریور ۱۴۰۵ با حضور گروهی از هنرمندان در فرهنگسرای ارسباران تهران برگزار شد.\n\nبخوانید: https://iranwire.com/fa/news-1/157179\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93368",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/DVPD4P-yeUAELUJ0IhL7fKfHr9R_JB2EXLrVyGFpjLUHHZppnmhMhU8kn5yvMXV33WibZI7RCmvQfLPBd82wY340H2rMxFI6jQC5uXLjPbCGnVtO7_RNsUKo5itOlB5b-BFm7TbHzG5cHGftBUJxISho8i2uGn_mgXlMa0elB1u0XIEUlzu8gB8AK1e9i8CEuIjj2XZBnkKBXJqWyjGCo8N42jEdrcVunk1iLQoscT6UlRwmQtfBHqDSdpQH3xrm7zKhT_wGUUVHVNRCwmsUWOG_3WuDzTCqcGvGsATk7JhPwEuModPL6y1WsjBIaH6x3b2OAd_TJ5oSivpzcT9fHA.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/0b6f3910578de5b490044d4e.jpg",
-          "thumbnail_sha256": "a3a1f9090a04000b69228d2560d80b30298dbe6f0c3d906f331d4229d69806cd",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.03K",
-      "posted_at": "2026-09-05T07:46:54+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93368",
       "reply": null
     }
   ]

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T08:02:19.621Z",
+  "fetched_at": "2026-09-08T08:08:28.806Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "sahamnewsorg/147155",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/FKF1cckJAUtPCvrEDvhdUz7NZYvAf1EHIJitsyRN8VE6idlFJSlSu2K2xwDGVxKifuLkRZo545Eqoc49ZLmPoSTyOLoyCKDmEN3g4SAk_F1iRgeiTdyhFUQAMgLZ_i79FYzHGzdPVDjFbMrSBqkn52UyYzaCp3ckUiaqX6ED8F0x46VghW61EdReQFxfqL1FfFJD5tD1JPbY4-VlLtyHG_j1T88K3wFHTxO0-qIYXcQF7V695Ey_HoDkfis8UETFy0hyQ9WdEneqSKbA4wd5fYVnHLYawYY5EhbuuZ_X_366M-abZdl4zvZZQgVaE4H3IDNMUExb2Ss8l2_ckTXB3A.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/bf7f0b170836be3cfa34280a.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>پرچم به دست های خیابونی دیشب در خیابونی برای مجتبی خامنه ای تولد گرفتن:(<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>بعد از ۶ ماه غیبت هنوز عکس، فیلم و صوتی از مجتبی منتشر نشده است<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅پرچم به دست های خیابونی دیشب در خیابونی برای مجتبی خامنه ای تولد گرفتن:(\n\n🔻بعد از ۶ ماه غیبت هنوز عکس، فیلم و صوتی از مجتبی منتشر نشده است\n\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/sahamnewsorg/147155",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/DFZtwLFaVivsLrN9GJ4IlLTFEiqPRsZNbPL6m7cMULZTV2LLdZ8oGbI6Tcfxp1Q7uLzXPgm-sC5RBHiTlCEvQH-NMJfeBsTomrSmnQkuvN-3-JlO_Bt7TLUQ-jr8xWRXAjeGwc_Nvi8LXKZhpf0H-DK6wxDpfcZuYW3Wh2TZAMixGGU9tabkL3pvgEWiRefuqvnFS7-5Fds74RqA68jZV7LwJ02w93Da4BOXkueq7VmtTdG1xItzvLd3rfAxhg-oV61tCUiUJQcdr-MpB4v9YPy5s6js3HtLdypZIQUFv6rDR_OkJTTv_CO3zvrSLJ2LEN5nsLpmzuqIZ8v0upO_xQ",
+          "thumbnail_path": "channels/sahamnewsorg/media/f5c6d449e8674a8ba5a8949a.jpg",
+          "thumbnail_sha256": "b4630236fd0375c4c3f29cc5224e49e9d30f3f91142f02f143a4c06ceb89d569",
+          "duration_label": "0:19",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.45K",
+      "posted_at": "2026-09-08T08:03:50+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147155",
+      "reply": null
+    },
+    {
       "id": "sahamnewsorg/147154",
       "author_name": "سهام نیوز",
       "author_photo_url": "https://cdn1.telesco.pe/file/FKF1cckJAUtPCvrEDvhdUz7NZYvAf1EHIJitsyRN8VE6idlFJSlSu2K2xwDGVxKifuLkRZo545Eqoc49ZLmPoSTyOLoyCKDmEN3g4SAk_F1iRgeiTdyhFUQAMgLZ_i79FYzHGzdPVDjFbMrSBqkn52UyYzaCp3ckUiaqX6ED8F0x46VghW61EdReQFxfqL1FfFJD5tD1JPbY4-VlLtyHG_j1T88K3wFHTxO0-qIYXcQF7V695Ey_HoDkfis8UETFy0hyQ9WdEneqSKbA4wd5fYVnHLYawYY5EhbuuZ_X_366M-abZdl4zvZZQgVaE4H3IDNMUExb2Ss8l2_ckTXB3A.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "✅سخنگوی قوه‌قضائیه: محمدباقر خرازی در بازداشت است و پرونده‌اش هنوز به مرحلهٔ صدور کیفرخواست و حکم نرسیده است.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "2.16K",
+      "views_label": "4.61K",
       "posted_at": "2026-09-08T07:58:22+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147154",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7.43K",
+      "views_label": "9.28K",
       "posted_at": "2026-09-08T07:41:58+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147153",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "52K",
+      "views_label": "52.6K",
       "posted_at": "2026-09-07T23:00:09+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147152",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "48.3K",
+      "views_label": "48.6K",
       "posted_at": "2026-09-07T22:43:56+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147151",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "53.2K",
+      "views_label": "53.5K",
       "posted_at": "2026-09-07T21:57:57+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147150",
@@ -149,7 +177,7 @@
       "plain_text": "✅وزیر دفاع یمن: تصمیم برای تصرف صنعا و دیگر استان‌های تحت کنترل حوثی‌ها گرفته شده است.\n\nاو گفت: «آماده‌سازی‌ها با تمام سرعت در حال انجام است. غافلگیری‌هایی وجود دارد که فعلاً فاش نمی‌کنیم، اما در آینده‌ای نزدیک شاهد تحرکات میدانی خواهیم بود.»\n\nالصبری حوثی‌ها را مسئول آغاز جنگ دانست و گفت نبرد برای بازگرداندن دولت و جمهوری و آزادسازی تمامی خاک یمن ادامه دارد.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "50.2K",
+      "views_label": "50.5K",
       "posted_at": "2026-09-07T21:42:26+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147149",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "54.3K",
+      "views_label": "54.7K",
       "posted_at": "2026-09-07T20:54:25+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147148",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "53.7K",
+      "views_label": "54K",
       "posted_at": "2026-09-07T20:42:17+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147147",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "51.1K",
+      "views_label": "51.5K",
       "posted_at": "2026-09-07T20:36:29+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147146",
@@ -295,7 +323,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50.4K",
+      "views_label": "50.7K",
       "posted_at": "2026-09-07T20:29:08+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147144",
@@ -323,7 +351,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "51K",
+      "views_label": "51.3K",
       "posted_at": "2026-09-07T19:58:40+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147143",
@@ -339,7 +367,7 @@
       "plain_text": "✅چرا اخبار یمن مهمه؟\n\nچون اگه کنترل حوثی‌ها از جنوب غربی یمن که مسلط به تنگه باب المندب هست برداشته بشه کار برای صادرات نفت عربستان بدون نیاز به تنگه هرمز راحت میشه و دیگه چالشی از این بابت وجود نداره و کارت تنگه هرمز برای ایران کمرنگ میشه\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "53.1K",
+      "views_label": "53.4K",
       "posted_at": "2026-09-07T19:41:42+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147142",
@@ -364,7 +392,7 @@
       "plain_text": "✅طارق صالح، عضو شورای رهبری یمن:\nحملات زمینی و هوایی را در تمام جبهه های شمال، شرق و جنوب یمن بر علیه حوثی ها آغاز کردیم\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "52.9K",
+      "views_label": "53.2K",
       "posted_at": "2026-09-07T19:35:34+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147141",
@@ -392,7 +420,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "53.9K",
+      "views_label": "54.2K",
       "posted_at": "2026-09-07T19:25:22+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147140",
@@ -420,7 +448,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "55K",
+      "views_label": "55.3K",
       "posted_at": "2026-09-07T19:17:16+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147139",
@@ -448,7 +476,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "60.7K",
+      "views_label": "61K",
       "posted_at": "2026-09-07T18:47:26+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147138",
@@ -2351,34 +2379,6 @@
       "posted_at": "2026-09-05T19:47:00+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147055",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147054",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/SOVULoyiTPdbKkdDtb14ex7CCIYiKd0E3IQ_pAwzpszpYjPlbgmGHJk-U2NgxOC3Stk9AJoczLETdelSlC93P4CeM9v2Zqfx9kWDAZFQ16u7-NJWFEx0etkWtHjEudvVUmYP6dfkQ8qZmdrl9xym7IAckh_FSqly1nCblYMFZtUD-FHaogzqWnEl2Z5WAcX3n_-LZ1YgFPm5RXpfgGC5vQxB-GXbN4qpdoxbAjxKN5uKI-E5XsX5Lc7NzLsBHn1v38of2J5VoJxrPMxWxMK6GvjEiswagBGK5KJ0Y7TLC6qKaVNHPsiMSXFUboz0VT3EkLbViiQkwWEUlrqDN1CZGg.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/0dc496d06932e4cf0e256da8.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>ناو آبراهام لینکلن که ۶ ماه پیش مجری و کارشناسان شیرین عقلش با اطمینان خبر داده بودند که با ۴ موشک بالستیک غرق شده دیروز رفت پاتایا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i><br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅ناو آبراهام لینکلن که ۶ ماه پیش مجری و کارشناسان شیرین عقلش با اطمینان خبر داده بودند که با ۴ موشک بالستیک غرق شده دیروز رفت پاتایا 😁\n\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/sahamnewsorg/147054",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/mOtc2Eyf-sDS4ob_AOyklVTs08Q3qjurllwXXe4dvmPRsXyjvTjnbwkfuAdYTsmNUln480IPFSPBy5MinqjHlhCHtWuNjGqIw0Tl-NvW1DGj0F4KAVilL1dR40vpzk8VA8WotGxWm3pFKxJr-42C_k8KRpdhwZ_1hrGqotTZZC8X-OJ_T6hurO4PXN3VWBpq_WNelHSdHN6ELh5R5H4LGc2Lz_nxD9ZoMun5Q8phvygXAyut2yCzhcZhPmFGB7ABUxXHt1c_1ENPc2EcP_sg-HY5gLBUG75LD3tydZmAlLfeDD0MeENGh8DtFoQ20BTyDGY2sOCPqPiZYTxRxJZHNg",
-          "thumbnail_path": "channels/sahamnewsorg/media/c484d7e6f0b8a01c08af92dd.jpg",
-          "thumbnail_sha256": "8610b0a938906b3c9da1d40994074a41f453171cd873737ff55ad3c273efbf03",
-          "duration_label": "0:43",
-          "aspect_ratio": 1.8181818181818181
-        }
-      ],
-      "reactions": [],
-      "views_label": "68.4K",
-      "posted_at": "2026-09-05T18:01:37+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147054",
       "reply": null
     }
   ]
