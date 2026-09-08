@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T12:17:41.542Z",
+  "fetched_at": "2026-09-08T12:23:01.683Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93484",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Xp1GPjZY4ATloWqym-TkX3n9GYZxWlsZ1JtO4D0neLIWJRuH5wpmbTqs7uCbifzSxmrRAvB4RkQfdU7HCHg5ZE0qJtxdyyg8uwCTr7BFtLRcRte9trFF1imaWTJHRLFCw-X6Q0R2s4gfHibpcPDDqN-O7C-Sip6L5LU3Z2EhTU6d0TOKSgGv2s55eTjDoHnQvCOdmy9lqr40HjmQlQo2zI-H45ezXn7GynL2iQ_JqHbx3G-llmnGay-lX4jOrCLEKVrCnCiMz-GMVGehcWuLYj-lGPFR3ApxgpnjnktzRoSJSY9yrR0I5lAuE0M1bKFShaKBpqnjajGbZEDVTv8FwQ.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a45e25b72ade524afd0808f4.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "گروهی از زنان موسوم به «بانوان کفن‌پوش مشهدی» روز دوشنبه ۱۷شهریور۱۴۰۵ مقابل ساختمان دیوان عالی کشور در تهران تجمع کردند و با سردادن شعارهایی، مقام‌های جمهوری اسلامی را «بی‌شرف» و «بی‌غیرت» خواندند.<br>بیشتر: <a href=\"https://iranwire.com/fa/news-1/157325\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157325</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "گروهی از زنان موسوم به «بانوان کفن‌پوش مشهدی» روز دوشنبه ۱۷شهریور۱۴۰۵ مقابل ساختمان دیوان عالی کشور در تهران تجمع کردند و با سردادن شعارهایی، مقام‌های جمهوری اسلامی را «بی‌شرف» و «بی‌غیرت» خواندند.\nبیشتر: https://iranwire.com/fa/news-1/157325\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93484",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Ll0DrZP4uvzafUUI3qEqBPjM2YK-c65yUEeyz9NgHoetbOkX1Qwbygmf88-dyhYWz3XiupDIDWkSczMI8R8pgU_SvSEwHSSlVb70UDYjhXyGx9CzlKC4lmeIj3n3F5-X0kN-IYoghnsUuc8GZCe7XNdpunA7VZ0nVTd-VVMBoak3lc3IMsaicL6RX3VPFRaBSSjp2FSThFnRkhJCxq1J_uIB6cV3_DzDyxL9q1NWxJqp1BXo7A47hNXAHf8WnRh_0hNYKI65r5lTnqFMHiJJrZAZVpn-Mw54WJi8DdWYo1vys9f8dvBfGa_iOZSuIFDWoEHTD1BW68JvzbVuDQZs-w.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/88ca29234f402b3dff81cf2f.jpg",
+          "thumbnail_sha256": "42455ed0b04e814a03e57c14eb7cd9c22cc6876173d2328690bbe0e7a199cca1",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "65",
+      "posted_at": "2026-09-08T12:20:22+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93484",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93483",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "119",
+      "views_label": "185",
       "posted_at": "2026-09-08T12:10:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93483",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "281",
+      "views_label": "324",
       "posted_at": "2026-09-08T11:51:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93482",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "455",
+      "views_label": "493",
       "posted_at": "2026-09-08T11:25:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93481",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "515",
+      "views_label": "540",
       "posted_at": "2026-09-08T11:13:07+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93480",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "709",
+      "views_label": "731",
       "posted_at": "2026-09-08T10:29:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93479",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "800",
+      "views_label": "819",
       "posted_at": "2026-09-08T10:12:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93478",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "789",
+      "views_label": "806",
       "posted_at": "2026-09-08T09:57:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93477",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "856",
+      "views_label": "870",
       "posted_at": "2026-09-08T09:38:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93476",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "936",
+      "views_label": "950",
       "posted_at": "2026-09-08T09:06:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93475",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "975",
+      "views_label": "987",
       "posted_at": "2026-09-08T08:34:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93474",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "983",
+      "views_label": "995",
       "posted_at": "2026-09-08T08:18:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93473",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "834",
+      "views_label": "848",
       "posted_at": "2026-09-08T08:18:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93472",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "892",
+      "views_label": "901",
       "posted_at": "2026-09-08T08:02:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93471",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "981",
+      "views_label": "995",
       "posted_at": "2026-09-08T07:54:35+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93470",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.79K",
+      "views_label": "1.8K",
       "posted_at": "2026-09-07T20:57:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93468",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.15K",
+      "views_label": "2.16K",
       "posted_at": "2026-09-07T19:29:53+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93466",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-05T12:06:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93382",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93381",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EmUP9mB5rt_E-ktfi7gsZJiU2Vg2Igy7ZYPwCUj5ZBNBwKSs_5STWybgkDUrOJ8Mf21eZIyZX1Az3KyjeThtIqmK00XzVEbMQyr4Rtqm3BijZmsPdRtLDWb7uCAuOYVGfriyYjsEeD9-i5W2gDSuIa3DhMv1wA1h89ViwCSNAsbSBBXCFCCpRLzR03zsSwFJpI2uSI2Ypew-4R4EEINKuBXLsu1m9siY-A0_Db8j3HxwgV0GuSEPB4zv5KfCaNPxjp4EaKGdI-IcXaIBcqZoOpDe26XPYVEQJMiRoikQH4QRpuY3i_p41FKCMmJLQel9Vz2g8emShtFRNit2tEGUQw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/c769a9c378fcf30292902ce1.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "قیمت دلار در بازار آزاد ایران در معاملات روز شنبه ۱۴ شهریور ۱۴۰۵ به بیش از ۲۲۴ هزار تومان رسید.<br>براساس گزارش‌های منتشر شده از بازار ارز تهران، هر یورو بیش از ۲۶۰ هزار تومان و هر پوند بریتانیا حدود ۳۰۰ هزار تومان معامله شد.<br>قیمت دلار در مدت مشابه سال گذشته حدود ۱۷۰ هزار تومان بود. بر این اساس، بهای این ارز طی یک سال بیش از ۵۴ هزار تومان افزایش یافته است.<br><br>بخوانید :<a href=\"https://iranwire.com/fa/news-1/157190\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157190</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "قیمت دلار در بازار آزاد ایران در معاملات روز شنبه ۱۴ شهریور ۱۴۰۵ به بیش از ۲۲۴ هزار تومان رسید.\nبراساس گزارش‌های منتشر شده از بازار ارز تهران، هر یورو بیش از ۲۶۰ هزار تومان و هر پوند بریتانیا حدود ۳۰۰ هزار تومان معامله شد.\nقیمت دلار در مدت مشابه سال گذشته حدود ۱۷۰ هزار تومان بود. بر این اساس، بهای این ارز طی یک سال بیش از ۵۴ هزار تومان افزایش یافته است.\n\nبخوانید :https://iranwire.com/fa/news-1/157190\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93381",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/jeEVMCfCqbsYklClmR5E_jEwSjt1GaNdFNlmE7C01b6Dm9437mF-JRDf4MjcFY7qHmr2RTkYxMOQ49ilhSAxBaVjsvwfRi4TpDAcomM8fWxSF1nk_ixaQMSsePZbSuEfqTEsZpR0deex8uzDBIjlE8VCPk2lc8ugf7GlXGjpq58V2GuA6pDfXrlUw1C70DsIYScePXrKQ33QeJro5NMRxsbVoWhh9Mis6fkDS6tSdX7j1sPwmByDgEMM2rbAWb5X7sA5tcpBLq1JZYE00MmSKjBCwK6-FBrY-lX4HlLJ0qJUekq4B5KQtEBRtNepjY-ZYerI4k7HdSFmqXX6R4J7tw.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/58d0641cf357809eb7e7e7f2.jpg",
-          "thumbnail_sha256": "f15ef1c3ba9db6872ea5fb635fab9ceb8622e4cd6703947cc7e0d609ceb823d2",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.37K",
-      "posted_at": "2026-09-05T11:14:57+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93381",
       "reply": null
     }
   ]
