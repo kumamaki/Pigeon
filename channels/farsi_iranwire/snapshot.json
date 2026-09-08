@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T15:01:41.582Z",
+  "fetched_at": "2026-09-08T15:06:40.967Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93488",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Xp1GPjZY4ATloWqym-TkX3n9GYZxWlsZ1JtO4D0neLIWJRuH5wpmbTqs7uCbifzSxmrRAvB4RkQfdU7HCHg5ZE0qJtxdyyg8uwCTr7BFtLRcRte9trFF1imaWTJHRLFCw-X6Q0R2s4gfHibpcPDDqN-O7C-Sip6L5LU3Z2EhTU6d0TOKSgGv2s55eTjDoHnQvCOdmy9lqr40HjmQlQo2zI-H45ezXn7GynL2iQ_JqHbx3G-llmnGay-lX4jOrCLEKVrCnCiMz-GMVGehcWuLYj-lGPFR3ApxgpnjnktzRoSJSY9yrR0I5lAuE0M1bKFShaKBpqnjajGbZEDVTv8FwQ.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a45e25b72ade524afd0808f4.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "مراسم چهلم مهدی توکلی، سمیه توکلی و مریم اصلانی، روز سه‌شنبه ۱۷ شهریور ۱۴۰۵، با حضور خانواده و بستگان، جمعی از فعالان مدنی و «مادران ئاشتی» (صلح) در آرامستان بهشت محمدی سنندج برگزار شد.<br>مهدی توکلی، فعال مدنی، عکاس و هنرمند و‌ دو عضو دیگر خانواده توکلی چهارم مرداد ۱۴۰۵ در جاده مریوان به سنندج در پی شلیک مستقیم نیروهای سپاه پاسداران به خودروی شخصی وی جان باختند.<br><br><br>بیشتر بخوانید: <a href=\"https://iranwire.com/fa/news-1/157338\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157338</a><br><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "مراسم چهلم مهدی توکلی، سمیه توکلی و مریم اصلانی، روز سه‌شنبه ۱۷ شهریور ۱۴۰۵، با حضور خانواده و بستگان، جمعی از فعالان مدنی و «مادران ئاشتی» (صلح) در آرامستان بهشت محمدی سنندج برگزار شد.\nمهدی توکلی، فعال مدنی، عکاس و هنرمند و‌ دو عضو دیگر خانواده توکلی چهارم مرداد ۱۴۰۵ در جاده مریوان به سنندج در پی شلیک مستقیم نیروهای سپاه پاسداران به خودروی شخصی وی جان باختند.\n\n\nبیشتر بخوانید: https://iranwire.com/fa/news-1/157338\n\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93488",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/JxmswuZbV4aJLyx1u8tFDB2TNxSMYaP5Q7Sab9VxYHYigCUHtBHWgLgLPbs4tYZqcK5s1BqSjK8d8I0Nt8hZgzdwJ68kOqAMRBX8p7ub15qIkJQZY6I6hD6jRADxbapO_Sh_vq1ynQQru9s90qLIuWICDh4GUeUA8d7VtMH9Hf9WneNRBE61rO4WbY1PtjypCc4XigrjxsCfLiJIGlkHv3YMaMVt1m1MMJYFH42hhFtdldjmjO2xwaVCAr9KHiK5_FgXzZDoCQsMxMGKWNf71b5zQr4ufeSHvrQy1XGoxjNuX3M9XjGdQmV8yDQ3wXtX6UtcXhZVni-E-3CS1H6t_Q.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/c3cbca95dbca6d2a7fc7914b.jpg",
+          "thumbnail_sha256": "3a1ef3fef9ad918a938510ecc6074e20ccc9e91aa15b79c322d36437de15e90e",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T15:06:31+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93488",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93487",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "172",
+      "views_label": "202",
       "posted_at": "2026-09-08T14:50:47+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93487",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "739",
+      "views_label": "764",
       "posted_at": "2026-09-08T12:40:34+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93486",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "722",
+      "views_label": "740",
       "posted_at": "2026-09-08T12:30:41+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93485",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "768",
+      "views_label": "782",
       "posted_at": "2026-09-08T12:20:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93484",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "798",
+      "views_label": "808",
       "posted_at": "2026-09-08T12:10:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93483",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "802",
+      "views_label": "810",
       "posted_at": "2026-09-08T11:51:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93482",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "886",
+      "views_label": "893",
       "posted_at": "2026-09-08T11:25:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93481",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "895",
+      "views_label": "902",
       "posted_at": "2026-09-08T11:13:07+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93480",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1K",
+      "views_label": "1.01K",
       "posted_at": "2026-09-08T10:29:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93479",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.16K",
+      "views_label": "1.17K",
       "posted_at": "2026-09-08T08:18:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93473",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1K",
+      "views_label": "1.01K",
       "posted_at": "2026-09-08T08:18:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93472",
@@ -509,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.17K",
+      "views_label": "1.18K",
       "posted_at": "2026-09-08T07:54:35+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93470",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-05T14:06:11+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93386",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93385",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/K1ryeuKQ4KEx_W8GG_UAEgXS4WenbnqYy6I38arbtQjTENtUCZQc86aijSe5XYgmScJwV1DfLQ_4VEPN5DltoBy7THAdB-M57YdRe65wQEul8EBsDbrMRWw2zRL5OzhWguF-d-8QVWwclG6spHHFcXlsJFKgrZLGgwKhEeGbn7jfwHtI0-R8bayMDq_tttXVRSGkpMVAeAyb34TseqUs8rqvywSzheUDDm3U0EVjDW-9tmpTsswi5sMh55tZyHvVXko6rwusUIzlfc8QZNYipXbKGOAn3cz77hC389xV_7PX6pD8qx8sh7cKA0Jz_noMeNwVM5xZQ77gMTmo8209sA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/5ea6725eb75d0236588a5f92.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "یونل مسی، ستاره آرژانتینی ۹شهریور۱۴۰۵ با انتشار پیامی، رسما از تیم ملی فوتبال آرزانتین خداحافظی کرد. در روزهای گذشته ویدیوهای مکرری از هنرنمایی‌های مسی با پیراهن تیم ملی آرژانتین و باشگاه‌های بارسلونا منتشر شده. با این حال این ویدیو چشم‌نواز به نظر می‌رسد. در تشریح این تصویر که به سنین جوانی مسی برمی‌گردد، نوشته شده که اگر تصور می‌کنید کار راحتی است، فقط پنج ثانیه انجامش دهید.<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "یونل مسی، ستاره آرژانتینی ۹شهریور۱۴۰۵ با انتشار پیامی، رسما از تیم ملی فوتبال آرزانتین خداحافظی کرد. در روزهای گذشته ویدیوهای مکرری از هنرنمایی‌های مسی با پیراهن تیم ملی آرژانتین و باشگاه‌های بارسلونا منتشر شده. با این حال این ویدیو چشم‌نواز به نظر می‌رسد. در تشریح این تصویر که به سنین جوانی مسی برمی‌گردد، نوشته شده که اگر تصور می‌کنید کار راحتی است، فقط پنج ثانیه انجامش دهید.\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Farsi_Iranwire/93385",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/tDNY-YwhrjGrTWKQaq6wEcicSz27tOOg3l3z8Mc8wlTKZWR1d6YwqHkSKYKrzIPxaZgHF8v26iFd01vqaWsjAo47jNCYUeroslaQRzILeBGavizd-5c0rRjzz8m766q4_X6ilzrDZYVArmH-dE7opaK8SALWl0Jl4D-ifJrsqtszmB5JSLuIibJlnmdywztSsWU_xlKcgthjEZWycgjd-GOCdk75U_8kCpE2CCSGXcMNWGJC11B94BvXwxPNR68NE5MlHQ9Q6SoIXZRgArFUbzDdILHekk_L2E2j6xlOw-xkIMRJWln1CMDwbzfdrC28EVsW_3lm22bjs7uGflkifQ",
-          "thumbnail_path": "channels/farsi_iranwire/media/c426ca377ef99c85ac16695f.jpg",
-          "thumbnail_sha256": "b07f45fe71477c8390777e1c78266cea15edd47a03d16fe07524ba08e6558131",
-          "duration_label": "1:51",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.4K",
-      "posted_at": "2026-09-05T13:07:37+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93385",
       "reply": null
     }
   ]
