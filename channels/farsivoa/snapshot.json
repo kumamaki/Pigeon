@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T16:01:43.138Z",
+  "fetched_at": "2026-09-08T16:06:36.074Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229875",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "در گفت‌وگو با مهدی مصلحی، کارشناس انرژی، از ادعای واردات بنزین ۷۰ سنتی، بحران تأمین سوخت و افزایش قیمت بنزین گفتیم. مصلحی معتقد است در شرایط فعلی امکان تأمین بنزین با نرخ ۷۰ سنت برای هر لیتر، آن‌گونه که محمدرضا عارف مطرح کرده، وجود ندارد.",
+      "plain_text": "در گفت‌وگو با مهدی مصلحی، کارشناس انرژی، از ادعای واردات بنزین ۷۰ سنتی، بحران تأمین سوخت و افزایش قیمت بنزین گفتیم. مصلحی معتقد است در شرایط فعلی امکان تأمین بنزین با نرخ ۷۰ سنت برای هر لیتر، آن‌گونه که محمدرضا عارف مطرح کرده، وجود ندارد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229875",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/VuBlSmj8P0cO-tWjxuUVE29eYHKKg8d28HXvyGjYEFW5KK1g304mB5iqmD4m_vunao_QNSvAKQvEH5Bie3UMOSNozvJCuFL_tzeL7Bt4MUHFYtGeL7_riowL9hF0-qEP-Io320GivrwDK4QHEELjXu7ZDnYdmiYR_aMPiHFVBglT7uX_MpmUb3qzpmPHvxY2-bbRI6OIg9c55NJmHAze6F2-hA5Kx8i7UMqsAHhAlEpHdJz-ZlXmLcb4_Gb4xcDgqYbgE8o7VrGmmYFbJ9djpWX_D9XCarhMPNtPQZyS4qWX2n-3TsTHaP22iySKsQjle3KfltASqYLbGaIXjfY4jA",
+          "thumbnail_path": "channels/farsivoa/media/b897daedc714ad6861b9fb94.jpg",
+          "thumbnail_sha256": "262a3e30799a3b8fe6efe5c6ca1196db5432ee78b0839eafce35bdbc6adaabc3",
+          "duration_label": "2:38",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T16:06:17+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229875",
+      "reply": null
+    },
     {
       "id": "farsivoa/229874",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "516",
+      "views_label": "739",
       "posted_at": "2026-09-08T15:51:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229874",
@@ -49,7 +77,7 @@
       "plain_text": "🔺دو تن از نزدیکان جان‌باختگان اعتراضات دی ۱۴۰۴ به زندگی خود پایان دادند\n\n▪️گزارش‌های منتشرشده توسط چند رسانه و منبع حقوق بشری حاکی است دانیال کریمی، پدر امیرمحمد کریمی، از جان‌باختگان اعتراضات دی‌ ۱۴۰۴، و آیدا حیدری، نامزد ابوالفضل سلیمانی الموتی، یکی دیگر از جان‌باختگان این اعتراضات، به زندگی خود پایان داده‌اند؛ رخدادهایی که در ادامه گزارش‌ها درباره پیامدهای سنگین سرکوب معترضان و فشار بر خانواده‌های دادخواه منتشر می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/two-bereaved-relatives-die/8195553.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1K",
+      "views_label": "1.16K",
       "posted_at": "2026-09-08T15:38:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229873",
@@ -65,7 +93,7 @@
       "plain_text": "🔺آمریکا ده‌ها شرکت و نهاد مرتبط با هوانوردی جمهوری اسلامی را تحریم کرد\n\n▪️دفتر کنترل دارایی‌های خارجی وزارت خزانه‌داری ایالات متحده آمریکا «اوفک» در چارچوب «عملیات طرد اقتصادی» ۳۶ نهاد، از جمله ۲۷ شرکت هواپیمایی جمهوری اسلامی، را به دلیل حمایت از بخش هوانوردی ایران - که حکومت ایران از آن برای جابه‌جایی تسلیحات، پرسنل، و محموله‌های غیرقانونی استفاده می‌کند - تحریم کرد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/ofac-iranian-regime-aviation-sanctions/8195557.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.02K",
+      "views_label": "1.15K",
       "posted_at": "2026-09-08T15:34:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229872",
@@ -93,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.1K",
+      "views_label": "1.2K",
       "posted_at": "2026-09-08T15:27:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229871",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.16K",
+      "views_label": "1.26K",
       "posted_at": "2026-09-08T15:25:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229870",
@@ -133,8 +161,8 @@
       "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
       "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
       "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>پرزیدنت دونالد ترامپ روز سه‌شنبه ۱۷ شهریور، در سخنانی در مراسمی در آستانه بیست‌وپنجمین سالگرد حملات ترویستی ۱۱ سپتامبر، با اشاره به عملیات نظامی با جمهوری اسلامی گفت حکومت ایران در پی دستیابی به سلاح هسته‌ای بود و «بسیار به آن نزدیک شده بود»، اما ایالات متحده مانع آن شد.<br><br>پرزیدنت ترامپ تاکید کرد جمهوری اسلامی «هرگز» به سلاح هسته‌ای دست نخواهد یافت و در ادامه با اشاره به توان نظامی ایالات متحده و موثر بودن محاصره دریایی علیه جمهوری اسلامی، گفت که ارتش آمریکا بسیار قدرتمند است.",
-      "plain_text": "⚡️پرزیدنت دونالد ترامپ روز سه‌شنبه ۱۷ شهریور، در سخنانی در مراسمی در آستانه بیست‌وپنجمین سالگرد حملات ترویستی ۱۱ سپتامبر، با اشاره به عملیات نظامی با جمهوری اسلامی گفت حکومت ایران در پی دستیابی به سلاح هسته‌ای بود و «بسیار به آن نزدیک شده بود»، اما ایالات متحده مانع آن شد.\n\nپرزیدنت ترامپ تاکید کرد جمهوری اسلامی «هرگز» به سلاح هسته‌ای دست نخواهد یافت و در ادامه با اشاره به توان نظامی ایالات متحده و موثر بودن محاصره دریایی علیه جمهوری اسلامی، گفت که ارتش آمریکا بسیار قدرتمند است.",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>پرزیدنت دونالد ترامپ روز سه‌شنبه ۱۷ شهریور، در سخنانی در مراسمی در آستانه بیست‌وپنجمین سالگرد حملات ترویستی ۱۱ سپتامبر، با اشاره به عملیات نظامی با جمهوری اسلامی گفت حکومت ایران در پی دستیابی به سلاح هسته‌ای بود و «بسیار به آن نزدیک شده بود»، اما ایالات متحده مانع آن شد.<br><br>پرزیدنت ترامپ تاکید کرد جمهوری اسلامی «هرگز» به سلاح هسته‌ای دست نخواهد یافت و در ادامه با اشاره به توان نظامی ایالات متحده و موثر بودن محاصره دریایی علیه جمهوری اسلامی، گفت که ارتش آمریکا بسیار قدرتمند است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/president-trump-says-iran-never-obtains-nuclear-weapons/8195585.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/president-trump-says-iran-never-obtains-nuclear-weapons/8195585.html/?nocach=1</a>",
+      "plain_text": "⚡️پرزیدنت دونالد ترامپ روز سه‌شنبه ۱۷ شهریور، در سخنانی در مراسمی در آستانه بیست‌وپنجمین سالگرد حملات ترویستی ۱۱ سپتامبر، با اشاره به عملیات نظامی با جمهوری اسلامی گفت حکومت ایران در پی دستیابی به سلاح هسته‌ای بود و «بسیار به آن نزدیک شده بود»، اما ایالات متحده مانع آن شد.\n\nپرزیدنت ترامپ تاکید کرد جمهوری اسلامی «هرگز» به سلاح هسته‌ای دست نخواهد یافت و در ادامه با اشاره به توان نظامی ایالات متحده و موثر بودن محاصره دریایی علیه جمهوری اسلامی، گفت که ارتش آمریکا بسیار قدرتمند است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/president-trump-says-iran-never-obtains-nuclear-weapons/8195585.html/?nocach=1",
       "media": [
         {
           "kind": "photo",
@@ -149,9 +177,9 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.65K",
+      "views_label": "1.71K",
       "posted_at": "2026-09-08T15:09:26+00:00",
-      "edited": false,
+      "edited": true,
       "permalink": "https://t.me/farsivoa/229869",
       "reply": null
     },
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.78K",
+      "views_label": "1.81K",
       "posted_at": "2026-09-08T14:57:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229868",
@@ -193,7 +221,7 @@
       "plain_text": "🔺وزیران خارجه کشورهای عربی حملات منطقه‌ای جمهوری اسلامی را محکوم کردند\n\n▪️وزیران امور خارجه کشورهای عربی با محکوم کردن حملات جمهوری اسلامی به کشورهای منطقه، بر حق دفاع فردی و جمعی در برابر این حملات تأکید کردند و خواستار بازگشایی فوری و بدون قید و شرط تنگه هرمز و تضمین آزادی کشتیرانی در آبراه‌های منطقه شدند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/arab-league-foreign-ministers-cairo/8195540.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.93K",
+      "views_label": "1.99K",
       "posted_at": "2026-09-08T14:46:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229867",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.99K",
+      "views_label": "2.05K",
       "posted_at": "2026-09-08T14:36:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229866",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.12K",
+      "views_label": "2.15K",
       "posted_at": "2026-09-08T14:28:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229865",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.19K",
+      "views_label": "2.25K",
       "posted_at": "2026-09-08T14:20:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229864",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.4K",
+      "views_label": "2.44K",
       "posted_at": "2026-09-08T14:07:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229863",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.51K",
+      "views_label": "2.57K",
       "posted_at": "2026-09-08T14:00:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229862",
@@ -349,7 +377,7 @@
       "plain_text": "🔺بریتانیا موسسه «القرض‌الحسن» را تحریم کرد؛ تشدید فشار بر جمهوری اسلامی با تحریم بازوی مالی حزب‌الله\n\n▪️بریتانیا روز سه‌شنبه ۱۷ شهریور ۱۴۰۵ تحریم‌هایی را علیه موسسه «القرض‌الحسن»، مؤسسه مالی وابسته به حزب‌الله لبنان، اعلام کرد؛ اقدامی که در ادامه فشارهای آمریکا و متحدانش برای محدود کردن منابع مالی این گروه مورد حمایت جمهوری اسلامی انجام می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/britain-sanctions-hezbollah-linked-institution/8195533.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.43K",
+      "views_label": "2.47K",
       "posted_at": "2026-09-08T13:45:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229861",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.45K",
+      "views_label": "2.48K",
       "posted_at": "2026-09-08T13:32:59+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229860",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.47K",
+      "views_label": "2.51K",
       "posted_at": "2026-09-08T13:20:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229859",
@@ -449,7 +477,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.44K",
+      "views_label": "2.47K",
       "posted_at": "2026-09-08T13:10:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229857",
@@ -477,7 +505,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.38K",
+      "views_label": "2.41K",
       "posted_at": "2026-09-08T13:05:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229856",
@@ -2538,34 +2566,6 @@
       "posted_at": "2026-09-07T17:25:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229773",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229772",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "ویدیوی منتشر شده در شبکه‌های اجتماعی صف طولانی بنزین را در یک جایگاه سوخت تهران نشان می‌دهد. جمهوری اسلامی اعلام کرد بهای بنزین عرضه‌شده با کارت جایگاه از بامداد سه‌شنبه ۱۷ شهریور ۱۴۰۵ دو برابر و از لیتری پنج هزار تومان به ۱۰ هزار تومان افزایش می‌یابد؛ تصمیمی که یادآور افزایش ناگهانی قیمت بنزین در آبان ۱۳۹۸ و اعتراضات خونین پس از آن است.",
-      "plain_text": "ویدیوی منتشر شده در شبکه‌های اجتماعی صف طولانی بنزین را در یک جایگاه سوخت تهران نشان می‌دهد. جمهوری اسلامی اعلام کرد بهای بنزین عرضه‌شده با کارت جایگاه از بامداد سه‌شنبه ۱۷ شهریور ۱۴۰۵ دو برابر و از لیتری پنج هزار تومان به ۱۰ هزار تومان افزایش می‌یابد؛ تصمیمی که یادآور افزایش ناگهانی قیمت بنزین در آبان ۱۳۹۸ و اعتراضات خونین پس از آن است.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229772",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/HTAmMD0jxpxb19K_sXavabd5tUZAW2p9s4KXIgEYSM0zOhbBvrNXbC0iLEzmuMlTMIP4MoCnlU5y-V8D237IHmKn9woMt_LbmMuGDiga64owNwN42GTwX83heqhlPn5Edg9Qb94vm9feUmU03ZQMylJnMqOXCjrew6PhcZzV9ZSCC4gE4KialzC6iP1cLTulA80qgKFUEyNx4BxTdYuwQhslyN6O4wMq9A5FXxUFfcuw8nUxLZORqkU-aKjvunYzlubRSkVBgni7J6tu1yC4tutujQwbx5oTTBg6Ptwa7RQD9wLV5hI1lMFG3iS7d8Uh9qnYzQ6Poh-gA58xkWp5Vw",
-          "thumbnail_path": "channels/farsivoa/media/da2b147967fac36a37491c27.jpg",
-          "thumbnail_sha256": "c3478fdf9cb1595e519b831f805b4fcf7c4f5e15b09d3a7474dc2e3ba13c0928",
-          "duration_label": "0:31",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.53K",
-      "posted_at": "2026-09-07T17:24:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229772",
       "reply": null
     }
   ]
