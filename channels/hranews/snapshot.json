@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T08:58:35.569Z",
+  "fetched_at": "2026-09-08T09:02:18.284Z",
   "channel": {
     "username": "hranews",
     "title": "خبرگزاری هرانا",
@@ -11,6 +11,34 @@
     "subscriber_count": "31.8K"
   },
   "posts": [
+    {
+      "id": "hranews/115479",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/iAtALinnN_Y14sqMT75D3a3dYa5SIhHJUD_k7mwH08qsLfeDfeU4xRjBCP64o07wfsjmIauUV39S4arNXhdz2h1-wU1f63GPZwYYiKioqmrcn-cre47UY9WtbU4uhyKnRJW8R_FO6qIVD01FG7SXjrDhRyIF7epUfHz0W7hfZYDedLy7Xdl8q4WwYmoXQYeWQbkFBroR88bWG5jEAunD6z_ruLlXRXd5mhWSbSEGbcxhVp5vFvpDJGjnHyfgcn0Ciop0NlCyw5frssvQ4VO8FGC18LNbkKUUmR9MKfHXypsY1JfH07bVFWHPKQGy4BCYyJcpN8wVO2rSYF2uwgyBNg.jpg",
+      "author_photo_path": "channels/hranews/media/987f5a33f6270b696c983a37.jpg",
+      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
+      "body_html": "روز گذشته، گروهی از کارگران شرکت «محور گستر نصر» در سیرجان، با مراجعه به فرمانداری و اداره تعاون، کار و رفاه اجتماعی این شهرستان، نسبت به تصمیم شرکت برای انتقال محل کارشان به پروژه‌های راه‌سازی در مهران یا جاسک اعتراض کردند.<br><br>این کارگران با اشاره به پایان پروژه شرکت در سیرجان، خواستار حفظ اشتغال خود و فراهم شدن امکان ادامه فعالیتشان در سایر شرکت‌ها و پروژه‌های منطقه شدند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "روز گذشته، گروهی از کارگران شرکت «محور گستر نصر» در سیرجان، با مراجعه به فرمانداری و اداره تعاون، کار و رفاه اجتماعی این شهرستان، نسبت به تصمیم شرکت برای انتقال محل کارشان به پروژه‌های راه‌سازی در مهران یا جاسک اعتراض کردند.\n\nاین کارگران با اشاره به پایان پروژه شرکت در سیرجان، خواستار حفظ اشتغال خود و فراهم شدن امکان ادامه فعالیتشان در سایر شرکت‌ها و پروژه‌های منطقه شدند.\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/hranews/115479",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/CzXT74b-16v1_y7Vwny0R6wGPrliOohLOW7VuwmfAZyuHiiIAWuDxA6wtLDUqiLI7ZcjMX1DarGxZ8mpF6AV7X9Ehi0Fce2Z7ZpnV0AfcD88ifhRYWCmjXuG22cDZP0xUl13dIjHqiurdkmYgd74XJlqkyb6tdErQ5kGVYTVBCq0revHuG8O-NUgvqoVRseeX1SHnnfGgpyzWyEfJWuiO9tG4zD8njY2U6yvkATuk5BNymev56PDKD9dJFqDZZ7kwXpNqe6LDb5mvc3b3_Imc4le3WpL22tb4BY1px8i8rfQKRgtv_9zUdedVTAj-qEFOKyOZsToO7SoWjXqStjFEQ",
+          "thumbnail_path": "channels/hranews/media/62de2ad0cde426db18ab6a94.jpg",
+          "thumbnail_sha256": "510ee39e281e4c98f3ecf823c5567ae1f0e7a090d853ce2e4fe221d61283c656",
+          "duration_label": "0:42",
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [],
+      "views_label": "41",
+      "posted_at": "2026-09-08T08:58:47+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/115479",
+      "reply": null
+    },
     {
       "id": "hranews/115478",
       "author_name": "خبرگزاری هرانا",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "195",
+      "views_label": "211",
       "posted_at": "2026-09-08T08:19:39+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115478",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "259",
+      "views_label": "276",
       "posted_at": "2026-09-08T08:01:33+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115477",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "946",
+      "views_label": "949",
       "posted_at": "2026-09-07T19:09:49+00:00",
       "edited": true,
       "permalink": "https://t.me/hranews/115475",
@@ -133,7 +161,7 @@
       "plain_text": "پس از تحمل ۱۱ سال حبس؛ یک زندانی از مجازات اعدام رهایی یافت\n\n❗️❗️❗️❗️❗️– یک زندانی در تهران که پیشتر از بابت اتهام قتل به #اعدام محکوم شده بود، پس از تحمل ۱۱ سال حبس، با کسب رضایت از اولیای دم، از مجازات مرگ رهایی یافت.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "788",
+      "views_label": "790",
       "posted_at": "2026-09-07T19:02:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115474",
@@ -149,7 +177,7 @@
       "plain_text": "یک شهروند در ارومیه بازداشت شد\n\n❗️❗️❗️❗️❗️– فرمانده هنگ مرزی ارومیه از #بازداشت یک شهروند در یکی از ایست و بازرسی‌های این هنگ خبر داد. به گفته وی، فرد بازداشت‌شده با «یکی از گروه‌های مخالف جمهوری اسلامی» ارتباط داشته است.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "774",
+      "views_label": "777",
       "posted_at": "2026-09-07T18:54:45+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115473",
@@ -165,7 +193,7 @@
       "plain_text": "کامران حکمتی، شهروند یهودی دوتابعیتی از زندان اوین آزاد شد\n\n❗️❗️❗️❗️❗️– کامران (یهودا) حکمتی، شهروند ۷۱ ساله یهودی دوتابعیتی ایرانی-آمریکایی و مبتلا به سرطان، از زندان اوین آزاد شد. وی با وجود آزادی همچنان ممنوع‌الخروج است و امکان ترک ایران را ندارد.\n\nادامه مطلب\n\n#کامران_حکمتی (#یهودا_حکمتی)\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "699",
+      "views_label": "706",
       "posted_at": "2026-09-07T18:32:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115472",
@@ -181,7 +209,7 @@
       "plain_text": "مطالبات مزدی و بیمه ای پرستاران دزفول و رانندگان شرکت واحد اتوبوسرانی تهران\n\n❗️❗️❗️❗️❗️– شماری از کارگران و رانندگان شرکت واحد اتوبوسرانی تهران مطالبات بیمه ای پرداخت نشده دارند. همچنین، رئیس سازمان نظام پرستاری شهرستان دزفول اعلام کرد که مطالبات پرستاران این شهرستان همچون شش ماه حق کارانه و سه ماه اضافه کاری، کماکان به آنها پرداخت نشده است.\n\nادامه مطلب\n\n#پرستاران #کارگران\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "693",
+      "views_label": "695",
       "posted_at": "2026-09-07T18:08:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115471",
@@ -197,7 +225,7 @@
       "plain_text": "دستکم ۲۴ تجمع اعتراضی برگزار شد\n\n❗️❗️❗️❗️❗️– امروز دوشنبه ۱۶ شهریورماه، جمعی از بازنشستگان مخابرات در اصفهان، سنندج، کرمانشاه، تبریز، ایلام، مشهد و همدان، گروهی از شهروندان جویای کار در اهواز و شماری از کارکنان شرکت نفت و گاز پارس در دستکم ۱۳ بخش و سکوی دریایی این شرکت واقع در منطقه پارس جنوبی، عسلویه و کنگان، تجمعات اعتراضی برگزار کردند. روز گذشته نیز گروهی از کارگران کارخانه پویا نخ ایلام و شماری از پرستاران در سنندج، با برگزاری تجمع اعتراضی خواستار رسیدگی به مطالبات خود شدند. از سوی دیگر، شهروندان معترض به الحاق مجتمع آموزش عالی اسفراین به دانشگاه بجنورد، دست به تجمع اعتراضی زده‌اند.\n\nادامه مطلب\n\n#تجمع_اعتراضی #بازنشستگان #کارگران\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "858",
+      "views_label": "860",
       "posted_at": "2026-09-07T18:03:14+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115470",
@@ -225,7 +253,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "707",
+      "views_label": "709",
       "posted_at": "2026-09-07T17:36:12+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115469",
@@ -253,7 +281,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "702",
+      "views_label": "705",
       "posted_at": "2026-09-07T17:14:59+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115468",
@@ -269,7 +297,7 @@
       "plain_text": "سنندج؛ فریدون نامداری و شعله روحی توسط نیروهای امنیتی بازداشت شدند\n\n❗️❗️❗️❗️❗️– روز گذشته، یک زوج اهل سنندج به نام های فریدون نامداری و شعله روحی، توسط نیروهای اداره اطلاعات بازداشت و به مکان نامعلومی منتقل شدند.\n\nادامه مطلب\n\n#فریدون_نامداری #شعله_روحی\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "757",
+      "views_label": "760",
       "posted_at": "2026-09-07T16:40:21+00:00",
       "edited": true,
       "permalink": "https://t.me/hranews/115467",
@@ -297,7 +325,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "712",
+      "views_label": "713",
       "posted_at": "2026-09-07T16:23:43+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115466",
@@ -2273,34 +2301,6 @@
       "posted_at": "2026-09-03T09:49:26+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115376",
-      "reply": null
-    },
-    {
-      "id": "hranews/115375",
-      "author_name": "خبرگزاری هرانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/NMVnOQyvZGLrejNJUpV_PTZzD3cvxk1q8huHZ5p3VNT5ulNR2j-CyD_U5bQyuTlwyH_tP47EnAhlSmnw0664qW6Z0PhfXgfHzzg4Okcgh0FkeDAwXc9DE-5SV4bxfuSNfk3iYm2zRSDqm0k9FYSJ_9nfZ1PgRq7ZwrtJvVK9OBT1-BpCtMELmA_LmnMOwx6dyOt0qtX9r1i6Md1SCDn1HmbL_x07155nKT4NFFXNQSU-f1o2uXtUUbpREKNwE39q7DVIapspUQg4YKzFsNzdnlUQsW6AQMyZG0U4Ohg2s4zuhoUlsS81SOko8eJRAgqcbC9NuYSCCWIHH-4IscGBBw.jpg",
-      "author_photo_path": "channels/hranews/media/d13c29f07e2e57cd1fa61185.jpg",
-      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
-      "body_html": "رئیس شبکه بهداشت و درمان گچساران از فرسودگی بخشی از ناوگان اورژانس این شهرستان خبر داد و گفت: از چهار آمبولانس ستاد اعزام، تنها دو دستگاه فعال است و همین دو آمبولانس نیز نیازمند تعمیرات اساسی هستند. سید امین رضایی افزود گچساران برای ستاد اعزام و تقویت ناوگان جاده‌ای به چهار آمبولانس جدید نیاز دارد که هزینه تأمین آنها حدود ۸۰ میلیارد تومان برآورد شده است.<br><br>عبدالله عبادی، رئیس اورژانس پیش‌بیمارستانی و حوادث گچساران نیز اعلام کرد ماهانه حدود ۹۰۰ مأموریت اورژانسی در این شهرستان انجام می‌شود؛ حجم بالای مأموریت‌ها در کنار فرسودگی و کمبود <a href=\"?q=%23%D8%A2%D9%85%D8%A8%D9%88%D9%84%D8%A7%D9%86%D8%B3\">#آمبولانس</a>، خدمات‌رسانی اورژانسی را با چالش مواجه کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
-      "plain_text": "رئیس شبکه بهداشت و درمان گچساران از فرسودگی بخشی از ناوگان اورژانس این شهرستان خبر داد و گفت: از چهار آمبولانس ستاد اعزام، تنها دو دستگاه فعال است و همین دو آمبولانس نیز نیازمند تعمیرات اساسی هستند. سید امین رضایی افزود گچساران برای ستاد اعزام و تقویت ناوگان جاده‌ای به چهار آمبولانس جدید نیاز دارد که هزینه تأمین آنها حدود ۸۰ میلیارد تومان برآورد شده است.\n\nعبدالله عبادی، رئیس اورژانس پیش‌بیمارستانی و حوادث گچساران نیز اعلام کرد ماهانه حدود ۹۰۰ مأموریت اورژانسی در این شهرستان انجام می‌شود؛ حجم بالای مأموریت‌ها در کنار فرسودگی و کمبود #آمبولانس، خدمات‌رسانی اورژانسی را با چالش مواجه کرده است.\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/hranews/115375",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/Jn0IfPmJklOdXOs-DIRVK2r5pDHroXn66HsB_w2YStApQ-v028xh0q1QapniM7t_oeWafRMMj_JbKnViPtQYYTu5iptd1Au_P8FO2_KJh9H8_o_yIm1_KKJ-JfzWGmFj-l7zczaPhtJS2WNPh6SldaVIQ8SqMo2qw2IksozAajTaKZqwJpv-4lx4vdNmkcIXF9cSdBQvXTrD2W_MfHuqexGMnrt3Lx6lsRfP_qovFwjsaYPXsjeMMkSESFF66LaZrQrejOhPmZNlL2gKozBD5kYdp_YVbUH1rnuBWyl32vy3A1DIrO2eONf_5LTXF6Fmg3H4U30NGoONCJiaAO0iLw.jpg",
-          "thumbnail_path": "channels/hranews/media/0aa072cab192824bfec1730a.jpg",
-          "thumbnail_sha256": "5f6dd5f898d3865c8c69f383ee6ad96815a4928fd9f02dc88d41bac5215b0283",
-          "duration_label": null,
-          "aspect_ratio": 1
-        }
-      ],
-      "reactions": [],
-      "views_label": "886",
-      "posted_at": "2026-09-03T09:23:43+00:00",
-      "edited": false,
-      "permalink": "https://t.me/hranews/115375",
       "reply": null
     }
   ]
