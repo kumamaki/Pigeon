@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T07:42:06.982Z",
+  "fetched_at": "2026-09-08T07:47:05.296Z",
   "channel": {
     "username": "bbcpersian",
     "title": "BBCPersian",
@@ -11,6 +11,22 @@
     "subscriber_count": "774K"
   },
   "posts": [
+    {
+      "id": "bbcpersian/291060",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/s4C2G175wBvyimmVC3qkGVE7qsM7s77SqXkLiiZbw1_t1AEH4C7ALTkCerEqRMGj3-64ClLx_p8VVEwFywKEqKloyqYWrmdoKaype4oiZrGsExmdyTZLKdy_R27bUvHDfEoNhVUtXx2inNF65bXqA26yQLITR_Co8rhjMV3XAIm1E54Rl-qSnlrguLpLz3_g-vLFxwgJya1Tyfc0VhEkRey6YJ249jnJa1MQhLZJ4qgN_7mpa--qxfAjqj--QgCXyj1ByASQFGik-d07BuXNPtqg9GPSCDSc6TxZceIpFff0Zvu4G4ZD1fsw0ZQm4-v11Hrb2wGKVpankgtrHmB0kQ.jpg",
+      "author_photo_path": "channels/bbcpersian/media/92ca8172f153819f54f28df1.jpg",
+      "author_photo_sha256": "cf48535f60438757cd9b0534a23c038e85ac3e9a472bad98fdb8dd6f9211ad10",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>محاصره نفتی ایران و قبض ۱۰۰ میلیارد دلاری برای آمریکایی‌ها<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F968C.png')\"><b>🖌</b></i>خشایار جنیدی, بی‌بی‌سی در,واشنگتن<br><br>کاهش شدید درآمدهای نفتی ایران در پی محاصره دریایی آمریکا، توجه بسیاری از رسانه‌ها را به خود جلب کرده است. وال‌استریت ژورنال می‌نویسد این تحول می‌تواند اقتصاد ایران را وارد مرحله‌ای عمیق‌تر از بحران کند.<br><br><a href=\"https://bbc.in/4xBNvye\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4xBNvye</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔻محاصره نفتی ایران و قبض ۱۰۰ میلیارد دلاری برای آمریکایی‌ها\n\n🖌خشایار جنیدی, بی‌بی‌سی در,واشنگتن\n\nکاهش شدید درآمدهای نفتی ایران در پی محاصره دریایی آمریکا، توجه بسیاری از رسانه‌ها را به خود جلب کرده است. وال‌استریت ژورنال می‌نویسد این تحول می‌تواند اقتصاد ایران را وارد مرحله‌ای عمیق‌تر از بحران کند.\n\nhttps://bbc.in/4xBNvye\n@BBCPersian",
+      "media": [],
+      "reactions": [],
+      "views_label": "1.95K",
+      "posted_at": "2026-09-08T07:43:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/291060",
+      "reply": null
+    },
     {
       "id": "bbcpersian/291059",
       "author_name": "BBCPersian",
@@ -33,7 +49,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.15K",
+      "views_label": "7.79K",
       "posted_at": "2026-09-08T07:23:39+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291059",
@@ -61,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.4K",
+      "views_label": "11.7K",
       "posted_at": "2026-09-08T07:03:04+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291058",
@@ -77,7 +93,7 @@
       "plain_text": "🔻چرا تعطیلی تنها مدرسه ایرانی در کویت خانواده‌ها را نگران کرده است؟\n\n🖌نسرین حاطوم, خبرنگار بی‌بی‌سی عربی در امور خلیج فارس\n\nخانواده‌های ایرانی ساکن کویت در آستانه آغاز سال تحصیلی جدید، با چالش یافتن مدرسه‌ای جایگزین برای فرزندانشان روبه‌رو شده‌اند؛ چالشی که پس از تصمیم مقام‌های کویتی برای لغو مجوز و تعطیلی تنها مدرسه خصوصی ایرانی در این کشور پدید آمد.\n\nhttps://bbc.in/4drbyYy\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "16.2K",
+      "views_label": "16.9K",
       "posted_at": "2026-09-08T06:33:42+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291056",
@@ -93,7 +109,7 @@
       "plain_text": "🔻وزیر اقتصاد ایران: تأمین کالاهای اساسی از منطقه اوراسیا به ویژه روسیه موضوعی اولویت‌دار است\n\nوزیر اقتصاد ایران که به روسیه رفته گفته است که «تأمین کالاهای اساسی از منطقه اوراسیا به ویژه روسیه موضوعی اولویت‌دار است که آن را به صورت جدی پیگیری می‌کنیم.»\n\nعلی مدنی‌زاده در دیار با تجار و بازرگانان ایرانی مقیم روسیه این موضوع را مطرح کرده است.\n\nایران که از سوی آمریکا محاصره دریایی شده گفته است که به دنبال راه‌های جایگزین برای واردات کالاست.\n\nایرنا، خبرگزاری رسمی ایران می‌گوید برخی فعالان اقتصادی در این نشست مطالبی درباره صف طولانی در گمرک آستارا و ترتیبات زمان‌بر رسیدگی در این گمرک مطرح کردند.\n\nبر اساس این گزارش آقای مدنی زاده وعده داد که این موضوع را با مقام‌های کمیسیون اقتصادی اوراسیا مطرح کند.\n\nکمیسیون اقتصادی اوراسیا رکن اجرایی اتحادیه اقتصادی اوراسیا و مقر آن مسکو است.\n\nاین اتحادیه بین دولت‌های بلاروس، قزاقستان، روسیه، قرقیزستان و ارمنستان است و ایران هم عضو ناظر آن است.\n\nhttps://bbc.in/4zVqQyp\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "17.9K",
+      "views_label": "18.9K",
       "posted_at": "2026-09-08T06:19:34+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291055",
@@ -121,7 +137,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.9K",
+      "views_label": "19.6K",
       "posted_at": "2026-09-08T06:08:48+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291054",
@@ -149,7 +165,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.1K",
+      "views_label": "22.8K",
       "posted_at": "2026-09-08T05:41:01+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291053",
@@ -193,7 +209,7 @@
       "plain_text": "🔻روایت زنی که به هواپیماربایان ۱۱ سپتامبر خانه اجاره داد\n\n🖋️جین مک‌مالن\nبی‌بی‌سی\n\n🔻هالی رچفورد هنوز هم نمی‌تواند باور کند مردی که زمانی به مجتمع مسکونی تحت مدیریت او نقل مکان کرده بود، بعدها به دست داشتن در یکی از تاریک‌ترین روزهای تاریخ معاصر آمریکا متهم شود.\n\nاو به بی‌بی‌سی می‌گوید: «تقریبا غیرممکن است بتوانم تفاوت میان کسی را که ادعا می‌کرد و کسی را که واقعا بود، در ذهنم هضم کنم. هنوز با این موضوع درگیرم.»\n\nاین مرد، عمربیومی، شهروند سعودیِ حدوداً ۴۰ ساله، در سپتامبر ۱۹۹۹ به همراه خانواده‌اش به این مجتمع مسکونی در سن‌دیگوِ کالیفرنیا نقل مکان کرد.\n\nساکن تازه آپارتمان شماره ۱۵۲ مجتمع پارک‌وود خیلی زود به یکی از مهمانان همیشگی مهمانی‌های کنار استخر رچفورد تبدیل شد.\n\nاو به یاد می‌آورد: «همیشه بسیار سرزنده و خندان بود و رفتاری واقعا دوستانه داشت.»\n\nچند ماه بعد، عمر، رچفورد را با دو مرد به‌ ظاهر معمولی و «مودب» آشنا کرد که آن‌ها نیز همسایه‌اش شدند.\nاین دو نفر بعدها با ربودن پرواز ۷۷ امریکن ایرلاینز و هدایت آن به ساختمان پنتاگون در حملات ۱۱ سپتامبر، نام خود را با یکی از مرگبارترین حملات تاریخ آمریکا گره زدند.\n\nادامه مطلب در لینک زیر:\nhttps://bbc.in/4xf3TUt\n\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "32.9K",
+      "views_label": "33.3K",
       "posted_at": "2026-09-08T04:19:16+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291051",
@@ -209,7 +225,7 @@
       "plain_text": "🔻مقام‌های امنیتی ایران: سه هسته وابسته به گروه‌های «تکفیری» را در سیستان و بلوچستان «متلاشی شدند»\n\n🔻مقام‌های امنیتی استان سیستان و بلوچستان روز دوشنبه گفتند که سه هسته سازمان‌یافته و عملیاتی وابسته به آنچه «گروه‌های تکفیری مورد حمایت آمریکا و اسرائیل» خوانده‌اند، پیش از انجام هرگونه اقدامی در مناطق مرزی شناسایی و «متلاشی شده‌اند».\n\nبه گفته این مقام‌ها، اعضای این هسته‌ها هنگام ورود از مرز «رهگیری شدند و نیروهای امنیتی پیش از آنکه بتوانند عملیات خود را اجرا کنند» آنها را خنثی کردند.\n\nجزییات بیشتری از مشخصات این افراد منتشر نشده اما تصاویر ویدیویی از آنچه به نظر یکی از عملیات‌های نیروهای ایرانی در این منطقه است در خبرگزاری‌های داخل ایران از جمله ایرنا منتشر شده است.\n\nhttps://bbc.in/4czJySi\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "32.1K",
+      "views_label": "32.4K",
       "posted_at": "2026-09-08T04:04:52+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291050",
@@ -237,7 +253,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.7K",
+      "views_label": "36K",
       "posted_at": "2026-09-08T03:33:28+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291049",
@@ -265,7 +281,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.5K",
+      "views_label": "39.9K",
       "posted_at": "2026-09-08T02:18:31+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291048",
@@ -408,7 +424,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.3K",
+      "views_label": "39.6K",
       "posted_at": "2026-09-08T01:00:35+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291037",
@@ -2486,34 +2502,6 @@
       "posted_at": "2026-09-06T12:03:59+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/290927",
-      "reply": null
-    },
-    {
-      "id": "bbcpersian/290926",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/diY127ratCidRQBlnbIYTWpc6tSp0qcS4R4O28MWRX4knKjpIaxSnEol1WT3eoIfQAdjiqP4IC_p71AHwGXVeuIvESe62D6qqiDZCWXQBackAIEID1jz-vI840b35b39xPjdY3TgiDPsstS3yiFwq_gv7ZByqqrn3Hs9xmyuvE2VcFmPPBs9QKqiNvYT43NYoxnJ1ucFWCTM3qamIdkk1OsbgbFruM4G37RLamrFqiG1JwmXgJ3Ix_Z4iVhnl4j3JCzbPZQYY9ujMA8v9QSgrmlSvByrqSrbFpP7qEeBejG5HMWgwQeVkTE2yhgVUy1X_mj88RwaT3Gl942tBvanow.jpg",
-      "author_photo_path": "channels/bbcpersian/media/b3ffb6f4b6579a10cf72c4bb.jpg",
-      "author_photo_sha256": "cf48535f60438757cd9b0534a23c038e85ac3e9a472bad98fdb8dd6f9211ad10",
-      "body_html": "این ویدیوها در شبکه‌های مجازی با توضیح درگیری شدید در منطقه «مهرستان استان سیستان و بلوچستان» منتشر شده است. حال‌وش روز یکشنبه ۱۴ شهریور اعلام کرد نیروهای امنیتی به خانه‌ای در روستای ودگر حمله کردند.<br><br>براساس این گزارش درگیری از ساعت ۳ بامداد شروع و تا ۱۰ صبح ادامه داشته است.<br><br>سپاه پاسداران ۱۴ شهریور اعلام کرد «یک تیم تروریستی» در منطقه مهرستان شناسایی و مهندم شد. سپاه می‌گوید «دو نفر که در همراهی با جنگ آمریکا قصد اقدامات تروریستی در اهداف مشخص داشتند» کشته شدند.<br><br>گزارش‌های محلی از کشته و زخمی شدن چند نفر از جمله نیروهای امنیتی در این درگیری حکایت دارد.<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "این ویدیوها در شبکه‌های مجازی با توضیح درگیری شدید در منطقه «مهرستان استان سیستان و بلوچستان» منتشر شده است. حال‌وش روز یکشنبه ۱۴ شهریور اعلام کرد نیروهای امنیتی به خانه‌ای در روستای ودگر حمله کردند.\n\nبراساس این گزارش درگیری از ساعت ۳ بامداد شروع و تا ۱۰ صبح ادامه داشته است.\n\nسپاه پاسداران ۱۴ شهریور اعلام کرد «یک تیم تروریستی» در منطقه مهرستان شناسایی و مهندم شد. سپاه می‌گوید «دو نفر که در همراهی با جنگ آمریکا قصد اقدامات تروریستی در اهداف مشخص داشتند» کشته شدند.\n\nگزارش‌های محلی از کشته و زخمی شدن چند نفر از جمله نیروهای امنیتی در این درگیری حکایت دارد.\n@BBCPersian",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/bbcpersian/290926",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/LWZrwYMxDu8cdeB-a-VVDCKvw_USbRJWO6dOIzfZ8M8LauWMFErvcqEl6I4B6-ykKbA6VZqBe6eE-VcD_3RkXHihT54Ljc62EervlRINQcvurQbK1FH0zBxociqE-9HmxDweoBnvr9WjutTiou3W3nR0Etn7d-3dtRWxjUBYJ6NKnja5imTLF7NmkilL6F3UnDnI-5K-9PkUgQER0IOQ1hdhv-gogx-y6mCrf_8niWpThnKB9yYcLl4ev3gOWroQvS61tHRU68p9M-8wv2csxqWyETXZ3LhgQatCUaz5DxwNXXrx2OM5BqZlk112hz75BWPaEtN-WhGoMECpRDryrQ",
-          "thumbnail_path": "channels/bbcpersian/media/dee6fc62a020e7ca392e35aa.jpg",
-          "thumbnail_sha256": "fcd6c52d402cfd2dcd9c8a14e4ad2fc94c09fda50e9d7fe3f7d7181c1af4cd87",
-          "duration_label": "0:54",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "33.3K",
-      "posted_at": "2026-09-06T11:54:36+00:00",
-      "edited": true,
-      "permalink": "https://t.me/bbcpersian/290926",
       "reply": null
     }
   ]
