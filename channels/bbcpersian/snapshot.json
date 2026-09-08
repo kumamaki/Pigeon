@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T11:13:47.495Z",
+  "fetched_at": "2026-09-08T11:16:33.654Z",
   "channel": {
     "username": "bbcpersian",
     "title": "BBCPersian",
@@ -11,6 +11,22 @@
     "subscriber_count": "774K"
   },
   "posts": [
+    {
+      "id": "bbcpersian/291067",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/s4C2G175wBvyimmVC3qkGVE7qsM7s77SqXkLiiZbw1_t1AEH4C7ALTkCerEqRMGj3-64ClLx_p8VVEwFywKEqKloyqYWrmdoKaype4oiZrGsExmdyTZLKdy_R27bUvHDfEoNhVUtXx2inNF65bXqA26yQLITR_Co8rhjMV3XAIm1E54Rl-qSnlrguLpLz3_g-vLFxwgJya1Tyfc0VhEkRey6YJ249jnJa1MQhLZJ4qgN_7mpa--qxfAjqj--QgCXyj1ByASQFGik-d07BuXNPtqg9GPSCDSc6TxZceIpFff0Zvu4G4ZD1fsw0ZQm4-v11Hrb2wGKVpankgtrHmB0kQ.jpg",
+      "author_photo_path": "channels/bbcpersian/media/92ca8172f153819f54f28df1.jpg",
+      "author_photo_sha256": "cf48535f60438757cd9b0534a23c038e85ac3e9a472bad98fdb8dd6f9211ad10",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>نفتالی بنت، نخست‌وزیر اسرائیل را به «سهل‌انگاری مجرمانه» متهم کرد<br><br>نفتالی بنت، نخست‌وزیر پیشین اسرائیل، بنیامین نتانیاهو را به «سهل‌انگاری مجرمانه» متهم کرد.<br><br>این اتهام بعد از آن به آقای نتانیاهو زده می‌شود که گزارش‌های جدید مبنی بر «مطلع بودن» او از حملات هفتم اکتبر منتشر شده است.<br><br>روزنامه هاآرتص در گزارشی که «براساس مصاحبه با مقام‌های اسرائیلی و بین‌المللی» تهیه شده ، گزارش داده است مقام‌های امارات متحده عربی درباره یک عملیات برنامه‌ریزی شده حماس به بنیامین نتانیاهو هشدار داده بودند.<br><br>دفتر نخست‌وزیر اسرائیل این گزارش را «کاملا دروغ» خوانده است.<br><br>نفتالی بنت بعد از انتشار این خبر آقای نتانیاهو را «فاقد شایستگی لازم» برای مقام نخست‌وزیری دانست.<br><br>این گزارش و اتهام در حالی منتشر شده است که انتخابات در اسرائیل ماه اکتبر ۲۰۲۶ برگزار خواهد شد.<br><br><a href=\"https://bbc.in/4zVqQyp\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4zVqQyp</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔻نفتالی بنت، نخست‌وزیر اسرائیل را به «سهل‌انگاری مجرمانه» متهم کرد\n\nنفتالی بنت، نخست‌وزیر پیشین اسرائیل، بنیامین نتانیاهو را به «سهل‌انگاری مجرمانه» متهم کرد.\n\nاین اتهام بعد از آن به آقای نتانیاهو زده می‌شود که گزارش‌های جدید مبنی بر «مطلع بودن» او از حملات هفتم اکتبر منتشر شده است.\n\nروزنامه هاآرتص در گزارشی که «براساس مصاحبه با مقام‌های اسرائیلی و بین‌المللی» تهیه شده ، گزارش داده است مقام‌های امارات متحده عربی درباره یک عملیات برنامه‌ریزی شده حماس به بنیامین نتانیاهو هشدار داده بودند.\n\nدفتر نخست‌وزیر اسرائیل این گزارش را «کاملا دروغ» خوانده است.\n\nنفتالی بنت بعد از انتشار این خبر آقای نتانیاهو را «فاقد شایستگی لازم» برای مقام نخست‌وزیری دانست.\n\nاین گزارش و اتهام در حالی منتشر شده است که انتخابات در اسرائیل ماه اکتبر ۲۰۲۶ برگزار خواهد شد.\n\nhttps://bbc.in/4zVqQyp\n@BBCPersian",
+      "media": [],
+      "reactions": [],
+      "views_label": "1.65K",
+      "posted_at": "2026-09-08T11:14:13+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/291067",
+      "reply": null
+    },
     {
       "id": "bbcpersian/291066",
       "author_name": "BBCPersian",
@@ -33,7 +49,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.8K",
+      "views_label": "11.8K",
       "posted_at": "2026-09-08T10:40:47+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291066",
@@ -61,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.5K",
+      "views_label": "18.5K",
       "posted_at": "2026-09-08T10:09:20+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291065",
@@ -77,7 +93,7 @@
       "plain_text": "🔻قوه قضائیه ایران: در جریان طرح مقابله با نفوذ در مجلس نبودیم\n\nسخنگوی قوه قضائیه ایران اعلام کرده است که در جریان طرح مقابله با نفوذ که اخیرا به تصویب مجلس شورای اسلامی رسیده، نبوده است.\n\nعلی کاظمی، سخنگوی این قوه گفته است که «ماده ۱۲ به بعد این طرح که در مجلس مطرح بوده مربوط به مباحث جزایی است و این موارد با قوه قضائیه ارتباط دارد و طبیعتا باید توسط قوه قضائیه اعمال شود.»\n\nطرح «مقابله با نفوذ سرویس‌های اطلاعاتی و دولت‌ها یا نهادهای بیگانه در کشور» که از تیرماه ۱۴۰۴ در مجلس مطرح شده، ۲۵ مرداد ۱۴۰۵ در صحن علنی مجلس ایران که به صورت وبیناری برگزار می‌شود به تصویب رسید اما بررسی جزئیات آن ادامه دارد. دولت مسعود پزشکیان با این طرح مخالفت کرده است.\n\nقوه قضائیه ایران هم به طور تلویحی از بخش های جزایی این طرح انتقاد کرده اما اصل آن را لازم دانسته است.\n\nسخنگوی این قوه گفته است «هفته گذشته معاون حقوقی و امور مجلس قوه قضائیه نامه‌ای خطاب به رئیس مجلس شورای اسلامی صادر کرد و در آن درخواست شد با توجه به اینکه قوه قضائیه در جریان این طرح نبوده و ضروری است که در خصوص این قانون اظهارنظر کند موضوع در مجلس مطرح شود.»\n\nسخنگوی قوه قضائیه گفته «قانونگذاری در این حوزه بسیار حساس است. ما صرفاً نباید به شرایط کنونی نگاه کنیم قانون‌گذاری هنر سخن گفتن با آینده است» و ادامه داده که «وضع باید به نحوی نباشد که قوانین پس از مدت کوتاهی اصلاح شوند.»\n\nhttps://bbc.in/4qWJFNC\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "19.1K",
+      "views_label": "19.8K",
       "posted_at": "2026-09-08T10:00:07+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291064",
@@ -93,7 +109,7 @@
       "plain_text": "🔻سیل و طوفان در مازندران؛ تمامی ادارات تعطیل شدند، برق برخی نقاط قطع شد\n\nدر پی بارندگی شدید تابستانی و طغیان رودخانه‌ها در شمال ایران، سیل بخش‌هایی از شمال ایران را فراگرفت. سیل ساری، مرکز استان را پوشانده است و تمامی ادارات تعطیل شده‌اند. برق در برخی از نقاط استان قطع شده است.\n\nhttps://bbc.in/4zYEEbo\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "21.8K",
+      "views_label": "22.5K",
       "posted_at": "2026-09-08T09:42:22+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291063",
@@ -109,7 +125,7 @@
       "plain_text": "🔻حوثی‌های یمن: با موشک و پهپاد به اهداف اقتصادی و نظامی عربستان حمله کردیم\n\nحوثی‌های یمن اعلام کردند که در پاسخ به بیش از آنچه ۱۲۰ حمله عربستان سعودی به یمن طی سه روز گذشته خواندند، ده‌ها پهپاد و موشک را به سوی اهداف اقتصادی و نظامی در عربستان شلیک کرده‌اند.\n\nیحیی سریع، سخنگوی نظامی حوثی‌ها گفت: «نیروهای مسلح یمن یک عملیات نظامی گسترده و دوربرد را با استفاده از ده‌ها فروند موشک بالستیک و پهپاد انجام دادند.»\n\nپیشتر گزارش دادیم که ائتلاف نظامی به رهبری عربستان در یمن اعلام کرده است که دستکم ۷۳ نفر در حملات حوثی‌های مورد حمایت ایران به عربستان سعودی زخمی شده‌اند.\n\nاین ائتلاف اعلام کرد که به این حملات قاطعانه پاسخ خواهد داد.\n\nحوثی‌ها که کنترل پرجمعیت‌ترین مناطق یمن و بخش بزرگی از شمال این کشور را در اختیار دارند، از زمان اعلام محاصره دریایی علیه عربستان در ماه ژوئیه، حملاتی را به سمت این کشور انجام داده‌اند و کشتی‌های آن را در دریای سرخ هدف قرار داده‌اند.\n\nhttps://bbc.in/4zVqQyp\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "27.2K",
+      "views_label": "27.5K",
       "posted_at": "2026-09-08T09:05:31+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291062",
@@ -137,7 +153,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.9K",
+      "views_label": "31.2K",
       "posted_at": "2026-09-08T08:22:56+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291061",
@@ -153,7 +169,7 @@
       "plain_text": "🔻محاصره نفتی ایران و قبض ۱۰۰ میلیارد دلاری برای آمریکایی‌ها\n\n🖌خشایار جنیدی, بی‌بی‌سی در,واشنگتن\n\nکاهش شدید درآمدهای نفتی ایران در پی محاصره دریایی آمریکا، توجه بسیاری از رسانه‌ها را به خود جلب کرده است. وال‌استریت ژورنال می‌نویسد این تحول می‌تواند اقتصاد ایران را وارد مرحله‌ای عمیق‌تر از بحران کند.\n\nhttps://bbc.in/4xBNvye\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "32.7K",
+      "views_label": "33K",
       "posted_at": "2026-09-08T07:43:57+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291060",
@@ -181,7 +197,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.4K",
+      "views_label": "33.8K",
       "posted_at": "2026-09-08T07:23:39+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291059",
@@ -209,7 +225,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.9K",
+      "views_label": "33.2K",
       "posted_at": "2026-09-08T07:03:04+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291058",
@@ -269,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.5K",
+      "views_label": "34.9K",
       "posted_at": "2026-09-08T06:08:48+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291054",
@@ -297,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.5K",
+      "views_label": "36.8K",
       "posted_at": "2026-09-08T05:41:01+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291053",
@@ -385,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "44.8K",
+      "views_label": "45.1K",
       "posted_at": "2026-09-08T03:33:28+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291049",
@@ -413,7 +429,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.3K",
+      "views_label": "47.6K",
       "posted_at": "2026-09-08T02:18:31+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291048",
@@ -429,7 +445,7 @@
       "plain_text": "🔻ایران: یک هیات قطری با هدف کاهش تنش به تهران آمد\n\n🔻اسماعیل بقایی، سخنگوی وزارت خارجه ایران تایید کرده است که یک هیئت دیپلماتیک قطری برای گفتگو با مقام‌های این کشور وارد تهران شده است.\n\nسخنگوی وزارت خارجه روز دوشنبه گفت که این هیئت با عباس عراقچی، وزیر خارجه ایران، دیدار کرده است.\nآقای بقایی هدف از سفر این هیئت قطری را «ادامه تلاش‌ها برای کاهش تنش» در منطقه عنوان کرد.\n\nhttps://bbc.in/4A6NTGS\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "45.1K",
+      "views_label": "45.4K",
       "posted_at": "2026-09-08T01:46:11+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291047",
@@ -556,7 +572,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "46.4K",
+      "views_label": "46.7K",
       "posted_at": "2026-09-08T01:00:35+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291037",
@@ -2490,31 +2506,6 @@
       "edited": false,
       "permalink": "https://t.me/bbcpersian/290935",
       "reply": null
-    },
-    {
-      "id": "bbcpersian/290934",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/diY127ratCidRQBlnbIYTWpc6tSp0qcS4R4O28MWRX4knKjpIaxSnEol1WT3eoIfQAdjiqP4IC_p71AHwGXVeuIvESe62D6qqiDZCWXQBackAIEID1jz-vI840b35b39xPjdY3TgiDPsstS3yiFwq_gv7ZByqqrn3Hs9xmyuvE2VcFmPPBs9QKqiNvYT43NYoxnJ1ucFWCTM3qamIdkk1OsbgbFruM4G37RLamrFqiG1JwmXgJ3Ix_Z4iVhnl4j3JCzbPZQYY9ujMA8v9QSgrmlSvByrqSrbFpP7qEeBejG5HMWgwQeVkTE2yhgVUy1X_mj88RwaT3Gl942tBvanow.jpg",
-      "author_photo_path": "channels/bbcpersian/media/b3ffb6f4b6579a10cf72c4bb.jpg",
-      "author_photo_sha256": "cf48535f60438757cd9b0534a23c038e85ac3e9a472bad98fdb8dd6f9211ad10",
-      "body_html": "مغازه‌داران و حتی دستفروشان، از فروشندگان پوشاک گرفته تا میوه و تره‌بار، می‌گویند که مردم به‌خاطر تورم قدرت خریدشان را از دست داده‌اند و با این شرایط، حتی از عهده مخارج مغازه، از جمله اجاره‌بها و حقوق کارگر برنمی‌آیند.&nbsp;<br><br>مشاهدات شما از رکود اقتصادی در ایران چیست؟ اگر کسب و کاری دارید و&nbsp;کارهای تولیدی، خدماتی، خرید و فروش کالا&nbsp;انجام می‌دهید، مشاهداتتان در ماه‌های اخیر چه بوده است؟ غیر از قدرت خرید مردم، چه عواملی بر کسب و کار شما تاثیر گذاشته است؟<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a><br><a href=\"https://bbc.in/4iaFqM8\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4iaFqM8</a>",
-      "plain_text": "مغازه‌داران و حتی دستفروشان، از فروشندگان پوشاک گرفته تا میوه و تره‌بار، می‌گویند که مردم به‌خاطر تورم قدرت خریدشان را از دست داده‌اند و با این شرایط، حتی از عهده مخارج مغازه، از جمله اجاره‌بها و حقوق کارگر برنمی‌آیند. \n\nمشاهدات شما از رکود اقتصادی در ایران چیست؟ اگر کسب و کاری دارید و کارهای تولیدی، خدماتی، خرید و فروش کالا انجام می‌دهید، مشاهداتتان در ماه‌های اخیر چه بوده است؟ غیر از قدرت خرید مردم، چه عواملی بر کسب و کار شما تاثیر گذاشته است؟\n@BBCPersian\nhttps://bbc.in/4iaFqM8",
-      "media": [],
-      "reactions": [],
-      "views_label": "40.8K",
-      "posted_at": "2026-09-06T13:25:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/290934",
-      "reply": {
-        "channel_username": "bbcpersian",
-        "post_id": "290933",
-        "author_name": "BBCPersian",
-        "preview_text": "«اقتصاد ایران از شدت شوک فاصله گرفته اما هنوز منقبض است.» تصاویر منتشر شده از بازارهای خلوت شهرهای مختلف و محتوایی که برخی مغازه‌داران در شبکه‌های اجتماعی تولید می‌کنند هم از رکود کسب و کار و دردسرهای افزایش روزافزون نرخ ارز حکایت دارد. بررسی‌های اتاق بازرگانی…",
-        "thumbnail_url": "https://cdn4.telesco.pe/file/naoZod8LnsZB80GAXjId5ROzK3YxMdykM5aSMfxkH1hGN9cT0cZNMYLgsBiPRdOZP5TkVY_4zrGPXkSIJFmWxRUGQNM1eHw6lEEMvq6fp7XocP5xS6LbOrhhNt8A4HKUfp4eXI1xPCmTHCI6oKxmLG7PmG-6MNLUEyn8gDM6QYWYTkWr1fadEh_fu4y5aUyXCXRRmaEEFasqv3_f9-BmpAQh2SOTOjIBQVQyfoz0xR9aYvCbPQhIu1St57KEZzktJXDwXOMHGAuWQDq7Fgf4jYHiOOzLgv2G23124CU_YsYkyOoIAZzDqy_Ku3jCkvMMWCRRJeSCVCFy51moudv-EQ",
-        "thumbnail_path": "channels/bbcpersian/media/1688234347717df67e7bae8c.jpg",
-        "thumbnail_sha256": "43f4da2083109097c57858b9bab31495e5356d5187f869390d17227456db978a",
-        "permalink": "https://t.me/bbcpersian/290933"
-      }
     }
   ]
 }
