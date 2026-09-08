@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T10:36:38.816Z",
+  "fetched_at": "2026-09-08T10:41:47.172Z",
   "channel": {
     "username": "whitedns",
     "title": "White DNS",
@@ -23,7 +23,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "36"
+          "count": "39"
         },
         {
           "emoji": "👍",
@@ -50,7 +50,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.1K",
+      "views_label": "3.32K",
       "posted_at": "2026-09-08T09:52:08+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1739",
@@ -95,7 +95,7 @@
           "count": "1"
         }
       ],
-      "views_label": "5.89K",
+      "views_label": "6.01K",
       "posted_at": "2026-09-08T08:02:42+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1738",
@@ -237,7 +237,7 @@
           "count": "1"
         }
       ],
-      "views_label": "11.3K",
+      "views_label": "11.4K",
       "posted_at": "2026-09-07T02:55:31+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1736",
@@ -302,7 +302,7 @@
           "count": "1"
         }
       ],
-      "views_label": "12.8K",
+      "views_label": "12.9K",
       "posted_at": "2026-09-06T11:25:09+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1735",
@@ -905,6 +905,10 @@
       "plain_text": "📦 WhiteDNS Tools — Downloads\n━━━━━━━━━━━━━━━━━━\n📱 WhiteAesther\n• Mobile:\nhttps://github.com/WhiteDNS/WhiteAestherMobile/releases\n• Desktop:\nhttps://github.com/WhiteDNS/WhiteAesther/releases\n━━━━━━━━━━━━━━━━━━\n🛡 WhiteVPN\n• Mobile:\nhttps://github.com/WhiteDNS/WhiteVPN/releases\n• Desktop:\nhttps://github.com/WhiteDNS/WhiteVPN-Desktop/releases\n━━━━━━━━━━━━━━━━━━\n🌐 WhiteDNS — مناسب دوران قطعی\n• Android:\nhttps://github.com/WhiteDNS/WhiteDNS-Android/releases/tag/1.6.0\n• Desktop:\nhttps://github.com/WhiteDNS/WhiteDNS-Desktop/releases\n━━━━━━━━━━━━━━━━━━\n🔎 WhiteDNS Clean IP + Resolver Finder\n• Desktop & Mobile:\nhttps://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases\n━━━━━━━━━━━━━━━━━━\n🍎 CoreForge VPN + DNS — iOS\n• TestFlight:\nhttps://testflight.apple.com/join/DRkT6zny\n━━━━━━━━━━━━━━━━━━\n🎓 آموزش‌ها\n🔗 آموزش Exit Chain برای WhiteAesther و WhiteVPN\nhttps://youtu.be/yx-jFqv9pYM\n🛡 آموزش کامل WhiteVPN\nhttps://www.youtube.com/watch?v=tm0ls3r4ppw\n📱 آموزش کامل WhiteAesther\nhttps://www.youtube.com/watch?v=cRfqxbDY1Dg&t=1s\n🌐 آموزش کامل WhiteDNS\nhttps://www.youtube.com/watch?v=tz8cj7HzHVI\n🍎 آموزش کامل CoreForge\nhttps://www.youtube.com/watch?v=filwdiPKN90\n🔎 آموزش کامل اسکنر WhiteDNS\nhttps://www.youtube.com/watch?v=N5hKuWXp37w\n━━━━━━━━━━━━━━━━━━\n@whitedns\n\n·:¨༺ @BlueKnight_Net ༻¨:·",
       "media": [],
       "reactions": [
+        {
+          "emoji": "⭐",
+          "count": "1"
+        },
         {
           "emoji": "❤",
           "count": "224"
