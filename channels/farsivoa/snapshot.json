@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T18:42:32.801Z",
+  "fetched_at": "2026-09-08T18:46:36.725Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229898",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "بنزین ۱۰هزار تومانی؛ ثبت شناسه و اعمال محدودیت در کارت جایگاه",
+      "plain_text": "بنزین ۱۰هزار تومانی؛ ثبت شناسه و اعمال محدودیت در کارت جایگاه",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229898",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/VBMXdDTtT-FvEsDn_yRo2h--NofU8-h-Be0_Y7w8LoQNq7sHI27zEXPqiRpKuy4sNbC8n_6pl5bJAtCr1VMqzA5IMue4JFYdhg1Aaovrl66gqzd3zSOJb2z2EXUoN19nnCIXgJEbNrb4s-IK-1rCAwvblMQV3lvVBwvO399PeuuzpRSt8oaV7IBWKCJC4FKJgIsIqmvsHX2hAmPzo5jGhOiit77aPDuB5OFaYHVsjzNhPNWWczQSl4jjtFbwsB8_YVtWz25FAVRJlcq2WDPW5QY_LcFbKyYnq6dK6zzZ3HX32_HfGfc8DGiC66BBF86xXGAWAPhgTlGd2IwcXukiMQ",
+          "thumbnail_path": "channels/farsivoa/media/b802ff033a9657e60694934a.jpg",
+          "thumbnail_sha256": "10a20da818dd74bf07026447f330315ae41835ad3dfa99798cad17a9046616e0",
+          "duration_label": "5:14",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "4",
+      "posted_at": "2026-09-08T18:45:52+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229898",
+      "reply": null
+    },
     {
       "id": "farsivoa/229897",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "673",
+      "views_label": "867",
       "posted_at": "2026-09-08T18:32:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229897",
@@ -49,7 +77,7 @@
       "plain_text": "🔺آشفتگی بنزینی در ایران؛ از جرقه اعتراضات خیابانی تا خرابی خودروها در نتیجه استفاده از بنزین بی‌کیفیت\n\n▪️همزمان با افزایش قیمت دو برابری سوخت در ایران، گزارش‌ها و تصاویر منتشر شده از بروز دست کم یک مورد اعتراض خیابانی در کرمانشاه حکایت دارد و همزمان صف‌های طولانی جایگاه‌های سوخت از مناطق مختلف کشور گزارش شده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-gas-sanction-protest-islamic-republic-of-iran-security-forces-currency-import-operation-economic-outcast--asphyxiation-/8195598.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.08K",
+      "views_label": "1.25K",
       "posted_at": "2026-09-08T18:26:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229896",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.38K",
+      "views_label": "1.51K",
       "posted_at": "2026-09-08T18:18:11+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229895",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.57K",
+      "views_label": "1.7K",
       "posted_at": "2026-09-08T18:11:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229894",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.7K",
+      "views_label": "1.83K",
       "posted_at": "2026-09-08T18:07:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229893",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.73K",
+      "views_label": "1.83K",
       "posted_at": "2026-09-08T18:03:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229891",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.95K",
+      "views_label": "2.05K",
       "posted_at": "2026-09-08T17:54:58+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229890",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.89K",
+      "views_label": "1.96K",
       "posted_at": "2026-09-08T17:50:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229889",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.28K",
+      "views_label": "2.34K",
       "posted_at": "2026-09-08T17:37:42+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229888",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.5K",
+      "views_label": "2.57K",
       "posted_at": "2026-09-08T17:27:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229887",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.75K",
+      "views_label": "2.82K",
       "posted_at": "2026-09-08T17:16:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229886",
@@ -317,7 +345,7 @@
       "plain_text": "🔴📢‌ پادکست تفسیر خبر- سه شنبه ۱۷ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "2.59K",
+      "views_label": "2.66K",
       "posted_at": "2026-09-08T17:08:28+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229885",
@@ -345,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.7K",
+      "views_label": "2.76K",
       "posted_at": "2026-09-08T16:56:30+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229884",
@@ -373,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.77K",
+      "views_label": "2.8K",
       "posted_at": "2026-09-08T16:52:14+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229883",
@@ -389,7 +417,7 @@
       "plain_text": "🔺مارکو روبیو درباره اقدامات حوثی‌ها: دست جمهوری اسلامی پشت آنها است\n\n▪️مارکو روبیو، وزیر امور خارجه ایالات متحده، روز سه‌شنبه ۱۷ شهریور با اشاره به حملات حوثی‌های یمن به عربستان سعودی گفت این گروه «از بسیاری جهات عوامل و نیروهای نیابتی» جمهوری اسلامی است و افزود که «به‌وضوح دست جمهوری اسلامی» پشت بخشی از این تحولات دیده می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/rubio-links-houthis-to-iran/8195596.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.79K",
+      "views_label": "2.86K",
       "posted_at": "2026-09-08T16:46:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229882",
@@ -417,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.54K",
+      "views_label": "2.57K",
       "posted_at": "2026-09-08T16:44:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229881",
@@ -433,7 +461,7 @@
       "plain_text": "🔺واکنش اسرائیل به اقدامات بریتانیا؛ تعطیلی کنسولگری در اورشلیم و اخراج نمایندگان از مرکز هماهنگی غزه\n\n▪️به گزارش رسانه‌های اسرائیل، گیدئون سعار، وزیر امور خارجه اسرائیل، روز سه‌شنبه ۱۷ شهریور با انتشار بیانیه‌ای اعلام کرد که اسرائیل چند اقدام دیپلماتیک را علیه بریتانیا به اجرا خواهد گذاشت.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/gideon-saar-israel-british-relations/8195571.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.83K",
+      "views_label": "2.87K",
       "posted_at": "2026-09-08T16:36:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229880",
@@ -461,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.76K",
+      "views_label": "2.79K",
       "posted_at": "2026-09-08T16:33:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229879",
@@ -489,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.76K",
+      "views_label": "2.8K",
       "posted_at": "2026-09-08T16:24:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229878",
@@ -2505,34 +2533,6 @@
       "posted_at": "2026-09-07T20:41:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229798",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229797",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "ترس رژیم از جسارت، خلاقیت و مبارزه زنان به‌جاست؛ حضوری که نقطه عطف آن جنبش زن، زندگی، آزادی بود - گفت‌وگو با عطیه نیک‌نفس<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "ترس رژیم از جسارت، خلاقیت و مبارزه زنان به‌جاست؛ حضوری که نقطه عطف آن جنبش زن، زندگی، آزادی بود - گفت‌وگو با عطیه نیک‌نفس\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229797",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/VGkyVvP7dLHLebeafdXOCN_yF9_0JJQxfDhMSrNpHgsGi79Zlzht0b_EolHyjVyoguyq4YAzW36QncOAR4HS6Y2OZcD9w6c-o07El98hQUKcTu2VU_yNjWYorbtYtTjJ6UGG4-ftibWRl9_x24kDaKIpNQhCraMnmxUkD3nHI4JRHL6nQy66lKi8-Bn1Jaicz3LJ0GY5DdefyfOWvANcvcCODebMOR4hcy2Qu91rHLU_skxst1jNG4zGlGE2X_NCJHA1IsnuKUllGj3q0aaxg-XM7_dOf45xNHX2PpcIY3_lv5pAtXc2Y15B_n6dukZZ71DHqktzLx5jMENGh8rRtg",
-          "thumbnail_path": "channels/farsivoa/media/31ac351b7d8f500a0fe4d72a.jpg",
-          "thumbnail_sha256": "5918ffb6b439470fa849e05d858916537c98efbfb87f01862d28a73443b12b13",
-          "duration_label": "2:42",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "4.21K",
-      "posted_at": "2026-09-07T20:31:29+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229797",
       "reply": null
     }
   ]
