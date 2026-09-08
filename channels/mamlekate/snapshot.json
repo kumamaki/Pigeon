@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T08:12:11.770Z",
+  "fetched_at": "2026-09-08T08:18:49.992Z",
   "channel": {
     "username": "mamlekate",
     "title": "مملکته",
@@ -11,6 +11,73 @@
     "subscriber_count": "568K"
   },
   "posts": [
+    {
+      "id": "mamlekate/104384",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ZVNNlpWoKwkYBFouLcs_Pw4lKzSdPj7BUcq-WCAfe2zDrbgKBhUD37VZcO12mZ4OothvbZpVjUT-5g2ixUn6ZtLKtBRnJrfIa9aYHrETdhtqTiF6Yg64928z7b0n7h4TNFiKdHk3FcTz3xny5zLAbTZ-VarlLYIfm16tkWNL4sWnBJoGAz4un4YQDplR3yjJls96U6vnpnlgoTJTY-BxS0UIC4RWdg7BblsjFoe7Ec7jqIX27Ogh-CZMdSKXPQwNF6ODUhPKh_obvvcXBfbrDvhV1awU1Tml-senhn_FOeuiLtVl45fdIWei5jVSX7x1-VcXu9PK8279RGHEV6CX7Q.jpg",
+      "author_photo_path": "channels/mamlekate/media/a66c1a3300ad5823463961c8.jpg",
+      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">همزمان در ایران:<br><br>۱. سخنرانی یک شلوار لی آستین کوتاه در تجمع انقلابی در تهران و پخش گسترده آن در خروجی‌های رسانه‌ای<br><br>۲. حرکت اعتراضی کیسه‌های زباله در سِده خمینی‌شهر برای حجاب (هر وقت گرونی و فساد زیاد میشه، یهو بحث حجاب هم جدی میشه == حجاب سرپوش فساد)<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a></div>",
+      "plain_text": "همزمان در ایران:\n\n۱. سخنرانی یک شلوار لی آستین کوتاه در تجمع انقلابی در تهران و پخش گسترده آن در خروجی‌های رسانه‌ای\n\n۲. حرکت اعتراضی کیسه‌های زباله در سِده خمینی‌شهر برای حجاب (هر وقت گرونی و فساد زیاد میشه، یهو بحث حجاب هم جدی میشه == حجاب سرپوش فساد)\n\n@mamlekate",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104384?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Jc2JKqPnxzUZlr6QRforT77EA8vHcD9qEbC_-URWzJipda6NUN99-_Rp9AyfUjJ7UgxwS8GKS0g2rrCiuVVxj38fk_CEbSR5HA0MjtKJT4vouRIuCZTa410qa3PSErvtNOh2UPNt6gifz6NqmYpSlTKzdkCxF2RixembHWCbTh5V_0d3DN0R8tTdSR5mm3Hq_0QYswtJpw3MU7V-1qIDf4k0VTGgdoUjjpQEBGsrizR85jnOBd9VWOcn4J1JZKgeWpNP6vVWwik_tDTilv3rOAJjJMb2GbTgLaSO0_Wg2kCYPw5bcXBEKfmmTTtoxAKBc9Os9KvdRt45prZffKtxwg",
+          "thumbnail_path": "channels/mamlekate/media/4d4946dfdd2d74891ead38fb.jpg",
+          "thumbnail_sha256": "89d3249bb4963155a5f0cb5cb74a961b84b1719c38ed39f8a8d9ca172caa1f86",
+          "duration_label": "0:36",
+          "aspect_ratio": null
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104385?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ANIR8j4Ry7UAllkSlHDCfzQuzNIA27Txt6plQjEYU2RaXmwlWtTPnToLMg2taOkVkZJArPA4MghBWE3acja_ort_YtpdbzZN35GwqE0nCn9KK6q7_iSAlDJeDuKxfDsy6XFn8zPAMVXa45t2bGZrw6ZYqEGe93_hvJuktNabKJFcCdlbstWnEVygVGzCqKue699J-_PsQfrQ8QVTSXL93OsZIaJyMj4CaFsRZWfFrEKqQmSVNzy7zZK6zAQFAXESqGzClKOmCdbIDXqZN2JX3e8KctWgbPvp7Q0-bNAMtaWh8OXfX0H_P9YFKbXI7CwW-G3ZuqPPTzXzt4Peo2zlbQ",
+          "thumbnail_path": "channels/mamlekate/media/af00dc5f878404b8ccdab3e9.jpg",
+          "thumbnail_sha256": "d67b3360c9a8aac56745f67add5d5a606b76572fe47ac426ad9d3a8503e712f9",
+          "duration_label": "0:23",
+          "aspect_ratio": null
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.81K",
+      "posted_at": "2026-09-08T08:17:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/mamlekate/104384",
+      "reply": null
+    },
+    {
+      "id": "mamlekate/104383",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/ZVNNlpWoKwkYBFouLcs_Pw4lKzSdPj7BUcq-WCAfe2zDrbgKBhUD37VZcO12mZ4OothvbZpVjUT-5g2ixUn6ZtLKtBRnJrfIa9aYHrETdhtqTiF6Yg64928z7b0n7h4TNFiKdHk3FcTz3xny5zLAbTZ-VarlLYIfm16tkWNL4sWnBJoGAz4un4YQDplR3yjJls96U6vnpnlgoTJTY-BxS0UIC4RWdg7BblsjFoe7Ec7jqIX27Ogh-CZMdSKXPQwNF6ODUhPKh_obvvcXBfbrDvhV1awU1Tml-senhn_FOeuiLtVl45fdIWei5jVSX7x1-VcXu9PK8279RGHEV6CX7Q.jpg",
+      "author_photo_path": "channels/mamlekate/media/a66c1a3300ad5823463961c8.jpg",
+      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
+      "body_html": "نازل‌های پمپ بنزین، روزی بنزین ۱۰ ریالی به مردم می‌رسوند الان ۱۰۰.۰۰۰ ریال<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
+      "plain_text": "نازل‌های پمپ بنزین، روزی بنزین ۱۰ ریالی به مردم می‌رسوند الان ۱۰۰.۰۰۰ ریال\n\n@mamlekate",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104383",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/JoL6wn5v60QPblUwMvW-WrB6tIW9212pqyzdUj2z83_lpTQ-U7nZLuRaHOq2eKCkC0N3zvJIc2O1TVu2ngld3iRfhdI4N_kZ057JrhqHJ4PzmwlMWcdwbnlIn_IDDPpPN9AKShFZxYAsdLmypqBFZAOTYFLbbeGCWerovC0T_M5mPBVLOwVN2ig4JMvVN2ohtmGUQ-WTSxHkvM0YE0Jf1BaSsRfkIqVRlHRsTJxzfjX7V-mUtBdED1jYCzwcnPTjAt_tuEyLxEhdQRQaldqqmZNqfp-mry-VmGyLfP9a-SWbrv-ja9qek5xMaI97tWXOGvIShwI7RO5l5QOC8dcCNw",
+          "thumbnail_path": "channels/mamlekate/media/a23653c43d452394db53e827.jpg",
+          "thumbnail_sha256": "1466038079d8c6db9dc28d9bd47cbc77aac3285aa43ae8ace3b5887ad54620dd",
+          "duration_label": "1:40",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "6.77K",
+      "posted_at": "2026-09-08T08:13:25+00:00",
+      "edited": false,
+      "permalink": "https://t.me/mamlekate/104383",
+      "reply": null
+    },
     {
       "id": "mamlekate/104381",
       "author_name": "مملکته",
@@ -44,7 +111,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "74.5K",
+      "views_label": "76.6K",
       "posted_at": "2026-09-07T22:46:12+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104381",
@@ -94,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "76.7K",
+      "views_label": "78.9K",
       "posted_at": "2026-09-07T22:37:57+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104378",
@@ -122,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "80K",
+      "views_label": "81.8K",
       "posted_at": "2026-09-07T22:07:02+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104377",
@@ -155,7 +222,7 @@
           "count": "1"
         }
       ],
-      "views_label": "89.3K",
+      "views_label": "90.6K",
       "posted_at": "2026-09-07T21:30:07+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104376",
@@ -183,7 +250,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "83.3K",
+      "views_label": "84.6K",
       "posted_at": "2026-09-07T21:28:18+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104375",
@@ -197,11 +264,23 @@
       "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
       "body_html": "<tg-emoji emoji-id=\"5247176827016847212\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939E.png')\"><b>📞</b></i></tg-emoji> امروز ۱۶ شهریور از ساعت ۹ شب موتورای دوترکه مسلح تمام میادین شهر ایستاده بودن و داشت به تعدادشون اضافه میشد. تمام سگاشونن آورده بودن بیرون برای جلوگیری از اعتراض مردم به دو برابر کردن قیمت بنزین<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
       "plain_text": "📞 امروز ۱۶ شهریور از ساعت ۹ شب موتورای دوترکه مسلح تمام میادین شهر ایستاده بودن و داشت به تعدادشون اضافه میشد. تمام سگاشونن آورده بودن بیرون برای جلوگیری از اعتراض مردم به دو برابر کردن قیمت بنزین\n\n@mamlekate",
-      "media": [],
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104374",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/tNSu8nS-SksUyf1XQYHO4nnKiBq4m735NcOsjpRCciEixU3bWjnT9yC3c4xzg0mMEtxzSZQdgG82yGB8L498Alz4J0y-I56ZKZ4p5iniDkeW0mb1LgI0YDlTJ-KOPZ8VcW8b9jsFnR-ENjBp03HMPB_GRWp3WIIZ8orqJYONWDcJCsUSDA5KzFEeftPoZB1Pj4YovOJXtHLarx-p0y14Iw6_oSadaoD9khkJHROdK2X0Xl0DLZ0NligLHiszVeCt3gGZyY8SRQP32-CTawF4LlZmMwA-aP5aclbZzSt9n_1Z0JoHUBYNH_ofjN9NlAjOx1Pvx56-1wgm62XAuucNtg",
+          "thumbnail_path": "channels/mamlekate/media/21da6cf32fb7a8564de18044.jpg",
+          "thumbnail_sha256": "a2fa5faa13a583233feb571a17ea602410798f36ce4ff026f741be5996b64dd3",
+          "duration_label": "0:22",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
       "reactions": [],
-      "views_label": "101K",
+      "views_label": "102K",
       "posted_at": "2026-09-07T19:15:38+00:00",
-      "edited": false,
+      "edited": true,
       "permalink": "https://t.me/mamlekate/104374",
       "reply": null
     },
@@ -2800,59 +2879,6 @@
       "edited": true,
       "permalink": "https://t.me/mamlekate/104253",
       "reply": null
-    },
-    {
-      "id": "mamlekate/104252",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/kVIUzGOcKB2QTv8jspsZszXErHtPKZ387jivsEfyz12rYNMd0DxYuLaLLSY7CrCJUGClnxlq7nA6anz-p01J8cOSHUYppb4u68HyT8AGviD3uPYu7UKHVof0mjefA3I-jTDg3h2FB14KeSxJM9QoFn_aTbYf-dLqb8LWBOvYYUzG_bWS_Zbrl8pflzJfsef_pcUCL-8apAy8LFJhY4vgekTkJqSDbwbbKR2yxDrORrsqL9IVmYQnezQqxFtN7GUrmU8g8EBLZQA_ClO6er63zpkI6QvSw_i88CfJU94dkKXe6WcRyXH1IAsnlxo3VS4iRKeo-Sw-Rtq9eS2Kdjouqg.jpg",
-      "author_photo_path": "channels/mamlekate/media/5565e343a0f09946e5853780.jpg",
-      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
-      "body_html": "کلیپ رو دیدم فکر کردم افتتاحیه پالایشگاهه، بعد نگو افتتاح پمپ بنزین در اطراف شهر یاسوج با ۴ عدد نازل سوخته با حضور استاندار و سایر مقامات استان<br><a href=\"https://x.com/mojtaba_____/status/2092854379946647718\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">mojtaba</a><br><br><tg-emoji emoji-id=\"5922792164978336476\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i></tg-emoji><a href=\"https://t.me/mamlekate/77974\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"> ایران اندازه روسیه گاز داره، اندازه عربستان نفت</a><br><br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
-      "plain_text": "کلیپ رو دیدم فکر کردم افتتاحیه پالایشگاهه، بعد نگو افتتاح پمپ بنزین در اطراف شهر یاسوج با ۴ عدد نازل سوخته با حضور استاندار و سایر مقامات استان\nmojtaba\n\n💎 ایران اندازه روسیه گاز داره، اندازه عربستان نفت\n\n\n@mamlekate",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104252",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/gCbdFUy-VXnmaHrIR4AaKT4LSGiggJPKK7ewhoFfmUi4_wMTq79VN87MiMRPhc9wuOKdjKIJM7J6qvgFgIGQx4LuaEjjX7P5TOVFvLaHMUYul4Du6Nh8xM7rUz9AV1AqxBQ4Fy6iD-2Ac30_oceyZIG90Vzzv6nXuLTPFoGFMuF_Zsr03_ZF2dpqnrTkZVa5SuouDv6hTQbYOW4wU_Usx764bfySkp448iZ-z0y0NOGrufdBLbTNxiprw3JZBm5gUJU5crTBc1uY8SVr64VeRLXGl5zESQ_Xj_p-GFhOUOl34MycDTtJ8c3ZqeKIbhDt5W2HxW0Ei0mZo2dgDny7Qw",
-          "thumbnail_path": "channels/mamlekate/media/61ef08d3c4d20733b9916dd5.jpg",
-          "thumbnail_sha256": "e31248300d67cfdd61c836412420ffd56acc4a89dd3864602bda8ed066f6ceed",
-          "duration_label": "0:47",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "126K",
-      "posted_at": "2026-08-27T09:43:40+00:00",
-      "edited": true,
-      "permalink": "https://t.me/mamlekate/104252",
-      "reply": null
-    },
-    {
-      "id": "mamlekate/104251",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/mUODKpUWA3hCqLnEhqzQIPiVqsnKQdVqq_Jb-BoGa4kgHER7JvVX25CjaXQGAAJAF_OyJBmTvZNfYfZ79aFVG29LmLpe_38OS2WUO49by1mKUiI0rqr76O8xIjEQW5j0jmWtLU-JyUAUsyvlBJLZbxcBcqaTZCDXj80zTG6L6yCHdE7Qp3rtCdOFQneX8KyqPp07hbdnHoWmB0SQKHw8ZBojiYy0pL4alS8cEVM5zN69ZZrpAdOcInwuRK-rHtUBi6hBvMums7hgKhP-onS2A0c8mbAil0TH0jvKVRkdAD9saBUWq3YlRRgBYlr3XilioSjOAcIGPFbQodpvf3WVlQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/2c9548efa9f1e96ff1947c76.jpg",
-      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
-      "body_html": "صدای این ویدیوی وایرال درباره ریال رو اضافه کردم بهش. جا مونده بود از ویدیو.",
-      "plain_text": "صدای این ویدیوی وایرال درباره ریال رو اضافه کردم بهش. جا مونده بود از ویدیو.",
-      "media": [],
-      "reactions": [],
-      "views_label": "23K",
-      "posted_at": "2026-08-27T06:54:07+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mamlekate/104251",
-      "reply": {
-        "channel_username": "mamlekate",
-        "post_id": "104247",
-        "author_name": "مملکته",
-        "preview_text": "ریال تنها واحد پولیه که @mamlekate",
-        "thumbnail_url": "https://cdn4.telesco.pe/file/X-7dlvfD1lB8T9JadKYfmOUKZY9cx28WnPSJZDVV4_GC5_lH4SLPV8fzjcMb4mO_dBWdVP2uOOIPpmeTcWCpgNVRTLfC_ZHy3o7UVWg95AE9WLU9vqvXzHBKnKuD8_3bseq30hzMkCo0EdmTe19YhDe7bQERW093FT_F90QwO0xrb0bSDOORv8NKBFwCqzJa007TdUhHzcuq9Xc15nz4wcJAc_ram0pTyVOPhYuKReXmmlSDO_WE4lp42Fhxq8tMortPwnW2bYtDRRLB2_jCwGZNQbd4TacVoQaaPM9g-5M9yl46c2tOZSUxh_CYH2B6CrHp2bwomHDYe5k-qatmtg",
-        "thumbnail_path": "channels/mamlekate/media/7f37c0460160f8ff152655a3.jpg",
-        "thumbnail_sha256": "ba00af986ffa3d3ca5682655b3028d91fa26e5bceea95cd3042d52b7a7eb400e",
-        "permalink": "https://t.me/mamlekate/104247"
-      }
     }
   ]
 }
