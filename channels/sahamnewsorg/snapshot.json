@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T18:01:50.219Z",
+  "fetched_at": "2026-09-08T18:06:40.862Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -11,6 +11,34 @@
     "subscriber_count": "217K"
   },
   "posts": [
+    {
+      "id": "sahamnewsorg/147181",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/FKF1cckJAUtPCvrEDvhdUz7NZYvAf1EHIJitsyRN8VE6idlFJSlSu2K2xwDGVxKifuLkRZo545Eqoc49ZLmPoSTyOLoyCKDmEN3g4SAk_F1iRgeiTdyhFUQAMgLZ_i79FYzHGzdPVDjFbMrSBqkn52UyYzaCp3ckUiaqX6ED8F0x46VghW61EdReQFxfqL1FfFJD5tD1JPbY4-VlLtyHG_j1T88K3wFHTxO0-qIYXcQF7V695Ey_HoDkfis8UETFy0hyQ9WdEneqSKbA4wd5fYVnHLYawYY5EhbuuZ_X_366M-abZdl4zvZZQgVaE4H3IDNMUExb2Ss8l2_ckTXB3A.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/bf7f0b170836be3cfa34280a.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>پرستاران کرمانشاه امروز با شعار  میگیم حقوق نداریم، می‌رید پلیس میارید. دست به اعتراض زدند!</b><br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "plain_text": "✅پرستاران کرمانشاه امروز با شعار میگیم حقوق نداریم، می‌رید پلیس میارید. دست به اعتراض زدند!\n\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/sahamnewsorg/147181",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/lNq2mNlbRoSs90iHcQe91WeOWscxls-sEktHjZu_N-weWPU9hYtbE61gJ6HRqyqYnC77mFbLbJC_BMrn9fI9MSkcuCLdtBaNgpje0mBk6u28cg-3VwdpF45PqsrCD0Z9-k178RYbXo6JHiqIYURsZeoqwy47vOtZySo-uNE0YL4AUNgbf-h8Wg4a_ZPxMSbEZogEnGcOIEkCKLYcTiFtUJvv5NrlcjZqbqH_rJmKa0OxFor4TR10I65sT8vpGEqmuJtpn3Ze_gbDhqa81sTmI44AcVm5v-nTjcyjtpQyp_dXvV7lQtEfsYktsrejfFsR7p1c8hS25W7HScMAQDv9aw",
+          "thumbnail_path": "channels/sahamnewsorg/media/6c1b35d6dc6c991fec079c85.jpg",
+          "thumbnail_sha256": "cc356e7c452567f51eb09a32d291f6cabd961a7a97b06ed08ed746d7d80430da",
+          "duration_label": "0:08",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.17K",
+      "posted_at": "2026-09-08T18:04:25+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147181",
+      "reply": null
+    },
     {
       "id": "sahamnewsorg/147180",
       "author_name": "سهام نیوز",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.63K",
+      "views_label": "7.12K",
       "posted_at": "2026-09-08T17:55:11+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147180",
@@ -49,7 +77,7 @@
       "plain_text": "✅بریتانیا فرود هواپیماهای ایرانی را ممنوع کرد\n\n🔸 دولت بریتانیا در چارچوب بسته جدید تحریم‌ها علیه ایران، فرود هواپیماهای ایرانی در این کشور را ممنوع کرده است؛ مگر در مواردی که معافیت مشخصی صادر شود.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "10.2K",
+      "views_label": "12.4K",
       "posted_at": "2026-09-08T17:42:50+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147179",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.3K",
+      "views_label": "15.2K",
       "posted_at": "2026-09-08T17:34:27+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147178",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.3K",
+      "views_label": "19.5K",
       "posted_at": "2026-09-08T17:18:55+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147177",
@@ -121,7 +149,7 @@
       "plain_text": "✅آمریکا ۲۸ شرکت هواپیمایی ایرانی را تحریم کرد\n\nدفتر کنترل دارایی‌های خارجی وزارت خزانه‌داری آمریکا سه‌شنبه ۱۷ شهریور، ۲۸ شرکت هواپیمایی ایرانی، ۷ شرکت مرتبط با بخش هوانوردی و یک تبعه مصری ساکن امارات را به فهرست تحریم‌ها اضافه کرد. از جمله شرکت‌های تحریم‌شده آتا، چابهار، ایران‌ایرتور، آسمان، کیش، کارون، قشم، سپهران، تابان، زاگرس، وارش و فلای‌پرشیا هستند. همچنین چند شرکت در امارات، بریتانیا، ترکیه، مالزی و قزاقستان به دلیل ارتباط با ماهان‌ایر یا شبکه‌های مرتبط با آن تحریم شدند. آمریکا همچنین مجوز عمومی G-1 ایران برای صادرات مجدد موقت برخی هواپیماهای غیرنظامی به ایران را تعلیق کرد و هم‌زمان مجوزهای جدیدی برای پایان دادن به برخی معاملات مرتبط با هوانوردی غیرنظامی صادر کرد\n\n🔻همچنین آمریکا اعلام کرد هر موسسه یا شرکتی با صنایع هوایی ایران همکاری کنه از تجارت جهانی خارج می‌شود\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "30.2K",
+      "views_label": "31.1K",
       "posted_at": "2026-09-08T16:02:06+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147176",
@@ -137,7 +165,7 @@
       "plain_text": "✅میلیبند وزیر خارجه انگلیس:\n\nواردات محصولات از شهرک‌های اسرائیلی را ممنوع خواهیم کرد.\n\nاختلاف ما با مردم اسرائیل نیست؛ ما با مردم اسرائیل روابطی محکم و پایدار داریم.\n\nاختلاف ما با عملکرد دولت اسرائیل است.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "29.7K",
+      "views_label": "30.6K",
       "posted_at": "2026-09-08T15:56:51+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147175",
@@ -165,7 +193,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.4K",
+      "views_label": "32K",
       "posted_at": "2026-09-08T15:50:23+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147174",
@@ -193,7 +221,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.8K",
+      "views_label": "39.4K",
       "posted_at": "2026-09-08T15:11:05+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147173",
@@ -209,7 +237,7 @@
       "plain_text": "✅ترامپ: ایران دیگر هیچ شانسی برای دستیابی به سلاح هسته‌ای ندارد و تحریم‌ها علیه آن مؤثر بوده و نتایجی فراتر از انتظارات به همراه داشته است.\n\nما الان داریم می‌جنگیم چون ایران می‌خواست سلاح هسته‌ای داشته باشد و خیلی به دستیابی به آن نزدیک بود.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "34.7K",
+      "views_label": "35.4K",
       "posted_at": "2026-09-08T15:05:39+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147172",
@@ -225,7 +253,7 @@
       "plain_text": "✅روایت مسعود فرهیخته از شرایط ندامتگاه کرج؛ محرومیت، توهین و فشار بر زندانیان سیاسی\n\nمسعود فرهیخته، زندانی سیاسی، در پیامی که برای یکی از دوستانش ارسال کرده، از شرایط سخت و غیرانسانی زندانیان سیاسی در ندامتگاه کرج خبر داده است.\n\nبر اساس این پیام، حقوق اولیه زندانیان سیاسی در این زندان رعایت نمی‌شود و آنان حتی از امکانات ابتدایی نیز محروم هستند. فرهیخته گفته است زندانیان سیاسی برای حدود دو ماه حتی به یک تلویزیون معمولی دسترسی نداشتند و ظاهراً اخیراً خود زندانیان وسیله‌ای برای استفاده تهیه کرده‌اند.\n\nاو همچنین از نبود اجاق گاز برای تهیه غذا خبر داده و کیفیت غذای زندان را بسیار نامناسب توصیف کرده است.\n\nدر بخش دیگری از این روایت، عملکرد بهداری زندان به‌شدت مورد انتقاد قرار گرفته است. به گفته فرهیخته، رسیدگی پزشکی و وضعیت بهداشت بسیار ضعیف است و مسئولان بهداری در بسیاری از موارد بدون بررسی جدی بیماری، تنها به دادن مسکن بسنده می‌کنند.\n\nفرهیخته همچنین گفته است زندانیان سیاسی هنگام انتقال به دادگاه یا بهداری با غل‌وزنجیر منتقل می‌شوند؛ رفتاری تحقیرآمیز که علیه افرادی اعمال می‌شود که بسیاری از آنان صرفاً به دلیل فعالیت‌ها و مواضع سیاسی خود در زندان هستند.\n\nبر اساس این پیام، او پس از انتشار یک بیانیه، ابتدا به سلول انفرادی منتقل شده و سپس برای حدود دو ماه در بخشی عمومی با تنها سه زندانی نگهداری شده است.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "44.2K",
+      "views_label": "44.8K",
       "posted_at": "2026-09-08T12:28:06+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147171",
@@ -241,7 +269,7 @@
       "plain_text": "✅خطرناکترین فریب سیاسی این است که وعده آینده به جامعه داده شود\n\n✍️یدالله کریمی پور\n۱- «اسرائیل توانسته جاهایی از لبنان را بگیرد، اما مطمئنم لبنان دوباره سر بلند می‌کند و این دفعه خشم بزرگی راه می‌افتد که نمی‌گذارد چیزی از اسرائیل بماند.»\nسرلشکر محسن رضایی، دبیر شورای عالی امنیت ملی\n\n۲- اسماعیل کوثری، عضو کمیسیون امنیت ملی مجلس، می‌گوید: «نیروهای مسلح برنامه دارند و قطعا این برنامه را به‌صورت دقیق دنبال می‌کنند و ما باید آمریکا را از منطقه غرب آسیا بیرون کنیم.» همچنین می‌گوید: «ما تفاهم‌نامه و توافق با آمریکا را قبول نداریم و باید به مسیرمان ادامه دهیم.»\n\n۳- وزیر اقتصاد: گشایش های خوبی در راهست.\n۴- همتی رییس بانک‌مرکزی: به آینده اقتصادی ایران خوشبینم.\nاینها فقط چهار نمونه از یک ادبیات آشناست؛ ادبیاتی که سال‌هاست ایرانیان را با افعال آینده بمباران می‌کند:\n\nلبنان دوباره سر بلند خواهد کرد؛\n-اسرائیل از میان خواهد رفت؛\n-آمریکا از منطقه بیرون خواهد رفت؛\n-به اهدافمان خواهیم رسید؛\n-پیروز خواهیم شد؛\n-دشمن را شکست خواهیم داد؛\n- اقتصاد گل و بلبل می شود؛\n- ارزانی فراگیر و بیکاری از ایران رخت بر می بندد؛\n-و سرانجام، همه وعده‌ها محقق خواهند شد.\n\nمشکل اینجاست که افعال مضارع و آینده، هزینه امروز را به امید فردا قابل تحمل می‌کنند. شکست امروز می‌شود «مقدمه پیروزی فردا»، ویرانی امروز می‌شود «هزینه پیروزی نهایی» و ناکامی امروز، به جای آنکه موضوع ارزیابی و بازنگری باشد، با وعده‌ای تازه برای آینده پوشانده می‌شود.\nاین همان چیزی است که می‌توان نامش را گذاشت: فریب فعل مضارع(آینده).\n\nافعالی که هنوز اتفاق نیفتاده‌اند، اما چنان بیان می‌شوند که گویی در مسیر قطعی تحقق‌اند. هرگاه وعده‌ای محقق نشد، کافی است زمان تحققش مدتی دیگر به عقب برود: «خواهد شد»، «خواهیم رسید»، «به‌زودی»، «در آینده نزدیک»...\n\nولی سیاست و استراتژی را نمی‌توان با صرف فعل آینده سنجید. معیار، نتیجه‌ای است که در جهان واقعی و در زمان واقعی به دست آمده است.\nاگر دهه‌هاست یک هدف تکرار می‌شود و همچنان به آینده حواله داده می‌شود، شاید وقت آن رسیده باشد که به جای پرسیدنِ «چه زمانی محقق خواهد شد؟»، پرسش مهم‌تری مطرح کنیم:\nاگر تاکنون محقق نشده است، آیا اساسا این راهبرد درست بوده است؟\n\nجامعه‌ای که دایما با وعده‌های آینده تغذیه شود، ممکن است شکست‌های امروز را نبیند؛ زیرا همیشه یک «فردا» برای توضیح آن وجود دارد.\nو شاید خطرناک‌ترین فریب سیاسی همین باشد:\nآینده‌ای که همیشه می‌آید، ولی هیچ‌گاه نمی‌رسد.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "47.9K",
+      "views_label": "48.2K",
       "posted_at": "2026-09-08T11:35:28+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147170",
@@ -257,7 +285,7 @@
       "plain_text": "✅بیات‌زنجانی: حصر میرحسین موسوی باید در این دولت پایان یابد؛ رأی مردم مبنای مشروعیت نظام سیاسی است\n\nآیت‌الله اسدالله بیات‌زنجانی، از مراجع تقلید، در دیدار با محمدرضا عارف، معاون اول رئیس‌جمهور، با تأکید بر ضرورت حمایت از دولت در شرایط جنگی، خواستار پایان حصر میرحسین موسوی و ترمیم «زخم بزرگ» ایجادشده در جامعه در جریان اعتراضات دی‌ماه شد.\n\nاین مرجع تقلید همچنین با اشاره به اعتراضات دی‌ماه گفت: «در دی‌ماه زخم بزرگی در بدنه جامعه ایجاد شده» و دولت باید برای ترمیم این زخم اقدام کند.\n\nبیات‌زنجانی در بخش دیگری از سخنانش با بیان اینکه مردم «حق حیات بر گردن نظام و حاکمیت دارند»، دیدگاه فقهی خود درباره جایگاه رأی مردم را مطرح کرد و گفت: «رأی مردم مبنای مشروعیت نظام سیاسی است.» او بر ضرورت شفافیت و صداقت حکومت با مردم تأکید کرد.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "45.1K",
+      "views_label": "45.4K",
       "posted_at": "2026-09-08T11:17:19+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147169",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45.8K",
+      "views_label": "46.1K",
       "posted_at": "2026-09-08T11:10:14+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147168",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45.6K",
+      "views_label": "45.9K",
       "posted_at": "2026-09-08T10:47:21+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147166",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.5K",
+      "views_label": "47.8K",
       "posted_at": "2026-09-08T10:33:23+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147165",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "54.3K",
+      "views_label": "54.6K",
       "posted_at": "2026-09-08T09:39:26+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147164",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50K",
+      "views_label": "50.3K",
       "posted_at": "2026-09-08T09:31:22+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147163",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "51K",
+      "views_label": "51.3K",
       "posted_at": "2026-09-08T09:12:30+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147162",
@@ -2354,22 +2382,6 @@
       "posted_at": "2026-09-06T09:26:17+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147081",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147080",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/SOVULoyiTPdbKkdDtb14ex7CCIYiKd0E3IQ_pAwzpszpYjPlbgmGHJk-U2NgxOC3Stk9AJoczLETdelSlC93P4CeM9v2Zqfx9kWDAZFQ16u7-NJWFEx0etkWtHjEudvVUmYP6dfkQ8qZmdrl9xym7IAckh_FSqly1nCblYMFZtUD-FHaogzqWnEl2Z5WAcX3n_-LZ1YgFPm5RXpfgGC5vQxB-GXbN4qpdoxbAjxKN5uKI-E5XsX5Lc7NzLsBHn1v38of2J5VoJxrPMxWxMK6GvjEiswagBGK5KJ0Y7TLC6qKaVNHPsiMSXFUboz0VT3EkLbViiQkwWEUlrqDN1CZGg.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/0dc496d06932e4cf0e256da8.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>سخنگوی سپاه</b>: هزینه محاصره اقتصادی برای آمریکا چندین برابر خسارتی است که به ایران وارد می‌شود<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')\"><b>🤣</b></i><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>پ ن: بی شرمی و وقاحت برای یک ثانیه شماست .حداقل از قیمت دلار و رشد کالاهای ضروری خجالت بکشید<br> <a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅سخنگوی سپاه: هزینه محاصره اقتصادی برای آمریکا چندین برابر خسارتی است که به ایران وارد می‌شود🤣\n\n🔻پ ن: بی شرمی و وقاحت برای یک ثانیه شماست .حداقل از قیمت دلار و رشد کالاهای ضروری خجالت بکشید\n@Sahamnewsorg",
-      "media": [],
-      "reactions": [],
-      "views_label": "54.1K",
-      "posted_at": "2026-09-06T09:11:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/sahamnewsorg/147080",
       "reply": null
     }
   ]
