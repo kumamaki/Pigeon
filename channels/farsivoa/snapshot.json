@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T08:52:09.804Z",
+  "fetched_at": "2026-09-08T08:58:33.861Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229835",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "نیروهای اسرائیل شامگاه گذشته دره‌های السلوقی و الحجیر را در جنوب لبنان با گلوله توپخانه هدف قرار دادند.<br><br>بر پایه گزارش خبرگزاری ملی لبنان، نیروهای اسرائیل همچنین جنگل‌های مجاور شهرک قبریخا را با مسلسل سنگین به گلوله بستند.<br><br>این دو دره، در محدوده شهرستان‌های مرجعیون، بنت جبیل و نبطیه امتداد دارند.<br><br>گلوله‌باران در ادامه موج تشدید حملات اسرائیل به جنوب لبنان انجام می‌شود. حملات بامداد دوشنبه به شهرک کفررمان دست‌کم ۱۱ کشته بر جای گذاشت.<br><br>ارتش اسرائیل روز پنجشنبه اعلام کرد کنترل عملیاتی ارتفاعات علی‌الطاهر را به دست گرفته است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "نیروهای اسرائیل شامگاه گذشته دره‌های السلوقی و الحجیر را در جنوب لبنان با گلوله توپخانه هدف قرار دادند.\n\nبر پایه گزارش خبرگزاری ملی لبنان، نیروهای اسرائیل همچنین جنگل‌های مجاور شهرک قبریخا را با مسلسل سنگین به گلوله بستند.\n\nاین دو دره، در محدوده شهرستان‌های مرجعیون، بنت جبیل و نبطیه امتداد دارند.\n\nگلوله‌باران در ادامه موج تشدید حملات اسرائیل به جنوب لبنان انجام می‌شود. حملات بامداد دوشنبه به شهرک کفررمان دست‌کم ۱۱ کشته بر جای گذاشت.\n\nارتش اسرائیل روز پنجشنبه اعلام کرد کنترل عملیاتی ارتفاعات علی‌الطاهر را به دست گرفته است.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229835",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/fi0abIqYUDBtXXlXu6dswWj_7HBp8L-oKI4CatiguS0RCFUiB3V0-wYb54Id-0d4H-qEssVsxntxFEQ_NQxp5_OkdGPWIyf8UdQD6uwd4KZ6HHrc8oiAFiNPXzr28Gjx8_oG66PsbVnsqq91mxwEbmxoGFNvlLyNOzZ-P25ZcU89W_rG27CFPt094Ww5Okula6jDgiGJoC8NYm-1zXVbSUDI4IL48mbz7mhmloV6u31qCcosgQT7HNwqfD3mZSnqlFJwpYbluNOwwEsqAUuFTgIPkrxCDMaEA0NPBH8zC4gSzgTJGkoyjsY0N_aSv4GPPU5AX9lv3lAqAPetzXBhMg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/e6ccf86b9742efeaf309a162.jpg",
+          "thumbnail_sha256": "2609e9d07d96ec12186fe2140ba9792b1a9ad16963d5ea769fa0e4b464a18bdc",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "312",
+      "posted_at": "2026-09-08T08:52:35+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229835",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229834",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺هاکبی: ممنوعیت تجارت بریتانیا با شهرک‌های اسرائیلی واکنش آمریکا را برمی‌انگیزد\n\n▪️سفیر آمریکا در اسرائیل هشدار داد اعلام ممنوعیت تجارت بریتانیا با شهرک‌های کرانه باختری احتمالاً واکنش آمریکا را در پی دارد. مایک هاکبی به شبکه خبری بی‌بی‌سی گفت «بدون تردید» واکنشی خواهد بود، از جمله در سطح ایالت‌های منفرد آمریکا.\n\n▪️هاکبی افزود این می‌تواند «اثر اقتصادی عظیمی بر کسب‌وکارهای بریتانیایی» داشته باشد، چون برخی شرکت‌ها ممکن است از فعالیت در برخی ایالت‌ها منع شوند.\n\n▪️پیشتر رندی فاین، نماینده جمهوری‌خواه، در شبکه ایکس نوشت: «فلوریدا یکی از بزرگترین شرکای تجاری بریتانیاست. باید بدانند پروژه خودنمایانه‌شان در پشتیبانی از تروریسم مسلمانان می‌تواند میلیاردها دلار برایشان هزینه داشته باشد.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195511.html",
       "media": [],
       "reactions": [],
-      "views_label": "415",
+      "views_label": "632",
       "posted_at": "2026-09-08T08:42:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229834",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "763",
+      "views_label": "917",
       "posted_at": "2026-09-08T08:31:45+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229833",
@@ -65,7 +93,7 @@
       "plain_text": "🔺دو وزیر اسرائیلی خواستار اخراج سفیر بریتانیا و تحریم این کشور شدند\n\n▪️بتسلئل اسموتریچ، وزیر دارایی اسرائیل، پس از گزارش‌هایی درباره ممنوعیت تجارت بریتانیا با شهرک‌های کرانه باختری، خواستار اخراج فوری سفیر این کشور شد.\n\n▪️او شامگاه دوشنبه در شبکه ایکس نوشت: «سفیر بریتانیا را همین امشب اخراج کنید! قیمومیت بریتانیا بر سرزمین اسرائیل تمام شده است.»\n\n▪️ایتمار بن‌گویر، وزیر امنیت ملی اسرائیل نیز واکنش متفاوتی نشان داد.\n\n▪️او در شبکه ایکس و به زبان اسپانیایی نوشت: «وقت آن رسیده که دولت اسرائیل علناً به رسمیت بشناسد که جزایر مالویناس سرزمین آرژانتین است.» او از بنیامین نتانیاهو خواست حاکمیت آرژانتین را بپذیرد و «تا زمانی که اشغال ادامه دارد» بریتانیا را تحریم کند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195510.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.11K",
+      "views_label": "1.21K",
       "posted_at": "2026-09-08T08:20:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229832",
@@ -93,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.18K",
+      "views_label": "1.27K",
       "posted_at": "2026-09-08T08:12:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229831",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.55K",
+      "views_label": "1.64K",
       "posted_at": "2026-09-08T07:57:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229830",
@@ -137,7 +165,7 @@
       "plain_text": "🔺نفتالی بنت: امارات حمله ۷ اکتبر را به نتانیاهو گزارش داده بود\n\n▪️نفتالی بنت، نخست‌وزیر پیشین اسرائیل، گفت گزارش روزنامه هاآرتص درباره دریافت هشدار شخصی نتانیاهو از رئیس امارات پیش از حمله ۱۵ مهر ۱۴۰۲ «درست است».\n\n▪️او در شبکه ایکس نوشت: «گزارشی که امروز صبح منتشر شد مبنی بر اینکه نتانیاهو ۱۰ روز پیش از کشتار ۷ اکتبر درباره نیت‌های سنوار هشدار گرفته بود، درست است. نتانیاهو مسئولیت شخصی و مستقیم شکستی را بر عهده دارد که به مرگ هزاران اسرائیلی در دوره او انجامید.»\n\n▪️رهبر حزب «با هم» گفت بی‌توجهی نتانیاهو به هشدارها «به قصور جنایی می‌رسد». او افزود: «به همین دلیل است که هر کاری می‌کند تا از تشکیل کمیسیون تحقیق دولتی که حقیقت را آشکار کند جلوگیری کند.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195509.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.91K",
+      "views_label": "1.97K",
       "posted_at": "2026-09-08T07:39:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229829",
@@ -165,7 +193,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.64K",
+      "views_label": "2.7K",
       "posted_at": "2026-09-08T06:31:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229828",
@@ -193,7 +221,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.47K",
+      "views_label": "2.53K",
       "posted_at": "2026-09-08T06:22:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229827",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.35K",
+      "views_label": "2.42K",
       "posted_at": "2026-09-08T06:12:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229826",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.35K",
+      "views_label": "2.41K",
       "posted_at": "2026-09-08T06:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229825",
@@ -265,7 +293,7 @@
       "plain_text": "🔺نفت با نگرانی از طولانی شدن جنگ گران‌تر شد\n\n▪️قیمت نفت روز سه‌شنبه با افزایش نگرانی از طولانی شدن درگیری خاورمیانه و پس از آنکه جمهوری اسلامی تهدید کرد به هر حمله تازه آمریکا پاسخ می‌دهد، بالا رفت.\n\n▪️بهای نفت برنت ۴۹ سنت بالا رفت و به ۹۷ دلار و ۴۹ سنت در هر بشکه رسید. نفت وست تگزاس اینترمدییت آمریکا نیز با یک دلار و ۴۴ سنت رشد به ۹۲ دلار و ۹۲ سنت رسید.\n\n▪️این تحول در حالی است که بر خلاف تصور جمهوری اسلامی شوک بزرگی از ابتدای جنگ به بازار نفت وارد نشد و هنوز حجم قابل توجهی از نفت از تنگه هرمز عبور می‌کند.\n\n▪️تولیدکنندگان دیگر هم جای خالی نفت خلیج فارس را پر می‌کنند. آمریکا، کانادا و گویانا امسال یک میلیون و ۴۰۰ هزار بشکه در روز به تولید اضافه کردند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195471.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.38K",
+      "views_label": "2.42K",
       "posted_at": "2026-09-08T05:51:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229824",
@@ -293,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.32K",
+      "views_label": "2.38K",
       "posted_at": "2026-09-08T05:40:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229823",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.41K",
+      "views_label": "2.44K",
       "posted_at": "2026-09-08T05:30:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229822",
@@ -337,7 +365,7 @@
       "plain_text": "🔺پیشنهاد مصر برای چارچوب امنیتی مشترک عربی در پی حملات جمهوری اسلامی\n\n▪️وزیر امور خارجه مصر، در نشست شورای اتحادیه عرب در قاهره چارچوب امنیتی مشترکی برای کشورهای عربی پیشنهاد کرد.\n\n▪️بنابر گزارش رسانه‌های عربی، بدر عبدالعاطی گفت مصر آماده است با اتحادیه عرب و کشورهای عضو بر سر چارچوبی جامع کار کند که حوزه‌های همکاری، سازوکارهای هماهنگی و رویه‌های واکنش به بحران را تعیین کند.\n\n▪️عبدالعاطی افزود ترتیبات پیشنهادی می‌تواند بر پیمان دفاع مشترک عربی و تصمیم‌های اتحادیه عرب بنا شود، ضمن احترام به حاکمیت و استقلال تصمیم‌گیری کشورهای عضو.\n\n▪️او در همین نشست حملات جمهوری اسلامی به کشورهای عربی را محکوم کرد و همبستگی مصر را با کشورهای خلیج فارس، اردن و عراق اعلام کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195470.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.48K",
+      "views_label": "2.52K",
       "posted_at": "2026-09-08T05:21:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229821",
@@ -365,7 +393,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.5K",
+      "views_label": "2.53K",
       "posted_at": "2026-09-08T05:12:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229820",
@@ -393,7 +421,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.63K",
+      "views_label": "2.66K",
       "posted_at": "2026-09-08T05:01:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229819",
@@ -421,7 +449,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.7K",
+      "views_label": "2.73K",
       "posted_at": "2026-09-08T04:47:11+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229818",
@@ -449,7 +477,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.08K",
+      "views_label": "3.11K",
       "posted_at": "2026-09-08T04:36:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229817",
@@ -2579,34 +2607,6 @@
       "posted_at": "2026-09-07T12:36:15+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229724",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229723",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> مدیرکل آژانس بین‌المللی انرژی اتمی، گفت این نهاد در دوره گزارش‌دهی اخیر هیچ اطلاعاتی از جمهوری اسلامی درباره وضعیت مواد یا تأسیسات هسته‌ای اعلام‌شده دریافت نکرده و به هیچ‌یک از آن تأسیسات دسترسی نداشته است.<br><br>رافائل گروسی، روز دوشنبه در نشست شورای حکام آژانس در وین گفت: «آژانس نه اطلاعاتی از ایران درباره وضعیت مواد یا تأسیسات هسته‌ای اعلام‌شده‌اش دریافت کرده و نه به هیچ‌یک از آن تأسیسات برای انجام فعالیت‌های راستی‌آزمایی میدانی دسترسی داشته است. بنابراین، آژانس نتوانست مسئولیت‌های پادمانی خود را ذیل موافقت‌نامه پادمان ان‌پی‌تی در تأسیسات هسته‌ای اعلام‌شده ایران انجام دهد.»<br><br>مدیرکل آژانس بین‌المللی انرژی اتمی افزود نتیجه این وضعیت، ناتوانی در راستی‌آزمایی است.<br><br>او گفت: «در نتیجه، نتوانستیم وضعیت آنها را برای مقاصد پادمانی و مواد هسته‌ای مرتبط راستی‌آزمایی کنیم و به همین دلیل نمی‌توانم درباره اجرای مقررات مربوط از سوی ایران نیز گزارش دهم.»",
-      "plain_text": "🔴 مدیرکل آژانس بین‌المللی انرژی اتمی، گفت این نهاد در دوره گزارش‌دهی اخیر هیچ اطلاعاتی از جمهوری اسلامی درباره وضعیت مواد یا تأسیسات هسته‌ای اعلام‌شده دریافت نکرده و به هیچ‌یک از آن تأسیسات دسترسی نداشته است.\n\nرافائل گروسی، روز دوشنبه در نشست شورای حکام آژانس در وین گفت: «آژانس نه اطلاعاتی از ایران درباره وضعیت مواد یا تأسیسات هسته‌ای اعلام‌شده‌اش دریافت کرده و نه به هیچ‌یک از آن تأسیسات برای انجام فعالیت‌های راستی‌آزمایی میدانی دسترسی داشته است. بنابراین، آژانس نتوانست مسئولیت‌های پادمانی خود را ذیل موافقت‌نامه پادمان ان‌پی‌تی در تأسیسات هسته‌ای اعلام‌شده ایران انجام دهد.»\n\nمدیرکل آژانس بین‌المللی انرژی اتمی افزود نتیجه این وضعیت، ناتوانی در راستی‌آزمایی است.\n\nاو گفت: «در نتیجه، نتوانستیم وضعیت آنها را برای مقاصد پادمانی و مواد هسته‌ای مرتبط راستی‌آزمایی کنیم و به همین دلیل نمی‌توانم درباره اجرای مقررات مربوط از سوی ایران نیز گزارش دهم.»",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229723",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/O_JiqYxjiQhWphKgAQuv-GZTZVANBmWl2DhCoNafM5fZRkZBCZ9DUFcTAzoYRv31cz3ke4PQy20zp3A39siLFrJB2cHFnQuR0eFxHuBqapaTJKWnyUDUOZXigPt07tgFOuZMiYzbbpr6F08T6Bj5F0R9krQWQhJeafQL7ASECpT-ZhMGFojdbC83_hMXqgoF86fyKYy3RsF0d1ar095IA7cdYU1Zdg8ZgW5fDC6DhajRkzGLqzaL79Ie0xBtbMNUG5bkHhifuZuVPNghwtjLc3ZaOHTgyt7nkBj9Wp2zSUfaLqCcPJw141IWtqBDj2EXpihlfY1TzuisRQ82P6-jyQ.jpg",
-          "thumbnail_path": "channels/farsivoa/media/428119d1f72c8ba27b799c6d.jpg",
-          "thumbnail_sha256": "5062c2218fb4588205be1417361fee02b9aa8660a9a05f44330e2c322b7834e3",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.49K",
-      "posted_at": "2026-09-07T12:25:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229723",
       "reply": null
     }
   ]

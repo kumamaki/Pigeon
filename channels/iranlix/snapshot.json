@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T08:52:11.358Z",
+  "fetched_at": "2026-09-08T08:58:36.532Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12699",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l_9ufMfFpJ25r_afGsqRdLe1TBpEdGtQubrLV3heTp0xaKy_3bOMj2CgWrdIc1UpDv6BDR1CUz7LUOwlbGt6cwYajWQXJCUkSLc4mDg8KVE14zTZ9LwGvkwqm71diFwCbH2nViIRdsbm6NTEHx-FPiGHK2If0glqgKIwFN6E3fpPfXG4L5B_8u0lF9SlI9JysGs-RP3ETL5mlmlmj6cRJFK1sNdtj7tP4DYND499o8XinHXPyv-COryBv7foYUzrzsqsk-AuzXwXdGL2-S-fyV30ffZpU_JFFsxZW8baXEnEFumOwn_VcgVB9V_D4tzEEogyHXtPWDrMkW0xK7JN9Q.jpg",
+      "author_photo_path": "channels/iranlix/media/cea36268eb0d26be31369b06.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>سخنگوی قوه‌قضائیه ج.ا:<br><br>«محمدباقر خرازی در بازداشت است و پرونده‌اش هنوز به مرحلهٔ صدور کیفرخواست و حکم نرسیده است</b>.»<br><br><blockquote><b>حرومزاده ها به خودشونم رحم نمیکنن.</b></blockquote><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔻سخنگوی قوه‌قضائیه ج.ا:\n\n«محمدباقر خرازی در بازداشت است و پرونده‌اش هنوز به مرحلهٔ صدور کیفرخواست و حکم نرسیده است.»\n\nحرومزاده ها به خودشونم رحم نمیکنن.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/iranlix/12699",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/A79Y4rlAfJWDsWEnddOYMWlSXLb50HBSIraCwDwr8AWRyyiT9gkcgUGa6oFfglUy76p4EaaIk_8GSCRJoVyHLHfYGVRuz6zKgj13W6T_yuOzMGUnLyYBYsX0-esksTXBvXwxrQ4NPT7v0G29gC1Y3Uqfjt7YZtDBtsUcnF053TIlhc5SQYwBeATT_BMFM6MtN1Z5wvQsqcUCQHpQ9iHmrerrnZsoqHNJXbZ3q3aAgpdJRDvEHxPS2uSuZBUtzeZEOIT1J9Nwjfeowo-XvuuljEYiGjLlzYGQ7p3JhDNlKnfYZTBdPKxsYrKjE7AAjWAA40LG9t5bfhLkLbGoveYJvw",
+          "thumbnail_path": "channels/iranlix/media/a0c8e446678b93dfcf64a0d1.jpg",
+          "thumbnail_sha256": "cb90282ec90a618b2107e25c7750e9b243fcccd3baf0a9b0110c96565c1295f5",
+          "duration_label": "0:19",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "77",
+      "posted_at": "2026-09-08T08:53:11+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12699",
+      "reply": null
+    },
     {
       "id": "iranlix/12698",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "147",
+      "views_label": "204",
       "posted_at": "2026-09-08T08:38:45+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12698",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "609",
+      "views_label": "639",
       "posted_at": "2026-09-08T06:55:10+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12697",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "750",
+      "views_label": "776",
       "posted_at": "2026-09-08T06:16:26+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12696",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "784",
+      "views_label": "806",
       "posted_at": "2026-09-08T05:48:28+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12695",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "771",
+      "views_label": "791",
       "posted_at": "2026-09-08T05:47:10+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12694",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.21K",
+      "views_label": "1.22K",
       "posted_at": "2026-09-07T23:16:37+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12692",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.34K",
+      "views_label": "1.35K",
       "posted_at": "2026-09-07T21:28:38+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12691",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.41K",
+      "views_label": "1.42K",
       "posted_at": "2026-09-07T20:43:20+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12690",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.44K",
+      "views_label": "1.45K",
       "posted_at": "2026-09-07T19:47:50+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12689",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.51K",
+      "views_label": "1.52K",
       "posted_at": "2026-09-07T18:28:34+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12688",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.61K",
+      "views_label": "1.62K",
       "posted_at": "2026-09-07T18:26:06+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12687",
@@ -380,7 +408,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.37K",
+      "views_label": "1.38K",
       "posted_at": "2026-09-07T17:36:13+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12685",
@@ -542,7 +570,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.41K",
+      "views_label": "1.42K",
       "posted_at": "2026-09-07T15:12:30+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12678",
@@ -2892,34 +2920,6 @@
       "posted_at": "2026-09-05T16:15:22+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12594",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12593",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/VK7UxP3xK7XXY_E9qNcDJ9R-ugu8Kqr7hzd-V0Osm8FpZUxtY4hXl4rV0HsqaChh7d8JSJjgFWTh5WIRkwxmi-z7LWuC_etM9QCxqe6lmIh9aDtiHHDYBpAW0-0H_AVdL1YEM683dsoUj2w8l1NOtudtgUcDRAsQo1ZOQp_6nC8orT5o9026LgcHj_uJLQZ2u0tTjug-6Lhs-pJLX7MPK0tW3JQkNF4aE-MhuIPm6DDcI8Sw9TBAhYCXoWJqkUpgxeNNuaxB6X9jzyB0zY_R2x6tcaz8EDuoySW9KALS3r8g9tGuy9SUlSsE_QaNLXNdEWB7vVSlxHr5PIHEugIN4A.jpg",
-      "author_photo_path": "channels/iranlix/media/1fe3bf02c3c024640c615e89.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>مرکز عملیات دریایی بریتانیا اعلام کرده گزارش‌هایی از تیراندازی به چند کشتی تجاری در شمال خلیج فارس و دریای عمان دریافت کرده است؛ اقداماتی که ظاهراً با هدف مختل کردن حرکت شناورها انجام شده‌اند.این حوادث همزمان با ادامه فعالیت‌های نظامی در منطقه گزارش شده‌اند.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "♦️مرکز عملیات دریایی بریتانیا اعلام کرده گزارش‌هایی از تیراندازی به چند کشتی تجاری در شمال خلیج فارس و دریای عمان دریافت کرده است؛ اقداماتی که ظاهراً با هدف مختل کردن حرکت شناورها انجام شده‌اند.این حوادث همزمان با ادامه فعالیت‌های نظامی در منطقه گزارش شده‌اند.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/12593",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/YVk3uivwxqwDPAD42oeomPXTeleFyA6DHNstVziPNvBOXL305ht75CRMvq6Kr4AiZRJVo_dz9-cih_f0BQHz3Goq5lhK6BazXqz_4diXQ3BFMmI4tMw5_x0sD-I_X2DM5LWJVkcU84W6ihMcNq9IleOpdVQhfMN3iSq5ltMCjvvwvzXmQUhBZBU3Rk7oD3pZCpYt52IB7s0dHwbjLJF9QDNDtNbSrdPfuLb9vpew7v7LQ4bhqpr8qe-mWIYwOX1dk2OI_NiY6wwePsQGGWCvERoQy4y238Svjr1UXdpyP5AqFKCdvruL9qrQflvRpvNoDKeDSRmAo6SDU-ACoq2uWg.jpg",
-          "thumbnail_path": "channels/iranlix/media/4c28d5f61919b4da62b047d8.jpg",
-          "thumbnail_sha256": "558652fb27879bbc387cde13f00ce8623dab8c5ec560bfe00e53c772d8e70fbd",
-          "duration_label": null,
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.25K",
-      "posted_at": "2026-09-05T16:09:42+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12593",
       "reply": null
     }
   ]
