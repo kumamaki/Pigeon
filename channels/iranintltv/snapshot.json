@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T08:27:27.221Z",
+  "fetched_at": "2026-09-08T08:32:27.883Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,62 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356277",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد مراسم تولد جاویدنام محمد احمدی بر سر مزارش برگزار شده است.<br>محمد احمدی، ۲۱ ساله، شامگاه پنجشنبه ۱۸ دی‌ماه ۱۴۰۴ در نورآباد ممسنی کشته شد.",
+      "plain_text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد مراسم تولد جاویدنام محمد احمدی بر سر مزارش برگزار شده است.\nمحمد احمدی، ۲۱ ساله، شامگاه پنجشنبه ۱۸ دی‌ماه ۱۴۰۴ در نورآباد ممسنی کشته شد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356277",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qA_A5mC0Z_kjMwD215UapqbhsfdPTo6n_q8MKjexOA30k1uZLlIozzCIJ6xAPphTvRceCyjCBJ5eQuVITyzlsWyNDywOnoDdOI8pSq6KjhpPeYKkJ6tf9o3YQSpl8U4rHuBbLG5yHxCdJc6HhCe6RvefFFF3s-7qRqmUKrG1OIFzFCI_oKOps0117ets1ac-mGvuwNxjWKb7DLpSLgeY4NS995KEFK6tKuj9dqxuJoZyzbF7i_rNsU8LNKeTGOMvgCk_KiS4qEwwzlwm9EtGWqseWRFXyIxPrh0Bg7bjTfHzaPJFsQK9i2C2ZXBwlAEOyGH6LU5nEyCaq7xk1ONp5Q",
+          "thumbnail_path": "channels/iranintltv/media/487a6949e14c0c49b16d1763.jpg",
+          "thumbnail_sha256": "d000ec39fd3e00acb2985da38cdab50833254a7cd649cb5755e7766b8916c060",
+          "duration_label": "0:30",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T08:32:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356277",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356276",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "مخاطبان ایران‌اینترنشنال با ارسال پیام‌هایی از تشدید فضای امنیتی در شهرهایی از جمله تهران، کرج، شیراز، مشهد، بیرجند، خمین و حضور گسترده نیروهای یگان ویژه، پلیس و بسیج در اطراف جایگاه‌های سوخت، هم‌زمان با افزایش نرخ سوم بنزین به ۱۰ هزار تومان، خبر می‌دهند.<br><br>جزییات بیشتر با لیلا سعادتی، عضو تحریریه ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "مخاطبان ایران‌اینترنشنال با ارسال پیام‌هایی از تشدید فضای امنیتی در شهرهایی از جمله تهران، کرج، شیراز، مشهد، بیرجند، خمین و حضور گسترده نیروهای یگان ویژه، پلیس و بسیج در اطراف جایگاه‌های سوخت، هم‌زمان با افزایش نرخ سوم بنزین به ۱۰ هزار تومان، خبر می‌دهند.\n\nجزییات بیشتر با لیلا سعادتی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356276",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Pe3-5ejp3tn6JTN_rIeU3rcvgLcdTL9B1u1GuaZebzT8WIeSus2xh9XrqCntvROaXWp0eEpPYy1xiSC6p6j6qPYuxlNl-lJbYYsoCmNO-e_iwi_7I1FlDaU_TQiwuKw6vI0CQnGk-cWNK-NaH1aEXVkTlk4E4zPql_Jk9kxHW8dptw4gZGh_UBZkK3RwkXBZj25PqdCumpNVQjUlPMY7MtyRl-Ixia0hOEPqwSVBhamQf085a2ympwfep_A_40GCYdlKyLf5N2pxlZclGePasYHs8-H3Rjao2Y-D2U3CutOsviZWE-WcWP5ssnxvWn4x8HEdSSEw5wXEeTer0BcPEw",
+          "thumbnail_path": "channels/iranintltv/media/8a97f890b008191019f10697.jpg",
+          "thumbnail_sha256": "d73c628bbfad80669f5c28b4a4dee96fec80e6084065b1621f864d8e45349c4d",
+          "duration_label": "2:22",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.11K",
+      "posted_at": "2026-09-08T08:28:38+00:00",
+      "edited": true,
+      "permalink": "https://t.me/IranintlTV/356276",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356275",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.17K",
+      "views_label": "8.34K",
       "posted_at": "2026-09-08T08:21:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356275",
@@ -61,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.34K",
+      "views_label": "11.5K",
       "posted_at": "2026-09-08T08:14:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356274",
@@ -89,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.33K",
+      "views_label": "10.4K",
       "posted_at": "2026-09-08T08:14:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356273",
@@ -117,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.5K",
+      "views_label": "13.6K",
       "posted_at": "2026-09-08T08:08:05+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356272",
@@ -145,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.5K",
+      "views_label": "13.6K",
       "posted_at": "2026-09-08T08:06:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356271",
@@ -173,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.6K",
+      "views_label": "17.7K",
       "posted_at": "2026-09-08T07:55:52+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356270",
@@ -201,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.6K",
+      "views_label": "15.6K",
       "posted_at": "2026-09-08T07:55:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356269",
@@ -229,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.7K",
+      "views_label": "17.7K",
       "posted_at": "2026-09-08T07:50:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356268",
@@ -257,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.7K",
+      "views_label": "18.8K",
       "posted_at": "2026-09-08T07:45:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356267",
@@ -285,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.8K",
+      "views_label": "20.9K",
       "posted_at": "2026-09-08T07:37:58+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356266",
@@ -313,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.8K",
+      "views_label": "20.8K",
       "posted_at": "2026-09-08T07:35:16+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356265",
@@ -341,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.8K",
+      "views_label": "19.8K",
       "posted_at": "2026-09-08T07:34:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356264",
@@ -369,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.9K",
+      "views_label": "21.9K",
       "posted_at": "2026-09-08T07:27:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356263",
@@ -397,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.1K",
+      "views_label": "25.1K",
       "posted_at": "2026-09-08T07:16:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356262",
@@ -425,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.1K",
+      "views_label": "26.1K",
       "posted_at": "2026-09-08T07:09:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356261",
@@ -481,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.1K",
+      "views_label": "25.1K",
       "posted_at": "2026-09-08T07:05:29+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356259",
@@ -509,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.3K",
+      "views_label": "30.4K",
       "posted_at": "2026-09-08T06:45:29+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356258",
@@ -2704,62 +2760,6 @@
       "posted_at": "2026-09-07T17:35:18+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356176",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356175",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "کانال تلگرامی افکار نفت، پایگاه اطلاع‌رسانی مطالبات کارکنان رسمی صنعت نفت ایران، از برگزاری تجمع‌های اعتراضی کارکنان در سکوهای دریایی شرکت نفت و گاز پارس و عسلویه برای حذف سقف حقوق و اصلاح کف حقوق خبر داد.<br><br>بر اساس این گزارش، کارکنان رسمی در این تجمع‌های اعتراضی که دوشنبه هر هفته برگزار می‌شود، همچنین خواستار پرداخت «بک‌پی ماده ۱۰» شدند.<br><br>«بک پی ماده ۱۰» به معنای پرداخت معوقات و مطالبات مالی انباشته شده کارکنان صنعت نفت بر اساس اجرای ماده ۱۰ قانون وظایف و اختیارات وزارت نفت است.<br><a href=\"https://iranintl.com/202609075557\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609075557</a>",
-      "plain_text": "کانال تلگرامی افکار نفت، پایگاه اطلاع‌رسانی مطالبات کارکنان رسمی صنعت نفت ایران، از برگزاری تجمع‌های اعتراضی کارکنان در سکوهای دریایی شرکت نفت و گاز پارس و عسلویه برای حذف سقف حقوق و اصلاح کف حقوق خبر داد.\n\nبر اساس این گزارش، کارکنان رسمی در این تجمع‌های اعتراضی که دوشنبه هر هفته برگزار می‌شود، همچنین خواستار پرداخت «بک‌پی ماده ۱۰» شدند.\n\n«بک پی ماده ۱۰» به معنای پرداخت معوقات و مطالبات مالی انباشته شده کارکنان صنعت نفت بر اساس اجرای ماده ۱۰ قانون وظایف و اختیارات وزارت نفت است.\nhttps://iranintl.com/202609075557",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356175",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/iDnm_TZvYtG6m1p947PbwNfPwTLVsbBC0A2FrG_JFTfxaqMESVFjVpp4nq0nHRbEKi_BpKdQ-Awq38p1BbBO8JuLM7gumJCzLfVM0tpPf-Lgsqan1gXa4pm7mokE1nKp2WZ4IESRaOGX29kGiCfblLzDpi6uvin4BbITV7WSxR0DPkuLpJ8uxu2WZLWOADT_sP_VBrgy1AKV0OTnnKq0nwvMcEhIpumu7M8Sol_ShD8s7RUuIWr6sD2jfksIIAd9kHJz_RGygt4VXsz37JkQSk3N2K7giVCeM6eDCWJXgtWwCHNuDBUrmxYy0dgERry7hfov7MQ778V14s6TqaBe2A.jpg",
-          "thumbnail_path": "channels/iranintltv/media/bc9816a7b6099df8e37613f8.jpg",
-          "thumbnail_sha256": "301a3c4c470f423b9921b50ff438001512e9f867bee7da348c9c51d5b6fdecaf",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "53.6K",
-      "posted_at": "2026-09-07T17:14:51+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356175",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356174",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "یک معلم با انتشار ویدیویی در رسانه‌های اجتماعی، در خصوص آموزش در فضای مجازی می‌گوید: «گوشی همراه خود را سال گذشته ۱۴ میلیون تومان خریدم و امسال ۷۰ میلیون تومان شده است. اگر خراب شود، توان خرید دوباره آن را با این حقوق کم ندارم. باید به معلم‌ها برای آموزش مجازی گوشی همراه بدهند.»",
-      "plain_text": "یک معلم با انتشار ویدیویی در رسانه‌های اجتماعی، در خصوص آموزش در فضای مجازی می‌گوید: «گوشی همراه خود را سال گذشته ۱۴ میلیون تومان خریدم و امسال ۷۰ میلیون تومان شده است. اگر خراب شود، توان خرید دوباره آن را با این حقوق کم ندارم. باید به معلم‌ها برای آموزش مجازی گوشی همراه بدهند.»",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356174",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Xbw_h42sc0aNX50Z3dsKlkvFyiZk_xjbB10madm_bbOAoc3hb7aC2JQTR5ru_5YatJ_mpFEODKiitzWomTWen7CYWEm8IYc5zDOIlrFV-Qxyy5H1jqUB-DzNk3heJneWW_J8AzJ0FNGgIlI7KF2cxb6ZE4TP4O7tIH73JguRmwRiYS5_h1fK7IvywLfy0zPBWptZmJwRN-6o_n3oRJj4gK6hBBQS4lQjtXpUwb-LRshO6x7NFkifjtuc5CQCehhwY8dorllCXZDirNksKfgFI-1Q1WFqT1KFN9NirGtFilWN6nfQyIV40-PqG5GNaOSTy1X38PHswuvMW7c8BIhxRA",
-          "thumbnail_path": "channels/iranintltv/media/00dda9aaccbb8d67136401ea.jpg",
-          "thumbnail_sha256": "ae967abec69da8e3cd55f61ed83865c527713d072a592169b3377e1ade27e52e",
-          "duration_label": "1:32",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "54.7K",
-      "posted_at": "2026-09-07T17:04:17+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356174",
       "reply": null
     }
   ]

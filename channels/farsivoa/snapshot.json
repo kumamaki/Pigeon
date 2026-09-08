@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T08:27:25.354Z",
+  "fetched_at": "2026-09-08T08:32:25.627Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229833",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "تصاویر منتسب به هدف قرار گرفتن تأسیسات انرژی در جنوب عربستان؛<br><br>وزارت انرژی عربستان سعودی اعلام کرد چند تأسیسات و زیرساخت انرژی در جنوب این کشور بامداد سه‌شنبه هدف قرار گرفت و شماری زخمی شدند.<br><br>بر پایه بیانیه این وزارتخانه در شبکه ایکس، حملات آتش‌سوزی در چند نقطه ایجاد کرد و برخی عملیات را موقتاً متوقف کرد.<br><br>در همان بیانیه آمده است مقام‌ها برای تأمین ایمنی تأسیسات، کارکنان و تداوم عملیات کار می‌کنند و ارزیابی خسارت‌ها در جریان است. زخمی‌ها مراقبت پزشکی لازم را دریافت می‌کنند.<br><br>به گزارش میدل‌ایست‌آی، حوثی‌های یمن حملات را انجام دادند.<br><br>ائتلاف به رهبری عربستان روز سه‌شنبه جداگانه اعلام کرد موجی از حملات حوثی‌ها ۷۳ نفر را در شهرهای ابها، جازان، نجران و خمیس مشیط زخمی کرده است.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "تصاویر منتسب به هدف قرار گرفتن تأسیسات انرژی در جنوب عربستان؛\n\nوزارت انرژی عربستان سعودی اعلام کرد چند تأسیسات و زیرساخت انرژی در جنوب این کشور بامداد سه‌شنبه هدف قرار گرفت و شماری زخمی شدند.\n\nبر پایه بیانیه این وزارتخانه در شبکه ایکس، حملات آتش‌سوزی در چند نقطه ایجاد کرد و برخی عملیات را موقتاً متوقف کرد.\n\nدر همان بیانیه آمده است مقام‌ها برای تأمین ایمنی تأسیسات، کارکنان و تداوم عملیات کار می‌کنند و ارزیابی خسارت‌ها در جریان است. زخمی‌ها مراقبت پزشکی لازم را دریافت می‌کنند.\n\nبه گزارش میدل‌ایست‌آی، حوثی‌های یمن حملات را انجام دادند.\n\nائتلاف به رهبری عربستان روز سه‌شنبه جداگانه اعلام کرد موجی از حملات حوثی‌ها ۷۳ نفر را در شهرهای ابها، جازان، نجران و خمیس مشیط زخمی کرده است.\n\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229833",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/r36SLJScY16W-In2QM9NhxgE8fXrlL8Bwh-E0734Vb10_hderFRpQsW9lRSh0JEpLjw8q5gKZZRTnOejIlGUrw1xix6PQX_9IE7Qdcew_fFp6qoSC9EKKJB-NOes33apG9xkRYsi4k4FBCL-c5BinmsTYm_FCCHCqaSRLfFAbWD_VA56ntD8NOtrwsp5wO8ooLgZmHLX1uL8cGhcgRmJg9wERVMT3bst1-cQRuryUBjN6vlvpGXSgAZ-eBmobmXP40B2R3Ujv1Dm67TWop2zHfXr-IiGcq0IXMInughEq7y_jYFJkMZyhPv650fYlsix1VWzlw0MOmelTRsWA4SXhA",
+          "thumbnail_path": "channels/farsivoa/media/d81c0e175c96319e7676d640.jpg",
+          "thumbnail_sha256": "419d2bb92007adfa63854d8dd36da2707a0ad74509228aa0faea0c4096faad22",
+          "duration_label": "0:31",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "66",
+      "posted_at": "2026-09-08T08:31:45+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229833",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229832",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺دو وزیر اسرائیلی خواستار اخراج سفیر بریتانیا و تحریم این کشور شدند\n\n▪️بتسلئل اسموتریچ، وزیر دارایی اسرائیل، پس از گزارش‌هایی درباره ممنوعیت تجارت بریتانیا با شهرک‌های کرانه باختری، خواستار اخراج فوری سفیر این کشور شد.\n\n▪️او شامگاه دوشنبه در شبکه ایکس نوشت: «سفیر بریتانیا را همین امشب اخراج کنید! قیمومیت بریتانیا بر سرزمین اسرائیل تمام شده است.»\n\n▪️ایتمار بن‌گویر، وزیر امنیت ملی اسرائیل نیز واکنش متفاوتی نشان داد.\n\n▪️او در شبکه ایکس و به زبان اسپانیایی نوشت: «وقت آن رسیده که دولت اسرائیل علناً به رسمیت بشناسد که جزایر مالویناس سرزمین آرژانتین است.» او از بنیامین نتانیاهو خواست حاکمیت آرژانتین را بپذیرد و «تا زمانی که اشغال ادامه دارد» بریتانیا را تحریم کند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195510.html",
       "media": [],
       "reactions": [],
-      "views_label": "356",
+      "views_label": "548",
       "posted_at": "2026-09-08T08:20:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229832",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "617",
+      "views_label": "773",
       "posted_at": "2026-09-08T08:12:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229831",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.08K",
+      "views_label": "1.2K",
       "posted_at": "2026-09-08T07:57:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229830",
@@ -93,7 +121,7 @@
       "plain_text": "🔺نفتالی بنت: امارات حمله ۷ اکتبر را به نتانیاهو گزارش داده بود\n\n▪️نفتالی بنت، نخست‌وزیر پیشین اسرائیل، گفت گزارش روزنامه هاآرتص درباره دریافت هشدار شخصی نتانیاهو از رئیس امارات پیش از حمله ۱۵ مهر ۱۴۰۲ «درست است».\n\n▪️او در شبکه ایکس نوشت: «گزارشی که امروز صبح منتشر شد مبنی بر اینکه نتانیاهو ۱۰ روز پیش از کشتار ۷ اکتبر درباره نیت‌های سنوار هشدار گرفته بود، درست است. نتانیاهو مسئولیت شخصی و مستقیم شکستی را بر عهده دارد که به مرگ هزاران اسرائیلی در دوره او انجامید.»\n\n▪️رهبر حزب «با هم» گفت بی‌توجهی نتانیاهو به هشدارها «به قصور جنایی می‌رسد». او افزود: «به همین دلیل است که هر کاری می‌کند تا از تشکیل کمیسیون تحقیق دولتی که حقیقت را آشکار کند جلوگیری کند.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195509.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.56K",
+      "views_label": "1.63K",
       "posted_at": "2026-09-08T07:39:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229829",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.39K",
+      "views_label": "2.45K",
       "posted_at": "2026-09-08T06:31:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229828",
@@ -149,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.25K",
+      "views_label": "2.31K",
       "posted_at": "2026-09-08T06:22:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229827",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.19K",
+      "views_label": "2.23K",
       "posted_at": "2026-09-08T06:12:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229826",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.19K",
+      "views_label": "2.22K",
       "posted_at": "2026-09-08T06:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229825",
@@ -221,7 +249,7 @@
       "plain_text": "🔺نفت با نگرانی از طولانی شدن جنگ گران‌تر شد\n\n▪️قیمت نفت روز سه‌شنبه با افزایش نگرانی از طولانی شدن درگیری خاورمیانه و پس از آنکه جمهوری اسلامی تهدید کرد به هر حمله تازه آمریکا پاسخ می‌دهد، بالا رفت.\n\n▪️بهای نفت برنت ۴۹ سنت بالا رفت و به ۹۷ دلار و ۴۹ سنت در هر بشکه رسید. نفت وست تگزاس اینترمدییت آمریکا نیز با یک دلار و ۴۴ سنت رشد به ۹۲ دلار و ۹۲ سنت رسید.\n\n▪️این تحول در حالی است که بر خلاف تصور جمهوری اسلامی شوک بزرگی از ابتدای جنگ به بازار نفت وارد نشد و هنوز حجم قابل توجهی از نفت از تنگه هرمز عبور می‌کند.\n\n▪️تولیدکنندگان دیگر هم جای خالی نفت خلیج فارس را پر می‌کنند. آمریکا، کانادا و گویانا امسال یک میلیون و ۴۰۰ هزار بشکه در روز به تولید اضافه کردند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195471.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.23K",
+      "views_label": "2.26K",
       "posted_at": "2026-09-08T05:51:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229824",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.19K",
+      "views_label": "2.22K",
       "posted_at": "2026-09-08T05:40:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229823",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.25K",
+      "views_label": "2.28K",
       "posted_at": "2026-09-08T05:30:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229822",
@@ -293,7 +321,7 @@
       "plain_text": "🔺پیشنهاد مصر برای چارچوب امنیتی مشترک عربی در پی حملات جمهوری اسلامی\n\n▪️وزیر امور خارجه مصر، در نشست شورای اتحادیه عرب در قاهره چارچوب امنیتی مشترکی برای کشورهای عربی پیشنهاد کرد.\n\n▪️بنابر گزارش رسانه‌های عربی، بدر عبدالعاطی گفت مصر آماده است با اتحادیه عرب و کشورهای عضو بر سر چارچوبی جامع کار کند که حوزه‌های همکاری، سازوکارهای هماهنگی و رویه‌های واکنش به بحران را تعیین کند.\n\n▪️عبدالعاطی افزود ترتیبات پیشنهادی می‌تواند بر پیمان دفاع مشترک عربی و تصمیم‌های اتحادیه عرب بنا شود، ضمن احترام به حاکمیت و استقلال تصمیم‌گیری کشورهای عضو.\n\n▪️او در همین نشست حملات جمهوری اسلامی به کشورهای عربی را محکوم کرد و همبستگی مصر را با کشورهای خلیج فارس، اردن و عراق اعلام کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195470.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.33K",
+      "views_label": "2.36K",
       "posted_at": "2026-09-08T05:21:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229821",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.37K",
+      "views_label": "2.4K",
       "posted_at": "2026-09-08T05:12:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229820",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.53K",
+      "views_label": "2.54K",
       "posted_at": "2026-09-08T05:01:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229819",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.58K",
+      "views_label": "2.61K",
       "posted_at": "2026-09-08T04:47:11+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229818",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.95K",
+      "views_label": "2.98K",
       "posted_at": "2026-09-08T04:36:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229817",
@@ -2591,34 +2619,6 @@
       "posted_at": "2026-09-07T12:11:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229722",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229721",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "سخنگوی ارتش اسرائیل اعلام کرد نیروهای این کشور شامگاه دوشنبه پس از دریافت گزارش‌هایی درباره درگیری میان فلسطینی‌ها و شهروندان اسرائیلی که وارد روستای «حجه» در منطقه افرایم شده بودند، به محل اعزام شدند.<br><br>به گفته ارتش اسرائیل، نیروها پس از ورود، درگیری را متوقف کرده و شهروندان اسرائیلی را از روستا خارج کردند، اما پس از آن فلسطینی‌ها به سوی نیروهای ارتش سنگ پرتاب کردند.<br><br>ارتش اسرائیل می‌گوید نیروها ابتدا اقدام به تیراندازی هوایی کرده و سپس به سوی افرادی که آنها را «محرکان اصلی» ناآرامی معرفی کرده، شلیک کردند. گزارش‌هایی از اصابت گلوله منتشر شده و ارتش اعلام کرده این حادثه در دست بررسی است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "سخنگوی ارتش اسرائیل اعلام کرد نیروهای این کشور شامگاه دوشنبه پس از دریافت گزارش‌هایی درباره درگیری میان فلسطینی‌ها و شهروندان اسرائیلی که وارد روستای «حجه» در منطقه افرایم شده بودند، به محل اعزام شدند.\n\nبه گفته ارتش اسرائیل، نیروها پس از ورود، درگیری را متوقف کرده و شهروندان اسرائیلی را از روستا خارج کردند، اما پس از آن فلسطینی‌ها به سوی نیروهای ارتش سنگ پرتاب کردند.\n\nارتش اسرائیل می‌گوید نیروها ابتدا اقدام به تیراندازی هوایی کرده و سپس به سوی افرادی که آنها را «محرکان اصلی» ناآرامی معرفی کرده، شلیک کردند. گزارش‌هایی از اصابت گلوله منتشر شده و ارتش اعلام کرده این حادثه در دست بررسی است.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229721",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/uzWn26-xLrCw8b7vdggbKeyOe02Ds5m8YOVXJ21WvE76a2KxE-u_mrEe5wX1JFRfopfK_j8Wi8FhDLGJxEerlJTfZ7Mq2LPjkvO9P1nzXBxZvGWYNY1BR-wFwBM27HDJzgPsKSvCZr0vd9YNtoH14ZnGTB8GpcgSVaaxbmM0-COnYiil3LMLqtlQf-b_suL0B_Mp98z_ayvgY_7Q8tr8syTkVDezcww1SR1yxlS-jlPxG3-mPf_ULsAEA8oAdREkatG4Pkx2KpONOYHdu7th_DADQtveiXRC28LAqqUK6AAaEUHAyd7twiWpVV2E7hq2-anQUHAb3pOzXmL_eHbO3g.jpg",
-          "thumbnail_path": "channels/farsivoa/media/1a1fe61d102db19285aa88a9.jpg",
-          "thumbnail_sha256": "9d315b170b86bf08ab2497dc777eede0f564fffb4ca23a8d76fe6ebdc467b61b",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.6K",
-      "posted_at": "2026-09-07T12:05:05+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229721",
       "reply": null
     }
   ]
