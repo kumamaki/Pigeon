@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T22:01:57.887Z",
+  "fetched_at": "2026-09-08T22:06:35.907Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229921",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "قانون اساسی جمهوری اسلامی درباره همه‌پرسی جنگ و صلح چه می‌گوید؟ گفت‌وگو با پگاه بنی‌هاشمی<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "قانون اساسی جمهوری اسلامی درباره همه‌پرسی جنگ و صلح چه می‌گوید؟ گفت‌وگو با پگاه بنی‌هاشمی\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229921",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/JtMhLRuqT1IGjOm2HeazcBtolbvC2XyG9xFnDHyEQykmKufa5xeeVsh38CdHi9Y7Uy1nwPGB9bePHT4peqNkI912rn-mDeGWCpqoSvM7Bss1WRpli4DUYMRkHSPMyEE-qwf67kPeCbntNzZEHXxncRLp6Gks1lPo6omnLhl3bHL-bhGgKQ6fc2Rh1Vla5wNKiPueKdS3P5VE9Cti9JZiWz_ywYhgrsuLQ78ghUh3Fk4hoZaptJGWw_3IjADI9YOIy3R-0UM6gVzJUSUfLw9KrY-xZjtkpZd6apavCnFpjJlu3-CSzi16RyCOqFfLPBv4ums0FOWQSTs41gPZTWxH1Q",
+          "thumbnail_path": "channels/farsivoa/media/8177d1dcb20db10c95e5352b.jpg",
+          "thumbnail_sha256": "f109a7edca645b1ce0eb8813b2a16e99e4102250c564ebe7b0ee771ce6e362ea",
+          "duration_label": "2:07",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "379",
+      "posted_at": "2026-09-08T22:02:21+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229921",
+      "reply": null
+    },
     {
       "id": "farsivoa/229920",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "858",
+      "views_label": "1.14K",
       "posted_at": "2026-09-08T21:45:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229920",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.5K",
+      "views_label": "1.75K",
       "posted_at": "2026-09-08T21:31:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229919",
@@ -77,7 +105,7 @@
       "plain_text": "🔺ایالات متحده پس از حملات موشکی بیشتر سپاه به یک ناو جنگی آمریکا، نفتکش‌های جمهوری اسلامی را هدف قرار داد\n\n▪️ایالات متحده روز سه‌شنبه ۱۷ شهریور در واکنش به تلاش‌های بیشتر جمهوری اسلامی برای حمله موشکی به یک ناو جنگی نیروی دریایی آمریکا، چندین نفتکش جمهوری اسلامی ایران را هدف قرار داد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195704.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.78K",
+      "views_label": "1.97K",
       "posted_at": "2026-09-08T21:27:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229918",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.13K",
+      "views_label": "2.26K",
       "posted_at": "2026-09-08T21:10:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229917",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.54K",
+      "views_label": "2.63K",
       "posted_at": "2026-09-08T20:59:33+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229916",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.51K",
+      "views_label": "2.57K",
       "posted_at": "2026-09-08T20:50:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229915",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.09K",
+      "views_label": "3.15K",
       "posted_at": "2026-09-08T20:36:36+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229914",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.9K",
+      "views_label": "2.96K",
       "posted_at": "2026-09-08T20:32:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229913",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.38K",
+      "views_label": "3.42K",
       "posted_at": "2026-09-08T20:16:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229912",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.5K",
+      "views_label": "3.57K",
       "posted_at": "2026-09-08T20:06:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229911",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.63K",
+      "views_label": "3.66K",
       "posted_at": "2026-09-08T19:59:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229910",
@@ -317,7 +345,7 @@
       "plain_text": "🔺سنتکام به صدای آمریکا: زیردریایی بی‌سرنشینی که دچار نقص فنی شد فاقد تجهیزات حساس بود\n\n▪️تیم هاوکینز، سخنگوی فرماندهی مرکزی آمریکا، سنتکام، روز سه‌شنبه ۱۷ شهریور در پاسخ به صدای آمریکا درباره ادعای سپاه پاسداران مبنی بر «به غنیمت گرفتن» یک زیردریایی آمریکایی در تنگه هرمز گفت یک دستگاه زیردریایی بدون سرنشین تحت کنترل نیروهای آمریکایی حدود یک روز پیش دچار نقص فنی شده بود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/centcom-says-drone-malfunctioned/8195671.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.73K",
+      "views_label": "3.79K",
       "posted_at": "2026-09-08T19:54:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229909",
@@ -333,7 +361,7 @@
       "plain_text": "🔴📢‌ پادکست میدان - سه شنبه ۱۷ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از\nنسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه\nسبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "3.15K",
+      "views_label": "3.19K",
       "posted_at": "2026-09-08T19:53:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229908",
@@ -349,7 +377,7 @@
       "plain_text": "🔺گزارش‌ها از حمله ارتش آمریکا به اهدافی در جاسک و خارک؛ فاکس‌نیوز: چند نفتکش هدف قرار گرفتند\n\n▪️رسانه‌های حکومتی در ایران سه‌شنبه شب تائید کردند که یک نفتکش در اطراف جزیره خارک هدف حمله قرار گرفته است. به گفته تسنیم، نزدیک به سپاه پاسداران، یک پرتابه به این نفتکش برخورد کرده است. تسنیم مدعی حمله آمریکا به این نفتکش شده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195682.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.16K",
+      "views_label": "3.19K",
       "posted_at": "2026-09-08T19:49:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229907",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.03K",
+      "views_label": "3.06K",
       "posted_at": "2026-09-08T19:46:36+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229906",
@@ -393,7 +421,7 @@
       "plain_text": "🔺پیام حسین شنبه‌زاده از زندان اوین: اوین هتل نیست؛ به داد زندانیان مالی برسید\n\n▪️حسین شنبه‌زاده، جوان ویراستاری که به دلیل گذاشتن یک نقطه‌ زیر پیام علی خامنه‌ای» زندانی شده است، روز ۱۷ شهریور همزمان با سالروز تولدش در یک پیام صوتی ۱۷ دقیقه‌ای از زندان اوین، خواستار توجه ویژه به زندانیان مالی شد و از به کار بردن لفظ «هتل» برای اوین انتقاد کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/hossein-shanbehzadeh-financial-prisoners/8195635.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.01K",
+      "views_label": "3.04K",
       "posted_at": "2026-09-08T19:39:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229905",
@@ -409,7 +437,7 @@
       "plain_text": "🔺روبیو: جمهوری اسلامی دیگر در میدان‌های نفتی ونزوئلا جایگاهی ندارد\n\n▪️مارکو روبیو، وزیر امور خارجه ایالات متحده، می‌گوید میدان‌های نفتی ونزوئلا که زمانی چین، روسیه، و جمهوری اسلامی در آنها نفوذ و امتیاز داشتند، دیگر در اختیار این کشورها نیست و همکاری با ایالات متحده منافع بیشتری برای مردم ونزوئلا خواهد داشت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/rubio-says-iran-lost-foothold/8195651.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.17K",
+      "views_label": "3.2K",
       "posted_at": "2026-09-08T19:34:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229904",
@@ -437,7 +465,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.05K",
+      "views_label": "3.09K",
       "posted_at": "2026-09-08T19:30:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229903",
@@ -2469,34 +2497,6 @@
       "posted_at": "2026-09-08T05:21:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229821",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229820",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "نیروهای وفادار به دولت رسمی یمن پاتک گسترده‌ای علیه حوثی‌ها آغاز کردند و اعلام کردند هدفشان بازپس‌گیری صنعاست.<br><br>سمیر الصبری، معاون وزیر دفاع یمن، روز دوشنبه در تلویزیون دولتی گفت: «تصمیم بازپس‌گیری صنعا گرفته شده است.»<br><br>درگیری‌ها در استان‌های البیضا و الجوف دروازه اصلی پایتخت تشدید شد. نیروهای دولتی اردوگاه نظامی اللبنات در شرق الحزم را تصرف کردند. بر پایه گزارش الجزیره، نیروی هوایی یمن مواضع حوثی‌ها را در الجوف، البیضا، مأرب، تعز و الحدیده هدف قرار داد.<br><br>سازمان جهانی بهداشت روز دوشنبه اعلام کرد نزدیک ۹۰۰ نفر در درگیری‌های اخیر کشته یا زخمی شده‌اند.<br><br>حوثی‌ها صنعا را در سال ۲۰۱۴ تصرف کردند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "نیروهای وفادار به دولت رسمی یمن پاتک گسترده‌ای علیه حوثی‌ها آغاز کردند و اعلام کردند هدفشان بازپس‌گیری صنعاست.\n\nسمیر الصبری، معاون وزیر دفاع یمن، روز دوشنبه در تلویزیون دولتی گفت: «تصمیم بازپس‌گیری صنعا گرفته شده است.»\n\nدرگیری‌ها در استان‌های البیضا و الجوف دروازه اصلی پایتخت تشدید شد. نیروهای دولتی اردوگاه نظامی اللبنات در شرق الحزم را تصرف کردند. بر پایه گزارش الجزیره، نیروی هوایی یمن مواضع حوثی‌ها را در الجوف، البیضا، مأرب، تعز و الحدیده هدف قرار داد.\n\nسازمان جهانی بهداشت روز دوشنبه اعلام کرد نزدیک ۹۰۰ نفر در درگیری‌های اخیر کشته یا زخمی شده‌اند.\n\nحوثی‌ها صنعا را در سال ۲۰۱۴ تصرف کردند.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229820",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/eo556N_O1CnSwtcbYNOkHPxYG7ase-W1AzV_HqkOrY5kc8XniyrzvPL11b1OnOWHKO5CH_5PIjV-Z9rltWyVvPZZUPk-O2x8oaWXP4142KEXtbuFXV_tgkJEOP_eceDTtWZO9mpGgWpwyAuuo2PyhNv5jkh2QT4fGrQh4K7SA5Gos_5ULC9QzWYUfVTs1DjzIJtjVUYRgK8FPwapVaMovBSp38Tbm2Gv9estO7G7tpS-RYWxaiHLTxlDFVvhEwZAhxj3GSEcnAvB4Ljowb7uhrOPteVTpU-04tnHrjqOkRtSXp3c3HgXhoVNLIzcN82uPwNcEfYC9YDM1nYbNIcQAQ.jpg",
-          "thumbnail_path": "channels/farsivoa/media/7661f6b15f814e8dbe3da1c9.jpg",
-          "thumbnail_sha256": "235a5392ea7f71090573811cd74472f2d111e1a5bd5e394004dfcee9ebe9f2d5",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.81K",
-      "posted_at": "2026-09-08T05:12:35+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229820",
       "reply": null
     }
   ]
