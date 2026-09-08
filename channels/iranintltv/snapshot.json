@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T07:27:14.189Z",
+  "fetched_at": "2026-09-08T07:32:18.251Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356263",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "ویدیوهای رسیده به ایران‌اینترنشنال، آبگرفتگی‌ خیابان‌های رشت را پس از بارش باران در شامگاه دوشنبه ۱۶ شهریور نشان می‌دهد.",
+      "plain_text": "ویدیوهای رسیده به ایران‌اینترنشنال، آبگرفتگی‌ خیابان‌های رشت را پس از بارش باران در شامگاه دوشنبه ۱۶ شهریور نشان می‌دهد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356263",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/PrehE38AqCR_0CPMhWBBZROaHxpzHLn9-fS9YrzEk5mUqPVe03rsQAH7Jjm2Ejy6KkuVtFckff74l5_Ep-j87XNFU4t6KMrLKopLKRGeR7-RPqGvHqLirStdmnsB_cQONTKaALHAGd7Dek0Htw52TVcA3KuUkPsPP15j_G44w0_h79o_2fBLDnjnJsQxjBQ4DC5-usuUULBLunYa-Pe0-VGvi73FTlgYXM7l6pUXq09VpTcbmLAVad8Axo9BO5qy4fVmgD1RtO036lEM_xXCVDqs381DhVTx3deIXtH35eksZKUIfbAb0A3YCrRKZQ8vkYDXMBUo5nhmNSTfddnd6Q",
+          "thumbnail_path": "channels/iranintltv/media/b7f7296d711bdec0ed1988c2.jpg",
+          "thumbnail_sha256": "8a8866759694c4f243fb3a857b03697842d3ac48d1dcd89e9568913423d4ef33",
+          "duration_label": "0:14",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "4.17K",
+      "posted_at": "2026-09-08T07:27:19+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356263",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356262",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7.34K",
+      "views_label": "9.45K",
       "posted_at": "2026-09-08T07:16:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356262",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.48K",
+      "views_label": "11.6K",
       "posted_at": "2026-09-08T07:09:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356261",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.5K",
+      "views_label": "12.6K",
       "posted_at": "2026-09-08T07:06:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356260",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.47K",
+      "views_label": "11.6K",
       "posted_at": "2026-09-08T07:05:29+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356259",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.8K",
+      "views_label": "18.9K",
       "posted_at": "2026-09-08T06:45:29+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356258",
@@ -161,7 +189,7 @@
       "plain_text": "🎧نسخه صوتی اخبار بامدادی | سه‌شنبه ۱۷ شهریور\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "18.9K",
+      "views_label": "20K",
       "posted_at": "2026-09-08T06:36:37+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356257",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.9K",
+      "views_label": "21K",
       "posted_at": "2026-09-08T06:34:39+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356256",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.9K",
+      "views_label": "20K",
       "posted_at": "2026-09-08T06:29:51+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356255",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.9K",
+      "views_label": "18.9K",
       "posted_at": "2026-09-08T06:29:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356254",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16.8K",
+      "views_label": "18.9K",
       "posted_at": "2026-09-08T06:28:54+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356253",
@@ -289,7 +317,7 @@
       "plain_text": "🗣روایت شما از افزایش لحظه‌ای قیمت‌ها و از دست رفتن امکان برنامه‌ریزی برای آینده- سه‌شنبه ۱۷ شهریور:\n\n🔹شهریور پارسال می‌خواستم موتور بخرم، ۱۴۰ میلیون بود ۴۰ تومن کم داشتم. گفتم یک ماه دیگه جور می‌کنم. الان یک سال گذشته، ۶۰۰ میلیون رو قیمت موتور اومده، منم ماهی ۲۰ میلیون حقوق می‌گیرم. به ناچار با پولم دوچرخه خریدم.\n\n🔹قیمت یک گوشی از هشت میلیون به ۷۵ میلیون رسیده، اما حقوق من فقط از ۱۳ به ۲۱ میلیون افزایش یافته است.\n\n🔹چشم‌اندازی برای آینده نداریم. فعلا فقط می‌توانیم مواد غذایی ضروری را آن هم با صرفه‌جویی تهیه کنیم.\n\n🔹قیمت گوشی فعلی‌ام شده ۸۰ میلیون تومان ولی اگه نیاز به تعمیر و تعویض قطعه داشته باشه باید چند ماه کار کنم برای درست کردن آن.\n\n🔹برای خرید گوشی ۶۰ میلیون جمع کردم، اما دو هفته بعد قیمتش ۱۰۰ میلیون شد و خریدش را کنار گذاشتم.\n\n🔹خواستم گوشی گرون بخرم، تا پول جمع کردم، انقدر همه‌چی گرون شد که همین گوشی فعلی خودم شد همون قیمت.\n\n🔹هدفم از تغییر خانه به تعویض موبایل کاهش پیدا کرده است.\n\n🔹سه روز کار می‌کنیم تا بتوانیم یک روز غذای کافی داشته باشیم.\n\n🔹برای کارم داشتم پول جمع می‌کردم یه دستگاه ۷۰ میلیونی بخرم تو یک ماه شده ۱۱۰ میلیون. ۲ سال پیش ۷ میلیون بود.\n\n🔹در ساخت‌وساز فعالیت می‌کنم؛ تورم آن‌قدر بالاست که بعد از پیش‌فروش، ادامه پروژه دشوار می‌شود.\n\n🔹تغییر لحظه‌ای قیمت‌ها باعث شده حتی برای فردا نتوانم برنامه‌ای بریزم. فقط می‌توانم به همان روز فکر کنم؛ تمام توانم صرف پرداخت قسط، چک و بیمه می‌شود.\n\n🔹با وام یک بانک، قسط سرویس اعتباری را می‌دهم و با همان اعتبار مواد غذایی می‌خرم.",
       "media": [],
       "reactions": [],
-      "views_label": "21K",
+      "views_label": "22.1K",
       "posted_at": "2026-09-08T06:19:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356252",
@@ -317,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.2K",
+      "views_label": "28.3K",
       "posted_at": "2026-09-08T06:03:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356251",
@@ -345,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.3K",
+      "views_label": "30.4K",
       "posted_at": "2026-09-08T05:55:56+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356250",
@@ -373,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.3K",
+      "views_label": "29.3K",
       "posted_at": "2026-09-08T05:55:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356249",
@@ -401,7 +429,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.3K",
+      "views_label": "29.4K",
       "posted_at": "2026-09-08T05:50:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356248",
@@ -429,7 +457,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.4K",
+      "views_label": "30.4K",
       "posted_at": "2026-09-08T05:42:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356247",
@@ -457,7 +485,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.4K",
+      "views_label": "30.4K",
       "posted_at": "2026-09-08T05:40:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356246",
@@ -485,7 +513,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.3K",
+      "views_label": "29.4K",
       "posted_at": "2026-09-08T05:39:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356245",
@@ -2720,34 +2748,6 @@
       "posted_at": "2026-09-07T15:17:57+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356162",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356161",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "مادر جاویدنام ابوالفضل زارع با پیوستن به پویش «یک شمع، یک نام، یک یاد» برای فرزندش شمعی روشن کرد.<br>﻿ابوالفضل زارع، ۱۸ ساله، ۱۹ دی ۱۴۰۴ در اصفهان کشته شد.",
-      "plain_text": "مادر جاویدنام ابوالفضل زارع با پیوستن به پویش «یک شمع، یک نام، یک یاد» برای فرزندش شمعی روشن کرد.\n﻿ابوالفضل زارع، ۱۸ ساله، ۱۹ دی ۱۴۰۴ در اصفهان کشته شد.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356161",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/mw5x5zTmbwbqMGru3cWnvISz_kgVLTEYkvHWyjEMjNK9prMIWHktvS304FllSACp2VLZubGkqAgeFyEUDcLUhaj8KOMgVPGkiS5gv6pOUkVAzMKZYNWzVKHFJa-QccegcmpZkvdH8JJg25P8YUGDNmKfGrgYqDjcgA9K1IwydWdU1b-rFsfPypRLtDK-I_wkj0vzdR7zZPoj4O7YTJi8CoZQ7ZNls4xGsK8Il1MSGKFyxyVX02BSSNK0LgStUlq2gO8C_rgjDdEV6ZgefGEqKZU9i8D_biDDCcfQ54t1EL2NQbrenDUCIrFB_Ooynh99aY6vpGyLLKsRZdLnVXYFCg",
-          "thumbnail_path": "channels/iranintltv/media/dfebe7503cd2aa064d2a9289.jpg",
-          "thumbnail_sha256": "ae0b5a5afdff3cbb96ec5c39ac148b24faba55855fb0ee58c59fc0b3f1b2ff6f",
-          "duration_label": "0:27",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "55K",
-      "posted_at": "2026-09-07T15:00:59+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356161",
       "reply": null
     }
   ]
