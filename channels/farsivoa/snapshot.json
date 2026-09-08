@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T05:57:09.812Z",
+  "fetched_at": "2026-09-08T06:01:32.320Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229825",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "تردد شناورها در تنگه هرمز در آغاز این هفته کندتر شد، پس از آنکه جمهوری اسلامی روز دوشنبه تهدید کرد به هر حمله تازه آمریکا پاسخ می‌دهد.<br><br>بر پایه داده‌های شرکت کپلر، شمار شناورهای کالا که روز دوشنبه از تنگه گذشتند هفت فروند بود.<br><br>تهران هشدار داده بود زیرساخت انرژی در سراسر خلیج فارس از جمله منافع نفت و گاز آمریکا آسیب‌پذیر است.<br><br>تردد در تنگه باب‌المندب اما افزایش یافت و از ۱۷ شناور روز یکشنبه به ۲۹ شناور در روز دوشنبه رسید.<br><br>بسیاری از شناورها با فرستنده خاموش و حمایت ارتش آمریکا از تنگه هرمز می‌گذرند که در شمارش لحاظ نمی‌شود.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "تردد شناورها در تنگه هرمز در آغاز این هفته کندتر شد، پس از آنکه جمهوری اسلامی روز دوشنبه تهدید کرد به هر حمله تازه آمریکا پاسخ می‌دهد.\n\nبر پایه داده‌های شرکت کپلر، شمار شناورهای کالا که روز دوشنبه از تنگه گذشتند هفت فروند بود.\n\nتهران هشدار داده بود زیرساخت انرژی در سراسر خلیج فارس از جمله منافع نفت و گاز آمریکا آسیب‌پذیر است.\n\nتردد در تنگه باب‌المندب اما افزایش یافت و از ۱۷ شناور روز یکشنبه به ۲۹ شناور در روز دوشنبه رسید.\n\nبسیاری از شناورها با فرستنده خاموش و حمایت ارتش آمریکا از تنگه هرمز می‌گذرند که در شمارش لحاظ نمی‌شود.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229825",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ASSLaCffGxmgMvB_zZMqwZmIgvtyDHeG4xVKU2i6NWpVX8dflv7CHCJQ3G0174AcTirUc8GqPQxXlBKI7-lF-EAcGaZGWhzzbSUhs61ODM7dc1DX0ajid_0vhQAPOayYibh24TEgl4-j6jgjr6ooy1tfLHIKYjYVVVBV844-q7z6Iflr_2rlY9qVJTynEUXM63i5TWIoiZpnUB-VoFM5TCzdnAavoc6cfLJOh6F_VzAE59FM7IYwGhcB366PpFG5rMXeiteupeBFA-fTG3nAdRjm_rZjkrXmrE2UU1mmZ9YriF8ebCfkHsFg1um0lDmRYmGuA3KZdRJF6uIXYWy7GA.jpg",
+          "thumbnail_path": "channels/farsivoa/media/04e643d2337780b03050c3b2.jpg",
+          "thumbnail_sha256": "27b271a13cc8a3e74d5fdfb4896e9dbb6e0d4268f0e233557a080015de8baeec",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T06:01:20+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229825",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229824",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺نفت با نگرانی از طولانی شدن جنگ گران‌تر شد\n\n▪️قیمت نفت روز سه‌شنبه با افزایش نگرانی از طولانی شدن درگیری خاورمیانه و پس از آنکه جمهوری اسلامی تهدید کرد به هر حمله تازه آمریکا پاسخ می‌دهد، بالا رفت.\n\n▪️بهای نفت برنت ۴۹ سنت بالا رفت و به ۹۷ دلار و ۴۹ سنت در هر بشکه رسید. نفت وست تگزاس اینترمدییت آمریکا نیز با یک دلار و ۴۴ سنت رشد به ۹۲ دلار و ۹۲ سنت رسید.\n\n▪️این تحول در حالی است که بر خلاف تصور جمهوری اسلامی شوک بزرگی از ابتدای جنگ به بازار نفت وارد نشد و هنوز حجم قابل توجهی از نفت از تنگه هرمز عبور می‌کند.\n\n▪️تولیدکنندگان دیگر هم جای خالی نفت خلیج فارس را پر می‌کنند. آمریکا، کانادا و گویانا امسال یک میلیون و ۴۰۰ هزار بشکه در روز به تولید اضافه کردند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195471.html",
       "media": [],
       "reactions": [],
-      "views_label": "290",
+      "views_label": "425",
       "posted_at": "2026-09-08T05:51:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229824",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "608",
+      "views_label": "709",
       "posted_at": "2026-09-08T05:40:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229823",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "860",
+      "views_label": "930",
       "posted_at": "2026-09-08T05:30:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229822",
@@ -93,7 +121,7 @@
       "plain_text": "🔺پیشنهاد مصر برای چارچوب امنیتی مشترک عربی در پی حملات جمهوری اسلامی\n\n▪️وزیر امور خارجه مصر، در نشست شورای اتحادیه عرب در قاهره چارچوب امنیتی مشترکی برای کشورهای عربی پیشنهاد کرد.\n\n▪️بنابر گزارش رسانه‌های عربی، بدر عبدالعاطی گفت مصر آماده است با اتحادیه عرب و کشورهای عضو بر سر چارچوبی جامع کار کند که حوزه‌های همکاری، سازوکارهای هماهنگی و رویه‌های واکنش به بحران را تعیین کند.\n\n▪️عبدالعاطی افزود ترتیبات پیشنهادی می‌تواند بر پیمان دفاع مشترک عربی و تصمیم‌های اتحادیه عرب بنا شود، ضمن احترام به حاکمیت و استقلال تصمیم‌گیری کشورهای عضو.\n\n▪️او در همین نشست حملات جمهوری اسلامی به کشورهای عربی را محکوم کرد و همبستگی مصر را با کشورهای خلیج فارس، اردن و عراق اعلام کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195470.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.09K",
+      "views_label": "1.16K",
       "posted_at": "2026-09-08T05:21:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229821",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.23K",
+      "views_label": "1.3K",
       "posted_at": "2026-09-08T05:12:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229820",
@@ -149,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.43K",
+      "views_label": "1.5K",
       "posted_at": "2026-09-08T05:01:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229819",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.57K",
+      "views_label": "1.63K",
       "posted_at": "2026-09-08T04:47:11+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229818",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.86K",
+      "views_label": "1.93K",
       "posted_at": "2026-09-08T04:36:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229817",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4K",
+      "views_label": "4.03K",
       "posted_at": "2026-09-08T01:29:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229816",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.63K",
+      "views_label": "3.67K",
       "posted_at": "2026-09-08T01:08:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229815",
@@ -289,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.68K",
+      "views_label": "3.71K",
       "posted_at": "2026-09-08T00:29:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229814",
@@ -317,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.85K",
+      "views_label": "3.88K",
       "posted_at": "2026-09-08T00:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229813",
@@ -333,7 +361,7 @@
       "plain_text": "🔺ترامپ: قیمت نفت کاهش خواهد یافت و جمهوری اسلامی به سلاح هسته‌ای دست پیدا نمی‌کند\n\n▪️دونالد ترامپ، رئیس‌جمهوری آمریکا، دوشنبه شب در شبکه اجتماعی تروت‌سوشال نوشت وقتی در جنگ با جمهوری اسلامی ایران «پیروز شویم، قیمت نفت به سرعت کاهش خواهد یافت.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195221.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.79K",
+      "views_label": "3.82K",
       "posted_at": "2026-09-07T23:46:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229812",
@@ -361,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.35K",
+      "views_label": "3.38K",
       "posted_at": "2026-09-07T23:39:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229811",
@@ -389,7 +417,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.29K",
+      "views_label": "3.33K",
       "posted_at": "2026-09-07T23:33:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229810",
@@ -417,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.34K",
+      "views_label": "3.37K",
       "posted_at": "2026-09-07T23:15:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229809",
@@ -433,7 +461,7 @@
       "plain_text": "🔺جمهوری اسلامی رسماً قیمت بنزین را افزایش داد و نیروهای سرکوب لباس شخصی را در اطراف جایگاه‌های سوخت مستقر کرد\n\n▪️جمهوری اسلامی بامداد سه‌شنبه ۱۷ شهریور قیمت بنزین موسوم به «سوخت سهمیه جایگاه‌ها» را به‌طور رسمی افزایش داد و نیروهای سرکوب را در اطراف پمپ‌بنزین‌ها مستقر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195211.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.41K",
+      "views_label": "3.42K",
       "posted_at": "2026-09-07T23:06:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229808",
@@ -489,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.56K",
+      "views_label": "3.59K",
       "posted_at": "2026-09-07T22:18:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229806",
@@ -2579,34 +2607,6 @@
       "posted_at": "2026-09-07T11:11:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229714",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229713",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "کمیسر عالی حقوق بشر سازمان ملل، هشدار داد هوش مصنوعی می‌تواند آن‌قدر قدرتمند شود که بشریت را تهدید کند.<br><br>فولکر تورک، روز دوشنبه در شورای حقوق بشر سازمان ملل در ژنو گفت: «نگرانی‌های افراد درون صنعت را در این باره که هوش مصنوعی پیشرفته می‌تواند خطری وجودی برای بشریت باشد، شریکم.»<br><br>تورک افزود ظرف روزهای آینده از شرکت‌ها می‌خواهد خطرها را کاهش دهند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "کمیسر عالی حقوق بشر سازمان ملل، هشدار داد هوش مصنوعی می‌تواند آن‌قدر قدرتمند شود که بشریت را تهدید کند.\n\nفولکر تورک، روز دوشنبه در شورای حقوق بشر سازمان ملل در ژنو گفت: «نگرانی‌های افراد درون صنعت را در این باره که هوش مصنوعی پیشرفته می‌تواند خطری وجودی برای بشریت باشد، شریکم.»\n\nتورک افزود ظرف روزهای آینده از شرکت‌ها می‌خواهد خطرها را کاهش دهند.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229713",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ZI_Q_3A4iBp_N1KR4wJ6qr5XSUZWFOmdAbB3tY1mpjO8aAxGAezu7S8aa4c01AdLPJZzW_xeh4AQQOzDjpGGQb4Ih9WJOuRoBci-qQh6IHuQz9JlGXhs-5h68CLc_Y0c-q7pDTvQotqcxsmjR3lyldSb2f6Nh--P3mOo2QxfBHWga-Ho2gzIbhv7v4HA1XC7muEzQp4GoJUqQcjUfWX7rquzKWXvteBnr3ZlZT3-1zZ4p7KNSaFw47CEsPB5gg7V9yGMMMwwuLeMt8jOP87itWCNQgbHAParV54RZ9JOWi2b2LGvTH2exe7q2GhopEE3D_5m_hIv8c9Es6N-Hmqb-Q.jpg",
-          "thumbnail_path": "channels/farsivoa/media/3f876b6a9abe25a1cf143ea4.jpg",
-          "thumbnail_sha256": "fd3ffc467727f4fd987c6ed97e42a480897519248b0f98f2210311de553746b5",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.32K",
-      "posted_at": "2026-09-07T11:05:54+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229713",
       "reply": null
     }
   ]
