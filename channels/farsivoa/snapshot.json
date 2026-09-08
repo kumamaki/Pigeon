@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T04:47:08.721Z",
+  "fetched_at": "2026-09-08T04:50:00.901Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229818",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "مدیرکل آژانس بین‌المللی انرژی اتمی، گفت راکتور هسته‌ای در حال ساخت سوریه در دوران بشار اسد برای تولید مواد شکافت‌پذیر قابل استفاده در سلاح هسته‌ای پیکربندی شده بود.<br><br>رافائل گروسی، روز دوشنبه در نشست خبری وین گفت: «این راکتوری است که در تولید مواد شکافت‌پذیر قابل استفاده مستقیم برای ساخت سلاح هسته‌ای بسیار کارآمد است.»<br><br>گروسی افزود: «مهم این است که این مواد اکنون تحت پادمان است.» به گفته او، بازرسان در سفر مردادماه ناچار شدند «دیوارها را خراب کنند» و از «گذرگاه‌های بسیار دشوار و تنگ» بگذرند تا به مواد هسته‌ای پنهان‌شده برسند.<br><br>راکتور یادشده را کره شمالی در دیرالزور ساخته بود و اسرائیل در سال ۲۰۰۷ با حمله هوایی نابودش کرد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "مدیرکل آژانس بین‌المللی انرژی اتمی، گفت راکتور هسته‌ای در حال ساخت سوریه در دوران بشار اسد برای تولید مواد شکافت‌پذیر قابل استفاده در سلاح هسته‌ای پیکربندی شده بود.\n\nرافائل گروسی، روز دوشنبه در نشست خبری وین گفت: «این راکتوری است که در تولید مواد شکافت‌پذیر قابل استفاده مستقیم برای ساخت سلاح هسته‌ای بسیار کارآمد است.»\n\nگروسی افزود: «مهم این است که این مواد اکنون تحت پادمان است.» به گفته او، بازرسان در سفر مردادماه ناچار شدند «دیوارها را خراب کنند» و از «گذرگاه‌های بسیار دشوار و تنگ» بگذرند تا به مواد هسته‌ای پنهان‌شده برسند.\n\nراکتور یادشده را کره شمالی در دیرالزور ساخته بود و اسرائیل در سال ۲۰۰۷ با حمله هوایی نابودش کرد.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229818",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/lyWz6gf0tdoJL5aG3N0h0z7BCg3b_H_HVFME0DPktXQsn_pDEmQy2mpz2AZgY8bON_OcYSSzB9CJCf0U2XWbtF5qpug7mROPHIzYm2WfTcJlKWWloOjQmFelTcqV7MvKL1y1jHIX-K7EEZsQShau4O56esUGeHfLBO-LU2DGWjMd2j6j0ZhidlpAaAfUsandYgK129Mps1GweXTenkvmdMMas8E6wjQQiVvi3f2hCkvuOawFPyUevLrvBm2X20Y4NeBPprsnffLt9KZmPJhwcNNeVEfmjpg-7-f8t3j69NHO_vVXk4MlWG4crV0po31wo7K6zoGazBktSzHQ-ZLQEg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/522511bc566c039b51412f65.jpg",
+          "thumbnail_sha256": "b9bb3b41ff9b33b75c025ad23e7c290f887fe2fcf7b67841effe32c0aebf0877",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "133",
+      "posted_at": "2026-09-08T04:47:11+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229818",
+      "reply": null
+    },
     {
       "id": "farsivoa/229817",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "559",
+      "views_label": "626",
       "posted_at": "2026-09-08T04:36:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229817",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.19K",
+      "views_label": "3.25K",
       "posted_at": "2026-09-08T01:29:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229816",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.98K",
+      "views_label": "3.02K",
       "posted_at": "2026-09-08T01:08:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229815",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.03K",
+      "views_label": "3.07K",
       "posted_at": "2026-09-08T00:29:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229814",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.2K",
+      "views_label": "3.24K",
       "posted_at": "2026-09-08T00:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229813",
@@ -161,7 +189,7 @@
       "plain_text": "🔺ترامپ: قیمت نفت کاهش خواهد یافت و جمهوری اسلامی به سلاح هسته‌ای دست پیدا نمی‌کند\n\n▪️دونالد ترامپ، رئیس‌جمهوری آمریکا، دوشنبه شب در شبکه اجتماعی تروت‌سوشال نوشت وقتی در جنگ با جمهوری اسلامی ایران «پیروز شویم، قیمت نفت به سرعت کاهش خواهد یافت.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195221.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.15K",
+      "views_label": "3.18K",
       "posted_at": "2026-09-07T23:46:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229812",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.76K",
+      "views_label": "2.8K",
       "posted_at": "2026-09-07T23:39:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229811",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.68K",
+      "views_label": "2.71K",
       "posted_at": "2026-09-07T23:33:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229810",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.73K",
+      "views_label": "2.76K",
       "posted_at": "2026-09-07T23:15:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229809",
@@ -261,7 +289,7 @@
       "plain_text": "🔺جمهوری اسلامی رسماً قیمت بنزین را افزایش داد و نیروهای سرکوب لباس شخصی را در اطراف جایگاه‌های سوخت مستقر کرد\n\n▪️جمهوری اسلامی بامداد سه‌شنبه ۱۷ شهریور قیمت بنزین موسوم به «سوخت سهمیه جایگاه‌ها» را به‌طور رسمی افزایش داد و نیروهای سرکوب را در اطراف پمپ‌بنزین‌ها مستقر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195211.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "2.78K",
+      "views_label": "2.81K",
       "posted_at": "2026-09-07T23:06:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229808",
@@ -289,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.66K",
+      "views_label": "2.69K",
       "posted_at": "2026-09-07T22:50:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229807",
@@ -345,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.1K",
+      "views_label": "3.13K",
       "posted_at": "2026-09-07T22:10:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229805",
@@ -361,7 +389,7 @@
       "plain_text": "🔺خبرنگار سی‌بی‌اس: کامران حکمتی، شهروند آمریکایی از زندان اوین آزاد شد اما همچنان ممنوع‌الخروج است\n\n▪️مارگارت برنان، خبرنگار شبکه خبری سی‌بی‌اس آمریکا، روز دوشنبه ‍‍۱۶ شهریور اعلام کرد کامران حکمتی، شهروند دوتابعیتی ایرانی-آمریکایی، سه روز پیش از زندان اوین آزاد شده است، اما همچنان اجازه خروج از ایران را ندارد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195205.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.16K",
+      "views_label": "3.19K",
       "posted_at": "2026-09-07T22:03:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229804",
@@ -377,7 +405,7 @@
       "plain_text": "🔺سنتکام مسیر ۹۴ کشتی تجاری را در جریان محاصره دریایی علیه جمهوری اسلامی تغییر داده است\n\n▪️ستاد فرماندهی مرکزی آمریکا، سنتکام، روز دوشنبه اعلام کرد نیروهای آمریکایی تاکنون مسیر ۹۴ کشتی تجاری را در چارچوب اجرای موج دوم محاصره دریایی علیه جمهوری اسلامی تغییر داده‌اند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195203.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.13K",
+      "views_label": "3.16K",
       "posted_at": "2026-09-07T21:49:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229803",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.03K",
+      "views_label": "3.06K",
       "posted_at": "2026-09-07T21:47:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229802",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.16K",
+      "views_label": "3.2K",
       "posted_at": "2026-09-07T21:39:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229801",
@@ -461,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.33K",
+      "views_label": "3.36K",
       "posted_at": "2026-09-07T21:32:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229800",
@@ -489,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.91K",
+      "views_label": "3.92K",
       "posted_at": "2026-09-07T20:56:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229799",
@@ -2579,34 +2607,6 @@
       "posted_at": "2026-09-07T09:59:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229707",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229706",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "جمهوری اسلامی اعلام کرد ظرف روزهای آینده منطقه ممنوعه تازه‌ای در خلیج فارس و نیز نقشه‌های کریدور تازه کشتیرانی در تنگه هرمز را اعلام می‌کند.<br><br>محسن رضایی، دبیر شورای عالی امنیت ملی، روز یکشنبه در گفت‌وگو با تلویزیون دولتی گفت این منطقه از نقطه آغاز محاصره آمریکا شروع می‌شود و به بخش‌هایی از خلیج فارس امتداد می‌یابد. او افزود هر شناوری که وارد منطقه تازه شود، به فهرست تحریمی افزوده می‌شود.<br><br>رضایی گفت نقشه‌های مسیرهای عبور از تنگه هرمز نیز به‌زودی تصویب می‌شود. او گفت: «نقشه‌های کریدور بین‌المللی تازه که در آب‌های ایران و عمان قرار دارد و ایران در آن مدیریت خواهد داشت، توافق شده و باید ظرف روزهای آینده امضا شود.»<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "جمهوری اسلامی اعلام کرد ظرف روزهای آینده منطقه ممنوعه تازه‌ای در خلیج فارس و نیز نقشه‌های کریدور تازه کشتیرانی در تنگه هرمز را اعلام می‌کند.\n\nمحسن رضایی، دبیر شورای عالی امنیت ملی، روز یکشنبه در گفت‌وگو با تلویزیون دولتی گفت این منطقه از نقطه آغاز محاصره آمریکا شروع می‌شود و به بخش‌هایی از خلیج فارس امتداد می‌یابد. او افزود هر شناوری که وارد منطقه تازه شود، به فهرست تحریمی افزوده می‌شود.\n\nرضایی گفت نقشه‌های مسیرهای عبور از تنگه هرمز نیز به‌زودی تصویب می‌شود. او گفت: «نقشه‌های کریدور بین‌المللی تازه که در آب‌های ایران و عمان قرار دارد و ایران در آن مدیریت خواهد داشت، توافق شده و باید ظرف روزهای آینده امضا شود.»\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229706",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/PKKqUfWJ5JSUNRwgiaThNuWzQfTmWnqiC74RSoOnm3m1oCXgWcxQIq7lNKA_FcpwfoV6kCdfpmLGRSN-gwE-3g747uildBVmMHbvLI5Fxf7gOzMwvJCtzeKHiaWhtpgRJPXb7sWAaIsRL74BxB2MD8aLW22qxFex4VniSlNn5tNM3ZhRK8PDNJSRPzagHEEZBaSZ5JWXEbbrXB-1MwIlirQAhRmG2eOUMUIxboT9Hx0bATP1cOF1X-ISCNd2SwBC60EDVz-02gqOPyDnILGZE4M9Ijg3bA6aSOiz_1gDwKqi2kv-4q9xwnKNaxHD4o-nIfoWHX8bt8eWbisvUi-v1w.jpg",
-          "thumbnail_path": "channels/farsivoa/media/a484cf2572ccdfc16c29ebe2.jpg",
-          "thumbnail_sha256": "158afc549f0b3f2b70486b167a3ccab6625bad1abba70be270dd31940ddbe1f6",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.78K",
-      "posted_at": "2026-09-07T09:50:12+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229706",
       "reply": null
     }
   ]
