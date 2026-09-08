@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T23:01:42.229Z",
+  "fetched_at": "2026-09-08T23:06:32.110Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229928",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "همزمان با ادامه نشست شورای حکام آژانس بین‌المللی انرژی اتمی، آمریکا و سه کشور اروپایی درباره متن قطعنامه‌ای رایزنی می‌کنند که بر ازسرگیری بازرسی‌ها و روشن شدن سرنوشت ذخایر اورانیوم با غنای بالا تأکید دارد و می‌تواند پرونده هسته‌ای جمهوری اسلامی را بار دیگر به شورای امنیت بکشاند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "همزمان با ادامه نشست شورای حکام آژانس بین‌المللی انرژی اتمی، آمریکا و سه کشور اروپایی درباره متن قطعنامه‌ای رایزنی می‌کنند که بر ازسرگیری بازرسی‌ها و روشن شدن سرنوشت ذخایر اورانیوم با غنای بالا تأکید دارد و می‌تواند پرونده هسته‌ای جمهوری اسلامی را بار دیگر به شورای امنیت بکشاند.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229928",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/ibdPtklgo1CPhjrVVWfvZ5SQ5BzjytCLz4-iOj_gY1fZ5nFv2q07iMUtgOknADyePvh4zSwtnBCVouZM7l5Tb-lh33Q-SrLSyMeB1VYECPeBQFN595-AT1_1NOBLNwUCPOQm2MBPtL_GoisB5zE1dj-BL99HKw8mOuOdL1lnOHPwV8ZTF_hLHpdnaQmSzed1qGi-BkUZc3k3JuMiPU2Gq9zXc_4684EWRMEPa4NN5J0aphd2Zj-5TJFJtPs4HYJXOmlssj83uKFvepmr3roLRhzCUP4TeAavQJM9rstbWcav0UAUUDV6qIXWXj_KpNagsPrsA3K2-MaHithnj2CanQ",
+          "thumbnail_path": "channels/farsivoa/media/982cab5645e4f99785412895.jpg",
+          "thumbnail_sha256": "3da0e7eda7fc793b1c65431d26451e0f975b440a5bb10e67ea9036ef2eb6c9a1",
+          "duration_label": "3:06",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "66",
+      "posted_at": "2026-09-08T23:05:25+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229928",
+      "reply": null
+    },
     {
       "id": "farsivoa/229927",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "611",
+      "views_label": "708",
       "posted_at": "2026-09-08T22:45:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229927",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "874",
+      "views_label": "1K",
       "posted_at": "2026-09-08T22:40:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229926",
@@ -77,7 +105,7 @@
       "plain_text": "🔺سنتکام: پنج نفتکش حامل نفت خام ایران منهدم شد\n\n▪️سنتکام در بیانیه‌ای گفت که نیروهای آن روز ۸ سپتامبر (۱۷ شهریور) پنج نفتکش حامل نفت خام ایران را منهدم کردند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195713.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.17K",
+      "views_label": "1.24K",
       "posted_at": "2026-09-08T22:32:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229925",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.1K",
+      "views_label": "1.16K",
       "posted_at": "2026-09-08T22:32:19+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229924",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.5K",
+      "views_label": "1.56K",
       "posted_at": "2026-09-08T22:15:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229923",
@@ -149,7 +177,7 @@
       "plain_text": "🔺جشنواره ونیز: از «اسب وحشی ۹» تا «مراقب»\n\n▪️هشتاد و سومین دوره جشنواره جهانی فیلم ونیز به روزهای پایانی خود نزدیک می‌شود و به نظر می‌رسد مدعیان اصلی جوایز خودی نشان داده‌اند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/venice-film-festival-2026-a-bit-of-light-ali-asgari-falling-house--mohsen-gharaei-iran-movie-directors/8195648.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.49K",
+      "views_label": "1.56K",
       "posted_at": "2026-09-08T22:15:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229922",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.8K",
+      "views_label": "1.83K",
       "posted_at": "2026-09-08T22:02:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229921",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.23K",
+      "views_label": "2.27K",
       "posted_at": "2026-09-08T21:45:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229920",
@@ -249,7 +277,7 @@
       "plain_text": "🔺ایالات متحده پس از حملات موشکی بیشتر سپاه به یک ناو جنگی آمریکا، نفتکش‌های جمهوری اسلامی را هدف قرار داد\n\n▪️ایالات متحده روز سه‌شنبه ۱۷ شهریور در واکنش به تلاش‌های بیشتر جمهوری اسلامی برای حمله موشکی به یک ناو جنگی نیروی دریایی آمریکا، چندین نفتکش جمهوری اسلامی ایران را هدف قرار داد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195704.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "2.74K",
+      "views_label": "2.78K",
       "posted_at": "2026-09-08T21:27:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229918",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.87K",
+      "views_label": "2.9K",
       "posted_at": "2026-09-08T21:10:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229917",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.18K",
+      "views_label": "3.21K",
       "posted_at": "2026-09-08T20:59:33+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229916",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.09K",
+      "views_label": "3.12K",
       "posted_at": "2026-09-08T20:50:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229915",
@@ -389,7 +417,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.36K",
+      "views_label": "3.39K",
       "posted_at": "2026-09-08T20:32:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229913",
@@ -417,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.81K",
+      "views_label": "3.84K",
       "posted_at": "2026-09-08T20:16:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229912",
@@ -473,7 +501,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.01K",
+      "views_label": "4.05K",
       "posted_at": "2026-09-08T19:59:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229910",
@@ -2469,34 +2497,6 @@
       "posted_at": "2026-09-08T06:31:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229828",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229827",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "قیمت گندم با نشانه‌های ادامه تعهد روسیه به جنگ اوکراین، بیشترین رشد بیش از یک هفته گذشته را ثبت کرد.<br><br>قراردادهای آتی گندم در شیکاگو روز سه‌شنبه تا ۳ و یک دهم درصد جهش کرد و بیشترین افزایش از ۶ شهریور ثبت شد.<br><br>قیمت‌ها هفته گذشته و پیش از گفت‌وگوهای آخر هفته فرستادگان آمریکا با ولادیمیر پوتین افت کرده بود.<br><br>شرکت سی‌آر‌ام اگری‌کامودیتیز در یادداشتی نوشت: «امیدها به دستاوردی واقعی در مذاکرات صلح روسیه و اوکراین در آخر هفته، جای خود را به همان اختلال همیشگی در محموله‌های غله دریای سیاه داد.»<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "قیمت گندم با نشانه‌های ادامه تعهد روسیه به جنگ اوکراین، بیشترین رشد بیش از یک هفته گذشته را ثبت کرد.\n\nقراردادهای آتی گندم در شیکاگو روز سه‌شنبه تا ۳ و یک دهم درصد جهش کرد و بیشترین افزایش از ۶ شهریور ثبت شد.\n\nقیمت‌ها هفته گذشته و پیش از گفت‌وگوهای آخر هفته فرستادگان آمریکا با ولادیمیر پوتین افت کرده بود.\n\nشرکت سی‌آر‌ام اگری‌کامودیتیز در یادداشتی نوشت: «امیدها به دستاوردی واقعی در مذاکرات صلح روسیه و اوکراین در آخر هفته، جای خود را به همان اختلال همیشگی در محموله‌های غله دریای سیاه داد.»\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229827",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/RLjVLhaH9NZbO5uB6SbdCQ3E7evcVHYZe_OMDrt06BY9TE4fAgO7eEwJiudAVlajHIZRNCilnrBkeDaW2T56TFx_co0bAMqDRuadI4a6PRNMJTAnUPsVT-niF6wvVnpTs_yZhV7o0xoZlx_98VY6CNcnKc6t3UIuSY7DVQZuxU6A-Hi-UxDjOahDqGTkbJl6mm064WJ05YOIRetvsAQmK7JZ2qJ6JV39KKoKjvsblai1tVjxhFTdqDPZ-aHG1ruj8FZw9UBA_ZEsThNIY_rdaC4WKVmSdDkBLI8ScMkoRXismugF2ROpQoPsg5GmkcZ2s1dKlTZ7GeaxRgB5_0h7rQ.jpg",
-          "thumbnail_path": "channels/farsivoa/media/ddcf6afec392fe580e8234e4.jpg",
-          "thumbnail_sha256": "0b393f9febf815216818a08cfa150049bae3f69fdbb9fccccb4a2a3d1aaf25ca",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.34K",
-      "posted_at": "2026-09-08T06:22:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229827",
       "reply": null
     }
   ]
