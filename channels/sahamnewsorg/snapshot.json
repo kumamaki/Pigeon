@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T21:41:51.445Z",
+  "fetched_at": "2026-09-08T21:46:49.126Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -12,6 +12,50 @@
   },
   "posts": [
     {
+      "id": "sahamnewsorg/147201",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/smAW_InWz98OrCURLxT9xranMh7tpFlLWV8zSZVibheTG3rKNcOtlMDWTt5JD8IaKVnpsx9Ot66idtDLHzf9pnQYniC5FGwhRuBWsCRwCX0-Mj9l4ogp_2OpFW0-A9FLwU-A1UcUeCsCK6kk8Lzo21xN1YNrtRrAlaqGaAofukdu1m0nYvC_OEUKkWfqLcQl6GUi6IfPKF71EHtCCM9lOVBTXeyyryPb6CUPK3qxuAD5Fcji9pxUZDZ-_FOXDtLpAl-nEy9GeiVn2HK7Uy8jQlYyYtABHS0F4acebiApw4Jqs5gekS8pQMwI0M3Fiux_NuY2uT2ctGm-dm4tcnSe8g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/05b9e04486c2e24c97c8a56b.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>فرود موشک‌های ایرانی با کلاهک‌های بارشی در منطقه «العقبه» در اردن</b><br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "plain_text": "✅فرود موشک‌های ایرانی با کلاهک‌های بارشی در منطقه «العقبه» در اردن\n\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/sahamnewsorg/147201",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/donYY-4B4rTxyXJiBV4J6FAije1gc4kjkofakIYiOiqVspU7rBc7ajSmPdfF6tMzH53alPmv5vSxZfGy9a7AodxhK5BWXMhcrpCukRT30R75kKaORG4q8vUkkWydxdpOr8_zaZgTaCxzqam91EYR5Yk8IrCDGEAJmWwCHK-3_L6VcGmnwfrAFKR4wTWtyjwxQ_ovw9nm0qwAiijHxqof8zplsIwsW3Ezn5nQHim641AXOKrvvHXye573iUeWR1unl9lVe0h_OY0jLFj4eI6guSXzVN0xbLNShBsXNfkGba9iPqJ3GWnZgp1rL9Unp5GUNza0N6M9Tbokr-Lg9wW7Tw",
+          "thumbnail_path": "channels/sahamnewsorg/media/bf8a2b0793366ebcae8b70d5.jpg",
+          "thumbnail_sha256": "d94ce68c02e29f492d8acbe8b8a0d2d280e5e383d735c1c71610ac628f6d2313",
+          "duration_label": "0:10",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.08K",
+      "posted_at": "2026-09-08T21:45:22+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147201",
+      "reply": null
+    },
+    {
+      "id": "sahamnewsorg/147200",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/smAW_InWz98OrCURLxT9xranMh7tpFlLWV8zSZVibheTG3rKNcOtlMDWTt5JD8IaKVnpsx9Ot66idtDLHzf9pnQYniC5FGwhRuBWsCRwCX0-Mj9l4ogp_2OpFW0-A9FLwU-A1UcUeCsCK6kk8Lzo21xN1YNrtRrAlaqGaAofukdu1m0nYvC_OEUKkWfqLcQl6GUi6IfPKF71EHtCCM9lOVBTXeyyryPb6CUPK3qxuAD5Fcji9pxUZDZ-_FOXDtLpAl-nEy9GeiVn2HK7Uy8jQlYyYtABHS0F4acebiApw4Jqs5gekS8pQMwI0M3Fiux_NuY2uT2ctGm-dm4tcnSe8g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/05b9e04486c2e24c97c8a56b.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "‏<b> ️<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>حمله به پایگاه‌های موفق‌السلطی و شاهزاده حسن در اردن</b><br><br>گفته می‌شود پایگاه‌های هوایی «موفق السلطی» در منطقه الازرق و «شاهزاده حسن» اهداف حملات موشکی تنبیهی ایران است.<br><br>بر اساس گزارش‌ها، ارتش اردن به دلیل ناتوانی سامانه‌های پدافندی آمریکایی، جنگنده‌های نیروی هوایی را برای رهگیری موشک‌های بالستیک ایرانی به پرواز درآورده است.<br>‎ <a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "‏ ️✅حمله به پایگاه‌های موفق‌السلطی و شاهزاده حسن در اردن\n\nگفته می‌شود پایگاه‌های هوایی «موفق السلطی» در منطقه الازرق و «شاهزاده حسن» اهداف حملات موشکی تنبیهی ایران است.\n\nبر اساس گزارش‌ها، ارتش اردن به دلیل ناتوانی سامانه‌های پدافندی آمریکایی، جنگنده‌های نیروی هوایی را برای رهگیری موشک‌های بالستیک ایرانی به پرواز درآورده است.\n‎ @Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "3.12K",
+      "posted_at": "2026-09-08T21:42:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/147200",
+      "reply": null
+    },
+    {
       "id": "sahamnewsorg/147199",
       "author_name": "سهام نیوز",
       "author_photo_url": "https://cdn1.telesco.pe/file/smAW_InWz98OrCURLxT9xranMh7tpFlLWV8zSZVibheTG3rKNcOtlMDWTt5JD8IaKVnpsx9Ot66idtDLHzf9pnQYniC5FGwhRuBWsCRwCX0-Mj9l4ogp_2OpFW0-A9FLwU-A1UcUeCsCK6kk8Lzo21xN1YNrtRrAlaqGaAofukdu1m0nYvC_OEUKkWfqLcQl6GUi6IfPKF71EHtCCM9lOVBTXeyyryPb6CUPK3qxuAD5Fcji9pxUZDZ-_FOXDtLpAl-nEy9GeiVn2HK7Uy8jQlYyYtABHS0F4acebiApw4Jqs5gekS8pQMwI0M3Fiux_NuY2uT2ctGm-dm4tcnSe8g.jpg",
@@ -21,7 +65,7 @@
       "plain_text": "✅العالم: همزمان با شلیک چندین و چند موشک از نقاط مختلف ایران، صدای چند انفجار در اردن شنیده شده است.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "3.15K",
+      "views_label": "6.24K",
       "posted_at": "2026-09-08T21:35:56+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147199",
@@ -37,7 +81,7 @@
       "plain_text": "✅شلیک گسترده موشک بالستیک از شهر های اصفهان، یزد، خمین، تبریز، خرم آباد و شهر کرد\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "5.21K",
+      "views_label": "7.29K",
       "posted_at": "2026-09-08T21:33:28+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147198",
@@ -53,7 +97,7 @@
       "plain_text": "✅خبرنگار صداوسیما: دقایقی قبل نیروهای آمریکایی به یک فروند شناور تجاری در آب‌های ساحلی شهرستان جاسک حمله کرد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "9.57K",
+      "views_label": "10.6K",
       "posted_at": "2026-09-08T21:21:34+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147197",
@@ -69,7 +113,7 @@
       "plain_text": "✅آسوشیتدپرس: آمریکا و کشورهای E3 (بریتانیا، فرانسه و آلمان) رسماً قطعنامه خود علیه ایران را به شورای حکام آژانس بین‌المللی انرژی اتمی ارائه کردند.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "12.3K",
+      "views_label": "13.4K",
       "posted_at": "2026-09-08T21:15:04+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147196",
@@ -97,7 +141,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.1K",
+      "views_label": "20.1K",
       "posted_at": "2026-09-08T20:56:06+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147195",
@@ -113,7 +157,7 @@
       "plain_text": "✅العربیه: آمریکا نفتکش‌های مرتبط با سپاه پاسداران را در پاسخ به حملات به کشتی‌های جنگی آمریکا هدف قرار داده است\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "21.6K",
+      "views_label": "22.6K",
       "posted_at": "2026-09-08T20:43:00+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147194",
@@ -157,7 +201,7 @@
       "plain_text": "✅خبرنگار صداوسیما: ارتش آمریکا به نفتکش دوم در نزدیکی آب‌های جاسک حمله کرد.\n\nخدمه هر دو نفتکش با قایق نجات در حال انتقال به سمت ساحل جاسک هستند.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "26.5K",
+      "views_label": "27.5K",
       "posted_at": "2026-09-08T20:22:13+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147192",
@@ -185,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.7K",
+      "views_label": "28.8K",
       "posted_at": "2026-09-08T20:19:38+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147191",
@@ -233,7 +277,7 @@
       "plain_text": "✅طباطبایی معاون ارتباطات و اطلاع‌رسانی دفتر رئیس‌جمهور :\n\nرسانه ملی به بلندگوی آن یک نفری تبدیل شده است که در شعام مخالف تفاهم‌نامه بود\n\n🔻اول اسمش سعید جلیلیه\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "30K",
+      "views_label": "31K",
       "posted_at": "2026-09-08T20:00:37+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147188",
@@ -261,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.1K",
+      "views_label": "33.1K",
       "posted_at": "2026-09-08T19:49:58+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147187",
@@ -277,7 +321,7 @@
       "plain_text": "✅قالیباف:در صورت حمله به نفتکش های ایران،\nبه شرکت های انرژی آمریکا در منطقه حمله خواهیم کرد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "33.1K",
+      "views_label": "34.1K",
       "posted_at": "2026-09-08T19:43:21+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147186",
@@ -2263,62 +2307,6 @@
       "posted_at": "2026-09-06T19:09:41+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147101",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147100",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/642684be024870091c2036fb.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>وعده ۵۰۰ میلیارد دلاری از تنگه هرمز<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></b><br><br><b>با طناب این نفوذی ها کشور را فرستادند ته چاه! </b><br><b>هم تنگه بی‌اثر شد؛هم تفاهمنامه نقض</b><br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
-      "plain_text": "✅وعده ۵۰۰ میلیارد دلاری از تنگه هرمز😁\n\nبا طناب این نفوذی ها کشور را فرستادند ته چاه!\nهم تنگه بی‌اثر شد؛هم تفاهمنامه نقض\n\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/sahamnewsorg/147100",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/HgJuGb9uAn2FAyfoPyyPeP-yaPfMFrFGRY5DvJ4Lp86abR-AFjILMT-58HOKQ9692njRSAc7pu_9-too3t1oHDnSFIWkkcK8jAVQbmNPMpMFcoK4XV-S9cNhH0zCIc5399fDeXvKcfqXDx46E2WF0DUeCrux3UuYgTG5j-vk8ql3eAyRRk0nZC-az9_vmPDWIx9BKP-Y0TsI0CatrS7VuMLxfWekf9Zqn5Rz5WLaYsrbpP9a6O9OJgZ3jotTvTOeJHsp3D5QcQ8THLHflFAEVUvE0ddxO2A64scIBcPyMeNpauGs6hgOZURuH5ol--0t4MNFaeHhQtx2gFth_6WDzA",
-          "thumbnail_path": "channels/sahamnewsorg/media/b5cbe68caea0bd033ca5cced.jpg",
-          "thumbnail_sha256": "225db5c9dd618c271079101b01cc95e954aa03ac46c22057d339d787c823bdbe",
-          "duration_label": "1:47",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "63.6K",
-      "posted_at": "2026-09-06T19:04:44+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147100",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147099",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/642684be024870091c2036fb.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>تجمع اعتراضی معلمان مقابل سازمان برنامه و بودجه در تهران در اعتراض به شرایط بد اقتصادی<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅تجمع اعتراضی معلمان مقابل سازمان برنامه و بودجه در تهران در اعتراض به شرایط بد اقتصادی\n\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/sahamnewsorg/147099",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/mWpEio4c5M4Px75_fW9gxl56VR1be2_V25bZtVl2ngH9LZpktT4VlXjhezcEhKUmdEx8Ki5oSQqlKs6cKAhm8HHPoZZv15NTnuHIg4sU-QIe6-AEZQbjD8YiYXlB0etPY2S2ik4J3Nm36rRCT_LkniIHOwZymEI7bt0ZPzvsM048iPzp9PLNozhW-09yYPSlngu0zYWCVDlxAOnhPkbXQmeXfTtZIrAh3ZSv9ZCJ1rlj_AeuPmbYGt_0HWFRBoXuhPcLuArzvY09xCO1MOGw1EQyWPa8B8gQBHSH0h9Piih4m6j_aZyus6-aCXhJALNf8xFnt7Pu2-3IjKoTLTRF9g",
-          "thumbnail_path": "channels/sahamnewsorg/media/bf964622ef1f8cd3f6870d81.jpg",
-          "thumbnail_sha256": "034ef4c08d6de5c0335167014241d1d101d83a6bb0fec2490010501efc03413e",
-          "duration_label": "0:14",
-          "aspect_ratio": 1.167883211678832
-        }
-      ],
-      "reactions": [],
-      "views_label": "67.3K",
-      "posted_at": "2026-09-06T16:39:32+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147099",
       "reply": null
     }
   ]

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T21:41:49.458Z",
+  "fetched_at": "2026-09-08T21:46:46.703Z",
   "channel": {
     "username": "mamlekate",
     "title": "مملکته",
@@ -11,6 +11,84 @@
     "subscriber_count": "568K"
   },
   "posts": [
+    {
+      "id": "mamlekate/104401",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Ht6o-VBnBZdDCRG1AzNZYrT-lz3PbOgGykA9ARMsoCTlAmh1-8l3WRRQCkEdwTD9UKvi02HFmVDh_950Twzhkh14k_nu-IgL64qzOAVsgiLC3Q_-13VSug6jnt6cHA-9yIVMVf3iU5XHVMtTVqq7WdygBEtDdMhGM8zt2uaF8mtY95q4tkPy_mPXE353vY5C8QEyvXaK3ZjNAmE4rIfsIDyeMQ3--2IkGXVjP0uo8NsU4ZpUPmRYqbsYZ3lQBDzxZ5McWQWJJl_5lgBOr1TB6xUS_4rNWzqcmC-XkoKrP2cTR5ln0vYi9dD1HAz5uc0XIwxI4zDoL0pcruj5E2hauA.jpg",
+      "author_photo_path": "channels/mamlekate/media/8dbc62143f5586df41ba43b1.jpg",
+      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">شلیک چندین موشک از سمت نجف آباد اصفهان ساعت ۱۲:۵۰ دقیقه بامداد ۱۸ شهریور</div>",
+      "plain_text": "شلیک چندین موشک از سمت نجف آباد اصفهان ساعت ۱۲:۵۰ دقیقه بامداد ۱۸ شهریور",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/mamlekate/104401?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Eor6H3RiQHU1OqgC2Kgw_h9zFVBRgfpCZaxOpGYbF16NoYk95XgcAVfAywR7_6kMcPENnCZHmx1bq-B86eMXQfOX3YIb12y9mWz9bXY2HBGeMDF3iMyRBAUP4kaEKuEwOJBdmWTVVwM7r4_GQJcZKaFTBd8HgeJrxkIJyCzwgCekTuUV6g3ZqOC0AqEY-BQp6GsyBBxrHM6_Y25A8JhsPMM2_3i4oHYJq2mXmAlfUyymRffVuTIhEoZ51aOpP3g9N5qLwze3T9veB0-duEf05HcqWK0EZ-HNsW6rJlEuq1XGsm4me2N-D6eYAwpo_HfvxWriewDTnNZGwCoj05FEIA.jpg",
+          "thumbnail_path": "channels/mamlekate/media/005275e0a98b936e0e3abcca.jpg",
+          "thumbnail_sha256": "310915f7831c4afa3ab1ecc67abf3af1fce31c41eaf6136072be8de3d046f15d",
+          "duration_label": null,
+          "aspect_ratio": 1.0738255033557
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/mamlekate/104402?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/SrDQVdpxGDJ5x5EGOpe_CP-gQKAfv791-Rl4y_qXpRhTTZ3VvbGSJClolR8GAKf58j0xtXH3ydjXcYtPYQ8X735Xcn8_SeFjJFf3UaPmiUk146FKuIybxnCF_LDeAMz9Ix31mDsiZe4ZlRHc27x-M-ZL15Q7luyfDwFCIwKjnaJMkD-IPqUGuq_2HP6csKETfLwr3cp1yVkQqaaRMb9JEPb7GEeAehI2liH6HhNqeVt5kznPUrRJshl2lIxGqMXOEc6NVPm9k8N2iK8hsfuKKdzr3dQjdIQSgFuZEYiZ0ZEwSiiNg7cTYK6YMFCmOrbhdF8P3FTyUcuypP6Qs_e_Vg.jpg",
+          "thumbnail_path": "channels/mamlekate/media/3f04c4dc422f8c1dd0ff0bdd.jpg",
+          "thumbnail_sha256": "22769e1f6ffdebf562a4c02a1d46957788c5481f056d8a06d429abbd16f60f9e",
+          "duration_label": null,
+          "aspect_ratio": 0.84375
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/mamlekate/104403?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/mYHiN-iF5LYHZGLfSoRISj2L3TMSPwRLmnxt62goSNz9c7D-mngBiSTRfBJKM9XT7XwPDwqe4h-dHhS_DuWr3V82hmsxa5QYhT06kCUnlX33ZPmr3yUSyQ_X7vD4FcFLRWXN98YAEUJJtnGJYM7Xg2p_ZbVHFV1nz_nhtzsmJPzm3rzfXvdyAbX7j0a4FBmUQ-0udjFIVc0snErxZMhDDqTHkBGVHqY5b-QM-PCM7ysImPNzzdm0Pe4jvMdsO7iLxltsnURxW-_NlnTvR4LjC2flGu8QCGcDGJ6DKQ_hktIYjVXSISkS9KY0MATrvAiVDJF9Rz0Ek84wbzH2wpgZ7g.jpg",
+          "thumbnail_path": "channels/mamlekate/media/3732b18c92327d7121477aca.jpg",
+          "thumbnail_sha256": "10a9cd5ceb07fe7c2a1aaf0c191e252d04e9c4be16426614e548506a5685c5fa",
+          "duration_label": null,
+          "aspect_ratio": 1.0752688172043
+        }
+      ],
+      "reactions": [],
+      "views_label": "6.36K",
+      "posted_at": "2026-09-08T21:43:23+00:00",
+      "edited": false,
+      "permalink": "https://t.me/mamlekate/104401",
+      "reply": null
+    },
+    {
+      "id": "mamlekate/104400",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Ht6o-VBnBZdDCRG1AzNZYrT-lz3PbOgGykA9ARMsoCTlAmh1-8l3WRRQCkEdwTD9UKvi02HFmVDh_950Twzhkh14k_nu-IgL64qzOAVsgiLC3Q_-13VSug6jnt6cHA-9yIVMVf3iU5XHVMtTVqq7WdygBEtDdMhGM8zt2uaF8mtY95q4tkPy_mPXE353vY5C8QEyvXaK3ZjNAmE4rIfsIDyeMQ3--2IkGXVjP0uo8NsU4ZpUPmRYqbsYZ3lQBDzxZ5McWQWJJl_5lgBOr1TB6xUS_4rNWzqcmC-XkoKrP2cTR5ln0vYi9dD1HAz5uc0XIwxI4zDoL0pcruj5E2hauA.jpg",
+      "author_photo_path": "channels/mamlekate/media/8dbc62143f5586df41ba43b1.jpg",
+      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
+      "body_html": "درود<br>آسمون شاهین شهر<br>تقریبا دوازده و پنجاه و پنج دقیقه صبح<br>سه تا موشک بودن<br>بعد این عکس محو شدن نمی‌دونم فیل شدن یا نه<br>ولی قبلش صدای خیلی بلندی اومد همراه با لرزش یه جوری که اول فکر کردم جنگنده اس",
+      "plain_text": "درود\nآسمون شاهین شهر\nتقریبا دوازده و پنجاه و پنج دقیقه صبح\nسه تا موشک بودن\nبعد این عکس محو شدن نمی‌دونم فیل شدن یا نه\nولی قبلش صدای خیلی بلندی اومد همراه با لرزش یه جوری که اول فکر کردم جنگنده اس",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/mamlekate/104400",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qTCTFikkgDxccYsdcuCyBmRjXKQBVqc9GGp3vTqaWdQtecFmB5GZHWbDeq0-D74zsi_EklpxbH6303tXLCgSZBr8iltr5n2CzCqlE6Ci_nCOtg9XwUVnF-9DSLFyMa55nM2EfePLZ5zNCQjHNsrgGUe1k17nhPaPfKSyNUefI87_HvYh_5vRBK6qVruBqEmX7lioEj-h0VOS2vrhDclfM5qI4cCiq8utLaXuV32UqXDjRiakFK28dUjq55B4sZOUczeA1nlo4CxV9zeTb6_w5u_CpNDHthEoWrdZazgSbuf613i61sYtGuLioBZ8gEH8V2VdWD8EzXDkI0b5K880UQ.jpg",
+          "thumbnail_path": "channels/mamlekate/media/b4e8119df4dc7a9c09dbe301.jpg",
+          "thumbnail_sha256": "09be08a7d9a3147de20b0842bd06aa825f2fe22435394678c912ceec24c9df28",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "8.5K",
+      "posted_at": "2026-09-08T21:41:58+00:00",
+      "edited": false,
+      "permalink": "https://t.me/mamlekate/104400",
+      "reply": null
+    },
     {
       "id": "mamlekate/104399",
       "author_name": "مملکته",
@@ -33,7 +111,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.23K",
+      "views_label": "11.6K",
       "posted_at": "2026-09-08T21:39:43+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104399",
@@ -61,7 +139,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.6K",
+      "views_label": "17K",
       "posted_at": "2026-09-08T21:35:55+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104398",
@@ -89,7 +167,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.7K",
+      "views_label": "16.9K",
       "posted_at": "2026-09-08T21:35:39+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104397",
@@ -117,7 +195,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.8K",
+      "views_label": "18K",
       "posted_at": "2026-09-08T21:35:06+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104396",
@@ -145,7 +223,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.8K",
+      "views_label": "18.1K",
       "posted_at": "2026-09-08T21:33:38+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104395",
@@ -157,8 +235,8 @@
       "author_photo_url": "https://cdn4.telesco.pe/file/Ht6o-VBnBZdDCRG1AzNZYrT-lz3PbOgGykA9ARMsoCTlAmh1-8l3WRRQCkEdwTD9UKvi02HFmVDh_950Twzhkh14k_nu-IgL64qzOAVsgiLC3Q_-13VSug6jnt6cHA-9yIVMVf3iU5XHVMtTVqq7WdygBEtDdMhGM8zt2uaF8mtY95q4tkPy_mPXE353vY5C8QEyvXaK3ZjNAmE4rIfsIDyeMQ3--2IkGXVjP0uo8NsU4ZpUPmRYqbsYZ3lQBDzxZ5McWQWJJl_5lgBOr1TB6xUS_4rNWzqcmC-XkoKrP2cTR5ln0vYi9dD1HAz5uc0XIwxI4zDoL0pcruj5E2hauA.jpg",
       "author_photo_path": "channels/mamlekate/media/8dbc62143f5586df41ba43b1.jpg",
       "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
-      "body_html": "<tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> از سمت خاتم‌الانبیا ویلاشهر موشک زدن<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> سلام از کاشان ساعت ۱۲:۵۰ بامداد چهارشنبه سه موشک شلیک شد<br>مدل نور پشت موشک با قبلیا که تو جنگ میزدن فرق داشت این دفعه<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> کاشان الان موشک شلیک شد ۱۲:۵۵<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> سلام ساعت ۰۰:۴۵ دقیقه مورخ ۱۸ شهریور صدای،خیلی زیادی از آسمان اصفهان میاد که انگار موشک شلیک کردن و معلوم نیست قضیه چیه<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> اصفهان امشب ساعت یه ربع به یک بامداد یه سه چهارتا چیزی که نور زیادی با خودش داشت از تو آسمون رد شد<br>صداهایی هم میاد از آسمون<br><br>چیزای عجیبی بود<br>صداش شبیه موشک بود ولی نه سرعتش و حرکتش مث موشک های همیشگی بود نه نورش<br>هیچ ردی هم از‌ خودش تو آسمون نداشت<br><br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji>  سمت یزد سه تا موشک زدن<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> پرتاب سه موشک همزمان از یزد منطقه پارک کوهستان<br>ساعت ۱۲:۵۲<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> ۱۲:۵۵ دقیقه از خرم آباد لرستان دو تا موشک شلیک کرد<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> از بهارستان الان موشک زدن اصفهان<br><br>توی اصفهان آنقدر صدا زیاد بود فکر کردم هواپیماست<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> الو قهدریجان ۰۰:۵۳ بامداد ۱۸ شهریور موشک ها بلند شد خیلی نزدیک منطقمون بود شیشه ها رو لرزوند<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> شلیک موشک از زنجان/قیدار همین الان صدای بسیار بسیار محیب کل شهر لرزید<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> ساعت ۱۲:۵۰ پنج تا موشک از چهار محال بختیاری منطقه بن<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> از طرف امند تبریز ۳ تا موشک شلیک کردن<br>ساعت ۱۲:۵۵<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> از بروجرد سه تا شلیک شد یکیش سقوط کرد صدای بدی هم داد<br><br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> شلیک ۳ موشک از عجب شیر<br>چهارشنبه ۱۸ شهریور ساعت ۰۰:۵۷<br><br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> شاهین دژ آذربایجان غربی یدونه موشک رویت شد<br><br><a href=\"https://t.me/mamlekate_pm\" target=\"_blank\">@mamlekate_pm</a>",
-      "plain_text": "🚀 از سمت خاتم‌الانبیا ویلاشهر موشک زدن\n\n🚀 سلام از کاشان ساعت ۱۲:۵۰ بامداد چهارشنبه سه موشک شلیک شد\nمدل نور پشت موشک با قبلیا که تو جنگ میزدن فرق داشت این دفعه\n\n🚀 کاشان الان موشک شلیک شد ۱۲:۵۵\n\n🚀 سلام ساعت ۰۰:۴۵ دقیقه مورخ ۱۸ شهریور صدای،خیلی زیادی از آسمان اصفهان میاد که انگار موشک شلیک کردن و معلوم نیست قضیه چیه\n\n🚀 اصفهان امشب ساعت یه ربع به یک بامداد یه سه چهارتا چیزی که نور زیادی با خودش داشت از تو آسمون رد شد\nصداهایی هم میاد از آسمون\n\nچیزای عجیبی بود\nصداش شبیه موشک بود ولی نه سرعتش و حرکتش مث موشک های همیشگی بود نه نورش\nهیچ ردی هم از‌ خودش تو آسمون نداشت\n\n\n🚀 سمت یزد سه تا موشک زدن\n\n🚀 پرتاب سه موشک همزمان از یزد منطقه پارک کوهستان\nساعت ۱۲:۵۲\n\n🚀 ۱۲:۵۵ دقیقه از خرم آباد لرستان دو تا موشک شلیک کرد\n\n🚀 از بهارستان الان موشک زدن اصفهان\n\nتوی اصفهان آنقدر صدا زیاد بود فکر کردم هواپیماست\n\n🚀 الو قهدریجان ۰۰:۵۳ بامداد ۱۸ شهریور موشک ها بلند شد خیلی نزدیک منطقمون بود شیشه ها رو لرزوند\n\n🚀 شلیک موشک از زنجان/قیدار همین الان صدای بسیار بسیار محیب کل شهر لرزید\n\n🚀 ساعت ۱۲:۵۰ پنج تا موشک از چهار محال بختیاری منطقه بن\n\n🚀 از طرف امند تبریز ۳ تا موشک شلیک کردن\nساعت ۱۲:۵۵\n\n🚀 از بروجرد سه تا شلیک شد یکیش سقوط کرد صدای بدی هم داد\n\n\n🚀 شلیک ۳ موشک از عجب شیر\nچهارشنبه ۱۸ شهریور ساعت ۰۰:۵۷\n\n\n🚀 شاهین دژ آذربایجان غربی یدونه موشک رویت شد\n\n@mamlekate_pm",
+      "body_html": "<tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> از سمت خاتم‌الانبیا ویلاشهر موشک زدن<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> خمین ۱۸ شهریور ۴ تا موشک حدود ساعت ۱۲:۵۰ شلیک شد<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> سلام از کاشان ساعت ۱۲:۵۰ بامداد چهارشنبه سه موشک شلیک شد<br>مدل نور پشت موشک با قبلیا که تو جنگ میزدن فرق داشت این دفعه<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> کاشان الان موشک شلیک شد ۱۲:۵۵<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> سلام ساعت ۰۰:۴۵ دقیقه مورخ ۱۸ شهریور صدای،خیلی زیادی از آسمان اصفهان میاد که انگار موشک شلیک کردن و معلوم نیست قضیه چیه<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> اصفهان امشب ساعت یه ربع به یک بامداد یه سه چهارتا چیزی که نور زیادی با خودش داشت از تو آسمون رد شد<br>صداهایی هم میاد از آسمون<br><br>چیزای عجیبی بود<br>صداش شبیه موشک بود ولی نه سرعتش و حرکتش مث موشک های همیشگی بود نه نورش<br>هیچ ردی هم از‌ خودش تو آسمون نداشت<br><br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji>  سمت یزد سه تا موشک زدن<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> پرتاب سه موشک همزمان از یزد منطقه پارک کوهستان<br>ساعت ۱۲:۵۲<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> ۱۲:۵۵ دقیقه از خرم آباد لرستان دو تا موشک شلیک کرد<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> از بهارستان الان موشک زدن اصفهان<br><br>توی اصفهان آنقدر صدا زیاد بود فکر کردم هواپیماست<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> الو قهدریجان ۰۰:۵۳ بامداد ۱۸ شهریور موشک ها بلند شد خیلی نزدیک منطقمون بود شیشه ها رو لرزوند<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> شلیک موشک از زنجان/قیدار همین الان صدای بسیار بسیار محیب کل شهر لرزید<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> ساعت ۱۲:۵۰ پنج تا موشک از چهار محال بختیاری منطقه بن<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> از طرف امند تبریز ۳ تا موشک شلیک کردن<br>ساعت ۱۲:۵۵<br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> از بروجرد سه تا شلیک شد یکیش سقوط کرد صدای بدی هم داد<br><br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> شلیک ۳ موشک از عجب شیر<br>چهارشنبه ۱۸ شهریور ساعت ۰۰:۵۷<br><br><br><tg-emoji emoji-id=\"5924869670724182417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji> شاهین دژ آذربایجان غربی یدونه موشک رویت شد<br><br><a href=\"https://t.me/mamlekate_pm\" target=\"_blank\">@mamlekate_pm</a>",
+      "plain_text": "🚀 از سمت خاتم‌الانبیا ویلاشهر موشک زدن\n\n🚀 خمین ۱۸ شهریور ۴ تا موشک حدود ساعت ۱۲:۵۰ شلیک شد\n\n🚀 سلام از کاشان ساعت ۱۲:۵۰ بامداد چهارشنبه سه موشک شلیک شد\nمدل نور پشت موشک با قبلیا که تو جنگ میزدن فرق داشت این دفعه\n\n🚀 کاشان الان موشک شلیک شد ۱۲:۵۵\n\n🚀 سلام ساعت ۰۰:۴۵ دقیقه مورخ ۱۸ شهریور صدای،خیلی زیادی از آسمان اصفهان میاد که انگار موشک شلیک کردن و معلوم نیست قضیه چیه\n\n🚀 اصفهان امشب ساعت یه ربع به یک بامداد یه سه چهارتا چیزی که نور زیادی با خودش داشت از تو آسمون رد شد\nصداهایی هم میاد از آسمون\n\nچیزای عجیبی بود\nصداش شبیه موشک بود ولی نه سرعتش و حرکتش مث موشک های همیشگی بود نه نورش\nهیچ ردی هم از‌ خودش تو آسمون نداشت\n\n\n🚀 سمت یزد سه تا موشک زدن\n\n🚀 پرتاب سه موشک همزمان از یزد منطقه پارک کوهستان\nساعت ۱۲:۵۲\n\n🚀 ۱۲:۵۵ دقیقه از خرم آباد لرستان دو تا موشک شلیک کرد\n\n🚀 از بهارستان الان موشک زدن اصفهان\n\nتوی اصفهان آنقدر صدا زیاد بود فکر کردم هواپیماست\n\n🚀 الو قهدریجان ۰۰:۵۳ بامداد ۱۸ شهریور موشک ها بلند شد خیلی نزدیک منطقمون بود شیشه ها رو لرزوند\n\n🚀 شلیک موشک از زنجان/قیدار همین الان صدای بسیار بسیار محیب کل شهر لرزید\n\n🚀 ساعت ۱۲:۵۰ پنج تا موشک از چهار محال بختیاری منطقه بن\n\n🚀 از طرف امند تبریز ۳ تا موشک شلیک کردن\nساعت ۱۲:۵۵\n\n🚀 از بروجرد سه تا شلیک شد یکیش سقوط کرد صدای بدی هم داد\n\n\n🚀 شلیک ۳ موشک از عجب شیر\nچهارشنبه ۱۸ شهریور ساعت ۰۰:۵۷\n\n\n🚀 شاهین دژ آذربایجان غربی یدونه موشک رویت شد\n\n@mamlekate_pm",
       "media": [
         {
           "kind": "photo",
@@ -173,7 +251,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.6K",
+      "views_label": "23.8K",
       "posted_at": "2026-09-08T21:28:36+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104394",
@@ -206,7 +284,7 @@
           "count": "1"
         }
       ],
-      "views_label": "45K",
+      "views_label": "46.1K",
       "posted_at": "2026-09-08T20:32:59+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104393",
@@ -222,7 +300,7 @@
       "plain_text": "📝 رسانه‌های ایران از شنیده شدن صدای انفجار در خارک و جاسک خبر دادند\n\nهم‌زمان با شدت گرفتن تنش‌ها در منطقه، رسانه‌های ایران گزارش دادند صدای انفجارهایی در محدوده جزیره خارک و شهرستان جاسک به گوش رسیده است.\n\n\n📝 آمریکا نفتکش‌های ایرانی را «هدف قرار داد»؛ تهدید ایران به حمله به نفتکش‌ها در منطقه\n\nرسانه‌های ایران شامگاه سه‌شنبه ۱۷ شهریور از شنیده‌ شدن صدای چندین انفجار از سمت دریا در نزدیکی جزایر خارگ و جاسک خبر دادند.\n\n\n📝 ایالات متحده پس از حملات موشکی بیشتر سپاه به یک ناو جنگی آمریکا، نفتکش‌های جمهوری اسلامی را هدف قرار داد\n\nایالات متحده روز سه‌شنبه ۱۷ شهریور در واکنش به تلاش‌های بیشتر جمهوری اسلامی برای حمله موشکی به یک ناو جنگی نیروی دریایی آمریکا، چندین نفتکش جمهوری اسلامی ایران را هدف قرار داد.\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "50.2K",
+      "views_label": "52.3K",
       "posted_at": "2026-09-08T20:21:40+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104392",
@@ -255,7 +333,7 @@
           "count": "2"
         }
       ],
-      "views_label": "71.6K",
+      "views_label": "72.6K",
       "posted_at": "2026-09-08T19:04:47+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104391",
@@ -271,7 +349,7 @@
       "plain_text": "📝 تحریم ۳۵ شرکت، ایرلاین، نهاد و فرد در ارتباط با صنعت هوانوردی حکومت ایران\n\nدفتر کنترل دارایی‌های وزارت خزانه‌داری آمریکا (OFAC) ۱۷ شهریور ۱۴۰۵ در چارچوب عملیات «طرد اقتصادی»، ۳۶ فرد و نهاد وابسته به جمهوری اسلامی را به دلیل حمایت از بخش هوانوردی حکومت ایران که جمهوری اسلامی از آن برای جابجایی تسلیحات، نیرو و محموله‌های غیرقانونی استفاده می‌کند، تحریم کرد.\n\n\n📝 هشدار بسنت: تجارت با شرکت‌های هواپیمایی جمهوری اسلامی پیامدهای سنگینی دارد\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "78.9K",
+      "views_label": "79.9K",
       "posted_at": "2026-09-08T18:00:23+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104390",
@@ -287,7 +365,7 @@
       "plain_text": "📝 وال استریت ژورنال: میلیاردها دلار پول ایران از بانک‌های آمریکا عبور می‌کند\n\nدر حالی که دولت دونالد ترامپ می‌کوشد ایران را از نظام مالی جهانی جدا کند، میلیاردها دلار پول مرتبط با تهران هر سال از حساب‌های تسویه در بانک‌های آمریکایی عبور می‌کند.\n\n\n📝 بریتانیا موسسه «القرض‌الحسن» را تحریم کرد؛ تشدید فشار بر جمهوری اسلامی با تحریم بازوی مالی حزب‌الله\n\nبریتانیا روز سه‌شنبه ۱۷ شهریور ۱۴۰۵ تحریم‌هایی را علیه موسسه «القرض‌الحسن»، مؤسسه مالی وابسته به حزب‌الله لبنان، اعلام کرد\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "86.9K",
+      "views_label": "87.9K",
       "posted_at": "2026-09-08T15:18:10+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104389",
@@ -303,7 +381,7 @@
       "plain_text": "📝 جنجال سیاسی بر سر هشدار امارات به نتانیاهو پیش از ۷ اکتبر\n\nهاآرتص می‌گوید حاکم امارات متحده عربی ۱۰ روز پیش از ۷ اکتبر درباره حمله تروریستی حماس به نتانیاهو هشدار داده بود. دفتر او گزارش را تکذیب می‌کند. مخالفان نتانیاهو خواستار پاسخگویی او شده‌اند.\n\n\n📝 ۱۱ کشور اروپایی و کانادا تجارت با شهرک‌های اسرائیلی را ممنوع یا محدود می‌کنند\n\n۱۲ کشور از جمله بریتانیا، کانادا و فرانسه روز سه‌شنبه ۱۷ شهریور اعلام کردند در پی افزایش حملات شهرک‌نشینان اسرائیلی به روستاهای فلسطینی، تحریم‌هایی را علیه تجارت با شهرک‌های اسرائیلی در کرانه باختری اعمال خواهند کرد.\n\nوزرای خارجه دانمارک، فنلاند، ایسلند، ایرلند، نروژ، لهستان، پرتغال، اسپانیا و سوئد نیز در بیانیه‌ای مشترک اعلام کردند که قصد دارند تجارت با این شهرک‌ها را محدود کنند.\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "84.3K",
+      "views_label": "85.3K",
       "posted_at": "2026-09-08T15:09:58+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104388",
@@ -331,7 +409,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "81.5K",
+      "views_label": "82.5K",
       "posted_at": "2026-09-08T15:05:35+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104387",
@@ -347,7 +425,7 @@
       "plain_text": "📝 بریتانیا مقررات تازه‌ای برای تشدید تحریم‌های جمهوری اسلامی منتشر کرد\n\nدولت بریتانیا مقررات تازه‌ای برای تشدید تحریم‌های جمهوری اسلامی منتشر کرد. بر اساس این مقررات، دسترسی تهران به نظام مالی بریتانیا محدودتر می‌شود، ممنوعیت‌های تجاری گسترش می‌یابد و اختیارات لندن برای اعمال محدودیت‌های تحریمی علیه کشتی‌ها افزایش پیدا می‌کند.\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "91.3K",
+      "views_label": "92.4K",
       "posted_at": "2026-09-08T12:02:08+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104386",
@@ -2724,94 +2802,6 @@
       "posted_at": "2026-08-30T07:05:33+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104276",
-      "reply": null
-    },
-    {
-      "id": "mamlekate/104273",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bqjR71QHzDUDqvC4cmRCQSZcyrKWVsfF5QZK6ONWdSV14saQcvNQQmScS5uBsOxABpi-gd_VOpde2szfV_62hFoMxL0gTAkFFabcRpyx20ylvY-lGw_Srb-dTLbkSDz22KCXnShUFg9W-avrXy5t7bsoarYUP7iM5qySubEN31AkU9puY9epUHy1ly8a90W6r7g-PjySompj7WFekJzSQfc6gUklo9s8hXpaOxPZCV7cw0WBLPOUF3HMD9z3s7NgKE4W1TCrER7eEo9x4VH6YqROOAM3Cxr8NNkULMbeCDMdd7dwwEgdPoxAjLJmwxbA1qqMTh7yB3kUrZk_snpCKg.jpg",
-      "author_photo_path": "channels/mamlekate/media/d95b2fbdae0b4f3441a71f9d.jpg",
-      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
-      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">۱. وضع بازار تهران<br>۲. کویر اسکله بندرعباس <br>۳. جمع‌بندی جمهوری اسلامی: به خدا، به صدوبیست‌وچهار هزار پیغمبر، به همه اهل بیت باور کنیم که ما در جنگ پیروز شدیم.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a></div>",
-      "plain_text": "۱. وضع بازار تهران\n۲. کویر اسکله بندرعباس\n۳. جمع‌بندی جمهوری اسلامی: به خدا، به صدوبیست‌وچهار هزار پیغمبر، به همه اهل بیت باور کنیم که ما در جنگ پیروز شدیم.\n\n@mamlekate",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104273?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/CjYVMrApbn0EiPtRQyoIe1pGVtA3_ohCxqogLc1ZpdFs4QM1gYONcf8-Uyt5UDJ3weTgEvcJcyp_ppshjtSc0hm14bqCurLypXOk4js3HZ9HsPraCpD5Q9I4Ixt6YaBiENlbcjP0HLYdji7x4GuUWMDB4Wsoii9yZ0Sn9ezD_obfpwXT8CaOq9eyT6HhJeIhm5bW1vw_LrR54CaIBELR53qrh6AJonFsXqjmTA6zBdsvW_Ff6Jn5D08OGuRQ5BbrVh-zBwC3EIjclYSAmu3_V4zndeusH3BvPk0RSrZLwGgYIyPfcAdL70EBRG5t-OBYsB2vbpN_sml9GZfjjhwd8w",
-          "thumbnail_path": "channels/mamlekate/media/d2f3fdfd2f32fa02a41615be.jpg",
-          "thumbnail_sha256": "d2257c0098f162bce58785badb2a4dade7e3c6237e0d23d4a1af2a5041d7186c",
-          "duration_label": "0:37",
-          "aspect_ratio": null
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104274?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/rbS-p-Lyo1APGenysCEm4IGs254SjXpYxNAUqGw-62m9CSLR_KXJ6NTyaEw9ZZFDzNkKws65T0WdQRbepcphRMHSVikqH07HVwIy3QIGHyHi0C5oU08wRyOY7dQS8poP7AQ52QxC4cdtMG8nV0AMyyINmCYD2DXTGJNWizqBFJSkjKSWjcUdju6t2QY_ks36Q_dSwmesiXqjNoSJhaHztQqFTxC9Eo50LkmiPzraA5bS0yWq-DXpeNvu5AZYym6oQuVc5LNUH11RKFcsbxeXIPMz6wTWa43_gO4OTJk8IN2p5dhQK-YW8CF1QQd4HurwC4NThFGa3DOwBBFwf-dRkA",
-          "thumbnail_path": "channels/mamlekate/media/f0a63cd3ee487244639b948a.jpg",
-          "thumbnail_sha256": "b60ffc3f65fdbccbba08888140b5bf372b6305b2503d9adb658ef22387febdfd",
-          "duration_label": "0:11",
-          "aspect_ratio": null
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104275?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/CspF1UNWBu0UMJbJs7rk0zOX6uY7jBs35BSvyySf4QIeSyx7F0g9WV2xWmhUauqQ9IgJx9AGfY7e0MIDCLfwxnfEJJETxWQrQN419ywRXuDUtRxr2doBHQzpR7K-jd28RzOgHupVdvOd73RcJZEqSsnLVvZFRrzuirYpE7NaRQnpOXj4mEBS7Lm5ttHBj1StWAURWQRHS2f9UpKcG4J7Yc6vQn-5dsJ0HUfdSQ7AlO0O25YJe5AP4yRFdPDbsokwy896AMp-Xy7q_NzETCoSPjaxm9Sij1vC9wzeGGcBbxcTl1NPfsNDYQDQ7BTdy7lk8vkNPeXAtVQn0Lm3-gPDcg",
-          "thumbnail_path": "channels/mamlekate/media/2eb7eba911c0c6afdc7f6df8.jpg",
-          "thumbnail_sha256": "ee35516f0c7a6a651113c363311938ec428bdf6f35e0cc854d806fcddce09821",
-          "duration_label": "0:07",
-          "aspect_ratio": null
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "5"
-        }
-      ],
-      "views_label": "162K",
-      "posted_at": "2026-08-29T20:20:39+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mamlekate/104273",
-      "reply": null
-    },
-    {
-      "id": "mamlekate/104272",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/bqjR71QHzDUDqvC4cmRCQSZcyrKWVsfF5QZK6ONWdSV14saQcvNQQmScS5uBsOxABpi-gd_VOpde2szfV_62hFoMxL0gTAkFFabcRpyx20ylvY-lGw_Srb-dTLbkSDz22KCXnShUFg9W-avrXy5t7bsoarYUP7iM5qySubEN31AkU9puY9epUHy1ly8a90W6r7g-PjySompj7WFekJzSQfc6gUklo9s8hXpaOxPZCV7cw0WBLPOUF3HMD9z3s7NgKE4W1TCrER7eEo9x4VH6YqROOAM3Cxr8NNkULMbeCDMdd7dwwEgdPoxAjLJmwxbA1qqMTh7yB3kUrZk_snpCKg.jpg",
-      "author_photo_path": "channels/mamlekate/media/d95b2fbdae0b4f3441a71f9d.jpg",
-      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
-      "body_html": "همین التماس کردن کمدی و قسم خوردن الهی مجری، گواه کامل شکسته. یه تنگه بود، که اونم برای حل مشکلش، کوه رو تراشیدن و دریا رو لای‌روبی کردن<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
-      "plain_text": "همین التماس کردن کمدی و قسم خوردن الهی مجری، گواه کامل شکسته. یه تنگه بود، که اونم برای حل مشکلش، کوه رو تراشیدن و دریا رو لای‌روبی کردن\n\n@mamlekate",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104272",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/OlXW-U1781KAN5WKcN5UDdDJzXtSHDTD2OHrrNs426eBR04KBgMXmmNPjdk98-34RyLynyKSxDyOVnRYQQQMBnoot0RyZaxrcNldExygqiU7vNJG_aZqzqBJaNRmLp3JgF3AFTWgM-4qQMGHMmzLr2HeWP17TJdmDbdBmb6STVLM-UNrcflQY_blHRjWyLSoWoZD6tTgRBHzeFq4cOZ_LxQn6RazTzDfAxpOxntJOgnLhIu_xwe-SXsylZvt5tmhuDTJw-G8AFb5SlIobLeDmmZtUOWEJ7vkxQ7X7MGVN8xHgByypITQK7SRUFpZZwPU2tKVNjqSwfupoeH5lgOb8w",
-          "thumbnail_path": "channels/mamlekate/media/93ffe8dff0ca90742d6e6aaf.jpg",
-          "thumbnail_sha256": "a3d57fff8d1540b4ad38cd3498cccabcc0d486090218c7859c97f14e5af5a016",
-          "duration_label": "0:07",
-          "aspect_ratio": 1.2944444444444472
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "1"
-        }
-      ],
-      "views_label": "142K",
-      "posted_at": "2026-08-29T20:13:47+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mamlekate/104272",
       "reply": null
     }
   ]
