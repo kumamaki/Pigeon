@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T14:46:40.852Z",
+  "fetched_at": "2026-09-08T14:52:23.799Z",
   "channel": {
     "username": "hranews",
     "title": "خبرگزاری هرانا",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "hranews/115490",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/iZyX_7dy9Du8-YNGCtdMYK3MP5dphPfB1zMaXCNUK8aaaARamz4Ly0CvRtoCcM3-dyXXRK5WX_Sh46_vYKlxQGctH2xTxf7JYZKDegTqeMVeBYAHxut8hrTLcwSVeUa-ZCjEG9Kz6oZ-0SQ9iKaGJN1Cj-2fIoPG4wyomntMR29iluxWEStx7DkF_1cq5ElU5tzftMAZ6xYE047jyvCHZ9Az1sy-Xq3xItrYFJkO7HPnbwf_MpvguP9NlFYRMr0nCnrYtqCi4BgxZQ__GAu9nHAo74NCj6gJ7R8-n_pBnl5RWaqcN-f80J_DUfVycgHq_htQjBCQccv9yYTz4kMK2Q.jpg",
+      "author_photo_path": "channels/hranews/media/294c867d92cda28ca3eef2ff.jpg",
+      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
+      "body_html": "میلاد کریمی‌نسب با پایان ایام مرخصی به زندان دهدشت بازگشت<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji> – روز گذشته، میلاد کریمی نسب، زندانی سیاسی با پایان ایام مرخصی به زندان دهدشت بازگشت.<br><br>به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، میلاد کریمی نسب به زندان بازگشت.<br><br>بر اساس اطلاعات دریافتی هرانا، بازگشت به زندان آقای کریمی روز دوشنبه ۱۶ شهریورماه، با پایان ایام مرخصی وی صورت گرفته است.<br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-d09eae42/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><a href=\"?q=%23%D9%85%DB%8C%D9%84%D8%A7%D8%AF_%DA%A9%D8%B1%DB%8C%D9%85%DB%8C_%D9%86%D8%B3%D8%A8\">#میلاد_کریمی_نسب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "میلاد کریمی‌نسب با پایان ایام مرخصی به زندان دهدشت بازگشت\n\n❗️❗️❗️❗️❗️ – روز گذشته، میلاد کریمی نسب، زندانی سیاسی با پایان ایام مرخصی به زندان دهدشت بازگشت.\n\nبه گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، میلاد کریمی نسب به زندان بازگشت.\n\nبر اساس اطلاعات دریافتی هرانا، بازگشت به زندان آقای کریمی روز دوشنبه ۱۶ شهریورماه، با پایان ایام مرخصی وی صورت گرفته است.\n\nادامه مطلب\n\n#میلاد_کریمی_نسب\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/hranews/115490",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/hbG0GVHkjsylM1DKSOnFnr9r8a3L6XPEK4P4L16Y_1lt6_YrQ_NmBMxz58UXOfWwoiI25ZWnJAdBjAFrEuiB7a_T-40WzrsUQg8rTtu9AqH5Yblafln_CwRQ6rsdnAY6TWOXAZiZZ0ELp3IE9PDYIWtugYYp7YqGwKlUx91foisJm6UXWlWzwQDzLMX67LLjNwja-vL1c5Z7bQswUeRxcRFo7gvgG4YytMiQPggcMq7frSkR8NAHAG1SqiU18DUoigAYlwcQdCfES5DYepWM4-91SEBYxeObo_zlmW_Ay6HGsRA3kPyVMj6LsjoMX2X4OQUddow-pWxHBaLOueqssg.jpg",
+          "thumbnail_path": "channels/hranews/media/f6714615fa472bc40ff83aa0.jpg",
+          "thumbnail_sha256": "2b39b8f64df4853e0105dfdfc0c1ee69322a9e4a49dcaf9973e33cbfca2f6166",
+          "duration_label": null,
+          "aspect_ratio": 1.5009380863039399
+        }
+      ],
+      "reactions": [],
+      "views_label": "46",
+      "posted_at": "2026-09-08T14:48:50+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/115490",
+      "reply": null
+    },
+    {
       "id": "hranews/115489",
       "author_name": "خبرگزاری هرانا",
       "author_photo_url": "https://cdn1.telesco.pe/file/iZyX_7dy9Du8-YNGCtdMYK3MP5dphPfB1zMaXCNUK8aaaARamz4Ly0CvRtoCcM3-dyXXRK5WX_Sh46_vYKlxQGctH2xTxf7JYZKDegTqeMVeBYAHxut8hrTLcwSVeUa-ZCjEG9Kz6oZ-0SQ9iKaGJN1Cj-2fIoPG4wyomntMR29iluxWEStx7DkF_1cq5ElU5tzftMAZ6xYE047jyvCHZ9Az1sy-Xq3xItrYFJkO7HPnbwf_MpvguP9NlFYRMr0nCnrYtqCi4BgxZQ__GAu9nHAo74NCj6gJ7R8-n_pBnl5RWaqcN-f80J_DUfVycgHq_htQjBCQccv9yYTz4kMK2Q.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "همزمان با بازداشت ۷ شهروند در کهگیلویه؛ یک واحد صنفی پلمب شد\n\n❗️❗️❗️❗️❗️ – فرمانده انتظامی کهگیلویه از #بازداشت هفت شهروند در ارتباط با مدیریت صفحات و تولید محتوا در فضای مجازی خبر داد. به گفته وی، این افراد پس از بازداشت به مرجع قضایی معرفی شده‌اند و یک واحد صنفی نیز در ارتباط با این پرونده #پلمب شده است.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "92",
+      "views_label": "127",
       "posted_at": "2026-09-08T14:34:47+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115489",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "178",
+      "views_label": "205",
       "posted_at": "2026-09-08T14:18:15+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115488",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "387",
+      "views_label": "398",
       "posted_at": "2026-09-08T13:03:39+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115487",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "433",
+      "views_label": "441",
       "posted_at": "2026-09-08T12:33:18+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115486",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "435",
+      "views_label": "445",
       "posted_at": "2026-09-08T12:05:05+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115485",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "420",
+      "views_label": "428",
       "posted_at": "2026-09-08T11:55:58+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115484",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "417",
+      "views_label": "427",
       "posted_at": "2026-09-08T11:40:40+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115483",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "536",
+      "views_label": "543",
       "posted_at": "2026-09-08T10:37:47+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115482",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "553",
+      "views_label": "559",
       "posted_at": "2026-09-08T10:15:43+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115481",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "561",
+      "views_label": "565",
       "posted_at": "2026-09-08T10:03:09+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115480",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "615",
+      "views_label": "621",
       "posted_at": "2026-09-08T08:58:47+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115479",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "710",
+      "views_label": "717",
       "posted_at": "2026-09-08T08:19:39+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115478",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "700",
+      "views_label": "705",
       "posted_at": "2026-09-08T08:01:33+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115477",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.06K",
+      "views_label": "1.07K",
       "posted_at": "2026-09-07T19:09:49+00:00",
       "edited": true,
       "permalink": "https://t.me/hranews/115475",
@@ -429,7 +457,7 @@
       "plain_text": "پس از تحمل ۱۱ سال حبس؛ یک زندانی از مجازات اعدام رهایی یافت\n\n❗️❗️❗️❗️❗️– یک زندانی در تهران که پیشتر از بابت اتهام قتل به #اعدام محکوم شده بود، پس از تحمل ۱۱ سال حبس، با کسب رضایت از اولیای دم، از مجازات مرگ رهایی یافت.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "887",
+      "views_label": "889",
       "posted_at": "2026-09-07T19:02:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115474",
@@ -445,7 +473,7 @@
       "plain_text": "یک شهروند در ارومیه بازداشت شد\n\n❗️❗️❗️❗️❗️– فرمانده هنگ مرزی ارومیه از #بازداشت یک شهروند در یکی از ایست و بازرسی‌های این هنگ خبر داد. به گفته وی، فرد بازداشت‌شده با «یکی از گروه‌های مخالف جمهوری اسلامی» ارتباط داشته است.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "872",
+      "views_label": "873",
       "posted_at": "2026-09-07T18:54:45+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115473",
@@ -461,7 +489,7 @@
       "plain_text": "کامران حکمتی، شهروند یهودی دوتابعیتی از زندان اوین آزاد شد\n\n❗️❗️❗️❗️❗️– کامران (یهودا) حکمتی، شهروند ۷۱ ساله یهودی دوتابعیتی ایرانی-آمریکایی و مبتلا به سرطان، از زندان اوین آزاد شد. وی با وجود آزادی همچنان ممنوع‌الخروج است و امکان ترک ایران را ندارد.\n\nادامه مطلب\n\n#کامران_حکمتی (#یهودا_حکمتی)\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "793",
+      "views_label": "795",
       "posted_at": "2026-09-07T18:32:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115472",
@@ -477,7 +505,7 @@
       "plain_text": "مطالبات مزدی و بیمه ای پرستاران دزفول و رانندگان شرکت واحد اتوبوسرانی تهران\n\n❗️❗️❗️❗️❗️– شماری از کارگران و رانندگان شرکت واحد اتوبوسرانی تهران مطالبات بیمه ای پرداخت نشده دارند. همچنین، رئیس سازمان نظام پرستاری شهرستان دزفول اعلام کرد که مطالبات پرستاران این شهرستان همچون شش ماه حق کارانه و سه ماه اضافه کاری، کماکان به آنها پرداخت نشده است.\n\nادامه مطلب\n\n#پرستاران #کارگران\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "775",
+      "views_label": "777",
       "posted_at": "2026-09-07T18:08:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115471",
@@ -2345,34 +2373,6 @@
       "posted_at": "2026-09-03T19:11:50+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115387",
-      "reply": null
-    },
-    {
-      "id": "hranews/115386",
-      "author_name": "خبرگزاری هرانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/E6XMXe3o_CzcL-0JIoxNdzrkPEPfcAWQZvY_HIUxIDF9bsEoAiAvMxcLoISkCCEXEtBPz9O0iPkSUpvqPVslQ1sA49I94tvU6WHqj71yBiKyXlmIv1FBCgPFnBRbh3z643OeUoiI-lZnEemgixRWLkK8Lbhl2HLSR11z3w3Jo1AFWH4VbKUk8iNru5vqlhWJMaFQwuOllBBgaE9sq1X2DE140-JX_dZDZ4BCWEd1anZzPSqpw6anx_L01siyZU5L7VjTOXtWbmXATB5S5_dR8L92cDh25VoAALJJySO7z5cUCfEbpHglJrQ9LZEGSBZMBHjpVA1xYemFyyq-qNIafQ.jpg",
-      "author_photo_path": "channels/hranews/media/f6db971fc4d930da7b734a27.jpg",
-      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
-      "body_html": "معاون رئیس‌جمهور در امور زنان و خانواده با اشاره به مصوبه هیئت وزیران درباره صدور گواهینامه موتورسیکلت برای <a href=\"?q=%23%D8%B2%D9%86%D8%A7%D9%86\">#زنان</a> گفت که پلیس راهور فراجا بر اساس این مصوبه مکلف به اجرای فرایند صدور گواهینامه برای زنان است؛ با این حال، اجرای عملی این مصوبه تاکنون آغاز نشده است.<br><br>مصوبه مذکور در بهمن‌ماه سال گذشته به تصویب هیئت وزیران رسید و بر اساس آن، فرماندهی انتظامی موظف شد آموزش و آزمون متقاضیان زن برای دریافت گواهینامه موتورسیکلت را فراهم کند. با وجود گذشت چند ماه از تصویب این مصوبه و حل‌وفصل مسائل حقوقی و قانونی، فراجا تاکنون صدور <a href=\"?q=%23%DA%AF%D9%88%D8%A7%D9%87%DB%8C%D9%86%D8%A7%D9%85%D9%87_%D9%85%D9%88%D8%AA%D9%88%D8%B1%D8%B3%DB%8C%DA%A9%D9%84%D8%AA\">#گواهینامه_موتورسیکلت</a> برای زنان را اجرایی نکرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
-      "plain_text": "معاون رئیس‌جمهور در امور زنان و خانواده با اشاره به مصوبه هیئت وزیران درباره صدور گواهینامه موتورسیکلت برای #زنان گفت که پلیس راهور فراجا بر اساس این مصوبه مکلف به اجرای فرایند صدور گواهینامه برای زنان است؛ با این حال، اجرای عملی این مصوبه تاکنون آغاز نشده است.\n\nمصوبه مذکور در بهمن‌ماه سال گذشته به تصویب هیئت وزیران رسید و بر اساس آن، فرماندهی انتظامی موظف شد آموزش و آزمون متقاضیان زن برای دریافت گواهینامه موتورسیکلت را فراهم کند. با وجود گذشت چند ماه از تصویب این مصوبه و حل‌وفصل مسائل حقوقی و قانونی، فراجا تاکنون صدور #گواهینامه_موتورسیکلت برای زنان را اجرایی نکرده است.\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/hranews/115386",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/c7R0610YjCJ6pI863IrnfisQHr-3SRWzYJgP_f_jhRLBVIEffH3w-TJE2Qhe2dWodZfbGq_Vn6fC8gPIPYBrYrDx9_cr-jusJyiQIvjwY1VXIVcExiHMXYOeq-_YCHcI4IljKjRA58GG6UnWdoWS-FZ1fm6lP5DBQzoim_Vrmm9_pU_5P9tXkRvxPolYV8IhEl-ImRk-_4ilclDFdZ1aun2X5nbjaV-wBHvGYIyWDHvh-CL9D1p9Bbm6ZSQkIK1uwfGNgMEoZvz4-fH2hrAM3LhAyMYZgrgjR4XJePc-ifCxbBK3EfK6ZNZCV-HKSldSB76TWE92dv2Sanu-pHBR5w.jpg",
-          "thumbnail_path": "channels/hranews/media/eed2a2648d88c82e3a3889ee.jpg",
-          "thumbnail_sha256": "0e15f2a0082d117a9a3e26cce741548cf46216967724b7db93341310fdf74171",
-          "duration_label": null,
-          "aspect_ratio": 1
-        }
-      ],
-      "reactions": [],
-      "views_label": "874",
-      "posted_at": "2026-09-03T18:41:15+00:00",
-      "edited": false,
-      "permalink": "https://t.me/hranews/115386",
       "reply": null
     }
   ]
