@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T05:12:08.566Z",
+  "fetched_at": "2026-09-08T05:17:04.185Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229820",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "نیروهای وفادار به دولت رسمی یمن پاتک گسترده‌ای علیه حوثی‌ها آغاز کردند و اعلام کردند هدفشان بازپس‌گیری صنعاست.<br><br>سمیر الصبری، معاون وزیر دفاع یمن، روز دوشنبه در تلویزیون دولتی گفت: «تصمیم بازپس‌گیری صنعا گرفته شده است.»<br><br>درگیری‌ها در استان‌های البیضا و الجوف دروازه اصلی پایتخت تشدید شد. نیروهای دولتی اردوگاه نظامی اللبنات در شرق الحزم را تصرف کردند. بر پایه گزارش الجزیره، نیروی هوایی یمن مواضع حوثی‌ها را در الجوف، البیضا، مأرب، تعز و الحدیده هدف قرار داد.<br><br>سازمان جهانی بهداشت روز دوشنبه اعلام کرد نزدیک ۹۰۰ نفر در درگیری‌های اخیر کشته یا زخمی شده‌اند.<br><br>حوثی‌ها صنعا را در سال ۲۰۱۴ تصرف کردند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "نیروهای وفادار به دولت رسمی یمن پاتک گسترده‌ای علیه حوثی‌ها آغاز کردند و اعلام کردند هدفشان بازپس‌گیری صنعاست.\n\nسمیر الصبری، معاون وزیر دفاع یمن، روز دوشنبه در تلویزیون دولتی گفت: «تصمیم بازپس‌گیری صنعا گرفته شده است.»\n\nدرگیری‌ها در استان‌های البیضا و الجوف دروازه اصلی پایتخت تشدید شد. نیروهای دولتی اردوگاه نظامی اللبنات در شرق الحزم را تصرف کردند. بر پایه گزارش الجزیره، نیروی هوایی یمن مواضع حوثی‌ها را در الجوف، البیضا، مأرب، تعز و الحدیده هدف قرار داد.\n\nسازمان جهانی بهداشت روز دوشنبه اعلام کرد نزدیک ۹۰۰ نفر در درگیری‌های اخیر کشته یا زخمی شده‌اند.\n\nحوثی‌ها صنعا را در سال ۲۰۱۴ تصرف کردند.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229820",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/eo556N_O1CnSwtcbYNOkHPxYG7ase-W1AzV_HqkOrY5kc8XniyrzvPL11b1OnOWHKO5CH_5PIjV-Z9rltWyVvPZZUPk-O2x8oaWXP4142KEXtbuFXV_tgkJEOP_eceDTtWZO9mpGgWpwyAuuo2PyhNv5jkh2QT4fGrQh4K7SA5Gos_5ULC9QzWYUfVTs1DjzIJtjVUYRgK8FPwapVaMovBSp38Tbm2Gv9estO7G7tpS-RYWxaiHLTxlDFVvhEwZAhxj3GSEcnAvB4Ljowb7uhrOPteVTpU-04tnHrjqOkRtSXp3c3HgXhoVNLIzcN82uPwNcEfYC9YDM1nYbNIcQAQ.jpg",
+          "thumbnail_path": "channels/farsivoa/media/7661f6b15f814e8dbe3da1c9.jpg",
+          "thumbnail_sha256": "235a5392ea7f71090573811cd74472f2d111e1a5bd5e394004dfcee9ebe9f2d5",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "296",
+      "posted_at": "2026-09-08T05:12:35+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229820",
+      "reply": null
+    },
     {
       "id": "farsivoa/229819",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "460",
+      "views_label": "687",
       "posted_at": "2026-09-08T05:01:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229819",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "820",
+      "views_label": "983",
       "posted_at": "2026-09-08T04:47:11+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229818",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.15K",
+      "views_label": "1.31K",
       "posted_at": "2026-09-08T04:36:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229817",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.55K",
+      "views_label": "3.64K",
       "posted_at": "2026-09-08T01:29:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229816",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.25K",
+      "views_label": "3.31K",
       "posted_at": "2026-09-08T01:08:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229815",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.29K",
+      "views_label": "3.36K",
       "posted_at": "2026-09-08T00:29:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229814",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.43K",
+      "views_label": "3.49K",
       "posted_at": "2026-09-08T00:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229813",
@@ -217,7 +245,7 @@
       "plain_text": "🔺ترامپ: قیمت نفت کاهش خواهد یافت و جمهوری اسلامی به سلاح هسته‌ای دست پیدا نمی‌کند\n\n▪️دونالد ترامپ، رئیس‌جمهوری آمریکا، دوشنبه شب در شبکه اجتماعی تروت‌سوشال نوشت وقتی در جنگ با جمهوری اسلامی ایران «پیروز شویم، قیمت نفت به سرعت کاهش خواهد یافت.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195221.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.37K",
+      "views_label": "3.47K",
       "posted_at": "2026-09-07T23:46:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229812",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.99K",
+      "views_label": "3.06K",
       "posted_at": "2026-09-07T23:39:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229811",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.91K",
+      "views_label": "2.97K",
       "posted_at": "2026-09-07T23:33:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229810",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.95K",
+      "views_label": "3.02K",
       "posted_at": "2026-09-07T23:15:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229809",
@@ -317,7 +345,7 @@
       "plain_text": "🔺جمهوری اسلامی رسماً قیمت بنزین را افزایش داد و نیروهای سرکوب لباس شخصی را در اطراف جایگاه‌های سوخت مستقر کرد\n\n▪️جمهوری اسلامی بامداد سه‌شنبه ۱۷ شهریور قیمت بنزین موسوم به «سوخت سهمیه جایگاه‌ها» را به‌طور رسمی افزایش داد و نیروهای سرکوب را در اطراف پمپ‌بنزین‌ها مستقر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195211.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3K",
+      "views_label": "3.07K",
       "posted_at": "2026-09-07T23:06:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229808",
@@ -345,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.85K",
+      "views_label": "2.89K",
       "posted_at": "2026-09-07T22:50:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229807",
@@ -373,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.26K",
+      "views_label": "3.3K",
       "posted_at": "2026-09-07T22:18:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229806",
@@ -401,7 +429,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.32K",
+      "views_label": "3.38K",
       "posted_at": "2026-09-07T22:10:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229805",
@@ -417,7 +445,7 @@
       "plain_text": "🔺خبرنگار سی‌بی‌اس: کامران حکمتی، شهروند آمریکایی از زندان اوین آزاد شد اما همچنان ممنوع‌الخروج است\n\n▪️مارگارت برنان، خبرنگار شبکه خبری سی‌بی‌اس آمریکا، روز دوشنبه ‍‍۱۶ شهریور اعلام کرد کامران حکمتی، شهروند دوتابعیتی ایرانی-آمریکایی، سه روز پیش از زندان اوین آزاد شده است، اما همچنان اجازه خروج از ایران را ندارد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195205.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.35K",
+      "views_label": "3.42K",
       "posted_at": "2026-09-07T22:03:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229804",
@@ -433,7 +461,7 @@
       "plain_text": "🔺سنتکام مسیر ۹۴ کشتی تجاری را در جریان محاصره دریایی علیه جمهوری اسلامی تغییر داده است\n\n▪️ستاد فرماندهی مرکزی آمریکا، سنتکام، روز دوشنبه اعلام کرد نیروهای آمریکایی تاکنون مسیر ۹۴ کشتی تجاری را در چارچوب اجرای موج دوم محاصره دریایی علیه جمهوری اسلامی تغییر داده‌اند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195203.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.29K",
+      "views_label": "3.35K",
       "posted_at": "2026-09-07T21:49:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229803",
@@ -461,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.19K",
+      "views_label": "3.22K",
       "posted_at": "2026-09-07T21:47:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229802",
@@ -489,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.32K",
+      "views_label": "3.38K",
       "posted_at": "2026-09-07T21:39:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229801",
@@ -2591,34 +2619,6 @@
       "posted_at": "2026-09-07T10:23:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229709",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229708",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "ویدیویی از پرزیدنت ترامپ در «نبرد با شرارت»؛<br><br>حساب رسمی کاخ سفید در ایکس، با انتشار این ویدیو به سوگند مشهور «فانوس سبز» اشاره کرده و نوشته است: «در روشن‌ترین روز و تاریک‌ترین شب، هیچ شرارتی از نگاه من در امان نخواهد ماند. آنان که قدرت شر را می‌ستایند، از قدرت من برحذر باشند؛ روشنایی فانوس سبز!»<br><br>سوگند «فانوس سبز» یکی از مشهورترین و نمادین‌ترین شعارهای دنیای کتاب‌های مصور دی‌سی است. این سوگند که نخستین بار در سال ۱۹۴۳ توسط آلفرد بستر خلق شد، تجسم تعهد بی‌قیدوشرط آنان به حفظ نظم، اراده و مبارزه با تاریکی و پلیدی در سراسر کیهان است.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "ویدیویی از پرزیدنت ترامپ در «نبرد با شرارت»؛\n\nحساب رسمی کاخ سفید در ایکس، با انتشار این ویدیو به سوگند مشهور «فانوس سبز» اشاره کرده و نوشته است: «در روشن‌ترین روز و تاریک‌ترین شب، هیچ شرارتی از نگاه من در امان نخواهد ماند. آنان که قدرت شر را می‌ستایند، از قدرت من برحذر باشند؛ روشنایی فانوس سبز!»\n\nسوگند «فانوس سبز» یکی از مشهورترین و نمادین‌ترین شعارهای دنیای کتاب‌های مصور دی‌سی است. این سوگند که نخستین بار در سال ۱۹۴۳ توسط آلفرد بستر خلق شد، تجسم تعهد بی‌قیدوشرط آنان به حفظ نظم، اراده و مبارزه با تاریکی و پلیدی در سراسر کیهان است.\n\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229708",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/eqD_bInYd3hxS_TdkQhwQbnCpL3Euwzgf8R_9xXRFIDqvqbTLNoUfkCPfeSP6qlgTnG9BzqxnQT1lcnLfM58AaIkx6XtFH8BLwaW7H4Cj0a5obuxfbP85R4ucjJzXVYWoXc8Cz3-Ljv37r6QDC86iLPoS2TH0uOZCDWqdsJw6ur2xmMo-mKUSauPawweTIB4eQgxU6RSpHSKkuyfStk1Z8mVdUmFdNgV9fBDa8yXSepplivL2xdzJS-UdcKF53jO5HqKjoIdPv2vlfD7em3Fr3iEj77bQI7V_MwviTw8lvrC2GUK7MehjULbW-yr4fMMbQecU8t-f9QCBOgPa4lFKQ",
-          "thumbnail_path": "channels/farsivoa/media/5c8a59e70c19df6fd74d3b45.jpg",
-          "thumbnail_sha256": "cb27d691bdd1a682b67225f284c834b8f382ff461f49c24dad19b5d433396ee7",
-          "duration_label": "0:27",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.67K",
-      "posted_at": "2026-09-07T10:08:57+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229708",
       "reply": null
     }
   ]

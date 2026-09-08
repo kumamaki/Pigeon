@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T05:12:11.732Z",
+  "fetched_at": "2026-09-08T05:17:08.055Z",
   "channel": {
     "username": "mamlekate",
     "title": "مملکته",
@@ -44,7 +44,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "53.1K",
+      "views_label": "54K",
       "posted_at": "2026-09-07T22:46:12+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104381",
@@ -94,7 +94,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "55.8K",
+      "views_label": "56.7K",
       "posted_at": "2026-09-07T22:37:57+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104378",
@@ -122,7 +122,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "61.6K",
+      "views_label": "62.6K",
       "posted_at": "2026-09-07T22:07:02+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104377",
@@ -149,8 +149,13 @@
           "aspect_ratio": 1.9555555555555415
         }
       ],
-      "reactions": [],
-      "views_label": "72.5K",
+      "reactions": [
+        {
+          "emoji": "⭐",
+          "count": "1"
+        }
+      ],
+      "views_label": "73.1K",
       "posted_at": "2026-09-07T21:30:07+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104376",
@@ -178,7 +183,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "68.7K",
+      "views_label": "69.4K",
       "posted_at": "2026-09-07T21:28:18+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104375",
@@ -194,7 +199,7 @@
       "plain_text": "📞 امروز ۱۶ شهریور از ساعت ۹ شب موتورای دوترکه مسلح تمام میادین شهر ایستاده بودن و داشت به تعدادشون اضافه میشد. تمام سگاشونن آورده بودن بیرون برای جلوگیری از اعتراض مردم به دو برابر کردن قیمت بنزین\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "92.3K",
+      "views_label": "92.6K",
       "posted_at": "2026-09-07T19:15:38+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104374",
@@ -222,7 +227,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "98.1K",
+      "views_label": "98.4K",
       "posted_at": "2026-09-07T18:44:37+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104373",
@@ -381,7 +386,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "101K",
+      "views_label": "102K",
       "posted_at": "2026-09-07T15:43:39+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104363",
