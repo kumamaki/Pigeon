@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T18:26:44.354Z",
+  "fetched_at": "2026-09-08T18:32:03.834Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,50 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229897",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "تکمیل کابینه عراق زیر سایه هشدارهای آمریکا؛ وزارتخانەهای دفاع و کشور همچنان بلاتکلیف",
+      "plain_text": "تکمیل کابینه عراق زیر سایه هشدارهای آمریکا؛ وزارتخانەهای دفاع و کشور همچنان بلاتکلیف",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229897",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/A-TA5B7iYe_1GfE_XpCLLmLE58F7tOvAtgGs1fxqp1O9FAKCY0Ip-NFypjtTHJY2c4PWRg6gohXXeGX1_-dOS50AHeMfP9kypIlSqlO7FOAPnJm_dcVUBAET7Tv1AXpXjfj6ifxxjcw8t62AkjR7DcH3Sf-AHNaSM_pLdhdn7A5rTxaVyPRU7AEamsTcjiZz6uAhUQ6B1OGAK79J8O3qyQ9W-j2KruPxQYAOJkI0Rp4psogTxYhIe0g6UqVpEwizSzw-BaI89XYBOaocTEVFdZL1YxLJ6zjIFBvfFEw5eC0Wv007fGGv6goP7Efh0Y9qN9FE3sUglWVlrCxp9N4xZw",
+          "thumbnail_path": "channels/farsivoa/media/8ebbdcfbcf67c0a62927b44d.jpg",
+          "thumbnail_sha256": "b86101590946e46379fbf88ffde0f508e5e7edc1704c4697f1c9821013f053f7",
+          "duration_label": "3:56",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T18:32:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229897",
+      "reply": null
+    },
+    {
+      "id": "farsivoa/229896",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>آشفتگی بنزینی در ایران؛ از جرقه اعتراضات خیابانی تا خرابی خودروها در نتیجه استفاده از بنزین بی‌کیفیت<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>همزمان با افزایش قیمت دو برابری سوخت در ایران، گزارش‌ها و تصاویر منتشر شده از بروز دست کم یک مورد اعتراض خیابانی در کرمانشاه حکایت دارد و همزمان صف‌های طولانی جایگاه‌های سوخت از مناطق مختلف کشور گزارش شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/iran-gas-sanction-protest-islamic-republic-of-iran-security-forces-currency-import-operation-economic-outcast--asphyxiation-/8195598.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/iran-gas-sanction-protest-islamic-republic-of-iran-security-forces-currency-import-operation-economic-outcast--asphyxiation-/8195598.html/?nocach=1</a>",
+      "plain_text": "🔺آشفتگی بنزینی در ایران؛ از جرقه اعتراضات خیابانی تا خرابی خودروها در نتیجه استفاده از بنزین بی‌کیفیت\n\n▪️همزمان با افزایش قیمت دو برابری سوخت در ایران، گزارش‌ها و تصاویر منتشر شده از بروز دست کم یک مورد اعتراض خیابانی در کرمانشاه حکایت دارد و همزمان صف‌های طولانی جایگاه‌های سوخت از مناطق مختلف کشور گزارش شده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-gas-sanction-protest-islamic-republic-of-iran-security-forces-currency-import-operation-economic-outcast--asphyxiation-/8195598.html/?nocach=1",
+      "media": [],
+      "reactions": [],
+      "views_label": "446",
+      "posted_at": "2026-09-08T18:26:54+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229896",
+      "reply": null
+    },
     {
       "id": "farsivoa/229895",
       "author_name": "Farsi VOA",
@@ -33,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "590",
+      "views_label": "933",
       "posted_at": "2026-09-08T18:18:11+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229895",
@@ -61,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "898",
+      "views_label": "1.18K",
       "posted_at": "2026-09-08T18:11:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229894",
@@ -89,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.09K",
+      "views_label": "1.35K",
       "posted_at": "2026-09-08T18:07:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229893",
@@ -117,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.22K",
+      "views_label": "1.44K",
       "posted_at": "2026-09-08T18:03:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229891",
@@ -145,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.47K",
+      "views_label": "1.69K",
       "posted_at": "2026-09-08T17:54:58+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229890",
@@ -173,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.51K",
+      "views_label": "1.63K",
       "posted_at": "2026-09-08T17:50:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229889",
@@ -201,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.89K",
+      "views_label": "2.05K",
       "posted_at": "2026-09-08T17:37:42+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229888",
@@ -229,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.18K",
+      "views_label": "2.31K",
       "posted_at": "2026-09-08T17:27:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229887",
@@ -257,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.47K",
+      "views_label": "2.56K",
       "posted_at": "2026-09-08T17:16:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229886",
@@ -273,7 +317,7 @@
       "plain_text": "🔴📢‌ پادکست تفسیر خبر- سه شنبه ۱۷ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "2.37K",
+      "views_label": "2.46K",
       "posted_at": "2026-09-08T17:08:28+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229885",
@@ -301,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.51K",
+      "views_label": "2.57K",
       "posted_at": "2026-09-08T16:56:30+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229884",
@@ -329,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.54K",
+      "views_label": "2.63K",
       "posted_at": "2026-09-08T16:52:14+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229883",
@@ -345,7 +389,7 @@
       "plain_text": "🔺مارکو روبیو درباره اقدامات حوثی‌ها: دست جمهوری اسلامی پشت آنها است\n\n▪️مارکو روبیو، وزیر امور خارجه ایالات متحده، روز سه‌شنبه ۱۷ شهریور با اشاره به حملات حوثی‌های یمن به عربستان سعودی گفت این گروه «از بسیاری جهات عوامل و نیروهای نیابتی» جمهوری اسلامی است و افزود که «به‌وضوح دست جمهوری اسلامی» پشت بخشی از این تحولات دیده می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/rubio-links-houthis-to-iran/8195596.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.6K",
+      "views_label": "2.66K",
       "posted_at": "2026-09-08T16:46:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229882",
@@ -373,7 +417,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.32K",
+      "views_label": "2.41K",
       "posted_at": "2026-09-08T16:44:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229881",
@@ -389,7 +433,7 @@
       "plain_text": "🔺واکنش اسرائیل به اقدامات بریتانیا؛ تعطیلی کنسولگری در اورشلیم و اخراج نمایندگان از مرکز هماهنگی غزه\n\n▪️به گزارش رسانه‌های اسرائیل، گیدئون سعار، وزیر امور خارجه اسرائیل، روز سه‌شنبه ۱۷ شهریور با انتشار بیانیه‌ای اعلام کرد که اسرائیل چند اقدام دیپلماتیک را علیه بریتانیا به اجرا خواهد گذاشت.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/gideon-saar-israel-british-relations/8195571.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.64K",
+      "views_label": "2.7K",
       "posted_at": "2026-09-08T16:36:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229880",
@@ -417,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.6K",
+      "views_label": "2.66K",
       "posted_at": "2026-09-08T16:33:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229879",
@@ -445,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.61K",
+      "views_label": "2.7K",
       "posted_at": "2026-09-08T16:24:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229878",
@@ -489,7 +533,7 @@
       "plain_text": "🔺موج حمایت خانواده‌های دادخواه از یکدیگر؛‌ زنده بمانیم تا روز انتقام\n\n▪️در پی انتشار اخباری درباره خودکشی دو تن از بستگان کشته‌شدگانِ اعتراضات سال ۱۴۰۴، شماری از خانواده‌های دادخواه با انتشار ویدیوهایی بر لزوم «زنده ماندن و مبارزه تا فرارسیدن روز انتقام» تاکید کردند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-human-rights-suicide-protests-january-2026-murder-kill/8195558.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.93K",
+      "views_label": "2.99K",
       "posted_at": "2026-09-08T16:11:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229876",
@@ -2489,50 +2533,6 @@
       "posted_at": "2026-09-07T20:31:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229797",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229796",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i>‌ پادکست میدان - دوشنبه ۱۶ شهریور<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')\"><b>🛜</b></i>در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از <br>نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه <br>سبک وب‌سایت ما پیگیر باشید:<br><a href=\"https://ir.voanews.com/lite\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://ir.voanews.com/lite</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i>بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:<br><a href=\"https://ir.voanews.com/satellite\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://ir.voanews.com/satellite</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9494.png')\"><b>🔔</b></i>دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:<br><a href=\"https://linktr.ee/voafarsi\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://linktr.ee/voafarsi</a><br><br><br>با دوستانتان به اشتراک بگذارید<br><a href=\"https://t.me/farsivoa\" target=\"_blank\">@farsivoa</a>",
-      "plain_text": "🔴📢‌ پادکست میدان - دوشنبه ۱۶ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از\nنسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه\nسبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
-      "media": [],
-      "reactions": [],
-      "views_label": "3.89K",
-      "posted_at": "2026-09-07T19:54:30+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229796",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229795",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "رونمایی از طرح تازه فرانسه برای حمایت از گردش جهانی سینمای مستقل<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "رونمایی از طرح تازه فرانسه برای حمایت از گردش جهانی سینمای مستقل\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229795",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/fXJEP_JGRzISkwrGHTXmbiG6nj26SxGpeVvJ2qM4KxDxe3MpaIS7BtSqUtrQFt6N8dEB6-oMH9rz1aQXr4bDJvYuOhWyLguzMiU8PyiMwsu2bcW-77qIyHvLlaD9YMY4g7qt1UnMkvZaLAH2_y1jVEHwBmjIg0UhzFgvnn1mPT2_u1u8R8fwxl4j5buGD3GO5gtSqmLYPIlxEDdJGKePO74wkZutruNkyfoGKGCMYqU_AN8kn0-8c0U2UUsqVuouky3nISKA4mC_stYu-R7ljouXLBwXkkItROB-eYe8Lgk8j2uO74HDX4mB2sK6wde7xxZGbogUtGQsw63QitTG0w",
-          "thumbnail_path": "channels/farsivoa/media/c2259a9178670a035924b187.jpg",
-          "thumbnail_sha256": "9726aa2509aa7adea878ecd7cc32a3fa7b5524ebc89191e8815739b9e94d8ef7",
-          "duration_label": "4:03",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.92K",
-      "posted_at": "2026-09-07T19:31:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229795",
       "reply": null
     }
   ]

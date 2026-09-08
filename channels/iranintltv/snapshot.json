@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T18:26:46.023Z",
+  "fetched_at": "2026-09-08T18:32:05.864Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,90 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356369",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "رسانه‌های ایران از شنیده شدن صدای انفجار در اطراف جزیره خارک در شامگاه سه‌شنبه ۱۷ شهریور خبر دادند.<br><a href=\"https://iranintl.com/202609083937\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609083937</a>",
+      "plain_text": "رسانه‌های ایران از شنیده شدن صدای انفجار در اطراف جزیره خارک در شامگاه سه‌شنبه ۱۷ شهریور خبر دادند.\nhttps://iranintl.com/202609083937",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356369",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/DiLeeWWuQNYFu28DZTSvP8rHDoQH_ybUXBRGl9YvvKZmWYWQBHlVUv-sPHzr9c79XSz3Dp0aoCXsaFydGNoZn0vrEjGynGSE9cJdYU-S79zTe8qIzu_jrH8Z2mB5ptoBNTCbwk2fAc2SFHtMVwSmpYOWiZ47bw5hIrfMSEXd6ZkkIqykfMSaVAj7EY80tNqTLJMHgP3SpDBinexHvdJ7tghEsu_RtjhXwJ_K0gwT7x7q4jMUkgSCFHQpiTtLrYtHy3MuLT7Cfvkno3_DWeJ2fKRwZJMzjB6_-lelEPMcHK9gRxudiDnroUclmKO2KJOjVrLEZKcDVquRxJI2_qB6gg.jpg",
+          "thumbnail_path": "channels/iranintltv/media/1aba48acf3ab5c80041549fc.jpg",
+          "thumbnail_sha256": "7c25a13e23888c416bc437eaef1515c64c24e83bc556c9881d879c7e8fc6fe8a",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.08K",
+      "posted_at": "2026-09-08T18:31:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356369",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356368",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "ویدیوهای رسیده به ایران اینترنشنال از تشکیل صف‌های طولانی بنزین در اتوبان همت تهران، بجنورد و نیشابور حکایت دارد. به‌گفته شهروندان، نگرانی از افزایش قیمت بنزین و کمبود سوخت از دلایل شکل‌گیری این صف‌هاست.",
+      "plain_text": "ویدیوهای رسیده به ایران اینترنشنال از تشکیل صف‌های طولانی بنزین در اتوبان همت تهران، بجنورد و نیشابور حکایت دارد. به‌گفته شهروندان، نگرانی از افزایش قیمت بنزین و کمبود سوخت از دلایل شکل‌گیری این صف‌هاست.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356368",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/jhZzFNSiiFnxKBHJGwx00E5tOPDFQpiY_3udF_X5yDLkO1mD3qk8wZbTVPGlIUlMhbTlDvUYH0Qgd9WYOoMkx7ciCyyeYwA5B_EqbPmltMKA8vxK7TRrJ0tIQG1g6fdVLtNCokcfxjGSha5FA7ao3j86UppjjvVRZMhJ4SSjFLXh8fEgv5sTOLzFCAI4c5Gh1SchC5vNhiKbNJ0VJI-lva1WVU6vItDpfkmM-FeBQqobG9dEkR3-sNLbiVL2o8Yx4YeHIpmf9kh1HvOHc8v8iq7AGYdMFJniD7rfTG6ENJdJbueg3wbZo4t11F-FNsbiltxCFksV61Ow-pRg85mOmA",
+          "thumbnail_path": "channels/iranintltv/media/795a16dce7e3be127b61b7c3.jpg",
+          "thumbnail_sha256": "ff5aeade0832164730ece9169d1067ec78d2ac0fd22efbf6cf988221de048e94",
+          "duration_label": "0:53",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "4.18K",
+      "posted_at": "2026-09-08T18:29:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356368",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356367",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "خبرگزاری رویترز شامگاه سه‌شنبه ۱۷ شهریور به نقل از یک مقام آمریکایی گزارش داد یک زهپاد (زیردریایی هدایت‌پذیر از راه دور) ارتش آمریکا هنگام بررسی آب‌های منطقه در حمایت از عملیات مرتبط با جنگ ایران، دچار نقص فنی شده است.<br><br>این مقام آمریکایی افزود زهپادی که دچار نقص فنی شد، مدلی قدیمی‌تر بوده و هیچ تجهیزات محرمانه سونار یا راداری حمل نمی‌کرده است.<br><br>نیروی دریایی سپاه پاسداران عصر سه‌شنبه اعلام کرده بود «یکی از مدرن‌ترین زیردریایی‌های هوشمند و بدون سرنشین ارتش آمریکا» را در ورودی تنگه هرمز به کنترل درآورده است.",
+      "plain_text": "خبرگزاری رویترز شامگاه سه‌شنبه ۱۷ شهریور به نقل از یک مقام آمریکایی گزارش داد یک زهپاد (زیردریایی هدایت‌پذیر از راه دور) ارتش آمریکا هنگام بررسی آب‌های منطقه در حمایت از عملیات مرتبط با جنگ ایران، دچار نقص فنی شده است.\n\nاین مقام آمریکایی افزود زهپادی که دچار نقص فنی شد، مدلی قدیمی‌تر بوده و هیچ تجهیزات محرمانه سونار یا راداری حمل نمی‌کرده است.\n\nنیروی دریایی سپاه پاسداران عصر سه‌شنبه اعلام کرده بود «یکی از مدرن‌ترین زیردریایی‌های هوشمند و بدون سرنشین ارتش آمریکا» را در ورودی تنگه هرمز به کنترل درآورده است.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356367",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Liq4-PZ4f1t0nIRI1LoeGBc0vHK1aEuPUvXOvUo1FLBgNjQL6-yt9ewGVCOPSkP5DksmPuxQmAigJlnguudcd6j7552IiwSc4H3OXHiH9xjcbnS7Rq2O00Ql6uPIGkgEXN8-Dy_BmCybVd2tT1qpp_OYfb-SmuZXnhA6hdoHxfkKJZ5vOzFRRM5ukZEaDlOZGQmJRn5Y6Hvii48YUAdQYnqjDyLlOTFRhIpk3feu3571O7wbrtmQ_pniazr-Iip1xE7Zun43Y-I2L99iRKNzJKXbhQQbacsCb6RBGgJ5PD2hb-J-k01w4VsIY97IcAtVxVYGsYtX2iTClJolHWxgWQ.jpg",
+          "thumbnail_path": "channels/iranintltv/media/ebaae34f843e1555d2ff3b0f.jpg",
+          "thumbnail_sha256": "18ab7f760eab0733e2e44228e11b301dbcef50abcec59f7f800c6a4a5d98f7ba",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "6.26K",
+      "posted_at": "2026-09-08T18:27:42+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356367",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356366",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7.38K",
+      "views_label": "13.6K",
       "posted_at": "2026-09-08T18:19:14+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356366",
@@ -61,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.6K",
+      "views_label": "16.8K",
       "posted_at": "2026-09-08T18:14:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356365",
@@ -89,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.9K",
+      "views_label": "24.1K",
       "posted_at": "2026-09-08T18:04:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356364",
@@ -117,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.9K",
+      "views_label": "22K",
       "posted_at": "2026-09-08T18:03:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356363",
@@ -145,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.4K",
+      "views_label": "32.5K",
       "posted_at": "2026-09-08T17:44:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356362",
@@ -173,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.6K",
+      "views_label": "35.7K",
       "posted_at": "2026-09-08T17:36:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356361",
@@ -201,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.7K",
+      "views_label": "36.8K",
       "posted_at": "2026-09-08T17:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356360",
@@ -229,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.9K",
+      "views_label": "42K",
       "posted_at": "2026-09-08T17:18:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356359",
@@ -257,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "42.1K",
+      "views_label": "43.1K",
       "posted_at": "2026-09-08T17:10:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356358",
@@ -285,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "43.1K",
+      "views_label": "45.2K",
       "posted_at": "2026-09-08T16:59:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356357",
@@ -313,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "48.4K",
+      "views_label": "49.4K",
       "posted_at": "2026-09-08T16:44:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356356",
@@ -341,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.4K",
+      "views_label": "48.4K",
       "posted_at": "2026-09-08T16:36:18+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356355",
@@ -369,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "44.2K",
+      "views_label": "45.3K",
       "posted_at": "2026-09-08T16:35:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356354",
@@ -397,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45.3K",
+      "views_label": "46.3K",
       "posted_at": "2026-09-08T16:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356353",
@@ -425,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "43.2K",
+      "views_label": "44.3K",
       "posted_at": "2026-09-08T16:28:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356352",
@@ -453,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45.4K",
+      "views_label": "46.4K",
       "posted_at": "2026-09-08T16:21:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356351",
@@ -481,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45.3K",
+      "views_label": "46.4K",
       "posted_at": "2026-09-08T16:14:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356350",
@@ -2677,90 +2761,6 @@
       "posted_at": "2026-09-08T07:45:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356267",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356266",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "علی کاظمی، سخنگوی قوه قضاییه، در نشست خبری سه‌شنبه ۱۷ شهریور خود اعلام کرد پرونده‌های جدیدی برای برخی افراد، با اتهام‌های مرتبط با جنگ در حال تشکیل شدن است.<br><br> سخنگوی قوه قضاییه گفت: «حجم اموال توقیف‌شده در پرونده‌های مرتبط با جنگ بسیار زیاد است و رسیدگی به آن‌ها زمان می‌برد.»<br><br>علی کاظمی در این نشست خبری افزود برای برخی از افراد در این زمینه، «پرونده قضایی تشکیل و کیفرخواست صادر شده است.»<br><br>او همچنین گفت: «در برخی موارد نیز احکامی صادر شده و منجر به نتیجه شده است.» <br><br>سخنگوی قوه قضاییه در ادامه اعلام کرد: «دستگاه قضایی از ابتدا با قاطعیت وارد میدان برخورد با این افراد شده است.»<br><a href=\"https://iranintl.com/202609080747\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609080747</a>",
-      "plain_text": "علی کاظمی، سخنگوی قوه قضاییه، در نشست خبری سه‌شنبه ۱۷ شهریور خود اعلام کرد پرونده‌های جدیدی برای برخی افراد، با اتهام‌های مرتبط با جنگ در حال تشکیل شدن است.\n\nسخنگوی قوه قضاییه گفت: «حجم اموال توقیف‌شده در پرونده‌های مرتبط با جنگ بسیار زیاد است و رسیدگی به آن‌ها زمان می‌برد.»\n\nعلی کاظمی در این نشست خبری افزود برای برخی از افراد در این زمینه، «پرونده قضایی تشکیل و کیفرخواست صادر شده است.»\n\nاو همچنین گفت: «در برخی موارد نیز احکامی صادر شده و منجر به نتیجه شده است.»\n\nسخنگوی قوه قضاییه در ادامه اعلام کرد: «دستگاه قضایی از ابتدا با قاطعیت وارد میدان برخورد با این افراد شده است.»\nhttps://iranintl.com/202609080747",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356266",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/tL5UK7AsdNgtp-xnmNc5CMmjYFmuLBngkom7VHBmatjrm7nnK8Szhdi0wSiEEqX5EoXhnB9PGTGDt3AIKxJyHcVGkTW72g5AhFdPwsmqXlRBup28_mtSB0sqCUBLN5kuFyk_XCavFPc_wxZutCVRWKFkGpstcRbYAfcQXwXcJeR-Ms-U_ZrN3iAnonVDcBjzRp0NA1j_i5IjFLQEolpYbLIx1MS5YNGWkZ5xL96TX8fZZkJnLuYIPJLPi9AZ9mVaBrb8nwRwFyHQFg83snVRI-YcNcC3yPHcgytNND5cY1Lwt2MmrGSpECh1ZZR0sCKKgvs0rPQmyGb64O7HEwKBHQ.jpg",
-          "thumbnail_path": "channels/iranintltv/media/8d8834ae248ebb48a464839b.jpg",
-          "thumbnail_sha256": "ce29ba35c1708c33bffb1cb9bdda0db87999d106b98ae76ba5d8afc408700d61",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "32.4K",
-      "posted_at": "2026-09-08T07:37:58+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356266",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356265",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>باشگاه تراکتور با اعتراض به محرومیت چهارماهه خداداد عزیزی، مدیر این تیم، از پیگیری پرونده درگیری و فحاشی در دیدار مقابل گل‌گهر در کمیته استیناف خبر داد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>این باشگاه با صدور بیانیه‌ای رسمی، رأی صادرشده علیه عزیزی را نامتناسب و بدون درنظرگرفتن عامل اصلی اتفاقات دانست. تراکتور مدعی شد امید عالیشاه، بازیکن گل‌گهر، مرتکب سه تخلف آشکار از جمله «فحاشی ناموسی به مدیر تیم، توهین به نیمکت و هتک حرمت داور» شده، اما تنها با چهار جلسه محرومیت مواجه شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>مسئولان تراکتور با انتقاد از تأثیر فضاسازی‌های رسانه‌ای، خواستار رعایت تناسب میان تخلف و مجازات بر اساس مستندات رسمی شدند و اعلام کردند این پرونده را تا احقاق حق در کمیته استیناف دنبال می‌کنند.<br><br><a href=\"https://t.me/iranintltvsport\" target=\"_blank\"><u>@iranintltvsport</u></a>",
-      "plain_text": "🔻باشگاه تراکتور با اعتراض به محرومیت چهارماهه خداداد عزیزی، مدیر این تیم، از پیگیری پرونده درگیری و فحاشی در دیدار مقابل گل‌گهر در کمیته استیناف خبر داد.\n\n🔹این باشگاه با صدور بیانیه‌ای رسمی، رأی صادرشده علیه عزیزی را نامتناسب و بدون درنظرگرفتن عامل اصلی اتفاقات دانست. تراکتور مدعی شد امید عالیشاه، بازیکن گل‌گهر، مرتکب سه تخلف آشکار از جمله «فحاشی ناموسی به مدیر تیم، توهین به نیمکت و هتک حرمت داور» شده، اما تنها با چهار جلسه محرومیت مواجه شده است.\n\n🔹مسئولان تراکتور با انتقاد از تأثیر فضاسازی‌های رسانه‌ای، خواستار رعایت تناسب میان تخلف و مجازات بر اساس مستندات رسمی شدند و اعلام کردند این پرونده را تا احقاق حق در کمیته استیناف دنبال می‌کنند.\n\n@iranintltvsport",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356265",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/bKeTErQ7NQke-W4rpWgswPNtxY287SZjHCIoT98NDg7p7zI5Mr1WPpzjCaBbcuJv2qeQd0h92FjIo_A0ps5ZQ31UszWgkCERVVm9cG_S24BnraeIR3O1O9ut3yJRFqWvWCOzPhXbkIH5ODK_-yBw9rEwX1S87A4cX-yxvp_8zUZvGvqF-6IQGV-a1TkNQYdxmcamlUBVmt3oomsVubqfMmgeR08IGAzLioT-cVUkCjJQZ5vh8ZSNKlirt3qmSzMOhvQzrFZi8T-IinZ18hAPK8Hk0WFXSqif-12_xUa_nDoVr5VO4IJD3AglYhl-RFo8wBSwmtgq8FHsgGn1VQQTMQ.jpg",
-          "thumbnail_path": "channels/iranintltv/media/9911d9c4563d4d13cf98589a.jpg",
-          "thumbnail_sha256": "1b7336616fe1023bf73d246f78c3204cb81b90735fdde4d0dd47e1cd6aa3d48d",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "30.3K",
-      "posted_at": "2026-09-08T07:35:16+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356265",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356264",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "ویدیوی رسیده به ایران‌اینترنشنال، استقرار نیروهای یگان‌ویژه را در بلوار کاشانی و حوالی صادقیه تهران در شامگاه دوشنبه ۱۶ شهریور نشان می‌دهد.",
-      "plain_text": "ویدیوی رسیده به ایران‌اینترنشنال، استقرار نیروهای یگان‌ویژه را در بلوار کاشانی و حوالی صادقیه تهران در شامگاه دوشنبه ۱۶ شهریور نشان می‌دهد.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356264",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qjMeMr-7IOHjufo-RCdJNb0KQRZnESEW5xRh6cnOG5nW_gBCrYmNijpYm01ZG-h1k83dLZQ566GslPmX7DT2QjmpFd5FvcTowENbgMo52tQFP1VFKDRzSkBh0_Nxh8cNiY_NKm091PrPtRfYpPS7PCHnU01s70Lo6IC5QguipR3qgpqLWS6mwXRwjkSNxVeC83mG6VJBTdkycGKaACM46DDl8kslrumZN41o3V3Eqqz6nKtt6I977vwHCQ5lXNLMc29gP9X7SYS9O-L45Y4AHEBfpdvYsfqPNT6E97LVnw3h-Cn6CfnY_PXlSD2SpBKCA6OGYlod6TTK9df6B2_AQw",
-          "thumbnail_path": "channels/iranintltv/media/4c3c9dd15de1d6a266573f58.jpg",
-          "thumbnail_sha256": "d01b162ef5f9e913e210cdaf93aecc2be59bed8c9458a4c1f1a562e47e6f8466",
-          "duration_label": "0:18",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "27.2K",
-      "posted_at": "2026-09-08T07:34:46+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356264",
       "reply": null
     }
   ]
