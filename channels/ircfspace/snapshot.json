@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T18:36:42.840Z",
+  "fetched_at": "2026-09-08T18:40:54.736Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -58,6 +58,10 @@
           "count": "1"
         },
         {
+          "emoji": "🤬",
+          "count": "1"
+        },
+        {
           "emoji": "😐",
           "count": "1"
         },
@@ -66,7 +70,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.15K",
+      "views_label": "7.28K",
       "posted_at": "2026-09-08T16:40:39+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2593",
@@ -96,7 +100,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "160"
+          "count": "161"
         },
         {
           "emoji": "❤",
@@ -135,7 +139,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.62K",
+      "views_label": "9.71K",
       "posted_at": "2026-09-08T15:23:45+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2592",
@@ -184,7 +188,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.6K",
+      "views_label": "9.66K",
       "posted_at": "2026-09-08T15:13:29+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2591",
@@ -214,7 +218,7 @@
       "reactions": [
         {
           "emoji": "😐",
-          "count": "186"
+          "count": "190"
         },
         {
           "emoji": "😁",
@@ -267,7 +271,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "392"
+          "count": "394"
         },
         {
           "emoji": "🤡",
@@ -412,7 +416,7 @@
           "count": "2"
         }
       ],
-      "views_label": "15.4K",
+      "views_label": "15.5K",
       "posted_at": "2026-09-08T08:11:30+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2587",
@@ -526,7 +530,7 @@
           "count": "2"
         }
       ],
-      "views_label": "18.8K",
+      "views_label": "18.9K",
       "posted_at": "2026-09-07T05:32:27+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2585",
@@ -901,7 +905,7 @@
           "count": "3"
         }
       ],
-      "views_label": "23.7K",
+      "views_label": "23.8K",
       "posted_at": "2026-09-05T06:27:21+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2578",
@@ -1084,7 +1088,7 @@
           "count": "1"
         }
       ],
-      "views_label": "38.6K",
+      "views_label": "38.7K",
       "posted_at": "2026-08-31T15:17:54+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2575",
