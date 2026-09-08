@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T16:51:43.693Z",
+  "fetched_at": "2026-09-08T16:56:37.162Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -17,7 +17,7 @@
       "author_photo_url": "https://cdn1.telesco.pe/file/abLHLQ7tS_nDGF3NFbVmkGjDtyFJW1V8wjsn4TqehlMr_1n9wbuY-pQe4t_LU-awIpU_iXAUwiUTlak7XpKxPB_Pjk4xy89evH9dFDrLu_DDcd7TWkkugJ_O6RWzCClfClo2_Dlu-PmHY84W6wmglGcNHFrStOFr6nCvhfNQzVp86hpyIZ4TjldkacU3pS_EFIiwfU8CMdlKx_po7G7r1lneXuAGVHsFJbDBnrDcairvY3muUGEXE5SqAvpvmlER9xcdPavXgY-6nf7E5emLcOGU5bLiZkPa9HYU14gvgj3IFcMCJ_L4XKKHHzZdOmL4Bvb6_i4J3SoJizSlVwR25w.jpg",
       "author_photo_path": "channels/ircfspace/media/9896fd5a699e8e4a76272c7a.jpg",
       "author_photo_sha256": "158f2dc02d1e6a05c082153b128dee184884a3f1159a3f635b1a111432f7eabc",
-      "body_html": "گوگل یک آسیب‌پذیری روز صفر با شناسه CVE-2026-85046 را در موتور V8 کروم تأیید کرده و هشدار داده که هکرها از آن در حملات واقعی سوءاستفاده می‌کنند. <br>این نقص ممکن است با هدایت کاربر به یک صفحه آلوده فعال شود و مهاجمان را قادر به اجرای کد مخرب، سرقت اطلاعات یا از کار انداختن مرورگر کند.<br>لازم است پس از به‌روزرسانی، مرورگر را حتماً دوباره راه‌اندازی کنید. /فیلتربان<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴡᴇʙꜱɪᴛᴇ</a> • <a href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴠᴘɴʜᴜʙ</a> • <a href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
+      "body_html": "گوگل یک آسیب‌پذیری روز صفر با شناسه CVE-2026-85046 را در موتور V8 کروم تأیید کرده و هشدار داده که هکرها از آن در حملات واقعی سوءاستفاده می‌کنند. <br>این نقص ممکن است با هدایت کاربر به یک صفحه آلوده فعال شود و مهاجمان را قادر به اجرای کد مخرب، سرقت اطلاعات یا از کار انداختن مرورگر کند.<br>لازم است پس از به‌روزرسانی، مرورگر را حتماً دوباره راه‌اندازی کنید. <i>/فیلتربان</i><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴡᴇʙꜱɪᴛᴇ</a> • <a href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴠᴘɴʜᴜʙ</a> • <a href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
       "plain_text": "گوگل یک آسیب‌پذیری روز صفر با شناسه CVE-2026-85046 را در موتور V8 کروم تأیید کرده و هشدار داده که هکرها از آن در حملات واقعی سوءاستفاده می‌کنند.\nاین نقص ممکن است با هدایت کاربر به یک صفحه آلوده فعال شود و مهاجمان را قادر به اجرای کد مخرب، سرقت اطلاعات یا از کار انداختن مرورگر کند.\nلازم است پس از به‌روزرسانی، مرورگر را حتماً دوباره راه‌اندازی کنید. /فیلتربان\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace",
       "media": [
         {
@@ -35,11 +35,15 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "18"
+          "count": "25"
         },
         {
           "emoji": "👍",
           "count": "10"
+        },
+        {
+          "emoji": "⚡",
+          "count": "1"
         },
         {
           "emoji": "❤",
@@ -58,7 +62,7 @@
           "count": "1"
         }
       ],
-      "views_label": "2.29K",
+      "views_label": "2.85K",
       "posted_at": "2026-09-08T16:40:39+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2593",
@@ -88,7 +92,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "130"
+          "count": "136"
         },
         {
           "emoji": "❤",
@@ -127,7 +131,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.89K",
+      "views_label": "7.14K",
       "posted_at": "2026-09-08T15:23:45+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2592",
@@ -157,7 +161,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "119"
+          "count": "124"
         },
         {
           "emoji": "😱",
@@ -172,7 +176,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.24K",
+      "views_label": "7.43K",
       "posted_at": "2026-09-08T15:13:29+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2591",
@@ -210,18 +214,18 @@
         },
         {
           "emoji": "🤡",
-          "count": "13"
+          "count": "14"
         },
         {
           "emoji": "🤬",
-          "count": "11"
+          "count": "12"
         },
         {
           "emoji": "❤",
           "count": "2"
         }
       ],
-      "views_label": "8.53K",
+      "views_label": "8.69K",
       "posted_at": "2026-09-08T14:41:39+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2590",
@@ -251,7 +255,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "339"
+          "count": "342"
         },
         {
           "emoji": "🤡",
@@ -274,7 +278,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.5K",
+      "views_label": "9.66K",
       "posted_at": "2026-09-08T14:24:46+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2589",
@@ -308,11 +312,11 @@
         },
         {
           "emoji": "❤",
-          "count": "219"
+          "count": "222"
         },
         {
           "emoji": "👏",
-          "count": "45"
+          "count": "46"
         },
         {
           "emoji": "👍",
@@ -331,7 +335,7 @@
           "count": "1"
         }
       ],
-      "views_label": "10.7K",
+      "views_label": "10.8K",
       "posted_at": "2026-09-08T13:52:25+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2588",
@@ -396,7 +400,7 @@
           "count": "2"
         }
       ],
-      "views_label": "14.7K",
+      "views_label": "14.8K",
       "posted_at": "2026-09-08T08:11:30+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2587",
@@ -734,7 +738,7 @@
           "count": "1"
         }
       ],
-      "views_label": "19.8K",
+      "views_label": "19.9K",
       "posted_at": "2026-09-06T03:47:35+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2581",
@@ -1015,7 +1019,7 @@
           "count": "1"
         }
       ],
-      "views_label": "30.1K",
+      "views_label": "30.2K",
       "posted_at": "2026-09-03T14:39:14+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2576",
@@ -1068,7 +1072,7 @@
           "count": "1"
         }
       ],
-      "views_label": "38.4K",
+      "views_label": "38.5K",
       "posted_at": "2026-08-31T15:17:54+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2575",
