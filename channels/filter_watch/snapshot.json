@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T09:22:11.929Z",
+  "fetched_at": "2026-09-08T09:27:49.707Z",
   "channel": {
     "username": "filter_watch",
     "title": "فیلتربان",
@@ -30,7 +30,7 @@
           "count": "2"
         }
       ],
-      "views_label": "576",
+      "views_label": "577",
       "posted_at": "2026-09-06T17:18:06+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1901",
@@ -59,7 +59,7 @@
           "count": "1"
         }
       ],
-      "views_label": "580",
+      "views_label": "581",
       "posted_at": "2026-09-04T12:18:41+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1900",
@@ -96,7 +96,7 @@
           "count": "3"
         }
       ],
-      "views_label": "521",
+      "views_label": "522",
       "posted_at": "2026-09-03T15:38:25+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1899",
@@ -125,7 +125,7 @@
           "count": "1"
         }
       ],
-      "views_label": "669",
+      "views_label": "670",
       "posted_at": "2026-09-03T14:29:14+00:00",
       "edited": true,
       "permalink": "https://t.me/filter_watch/1898",
@@ -150,7 +150,7 @@
           "count": "1"
         }
       ],
-      "views_label": "741",
+      "views_label": "742",
       "posted_at": "2026-09-02T11:14:22+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1897",
@@ -368,7 +368,7 @@
           "count": "1"
         }
       ],
-      "views_label": "834",
+      "views_label": "835",
       "posted_at": "2026-08-25T15:19:20+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1890",
@@ -557,8 +557,8 @@
           "asset_url": "https://t.me/filter_watch/1884",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/dAwG9YRD3mcmUeQOVcAIM5uDCYjRDbcq3irlamUQzRv1gpmDI2GnqkDNuJ396PVRRRIfRx4PoREvOE_4yA2lYXgFUf0aS72MqZ1Sf-ljnF9A_CbH_RbSXkbfZWC2of7x1xihnUzwyMecRfIH0-ZQQ6rNme4QOJTsTLcEQclP2AKLzV1Igg6VGnAU7G1RAmZ3Z1ZPszTzoADzGNkToguZ6S8oX12EH8lx4BIiENHIDC5h-xV8okQplzxfS7a3Hgv1shJklrKcmI25vTEEIPbGTi3UOLBqRzATpdePjMRmexo7tJaDMlMO3et8v7pg_DI1ZexUQq_c_RVrFvazaHapjA.jpg",
-          "thumbnail_path": "channels/filter_watch/media/d41c5512a527fba121bd23e5.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/tlkFNr4nuqyqKBegA5ESb4vYuULO3rNb85gyuEiQpOhduQ0um2QR-zZgOp9x8johE00IZbVNoRcPUKBwO7WR0M85Upltn3IG-MbzjDHj8PjcUjm3fwqOde3rhSA3AOhF8TErvPNQVLCabcfNuKVnwU7UCwdPf02IeaxHzYTzp_kHi8IIbVhqVDEfVPRrtK_f2zfgXeGMS_7dBwJyTfJisxNOiez5UlgqKDfsXdshJViMGxb9TPPd4wJaKKgDtkxZDkB7Y_g6tL757lqxi8p5iwxRkSrR7TspBJ-mlBaCawdCmGCuOEi-pvz1I_GX4DigqyN-wiuNSrnBFpImGk1mkw.jpg",
+          "thumbnail_path": "channels/filter_watch/media/2e9c75111a48d7a05071a0da.jpg",
           "thumbnail_sha256": "7f8611ed66352868272a0a5cf545f7ffda314fa3a439be8995fc20f800da9a3e",
           "duration_label": null,
           "aspect_ratio": 0.8
