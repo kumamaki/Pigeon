@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T22:46:40.839Z",
+  "fetched_at": "2026-09-08T22:52:06.118Z",
   "channel": {
     "username": "mamlekate",
     "title": "مملکته",
@@ -11,6 +11,73 @@
     "subscriber_count": "568K"
   },
   "posts": [
+    {
+      "id": "mamlekate/104411",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Ht6o-VBnBZdDCRG1AzNZYrT-lz3PbOgGykA9ARMsoCTlAmh1-8l3WRRQCkEdwTD9UKvi02HFmVDh_950Twzhkh14k_nu-IgL64qzOAVsgiLC3Q_-13VSug6jnt6cHA-9yIVMVf3iU5XHVMtTVqq7WdygBEtDdMhGM8zt2uaF8mtY95q4tkPy_mPXE353vY5C8QEyvXaK3ZjNAmE4rIfsIDyeMQ3--2IkGXVjP0uo8NsU4ZpUPmRYqbsYZ3lQBDzxZ5McWQWJJl_5lgBOr1TB6xUS_4rNWzqcmC-XkoKrP2cTR5ln0vYi9dD1HAz5uc0XIwxI4zDoL0pcruj5E2hauA.jpg",
+      "author_photo_path": "channels/mamlekate/media/8dbc62143f5586df41ba43b1.jpg",
+      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">روبیو: هر بار که ج‌ا تلاش کند ناوهای آمریکا را هدف قرار دهد تعدادی نفتکش از دست خواهد داد. فکر کنم امروز تعدادی را از دست بدهد.<br>+ تصویر نفتکش‌های محدوده جزیره خارک<br><br><a href=\"https://x.com/ShahryarShefigh/status/2097455106379645214\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ShahryarShefigh</a><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a></div>",
+      "plain_text": "روبیو: هر بار که ج‌ا تلاش کند ناوهای آمریکا را هدف قرار دهد تعدادی نفتکش از دست خواهد داد. فکر کنم امروز تعدادی را از دست بدهد.\n+ تصویر نفتکش‌های محدوده جزیره خارک\n\nShahryarShefigh\n@mamlekate",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/mamlekate/104412?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Wj307ioid7uzAh3Q_7PdTSsNCqiBWmq0dY2X49jrMBcgNOungzDji_956Fffty3w1MyBEMlBEuRfSEqGVgO4Hl4APTUosDqDw0QIinNSlittmPXSWFBhIYZdGXpx9aejFgx5pD6yGIf7x1KUvMzeJwByLOH7BOTPzmfgUxAn3NUuIqoPLyWIHT0EGEVgT916BQlG-S4UYH_gLzrOWIhEOZH6FFADZl_cBQN3V7_RK1QCBb8LBT-B8pRumPtxldoz1g5OPMjjM9NB90vCHQa_oEpxqZXq2QACRz-DjTSI6HJ9ZmBkS1fB12_wQuhdcS_zFhReApedNGotmu8kk3mKQw.jpg",
+          "thumbnail_path": "channels/mamlekate/media/9e51aef82efed4ae9da7e822.jpg",
+          "thumbnail_sha256": "acebeddceb9e611758e1119fcb12563e9013f8705373674a8178139ffd34c1fa",
+          "duration_label": null,
+          "aspect_ratio": 0.64625
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104411?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/M3jq7vBFUva-KWVPmtKL-Hcseaf8pZHakI9CeFxIJTP0u-0t_IUcOOR4e39uR-f6-VH1_pAZw-325PkATnzIeG6Vw9-2SMH3yd-hcFW-cg_IFK4Jwxztsh7sR1oYOmL3G3Rgfz1pPV-ThiAjyslEQzi4O9NoSa_yGInbrTsjMQ1WFsDLbbpj8D52SE3O_ngjgWvjQl-_Vr1ZhI8-MyILsWw39HQ8ZD8WZS9j2AA4UyBaPH4QYugulNusN8kqRG1aGzBoitJQLQ2A5fgG0URBAj-iF1gJO4SRABbR_ddnocoNGK8UdLhfE9aFxLTtKSuzdCm-zu8AsAuIQpzMiFRR0w",
+          "thumbnail_path": "channels/mamlekate/media/028ccf3679505ef7367466c0.jpg",
+          "thumbnail_sha256": "22581513c89852d01b5d6806562b9a6ede9863f6acfb0b391eb7e75a6ec91055",
+          "duration_label": "0:20",
+          "aspect_ratio": null
+        }
+      ],
+      "reactions": [],
+      "views_label": "999",
+      "posted_at": "2026-09-08T22:50:44+00:00",
+      "edited": false,
+      "permalink": "https://t.me/mamlekate/104411",
+      "reply": null
+    },
+    {
+      "id": "mamlekate/104410",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Ht6o-VBnBZdDCRG1AzNZYrT-lz3PbOgGykA9ARMsoCTlAmh1-8l3WRRQCkEdwTD9UKvi02HFmVDh_950Twzhkh14k_nu-IgL64qzOAVsgiLC3Q_-13VSug6jnt6cHA-9yIVMVf3iU5XHVMtTVqq7WdygBEtDdMhGM8zt2uaF8mtY95q4tkPy_mPXE353vY5C8QEyvXaK3ZjNAmE4rIfsIDyeMQ3--2IkGXVjP0uo8NsU4ZpUPmRYqbsYZ3lQBDzxZ5McWQWJJl_5lgBOr1TB6xUS_4rNWzqcmC-XkoKrP2cTR5ln0vYi9dD1HAz5uc0XIwxI4zDoL0pcruj5E2hauA.jpg",
+      "author_photo_path": "channels/mamlekate/media/8dbc62143f5586df41ba43b1.jpg",
+      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
+      "body_html": "<b>هوش مصنوعی شاید یکی از مشهورترین معماهای حل‌نشده ریاضیات را حل کرده باشد.</b><br><br><a href=\"https://openai.com/index/navier-stokes-solution/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">شرکت OpenAI اعلام کرده</a> یک سیستم هوش مصنوعی داخلی توانسته برای «مسئله ناویر–استوکس» راه‌حلی ارائه کند؛ مسئله‌ای که نزدیک به ۹۰ سال ذهن ریاضی‌دان‌ها را درگیر کرده و یکی از هفت «مسئله هزاره» است.<br><br>معادلات ناویر–استوکس رفتار مایعات و گازها را توصیف می‌کنند؛ از جریان آب و گردباد گرفته تا حرکت هوا اطراف هواپیما، پیش‌بینی آب‌وهوا و حتی جریان خون.<br><br>سؤال بزرگ این بود: آیا یک جریان کاملاً آرام و منظم می‌تواند طبق همین معادلات، در مدت زمان محدودی به نقطه‌ای برسد که رفتار ریاضی آن «بی‌نهایت» شود و مدل عملاً از کار بیفتد؟<br><br>نتیجه‌ای که OpenAI منتشر کرده می‌گوید: بله.<br><br>طبق توضیح شرکت، راه‌حل شامل نوعی گرداب است که مدام به سمت داخل فشرده و کشیده می‌شود، سرعتش افزایش پیدا می‌کند و در نهایت به یک «تکینگی» می‌رسد؛ در حالی که انرژی کل سیستم همچنان محدود باقی می‌ماند.<br><br>بخش عجیب‌تر ماجرا اینجاست: شرکت OpenAI می‌گوید حدود ۱۰ هزار عامل هوش مصنوعی به‌طور هم‌زمان روی مسئله کار کردند و پس از حدود ۸۸ ساعت به این نتیجه رسیدند. سپس اثبات با زبان رسمی Lean نیز بررسی و صورت‌بندی شد.<br><br>اگر این اثبات پس از بررسی مستقل ریاضی‌دان‌ها تأیید شود، اهمیت ماجرا فقط حل یک مسئله ریاضی نیست؛ ممکن است یکی از واضح‌ترین نشانه‌ها باشد که هوش مصنوعی از «کمک به پژوهشگر» به سمت «تولید مستقل کشف علمی» در حال حرکت است.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
+      "plain_text": "هوش مصنوعی شاید یکی از مشهورترین معماهای حل‌نشده ریاضیات را حل کرده باشد.\n\nشرکت OpenAI اعلام کرده یک سیستم هوش مصنوعی داخلی توانسته برای «مسئله ناویر–استوکس» راه‌حلی ارائه کند؛ مسئله‌ای که نزدیک به ۹۰ سال ذهن ریاضی‌دان‌ها را درگیر کرده و یکی از هفت «مسئله هزاره» است.\n\nمعادلات ناویر–استوکس رفتار مایعات و گازها را توصیف می‌کنند؛ از جریان آب و گردباد گرفته تا حرکت هوا اطراف هواپیما، پیش‌بینی آب‌وهوا و حتی جریان خون.\n\nسؤال بزرگ این بود: آیا یک جریان کاملاً آرام و منظم می‌تواند طبق همین معادلات، در مدت زمان محدودی به نقطه‌ای برسد که رفتار ریاضی آن «بی‌نهایت» شود و مدل عملاً از کار بیفتد؟\n\nنتیجه‌ای که OpenAI منتشر کرده می‌گوید: بله.\n\nطبق توضیح شرکت، راه‌حل شامل نوعی گرداب است که مدام به سمت داخل فشرده و کشیده می‌شود، سرعتش افزایش پیدا می‌کند و در نهایت به یک «تکینگی» می‌رسد؛ در حالی که انرژی کل سیستم همچنان محدود باقی می‌ماند.\n\nبخش عجیب‌تر ماجرا اینجاست: شرکت OpenAI می‌گوید حدود ۱۰ هزار عامل هوش مصنوعی به‌طور هم‌زمان روی مسئله کار کردند و پس از حدود ۸۸ ساعت به این نتیجه رسیدند. سپس اثبات با زبان رسمی Lean نیز بررسی و صورت‌بندی شد.\n\nاگر این اثبات پس از بررسی مستقل ریاضی‌دان‌ها تأیید شود، اهمیت ماجرا فقط حل یک مسئله ریاضی نیست؛ ممکن است یکی از واضح‌ترین نشانه‌ها باشد که هوش مصنوعی از «کمک به پژوهشگر» به سمت «تولید مستقل کشف علمی» در حال حرکت است.\n\n@mamlekate",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/mamlekate/104410",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/t5rMMtgn26qE7lVHcz-yAVZqxX0g_UKDmYGfJuygCwRAcWIzsbzy6iBzK975XgfRNtQj_TFdfH6UsrSadoHVo9dUvnNZ8Mk9ovIABqzOYfMxZ80O6HhEdKPUPIlYNoSjrBc66XK0iUvHoI7gGCkmKBXTw7Q4aEQWJmOibgF5zu8CgVsCeOqw_2Q5UK9oo-wSfxIMG0gq01flcN7kwya-zZlV5k6wSKikvDu4357cH5Ass-a0TjGfnepHPX1Arxlml1vsaDKrVl2O6uR56GFBYjGy0vCo9V3C3POMOqdtQLVnvljMObBePHw6CtQEnjFv7WarW-AmeTJaxvMoi2CtVg.jpg",
+          "thumbnail_path": "channels/mamlekate/media/176bad6376c0af91189cedde.jpg",
+          "thumbnail_sha256": "cd2985a2fb2146037db4a3a321a74691ba32b256efc083b55d8a3ad71941410b",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [],
+      "views_label": "3.65K",
+      "posted_at": "2026-09-08T22:47:48+00:00",
+      "edited": true,
+      "permalink": "https://t.me/mamlekate/104410",
+      "reply": null
+    },
     {
       "id": "mamlekate/104409",
       "author_name": "مملکته",
@@ -33,7 +100,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13K",
+      "views_label": "15.5K",
       "posted_at": "2026-09-08T22:21:29+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104409",
@@ -61,7 +128,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.2K",
+      "views_label": "18.9K",
       "posted_at": "2026-09-08T22:15:09+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104408",
@@ -116,7 +183,7 @@
           "count": "1"
         }
       ],
-      "views_label": "21.5K",
+      "views_label": "23.2K",
       "posted_at": "2026-09-08T22:04:45+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104405",
@@ -144,7 +211,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.4K",
+      "views_label": "22.6K",
       "posted_at": "2026-09-08T22:04:34+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104404",
@@ -194,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.9K",
+      "views_label": "31.2K",
       "posted_at": "2026-09-08T21:43:23+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104401",
@@ -222,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.9K",
+      "views_label": "31.9K",
       "posted_at": "2026-09-08T21:41:58+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104400",
@@ -250,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.9K",
+      "views_label": "31.4K",
       "posted_at": "2026-09-08T21:39:43+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104399",
@@ -278,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.1K",
+      "views_label": "34.6K",
       "posted_at": "2026-09-08T21:35:55+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104398",
@@ -306,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32K",
+      "views_label": "33.3K",
       "posted_at": "2026-09-08T21:35:39+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104397",
@@ -334,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.1K",
+      "views_label": "34.3K",
       "posted_at": "2026-09-08T21:35:06+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104396",
@@ -362,7 +429,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.1K",
+      "views_label": "33.5K",
       "posted_at": "2026-09-08T21:33:38+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104395",
@@ -390,7 +457,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.8K",
+      "views_label": "38K",
       "posted_at": "2026-09-08T21:28:36+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104394",
@@ -423,7 +490,7 @@
           "count": "1"
         }
       ],
-      "views_label": "54.6K",
+      "views_label": "55.3K",
       "posted_at": "2026-09-08T20:32:59+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104393",
@@ -2821,38 +2888,6 @@
       "posted_at": "2026-09-01T20:49:50+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104282",
-      "reply": null
-    },
-    {
-      "id": "mamlekate/104281",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/uXgWxhmOIKtUpSzdzbEnYh2amd1wumK_Ax7hRTNdzzNZO16Li8jr2Q1ull77ov0ELbR9xkVZ8QA3MSvwQ4eLZs6p3gUb--o9upWeUp7pwuodP3zrVehPjEBtgcjw1wWl4FmGmWas6w12tD1f_p_Cfm_PJj7mtkWnZmTQ8qe7qCt0-qEdygYJEyCHDTrTSVzKXIDnyT4GR2m879-bIty3f49RupOlJnnR9PmdsTO-UVZR3jFqR1fYFjfTA3gH5nGBGeDRxW0YoOVA_fWfVmfB9ZjABJ-PowEI3puCa3RYSDtNSy8FRbPdyxZd3h4XYB8HmZN8w2DhZx6fljRWWaFfDQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/d0aa31d015a12c897a84ff74.jpg",
-      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%B4%D8%A8%DB%8C-%DB%B3%DB%B0-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A7%D8%B2-%D9%87%D8%B1%D9%85%D8%B2-%D9%85%DB%8C%DA%AF%D8%B0%D8%B1%D9%86%D8%AF-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%AA%D9%81%D8%A7%D9%87%D9%85%D9%86%D8%A7%D9%85%D9%87-%D8%B4%D8%AF-09-01\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>ترامپ: شبی ۳۰ کشتی از هرمز می‌گذرند؛ پزشکیان خواستار بازگشت آمریکا به تفاهم‌نامه شد</b></a><br><br>ترامپ می‌گوید آمریکا در حال «به‌دست گرفتن زمام امور» در تنگه هرمز است. پزشکیان هم اعلام کرد اگر آمریکا به تعهدات تفاهم‌نامه اسلام‌آباد برگردد تهران بلافاصله اقدام متقابل خواهد کرد.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
-      "plain_text": "📝 ترامپ: شبی ۳۰ کشتی از هرمز می‌گذرند؛ پزشکیان خواستار بازگشت آمریکا به تفاهم‌نامه شد\n\nترامپ می‌گوید آمریکا در حال «به‌دست گرفتن زمام امور» در تنگه هرمز است. پزشکیان هم اعلام کرد اگر آمریکا به تعهدات تفاهم‌نامه اسلام‌آباد برگردد تهران بلافاصله اقدام متقابل خواهد کرد.\n\n@mamlekate",
-      "media": [],
-      "reactions": [],
-      "views_label": "151K",
-      "posted_at": "2026-09-01T12:38:31+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mamlekate/104281",
-      "reply": null
-    },
-    {
-      "id": "mamlekate/104280",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/UMG3JAQyHVk7WDkdpsJCq4P7ljNJzaFiwzP1yE9S3d1RIUjaZ6dye6CIg3DLqZIPpf7GGXEXpgigKL0easr1Mv5m4i1g_CAhDpkkLJUpoW7CGJyff8BUnyueD8uIwII5WWBblRdvb0iClNC0_okVfIrVochglCHC-50SzRJHjLKDq2pZif-wKgIUCwJdl-WDH8MtLalDrSBiiKgXT1yywSMOU3twGcQoZ_bJCKKqavlgF49ZGdqFO_g5567hYF-rOnLAQQIx_mMoJ6K5zqPRArv8TgbgKjkPrIKlwlWq-OTVLzkuJFHI4JnN-tOpsm24BE8l2jvmXJaalbG7oX5-DA.jpg",
-      "author_photo_path": "channels/mamlekate/media/009f157c2fad8335110e283b.jpg",
-      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C%DB%8C-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%AF%D9%88%D9%84%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D8%A8%D8%B1%D8%A7%D9%86-%D9%86%D8%A7%D8%AA%D8%B1%D8%A7%D8%B2%DB%8C-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D9%BE%D9%88%D9%84-%DA%86%D8%A7%D9%BE-%D9%85%DB%8C%DA%A9%D9%86%D8%AF-08-31\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>معاون اجرایی پزشکیان: دولت برای جبران ناترازی بودجه، پول چاپ می‌کند</b></a><br><br>محمدجعفر قائم‌پناه، معاون اجرایی مسعود پزشکیان، ناترازی بودجه و عملکرد بانک‌ها را از عوامل اصلی افزایش تورم در ایران دانست و اذعان کرد دولت برای جبران کسری بودجه، «ناچار به چاپ پول» است.<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
-      "plain_text": "📝 معاون اجرایی پزشکیان: دولت برای جبران ناترازی بودجه، پول چاپ می‌کند\n\nمحمدجعفر قائم‌پناه، معاون اجرایی مسعود پزشکیان، ناترازی بودجه و عملکرد بانک‌ها را از عوامل اصلی افزایش تورم در ایران دانست و اذعان کرد دولت برای جبران کسری بودجه، «ناچار به چاپ پول» است.\n\n@mamlekate",
-      "media": [],
-      "reactions": [],
-      "views_label": "153K",
-      "posted_at": "2026-08-31T20:46:15+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mamlekate/104280",
       "reply": null
     }
   ]

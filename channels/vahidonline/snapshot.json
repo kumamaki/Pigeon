@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T22:46:44.908Z",
+  "fetched_at": "2026-09-08T22:52:10.991Z",
   "channel": {
     "username": "vahidonline",
     "title": "Vahid Online وحید آنلاین",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.41M"
   },
   "posts": [
+    {
+      "id": "VahidOnline/78287",
+      "author_name": "Vahid Online وحید آنلاین",
+      "author_photo_url": "https://cdn1.telesco.pe/file/dlIAK319fV7Z8hJlbu8Yeo8wT8bN6f1usvCg8wg0n_YgO6mOh-y62iySK-wSeCchSDm0pgDEICbzFp_8MKc9i1HUHdFwsnkQW0X5u2_tXoaSu48KY86NyL3nJ2iroT14J0egcgIPlTuPwQiidcpK7Pg6Wjlp_pRX1TNeomF8P2FFj5D5C5c1SzmdhoepuXXrS6t6r2UjVplFBLUMHHsIfepDuyUTVPjekPfoYgOuszy3BnXjlqtDOhFqQ3-Bmk43bjbaymDDY_7DMl6ti__IRfcKlsPV9rjlyfYMcxqKc5zVmv1sQVEhzxzRajgkZAxKNy8gc16Ea3OpoBmtTQouqw.jpg",
+      "author_photo_path": "channels/vahidonline/media/a8025a121696f4450adc0bb6.jpg",
+      "author_photo_sha256": "bee60885437a832f3ac114c2547b44918ce852f80d43a07bead701fc17ad1bc8",
+      "body_html": "ترجمه ماشین<br><b>خبرنگار:</b> <br> آقای وزیر، بخش زیادی از توجه افکار عمومی آمریکا معطوف به آخرین تحولات در ایران است. می‌توانید درباره حملات آمریکا به نفتکش‌های ایرانی صحبت کنید و توضیح دهید که این رفت‌وبرگشت اقدامات در ۲۴ ساعت گذشته چگونه بوده است؟<br><br><b>مارکو روبیو:</b> <br>بله، این رفت‌وبرگشت کاملاً روشن است: ایران همچنان تلاش می‌کند کشتی‌های نیروی دریایی آمریکا را هدف قرار دهد و هر بار که این کار را انجام دهند یا تلاش کنند انجامش دهند، نفتکش از دست خواهند داد. فکر می‌کنم امروز هم دوباره شاهد این موضوع خواهید بود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
+      "plain_text": "ترجمه ماشین\nخبرنگار:\nآقای وزیر، بخش زیادی از توجه افکار عمومی آمریکا معطوف به آخرین تحولات در ایران است. می‌توانید درباره حملات آمریکا به نفتکش‌های ایرانی صحبت کنید و توضیح دهید که این رفت‌وبرگشت اقدامات در ۲۴ ساعت گذشته چگونه بوده است؟\n\nمارکو روبیو:\nبله، این رفت‌وبرگشت کاملاً روشن است: ایران همچنان تلاش می‌کند کشتی‌های نیروی دریایی آمریکا را هدف قرار دهد و هر بار که این کار را انجام دهند یا تلاش کنند انجامش دهند، نفتکش از دست خواهند داد. فکر می‌کنم امروز هم دوباره شاهد این موضوع خواهید بود.\n\n📡 @VahidOnline",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/VahidOnline/78287",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/p72FEJw5vVJihJUKGXhMDkg4ysKMDn-JH-LgGB5BmZhHYQ9GyMepGFMugHMN4Ky9ad6VOzuT5OPsdvHqVboZqr5B0okkRZabCSaaPDK74I7RFulzL0RJkXYhqfTSwzYAvAXpC4-s-OwY3R6o3V8mFntmjH2GNnaCEUrEoZiY1oYw6QfpYMoWjwALumYsf-3Brs-RhjCNnn1DZMLQuKnPlqfXX6O3WAQopunsdgLUD5IEWFUT1Yprn5h5HrHrPa9lGXdAXdT8nMZYvaUXr9FK1ybRAOylEJMY5rcnrQhRsdSitxDo13xyHw0t0hn_lzTF_HO05DVE4AxhC9MPnck9kQ",
+          "thumbnail_path": "channels/vahidonline/media/242d9c545b52bf98cf599ab0.jpg",
+          "thumbnail_sha256": "18e96eaffa12c3769dca43acc453bc21d749ab14da86232c3e83ac0621c5b7ad",
+          "duration_label": "0:27",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "6.97K",
+      "posted_at": "2026-09-08T22:49:32+00:00",
+      "edited": false,
+      "permalink": "https://t.me/VahidOnline/78287",
+      "reply": null
+    },
     {
       "id": "VahidOnline/78286",
       "author_name": "Vahid Online وحید آنلاین",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "44.7K",
+      "views_label": "51.7K",
       "posted_at": "2026-09-08T22:23:12+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78286",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "136K",
+      "views_label": "139K",
       "posted_at": "2026-09-08T21:21:33+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78285",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "186K",
+      "views_label": "188K",
       "posted_at": "2026-09-08T20:37:55+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78284",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "212K",
+      "views_label": "213K",
       "posted_at": "2026-09-08T20:06:34+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78283",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "239K",
+      "views_label": "241K",
       "posted_at": "2026-09-08T19:27:01+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78282",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "210K",
+      "views_label": "211K",
       "posted_at": "2026-09-08T19:26:50+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78281",
@@ -189,7 +217,7 @@
       "plain_text": "\"صدای انفجار از حوالی ساحل جاسک\"\n\nخبرگزاری فارس وابسته به سپاه پاسداران:\nحوالی ساعت ۲۱:۴۵ امشب، صدای انفجار در شهرستان جاسک شنیده شد.\n\nمنابع محلی می‌گویند صدا از سمت دریا و نزدیکی منطقه سنگ سیاه به گوش رسیده و انفجار در دو مرحله و با فاصله کوتاه رخ داده است.\n📡 @VahidOnline",
       "media": [],
       "reactions": [],
-      "views_label": "213K",
+      "views_label": "215K",
       "posted_at": "2026-09-08T19:12:34+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78280",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "211K",
+      "views_label": "212K",
       "posted_at": "2026-09-08T19:10:34+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78279",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "199K",
+      "views_label": "200K",
       "posted_at": "2026-09-08T19:10:11+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78278",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "245K",
+      "views_label": "246K",
       "posted_at": "2026-09-08T16:43:22+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78277",
@@ -312,7 +340,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "265K",
+      "views_label": "266K",
       "posted_at": "2026-09-08T15:08:06+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78275",
@@ -340,7 +368,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "254K",
+      "views_label": "255K",
       "posted_at": "2026-09-08T15:06:33+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78274",
@@ -423,7 +451,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "296K",
+      "views_label": "297K",
       "posted_at": "2026-09-08T12:38:25+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78268",
@@ -2957,34 +2985,6 @@
       "posted_at": "2026-09-01T19:01:17+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78157",
-      "reply": null
-    },
-    {
-      "id": "VahidOnline/78156",
-      "author_name": "Vahid Online وحید آنلاین",
-      "author_photo_url": "https://cdn1.telesco.pe/file/lpY-ME0Mc0Emf0IIp9JGQz_sjZcxQ3Cy5hDTkskn7j-3EDKyAuwopNDbn0Mn_TYsmfygG5AIC4vrQa1fzSmajUXjmc6EJ8KfVBFkVoNV9pi228104EWKBB3z8T_AX-vGYiP5ylJSDcI-EQQ7XdUBL2ygOmEovjpEOMeNLr8O9soBAmoQVD-sMUxPT_vdHOIFsDSBOfEc23ntHLEkV7dzn1jkBVRLCadR-3lhDPlgNRKOY_OE1aEw-BlKp70FixRiTg3RiqmNYkCbDzKHcfsveMTSmFHSFXS0kY7WdYIu_JIOK0J09t-3Cd3Y7q-Mg1TKitRDj3ABLtc5fW2mM70SvQ.jpg",
-      "author_photo_path": "channels/vahidonline/media/aeab3d046fe2d10ee017b9e2.jpg",
-      "author_photo_sha256": "bee60885437a832f3ac114c2547b44918ce852f80d43a07bead701fc17ad1bc8",
-      "body_html": "ترجمه ماشین:<br>پرزیدنت ترامپ به فاکس نیوز گفت که امشب شمار زیادی از رادارهای ایران هدف قرار گرفته‌اند.<br><br>پرزیدنت ترامپ گفت: «آن‌ها تلاش کردند رادارهایشان را بازسازی کنند، چون نمی‌توانند چیزی ببینند. ما صبر کردیم تا تقریباً ساخته شود و بعد آن را هدف قرار دادیم.»<br><br>رئیس‌جمهور گفت اگر ایران پاسخ دهد، «ضربات بسیار سخت‌تری خواهند خورد... اگر کار به بار سوم برسد، آن‌ها به‌عنوان یک کشور کاملاً نابود خواهند شد.»<br><a href=\"https://x.com/TreyYingst/status/2094854875154731098\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">TreyYingst</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
-      "plain_text": "ترجمه ماشین:\nپرزیدنت ترامپ به فاکس نیوز گفت که امشب شمار زیادی از رادارهای ایران هدف قرار گرفته‌اند.\n\nپرزیدنت ترامپ گفت: «آن‌ها تلاش کردند رادارهایشان را بازسازی کنند، چون نمی‌توانند چیزی ببینند. ما صبر کردیم تا تقریباً ساخته شود و بعد آن را هدف قرار دادیم.»\n\nرئیس‌جمهور گفت اگر ایران پاسخ دهد، «ضربات بسیار سخت‌تری خواهند خورد... اگر کار به بار سوم برسد، آن‌ها به‌عنوان یک کشور کاملاً نابود خواهند شد.»\nTreyYingst\n\n📡 @VahidOnline",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/VahidOnline/78156",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/o8njgqMGH5HR3dFtTq4Vc0_Y1GeAfq1XJT2nrOQHCvmqQGo7jO9yVZrl37s3Ef5kUuR6Xlle7rTBWuzoZK9tsNqbbM3xxxJcASJhbEUDEtZS-gQMZV6-zgxNugTgoXLoyXNx7PmFfYEvNO_ogilar5D2-sDOReZfKFneCo_DIwl527bPCr4baGR4KzCac16g15VYuOZv5a5fonwIm0lkJx8tIch3NpAINtr_serSszwt41ktEB03rHIEGQhLEdaW22BN1igyWBUkjDogAnmG6Njcq86Yp-hqPv_8v6QxnKYWu-Y5GOahTC5LueSm1Ks4O15o4Xfgn82sNs9V-EqAyg",
-          "thumbnail_path": "channels/vahidonline/media/4d7f65cc0eae81a57debd200.jpg",
-          "thumbnail_sha256": "e14e37015b8b786abbf61437e0381cb67cbcb745879c21d03638139beedc0091",
-          "duration_label": "3:26",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "274K",
-      "posted_at": "2026-09-01T18:40:58+00:00",
-      "edited": false,
-      "permalink": "https://t.me/VahidOnline/78156",
       "reply": null
     }
   ]
