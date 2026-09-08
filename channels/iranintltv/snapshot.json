@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T17:06:37.485Z",
+  "fetched_at": "2026-09-08T17:11:49.076Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356358",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "دفاع مدنی عربستان سعودی اعلام کرد سامانه هشدار در جازان و ابها فعال شده است. این نهاد همچنین اعلام کرد سامانه هشدار در نجران نیز فعال شده است.<br><br>دفاع مدنی عربستان سعودی تا لحظه انتشار این گزارش جزئیات بیشتری اعلام نکرده است.<br><a href=\"https://iranintl.com/202609083486\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609083486</a>",
+      "plain_text": "دفاع مدنی عربستان سعودی اعلام کرد سامانه هشدار در جازان و ابها فعال شده است. این نهاد همچنین اعلام کرد سامانه هشدار در نجران نیز فعال شده است.\n\nدفاع مدنی عربستان سعودی تا لحظه انتشار این گزارش جزئیات بیشتری اعلام نکرده است.\nhttps://iranintl.com/202609083486",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356358",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/cqGQ-tkDRPn9OO-sk7-vNguwDZIhwgPB0X7g-7M52fqx8Qh9ManBpZiMRqKDZvOnIDTWtK48jdQHav0mtUgmGvRx4fStwgoEZVi-vXPUrxMq8SvcV00QXlHaeNsjTniNLPSnycumnabx5pTgzYpQ_rh72MAgUz_wu0rkk06_zrEmrBwnUu3ldRKFExYWMNiO5EV2Pviw_fY8x6P8SxS8s_fxBa4-9CIx9Y1leBKOn5rOk_6jOemeZB_G_wUJlcwgKV6PoaeTeQVzuUi1UdOKcTKFeO4uDIuXl1fanrTLe_zfYzMvLwdlLQYz6LzaKH-pXQW37EBTyYWYhQTvVylN2g.jpg",
+          "thumbnail_path": "channels/iranintltv/media/38dc7a51c572e646a2892825.jpg",
+          "thumbnail_sha256": "e17fa7dbca08c097435fc8c70ff4325904b9d93242b9ca8a8ec7a7644ae11220",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.06K",
+      "posted_at": "2026-09-08T17:10:22+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356358",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356357",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.29K",
+      "views_label": "9.53K",
       "posted_at": "2026-09-08T16:59:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356357",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.9K",
+      "views_label": "19K",
       "posted_at": "2026-09-08T16:44:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356356",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20K",
+      "views_label": "23.2K",
       "posted_at": "2026-09-08T16:36:18+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356355",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19K",
+      "views_label": "21.1K",
       "posted_at": "2026-09-08T16:35:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356354",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.1K",
+      "views_label": "22.2K",
       "posted_at": "2026-09-08T16:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356353",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.1K",
+      "views_label": "22.2K",
       "posted_at": "2026-09-08T16:28:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356352",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.3K",
+      "views_label": "25.3K",
       "posted_at": "2026-09-08T16:21:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356351",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.4K",
+      "views_label": "26.4K",
       "posted_at": "2026-09-08T16:14:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356350",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.4K",
+      "views_label": "27.5K",
       "posted_at": "2026-09-08T16:10:50+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356349",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.6K",
+      "views_label": "30.6K",
       "posted_at": "2026-09-08T15:59:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356348",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.4K",
+      "views_label": "27.5K",
       "posted_at": "2026-09-08T15:58:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356346",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.5K",
+      "views_label": "29.5K",
       "posted_at": "2026-09-08T15:58:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356347",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.8K",
+      "views_label": "33.8K",
       "posted_at": "2026-09-08T15:42:09+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356345",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.9K",
+      "views_label": "36K",
       "posted_at": "2026-09-08T15:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356343",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.9K",
+      "views_label": "37K",
       "posted_at": "2026-09-08T15:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356344",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37K",
+      "views_label": "38.1K",
       "posted_at": "2026-09-08T15:23:43+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356342",
@@ -469,7 +497,7 @@
       "plain_text": "🎧نسخه صوتی اخبار شبانگاهی | سه‌شنبه ۱۷ شهریور\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "39.2K",
+      "views_label": "40.2K",
       "posted_at": "2026-09-08T15:14:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356341",
@@ -497,7 +525,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.2K",
+      "views_label": "40.2K",
       "posted_at": "2026-09-08T15:13:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356340",
@@ -2721,34 +2749,6 @@
       "posted_at": "2026-09-08T06:34:39+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356256",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356255",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "جاویدنامان انقلاب ملی ایرانیان<br>«شکوفه عبدی» ۱۸ دی‌ماه با شلیک مستقیم نیروهای سرکوب به سرش کشته شد. نامش در حافظه‌ی این سرزمین می‌ماند و یادش چراغ راه آزادی‌خواهان است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "جاویدنامان انقلاب ملی ایرانیان\n«شکوفه عبدی» ۱۸ دی‌ماه با شلیک مستقیم نیروهای سرکوب به سرش کشته شد. نامش در حافظه‌ی این سرزمین می‌ماند و یادش چراغ راه آزادی‌خواهان است.\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356255",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/CTE0Kp0aiSCwq5CCjjpQwQFYTDwWM2TeNElAaji2swdecZqug6CXxRXwKFT8ylKWHCcsk79hHErRz7cBfannLfeyrEf-MK-saMS3lTziMSLXapAUvL3xkYLsxmvtKXNeZVRNWECzbJSYDc1jpkHXAXwavL5EXspeolDIeAMbHuw3AQeR8UZKyXeGwF_ZsW3OLHdec72xMpKsClafcg8P8GnSoc1yG0XIhPKPWXEw-BQktkyMMX8liWLqiVkwR09PjiJVPPGCdpQXOkk8sttD6ZOSyHsimH-2PdBEWc-HLpm4nOVVx9qGQqAbHJNCIhUX-JaudF6BI0lGz02UyLXLMQ",
-          "thumbnail_path": "channels/iranintltv/media/b65c519dfc8fa9222a8b2201.jpg",
-          "thumbnail_sha256": "941e01357bb3836a1c73b6ef2437397a5b630e4220eff149a2ae198c6822948e",
-          "duration_label": "1:00",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "27.3K",
-      "posted_at": "2026-09-08T06:29:51+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356255",
       "reply": null
     }
   ]
