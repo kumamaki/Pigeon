@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T05:07:18.713Z",
+  "fetched_at": "2026-09-08T05:12:11.374Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -139,8 +139,8 @@
           "asset_url": "https://t.me/ircfspace/2584",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/QGNSDLzjX1bKTkzvGnivegJ2PKp-HTr33bsAJax3LtVm_UwPHxeXySi7RIHl9rCztZrxXHrRK9V2s_KuL2gCQ3bdMDckarVuKOVcPEANe3z99n5wULcxNR8gjgaaL0TFBk8nAeCzfXfwdFQN6XltLn5FNGMoc31YjS7E7-Y09mMV3vQh72nabx0IbgW0L4khuzcQRxJOR7rXNT0krdPO7L0MnpcrqfkSIVjRf6B5VhJiKZqBl0UCP3aJRNg64l65QR8KrZnqJOhKjjVFZACtDLkaqgKIlmh5ZOx5d0GpXb2yR3GwYjE-B2mdrcEPnadNnx37vkZuiCtyBhWDd_NIfw.jpg",
-          "thumbnail_path": "channels/ircfspace/media/664af791c4e7cbbe1d70f638.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/N3WjfGS-kAbo-zo3aA0lNcjaMgJIZ_RCEr86YW3CxIpICF-99meY5RS78DGm6OLyGQsLU4wiT4NvZ75R1QIHlbvg6ZqKz-e62pvDs7-7VnpESdBrHbXSshGQhtP99ADxNU3B0j0ONCZ616583_8dTDfrQYp3_3wDAE_X4LMrLfftg_xs8w0TVnKN_AxFSePoWxfD88P97cyHoGIFi8jung0OjUqU3Ed8j2FhAboOa8nclfPbPCPGPIZN5IfCd2_ek_Zg95CZZ6cfoeoYtAft3BuWcM4ul4fhBzTypbvPhbse04LyYbZbOy2EWKmn6QzcMEhkMlsRgR1VYkDi4QWEpQ.jpg",
+          "thumbnail_path": "channels/ircfspace/media/913b75ec1cd3a39da96de2a8.jpg",
           "thumbnail_sha256": "4e7002428444d84c8e9bfae76c6b6054d397e23aff93662e8b9bf8976fed1682",
           "duration_label": null,
           "aspect_ratio": 1.3333333333333333
@@ -164,7 +164,7 @@
           "count": "1"
         }
       ],
-      "views_label": "12.5K",
+      "views_label": "12.6K",
       "posted_at": "2026-09-07T05:23:54+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2584",
