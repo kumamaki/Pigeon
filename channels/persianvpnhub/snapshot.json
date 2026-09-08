@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T11:51:37.970Z",
+  "fetched_at": "2026-09-08T11:56:38.153Z",
   "channel": {
     "username": "persianvpnhub",
     "title": "VPNhub | فیلترشکن رایگان",
@@ -11,6 +11,356 @@
     "subscriber_count": "40.6K"
   },
   "posts": [
+    {
+      "id": "persianvpnhub/59101",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ MTPROTO<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آلمان <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 155ms<br><br><a href=\"?q=%23Proxy\">#Proxy</a> <a href=\"?q=%23MTProto\">#MTProto</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 15:20 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet<br><br><pre>https://t.me/proxy?server=ir.closcloud.co.uk&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</pre>",
+      "plain_text": "📂 کانفیگ MTPROTO\n📍 لوکیشن: آلمان 🇩🇪\n📶 پینگ: 155ms\n\n#Proxy #MTProto\n\n🕒 انتشار: 15:20 - 1405/06/17\n💡 منبع: گروه MahsaNet\n\nhttps://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "media": [],
+      "reactions": [],
+      "views_label": "17",
+      "posted_at": "2026-09-08T11:55:21+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59101",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59100",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ MTPROTO<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آلمان <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 142ms<br><br><a href=\"?q=%23Proxy\">#Proxy</a> <a href=\"?q=%23MTProto\">#MTProto</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 15:20 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet<br><br><pre>https://t.me/proxy?server=behtarin.goooalir.co.uk&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</pre>",
+      "plain_text": "📂 کانفیگ MTPROTO\n📍 لوکیشن: آلمان 🇩🇪\n📶 پینگ: 142ms\n\n#Proxy #MTProto\n\n🕒 انتشار: 15:20 - 1405/06/17\n💡 منبع: گروه MahsaNet\n\nhttps://t.me/proxy?server=behtarin.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "media": [],
+      "reactions": [],
+      "views_label": "17",
+      "posted_at": "2026-09-08T11:55:16+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59100",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59099",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ MTPROTO<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: The Netherlands <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B3F09F87B1.png')\"><b>🇳🇱</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 137ms<br><br><a href=\"?q=%23Proxy\">#Proxy</a> <a href=\"?q=%23MTProto\">#MTProto</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 15:20 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet<br><br><pre>https://t.me/proxy?server=207.89.20.5&amp;port=443&amp;secret=4da47f00c2291d55696fa3ae954ffd78</pre>",
+      "plain_text": "📂 کانفیگ MTPROTO\n📍 لوکیشن: The Netherlands 🇳🇱\n📶 پینگ: 137ms\n\n#Proxy #MTProto\n\n🕒 انتشار: 15:20 - 1405/06/17\n💡 منبع: گروه MahsaNet\n\nhttps://t.me/proxy?server=207.89.20.5&port=443&secret=4da47f00c2291d55696fa3ae954ffd78",
+      "media": [],
+      "reactions": [],
+      "views_label": "13",
+      "posted_at": "2026-09-08T11:55:12+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59099",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59098",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ MTPROTO<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: The Netherlands <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B3F09F87B1.png')\"><b>🇳🇱</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 136ms<br><br><a href=\"?q=%23Proxy\">#Proxy</a> <a href=\"?q=%23MTProto\">#MTProto</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 15:16 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>https://t.me/proxy?server=www.torbad.ir.&amp;port=8443&amp;secret=3WMho4GHSV36xZoDAiDCXY4AAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</pre>",
+      "plain_text": "📂 کانفیگ MTPROTO\n📍 لوکیشن: The Netherlands 🇳🇱\n📶 پینگ: 136ms\n\n#Proxy #MTProto\n\n🕒 انتشار: 15:16 - 1405/06/17\n💡 منبع: @makvaslim\n\nhttps://t.me/proxy?server=www.torbad.ir.&port=8443&secret=3WMho4GHSV36xZoDAiDCXY4AAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "media": [],
+      "reactions": [],
+      "views_label": "12",
+      "posted_at": "2026-09-08T11:55:07+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59098",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59097",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: Moldova <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B2F09F87A9.png')\"><b>🇲🇩</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 182ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 15:15 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&amp;mode=gun&amp;security=reality&amp;encryption=none&amp;authority=TELEGRAM%40MARAMBASHI_MARAMBASHI&amp;pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&amp;fp=firefox&amp;type=grpc&amp;serviceName=hub.v1.SyncService&amp;sni=md2.univesalsrv.com&amp;sid=d36a38659ce106cb#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy</pre>",
+      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: Moldova 🇲🇩\n📶 پینگ: 182ms\n\n#VLESS #VPN\n\n🕒 انتشار: 15:15 - 1405/06/17\n💡 منبع: @makvaslim\n\nvless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&mode=gun&security=reality&encryption=none&authority=TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
+      "media": [],
+      "reactions": [],
+      "views_label": "10",
+      "posted_at": "2026-09-08T11:55:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59097",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59096",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آمریکا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 27ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 15:15 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>vless://b8d8944b-0ad5-4cb5-9b48-b73c5380b332@66.33.22.229:43332?security=reality&amp;encryption=none&amp;pbk=UT-idtQ3uOpbcVz2GXAn-9IkNL4Q6mwfqgb_z9JHTVw&amp;headerType=none&amp;fp=chrome&amp;spx=%2Fe7df9827b886d79&amp;type=tcp&amp;sni=api-stg.semiconductor.samsung.cn&amp;sid=7aae950fc7d5#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy</pre>",
+      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: آمریکا 🇺🇸\n📶 پینگ: 27ms\n\n#VLESS #VPN\n\n🕒 انتشار: 15:15 - 1405/06/17\n💡 منبع: @makvaslim\n\nvless://b8d8944b-0ad5-4cb5-9b48-b73c5380b332@66.33.22.229:43332?security=reality&encryption=none&pbk=UT-idtQ3uOpbcVz2GXAn-9IkNL4Q6mwfqgb_z9JHTVw&headerType=none&fp=chrome&spx=%2Fe7df9827b886d79&type=tcp&sni=api-stg.semiconductor.samsung.cn&sid=7aae950fc7d5#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
+      "media": [],
+      "reactions": [],
+      "views_label": "11",
+      "posted_at": "2026-09-08T11:54:56+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59096",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59095",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VMess<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: Iran <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AEF09F87B7.png')\"><b>🇮🇷</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 208ms<br><br><a href=\"?q=%23VMess\">#VMess</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 15:15 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>vmess://eyJhZGQiOiIxODUuMjExLjU5LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6ImUxMTE5MDhkLTdhNzItNDRkOC1hMTJiLTM1ZGU4NjdkZGU3MiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMzEyMzQiLCJwcyI6Itin2q/ZhyDZhduM2K7ZiNin24wg2YLYt9i5INmG2LTbjCDYrNmI24zZhiDYtNmIIDogQGZhcnNpcHJveHkiLCJzY3kiOiJhdXRvIiwic25pIjoiMTg1LjIxMS41OS41NyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==</pre>",
+      "plain_text": "📂 کانفیگ VMess\n📍 لوکیشن: Iran 🇮🇷\n📶 پینگ: 208ms\n\n#VMess #VPN\n\n🕒 انتشار: 15:15 - 1405/06/17\n💡 منبع: @makvaslim\n\nvmess://eyJhZGQiOiIxODUuMjExLjU5LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6ImUxMTE5MDhkLTdhNzItNDRkOC1hMTJiLTM1ZGU4NjdkZGU3MiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMzEyMzQiLCJwcyI6Itin2q/ZhyDZhduM2K7ZiNin24wg2YLYt9i5INmG2LTbjCDYrNmI24zZhiDYtNmIIDogQGZhcnNpcHJveHkiLCJzY3kiOiJhdXRvIiwic25pIjoiMTg1LjIxMS41OS41NyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "media": [],
+      "reactions": [],
+      "views_label": "10",
+      "posted_at": "2026-09-08T11:54:52+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59095",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59094",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ TROJAN<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 24ms<br><br><a href=\"?q=%23TROJAN\">#TROJAN</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 15:15 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy</pre>",
+      "plain_text": "📂 کانفیگ TROJAN\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 24ms\n\n#TROJAN #VPN\n\n🕒 انتشار: 15:15 - 1405/06/17\n💡 منبع: @makvaslim\n\ntrojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
+      "media": [],
+      "reactions": [],
+      "views_label": "11",
+      "posted_at": "2026-09-08T11:54:47+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59094",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59093",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آلمان <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 138ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 15:15 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>vless://2edbad06-49de-4f75-bfc9-993a12cfe3f1@204.11.2.120:16565?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=CuCszXg3N1y8X2klMaK70LeoRbF3vasPI0DG92Dyymo&amp;fp=chrome&amp;type=grpc&amp;sni=cdn.diba4movie.xyz&amp;sid=e3151e5761d8971b#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy</pre>",
+      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: آلمان 🇩🇪\n📶 پینگ: 138ms\n\n#VLESS #VPN\n\n🕒 انتشار: 15:15 - 1405/06/17\n💡 منبع: @makvaslim\n\nvless://2edbad06-49de-4f75-bfc9-993a12cfe3f1@204.11.2.120:16565?mode=gun&security=reality&encryption=none&pbk=CuCszXg3N1y8X2klMaK70LeoRbF3vasPI0DG92Dyymo&fp=chrome&type=grpc&sni=cdn.diba4movie.xyz&sid=e3151e5761d8971b#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "10",
+      "posted_at": "2026-09-08T11:54:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59093",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59092",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: انگلیس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87ACF09F87A7.png')\"><b>🇬🇧</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 119ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 15:15 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>vless://81686214-6ce3-4345-ae4d-cf848c97160a@104.194.144.106:9990?security=reality&amp;encryption=none&amp;pbk=bThKArw7XzgGi3dw6mXUtSMKeTDa8vhwGoK1YEzUaWk&amp;headerType=none&amp;fp=firefox&amp;spx=%2FLMH9X0dmvPrmTzx&amp;type=tcp&amp;sni=dealersource.electronics.sony.com&amp;sid=f7#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy</pre>",
+      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: انگلیس 🇬🇧\n📶 پینگ: 119ms\n\n#VLESS #VPN\n\n🕒 انتشار: 15:15 - 1405/06/17\n💡 منبع: @makvaslim\n\nvless://81686214-6ce3-4345-ae4d-cf848c97160a@104.194.144.106:9990?security=reality&encryption=none&pbk=bThKArw7XzgGi3dw6mXUtSMKeTDa8vhwGoK1YEzUaWk&headerType=none&fp=firefox&spx=%2FLMH9X0dmvPrmTzx&type=tcp&sni=dealersource.electronics.sony.com&sid=f7#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "9",
+      "posted_at": "2026-09-08T11:54:39+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59092",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59091",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: Poland <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B5F09F87B1.png')\"><b>🇵🇱</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 153ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 15:15 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@83.168.111.58:443?security=reality&amp;encryption=none&amp;pbk=4h74KXbkBMYOhJkZabJNsf85cI91ytap_gkl56mzjTU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=soulful.host#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy</pre>",
+      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: Poland 🇵🇱\n📶 پینگ: 153ms\n\n#VLESS #VPN\n\n🕒 انتشار: 15:15 - 1405/06/17\n💡 منبع: @makvaslim\n\nvless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@83.168.111.58:443?security=reality&encryption=none&pbk=4h74KXbkBMYOhJkZabJNsf85cI91ytap_gkl56mzjTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=soulful.host#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "9",
+      "posted_at": "2026-09-08T11:54:34+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59091",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59090",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 15:09 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet",
+      "plain_text": "📂 فایل کانفیگ NapsternetV\n📍 لوکیشن: نامشخص\n\n#NapsternetV #Config #File\n\n🕒 انتشار: 15:09 - 1405/06/17\n💡 منبع: گروه MahsaNet",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "10",
+      "posted_at": "2026-09-08T11:54:30+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59090",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59089",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 15:04 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet",
+      "plain_text": "📂 فایل کانفیگ NapsternetV\n📍 لوکیشن: نامشخص\n\n#NapsternetV #Config #File\n\n🕒 انتشار: 15:04 - 1405/06/17\n💡 منبع: گروه MahsaNet",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "12",
+      "posted_at": "2026-09-08T11:54:25+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59089",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59088",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 18ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 14:40 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.67.73:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram</pre>",
+      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 18ms\n\n#VLESS #VPN\n\n🕒 انتشار: 14:40 - 1405/06/17\n💡 منبع: @Hope_Net\n\nvless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.67.73:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram",
+      "media": [],
+      "reactions": [],
+      "views_label": "14",
+      "posted_at": "2026-09-08T11:54:20+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59088",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59087",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 18ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 14:40 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@31.12.75.140:2053?security=tls&amp;sni=juzibaipiao.5112233.xyz&amp;type=ws&amp;path=/#@Hope_Net-join-us-on-Telegram</pre>",
+      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 18ms\n\n#VLESS #VPN\n\n🕒 انتشار: 14:40 - 1405/06/17\n💡 منبع: @Hope_Net\n\nvless://f775978b-6e22-41a8-ae5e-5f9779e6745f@31.12.75.140:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/#@Hope_Net-join-us-on-Telegram",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "15",
+      "posted_at": "2026-09-08T11:54:16+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59087",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59086",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 18ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 14:40 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>vless://2331c20f-b871-4776-b37b-a2b88f9d3fc2@185.146.173.28:80?security=none&amp;type=ws&amp;host=TehranBook.G2.Shop.Site.Co.xn--fhq0la447aac5504dea701aea9245d.CoM.#@Hope_Net-join-us-on-Telegram</pre>",
+      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 18ms\n\n#VLESS #VPN\n\n🕒 انتشار: 14:40 - 1405/06/17\n💡 منبع: @Hope_Net\n\nvless://2331c20f-b871-4776-b37b-a2b88f9d3fc2@185.146.173.28:80?security=none&type=ws&host=TehranBook.G2.Shop.Site.Co.xn--fhq0la447aac5504dea701aea9245d.CoM.#@Hope_Net-join-us-on-Telegram",
+      "media": [],
+      "reactions": [],
+      "views_label": "13",
+      "posted_at": "2026-09-08T11:54:11+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59086",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59085",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 19ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 14:40 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.118.2:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram</pre>",
+      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 19ms\n\n#VLESS #VPN\n\n🕒 انتشار: 14:40 - 1405/06/17\n💡 منبع: @Hope_Net\n\nvless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.118.2:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram",
+      "media": [],
+      "reactions": [],
+      "views_label": "12",
+      "posted_at": "2026-09-08T11:54:07+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59085",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59084",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 18ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 14:40 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@216.24.57.85:443?security=tls&amp;sni=vc.ylkszy.eu.org&amp;type=ws&amp;path=%2F#@Hope_Net-join-us-on-Telegram</pre>",
+      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 18ms\n\n#VLESS #VPN\n\n🕒 انتشار: 14:40 - 1405/06/17\n💡 منبع: @Hope_Net\n\nvless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@216.24.57.85:443?security=tls&sni=vc.ylkszy.eu.org&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram",
+      "media": [],
+      "reactions": [],
+      "views_label": "13",
+      "posted_at": "2026-09-08T11:54:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59084",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59083",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 19ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 14:40 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.170.109:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram</pre>",
+      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 19ms\n\n#VLESS #VPN\n\n🕒 انتشار: 14:40 - 1405/06/17\n💡 منبع: @Hope_Net\n\nvless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.170.109:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram",
+      "media": [],
+      "reactions": [],
+      "views_label": "14",
+      "posted_at": "2026-09-08T11:53:59+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59083",
+      "reply": null
+    },
+    {
+      "id": "persianvpnhub/59082",
+      "author_name": "VPNhub | فیلترشکن رایگان",
+      "author_photo_url": "https://cdn1.telesco.pe/file/aKbcOGcwZyp3I3ram1K90ii81nG1J8YsctSl62T8T8GGweMW03QWshXqY1VK-xbSyE-UKBrb_jmY1y5nJmx0gZM5fD5QQiduu4gY3NbCavh2UZKdX-FP0LXseWpRF7FTQ3iqyOQPHqsocjHGNGisTiOxRqBy_7xb1YDWNf_9P9LlVf1Bt69Z2_URF4xdH0l46HnngUH-CJNgwaZeCqXhgRW3O-CtxPxi2hmM0ACLI9sHj69xhFGkU7en47G0njHnQm9QCVUhGWbLei5BAmdEwBdj1ObtfV4FLiv5gcr4JeP-TvuTw4BBvWPeb5PGZp8uDsxD8XCksXNcnICVTZMnnw.jpg",
+      "author_photo_path": "channels/persianvpnhub/media/bce84fa45b942c89793b7472.jpg",
+      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 32ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 14:40 - 1405/06/17<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:8880?type=ws&amp;host=JvRqBlAk11.iUbCiNsCkKsDnOi1.NeT&amp;path=/#@Hope_Net-join-us-on-Telegram</pre>",
+      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 32ms\n\n#VLESS #VPN\n\n🕒 انتشار: 14:40 - 1405/06/17\n💡 منبع: @Hope_Net\n\nvless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:8880?type=ws&host=JvRqBlAk11.iUbCiNsCkKsDnOi1.NeT&path=/#@Hope_Net-join-us-on-Telegram",
+      "media": [],
+      "reactions": [],
+      "views_label": "14",
+      "posted_at": "2026-09-08T11:53:54+00:00",
+      "edited": false,
+      "permalink": "https://t.me/persianvpnhub/59082",
+      "reply": null
+    },
     {
       "id": "persianvpnhub/59051",
       "author_name": "VPNhub | فیلترشکن رایگان",
@@ -1323,381 +1673,6 @@
       "posted_at": "2026-09-07T20:20:56+00:00",
       "edited": false,
       "permalink": "https://t.me/persianvpnhub/58948",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58947",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آلمان <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 151ms<br><br><a href=\"?q=%23Shadowsocks\">#Shadowsocks</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 23:43 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SXFHQno1UXFjT0NtU0xGcTNCeXozMG56K2VhZmtKOThaeGxmZmh2YzQ4QT0=@130.61.231.219:59924#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy</pre>",
-      "plain_text": "📂 کانفیگ SS\n📍 لوکیشن: آلمان 🇩🇪\n📶 پینگ: 151ms\n\n#Shadowsocks #VPN\n\n🕒 انتشار: 23:43 - 1405/06/16\n💡 منبع: @makvaslim\n\nss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SXFHQno1UXFjT0NtU0xGcTNCeXozMG56K2VhZmtKOThaeGxmZmh2YzQ4QT0=@130.61.231.219:59924#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "228",
-      "posted_at": "2026-09-07T20:20:52+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58947",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58946",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 23:43 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a>",
-      "plain_text": "📂 فایل کانفیگ NapsternetV\n📍 لوکیشن: نامشخص\n\n#NapsternetV #Config #File\n\n🕒 انتشار: 23:43 - 1405/06/16\n💡 منبع: @makvaslim",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "100",
-      "posted_at": "2026-09-07T20:20:47+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58946",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58945",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 6ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 23:40 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>vless://a64f33b4-c4b0-4e75-9b8c-306640c7c4ce@172.67.204.84:8080?security=none&amp;type=ws&amp;host=its-legendaryking.com-so.ir-whereareyoumylady.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.mozdozari.buzz.#@Hope_Net-join-us-on-Telegram</pre>",
-      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 6ms\n\n#VLESS #VPN\n\n🕒 انتشار: 23:40 - 1405/06/16\n💡 منبع: @Hope_Net\n\nvless://a64f33b4-c4b0-4e75-9b8c-306640c7c4ce@172.67.204.84:8080?security=none&type=ws&host=its-legendaryking.com-so.ir-whereareyoumylady.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.mozdozari.buzz.#@Hope_Net-join-us-on-Telegram",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "100",
-      "posted_at": "2026-09-07T20:20:39+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58945",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58944",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 23:40 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.33.21:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram</pre>",
-      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 2ms\n\n#VLESS #VPN\n\n🕒 انتشار: 23:40 - 1405/06/16\n💡 منبع: @Hope_Net\n\nvless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.33.21:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "93",
-      "posted_at": "2026-09-07T20:20:35+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58944",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58943",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 23:40 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.101.196:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram</pre>",
-      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 2ms\n\n#VLESS #VPN\n\n🕒 انتشار: 23:40 - 1405/06/16\n💡 منبع: @Hope_Net\n\nvless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.101.196:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "86",
-      "posted_at": "2026-09-07T20:20:31+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58943",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58942",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 23:40 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.38.122:443?security=tls&amp;sni=pPAl03.STanToN-aLasToR.WORKErS.dev&amp;type=ws&amp;host=pPal03.sTaNtoN-AlASTOr.worKErS.DEv&amp;path=%2Fi9Eyypb5fWILM2xT%3Fed%3D2560&amp;fp=randomized&amp;alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram</pre>",
-      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 2ms\n\n#VLESS #VPN\n\n🕒 انتشار: 23:40 - 1405/06/16\n💡 منبع: @Hope_Net\n\nvless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.38.122:443?security=tls&sni=pPAl03.STanToN-aLasToR.WORKErS.dev&type=ws&host=pPal03.sTaNtoN-AlASTOr.worKErS.DEv&path=%2Fi9Eyypb5fWILM2xT%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "84",
-      "posted_at": "2026-09-07T20:20:27+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58942",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58941",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 23:40 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>vless://81905017-3193-40be-80cc-349f30149a62@185.146.173.185:8880?security=none&amp;type=ws&amp;host=V2ray-_-_-_-_-_-cDn.Mamadv2raYng.CoM.&amp;path=%2Ftelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Lookivpn%2Ctelegram-Academi_vpn%2CMmdv2rayng-V2rayngmmd-telegram-mehran-v2ray%3Fed%3D2048#@Hope_Net-join-us-on-Telegram</pre>",
-      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 2ms\n\n#VLESS #VPN\n\n🕒 انتشار: 23:40 - 1405/06/16\n💡 منبع: @Hope_Net\n\nvless://81905017-3193-40be-80cc-349f30149a62@185.146.173.185:8880?security=none&type=ws&host=V2ray-_-_-_-_-_-cDn.Mamadv2raYng.CoM.&path=%2Ftelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Academi_vpn%2Ctelegram-Lookivpn%2Ctelegram-Academi_vpn%2CMmdv2rayng-V2rayngmmd-telegram-mehran-v2ray%3Fed%3D2048#@Hope_Net-join-us-on-Telegram",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "78",
-      "posted_at": "2026-09-07T20:20:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58941",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58940",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 23:40 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.246.199:80?type=ws&amp;host=kr1.175852.xyz&amp;path=/abcde#@Hope_Net-join-us-on-Telegram</pre>",
-      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 2ms\n\n#VLESS #VPN\n\n🕒 انتشار: 23:40 - 1405/06/16\n💡 منبع: @Hope_Net\n\nvless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.246.199:80?type=ws&host=kr1.175852.xyz&path=/abcde#@Hope_Net-join-us-on-Telegram",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "75",
-      "posted_at": "2026-09-07T20:20:18+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58940",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58939",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 23:40 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>vless://953a7b6e-d5bb-472c-843b-4c73514e1b15@104.21.12.56:2083?security=tls&amp;sni=cdnnode2mahz.zaracloudcenter.ir&amp;type=ws&amp;path=%2F&amp;fp=chrome&amp;alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram</pre>",
-      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 2ms\n\n#VLESS #VPN\n\n🕒 انتشار: 23:40 - 1405/06/16\n💡 منبع: @Hope_Net\n\nvless://953a7b6e-d5bb-472c-843b-4c73514e1b15@104.21.12.56:2083?security=tls&sni=cdnnode2mahz.zaracloudcenter.ir&type=ws&path=%2F&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram",
-      "media": [],
-      "reactions": [],
-      "views_label": "78",
-      "posted_at": "2026-09-07T20:20:14+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58939",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58938",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 23:40 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>vless://4c77945d-86a5-4d9a-d298-8efcc9a4e255@104.17.180.185:8443?security=tls&amp;sni=free.smelean.ir&amp;type=grpc&amp;serviceName=%2F%40Mmd_V2rayng-@MikasaVpn%3Fed%3D2048&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#@Hope_Net-join-us-on-Telegram</pre>",
-      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 2ms\n\n#VLESS #VPN\n\n🕒 انتشار: 23:40 - 1405/06/16\n💡 منبع: @Hope_Net\n\nvless://4c77945d-86a5-4d9a-d298-8efcc9a4e255@104.17.180.185:8443?security=tls&sni=free.smelean.ir&type=grpc&serviceName=%2F%40Mmd_V2rayng-@MikasaVpn%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#@Hope_Net-join-us-on-Telegram",
-      "media": [],
-      "reactions": [],
-      "views_label": "74",
-      "posted_at": "2026-09-07T20:20:10+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58938",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58937",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آمریکا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 63ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 23:34 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet<br><br><pre>vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&amp;encryption=none&amp;pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%F0%9F%94%87</pre>",
-      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: آمریکا 🇺🇸\n📶 پینگ: 63ms\n\n#VLESS #VPN\n\n🕒 انتشار: 23:34 - 1405/06/16\n💡 منبع: گروه MahsaNet\n\nvless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%F0%9F%94%87",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "73",
-      "posted_at": "2026-09-07T20:20:05+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58937",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58936",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: Italy <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AEF09F87B9.png')\"><b>🇮🇹</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 176ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 23:34 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet<br><br><pre>vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=milan.adaspoloandco.com#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%F0%9F%94%87</pre>",
-      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: Italy 🇮🇹\n📶 پینگ: 176ms\n\n#VLESS #VPN\n\n🕒 انتشار: 23:34 - 1405/06/16\n💡 منبع: گروه MahsaNet\n\nvless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%F0%9F%94%87",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "79",
-      "posted_at": "2026-09-07T20:20:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58936",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58935",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: Moldova <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B2F09F87A9.png')\"><b>🇲🇩</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 200ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 23:34 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet<br><br><pre>vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.34:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&amp;fp=chrome&amp;type=grpc&amp;serviceName=app.v1.PushService&amp;sni=md5.univesalsrv.com&amp;sid=aa9884f2982b7d3c#%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%F0%9F%94%95</pre>",
-      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: Moldova 🇲🇩\n📶 پینگ: 200ms\n\n#VLESS #VPN\n\n🕒 انتشار: 23:34 - 1405/06/16\n💡 منبع: گروه MahsaNet\n\nvless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.34:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=chrome&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%F0%9F%94%95",
-      "media": [],
-      "reactions": [],
-      "views_label": "71",
-      "posted_at": "2026-09-07T20:19:56+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58935",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58934",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: فرانسه <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87ABF09F87B7.png')\"><b>🇫🇷</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 145ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 23:31 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/PrivateVPNs\" target=\"_blank\">@PrivateVPNs</a><br><br><pre>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.171.238:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A8F09F87B5.png')\"><b>🇨🇵</b></i>t.me/PrivateVPNs</pre>",
-      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: فرانسه 🇫🇷\n📶 پینگ: 145ms\n\n#VLESS #VPN\n\n🕒 انتشار: 23:31 - 1405/06/16\n💡 منبع: @PrivateVPNs\n\nvless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.171.238:22222?encryption=none&security=none&type=tcp#(S104)🇨🇵t.me/PrivateVPNs",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "45",
-      "posted_at": "2026-09-07T20:19:52+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58934",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58933",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VMess<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آلمان <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 150ms<br><br><a href=\"?q=%23VMess\">#VMess</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 23:27 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet<br><br><pre>vmess://eyJhZGQiOiIxODUuMjA0LjE3MC4xMjUiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiMTg1LjIwNC4xNzAuMTI1IiwiaWQiOiIwMDMzOWFlOS03NDQzLTRiNmUtOTI4My02N2FhZWQyNTc0MzMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ4aHR0cCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjEiLCJwcyI6IkBtNmhpaXd6Iiwic2N5IjoiYXV0byIsInNuaSI6IjE4NS4yMDQuMTcwLjEyNSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwidiI6IjIiLCJ2Y24iOiIifQ==</pre>",
-      "plain_text": "📂 کانفیگ VMess\n📍 لوکیشن: آلمان 🇩🇪\n📶 پینگ: 150ms\n\n#VMess #VPN\n\n🕒 انتشار: 23:27 - 1405/06/16\n💡 منبع: گروه MahsaNet\n\nvmess://eyJhZGQiOiIxODUuMjA0LjE3MC4xMjUiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiMTg1LjIwNC4xNzAuMTI1IiwiaWQiOiIwMDMzOWFlOS03NDQzLTRiNmUtOTI4My02N2FhZWQyNTc0MzMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ4aHR0cCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjEiLCJwcyI6IkBtNmhpaXd6Iiwic2N5IjoiYXV0byIsInNuaSI6IjE4NS4yMDQuMTcwLjEyNSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwidiI6IjIiLCJ2Y24iOiIifQ==",
-      "media": [],
-      "reactions": [],
-      "views_label": "48",
-      "posted_at": "2026-09-07T20:19:47+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58933",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58932",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 23:18 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet<br><br><pre>vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.234.138:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@v2ray_configs_pools-join-us-on-Telegram</pre>",
-      "plain_text": "📂 کانفیگ VLESS\n📍 لوکیشن: کلودفلر ☁️\n📶 پینگ: 2ms\n\n#VLESS #VPN\n\n🕒 انتشار: 23:18 - 1405/06/16\n💡 منبع: گروه MahsaNet\n\nvless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.234.138:80?security=none&type=ws&host=us3.rtacg.com&path=/#@v2ray_configs_pools-join-us-on-Telegram",
-      "media": [],
-      "reactions": [],
-      "views_label": "55",
-      "posted_at": "2026-09-07T20:19:43+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58932",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58898",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ MTPROTO<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آلمان <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 151ms<br><br><a href=\"?q=%23Proxy\">#Proxy</a> <a href=\"?q=%23MTProto\">#MTProto</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:55 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/beshkan\" target=\"_blank\">@beshkan</a><br><br><pre>https://t.me/proxy?server=sosis.telbet.app.&amp;port=80&amp;secret=3RbZ3hNtxAbJ6L5BQipx2_s</pre>",
-      "plain_text": "📂 کانفیگ MTPROTO\n📍 لوکیشن: آلمان 🇩🇪\n📶 پینگ: 151ms\n\n#Proxy #MTProto\n\n🕒 انتشار: 19:55 - 1405/06/16\n💡 منبع: @beshkan\n\nhttps://t.me/proxy?server=sosis.telbet.app.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s",
-      "media": [],
-      "reactions": [],
-      "views_label": "1",
-      "posted_at": "2026-09-07T20:17:05+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58898",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58897",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ MTPROTO<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: فنلاند <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87ABF09F87AE.png')\"><b>🇫🇮</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 1225ms<br><br><a href=\"?q=%23Proxy\">#Proxy</a> <a href=\"?q=%23MTProto\">#MTProto</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:55 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/beshkan\" target=\"_blank\">@beshkan</a><br><br><pre>https://t.me/proxy?server=95.217.193.223&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt0</pre>",
-      "plain_text": "📂 کانفیگ MTPROTO\n📍 لوکیشن: فنلاند 🇫🇮\n📶 پینگ: 1225ms\n\n#Proxy #MTProto\n\n🕒 انتشار: 19:55 - 1405/06/16\n💡 منبع: @beshkan\n\nhttps://t.me/proxy?server=95.217.193.223&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
-      "media": [],
-      "reactions": [],
-      "views_label": "1",
-      "posted_at": "2026-09-07T20:17:00+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58897",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58896",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ MTPROTO<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آلمان <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 149ms<br><br><a href=\"?q=%23Proxy\">#Proxy</a> <a href=\"?q=%23MTProto\">#MTProto</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:55 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/beshkan\" target=\"_blank\">@beshkan</a><br><br><pre>https://t.me/proxy?server=46.225.248.214&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</pre>",
-      "plain_text": "📂 کانفیگ MTPROTO\n📍 لوکیشن: آلمان 🇩🇪\n📶 پینگ: 149ms\n\n#Proxy #MTProto\n\n🕒 انتشار: 19:55 - 1405/06/16\n💡 منبع: @beshkan\n\nhttps://t.me/proxy?server=46.225.248.214&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-      "media": [],
-      "reactions": [],
-      "views_label": "1",
-      "posted_at": "2026-09-07T20:16:55+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58896",
-      "reply": null
-    },
-    {
-      "id": "persianvpnhub/58895",
-      "author_name": "VPNhub | فیلترشکن رایگان",
-      "author_photo_url": "https://cdn1.telesco.pe/file/LfTQ3DSxAbUQJtgN8nOnteC6AkOXG_qaQTL9CHhaCiT6Clj-30XFRKxD4dGxPZ1okuMSEncOqCvvf2B5Zsi4VWU-ZVaDDku0d5GlChbYILFgcIJsUOkG2Bwo8SzdX0cTBkwCHE3Z9MJ1QwaT4RV_vsMSRQW_CeAk7wtL7ml_9wLaBXkNQyVEzjioaRcwx_PmAGTaf8kGkW8-9PlihUr2tcIigc_-f_1Vduw7ROOabmnQyTWoKLg2CRN_mVYtwbQxcW6aaQPHXGPfqTzMiCQOGup2ICyvvlGsW42rQAFFuYsHewM79GwoUHiwIOS8u33IJl1rq8o9BLm51oCeGEsYrg.jpg",
-      "author_photo_path": "channels/persianvpnhub/media/898c990f8f2e39518c3d37bc.jpg",
-      "author_photo_sha256": "263320be9f039393d13206e6edfb8fcdc810acef35c8213df2496aef4fd76a94",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ MTPROTO<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: فنلاند <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87ABF09F87AE.png')\"><b>🇫🇮</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 213ms<br><br><a href=\"?q=%23Proxy\">#Proxy</a> <a href=\"?q=%23MTProto\">#MTProto</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:55 - 1405/06/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/beshkan\" target=\"_blank\">@beshkan</a><br><br><pre>https://t.me/proxy?server=bo0ji.co.uk.&amp;port=443&amp;secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b</pre>",
-      "plain_text": "📂 کانفیگ MTPROTO\n📍 لوکیشن: فنلاند 🇫🇮\n📶 پینگ: 213ms\n\n#Proxy #MTProto\n\n🕒 انتشار: 19:55 - 1405/06/16\n💡 منبع: @beshkan\n\nhttps://t.me/proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-      "media": [],
-      "reactions": [],
-      "views_label": "1",
-      "posted_at": "2026-09-07T20:16:51+00:00",
-      "edited": false,
-      "permalink": "https://t.me/persianvpnhub/58895",
       "reply": null
     }
   ]

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T11:51:33.221Z",
+  "fetched_at": "2026-09-08T11:56:33.272Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229849",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "وزیر امور خارجه مجارستان خبر داد که تصمیم اخراج ۱۰ نفر از اعضای هیئت روسیه در مجارستان، به سفارت روسیه در بوداپست اعلام شده است.<br><br>آنتیا اوربان در شبکه اجتماعی ایکس نوشت بنا بر ارزیابی مقامات مجارستانی، این افراد به فعالیت‌هایی مبادرت داشتند که طبق کنوانسیون وین برای دیپلمات‌‌ها غیرقابل‌قبول است.<br><br>او افزود از مقام‌های مسئول خواسته است که موضوع را به سفارت روسیه اطلاع داده و از افراد موردنظر خواسته شود تا خاک مجارستان را ترک کنند.<br><br>وزیر خارجه مجارستان تأکید کرد که این تصمیم از امنیت و حاکمیت مجارستان محافظت می‌کند و به معنی قطع روابط دیپلماتیک با روسیه نیست.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "وزیر امور خارجه مجارستان خبر داد که تصمیم اخراج ۱۰ نفر از اعضای هیئت روسیه در مجارستان، به سفارت روسیه در بوداپست اعلام شده است.\n\nآنتیا اوربان در شبکه اجتماعی ایکس نوشت بنا بر ارزیابی مقامات مجارستانی، این افراد به فعالیت‌هایی مبادرت داشتند که طبق کنوانسیون وین برای دیپلمات‌‌ها غیرقابل‌قبول است.\n\nاو افزود از مقام‌های مسئول خواسته است که موضوع را به سفارت روسیه اطلاع داده و از افراد موردنظر خواسته شود تا خاک مجارستان را ترک کنند.\n\nوزیر خارجه مجارستان تأکید کرد که این تصمیم از امنیت و حاکمیت مجارستان محافظت می‌کند و به معنی قطع روابط دیپلماتیک با روسیه نیست.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229849",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/iY0v02100YnqocO6rnAMxWEfAIl46UdXXJ_Q3H6VCkgsv7Lai4lEjQLiJx6aXZe1IRAuAqSeMjEtampm9pM5aXZ3osYfwqc4ap9CXT8lIfiphYr_0ssNmTb0_kCKhpOyfr3satnTZQS_aSmiefIRneIM8bMEcrTjJmq9leJYMcAmLF-yzNLNFY6n-XOQdQ4jPxIULUiXTxvLozfel4oHZLDYE0_7ExgvPMMjGSaun8vBAMiqGgWobPnOC40PKR53YpySVo0naBU8ggzTQ_p0Yftvaq5VQglUG_SX_NvHUiKAG8wT9luG9ccCBIRFCajaCsAXuzPZsP8W06aQWhFZvg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/98c5a5e5b1d550a38f3f022f.jpg",
+          "thumbnail_sha256": "cae2d3a7e143e50bf5d05de4359169144f86a81d7148e9d5545236b8d9137acb",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "297",
+      "posted_at": "2026-09-08T11:51:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229849",
+      "reply": null
+    },
     {
       "id": "farsivoa/229848",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "389",
+      "views_label": "589",
       "posted_at": "2026-09-08T11:44:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229848",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "706",
+      "views_label": "905",
       "posted_at": "2026-09-08T11:34:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229847",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "960",
+      "views_label": "1.09K",
       "posted_at": "2026-09-08T11:24:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229846",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.38K",
+      "views_label": "1.47K",
       "posted_at": "2026-09-08T11:08:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229845",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.57K",
+      "views_label": "1.63K",
       "posted_at": "2026-09-08T10:57:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229844",
@@ -161,7 +189,7 @@
       "plain_text": "🔺هشدار استادان دانشگاه مبنی بر اعتصاب از اول مهر و حاضر نشدن در کلاس‌ها\n\n▪️کانون صنفی استادان دانشگاهی ایران هشدار داد اگر قانون ترمیم حقوق اعضای هیئت علمی تا پایان شهریور به‌طور کامل اجرا نشود، از استادان می‌خواهد فعالیت‌های دانشگاهی خود را از ابتدای مهر تعلیق کنند.\n\n▪️بر پایه بیانیه این کانون، تعلیق حوزه‌های آموزشی، پژوهشی، اجرایی و مشاوره‌ای را در بر می‌گیرد و تا اجرای «کامل و بی‌قیدوشرط» قانون ادامه می‌یابد.\n\n▪️در بیانیه آمده است اعضای هیئت علمی پس از دو سال طی شدن مراحل کارشناسی و قانونی انتظار داشتند اجرای قانون بخشی از مشکلات معیشتی آنان را کاهش دهد.\n\n▪️با این حال با گذشت نزدیک به شش ماه از سال ۱۴۰۵، قانون همچنان به‌طور کامل اجرا نشده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195514.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.85K",
+      "views_label": "1.92K",
       "posted_at": "2026-09-08T10:45:08+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229843",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.85K",
+      "views_label": "1.91K",
       "posted_at": "2026-09-08T10:33:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229842",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.93K",
+      "views_label": "2K",
       "posted_at": "2026-09-08T10:26:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229841",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.3K",
+      "views_label": "2.33K",
       "posted_at": "2026-09-08T09:59:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229840",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.45K",
+      "views_label": "2.49K",
       "posted_at": "2026-09-08T09:41:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229839",
@@ -289,7 +317,7 @@
       "plain_text": "🔺نماینده مجلس: تغییر قیمت بنزین «التهاب‌زا» است؛ جایگاه‌ها به مشکل فنی خوردند\n\n▪️پس از افزایش قیمت بنزین آزاد از پنج هزار تومان به ۱۰ هزار تومان، رئیس کمیسیون امور داخلی مجلس شورای اسلامی گفت تغییر قیمت بنزین بدون همراهی مجلس «التهاب‌زا» است.\n\n▪️سهمیه‌های یارانه‌ای تغییر نکرده است. مالکان خودروهای شخصی همچنان ماهانه ۶۰ لیتر با نرخ ۱۵۰۰ تومان و ۵۰ لیتر با نرخ ۳۰۰۰ تومان دریافت می‌کنند. نرخ تازه زمانی اعمال می‌شود که مصرف از مجموع سهمیه‌ها بگذرد یا راننده کارت شخصی همراه نداشته باشد.\n\n▪️همزمان اجرای طرح با مشکل فنی روبه‌رو شد و در جایگاه‌های سوخت مشکلاتی ایجاد کرد. بر اساس گزارش رسانه‌ها، نمایشگرهای جایگاه‌های سوخت چهار رقمی‌اند و رقم ۱۰ هزار تومان روی آنها جا نمی‌شود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195513.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.51K",
+      "views_label": "2.55K",
       "posted_at": "2026-09-08T09:31:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229838",
@@ -317,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.55K",
+      "views_label": "2.62K",
       "posted_at": "2026-09-08T09:17:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229837",
@@ -345,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.76K",
+      "views_label": "2.8K",
       "posted_at": "2026-09-08T09:02:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229836",
@@ -373,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.73K",
+      "views_label": "2.77K",
       "posted_at": "2026-09-08T08:52:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229835",
@@ -389,7 +417,7 @@
       "plain_text": "🔺هاکبی: ممنوعیت تجارت بریتانیا با شهرک‌های اسرائیلی واکنش آمریکا را برمی‌انگیزد\n\n▪️سفیر آمریکا در اسرائیل هشدار داد اعلام ممنوعیت تجارت بریتانیا با شهرک‌های کرانه باختری احتمالاً واکنش آمریکا را در پی دارد. مایک هاکبی به شبکه خبری بی‌بی‌سی گفت «بدون تردید» واکنشی خواهد بود، از جمله در سطح ایالت‌های منفرد آمریکا.\n\n▪️هاکبی افزود این می‌تواند «اثر اقتصادی عظیمی بر کسب‌وکارهای بریتانیایی» داشته باشد، چون برخی شرکت‌ها ممکن است از فعالیت در برخی ایالت‌ها منع شوند.\n\n▪️پیشتر رندی فاین، نماینده جمهوری‌خواه، در شبکه ایکس نوشت: «فلوریدا یکی از بزرگترین شرکای تجاری بریتانیاست. باید بدانند پروژه خودنمایانه‌شان در پشتیبانی از تروریسم مسلمانان می‌تواند میلیاردها دلار برایشان هزینه داشته باشد.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195511.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.79K",
+      "views_label": "2.83K",
       "posted_at": "2026-09-08T08:42:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229834",
@@ -417,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.65K",
+      "views_label": "2.69K",
       "posted_at": "2026-09-08T08:31:45+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229833",
@@ -433,7 +461,7 @@
       "plain_text": "🔺دو وزیر اسرائیلی خواستار اخراج سفیر بریتانیا و تحریم این کشور شدند\n\n▪️بتسلئل اسموتریچ، وزیر دارایی اسرائیل، پس از گزارش‌هایی درباره ممنوعیت تجارت بریتانیا با شهرک‌های کرانه باختری، خواستار اخراج فوری سفیر این کشور شد.\n\n▪️او شامگاه دوشنبه در شبکه ایکس نوشت: «سفیر بریتانیا را همین امشب اخراج کنید! قیمومیت بریتانیا بر سرزمین اسرائیل تمام شده است.»\n\n▪️ایتمار بن‌گویر، وزیر امنیت ملی اسرائیل نیز واکنش متفاوتی نشان داد.\n\n▪️او در شبکه ایکس و به زبان اسپانیایی نوشت: «وقت آن رسیده که دولت اسرائیل علناً به رسمیت بشناسد که جزایر مالویناس سرزمین آرژانتین است.» او از بنیامین نتانیاهو خواست حاکمیت آرژانتین را بپذیرد و «تا زمانی که اشغال ادامه دارد» بریتانیا را تحریم کند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195510.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.85K",
+      "views_label": "2.89K",
       "posted_at": "2026-09-08T08:20:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229832",
@@ -489,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.17K",
+      "views_label": "3.2K",
       "posted_at": "2026-09-08T07:57:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229830",
@@ -2615,34 +2643,6 @@
       "posted_at": "2026-09-07T14:37:29+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229740",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229739",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "سناتور جان کندی از احتمال ادامه درگیری نظامی با جمهوری اسلامی تا انتخابات میان‌دوره‌ای خبر داد",
-      "plain_text": "سناتور جان کندی از احتمال ادامه درگیری نظامی با جمهوری اسلامی تا انتخابات میان‌دوره‌ای خبر داد",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229739",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/nMCYFytKKwUuWLdbYfiBOH968Ilg4SvNwv369Ofma9aMRhEmUUPa4nim3oJqF8Rw9NjKs73p80CaKhj07Y9fbmr55Ib-BnqEbWd98_dSxhNiP60YOSK151dyYmyuFMxeGue80vzjWPXDqhR3iLZb4mF_ADBCuBS8WV4PljiWQ2qB0iLi0SJMLnSUjAOI3yeJRAGPYcunVjQ6vJcXQNFvRUyCZbYRTq9QSpEtlvvDb4ibJTNvt1wogkuHHne-h90i_SEcCSzY1wAD2hI6czoOVgwVNXbnsd4EEWzT2GsOsrnQKlZx9615P4VMFNei7RfuR--MyBC-aH4FLr8ouEWz2A",
-          "thumbnail_path": "channels/farsivoa/media/f1fb38099f0cbed10f73b6f6.jpg",
-          "thumbnail_sha256": "6e0bbd6a82612b523cdad0b63790ccc056627ab794f7ba3171289d79a4001dce",
-          "duration_label": "4:06",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.29K",
-      "posted_at": "2026-09-07T14:31:07+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229739",
       "reply": null
     }
   ]

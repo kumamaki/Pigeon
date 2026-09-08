@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T11:51:34.733Z",
+  "fetched_at": "2026-09-08T11:56:34.765Z",
   "channel": {
     "username": "hranews",
     "title": "خبرگزاری هرانا",
@@ -11,6 +11,34 @@
     "subscriber_count": "31.8K"
   },
   "posts": [
+    {
+      "id": "hranews/115484",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/iZyX_7dy9Du8-YNGCtdMYK3MP5dphPfB1zMaXCNUK8aaaARamz4Ly0CvRtoCcM3-dyXXRK5WX_Sh46_vYKlxQGctH2xTxf7JYZKDegTqeMVeBYAHxut8hrTLcwSVeUa-ZCjEG9Kz6oZ-0SQ9iKaGJN1Cj-2fIoPG4wyomntMR29iluxWEStx7DkF_1cq5ElU5tzftMAZ6xYE047jyvCHZ9Az1sy-Xq3xItrYFJkO7HPnbwf_MpvguP9NlFYRMr0nCnrYtqCi4BgxZQ__GAu9nHAo74NCj6gJ7R8-n_pBnl5RWaqcN-f80J_DUfVycgHq_htQjBCQccv9yYTz4kMK2Q.jpg",
+      "author_photo_path": "channels/hranews/media/294c867d92cda28ca3eef2ff.jpg",
+      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
+      "body_html": "حسین فنودی، نماینده خراسان جنوبی در شورای عالی استان‌ها، با اشاره به کمبود شدید <a href=\"?q=%23%D9%81%D8%B6%D8%A7%DB%8C_%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C\">#فضای_آموزشی</a> در این استان به‌ویژه در مناطق روستایی و مرزی، اعلام کرد نزدیک به ۱۰۰ مدرسه در بیرجند به صورت دو شیفته فعالیت می‌کنند و تراکم برخی کلاس‌ها به حدود ۴۰ دانش‌آموز می‌رسد. وی همچنین می‌افزاید که در بسیاری از مناطق روستایی و مرزی علیرغم وجود ساختمان مدرسه، دانش آموزان از حداقل امکانات آموزشی متناسب با شرایط روز و ظرفیت منطقه، برخوردار نیستند.<br><br>فنودی در خصوص دلیل کمبود فضای آموزشی، به افزایش مهاجرت خانواده ها از روستا به شهر در پی خشکسالی و کمبود آب اشاره کرده و می افزاید: نبود اینترنت مناسب یا عدم دسترسی به گوشی هوشمند در برخی مناطق،  کمبود امکانات آموزشی، مشکلات معیشتی و برخی مسائل فرهنگی و خانوادگی، از عوامل بازماندن دانش‌آموزان از تحصیل شمرده می‌شود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "حسین فنودی، نماینده خراسان جنوبی در شورای عالی استان‌ها، با اشاره به کمبود شدید #فضای_آموزشی در این استان به‌ویژه در مناطق روستایی و مرزی، اعلام کرد نزدیک به ۱۰۰ مدرسه در بیرجند به صورت دو شیفته فعالیت می‌کنند و تراکم برخی کلاس‌ها به حدود ۴۰ دانش‌آموز می‌رسد. وی همچنین می‌افزاید که در بسیاری از مناطق روستایی و مرزی علیرغم وجود ساختمان مدرسه، دانش آموزان از حداقل امکانات آموزشی متناسب با شرایط روز و ظرفیت منطقه، برخوردار نیستند.\n\nفنودی در خصوص دلیل کمبود فضای آموزشی، به افزایش مهاجرت خانواده ها از روستا به شهر در پی خشکسالی و کمبود آب اشاره کرده و می افزاید: نبود اینترنت مناسب یا عدم دسترسی به گوشی هوشمند در برخی مناطق، کمبود امکانات آموزشی، مشکلات معیشتی و برخی مسائل فرهنگی و خانوادگی، از عوامل بازماندن دانش‌آموزان از تحصیل شمرده می‌شود.\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/hranews/115484",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/F-MXrFqQ0f4QUolg5EpGhv3a_N98T_1d0X3n93AczsCwZaS5Xi0T445_uEX-HNhwLdjiS6h6uer1z8WvcinqMrpmD6trJMbhm_UBt6vGSdLV1TU1PkPfJ1yd4nJg6oznirQQC00XvA9y_X75Mgtwa35TBjabUa9MKp0mprUp__L-P9L6jNSx71VYpIa79kx9XgrwTJA1hDafIsr_asQFQAiZn8BA5Z0A7-NDbCu92F6goXNEa6IEZyOgpNf5uI5fDtSzq34uJFPWYKUPcEFe1AXh1NogIziduUlSjRNOm85K4RSWpOUNUS91QyKL_mR2pcwmrw-Zoj-48PPd_5qmhQ.jpg",
+          "thumbnail_path": "channels/hranews/media/8986a13808e3eb25e839425a.jpg",
+          "thumbnail_sha256": "4348d3634feb0183f1faff8facf85b15773aaa78a212a0d9d920c654726b98c5",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T11:55:58+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/115484",
+      "reply": null
+    },
     {
       "id": "hranews/115483",
       "author_name": "خبرگزاری هرانا",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "92",
+      "views_label": "105",
       "posted_at": "2026-09-08T11:40:40+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115483",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "300",
+      "views_label": "312",
       "posted_at": "2026-09-08T10:37:47+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115482",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "355",
+      "views_label": "360",
       "posted_at": "2026-09-08T10:15:43+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115481",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "365",
+      "views_label": "370",
       "posted_at": "2026-09-08T10:03:09+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115480",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "473",
+      "views_label": "477",
       "posted_at": "2026-09-08T08:58:47+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115479",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "562",
+      "views_label": "565",
       "posted_at": "2026-09-08T08:19:39+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115478",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "557",
+      "views_label": "561",
       "posted_at": "2026-09-08T08:01:33+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115477",
@@ -289,7 +317,7 @@
       "plain_text": "یک شهروند در ارومیه بازداشت شد\n\n❗️❗️❗️❗️❗️– فرمانده هنگ مرزی ارومیه از #بازداشت یک شهروند در یکی از ایست و بازرسی‌های این هنگ خبر داد. به گفته وی، فرد بازداشت‌شده با «یکی از گروه‌های مخالف جمهوری اسلامی» ارتباط داشته است.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "831",
+      "views_label": "832",
       "posted_at": "2026-09-07T18:54:45+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115473",
@@ -305,7 +333,7 @@
       "plain_text": "کامران حکمتی، شهروند یهودی دوتابعیتی از زندان اوین آزاد شد\n\n❗️❗️❗️❗️❗️– کامران (یهودا) حکمتی، شهروند ۷۱ ساله یهودی دوتابعیتی ایرانی-آمریکایی و مبتلا به سرطان، از زندان اوین آزاد شد. وی با وجود آزادی همچنان ممنوع‌الخروج است و امکان ترک ایران را ندارد.\n\nادامه مطلب\n\n#کامران_حکمتی (#یهودا_حکمتی)\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "750",
+      "views_label": "752",
       "posted_at": "2026-09-07T18:32:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115472",
@@ -321,7 +349,7 @@
       "plain_text": "مطالبات مزدی و بیمه ای پرستاران دزفول و رانندگان شرکت واحد اتوبوسرانی تهران\n\n❗️❗️❗️❗️❗️– شماری از کارگران و رانندگان شرکت واحد اتوبوسرانی تهران مطالبات بیمه ای پرداخت نشده دارند. همچنین، رئیس سازمان نظام پرستاری شهرستان دزفول اعلام کرد که مطالبات پرستاران این شهرستان همچون شش ماه حق کارانه و سه ماه اضافه کاری، کماکان به آنها پرداخت نشده است.\n\nادامه مطلب\n\n#پرستاران #کارگران\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "734",
+      "views_label": "737",
       "posted_at": "2026-09-07T18:08:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115471",
@@ -337,7 +365,7 @@
       "plain_text": "دستکم ۲۴ تجمع اعتراضی برگزار شد\n\n❗️❗️❗️❗️❗️– امروز دوشنبه ۱۶ شهریورماه، جمعی از بازنشستگان مخابرات در اصفهان، سنندج، کرمانشاه، تبریز، ایلام، مشهد و همدان، گروهی از شهروندان جویای کار در اهواز و شماری از کارکنان شرکت نفت و گاز پارس در دستکم ۱۳ بخش و سکوی دریایی این شرکت واقع در منطقه پارس جنوبی، عسلویه و کنگان، تجمعات اعتراضی برگزار کردند. روز گذشته نیز گروهی از کارگران کارخانه پویا نخ ایلام و شماری از پرستاران در سنندج، با برگزاری تجمع اعتراضی خواستار رسیدگی به مطالبات خود شدند. از سوی دیگر، شهروندان معترض به الحاق مجتمع آموزش عالی اسفراین به دانشگاه بجنورد، دست به تجمع اعتراضی زده‌اند.\n\nادامه مطلب\n\n#تجمع_اعتراضی #بازنشستگان #کارگران\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "944",
+      "views_label": "946",
       "posted_at": "2026-09-07T18:03:14+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115470",
@@ -365,7 +393,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "757",
+      "views_label": "759",
       "posted_at": "2026-09-07T17:36:12+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115469",
@@ -393,7 +421,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "744",
+      "views_label": "746",
       "posted_at": "2026-09-07T17:14:59+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115468",
@@ -409,7 +437,7 @@
       "plain_text": "سنندج؛ فریدون نامداری و شعله روحی توسط نیروهای امنیتی بازداشت شدند\n\n❗️❗️❗️❗️❗️– روز گذشته، یک زوج اهل سنندج به نام های فریدون نامداری و شعله روحی، توسط نیروهای اداره اطلاعات بازداشت و به مکان نامعلومی منتقل شدند.\n\nادامه مطلب\n\n#فریدون_نامداری #شعله_روحی\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "793",
+      "views_label": "795",
       "posted_at": "2026-09-07T16:40:21+00:00",
       "edited": true,
       "permalink": "https://t.me/hranews/115467",
@@ -2309,34 +2337,6 @@
       "posted_at": "2026-09-03T16:19:36+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115381",
-      "reply": null
-    },
-    {
-      "id": "hranews/115380",
-      "author_name": "خبرگزاری هرانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/E6XMXe3o_CzcL-0JIoxNdzrkPEPfcAWQZvY_HIUxIDF9bsEoAiAvMxcLoISkCCEXEtBPz9O0iPkSUpvqPVslQ1sA49I94tvU6WHqj71yBiKyXlmIv1FBCgPFnBRbh3z643OeUoiI-lZnEemgixRWLkK8Lbhl2HLSR11z3w3Jo1AFWH4VbKUk8iNru5vqlhWJMaFQwuOllBBgaE9sq1X2DE140-JX_dZDZ4BCWEd1anZzPSqpw6anx_L01siyZU5L7VjTOXtWbmXATB5S5_dR8L92cDh25VoAALJJySO7z5cUCfEbpHglJrQ9LZEGSBZMBHjpVA1xYemFyyq-qNIafQ.jpg",
-      "author_photo_path": "channels/hranews/media/f6db971fc4d930da7b734a27.jpg",
-      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
-      "body_html": "<b>مجموعه فعالان حقوق بشر، در آلمان شکایت کیفری ثبت کرد و خواستار تحقیق درباره جنایت علیه بشریت در ایران شد</b><br><br><tg-emoji emoji-id=\"4949841734377931796\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A5.png')\"><b>💥</b></i></tg-emoji><tg-emoji emoji-id=\"4949569910192735148\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A5.png')\"><b>💥</b></i></tg-emoji><tg-emoji emoji-id=\"4951885348536844950\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A5.png')\"><b>💥</b></i></tg-emoji><tg-emoji emoji-id=\"4949718000665101122\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A5.png')\"><b>💥</b></i></tg-emoji><tg-emoji emoji-id=\"4951755915402412880\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A5.png')\"><b>💥</b></i></tg-emoji> - در روزهای اخیر مجموعه فعالان حقوق بشر در ایران (مجموعه فعالان)، با حمایت حقوقی سازمان آپرایتز و با مشارکت وکلای آلمانی، شکایتی کیفری به دادستان کل فدرال آلمان ارائه کرد و خواستار آغاز یک تحقیق ساختاری درباره ارتکاب جنایت‌ علیه بشریت محتمل توسط مقامات حکومتی ایران، بر اساس ماده ۷ قانون جرایم علیه حقوق بین‌الملل آلمان (Völkerstrafgesetzbuch – VStGB)، شد.<br><br>این شکایت ۱۰۹ صفحه‌ای حاصل ماه‌ها تحقیقات فشرده است و بر بیش از ۶۰ مصاحبه با قربانیان، شاهدان و اعضای خانواده‌ها در داخل ایران، ترکیه و کشورهای مختلف اروپا و آمریکای شمالی، در کنار مجموعه گسترده‌ای از شواهد اسنادی و دیجیتال، استوار است. مجموعه فعالان همچنین تحلیل دقیقی از سلاح‌های به‌کاررفته، جراحات، افراد مظنون به ارتکاب جنایت، نهادهای مرتبط و ساختارهای فرماندهی که ادعا می‌شود در سرکوب نقش داشته‌اند، انجام داده است. این شکایت همچنین افراد مظنون به ارتکاب جنایت را شناسایی کرده و نقش‌ها، وابستگی‌های سازمانی، ارتباط آنان با وقایع مستندسازی‌شده و جایگاهشان در ساختارهای فرماندهی که به ادعای مجموعه فعالان مسئول این سرکوب بوده‌اند، ترسیم می‌کند.<br><br>مجموعه فعالان حقوق بشر در ایران آگاه است که پیش‌تر نیز از دادستان‌های آلمانی خواسته شده بود درباره جرایم بین‌المللی ارتکاب‌یافته در ایران تحقیق کنند. شکایت حاضر با ارائه شواهد تازه و قابل‌توجه درباره سرکوب آذر تا بهمن ۱۴۰۴ (دسامبر ۲۰۲۵ تا ژانویه ۲۰۲۶) و تشریح تفصیلی مبانی حقوقی و واقعی اینکه چرا آلمان اکنون در موقعیت مناسبی برای اقدام قرار دارد، بر تلاش‌های پیشین استوار شده است.<br><br>آنچه در ادامه می‌آید، نسخه‌ای به‌شدت تقطیع‌شده و نمونه‌وار از یافته‌های مجموعه فعالان حقوق بشر در ایران است که با هدف ارائه گزارشی روشن و قابل‌فهم از شواهد و تحلیل‌های مندرج در شکایت کیفری، در عین حفاظت از شاهدان، روش‌های تحقیقاتی و دیگر اطلاعات حساس، منتشر می‌شود.<br><br>مجموعه فعالان حقوق بشر در ایران تأکید می‌کند که انجام این کار بدون شجاعت و اعتماد کم‌نظیر قربانیان، شاهدان، اعضای خانواده‌ها و کارشناسان — از جمله افرادی در داخل ایران — که طی شش ماه گذشته تجربیات، شواهد و دانش تخصصی خود را با این مجموعه در میان گذاشته‌اند، امکان‌پذیر نبود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i><a href=\"https://www.hra-iran.org/fa/%d9%85%d8%ac%d9%85%d9%88%d8%b9%d9%87-%d9%81%d8%b9%d8%a7%d9%84%d8%a7%d9%86-%d8%ad%d9%82%d9%88%d9%82-%d8%a8%d8%b4%d8%b1%d8%8c-%d8%af%d8%b1-%d8%a2%d9%84%d9%85%d8%a7%d9%86-%d8%b4%da%a9%d8%a7%db%8c%d8%aa/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"> بیشتر بخوانید</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i> <a href=\"https://www.hra-iran.org/wp-content/uploads/2026/09/Farsi-EXECUTIVE-SUMMARY-OF-THE-SEPTEMBER-2026-SUBMISSION-TO-THE-GERMAN-FEDERAL-PROSECUTOR.pdf\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">لینک پی دی اف فارسی</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i><a href=\"https://t.me/hranews/115379\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"> دانلود پی دی اف فارسی از تلگرام</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i> <a href=\"https://www.hra-iran.org/?p=10287\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Read the English version</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i><br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
-      "plain_text": "مجموعه فعالان حقوق بشر، در آلمان شکایت کیفری ثبت کرد و خواستار تحقیق درباره جنایت علیه بشریت در ایران شد\n\n💥💥💥💥💥 - در روزهای اخیر مجموعه فعالان حقوق بشر در ایران (مجموعه فعالان)، با حمایت حقوقی سازمان آپرایتز و با مشارکت وکلای آلمانی، شکایتی کیفری به دادستان کل فدرال آلمان ارائه کرد و خواستار آغاز یک تحقیق ساختاری درباره ارتکاب جنایت‌ علیه بشریت محتمل توسط مقامات حکومتی ایران، بر اساس ماده ۷ قانون جرایم علیه حقوق بین‌الملل آلمان (Völkerstrafgesetzbuch – VStGB)، شد.\n\nاین شکایت ۱۰۹ صفحه‌ای حاصل ماه‌ها تحقیقات فشرده است و بر بیش از ۶۰ مصاحبه با قربانیان، شاهدان و اعضای خانواده‌ها در داخل ایران، ترکیه و کشورهای مختلف اروپا و آمریکای شمالی، در کنار مجموعه گسترده‌ای از شواهد اسنادی و دیجیتال، استوار است. مجموعه فعالان همچنین تحلیل دقیقی از سلاح‌های به‌کاررفته، جراحات، افراد مظنون به ارتکاب جنایت، نهادهای مرتبط و ساختارهای فرماندهی که ادعا می‌شود در سرکوب نقش داشته‌اند، انجام داده است. این شکایت همچنین افراد مظنون به ارتکاب جنایت را شناسایی کرده و نقش‌ها، وابستگی‌های سازمانی، ارتباط آنان با وقایع مستندسازی‌شده و جایگاهشان در ساختارهای فرماندهی که به ادعای مجموعه فعالان مسئول این سرکوب بوده‌اند، ترسیم می‌کند.\n\nمجموعه فعالان حقوق بشر در ایران آگاه است که پیش‌تر نیز از دادستان‌های آلمانی خواسته شده بود درباره جرایم بین‌المللی ارتکاب‌یافته در ایران تحقیق کنند. شکایت حاضر با ارائه شواهد تازه و قابل‌توجه درباره سرکوب آذر تا بهمن ۱۴۰۴ (دسامبر ۲۰۲۵ تا ژانویه ۲۰۲۶) و تشریح تفصیلی مبانی حقوقی و واقعی اینکه چرا آلمان اکنون در موقعیت مناسبی برای اقدام قرار دارد، بر تلاش‌های پیشین استوار شده است.\n\nآنچه در ادامه می‌آید، نسخه‌ای به‌شدت تقطیع‌شده و نمونه‌وار از یافته‌های مجموعه فعالان حقوق بشر در ایران است که با هدف ارائه گزارشی روشن و قابل‌فهم از شواهد و تحلیل‌های مندرج در شکایت کیفری، در عین حفاظت از شاهدان، روش‌های تحقیقاتی و دیگر اطلاعات حساس، منتشر می‌شود.\n\nمجموعه فعالان حقوق بشر در ایران تأکید می‌کند که انجام این کار بدون شجاعت و اعتماد کم‌نظیر قربانیان، شاهدان، اعضای خانواده‌ها و کارشناسان — از جمله افرادی در داخل ایران — که طی شش ماه گذشته تجربیات، شواهد و دانش تخصصی خود را با این مجموعه در میان گذاشته‌اند، امکان‌پذیر نبود.\n\n🟢 بیشتر بخوانید\n\n🟢 لینک پی دی اف فارسی\n\n🟢 دانلود پی دی اف فارسی از تلگرام\n\n🟢 Read the English version\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/hranews/115380",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/YXgg_aj5DLDTahs3gphRsbbB5rlDeV3OzkWjOme8G6SpbwOr_WghWMMlrWLDGq4F6WfuJqlAQxA8b_1Qm9IY1lTF9MsnLhVxPbfcDzTCZSX4D2y2nShJIQ9ZI4qtTeO9S7nJD_KKhJCEhp1ERbiHgA2qUE2t_NxymLCyvMMyz3txSTaj2XSx7OkNqaatCn7wPmVGsGtMhoyzxag1gVSkv_pUg8CgqMsrtUZPZPeBmz-09sFjQBJnd9lGNXfKJ6fx0C_zHAQvZNg4n7bgPQa3kPCOS7YvdZlz35jEtcMDSOeTjaIVDjut2GHIhd4ao2PCCButy2Lx12NqrIsIuOrZ7Q.jpg",
-          "thumbnail_path": "channels/hranews/media/2ac0a25961cf392e07cb83da.jpg",
-          "thumbnail_sha256": "6fa81119915918d94e19696b0404de1d86727569acd1f9dc641266b022ece9e1",
-          "duration_label": null,
-          "aspect_ratio": 1.4134275618374559
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.01K",
-      "posted_at": "2026-09-03T14:14:56+00:00",
-      "edited": true,
-      "permalink": "https://t.me/hranews/115380",
       "reply": null
     }
   ]

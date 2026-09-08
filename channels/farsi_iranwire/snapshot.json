@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T11:51:32.193Z",
+  "fetched_at": "2026-09-08T11:56:32.659Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93482",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Xp1GPjZY4ATloWqym-TkX3n9GYZxWlsZ1JtO4D0neLIWJRuH5wpmbTqs7uCbifzSxmrRAvB4RkQfdU7HCHg5ZE0qJtxdyyg8uwCTr7BFtLRcRte9trFF1imaWTJHRLFCw-X6Q0R2s4gfHibpcPDDqN-O7C-Sip6L5LU3Z2EhTU6d0TOKSgGv2s55eTjDoHnQvCOdmy9lqr40HjmQlQo2zI-H45ezXn7GynL2iQ_JqHbx3G-llmnGay-lX4jOrCLEKVrCnCiMz-GMVGehcWuLYj-lGPFR3ApxgpnjnktzRoSJSY9yrR0I5lAuE0M1bKFShaKBpqnjajGbZEDVTv8FwQ.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a45e25b72ade524afd0808f4.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "شورای هماهنگی تشکل‌های صنفی فرهنگیان ایران درباره احتمال نظامی‌سازی آموزش کودکان در نخستین دبیرستان شبانه‌روزی پلیس هشدار داده و خواستار انتشار برنامه درسی و مقررات این مجتمع شده است.<br>بیشتر: <a href=\"https://iranwire.com/fa/news-1/157323\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157323</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "شورای هماهنگی تشکل‌های صنفی فرهنگیان ایران درباره احتمال نظامی‌سازی آموزش کودکان در نخستین دبیرستان شبانه‌روزی پلیس هشدار داده و خواستار انتشار برنامه درسی و مقررات این مجتمع شده است.\nبیشتر: https://iranwire.com/fa/news-1/157323\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93482",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/eapWfYTkrwYNl0VwC1J1RG6Y0raOzrL5TTVCi1vY6txFUhEAunZtt2b4HzXYTufMDfGNAPle3I3dhYkakC-QlMzPAFpDC4hpZqQbL6G2lEU0wekl598X5NfEAwydV2W27EK9k2pjnm4e0P1QOltp4lUFdU0Or8FfuRsV9Mmi455qqiWTeJi7FFpEoDoXiskF4_yv4tizlvfxTe_zSwDEthhRTCH25ov_oF4n-9Cp-C81n4-jgB6wNbbJ8FPBVQH41B5hwyx_AUtpLb3Vr5itkB1pV6rcpLKlKTuVXCH2MHY1r1DubnIHoLKmREnQEYvo91cxba5GhnIYRBzysLzTKg.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/a1447ec71254835e4ff5f14f.jpg",
+          "thumbnail_sha256": "cc2a9b5f131b81e5083940b8a72b0a92fd173d981fa43c2e6cc20dc31b521b92",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "73",
+      "posted_at": "2026-09-08T11:51:32+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93482",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93481",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "281",
+      "views_label": "316",
       "posted_at": "2026-09-08T11:25:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93481",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "352",
+      "views_label": "388",
       "posted_at": "2026-09-08T11:13:07+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93480",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "598",
+      "views_label": "632",
       "posted_at": "2026-09-08T10:29:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93479",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "704",
+      "views_label": "738",
       "posted_at": "2026-09-08T10:12:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93478",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "698",
+      "views_label": "732",
       "posted_at": "2026-09-08T09:57:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93477",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "802",
+      "views_label": "805",
       "posted_at": "2026-09-08T09:38:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93476",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "890",
+      "views_label": "893",
       "posted_at": "2026-09-08T09:06:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93475",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "936",
+      "views_label": "939",
       "posted_at": "2026-09-08T08:34:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93474",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "945",
+      "views_label": "947",
       "posted_at": "2026-09-08T08:18:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93473",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "767",
+      "views_label": "800",
       "posted_at": "2026-09-08T08:18:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93472",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "825",
+      "views_label": "828",
       "posted_at": "2026-09-08T08:02:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93471",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "934",
+      "views_label": "938",
       "posted_at": "2026-09-08T07:54:35+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93470",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-05T11:02:33+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93380",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93379",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EmUP9mB5rt_E-ktfi7gsZJiU2Vg2Igy7ZYPwCUj5ZBNBwKSs_5STWybgkDUrOJ8Mf21eZIyZX1Az3KyjeThtIqmK00XzVEbMQyr4Rtqm3BijZmsPdRtLDWb7uCAuOYVGfriyYjsEeD9-i5W2gDSuIa3DhMv1wA1h89ViwCSNAsbSBBXCFCCpRLzR03zsSwFJpI2uSI2Ypew-4R4EEINKuBXLsu1m9siY-A0_Db8j3HxwgV0GuSEPB4zv5KfCaNPxjp4EaKGdI-IcXaIBcqZoOpDe26XPYVEQJMiRoikQH4QRpuY3i_p41FKCMmJLQel9Vz2g8emShtFRNit2tEGUQw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/c769a9c378fcf30292902ce1.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "آرتین غضنفری، عکاس خبری و شهروند بهایی، با گذشت بیش از هفت ماه از بازداشت، همچنان در زندان تهران بزرگ نگهداری می‌شود و به‌رغم ابتلا به چند بیماری، از دسترسی به درمان تخصصی خارج از زندان محروم است.<br>خبرگزاری «هرانا»، ارگان خبری مجموعه فعالان حقوق بشر در ایران، خبر داد که این شهروند بهایی همچنان بدون تعیین تکلیف نهایی پرونده در بازداشت به سر می‌برد.<br><br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157189\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157189</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "آرتین غضنفری، عکاس خبری و شهروند بهایی، با گذشت بیش از هفت ماه از بازداشت، همچنان در زندان تهران بزرگ نگهداری می‌شود و به‌رغم ابتلا به چند بیماری، از دسترسی به درمان تخصصی خارج از زندان محروم است.\nخبرگزاری «هرانا»، ارگان خبری مجموعه فعالان حقوق بشر در ایران، خبر داد که این شهروند بهایی همچنان بدون تعیین تکلیف نهایی پرونده در بازداشت به سر می‌برد.\n\nبخوانید: https://iranwire.com/fa/news-1/157189\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93379",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/D5eXwQCCqVrKpEQ9paAkpI-mmCy_NMlkbzObN4QgF45MuGq1axLNk6iMwAjPBOhyWvZ80afxcQS63SXMlLwZT5ndhfzo-hyEjMkzs7I-ookhl73mqgUPqwdupCe1A7MbejFWNzt7eNkTLqd_zLXCzPjHHUi_bs3Ud7rVS4cBh38KrANtQ8Oj0nK0pXuPrZipBIi1RypM2DcpcVIp6zBKg7n5QGx2qpGrFH_uFS9RQV0ZqSKZf1eBid_2G8LJGkIotkyELx9qol09slXtF2At42cUJy_Qxy5IGTuCfpfqft-O3wt04Ce5MBI5Af3z6YOgXgpOtJnhQMjdSdBJrGbIhg.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/6269a740af494ae7e9ea882d.jpg",
-          "thumbnail_sha256": "ad3c26effbca29fe5ebf13bd2225df728122aae3f52a0c1d0a7f87e5d0f85f99",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.15K",
-      "posted_at": "2026-09-05T10:48:10+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93379",
       "reply": null
     }
   ]
