@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-07T23:57:17.202Z",
+  "fetched_at": "2026-09-08T00:02:05.974Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229813",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "وزارت خارجه عراق می‌گوید پیگیر تکرار حملات به «دانشجویان عراقی» در سمنان است<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "وزارت خارجه عراق می‌گوید پیگیر تکرار حملات به «دانشجویان عراقی» در سمنان است\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229813",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Btap6hJoaeeJXEtaS0vEM9PFTDuuF_g8W93QuaUgTQAxcG1Q1iwRHQPm1GffbXErP0imM1048kp31YW38Y6_tptUtQe7b1-LYO-dcqChnu_9LTKAIWB7EeqWh1QIj_JVMWyjItMWrLfDn8ZSfUAHiBO2bMhMZYVKY3s3rH5RIg0y1y-YMMVW9lN-Mu9wuFAdxnxSZJbgp1G0_T5f9YWHO8ACILM3Le-ZxzrEzJKfc3gabNb3E15n-dpsWmJWfpbPjwn5AkI7GfVCpWBParqqd3ce-ZMZqRuM6OOl62BluBX1NZ9a_7LtIB_FsCr8N7s5daQQGt_FuNO_n2E9nCuhWw",
+          "thumbnail_path": "channels/farsivoa/media/fddf552206e3528671f72ed8.jpg",
+          "thumbnail_sha256": "5d65611487537e8ce084d12eaae3ba8445dcd2138fa116cce231adba36e71d5f",
+          "duration_label": "3:24",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T00:01:20+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229813",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229812",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺ترامپ: قیمت نفت کاهش خواهد یافت و جمهوری اسلامی به سلاح هسته‌ای دست پیدا نمی‌کند\n\n▪️دونالد ترامپ، رئیس‌جمهوری آمریکا، دوشنبه شب در شبکه اجتماعی تروت‌سوشال نوشت وقتی در جنگ با جمهوری اسلامی ایران «پیروز شویم، قیمت نفت به سرعت کاهش خواهد یافت.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195221.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "233",
+      "views_label": "279",
       "posted_at": "2026-09-07T23:46:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229812",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "332",
+      "views_label": "376",
       "posted_at": "2026-09-07T23:39:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229811",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "405",
+      "views_label": "446",
       "posted_at": "2026-09-07T23:33:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229810",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "607",
+      "views_label": "646",
       "posted_at": "2026-09-07T23:15:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229809",
@@ -121,7 +149,7 @@
       "plain_text": "🔺جمهوری اسلامی رسماً قیمت بنزین را افزایش داد و نیروهای سرکوب لباس شخصی را در اطراف جایگاه‌های سوخت مستقر کرد\n\n▪️جمهوری اسلامی بامداد سه‌شنبه ۱۷ شهریور قیمت بنزین موسوم به «سوخت سهمیه جایگاه‌ها» را به‌طور رسمی افزایش داد و نیروهای سرکوب را در اطراف پمپ‌بنزین‌ها مستقر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195211.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "745",
+      "views_label": "783",
       "posted_at": "2026-09-07T23:06:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229808",
@@ -149,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "873",
+      "views_label": "907",
       "posted_at": "2026-09-07T22:50:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229807",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.4K",
+      "views_label": "1.43K",
       "posted_at": "2026-09-07T22:18:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229806",
@@ -237,7 +265,7 @@
       "plain_text": "🔺سنتکام مسیر ۹۴ کشتی تجاری را در جریان محاصره دریایی علیه جمهوری اسلامی تغییر داده است\n\n▪️ستاد فرماندهی مرکزی آمریکا، سنتکام، روز دوشنبه اعلام کرد نیروهای آمریکایی تاکنون مسیر ۹۴ کشتی تجاری را در چارچوب اجرای موج دوم محاصره دریایی علیه جمهوری اسلامی تغییر داده‌اند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195203.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.69K",
+      "views_label": "1.7K",
       "posted_at": "2026-09-07T21:49:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229803",
@@ -265,7 +293,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.6K",
+      "views_label": "1.61K",
       "posted_at": "2026-09-07T21:47:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229802",
@@ -293,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.73K",
+      "views_label": "1.74K",
       "posted_at": "2026-09-07T21:39:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229801",
@@ -2567,34 +2595,6 @@
       "posted_at": "2026-09-07T08:50:14+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229702",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229701",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "مطالعه‌ای از دانشگاه تل‌آویو نشان می‌دهد هزار و ۳۷۰ پزشک میان سال‌های ۲۰۲۳ تا ۲۰۲۵ از اسرائیل خارج شده‌اند.<br><br>بر پایه این مطالعه، ۴۱۶ پزشک در سال ۲۰۲۳ و ۵۳۰ پزشک در سال ۲۰۲۴ و حدود ۴۱۹ پزشک در سال ۲۰۲۵ از اسرائیل رفته‌اند.<br><br>ایتای آتر، از پژوهشگران، به روزنامه هاآرتص گفت اقتصاددانان از سال ۲۰۲۳ درباره خروج نیروی ماهر در پی سیاست‌های دولت هشدار داده بودند.<br><br>او افزود روند با اصلاحات قضایی آغاز شد و پس از حمله ۱۵ مهر ۱۴۰۲ حماس و جنگ، وخیم‌تر شد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "مطالعه‌ای از دانشگاه تل‌آویو نشان می‌دهد هزار و ۳۷۰ پزشک میان سال‌های ۲۰۲۳ تا ۲۰۲۵ از اسرائیل خارج شده‌اند.\n\nبر پایه این مطالعه، ۴۱۶ پزشک در سال ۲۰۲۳ و ۵۳۰ پزشک در سال ۲۰۲۴ و حدود ۴۱۹ پزشک در سال ۲۰۲۵ از اسرائیل رفته‌اند.\n\nایتای آتر، از پژوهشگران، به روزنامه هاآرتص گفت اقتصاددانان از سال ۲۰۲۳ درباره خروج نیروی ماهر در پی سیاست‌های دولت هشدار داده بودند.\n\nاو افزود روند با اصلاحات قضایی آغاز شد و پس از حمله ۱۵ مهر ۱۴۰۲ حماس و جنگ، وخیم‌تر شد.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229701",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/SiCiIxI2kSscvJNQwA7pmWXKZ5o1WwX2PgqvGMuXp3U3qnhgYSt8Gnr3Ytfff_Bv-xHf0CXES6fDpA237wwaxiWyGc_YivAKHtkUsOzZBX-rnndQum5f5wiE3PqMps3yLhG7fbhbCWhAk9XeceZb8CtipVcxF9_urrTO7UWLJY2FLAnB9kOfmxOT56bGKVvBQf27zTXmfh6oMEBSDjcaSkPnQ7tXc4C7hegok-vgisnvSXO08UbI85Vz05RBkv0XEuB_as7rFG7Yqb2pmjSfXhutmzniEi6wqjeRY66qj_8-HGROg9RO4oBlDs-ng80u88gyRrEUX_7gwCef-1Kh2Q.jpg",
-          "thumbnail_path": "channels/farsivoa/media/b3815e92d1709d1028727e13.jpg",
-          "thumbnail_sha256": "da0e1668566ae867d331fa36270e2f020ba90503320f3bd631cdc669d9719f6f",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.89K",
-      "posted_at": "2026-09-07T08:33:33+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229701",
       "reply": null
     }
   ]
