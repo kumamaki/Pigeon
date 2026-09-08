@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T19:02:59.751Z",
+  "fetched_at": "2026-09-08T19:06:41.279Z",
   "channel": {
     "username": "mamlekate",
     "title": "مملکته",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "mamlekate/104391",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Ht6o-VBnBZdDCRG1AzNZYrT-lz3PbOgGykA9ARMsoCTlAmh1-8l3WRRQCkEdwTD9UKvi02HFmVDh_950Twzhkh14k_nu-IgL64qzOAVsgiLC3Q_-13VSug6jnt6cHA-9yIVMVf3iU5XHVMtTVqq7WdygBEtDdMhGM8zt2uaF8mtY95q4tkPy_mPXE353vY5C8QEyvXaK3ZjNAmE4rIfsIDyeMQ3--2IkGXVjP0uo8NsU4ZpUPmRYqbsYZ3lQBDzxZ5McWQWJJl_5lgBOr1TB6xUS_4rNWzqcmC-XkoKrP2cTR5ln0vYi9dD1HAz5uc0XIwxI4zDoL0pcruj5E2hauA.jpg",
+      "author_photo_path": "channels/mamlekate/media/8dbc62143f5586df41ba43b1.jpg",
+      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
+      "body_html": "<tg-emoji emoji-id=\"5247176827016847212\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939E.png')\"><b>📞</b></i></tg-emoji> بیشرفای هزار پدری طرف مزدورهای عراقی رو گرفتن که یک زمانی قانون کاپیتولاسیون رو سوژه میکردن که طبق اون قانون باید آمریکایی ها اگر خلافی میکردن طبق قانون کشورشون مجازات میشدن ولی الان برای عراقی و لبنانی و ... شرایطی فراهم کردن که هر جرم و خلافی هم مرتکب بشن بی گناه محسوب میشن و تازه مردم ایران مجرم شناخته میشن!<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
+      "plain_text": "📞 بیشرفای هزار پدری طرف مزدورهای عراقی رو گرفتن که یک زمانی قانون کاپیتولاسیون رو سوژه میکردن که طبق اون قانون باید آمریکایی ها اگر خلافی میکردن طبق قانون کشورشون مجازات میشدن ولی الان برای عراقی و لبنانی و ... شرایطی فراهم کردن که هر جرم و خلافی هم مرتکب بشن بی گناه محسوب میشن و تازه مردم ایران مجرم شناخته میشن!\n\n@mamlekate",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/mamlekate/104391",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/lAvHPi4vFT98KSTI-3WqnxU1s5j4Oc8LRGAsWtmhYItGBayvg-mLEVW0Qbi1EFMM0gXuMuWzkUZbUisrdLTeM4T7nvYqKiGUQe9lI7pQxVxHCrLQmKsfvfnt93DKdhci8-D7io4muBs2-rmDWZEq8gj8a7S3Aj_7M9qjH5_0Ql3C8ABYVUehNwKORHAriCdql5BgxB7TnOWEL-jwlyfCJcDe9hheuSXwelvbGExDfyyWR5S9F8jMAR_reRBn36TvIgCZtuwaBHkAOLkj3TDLRj6srYkH8f0-wHvbWhgUJp6oy2GQ49CMFDGSL9CtCe4L33I4Yl8Dz2FYc2nxO5evrg.jpg",
+          "thumbnail_path": "channels/mamlekate/media/eea0f5829858c906525e320b.jpg",
+          "thumbnail_sha256": "d41650cfe91cd82a10f6bc3b7c6040483e422ae98bc3da6cd64b9bab4d838831",
+          "duration_label": null,
+          "aspect_ratio": 1.0389610389610389
+        }
+      ],
+      "reactions": [],
+      "views_label": "4.24K",
+      "posted_at": "2026-09-08T19:04:47+00:00",
+      "edited": true,
+      "permalink": "https://t.me/mamlekate/104391",
+      "reply": null
+    },
+    {
       "id": "mamlekate/104390",
       "author_name": "مملکته",
       "author_photo_url": "https://cdn4.telesco.pe/file/Ht6o-VBnBZdDCRG1AzNZYrT-lz3PbOgGykA9ARMsoCTlAmh1-8l3WRRQCkEdwTD9UKvi02HFmVDh_950Twzhkh14k_nu-IgL64qzOAVsgiLC3Q_-13VSug6jnt6cHA-9yIVMVf3iU5XHVMtTVqq7WdygBEtDdMhGM8zt2uaF8mtY95q4tkPy_mPXE353vY5C8QEyvXaK3ZjNAmE4rIfsIDyeMQ3--2IkGXVjP0uo8NsU4ZpUPmRYqbsYZ3lQBDzxZ5McWQWJJl_5lgBOr1TB6xUS_4rNWzqcmC-XkoKrP2cTR5ln0vYi9dD1HAz5uc0XIwxI4zDoL0pcruj5E2hauA.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "📝 تحریم ۳۵ شرکت، ایرلاین، نهاد و فرد در ارتباط با صنعت هوانوردی حکومت ایران\n\nدفتر کنترل دارایی‌های وزارت خزانه‌داری آمریکا (OFAC) ۱۷ شهریور ۱۴۰۵ در چارچوب عملیات «طرد اقتصادی»، ۳۶ فرد و نهاد وابسته به جمهوری اسلامی را به دلیل حمایت از بخش هوانوردی حکومت ایران که جمهوری اسلامی از آن برای جابجایی تسلیحات، نیرو و محموله‌های غیرقانونی استفاده می‌کند، تحریم کرد.\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "29.1K",
+      "views_label": "31.9K",
       "posted_at": "2026-09-08T18:00:23+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104390",
@@ -37,7 +65,7 @@
       "plain_text": "📝 وال استریت ژورنال: میلیاردها دلار پول ایران از بانک‌های آمریکا عبور می‌کند\n\nدر حالی که دولت دونالد ترامپ می‌کوشد ایران را از نظام مالی جهانی جدا کند، میلیاردها دلار پول مرتبط با تهران هر سال از حساب‌های تسویه در بانک‌های آمریکایی عبور می‌کند.\n\n\n📝 بریتانیا موسسه «القرض‌الحسن» را تحریم کرد؛ تشدید فشار بر جمهوری اسلامی با تحریم بازوی مالی حزب‌الله\n\nبریتانیا روز سه‌شنبه ۱۷ شهریور ۱۴۰۵ تحریم‌هایی را علیه موسسه «القرض‌الحسن»، مؤسسه مالی وابسته به حزب‌الله لبنان، اعلام کرد\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "58.3K",
+      "views_label": "59.5K",
       "posted_at": "2026-09-08T15:18:10+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104389",
@@ -53,7 +81,7 @@
       "plain_text": "📝 جنجال سیاسی بر سر هشدار امارات به نتانیاهو پیش از ۷ اکتبر\n\nهاآرتص می‌گوید حاکم امارات متحده عربی ۱۰ روز پیش از ۷ اکتبر درباره حمله تروریستی حماس به نتانیاهو هشدار داده بود. دفتر او گزارش را تکذیب می‌کند. مخالفان نتانیاهو خواستار پاسخگویی او شده‌اند.\n\n\n📝 ۱۱ کشور اروپایی و کانادا تجارت با شهرک‌های اسرائیلی را ممنوع یا محدود می‌کنند\n\n۱۲ کشور از جمله بریتانیا، کانادا و فرانسه روز سه‌شنبه ۱۷ شهریور اعلام کردند در پی افزایش حملات شهرک‌نشینان اسرائیلی به روستاهای فلسطینی، تحریم‌هایی را علیه تجارت با شهرک‌های اسرائیلی در کرانه باختری اعمال خواهند کرد.\n\nوزرای خارجه دانمارک، فنلاند، ایسلند، ایرلند، نروژ، لهستان، پرتغال، اسپانیا و سوئد نیز در بیانیه‌ای مشترک اعلام کردند که قصد دارند تجارت با این شهرک‌ها را محدود کنند.\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "59.3K",
+      "views_label": "60K",
       "posted_at": "2026-09-08T15:09:58+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104388",
@@ -81,7 +109,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "59.6K",
+      "views_label": "60.5K",
       "posted_at": "2026-09-08T15:05:35+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104387",
@@ -97,7 +125,7 @@
       "plain_text": "📝 بریتانیا مقررات تازه‌ای برای تشدید تحریم‌های جمهوری اسلامی منتشر کرد\n\nدولت بریتانیا مقررات تازه‌ای برای تشدید تحریم‌های جمهوری اسلامی منتشر کرد. بر اساس این مقررات، دسترسی تهران به نظام مالی بریتانیا محدودتر می‌شود، ممنوعیت‌های تجاری گسترش می‌یابد و اختیارات لندن برای اعمال محدودیت‌های تحریمی علیه کشتی‌ها افزایش پیدا می‌کند.\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "75.1K",
+      "views_label": "75.8K",
       "posted_at": "2026-09-08T12:02:08+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104386",
@@ -136,7 +164,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "93.5K",
+      "views_label": "93.9K",
       "posted_at": "2026-09-08T08:17:10+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104384",
@@ -164,7 +192,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "89.7K",
+      "views_label": "90K",
       "posted_at": "2026-09-08T08:13:25+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104383",
@@ -2797,34 +2825,6 @@
       "posted_at": "2026-08-28T22:38:59+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104259",
-      "reply": null
-    },
-    {
-      "id": "mamlekate/104258",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/JNk3QV6ktW7aq6B9ThpAIjaeLc4VB9kVMPOUpROThYVgNdimmXUH-MHXcnredoLO9ullKe0433ych_LZ-TSk6zR5_gbw3pM0O5LtUeVM92AsPlWlvHgFbEg0KzwV32bNGBMtwmq_L2VWDVwBJkSJPFrkyET5AHMny0W4PoX5zls77OIXvmYq_Byheuzfv1a6gYkp0BNLnf5FFJPLK1CkZts6dCgKkKPHDeCTJEhvKxf5o0sVgrpaye_gJ2N2Y7OzCcMZsSmmlr8ld3o3P4dfyU7DQ7sDnoKAJlEMC-9uVfepjVgGgffUYymbYf6RQqEQ6iSSG3_pvjU_W7lg1947XQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/62bbada503169338d381f9b9.jpg",
-      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
-      "body_html": "متاسفانه تورم ماهانه که بنظر می‌رسید داره کنترل میشه طبق اعلام هر دو منبع گزارش تورم دوباره روند افزایشی گرفته و بنظر هم نمیاد از این اعداد پایینتر رو ببینیم به این راحتی و دوباره روند صعودی تورم شروع شد.<br><br><a href=\"https://x.com/itsmereza/status/2093399574698238376\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">itsmereza</a><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
-      "plain_text": "متاسفانه تورم ماهانه که بنظر می‌رسید داره کنترل میشه طبق اعلام هر دو منبع گزارش تورم دوباره روند افزایشی گرفته و بنظر هم نمیاد از این اعداد پایینتر رو ببینیم به این راحتی و دوباره روند صعودی تورم شروع شد.\n\nitsmereza\n@mamlekate",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/mamlekate/104258",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/bphJIZy4gUuTKj8gqFPRlSsCS2FUkktLbLVadOljwpALFSmgMmooa5htzISffmWb5r1zH-TktECZ-hPxZT3V2be3sFayQCp3zjD1BqbT6Tse3_MrZm9NPuOR5xyU73vUbThTS7gWX8SlnIisftJ3fdNmafpREHG68G50JQCeVPwRAOVcpUubaXOzc_jRbR91sKR87IjrUs2463thwrLXaAUqgYkYKczbma4muJrS0CyERDOBChmCqqFUn-BlqBcauzW93Ytb99bGrjK2WukG83uYfV6X7zz2lr3KfuKtB0wg0Ex8Z0s_IRTEzlWdzJMNyiDIC4X0dcCDxP09_ubFbg.jpg",
-          "thumbnail_path": "channels/mamlekate/media/b6191619f42005ce68e48804.jpg",
-          "thumbnail_sha256": "eff44092e5719ab85b64885301ddba1222165179b3db6f288a0a67bd97cc26e7",
-          "duration_label": null,
-          "aspect_ratio": 2.684563758389262
-        }
-      ],
-      "reactions": [],
-      "views_label": "123K",
-      "posted_at": "2026-08-28T22:34:18+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mamlekate/104258",
       "reply": null
     }
   ]
