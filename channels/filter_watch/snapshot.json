@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T06:03:11.426Z",
+  "fetched_at": "2026-09-08T06:07:05.671Z",
   "channel": {
     "username": "filter_watch",
     "title": "فیلتربان",
@@ -30,7 +30,7 @@
           "count": "2"
         }
       ],
-      "views_label": "569",
+      "views_label": "570",
       "posted_at": "2026-09-06T17:18:06+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1901",
@@ -59,7 +59,7 @@
           "count": "1"
         }
       ],
-      "views_label": "572",
+      "views_label": "573",
       "posted_at": "2026-09-04T12:18:41+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1900",
@@ -96,7 +96,7 @@
           "count": "3"
         }
       ],
-      "views_label": "513",
+      "views_label": "514",
       "posted_at": "2026-09-03T15:38:25+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1899",
@@ -500,7 +500,7 @@
           "count": "2"
         }
       ],
-      "views_label": "972",
+      "views_label": "973",
       "posted_at": "2026-08-19T16:12:01+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1886",
@@ -520,8 +520,8 @@
           "asset_url": "https://t.me/filter_watch/1885",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/LW6McRbFPcl3NIMD6DQSLBL6oNGEoRhpRf0lcWbqkuu2O12zP74JVlna6iJ35BY7XwxoH6VwVhSUew4rSIPExM6hYr8FyZFMr9sNr5ypZ3wkoOxeLysD5bRY2D_JgNgw4lQS7V4fD-zY6NYkdWfNpTYHh5A8AfTZBlO483pFagSxaFjvD3Q36ryI5aVAJwavfRGVgQTqjIcNYlrq2Qnw6a-ejtmZN6tWr9FeRgxG6B_xszFWx4NX4s-NO2rSwvKmWmdCt7Bofs8xzMjAZZ2Ft7CT5iTYJbX27pvvViymWWK6w3ugz_tgbEzX4cm2j85OrXrudempDWaktzTa--uwPQ",
-          "thumbnail_path": "channels/filter_watch/media/1f02de782c4c6f9d52020ee7.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/nO9WwyHmwa97XtrVhoZSCbYIusNbahA8YP3kNH7K2khliHLmKpDAbiON-twVLJMDpkWOLq_KYe12echY1_LnrrQ5uB5twBA8PTrR0g50wM6oabzVYu0C20I5rIaigDlDPbviEKDn-IUj4wR9uR2jBvJIKdP1a5L3HAYdBW8AJeVvcu9zjD60eJndpifZblbx0LGaAAH8CfnL7qjCobOLGVxTtnCRaMpgc_efVQq_tzLk_MneRpGf_9Matdv-s6qQzBy7QNTR4qdOZncX9BKrwnQqPMK_937_VK_H6eWES4kOuLmymFwqivGXzFSKaAuqYO8qI-tgX6k_kO5ewQ1WaA",
+          "thumbnail_path": "channels/filter_watch/media/7b8de88cdf1f6714164fb87f.jpg",
           "thumbnail_sha256": "84ac4d2ce152a6e233722e762f5f2836cb08a4dd9a66fdc01965d7d4ec910c3a",
           "duration_label": "0:16",
           "aspect_ratio": 0.7500000000000188
