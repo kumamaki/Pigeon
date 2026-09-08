@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T22:22:23.157Z",
+  "fetched_at": "2026-09-08T22:24:05.669Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,62 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12755",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l_9ufMfFpJ25r_afGsqRdLe1TBpEdGtQubrLV3heTp0xaKy_3bOMj2CgWrdIc1UpDv6BDR1CUz7LUOwlbGt6cwYajWQXJCUkSLc4mDg8KVE14zTZ9LwGvkwqm71diFwCbH2nViIRdsbm6NTEHx-FPiGHK2If0glqgKIwFN6E3fpPfXG4L5B_8u0lF9SlI9JysGs-RP3ETL5mlmlmj6cRJFK1sNdtj7tP4DYND499o8XinHXPyv-COryBv7foYUzrzsqsk-AuzXwXdGL2-S-fyV30ffZpU_JFFsxZW8baXEnEFumOwn_VcgVB9V_D4tzEEogyHXtPWDrMkW0xK7JN9Q.jpg",
+      "author_photo_path": "channels/iranlix/media/cea36268eb0d26be31369b06.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>تصاویر منتشرشده، لحظه رهگیری آبگرمکن ها را در آسمان منطقه مرزی مشترک سوریه و اردن نشان می‌دهد که در مسیر خاک اردن بودند</b>.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "♦️تصاویر منتشرشده، لحظه رهگیری آبگرمکن ها را در آسمان منطقه مرزی مشترک سوریه و اردن نشان می‌دهد که در مسیر خاک اردن بودند.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/iranlix/12755",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/cq3trYpmaOHpfvVHljmYtP2IgoVCV-X3FIBUUQnHMHJULGaKOKvoBWY3kD55oSAU54CnUjH-Z2v1E5e3dX_F9t8XLOrCJEQUXz3Phc5LsUc1-41HU3GGTGOV3ZsPEq3IvXYguVwC4MuMd07VctRj2DwUHc64w4BvoRzaYvrf9gwf80hek1ILCTNuY1ryG2kQQ3Ee8S4ABcwwySqiW0bqJooGX6exBMErppSK6ArUawxPMnymgwReAiN16twXWtGdaIitFmgLO1Rgno3X6mcGkO4D4UGUpW9VqvtQlvAT4vIcjbODeRiMkTSXof1dfskZkboFz4IdJzxeTUwMIgRAQw",
+          "thumbnail_path": "channels/iranlix/media/01b8f39e9f8d9207f6e180f0.jpg",
+          "thumbnail_sha256": "904ecacd8ec1e47d6d815270ec7263a117bb8efae43c5f81ee9e7408f2105214",
+          "duration_label": "0:23",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T22:23:55+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12755",
+      "reply": null
+    },
+    {
+      "id": "iranlix/12754",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l_9ufMfFpJ25r_afGsqRdLe1TBpEdGtQubrLV3heTp0xaKy_3bOMj2CgWrdIc1UpDv6BDR1CUz7LUOwlbGt6cwYajWQXJCUkSLc4mDg8KVE14zTZ9LwGvkwqm71diFwCbH2nViIRdsbm6NTEHx-FPiGHK2If0glqgKIwFN6E3fpPfXG4L5B_8u0lF9SlI9JysGs-RP3ETL5mlmlmj6cRJFK1sNdtj7tP4DYND499o8XinHXPyv-COryBv7foYUzrzsqsk-AuzXwXdGL2-S-fyV30ffZpU_JFFsxZW8baXEnEFumOwn_VcgVB9V_D4tzEEogyHXtPWDrMkW0xK7JN9Q.jpg",
+      "author_photo_path": "channels/iranlix/media/cea36268eb0d26be31369b06.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>مارکو روبیو، وزیر امور خارجه، درباره ج.ا:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>ج.ا همچنان تلاش می‌کند تا به کشتی‌های جنگی آمریکا حمله کند.و هر بار که این کار را انجام می‌دهد یا تلاش می‌کند انجام دهد، تانکرهای نفتی خود را از دست خواهد داد.به نظر من، شاهد تکرار این اتفاق امروز خواهیم بود.<br></b><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔻مارکو روبیو، وزیر امور خارجه، درباره ج.ا:\n\n🔹ج.ا همچنان تلاش می‌کند تا به کشتی‌های جنگی آمریکا حمله کند.و هر بار که این کار را انجام می‌دهد یا تلاش می‌کند انجام دهد، تانکرهای نفتی خود را از دست خواهد داد.به نظر من، شاهد تکرار این اتفاق امروز خواهیم بود.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/iranlix/12754",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/c_FpAIjb-pFa6JvWzIZ6AaxCnSSA5NndGfU8wz48tUfhzIxz4PdKR2ImLgDT0qxta-GsNsbvF1rD0Ai8NM4q2UUZfC_126cU2Lmv8BrMi_lVXWs3jqelfUwkyxym_iO3e_e5PV7X71Zh3YZtttJJ9eb2J8QJPYlY2YxdQqQIXY3mOiyJ_eZYLWzIIleG0LDT-bu--H-486JoBke2yrwPjY9S2Lc_RZYqomJfq5yHr79zZXqiMyymfcfduYs8WlEYmnHsrr93shgusbLc5haPJBBWzMYF5IL8o-4s1jN_XQXoCVBuv9wgJ8UJSei3sQy3axUEksy0Flu-_yzNlBA5EQ",
+          "thumbnail_path": "channels/iranlix/media/3e3b0597a6fc75e69d13e592.jpg",
+          "thumbnail_sha256": "19057b0ef17de47f39ccf6716877fe872fec09ce0760b2c707ae1b85e1835319",
+          "duration_label": "0:19",
+          "aspect_ratio": 1.1500000000000057
+        }
+      ],
+      "reactions": [],
+      "views_label": "33",
+      "posted_at": "2026-09-08T22:22:34+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12754",
+      "reply": null
+    },
     {
       "id": "iranlix/12752",
       "author_name": "ایرانلیکس",
@@ -44,7 +100,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "128",
+      "views_label": "160",
       "posted_at": "2026-09-08T22:14:07+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12752",
@@ -83,7 +139,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "189",
+      "views_label": "219",
       "posted_at": "2026-09-08T22:10:04+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12750",
@@ -144,7 +200,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "282",
+      "views_label": "283",
       "posted_at": "2026-09-08T22:01:28+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12746",
@@ -172,7 +228,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "337",
+      "views_label": "338",
       "posted_at": "2026-09-08T21:54:46+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12745",
@@ -200,7 +256,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "362",
+      "views_label": "363",
       "posted_at": "2026-09-08T21:52:53+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12744",
@@ -250,7 +306,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "354",
+      "views_label": "355",
       "posted_at": "2026-09-08T21:50:57+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12741",
@@ -306,7 +362,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "597",
+      "views_label": "628",
       "posted_at": "2026-09-08T21:19:32+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12739",
@@ -334,7 +390,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "673",
+      "views_label": "674",
       "posted_at": "2026-09-08T21:09:48+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12738",
@@ -373,7 +429,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "680",
+      "views_label": "681",
       "posted_at": "2026-09-08T21:06:15+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12736",
@@ -3004,62 +3060,6 @@
       "posted_at": "2026-09-06T17:10:05+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12637",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12636",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/P6wlknCu4KydGDASnYIJkSL42jXufROUjwRrm01v7d51p3YBEx4rkQqYs2krFRd4LHxq08mmEy2TgCu4J08n1ZSq4paFfXykL6OUFFjnmHtPmJBtBzfKlwmoLApVk-hNCwoL_o5_BhnH1XV2kRj1D9AC6GrktP5S1x_N6bbjtspXBjUWiGZM-RyGHabxIzRLAK0ahjPnDYjTX3GkA8zCiRKYeBgBZ2IZIJafC1T4hqw3d7cILAqS-xr4k_jJzzVdlQM_10wXECCBz6Ghjgv3P7yq1mMYdKuv0PT6kTc0TA6UOTJAVRnZgMZXVG41AUnWWGzcvDjcbkzyxVcxRpZqtg.jpg",
-      "author_photo_path": "channels/iranlix/media/140d7098768bcd69ed55b2fa.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>نتانیاهو:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i><b>به دشمنانمان می‌گویم: با ما بازی نکنید.در حال حاضر، ملت ما قوی‌ترین قدرت در خاورمیانه است و برخی می‌گویند فراتر از آن.ما به‌طور مداوم تروریست‌ها را در لبنان، غزه و یهودا و سامریا ( کرانه باختری) از بین می‌بریم.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔻نتانیاهو:\n\n🔹به دشمنانمان می‌گویم: با ما بازی نکنید.در حال حاضر، ملت ما قوی‌ترین قدرت در خاورمیانه است و برخی می‌گویند فراتر از آن.ما به‌طور مداوم تروریست‌ها را در لبنان، غزه و یهودا و سامریا ( کرانه باختری) از بین می‌بریم.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/iranlix/12636",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/JZu4z6eYc1ty8n-eIzvpCEy28D3cXyVHOKaqoXLZ7OPYYFrr7SXSdO-ONVLSCLwrbZminKlBM1xlXqnTbGFSE0416rI1uc17WC3K0u4KGVG9NZDEMfQUnH5UtzVPkNqPfcinc63XPfroEfu9MGddGqIf4r-2M77zpjjwU9RlDBqy5W99ko2V4AZ_GH3CvcNyazU290V0lnhwyc6q_u9MpE1Cgj0TtpiKmskWM_YHwfZgso0vQQHBgSM--cwc81dLi-vc_b7C4ePCUu443FaKOvgFhMziPe7HVzkRfrT-PKH-UchQeIEAFi6McbzD2tV-tgbLQzZ-Q9d39MWGYb5oiw",
-          "thumbnail_path": "channels/iranlix/media/ceb86e411d6836841f8d62be.jpg",
-          "thumbnail_sha256": "f2e6c85e9b978e1af6c7709805d21f0fee3a8f44994b0cacdfa8cdc21c822330",
-          "duration_label": "0:22",
-          "aspect_ratio": 1.2000000000000048
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.27K",
-      "posted_at": "2026-09-06T16:37:30+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12636",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12635",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/P6wlknCu4KydGDASnYIJkSL42jXufROUjwRrm01v7d51p3YBEx4rkQqYs2krFRd4LHxq08mmEy2TgCu4J08n1ZSq4paFfXykL6OUFFjnmHtPmJBtBzfKlwmoLApVk-hNCwoL_o5_BhnH1XV2kRj1D9AC6GrktP5S1x_N6bbjtspXBjUWiGZM-RyGHabxIzRLAK0ahjPnDYjTX3GkA8zCiRKYeBgBZ2IZIJafC1T4hqw3d7cILAqS-xr4k_jJzzVdlQM_10wXECCBz6Ghjgv3P7yq1mMYdKuv0PT6kTc0TA6UOTJAVRnZgMZXVG41AUnWWGzcvDjcbkzyxVcxRpZqtg.jpg",
-      "author_photo_path": "channels/iranlix/media/140d7098768bcd69ed55b2fa.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>کریس رایت، وزیر انرژی آمریکا، در گفت‌وگو با سی‌ان‌ان:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>ج.ا همچنان مشکل ایجاد می‌کند، اما نیروی دریایی آمریکا در این نبرد در حال پیروز شدن است.در حال حاضر به‌طور میانگین روزانه بیش از ۹ میلیون بشکه نفت از تنگه هرمز عبور می‌کند و با احتساب خطوط لوله‌ای که این آبراه را دور می‌زنند، جریان انتقال نفت به دو سوم یا بیشتر از سطح پیش از آغاز درگیری‌ها رسیده است.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔻کریس رایت، وزیر انرژی آمریکا، در گفت‌وگو با سی‌ان‌ان:\n\n🔺ج.ا همچنان مشکل ایجاد می‌کند، اما نیروی دریایی آمریکا در این نبرد در حال پیروز شدن است.در حال حاضر به‌طور میانگین روزانه بیش از ۹ میلیون بشکه نفت از تنگه هرمز عبور می‌کند و با احتساب خطوط لوله‌ای که این آبراه را دور می‌زنند، جریان انتقال نفت به دو سوم یا بیشتر از سطح پیش از آغاز درگیری‌ها رسیده است.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/12635",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/JMi_Ch5C3tPmpjyVU_ZkFEWHq5mg7IkxjG-Vmt6KPlbtO3Jo0W1zS5dSHN_uLgEXGX8SazjwFTrP4wLt5ncgNtL3ir7S_xMp-KhmZz2mJ7XrnkHRi_TFP-gWBcG8o2ZqD4nCx8KRruTR9dVG328H-MPKv6gEPi0_BAZ7CHA9xl9rtwFNZBb8IBj1xoinYA_K7_AFCIypkBW_QEN3fUJOGHakWIFU9B7nCKTcafdOf48F764EgSNqMzW-9hJvRYJ1YbMc6y7n_XPswfgIG60zOj4FhF_gLv3CBmtYNz4uKn6QDvwfUdxVAKJkyZVPVLxGBfl0kIi90ruRWPwCpUtkNQ.jpg",
-          "thumbnail_path": "channels/iranlix/media/9f09703497d6b8401b727b55.jpg",
-          "thumbnail_sha256": "b28083d53d66e9589066f5bda1cefce73154bf09b00be1336b2f0ee7280548bf",
-          "duration_label": null,
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.28K",
-      "posted_at": "2026-09-06T16:04:21+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12635",
       "reply": null
     }
   ]
