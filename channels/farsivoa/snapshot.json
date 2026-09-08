@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T06:22:03.009Z",
+  "fetched_at": "2026-09-08T06:27:12.422Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229827",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "قیمت گندم با نشانه‌های ادامه تعهد روسیه به جنگ اوکراین، بیشترین رشد بیش از یک هفته گذشته را ثبت کرد.<br><br>قراردادهای آتی گندم در شیکاگو روز سه‌شنبه تا ۳ و یک دهم درصد جهش کرد و بیشترین افزایش از ۶ شهریور ثبت شد.<br><br>قیمت‌ها هفته گذشته و پیش از گفت‌وگوهای آخر هفته فرستادگان آمریکا با ولادیمیر پوتین افت کرده بود.<br><br>شرکت سی‌آر‌ام اگری‌کامودیتیز در یادداشتی نوشت: «امیدها به دستاوردی واقعی در مذاکرات صلح روسیه و اوکراین در آخر هفته، جای خود را به همان اختلال همیشگی در محموله‌های غله دریای سیاه داد.»<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "قیمت گندم با نشانه‌های ادامه تعهد روسیه به جنگ اوکراین، بیشترین رشد بیش از یک هفته گذشته را ثبت کرد.\n\nقراردادهای آتی گندم در شیکاگو روز سه‌شنبه تا ۳ و یک دهم درصد جهش کرد و بیشترین افزایش از ۶ شهریور ثبت شد.\n\nقیمت‌ها هفته گذشته و پیش از گفت‌وگوهای آخر هفته فرستادگان آمریکا با ولادیمیر پوتین افت کرده بود.\n\nشرکت سی‌آر‌ام اگری‌کامودیتیز در یادداشتی نوشت: «امیدها به دستاوردی واقعی در مذاکرات صلح روسیه و اوکراین در آخر هفته، جای خود را به همان اختلال همیشگی در محموله‌های غله دریای سیاه داد.»\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229827",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/RLjVLhaH9NZbO5uB6SbdCQ3E7evcVHYZe_OMDrt06BY9TE4fAgO7eEwJiudAVlajHIZRNCilnrBkeDaW2T56TFx_co0bAMqDRuadI4a6PRNMJTAnUPsVT-niF6wvVnpTs_yZhV7o0xoZlx_98VY6CNcnKc6t3UIuSY7DVQZuxU6A-Hi-UxDjOahDqGTkbJl6mm064WJ05YOIRetvsAQmK7JZ2qJ6JV39KKoKjvsblai1tVjxhFTdqDPZ-aHG1ruj8FZw9UBA_ZEsThNIY_rdaC4WKVmSdDkBLI8ScMkoRXismugF2ROpQoPsg5GmkcZ2s1dKlTZ7GeaxRgB5_0h7rQ.jpg",
+          "thumbnail_path": "channels/farsivoa/media/ddcf6afec392fe580e8234e4.jpg",
+          "thumbnail_sha256": "0b393f9febf815216818a08cfa150049bae3f69fdbb9fccccb4a2a3d1aaf25ca",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "296",
+      "posted_at": "2026-09-08T06:22:22+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229827",
+      "reply": null
+    },
     {
       "id": "farsivoa/229826",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "457",
+      "views_label": "621",
       "posted_at": "2026-09-08T06:12:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229826",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "772",
+      "views_label": "907",
       "posted_at": "2026-09-08T06:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229825",
@@ -77,7 +105,7 @@
       "plain_text": "🔺نفت با نگرانی از طولانی شدن جنگ گران‌تر شد\n\n▪️قیمت نفت روز سه‌شنبه با افزایش نگرانی از طولانی شدن درگیری خاورمیانه و پس از آنکه جمهوری اسلامی تهدید کرد به هر حمله تازه آمریکا پاسخ می‌دهد، بالا رفت.\n\n▪️بهای نفت برنت ۴۹ سنت بالا رفت و به ۹۷ دلار و ۴۹ سنت در هر بشکه رسید. نفت وست تگزاس اینترمدییت آمریکا نیز با یک دلار و ۴۴ سنت رشد به ۹۲ دلار و ۹۲ سنت رسید.\n\n▪️این تحول در حالی است که بر خلاف تصور جمهوری اسلامی شوک بزرگی از ابتدای جنگ به بازار نفت وارد نشد و هنوز حجم قابل توجهی از نفت از تنگه هرمز عبور می‌کند.\n\n▪️تولیدکنندگان دیگر هم جای خالی نفت خلیج فارس را پر می‌کنند. آمریکا، کانادا و گویانا امسال یک میلیون و ۴۰۰ هزار بشکه در روز به تولید اضافه کردند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195471.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.01K",
+      "views_label": "1.14K",
       "posted_at": "2026-09-08T05:51:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229824",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.13K",
+      "views_label": "1.2K",
       "posted_at": "2026-09-08T05:40:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229823",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.28K",
+      "views_label": "1.35K",
       "posted_at": "2026-09-08T05:30:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229822",
@@ -149,7 +177,7 @@
       "plain_text": "🔺پیشنهاد مصر برای چارچوب امنیتی مشترک عربی در پی حملات جمهوری اسلامی\n\n▪️وزیر امور خارجه مصر، در نشست شورای اتحادیه عرب در قاهره چارچوب امنیتی مشترکی برای کشورهای عربی پیشنهاد کرد.\n\n▪️بنابر گزارش رسانه‌های عربی، بدر عبدالعاطی گفت مصر آماده است با اتحادیه عرب و کشورهای عضو بر سر چارچوبی جامع کار کند که حوزه‌های همکاری، سازوکارهای هماهنگی و رویه‌های واکنش به بحران را تعیین کند.\n\n▪️عبدالعاطی افزود ترتیبات پیشنهادی می‌تواند بر پیمان دفاع مشترک عربی و تصمیم‌های اتحادیه عرب بنا شود، ضمن احترام به حاکمیت و استقلال تصمیم‌گیری کشورهای عضو.\n\n▪️او در همین نشست حملات جمهوری اسلامی به کشورهای عربی را محکوم کرد و همبستگی مصر را با کشورهای خلیج فارس، اردن و عراق اعلام کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195470.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.45K",
+      "views_label": "1.52K",
       "posted_at": "2026-09-08T05:21:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229821",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.52K",
+      "views_label": "1.59K",
       "posted_at": "2026-09-08T05:12:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229820",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.73K",
+      "views_label": "1.8K",
       "posted_at": "2026-09-08T05:01:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229819",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.83K",
+      "views_label": "1.9K",
       "posted_at": "2026-09-08T04:47:11+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229818",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.15K",
+      "views_label": "2.18K",
       "posted_at": "2026-09-08T04:36:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229817",
@@ -289,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.19K",
+      "views_label": "4.22K",
       "posted_at": "2026-09-08T01:29:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229816",
@@ -317,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.8K",
+      "views_label": "3.86K",
       "posted_at": "2026-09-08T01:08:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229815",
@@ -345,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.87K",
+      "views_label": "3.9K",
       "posted_at": "2026-09-08T00:29:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229814",
@@ -373,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.01K",
+      "views_label": "4.04K",
       "posted_at": "2026-09-08T00:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229813",
@@ -389,7 +417,7 @@
       "plain_text": "🔺ترامپ: قیمت نفت کاهش خواهد یافت و جمهوری اسلامی به سلاح هسته‌ای دست پیدا نمی‌کند\n\n▪️دونالد ترامپ، رئیس‌جمهوری آمریکا، دوشنبه شب در شبکه اجتماعی تروت‌سوشال نوشت وقتی در جنگ با جمهوری اسلامی ایران «پیروز شویم، قیمت نفت به سرعت کاهش خواهد یافت.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195221.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.95K",
+      "views_label": "3.98K",
       "posted_at": "2026-09-07T23:46:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229812",
@@ -417,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.51K",
+      "views_label": "3.54K",
       "posted_at": "2026-09-07T23:39:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229811",
@@ -445,7 +473,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.45K",
+      "views_label": "3.48K",
       "posted_at": "2026-09-07T23:33:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229810",
@@ -473,7 +501,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.5K",
+      "views_label": "3.53K",
       "posted_at": "2026-09-07T23:15:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229809",
@@ -2603,22 +2631,6 @@
       "posted_at": "2026-09-07T11:26:16+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229716",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229715",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>جان باختن یکی از معترضان دی ماه در زندان دستگرد اصفهان<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>منابع حقوق بشری از جان باختن عرفان میرزایی، معترضی که در اعتراضات دی ماه بازداشت شده بود، در زندان دستگرد اصفهان خبر دادند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>کمیته آزادی زندانیان سیاسی در ایران، جان باختن این معترض را تأیید کرده، اما اعلام کرد که درباره علت جان‌باختن عرفان میرزایی روایت‌های متفاوتی منتشر شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>به گفته این کمیته، برخی منابع از «اجرای مخفیانه حکم اعدام» خبر داده‌اند، در حالی که شماری دیگر مدعی هستند عرفان میرزایی در بند امنیتی «الف‌طا» زندان دستگرد، دست به خودکشی زده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8195036.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8195036.html</a>",
-      "plain_text": "🔺جان باختن یکی از معترضان دی ماه در زندان دستگرد اصفهان\n\n▪️منابع حقوق بشری از جان باختن عرفان میرزایی، معترضی که در اعتراضات دی ماه بازداشت شده بود، در زندان دستگرد اصفهان خبر دادند.\n\n▪️کمیته آزادی زندانیان سیاسی در ایران، جان باختن این معترض را تأیید کرده، اما اعلام کرد که درباره علت جان‌باختن عرفان میرزایی روایت‌های متفاوتی منتشر شده است.\n\n▪️به گفته این کمیته، برخی منابع از «اجرای مخفیانه حکم اعدام» خبر داده‌اند، در حالی که شماری دیگر مدعی هستند عرفان میرزایی در بند امنیتی «الف‌طا» زندان دستگرد، دست به خودکشی زده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195036.html",
-      "media": [],
-      "reactions": [],
-      "views_label": "2.55K",
-      "posted_at": "2026-09-07T11:18:50+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229715",
       "reply": null
     }
   ]
