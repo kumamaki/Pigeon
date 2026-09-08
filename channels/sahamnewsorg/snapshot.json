@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T21:56:51.452Z",
+  "fetched_at": "2026-09-08T22:02:03.781Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -11,6 +11,22 @@
     "subscriber_count": "217K"
   },
   "posts": [
+    {
+      "id": "sahamnewsorg/147203",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/smAW_InWz98OrCURLxT9xranMh7tpFlLWV8zSZVibheTG3rKNcOtlMDWTt5JD8IaKVnpsx9Ot66idtDLHzf9pnQYniC5FGwhRuBWsCRwCX0-Mj9l4ogp_2OpFW0-A9FLwU-A1UcUeCsCK6kk8Lzo21xN1YNrtRrAlaqGaAofukdu1m0nYvC_OEUKkWfqLcQl6GUi6IfPKF71EHtCCM9lOVBTXeyyryPb6CUPK3qxuAD5Fcji9pxUZDZ-_FOXDtLpAl-nEy9GeiVn2HK7Uy8jQlYyYtABHS0F4acebiApw4Jqs5gekS8pQMwI0M3Fiux_NuY2uT2ctGm-dm4tcnSe8g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/05b9e04486c2e24c97c8a56b.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>شنیده‌شدن صدای چند انفجار در بحرین</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>رسانه عربی «صابرین‌نیوز» بامداد چهارشنبه گزارش داد که در پی موشک‌های ایرانی، انفجارهایی در بحرین رخ داده است.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅شنیده‌شدن صدای چند انفجار در بحرین\n\n🔹رسانه عربی «صابرین‌نیوز» بامداد چهارشنبه گزارش داد که در پی موشک‌های ایرانی، انفجارهایی در بحرین رخ داده است.\n\n@Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "9",
+      "posted_at": "2026-09-08T22:01:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/147203",
+      "reply": null
+    },
     {
       "id": "sahamnewsorg/147202",
       "author_name": "سهام نیوز",
@@ -33,7 +49,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.08K",
+      "views_label": "4.2K",
       "posted_at": "2026-09-08T21:54:33+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147202",
@@ -61,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.27K",
+      "views_label": "7.35K",
       "posted_at": "2026-09-08T21:45:22+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147201",
@@ -77,7 +93,7 @@
       "plain_text": "‏ ️✅حمله به پایگاه‌های موفق‌السلطی و شاهزاده حسن در اردن\n\nگفته می‌شود پایگاه‌های هوایی «موفق السلطی» در منطقه الازرق و «شاهزاده حسن» اهداف حملات موشکی تنبیهی ایران است.\n\nبر اساس گزارش‌ها، ارتش اردن به دلیل ناتوانی سامانه‌های پدافندی آمریکایی، جنگنده‌های نیروی هوایی را برای رهگیری موشک‌های بالستیک ایرانی به پرواز درآورده است.\n‎ @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "7.3K",
+      "views_label": "8.38K",
       "posted_at": "2026-09-08T21:42:43+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147200",
@@ -93,7 +109,7 @@
       "plain_text": "✅العالم: همزمان با شلیک چندین و چند موشک از نقاط مختلف ایران، صدای چند انفجار در اردن شنیده شده است.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "9.39K",
+      "views_label": "10.4K",
       "posted_at": "2026-09-08T21:35:56+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147199",
@@ -109,7 +125,7 @@
       "plain_text": "✅شلیک گسترده موشک بالستیک از شهر های اصفهان، یزد، خمین، تبریز، خرم آباد و شهر کرد\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "10.4K",
+      "views_label": "11.5K",
       "posted_at": "2026-09-08T21:33:28+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147198",
@@ -125,7 +141,7 @@
       "plain_text": "✅خبرنگار صداوسیما: دقایقی قبل نیروهای آمریکایی به یک فروند شناور تجاری در آب‌های ساحلی شهرستان جاسک حمله کرد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "13.7K",
+      "views_label": "14.8K",
       "posted_at": "2026-09-08T21:21:34+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147197",
@@ -141,7 +157,7 @@
       "plain_text": "✅آسوشیتدپرس: آمریکا و کشورهای E3 (بریتانیا، فرانسه و آلمان) رسماً قطعنامه خود علیه ایران را به شورای حکام آژانس بین‌المللی انرژی اتمی ارائه کردند.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "15.5K",
+      "views_label": "16.5K",
       "posted_at": "2026-09-08T21:15:04+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147196",
@@ -169,7 +185,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.2K",
+      "views_label": "22.2K",
       "posted_at": "2026-09-08T20:56:06+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147195",
@@ -213,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.6K",
+      "views_label": "24.6K",
       "posted_at": "2026-09-08T20:39:46+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147193",
@@ -273,7 +289,7 @@
       "plain_text": "✅‏ آنچه از ۷ اکتبر از کارشناس‌های بیسواد و کودن در (رسانه ملی) و برخی مسئولان شنیدیم و تمام این تئوری‌ها اشتباه از آب درآمدند:\n\n۱. آمریکا درگیر جنگ اوکراین است و به کمک اسرائیل در جنگ غزه نخواهد آمد؛ اما آمد!\n\n۲. اسرائیل اگر زمینی به غزه حمله کند شکست خواهد خورد زیرا جنگ زمینی تله برای اسرائیل است؛ اما نشد!\n\n۳. اسرائیل توان حمله به حزب‌الله را ندارد، چون حزب‌الله حماس نیست؛ اما حمله کرد!\n\n۴. حمله زمینی به لبنان غیرممکن است، چون توان چنین کاری را ندارند؛ ولی پیش‌روی چشمگیری کرد!\n\n۵. اسرائیل جرات حمله به ایران را ندارد؛ اما حمله کرد!\n\n۶. آمریکا با اسرائیل در حمله به ایران همراه نخواهد شد؛ اما همراه شد!\n\n۷. در صورت بسته شدن تنگه نفت به بالای ۱۰۰ و ۲۰۰ دلار خواهد ماند؛ ولی نماند!\n\n۸. باب‌المندب بسته شود نفت به ۴۰۰دلار خواهد رسید؛ ولی نرسید!\n\nو زمستان سخت در اروپا، کمبود غذا در امارات، اختلال انرژی در غرب و...\n\nکشور درگیر تئوری‌هایی است هرگز درست ازآب درنیامدند!\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "31.1K",
+      "views_label": "32.1K",
       "posted_at": "2026-09-08T20:10:06+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147190",
@@ -333,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.1K",
+      "views_label": "34.1K",
       "posted_at": "2026-09-08T19:49:58+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147187",
@@ -349,7 +365,7 @@
       "plain_text": "✅قالیباف:در صورت حمله به نفتکش های ایران،\nبه شرکت های انرژی آمریکا در منطقه حمله خواهیم کرد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "34.2K",
+      "views_label": "35.2K",
       "posted_at": "2026-09-08T19:43:21+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147186",
@@ -386,7 +402,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35K",
+      "views_label": "36K",
       "posted_at": "2026-09-08T19:38:47+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147185",
@@ -2295,31 +2311,6 @@
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147103",
       "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147102",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/642684be024870091c2036fb.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>رضایی دبیر شورای‌عالی‌ امنیت ملی:به اندازه کافی ذخایر کالاهای اساسی داریم<br><br>ما در همین فرصتی که محاصره در مذاکرات برداشته شد 70 تا 80 میلیون بشکه نفت فروختیم و پولش هم رسیده است<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>پ ن: برخلاف گفته رضایی اقایان پزشکیان و همتی اعلام کرده اند که یک قطره نفت نمی توانیم بفروشیم<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅رضایی دبیر شورای‌عالی‌ امنیت ملی:به اندازه کافی ذخایر کالاهای اساسی داریم\n\nما در همین فرصتی که محاصره در مذاکرات برداشته شد 70 تا 80 میلیون بشکه نفت فروختیم و پولش هم رسیده است\n\n🔻پ ن: برخلاف گفته رضایی اقایان پزشکیان و همتی اعلام کرده اند که یک قطره نفت نمی توانیم بفروشیم\n\n@Sahamnewsorg",
-      "media": [],
-      "reactions": [],
-      "views_label": "59.2K",
-      "posted_at": "2026-09-06T19:19:29+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147102",
-      "reply": {
-        "channel_username": "sahamnewsorg",
-        "post_id": "146398",
-        "author_name": "سهام نیوز",
-        "preview_text": "✅وضع مردم می تونه بدتر هم بشه همتی: نفت ما الان صادراتش تقریباً قطع شده ...وضع مردم می‌تونه بدتر هم بشه ... در یک چارچوبی قرار گرفتیم پر از محدودیتها حل این معادله‌ای که چند تا مجهول داره خیلی سخت است ما ۵ تا چیز با هم داریم تحریم حداکثری محاصره ، قطع صادرات…",
-        "thumbnail_url": "https://cdn4.telesco.pe/file/SMO5FV1muxfacUkR_eydbHvI8IAOg-W0CxD183G0FgQgY38Z0mQMUPCwVUS7CMQT-XDa0vtMweQNefWjax8mDuzGCCdLCxZH5hoQ01erACVY2brtVa3Auc1YOT3PGVSg6XPDvUnwmd1C3_GWH9Xxo3fpZV2XDxVXbr5m-wJo4FKUloFNrB6tRACK2lQ_6di18XVCqxWkUnd-l-MbdEM4ywQhvyBkKfwCKpIXd8FBDtNobNnTzlV1lAo00In1ppF2JnupTCrRb0fK9N1--uSXwkZu8kjg4FR7aSxjFmGperVE3rR6nIpZvl6AnOMDtPnziO3N038Y-uBuVaqAKbD_fA",
-        "thumbnail_path": "channels/sahamnewsorg/media/a33d59593a166785855ec1d4.jpg",
-        "thumbnail_sha256": "b22f5d54e6ebf748eb8e4bedf7b25c7373790c9b9d051bacbad5cf0684925a49",
-        "permalink": "https://t.me/sahamnewsorg/146398"
-      }
     }
   ]
 }
