@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T16:32:19.088Z",
+  "fetched_at": "2026-09-08T16:36:41.700Z",
   "channel": {
     "username": "no_itsmyturn",
     "title": "Aleph (no_itsmyturn)",
@@ -210,8 +210,8 @@
           "asset_url": "https://t.me/no_itsmyturn/110842",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/f8B3qMNI5fNuWQ0o3PLJtHXiog-biG0sC8PkBQz7HlffmHnoiCrx05vCYEqGoPu8pwO_4gOtVin3v_ppJsXP-oLGnbQ6WdaAJzn2Ic-NN6TfKBxDMfk73L5oy2PMgz9El1rLgNS9BjSZ6FDTpny8WCa78PgUmmNYgKUGsmMJ9XGHM4hVX-X0qmYcl6vg1OgQxvklliqrUyupsErFQbV_sqz2L1PKkq-d0SCcz8jP-6RmBvJaQkzxdHB0eXdcoUFAGNSbRWLKqBVwbMltkaMWqdLUQa5ndyeBsRKKNtBPC1oiK82NQqxlhQx8vBQ58RYwNT31O-EtG5I96b9wR770KQ.jpg",
-          "thumbnail_path": "channels/no_itsmyturn/media/4814e5da80ab609a495b0c87.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/BdKaETlx-TvxeF1rOiAsYnZ7dyUzBWNQensHKKl2mlf8DomAKEloSGICyEIfkQ7Bb4bqBSrp6fk7EpNY0WC0D_sXxqmFkiHlNPcLuZCniAyMMfGtfirDYKsU5As9tDlbzJ432wiR8wAv_fFjVYtWYhKPpVXEtmGwBj0m7KB_j_tV-eAccNgz84aCtdkb0FLp-zosZV88k0lwYtvLUa6wcBokEj9POlKiLfO6Ri9tICqVqiSF48NbpsLU2Dg3fH2cScALd4ObHCchfWCc7XDLwn7fZS2hI4ipJfiA3a3rVhZZ9Nc3ISFZG6W_5cpt2uO0HtakcbbIZM1p7KKxz0uZdQ.jpg",
+          "thumbnail_path": "channels/no_itsmyturn/media/9b19c02450648e39609624d0.jpg",
           "thumbnail_sha256": "93556f89401a11d87bb13ce3c68869b08709914adf8bdc964c7d9ed8eb43e2b0",
           "duration_label": null,
           "aspect_ratio": 0.7975000000000035
@@ -247,8 +247,8 @@
           "asset_url": "https://t.me/no_itsmyturn/110841",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/XT20oZITU_kCZ5Fe2tF_uKjLn-RprHmlt_S7TAY0omgVE8715mvhxjeG0scXH3MZ7LxMDEXhmVd1CjqEvTgcFWld-XLl0_f00SGzBml5iBgZZZNLbYMhafyLEAzfyytmfJ91KRbGtf4c_XuB5G847VlD5900GKim109f3-tkXR4zhWLFK95kKlXMsj0yhYO9Hm3B325IR66cmAMVFBIKuSvKD6qQAT1dfoXsXipimcVKUTLkSOcPYrSDYlPRj9XC1EtKwbFu8iQ7j7MMmbhDXNILyBA9gDJ63SQKdQ4seNm_wIuWbxqFkX55wsnSYEWGBPW5DXlklYx55wod1GOuyQ.jpg",
-          "thumbnail_path": "channels/no_itsmyturn/media/f2a8b73e9bb95558ec4bd65e.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/JeYj7GJ5vIeG1S8grkV_O9o7biFLC2WKpEtzdP0_XEVLkhc6YdC6yLKPPFc4Q9YhMVIcrFR__EknZRPLjjKbSSYjbH8c8LBzl1FfSnU1Ou8wfMO_YDh62LhMFEgfYM5c2PkHAKHB2WByITmhLqfoiwFkJgF08jUmWNMTauvZ0iO-XT5qiZJM36fOwtZMaEzZ0DOOSUpatCv7FTenCu6aWOq1949Wgmk21uDHqnIP_l-tlkXYuYT2QI1vOIAqz06NdSHnF8PPWvz1-hzY0D8F9n7-Tr-Mu9AmqwYyJIy3LqSQRGFNcnJwaFkglDd0Uh6lqekm6HVWgeryrpYpMYbciA.jpg",
+          "thumbnail_path": "channels/no_itsmyturn/media/1495e456fc91b5ef2e6452df.jpg",
           "thumbnail_sha256": "06472da0bfa5abbb18ccd39a6c02fe38b8a630a528c023f658b1f1b8ed6594ae",
           "duration_label": null,
           "aspect_ratio": 1.9753086419753085
@@ -322,8 +322,8 @@
         "post_id": "110839",
         "author_name": "Aleph (no_itsmyturn)",
         "preview_text": "Kahaleh, people holding \"Resistance against the Iranian occupation\" banner #Lebanon 🇱🇧 TWEET LINK",
-        "thumbnail_url": "https://cdn4.telesco.pe/file/SAvhMmasFB91qCfbRFJefh9yYT5JmGeUKPxOMBuXhD7CPtBRDQrDEmoYWWu96wxz4FDbNfV8sJhAwfbe0XPuyKWde3wi_Nr8uBoa8IK5wa-P-K1G2AJaVaanmvmEkX5xQlaUwo0dTNrQdk_U7xXF_r23ti96gfg55mH78L0CBl8LMjs6rG8YbiQLoXqKe2jZMfEEWZbSxo8r4AWejgIimYneWfnbko7QodgaaWoRJFmIAmDpdGAq2tN5zdixowMXV_OLn5mHaggtT4Pq1UsyS-hWOw3WcVyRHkBM76bGFVYe8WK-qRIAE3B-72MuFcgCwI5wdXpno3lKFU0AQfA8fA.jpg",
-        "thumbnail_path": "channels/no_itsmyturn/media/06dc5048f61ccae94009ec37.jpg",
+        "thumbnail_url": "https://cdn4.telesco.pe/file/FEJFLjxT6C7cGrYee4OHvD8qlS_xG-kmEXS_9pm9o3AgZvkLjsvVVT4wHgCo3E89bzJtbv7GVxpXaV4KV4ikUxfiAVY6bb7NC_HMEb1ZcF8G1mDgRtzvLROGdVFcShrVXeX1bf6W2YZ6Q0Yif52bLLsonCm4sBulUd9OU1anTw2-Sx7hF0aZZy56cHYDeTUOOQVjiNKiH4irLhuDZnOK638Vgp-mye2REpNxv8IcShjKWt4SY_9Betq8MQu1oKwo8fk0jnFBEk1qNEUl0SUdQ8xPOgAFW2AAwNBiFeHhtkcKkdV4Elz6RVlVzdhR2wg8d22VR-ohuvufCdcglRDfXw.jpg",
+        "thumbnail_path": "channels/no_itsmyturn/media/567cc885126e2f0c4671f70f.jpg",
         "thumbnail_sha256": "b16a8355cb348b8b2e2bde9fa64792ec796d2871ae4b571a72865e182ee4d4e5",
         "permalink": "https://t.me/no_itsmyturn/110839"
       }
@@ -342,8 +342,8 @@
           "asset_url": "https://t.me/no_itsmyturn/110838",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Y2XLmPxKUGY-JBibqIc_3z9t2IBwDkp2VGMwJF6DMgLSVnEZTuIybuwXru9SH-0wLmEjvKe4tTQOdqrdAMiH1p4AmWLvSCw6yWJBKXoP3SdBg857QODpwBUBTfxP88eqZpN2CUDgN-c7neZot4Md9Lw2aEGEdl4bw813RvC9jTCfUDdq2YIKG5lRsrr9tk0JsbLpFYP50MiY0WltRoAaNYSRJKk8ewydgq53OruNq6JGt0uDsydlc_JW4LTjYoOFrn5sE2CHi4az_xD-PtXlEuU2HdMSMhH9yjI3ZcYSwLSZPOV7WN8k1YXzpifc6HV7rjMkbaqpBn4GFF00tzuAcg.jpg",
-          "thumbnail_path": "channels/no_itsmyturn/media/71c949795900b48926338a45.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/aBbSdCGQRb1vDWr2l3o8RQn3g7Ru6oxSFErQ4_-jDukxxKWyHEbznMkqmNvnOLBGU5Vuv7hIzlbestEakp1wnkkwwC1wmpxmbzNMcOJgmPVN8G6AVQHipPtm8WYJevDsl2kWEjP2bmfBjKIfpK2h13STQkvS204IgAWYKund3lfM-dCd9DeJ0uWOpmCBhZo8wiF4J7HZ-pk31OMihYaXEocEP_hi-BBKkVKEmaoJUl0bAL4aULZbuXp3ef4DKfsIfEmkhH5jMe-ZxcbdccIyvYlIyeyjTBHtYFBet_Sri_z0J-bSv3jlx3NUHwW4Ocbc4tBKHdwyfBzoWPIVHnFU9g.jpg",
+          "thumbnail_path": "channels/no_itsmyturn/media/8708a071a5a6c4566f8307e1.jpg",
           "thumbnail_sha256": "933a5db704e95a6c781ea6ee8637cb843516e5dd6aae4299a5c04b335dcd5959",
           "duration_label": null,
           "aspect_ratio": 0.7500000000000188

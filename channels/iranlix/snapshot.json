@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T16:32:16.870Z",
+  "fetched_at": "2026-09-08T16:36:40.150Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,62 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12721",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l_9ufMfFpJ25r_afGsqRdLe1TBpEdGtQubrLV3heTp0xaKy_3bOMj2CgWrdIc1UpDv6BDR1CUz7LUOwlbGt6cwYajWQXJCUkSLc4mDg8KVE14zTZ9LwGvkwqm71diFwCbH2nViIRdsbm6NTEHx-FPiGHK2If0glqgKIwFN6E3fpPfXG4L5B_8u0lF9SlI9JysGs-RP3ETL5mlmlmj6cRJFK1sNdtj7tP4DYND499o8XinHXPyv-COryBv7foYUzrzsqsk-AuzXwXdGL2-S-fyV30ffZpU_JFFsxZW8baXEnEFumOwn_VcgVB9V_D4tzEEogyHXtPWDrMkW0xK7JN9Q.jpg",
+      "author_photo_path": "channels/iranlix/media/cea36268eb0d26be31369b06.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>پرستاران کرمانشاه امروز با شعار: «میگیم حقوق نداریم، می‌رید پلیس میارید.» دست به اعتراض زدند</b>.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "♦️پرستاران کرمانشاه امروز با شعار: «میگیم حقوق نداریم، می‌رید پلیس میارید.» دست به اعتراض زدند.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/iranlix/12721",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/vIHn6KPmKqETlCv-7HXFF3x3T-ZKASRKcrPSNgqAT5JvFHwH7LkxyH2YiaNROej5mwQ8vprJ4Fb_BnSfKYxckB4FSA8m3rrRoWSycioPS-YLEXY30RD2QXoM1Hsm0WCUP9x0KmnqiNyAO2aDxGqGCHKKQNin_B1dNQj_9AWFOzibeErdwinQPPf6OlrD5Pq_Qp91RlzhtHJTGGqczrh3jY136ZqNh1NUTScykoJ87QSijQqGqQcPS8KZxKMHCYyG-kT6_rgr5uAeUcRZHLfGaNkO5Q3Fifl94rVn2TyH6NSxeMjLVN7xu6xUHWIX7_Sb6_rZfvXUMmgBDCzO_AW0EQ",
+          "thumbnail_path": "channels/iranlix/media/bb09d21bb7342cd1e8e59880.jpg",
+          "thumbnail_sha256": "d11df8c4d26cc3a4e6675976d67af46b94fff70b1da0e8728751c9f53348b121",
+          "duration_label": "0:08",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T16:35:52+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12721",
+      "reply": null
+    },
+    {
+      "id": "iranlix/12720",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l_9ufMfFpJ25r_afGsqRdLe1TBpEdGtQubrLV3heTp0xaKy_3bOMj2CgWrdIc1UpDv6BDR1CUz7LUOwlbGt6cwYajWQXJCUkSLc4mDg8KVE14zTZ9LwGvkwqm71diFwCbH2nViIRdsbm6NTEHx-FPiGHK2If0glqgKIwFN6E3fpPfXG4L5B_8u0lF9SlI9JysGs-RP3ETL5mlmlmj6cRJFK1sNdtj7tP4DYND499o8XinHXPyv-COryBv7foYUzrzsqsk-AuzXwXdGL2-S-fyV30ffZpU_JFFsxZW8baXEnEFumOwn_VcgVB9V_D4tzEEogyHXtPWDrMkW0xK7JN9Q.jpg",
+      "author_photo_path": "channels/iranlix/media/cea36268eb0d26be31369b06.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>امروز عده ای در اصفهان علیه بی‌ حجابی تظاهرات را شروع کردند و خواستار بازگشت گشت ارشاد و اجرای قانون اجباری حفظ حجاب شدند</b>.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "♦️امروز عده ای در اصفهان علیه بی‌ حجابی تظاهرات را شروع کردند و خواستار بازگشت گشت ارشاد و اجرای قانون اجباری حفظ حجاب شدند.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/iranlix/12720",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/mVJRpfGHHYY8EVjsOwvLWzdlBbu6dDYvMeUvH0_3XwlBVs6hJUShhqCuLIRACG0eLX1aXe3GU5mkStOLIiE_JweUcwpAoueJMWI_VHc-Vz6y_a1sJZGa7PplFEtWHXpYbwOuXnpRhJfk-vBDKfIdJx5fkIC_79Ur5VDq_lgtpBGViLCmjw2Q_DDpvmYnTV-EnbiR-TEkQo66jNK6FmM7HNEfNsW8r3FdzQB8MsEfUuw2Fe_-JwiA-6o6XBGhzlFBA5vCRj2Xa5EQ0ziO3g_XSOEl0vYzsjM7ZDNCe8kJLPqQv5yTumynfuFusWnHI6MyvPgyXS9pcifTJpQBcS3oVw",
+          "thumbnail_path": "channels/iranlix/media/71796ad423b258ece4b02083.jpg",
+          "thumbnail_sha256": "6c671838c0b47f6bf4361a793d5f067b457e5664b5439bb9e7894b032f35b164",
+          "duration_label": "0:23",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "47",
+      "posted_at": "2026-09-08T16:34:09+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12720",
+      "reply": null
+    },
     {
       "id": "iranlix/12719",
       "author_name": "ایرانلیکس",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "192",
+      "views_label": "241",
       "posted_at": "2026-09-08T16:13:45+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12719",
@@ -61,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "352",
+      "views_label": "384",
       "posted_at": "2026-09-08T15:46:59+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12718",
@@ -89,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "729",
+      "views_label": "743",
       "posted_at": "2026-09-08T14:00:08+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12717",
@@ -117,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "787",
+      "views_label": "800",
       "posted_at": "2026-09-08T13:30:39+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12716",
@@ -145,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "818",
+      "views_label": "828",
       "posted_at": "2026-09-08T13:03:26+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12715",
@@ -173,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "873",
+      "views_label": "884",
       "posted_at": "2026-09-08T12:27:25+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12714",
@@ -234,7 +290,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "871",
+      "views_label": "878",
       "posted_at": "2026-09-08T11:59:16+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12710",
@@ -262,7 +318,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "935",
+      "views_label": "940",
       "posted_at": "2026-09-08T11:13:48+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12709",
@@ -290,7 +346,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "998",
+      "views_label": "1K",
       "posted_at": "2026-09-08T10:32:14+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12708",
@@ -318,7 +374,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "985",
+      "views_label": "989",
       "posted_at": "2026-09-08T10:28:29+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12707",
@@ -346,7 +402,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "988",
+      "views_label": "993",
       "posted_at": "2026-09-08T10:21:59+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12706",
@@ -390,7 +446,7 @@
       "plain_text": "آی مردم! اگه با برادران گمنام موسی 🇮🇱 ارتباط دارید بهشون بگید : این قیچک بچه های لانچر و مانچر... جرات ندارن سمت اسرائیل حتی یک ریگ پرت کنن. ندارن آقا! مثل سوسک که از امشی میترسه، میترسن!\nولشون کنین. اینکاره نیستن، فقط 💩 تناول میکنن!\nتمام فرماندهاشونم که سقط کردین، کسی نمونده! فک کردید محسن چپ چُس (رضایی) یا اون یکی مجید قشنگ (موسوی)‌یا مجتبی جرات دارند؟\nنــــــــــــدارن، باباشونم نداره!\n\n@iranlix",
       "media": [],
       "reactions": [],
-      "views_label": "970",
+      "views_label": "974",
       "posted_at": "2026-09-08T09:35:51+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12704",
@@ -427,7 +483,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "987",
+      "views_label": "993",
       "posted_at": "2026-09-08T09:22:50+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12703",
@@ -455,7 +511,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "961",
+      "views_label": "969",
       "posted_at": "2026-09-08T09:21:25+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12702",
@@ -2905,62 +2961,6 @@
       "posted_at": "2026-09-06T05:19:36+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12612",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12613",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/P6wlknCu4KydGDASnYIJkSL42jXufROUjwRrm01v7d51p3YBEx4rkQqYs2krFRd4LHxq08mmEy2TgCu4J08n1ZSq4paFfXykL6OUFFjnmHtPmJBtBzfKlwmoLApVk-hNCwoL_o5_BhnH1XV2kRj1D9AC6GrktP5S1x_N6bbjtspXBjUWiGZM-RyGHabxIzRLAK0ahjPnDYjTX3GkA8zCiRKYeBgBZ2IZIJafC1T4hqw3d7cILAqS-xr4k_jJzzVdlQM_10wXECCBz6Ghjgv3P7yq1mMYdKuv0PT6kTc0TA6UOTJAVRnZgMZXVG41AUnWWGzcvDjcbkzyxVcxRpZqtg.jpg",
-      "author_photo_path": "channels/iranlix/media/140d7098768bcd69ed55b2fa.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>اسکات بَسنت، وزیر خزانه‌داری ایالات متحده، درباره ج.ا:<br></b><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>ما در حال حاضر عملیات \"طرد اقتصادی\" را اجرا می‌کنیم. این بزرگترین عملیات انزوا اقتصادی در تاریخ جهان است. ما قصد داریم این رژیم را خفه کنیم.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>به دلیل محاصره، نفت به خارج از کشور نمی‌رود. بنابراین، احتمالاً تنها حدود 30 میلیون بشکه نفت خام ایران باقی مانده است که هنوز توسط چین خریداری نشده است. بنابراین، این مقدار به زودی تمام خواهد شد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>هیچ مشکلی در خرید این نفت توسط چین وجود نخواهد داشت، زیرا آنها هیچ محصولی ندارند. این محاصره موثر است. این به شکلی کار می‌کند که ما قبلاً هرگز شاهد آن نبوده‌ایم.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>من می‌توانم به شما بگویم که محاصره و تحریم‌ها، یکی از قوی‌ترین روش‌ها در تاریخ طرد اقتصادی هستند.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "♦️اسکات بَسنت، وزیر خزانه‌داری ایالات متحده، درباره ج.ا:\n\n🔹ما در حال حاضر عملیات \"طرد اقتصادی\" را اجرا می‌کنیم. این بزرگترین عملیات انزوا اقتصادی در تاریخ جهان است. ما قصد داریم این رژیم را خفه کنیم.\n\n🔹به دلیل محاصره، نفت به خارج از کشور نمی‌رود. بنابراین، احتمالاً تنها حدود 30 میلیون بشکه نفت خام ایران باقی مانده است که هنوز توسط چین خریداری نشده است. بنابراین، این مقدار به زودی تمام خواهد شد.\n\n🔹هیچ مشکلی در خرید این نفت توسط چین وجود نخواهد داشت، زیرا آنها هیچ محصولی ندارند. این محاصره موثر است. این به شکلی کار می‌کند که ما قبلاً هرگز شاهد آن نبوده‌ایم.\n\n🔹من می‌توانم به شما بگویم که محاصره و تحریم‌ها، یکی از قوی‌ترین روش‌ها در تاریخ طرد اقتصادی هستند.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/iranlix/12613",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/CWj7sTs5Us6Zg77apSV3b7y2G46gfgj75T3yNaTQZqB1oGOS8bKxsGBIGgSwgrGJCMj3JA9WXo1UNIPkF-c9bPEY1KIYCP56j2pWA-qPMJc7_-JyQ3xTOyW3L4KvwLWnAoW8gdGp-XnkWeMgnKlMiVmKuynMW1RJUR0_9DDas_iuYLYfW1LuHtt9XbWM3KfRTHgxxfQHG-EyxXKPBsov9NqjFmDJX3Qy1g7IaNjeKily9EcEwuwTiF4ExRvWUtJgsgKmC1vmrX-k2AeHgXoW4JHVURPmYZVKrqeHTBydJv8XL_LCJbylQJI69slPrjDljepYwUNpToVNcfowGKxGZw",
-          "thumbnail_path": "channels/iranlix/media/9c6015d1e5385c01f6a1e913.jpg",
-          "thumbnail_sha256": "d3f866916eb815dc9f83e739a7cfc4721aedea372542b3b9855a6268f4e80d3e",
-          "duration_label": "1:23",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.22K",
-      "posted_at": "2026-09-06T05:19:36+00:00",
-      "edited": true,
-      "permalink": "https://t.me/iranlix/12613",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12610",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/P6wlknCu4KydGDASnYIJkSL42jXufROUjwRrm01v7d51p3YBEx4rkQqYs2krFRd4LHxq08mmEy2TgCu4J08n1ZSq4paFfXykL6OUFFjnmHtPmJBtBzfKlwmoLApVk-hNCwoL_o5_BhnH1XV2kRj1D9AC6GrktP5S1x_N6bbjtspXBjUWiGZM-RyGHabxIzRLAK0ahjPnDYjTX3GkA8zCiRKYeBgBZ2IZIJafC1T4hqw3d7cILAqS-xr4k_jJzzVdlQM_10wXECCBz6Ghjgv3P7yq1mMYdKuv0PT6kTc0TA6UOTJAVRnZgMZXVG41AUnWWGzcvDjcbkzyxVcxRpZqtg.jpg",
-      "author_photo_path": "channels/iranlix/media/140d7098768bcd69ed55b2fa.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B7.png')\"><b>🔷</b></i><b>اسرائیل پایان مأموریت در علی الطاهر را اعلام کرد؛ «طرح کاهش نیروها» در جنوب لبنان</b><br>⁨<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>ارتش اسرائیل اعلام کرد مرحله اصلی عملیات پاکسازی شبکه زیرزمینی حزب‌الله در ارتفاعات «علی الطاهر» جنوب لبنان را به پایان رسانده است. <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>در پی این تحولات، شبکه «کان» گزارش داد که مقامات امنیتی اسرائیل در حال بررسی طرحی برای کاهش قابل‌توجه نیروها و انتقال مواضع از «خط زرد» (در عمق خاک لبنان) به «خط خاکستری» (نزدیک‌تر به مرز) هستند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>هرچند منابع نزدیک به ج.ا این ادعا را رد کردند، اما گزارش‌های میدانی از کنترل عملیاتی اسرائیل بر این منطقه حکایت دارد. طرح پیشنهادی هنوز نهایی نشده و اسرائیل بر حفظ «منطقه امنیتی» تأکید دارد، در حالی که حزب‌الله با خلع‌سلاح خود مخالفت کرده است.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔷اسرائیل پایان مأموریت در علی الطاهر را اعلام کرد؛ «طرح کاهش نیروها» در جنوب لبنان\n⁨\n🔹ارتش اسرائیل اعلام کرد مرحله اصلی عملیات پاکسازی شبکه زیرزمینی حزب‌الله در ارتفاعات «علی الطاهر» جنوب لبنان را به پایان رسانده است.\n\n🔹در پی این تحولات، شبکه «کان» گزارش داد که مقامات امنیتی اسرائیل در حال بررسی طرحی برای کاهش قابل‌توجه نیروها و انتقال مواضع از «خط زرد» (در عمق خاک لبنان) به «خط خاکستری» (نزدیک‌تر به مرز) هستند.\n\n🔹هرچند منابع نزدیک به ج.ا این ادعا را رد کردند، اما گزارش‌های میدانی از کنترل عملیاتی اسرائیل بر این منطقه حکایت دارد. طرح پیشنهادی هنوز نهایی نشده و اسرائیل بر حفظ «منطقه امنیتی» تأکید دارد، در حالی که حزب‌الله با خلع‌سلاح خود مخالفت کرده است.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/12610",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/LExJFEPtrlejhPstFriJCkanUUw2NRUUyBJl3lNyHnvHMu3XkNQSWBsUU8rfkXOL7eF73IktIEC3IZrxcBgpRkxU1ErOPqMzeQtwd2vzjGdC70dbrRnqLJHAVNS2BAaGKTjYcT0dNFMi--NhHaK9qNaTbFzJIBCu197kePNiY9jwAru5XHdwDzAsoi3knJzvndn6AzdtJrevmDPl5ZTCtNnWheZ-5Hm_4gq0DU3sLBn2k_XHgFRjp1FUYjJ9B4nIGe1AJJq_rze1CXOcv7FkdAXQjGQGijp2G3yiIRKDYvo1Rm5Ssj9fFVL3vnk6U3uRzbSEMODHm6rmyydxszcWmQ.jpg",
-          "thumbnail_path": "channels/iranlix/media/6abbe92ad5114f924108aca2.jpg",
-          "thumbnail_sha256": "dbeb09164fdf91ca2545ac74934c2aa30130d52164c963ef60e3adc443035e0d",
-          "duration_label": null,
-          "aspect_ratio": 1.9047619047619047
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.51K",
-      "posted_at": "2026-09-05T21:05:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12610",
       "reply": null
     }
   ]
