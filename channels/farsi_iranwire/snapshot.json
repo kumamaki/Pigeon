@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T09:02:15.545Z",
+  "fetched_at": "2026-09-08T09:08:55.676Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93475",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Xp1GPjZY4ATloWqym-TkX3n9GYZxWlsZ1JtO4D0neLIWJRuH5wpmbTqs7uCbifzSxmrRAvB4RkQfdU7HCHg5ZE0qJtxdyyg8uwCTr7BFtLRcRte9trFF1imaWTJHRLFCw-X6Q0R2s4gfHibpcPDDqN-O7C-Sip6L5LU3Z2EhTU6d0TOKSgGv2s55eTjDoHnQvCOdmy9lqr40HjmQlQo2zI-H45ezXn7GynL2iQ_JqHbx3G-llmnGay-lX4jOrCLEKVrCnCiMz-GMVGehcWuLYj-lGPFR3ApxgpnjnktzRoSJSY9yrR0I5lAuE0M1bKFShaKBpqnjajGbZEDVTv8FwQ.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a45e25b72ade524afd0808f4.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "رییس‌کل دادگستری استان سمنان از شناسایی دو نفر در ارتباط با درگیری مقابل خوابگاه نیکان محل اقامت شماری از دانشجویان عراقی خبر داده است. این حادثه با انتشار روایت‌های متناقض درباره علت آغاز درگیری و نحوه برخورد نیروهای انتظامی همراه شده است.<br>بیشتر: <a href=\"https://iranwire.com/fa/news-1/157313\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157313</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "رییس‌کل دادگستری استان سمنان از شناسایی دو نفر در ارتباط با درگیری مقابل خوابگاه نیکان محل اقامت شماری از دانشجویان عراقی خبر داده است. این حادثه با انتشار روایت‌های متناقض درباره علت آغاز درگیری و نحوه برخورد نیروهای انتظامی همراه شده است.\nبیشتر: https://iranwire.com/fa/news-1/157313\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93475",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Owob69gXGGQ7ou9ccXtU0vQvAtrFL-AvjSshIabrraePvDCshdjQMeAMhYXuEprXIEvSE70fawhQ4psXvaacBcKZXlJa_yADm02TTpLoSYgZ_eph_k2-qTQwEIy9jCVY6DH5ACQgOlaNv6hBi6wm6YvXhNesnXlHnHt7IEhH4QgytUl6Dr0eoofyXyArMHMVQOqMtOwXyx9wT_0s5BlzyOMHiNFW5IXL43EbLisoa2A3okrQUrNEkoGsDtXUBJrviRvKjKWiR6QEbiiog71i1E53n7056Mj9f0jVOKSOLfUNthKxoShaofhSwwHHkbkEvOVQ2MxBtIu7NyyzA1xekA.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/57f219cccc738a4ea031d2b4.jpg",
+          "thumbnail_sha256": "04f0dfb96888674c852b095d3472dedb007ffc267ff348dcab6a2402b535d3e4",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "77",
+      "posted_at": "2026-09-08T09:06:17+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93475",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93474",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "258",
+      "views_label": "331",
       "posted_at": "2026-09-08T08:34:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93474",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "370",
+      "views_label": "424",
       "posted_at": "2026-09-08T08:18:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93473",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "312",
+      "views_label": "352",
       "posted_at": "2026-09-08T08:18:00+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93472",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "412",
+      "views_label": "445",
       "posted_at": "2026-09-08T08:02:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93471",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "448",
+      "views_label": "478",
       "posted_at": "2026-09-08T07:54:35+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93470",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.64K",
+      "views_label": "1.66K",
       "posted_at": "2026-09-07T21:09:13+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93469",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.58K",
+      "views_label": "1.59K",
       "posted_at": "2026-09-07T20:57:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93468",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.97K",
+      "views_label": "1.98K",
       "posted_at": "2026-09-07T19:29:53+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93466",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.79K",
+      "views_label": "1.8K",
       "posted_at": "2026-09-07T19:17:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93465",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.42K",
+      "views_label": "1.43K",
       "posted_at": "2026-09-07T18:34:52+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93463",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.34K",
+      "views_label": "1.35K",
       "posted_at": "2026-09-07T18:30:58+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93462",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.38K",
+      "views_label": "1.39K",
       "posted_at": "2026-09-07T17:03:23+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93459",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.71K",
+      "views_label": "1.72K",
       "posted_at": "2026-09-07T15:15:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93457",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.5K",
+      "views_label": "1.51K",
       "posted_at": "2026-09-07T14:58:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93456",
@@ -537,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.31K",
+      "views_label": "1.32K",
       "posted_at": "2026-09-07T14:38:27+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93454",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-05T08:42:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93373",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93372",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EmUP9mB5rt_E-ktfi7gsZJiU2Vg2Igy7ZYPwCUj5ZBNBwKSs_5STWybgkDUrOJ8Mf21eZIyZX1Az3KyjeThtIqmK00XzVEbMQyr4Rtqm3BijZmsPdRtLDWb7uCAuOYVGfriyYjsEeD9-i5W2gDSuIa3DhMv1wA1h89ViwCSNAsbSBBXCFCCpRLzR03zsSwFJpI2uSI2Ypew-4R4EEINKuBXLsu1m9siY-A0_Db8j3HxwgV0GuSEPB4zv5KfCaNPxjp4EaKGdI-IcXaIBcqZoOpDe26XPYVEQJMiRoikQH4QRpuY3i_p41FKCMmJLQel9Vz2g8emShtFRNit2tEGUQw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/c769a9c378fcf30292902ce1.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "مهرداد جمشیدی، فعال محیط‌زیست، هنگام بازگشت از عملیات مهار آتش‌سوزی در منطقه حفاظت‌شده «بوزین و مرخیل» استان کرمانشاه، بر اثر انفجار مین به‌جامانده از جنگ ایران و عراق به‌شدت مجروح شد.<br>پیام ما خبر داد این حادثه نیمه‌شب ۹ شهریور ۱۴۰۵ رخ داد. انفجار مین استخوان ران پای چپ جمشیدی را شکست و به عصب، رگ‌ها و مسیر خون‌رسانی پای او آسیب زد.<br><br>بخوانید:  <a href=\"https://iranwire.com/fa/news-1/157183\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157183</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "مهرداد جمشیدی، فعال محیط‌زیست، هنگام بازگشت از عملیات مهار آتش‌سوزی در منطقه حفاظت‌شده «بوزین و مرخیل» استان کرمانشاه، بر اثر انفجار مین به‌جامانده از جنگ ایران و عراق به‌شدت مجروح شد.\nپیام ما خبر داد این حادثه نیمه‌شب ۹ شهریور ۱۴۰۵ رخ داد. انفجار مین استخوان ران پای چپ جمشیدی را شکست و به عصب، رگ‌ها و مسیر خون‌رسانی پای او آسیب زد.\n\nبخوانید: https://iranwire.com/fa/news-1/157183\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93372",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/McjubEk4Cj00Wbqd7SDVJuFZjv2QIwGEGPrqrMvDY4Ve6P3S9eu_om00xKiNR3A8DAtKLuixf1Spq3czTsqwtkQBh0uGy1uJt5kVNCqT7uIylT3wbMgSSOkRfSoHZNLasXyxqex5wLkZxAj3EqW_0EvNCLPPMN5FoLrHTEEUY7CFVvY094ciTQxXC00VydlOgYvlL9qhR3fbIqVsKNlQPpxo1TX_Fr95zwndWS258dpJcKXDjHdg_rSEGHYdrpZRsCc_wsDHTeKC_IUjGXLDUocjJRiVqdvyPsIVDVmsAT7BHkueSWnhIcDZbykhCyFQWig0V8xZLySvM2Qup5T7cw.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/a4e5494a8d27d2c87168ac94.jpg",
-          "thumbnail_sha256": "4804cfe9d87e7807ca4370d6db8dc35f1f03b8d03c93457834852898ac7ae635",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.08K",
-      "posted_at": "2026-09-05T08:25:57+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93372",
       "reply": null
     }
   ]
