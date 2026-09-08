@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T10:46:55.690Z",
+  "fetched_at": "2026-09-08T10:52:03.577Z",
   "channel": {
     "username": "whitedns",
     "title": "White DNS",
@@ -23,19 +23,19 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "43"
+          "count": "47"
         },
         {
           "emoji": "👍",
           "count": "9"
         },
         {
-          "emoji": "💘",
+          "emoji": "❤‍🔥",
           "count": "4"
         },
         {
-          "emoji": "❤‍🔥",
-          "count": "3"
+          "emoji": "💘",
+          "count": "4"
         },
         {
           "emoji": "🔥",
@@ -50,7 +50,7 @@
           "count": "1"
         }
       ],
-      "views_label": "3.51K",
+      "views_label": "3.66K",
       "posted_at": "2026-09-08T09:52:08+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1739",
@@ -72,7 +72,7 @@
         },
         {
           "emoji": "❤‍🔥",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "👎",
@@ -95,7 +95,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.11K",
+      "views_label": "6.2K",
       "posted_at": "2026-09-08T08:02:42+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1738",
@@ -137,7 +137,7 @@
         },
         {
           "emoji": "👍",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "🔥",
@@ -172,7 +172,7 @@
           "count": "1"
         }
       ],
-      "views_label": "11.4K",
+      "views_label": "11.5K",
       "posted_at": "2026-09-07T05:09:07+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1737",
@@ -194,7 +194,7 @@
         },
         {
           "emoji": "❤",
-          "count": "692"
+          "count": "693"
         },
         {
           "emoji": "❤‍🔥",
@@ -452,8 +452,8 @@
           "asset_url": "https://t.me/whitedns/1728",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/LR9Vvguzzd9E1CRfTFZDyQBSRlObKFffQeC3EnNxWK7SZpFWnXrAffrR0W03FUORIf6erYBiHQbj1bTMoUF8SIzXttXfnDAF2ELVC8tD4MiGeIIg0WGhjNJQbpA9ccS0GRCgfwMJ46nn_xRjhGQ-41kHfSJ9iSVQqH58Wl6Zi19ZafwyFR5S8bnHo9G0162iWDv9dOFX3599K_fe9cEJs4uK9WcanIcKYO-ZUlkogMH8ntAI1ni2iyDlsRnU-00iP-fWVv-rQjRtC-S_1hu49TJRM1MdTnPYd9Zzgo0zKi3G7Bo9BatpEsTW3mmA-3phGSRCnkhfHwC5aSXumzk1dw.jpg",
-          "thumbnail_path": "channels/whitedns/media/e759732571e380f19213ea50.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/mMMAEUzTbM4PAGA7zKR92fTkXsVMV3TJVaCQOThLqkIx-Z2rJKFSomZs8wlscwvg2j1oVvTBDsks5o02FZhXyyfheg9nzaEGvw8-6R73RLInBYJcyXwhncA6R-d7jD-YX5Q88uc-068iAosguYox4s0bmD3iaDerPe9ZrYYxuzYV-8swEw0-xWFz6HP0NTCMJtU5r8C3G6-2LrFIR-h7lKFtujn4xp1qv5Fq4ShC-exxOmXQaB81J715K7FrMF1DJyP8bwaaDBN6KFl0e8_vfLEYUrJiz8wOYQjnNki3mAXRLXtCont2SmZhd1Klnx_8hgm8g_CerXN4ItWfbl_iXg.jpg",
+          "thumbnail_path": "channels/whitedns/media/755ca841ded8ff02ab53fcb1.jpg",
           "thumbnail_sha256": "09b9c78c53150aad7ed1a95f99de444ca78a02b1760babf2bdc29e2c588d4809",
           "duration_label": null,
           "aspect_ratio": 1
