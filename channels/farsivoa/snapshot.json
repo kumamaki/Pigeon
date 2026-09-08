@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T07:57:14.178Z",
+  "fetched_at": "2026-09-08T08:02:13.870Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229830",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "آبگرفتگی در مازندران؛ ادارات و مراکز آموزشی تعطیل شدند؛<br><br>بارندگی شدید در استان مازندران به آبگرفتگی معابر، سقوط درختان و انسداد مسیرهای دسترسی انجامید و ادارات استان روز سه‌شنبه تعطیل شدند.<br><br>عیسی قاسمی طوسی، معاون توسعه مدیریت و منابع استانداری مازندران، گفت با دستور استاندار، همه ادارات، بانک‌ها، مراکز آموزشی و دستگاه‌های اجرایی استان تعطیل‌اند و امتحانات مدارس و دانشگاه‌ها نیز لغو شده است.<br><br>سازمان هواشناسی هشدار نارنجی صادر کرده بود.<br><br>بارش شدید در بابلسر، بابل، محمودآباد، ساری و جویبار افزون بر آبگرفتگی، سطح آب رودخانه‌ها را بالا برده و احتمال طغیان در ساعات آینده وجود دارد.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "آبگرفتگی در مازندران؛ ادارات و مراکز آموزشی تعطیل شدند؛\n\nبارندگی شدید در استان مازندران به آبگرفتگی معابر، سقوط درختان و انسداد مسیرهای دسترسی انجامید و ادارات استان روز سه‌شنبه تعطیل شدند.\n\nعیسی قاسمی طوسی، معاون توسعه مدیریت و منابع استانداری مازندران، گفت با دستور استاندار، همه ادارات، بانک‌ها، مراکز آموزشی و دستگاه‌های اجرایی استان تعطیل‌اند و امتحانات مدارس و دانشگاه‌ها نیز لغو شده است.\n\nسازمان هواشناسی هشدار نارنجی صادر کرده بود.\n\nبارش شدید در بابلسر، بابل، محمودآباد، ساری و جویبار افزون بر آبگرفتگی، سطح آب رودخانه‌ها را بالا برده و احتمال طغیان در ساعات آینده وجود دارد.\n\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229830",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/hshLiyQHt7oM_xE36OotU89UIipumiOrMwHHhLEJPgVUjyEnI1oI4gAOyRrumqhJdX2ziVJOGt0TD3AOqOwoHdiUPXP56PqCb9Msufnf7Y1pNIlhxERa_onQDP5rbEFSbNcKV0X-zNNTDE9EPpqwvrSkFCwRRZQEV2zqruqa8mkZN6GunIHg1aTc7iNSQ8MP19VPfIJ9EC-FN3FN18Jgshz2OFP4QC30pfmtvuskIdDt3lBY1MbHk_QXOUQWb683v2OUy3i4B5iVOiBu75m3D2cV9qQG1l5K54WkOUhR3fRmXu-qYA1jpSaawfmnw8FxvLLcPy6YR7w4XEGw_YUgQQ",
+          "thumbnail_path": null,
+          "thumbnail_sha256": null,
+          "duration_label": "0:37",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "286",
+      "posted_at": "2026-09-08T07:57:54+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229830",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229829",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺نفتالی بنت: امارات حمله ۷ اکتبر را به نتانیاهو گزارش داده بود\n\n▪️نفتالی بنت، نخست‌وزیر پیشین اسرائیل، گفت گزارش روزنامه هاآرتص درباره دریافت هشدار شخصی نتانیاهو از رئیس امارات پیش از حمله ۱۵ مهر ۱۴۰۲ «درست است».\n\n▪️او در شبکه ایکس نوشت: «گزارشی که امروز صبح منتشر شد مبنی بر اینکه نتانیاهو ۱۰ روز پیش از کشتار ۷ اکتبر درباره نیت‌های سنوار هشدار گرفته بود، درست است. نتانیاهو مسئولیت شخصی و مستقیم شکستی را بر عهده دارد که به مرگ هزاران اسرائیلی در دوره او انجامید.»\n\n▪️رهبر حزب «با هم» گفت بی‌توجهی نتانیاهو به هشدارها «به قصور جنایی می‌رسد». او افزود: «به همین دلیل است که هر کاری می‌کند تا از تشکیل کمیسیون تحقیق دولتی که حقیقت را آشکار کند جلوگیری کند.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195509.html",
       "media": [],
       "reactions": [],
-      "views_label": "737",
+      "views_label": "929",
       "posted_at": "2026-09-08T07:39:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229829",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.98K",
+      "views_label": "2.07K",
       "posted_at": "2026-09-08T06:31:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229828",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.93K",
+      "views_label": "1.99K",
       "posted_at": "2026-09-08T06:22:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229827",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.9K",
+      "views_label": "1.97K",
       "posted_at": "2026-09-08T06:12:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229826",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.97K",
+      "views_label": "2K",
       "posted_at": "2026-09-08T06:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229825",
@@ -149,7 +177,7 @@
       "plain_text": "🔺نفت با نگرانی از طولانی شدن جنگ گران‌تر شد\n\n▪️قیمت نفت روز سه‌شنبه با افزایش نگرانی از طولانی شدن درگیری خاورمیانه و پس از آنکه جمهوری اسلامی تهدید کرد به هر حمله تازه آمریکا پاسخ می‌دهد، بالا رفت.\n\n▪️بهای نفت برنت ۴۹ سنت بالا رفت و به ۹۷ دلار و ۴۹ سنت در هر بشکه رسید. نفت وست تگزاس اینترمدییت آمریکا نیز با یک دلار و ۴۴ سنت رشد به ۹۲ دلار و ۹۲ سنت رسید.\n\n▪️این تحول در حالی است که بر خلاف تصور جمهوری اسلامی شوک بزرگی از ابتدای جنگ به بازار نفت وارد نشد و هنوز حجم قابل توجهی از نفت از تنگه هرمز عبور می‌کند.\n\n▪️تولیدکنندگان دیگر هم جای خالی نفت خلیج فارس را پر می‌کنند. آمریکا، کانادا و گویانا امسال یک میلیون و ۴۰۰ هزار بشکه در روز به تولید اضافه کردند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195471.html",
       "media": [],
       "reactions": [],
-      "views_label": "2K",
+      "views_label": "2.04K",
       "posted_at": "2026-09-08T05:51:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229824",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.97K",
+      "views_label": "2.03K",
       "posted_at": "2026-09-08T05:40:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229823",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.06K",
+      "views_label": "2.09K",
       "posted_at": "2026-09-08T05:30:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229822",
@@ -221,7 +249,7 @@
       "plain_text": "🔺پیشنهاد مصر برای چارچوب امنیتی مشترک عربی در پی حملات جمهوری اسلامی\n\n▪️وزیر امور خارجه مصر، در نشست شورای اتحادیه عرب در قاهره چارچوب امنیتی مشترکی برای کشورهای عربی پیشنهاد کرد.\n\n▪️بنابر گزارش رسانه‌های عربی، بدر عبدالعاطی گفت مصر آماده است با اتحادیه عرب و کشورهای عضو بر سر چارچوبی جامع کار کند که حوزه‌های همکاری، سازوکارهای هماهنگی و رویه‌های واکنش به بحران را تعیین کند.\n\n▪️عبدالعاطی افزود ترتیبات پیشنهادی می‌تواند بر پیمان دفاع مشترک عربی و تصمیم‌های اتحادیه عرب بنا شود، ضمن احترام به حاکمیت و استقلال تصمیم‌گیری کشورهای عضو.\n\n▪️او در همین نشست حملات جمهوری اسلامی به کشورهای عربی را محکوم کرد و همبستگی مصر را با کشورهای خلیج فارس، اردن و عراق اعلام کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195470.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.17K",
+      "views_label": "2.2K",
       "posted_at": "2026-09-08T05:21:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229821",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.21K",
+      "views_label": "2.24K",
       "posted_at": "2026-09-08T05:12:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229820",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.37K",
+      "views_label": "2.4K",
       "posted_at": "2026-09-08T05:01:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229819",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.41K",
+      "views_label": "2.47K",
       "posted_at": "2026-09-08T04:47:11+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229818",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.76K",
+      "views_label": "2.79K",
       "posted_at": "2026-09-08T04:36:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229817",
@@ -361,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.62K",
+      "views_label": "4.65K",
       "posted_at": "2026-09-08T01:29:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229816",
@@ -389,7 +417,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.22K",
+      "views_label": "4.25K",
       "posted_at": "2026-09-08T01:08:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229815",
@@ -417,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.26K",
+      "views_label": "4.29K",
       "posted_at": "2026-09-08T00:29:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229814",
@@ -445,7 +473,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.4K",
+      "views_label": "4.43K",
       "posted_at": "2026-09-08T00:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229813",
@@ -461,7 +489,7 @@
       "plain_text": "🔺ترامپ: قیمت نفت کاهش خواهد یافت و جمهوری اسلامی به سلاح هسته‌ای دست پیدا نمی‌کند\n\n▪️دونالد ترامپ، رئیس‌جمهوری آمریکا، دوشنبه شب در شبکه اجتماعی تروت‌سوشال نوشت وقتی در جنگ با جمهوری اسلامی ایران «پیروز شویم، قیمت نفت به سرعت کاهش خواهد یافت.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195221.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "4.34K",
+      "views_label": "4.37K",
       "posted_at": "2026-09-07T23:46:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229812",
@@ -489,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.83K",
+      "views_label": "3.87K",
       "posted_at": "2026-09-07T23:39:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229811",
@@ -2591,34 +2619,6 @@
       "posted_at": "2026-09-07T11:52:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229719",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229718",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "ممنوعیت حجاب برای دختران زیر ۱۴ سال در اتریش روز دوشنبه با بازگشایی مدارس در وین و چند ایالت دیگر با نخستین آزمون خود روبه‌رو شد.<br><br>بر پایه گزارش رویترز، سازمان اصلی مسلمانان این کشور و گروه‌های دیگر قانون را تبعیض‌آمیز می‌خوانند و احتمال چالش قضایی وجود دارد.<br><br>ائتلاف حاکم اتریش متشکل از سه حزب میانه‌رو، ممنوعیت را پیشنهاد داد و استدلال کرد برای حفاظت از آزادی دختران عمل می‌کند.<br><br>این قانون که آذرماه سال گذشته با پشتیبانی حزب راست افراطی در پارلمان تصویب شد، پوشش‌های «سنتی مسلمانان» مانند حجاب و برقع را در همه مدارس دولتی و خصوصی ممنوع می‌کند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "ممنوعیت حجاب برای دختران زیر ۱۴ سال در اتریش روز دوشنبه با بازگشایی مدارس در وین و چند ایالت دیگر با نخستین آزمون خود روبه‌رو شد.\n\nبر پایه گزارش رویترز، سازمان اصلی مسلمانان این کشور و گروه‌های دیگر قانون را تبعیض‌آمیز می‌خوانند و احتمال چالش قضایی وجود دارد.\n\nائتلاف حاکم اتریش متشکل از سه حزب میانه‌رو، ممنوعیت را پیشنهاد داد و استدلال کرد برای حفاظت از آزادی دختران عمل می‌کند.\n\nاین قانون که آذرماه سال گذشته با پشتیبانی حزب راست افراطی در پارلمان تصویب شد، پوشش‌های «سنتی مسلمانان» مانند حجاب و برقع را در همه مدارس دولتی و خصوصی ممنوع می‌کند.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229718",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/QBlJTGpvLdM3uPZXSsnFVYOPXTxHjtK9cjNloEF9DAtqxywzGiG07-K1ILGg4wwLQVJwsNqf1EnaAgo9SOcaCVWZ0IsmlzrYhLTWsguL9P0oCGgK3yuMrn3biTfb55rF6ERgjhHKH8WtiCcMEjXLYHP1qlVnA_2O671BvQya6y5xlqnRgCseXUZcOKNngO3DTM-Xl8hvSN1tioJ2C7oZ2XhFpKKNZz5YEFPWtnmJLQm-xg78k7264RlSEnd9hQXo4nutglSCb80WK7cHINJ-WPcVanT3B5qgQ5jMi7yv2ZH0ZKwWUrdVmvu9YdWYGqEPi1IeIgj8G_L68q1X0jgbqg.jpg",
-          "thumbnail_path": "channels/farsivoa/media/d8153cd27b3ba3d6abb057fb.jpg",
-          "thumbnail_sha256": "296c53b3b6fabb875b63cf5c750cd7b9f422804b0302fd55a0663f64b0a0a232",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.53K",
-      "posted_at": "2026-09-07T11:46:07+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229718",
       "reply": null
     }
   ]
