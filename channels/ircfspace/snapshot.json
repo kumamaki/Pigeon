@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T14:22:04.519Z",
+  "fetched_at": "2026-09-08T14:26:37.384Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -11,6 +11,51 @@
     "subscriber_count": "96.3K"
   },
   "posts": [
+    {
+      "id": "ircfspace/2589",
+      "author_name": "IRCF | اینترنت آزاد برای همه",
+      "author_photo_url": "https://cdn1.telesco.pe/file/RMgoA--2hf-N1YEYDA0RZY5vqAsKwsemiYEgEpWCqXkcRchZcWW-OMfjbqPzh4wuDumtc0i_cPEUIGRwkXAS6KpmHaju4F_wIuErOsxa5RDGzpvd3YeJzrP7ZwpksWOnSfHYXmro5jriJkvl9y0XplngneMP6cOQbR744yJUQn9dFOxluoCo6cAYL-clnTTprQMSuCprmQ2ado7trEAWPB9iOM-9QhzmUrt0yRqbYKRPcWsqmhxng48sRGuFbLXffzc1ypfBNsRisyAnSckF05zqiDNkCDG_TMdHRVymEWh3fBQoMFDYLbiRKHBGKfivxHqWRda2bmeRICcaxqJxcQ.jpg",
+      "author_photo_path": "channels/ircfspace/media/f3cf30c9deec2ba3d1ddeaea.jpg",
+      "author_photo_sha256": "158f2dc02d1e6a05c082153b128dee184884a3f1159a3f635b1a111432f7eabc",
+      "body_html": "وزیر قطع‌ارتباطات معتقده \"قیمت <a href=\"?q=%23%D9%85%D9%84%D8%A7%D9%86%D8%AA\">#ملانت</a> به اندازه سایر کالاها گرون نشده\" و احتمالا باید بیشتر از این دستشون رو توی جیب ملت فرو کنن!<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴡᴇʙꜱɪᴛᴇ</a> • <a href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴠᴘɴʜᴜʙ</a> • <a href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
+      "plain_text": "وزیر قطع‌ارتباطات معتقده \"قیمت #ملانت به اندازه سایر کالاها گرون نشده\" و احتمالا باید بیشتر از این دستشون رو توی جیب ملت فرو کنن!\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/ircfspace/2589",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/owr438O2B7rM7E-sMogoYeajgYWbmFOZHAR0sIyZiIiSVoRYaLBKa3IyrwK0m-zTObVOs6_2OVuv6Y6bIzD-oMfNanG5IgR1p3WdFUE_ze7Aq6ioR8uVMR83JEUGKs1ir-nXnj3TLzepr9CL3jdDaT_IEiOk3_nT01ypN9-SBfEW6LFPA_oxCnopIeNrLEBD4PgfdUELrs00RgR7mYKcoJQnHeDE4BCZFgWuqS_g1mZ3xAUGSKaJGcczeVUp-xLU1JpdfWz5ZlFMqsPsay2_uNwWMsUOWChN6aAbuut7M0Z2jpQ4SXYAfIWXXKWLwwrnYLvPnzXAq2jAECiYAh8mGQ.jpg",
+          "thumbnail_path": "channels/ircfspace/media/51f7343f7eebba5d19218cc0.jpg",
+          "thumbnail_sha256": "3f67ead41acfd0b831048afebd594e7b5d877541290a115acb9df157453224bf",
+          "duration_label": null,
+          "aspect_ratio": 1.5436046511627883
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "🤬",
+          "count": "30"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "👎",
+          "count": "1"
+        },
+        {
+          "emoji": "😁",
+          "count": "1"
+        }
+      ],
+      "views_label": "671",
+      "posted_at": "2026-09-08T14:24:46+00:00",
+      "edited": true,
+      "permalink": "https://t.me/ircfspace/2589",
+      "reply": null
+    },
     {
       "id": "ircfspace/2588",
       "author_name": "IRCF | اینترنت آزاد برای همه",
@@ -39,11 +84,11 @@
         },
         {
           "emoji": "❤",
-          "count": "104"
+          "count": "112"
         },
         {
           "emoji": "👏",
-          "count": "25"
+          "count": "28"
         },
         {
           "emoji": "👍",
@@ -54,7 +99,7 @@
           "count": "2"
         }
       ],
-      "views_label": "3.79K",
+      "views_label": "4.36K",
       "posted_at": "2026-09-08T13:52:25+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2588",
@@ -84,7 +129,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "384"
+          "count": "387"
         },
         {
           "emoji": "🤡",
@@ -119,7 +164,7 @@
           "count": "2"
         }
       ],
-      "views_label": "11.7K",
+      "views_label": "11.9K",
       "posted_at": "2026-09-08T08:11:30+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2587",
@@ -149,7 +194,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "305"
+          "count": "306"
         },
         {
           "emoji": "🤡",
@@ -176,7 +221,7 @@
           "count": "2"
         }
       ],
-      "views_label": "18.4K",
+      "views_label": "18.6K",
       "posted_at": "2026-09-07T05:41:19+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2586",
@@ -221,15 +266,15 @@
           "count": "16"
         },
         {
+          "emoji": "🔥",
+          "count": "3"
+        },
+        {
           "emoji": "🗿",
           "count": "3"
         },
         {
           "emoji": "👎",
-          "count": "2"
-        },
-        {
-          "emoji": "🔥",
           "count": "2"
         }
       ],
@@ -274,11 +319,15 @@
           "count": "7"
         },
         {
+          "emoji": "🔥",
+          "count": "1"
+        },
+        {
           "emoji": "😐",
           "count": "1"
         }
       ],
-      "views_label": "15.7K",
+      "views_label": "15.8K",
       "posted_at": "2026-09-07T05:23:54+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2584",
@@ -312,7 +361,7 @@
         },
         {
           "emoji": "❤",
-          "count": "15"
+          "count": "16"
         },
         {
           "emoji": "👏",
@@ -323,7 +372,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.7K",
+      "views_label": "15.8K",
       "posted_at": "2026-09-07T05:10:20+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2583",
@@ -365,7 +414,7 @@
         },
         {
           "emoji": "❤",
-          "count": "9"
+          "count": "10"
         },
         {
           "emoji": "👎",
@@ -422,7 +471,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "144"
+          "count": "145"
         },
         {
           "emoji": "🤡",
@@ -453,7 +502,7 @@
           "count": "1"
         }
       ],
-      "views_label": "19.3K",
+      "views_label": "19.4K",
       "posted_at": "2026-09-06T03:47:35+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2581",
@@ -471,7 +520,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "338"
+          "count": "339"
         },
         {
           "emoji": "🤡",
@@ -487,7 +536,7 @@
         },
         {
           "emoji": "❤",
-          "count": "4"
+          "count": "5"
         },
         {
           "emoji": "🤬",
@@ -531,12 +580,12 @@
           "count": "6"
         },
         {
-          "emoji": "😁",
+          "emoji": "❤",
           "count": "5"
         },
         {
-          "emoji": "❤",
-          "count": "4"
+          "emoji": "😁",
+          "count": "5"
         },
         {
           "emoji": "👎",
@@ -555,7 +604,7 @@
           "count": "1"
         }
       ],
-      "views_label": "21.5K",
+      "views_label": "21.6K",
       "posted_at": "2026-09-06T03:29:02+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2579",
@@ -585,7 +634,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "175"
+          "count": "176"
         },
         {
           "emoji": "👍",
@@ -604,7 +653,7 @@
           "count": "3"
         }
       ],
-      "views_label": "21.8K",
+      "views_label": "21.9K",
       "posted_at": "2026-09-05T06:27:21+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2578",
@@ -665,7 +714,7 @@
           "count": "1"
         }
       ],
-      "views_label": "25.7K",
+      "views_label": "25.8K",
       "posted_at": "2026-09-03T15:17:25+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2577",
@@ -734,7 +783,7 @@
           "count": "1"
         }
       ],
-      "views_label": "28.2K",
+      "views_label": "28.4K",
       "posted_at": "2026-09-03T14:39:14+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2576",
@@ -901,7 +950,7 @@
           "count": "1"
         }
       ],
-      "views_label": "32.7K",
+      "views_label": "32.8K",
       "posted_at": "2026-08-30T08:14:25+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2573",
@@ -5648,67 +5697,6 @@
       "posted_at": "2026-07-14T04:28:30+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2489",
-      "reply": null
-    },
-    {
-      "id": "ircfspace/2488",
-      "author_name": "IRCF | اینترنت آزاد برای همه",
-      "author_photo_url": "https://cdn1.telesco.pe/file/e6X8qd9I-3ohqA6bBKZi9yeq6Qm71nrfpRTA_c8A7v3IKCc_OhUVj1exDfqpXYFyCK0BN2ErjKrspSTSeQSuFueDykvWCKsLdoRxcf4YEQgp5XfUlvv1PYO5PYg6I9NXXn9Ifv0MgQek1a1ugQdrTndcKH8x7ukvOVBuSbu2oD-skEFq9hrk59S2sUin8e5nEfHYcI4scBQgPjHV__lSzDraVagZKKoRfAR9oRmiv0KG-EJXwgzHrScPkgXJv5LUAqU3qoiWy44N1heyQP2iJHFQJz0bd93GdVBA2o0jihwMcWKtzqvOa_jTlwSCdCU6CmO8DXVrNjH5L0VS_Eiw-g.jpg",
-      "author_photo_path": "channels/ircfspace/media/6ee1aad7aa029b4cd4d64d98.jpg",
-      "author_photo_sha256": "158f2dc02d1e6a05c082153b128dee184884a3f1159a3f635b1a111432f7eabc",
-      "body_html": "پروتون در <a href=\"https://protonvpn.com/blog/windows-is-spyware\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">یک مقاله</a> جنجالی ادعا کرده ویندوز دارای شناسه‌ای پنهان به نام GlobalDeviceId (GDID) هست که میتونه یک نصب ویندوز رو بصورت پایدار شناسایی کنه. به گفته این شرکت، این شناسه حتی در برخی شرایط با وجود استفاده از VPN هم میتونه برای مرتبط کردن فعالیت‌های یک دستگاه به کار بره و حذف یا تغییر اون برای کاربران ساده نیست. <br>پروتون با استناد به یک پرونده قضایی معتقده مایکروسافت درباره وجود و نحوه استفاده از این شناسه شفافیت کافی نداره و به همین دلیل از عبارت \"ویندوز یک جاسوس‌افزار است\" برای انتقاد از سیاست‌های حریم خصوصیشون استفاده کرده. البته این عنوان بیشتر یک موضع انتقادیه و نه یک نتیجه‌گیری فنی قطعی.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴡᴇʙꜱɪᴛᴇ</a> • <a href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴠᴘɴʜᴜʙ</a> • <a href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
-      "plain_text": "پروتون در یک مقاله جنجالی ادعا کرده ویندوز دارای شناسه‌ای پنهان به نام GlobalDeviceId (GDID) هست که میتونه یک نصب ویندوز رو بصورت پایدار شناسایی کنه. به گفته این شرکت، این شناسه حتی در برخی شرایط با وجود استفاده از VPN هم میتونه برای مرتبط کردن فعالیت‌های یک دستگاه به کار بره و حذف یا تغییر اون برای کاربران ساده نیست.\nپروتون با استناد به یک پرونده قضایی معتقده مایکروسافت درباره وجود و نحوه استفاده از این شناسه شفافیت کافی نداره و به همین دلیل از عبارت \"ویندوز یک جاسوس‌افزار است\" برای انتقاد از سیاست‌های حریم خصوصیشون استفاده کرده. البته این عنوان بیشتر یک موضع انتقادیه و نه یک نتیجه‌گیری فنی قطعی.\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/ircfspace/2488",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/a3f9rTZyY2C1INUs47xF9FYKc2PUbcA29dybKXXq4un8QkX1cKD28k3hFo_7VpVjB5vxdTw59km_IC7Xj5XqiwxXPi-_jJ1qCKSEVYHxGLVEhoeces1xuIBl01MiTa2kmNK-96TJHkL0miu2arHK0b1FML7b1ArY4W8EG8LU42B1Nof2QBMEAl5fQ5joGNxeVkZXpGdQYlUjr3T0jOSd0ODofM0m__yr02Q0B_gy-e_whrO_dLSIm9w_rSiStOk50DUo1KXVBoeq0NexLPeRmsmW9oZOeDLwfG99gpOj2tpyVhahOWs71v_wovJy4x1kL6UMMvSpdalehDTKtXSyHg.jpg",
-          "thumbnail_path": "channels/ircfspace/media/05d57a8c7d4b456d1f487fd2.jpg",
-          "thumbnail_sha256": "b27123f2bd995492888e25145e3b323af2d2dfc3eb4273b2c58f55f18c04b8b3",
-          "duration_label": null,
-          "aspect_ratio": 2
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "1"
-        },
-        {
-          "emoji": "👍",
-          "count": "237"
-        },
-        {
-          "emoji": "😐",
-          "count": "30"
-        },
-        {
-          "emoji": "❤",
-          "count": "14"
-        },
-        {
-          "emoji": "😱",
-          "count": "5"
-        },
-        {
-          "emoji": "😁",
-          "count": "4"
-        },
-        {
-          "emoji": "👎",
-          "count": "3"
-        },
-        {
-          "emoji": "🤬",
-          "count": "3"
-        }
-      ],
-      "views_label": "27.4K",
-      "posted_at": "2026-07-14T04:19:21+00:00",
-      "edited": true,
-      "permalink": "https://t.me/ircfspace/2488",
       "reply": null
     }
   ]
