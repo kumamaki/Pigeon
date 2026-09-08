@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T18:11:42.400Z",
+  "fetched_at": "2026-09-08T18:16:40.494Z",
   "channel": {
     "username": "hranews",
     "title": "خبرگزاری هرانا",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "hranews/115497",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/iZyX_7dy9Du8-YNGCtdMYK3MP5dphPfB1zMaXCNUK8aaaARamz4Ly0CvRtoCcM3-dyXXRK5WX_Sh46_vYKlxQGctH2xTxf7JYZKDegTqeMVeBYAHxut8hrTLcwSVeUa-ZCjEG9Kz6oZ-0SQ9iKaGJN1Cj-2fIoPG4wyomntMR29iluxWEStx7DkF_1cq5ElU5tzftMAZ6xYE047jyvCHZ9Az1sy-Xq3xItrYFJkO7HPnbwf_MpvguP9NlFYRMr0nCnrYtqCi4BgxZQ__GAu9nHAo74NCj6gJ7R8-n_pBnl5RWaqcN-f80J_DUfVycgHq_htQjBCQccv9yYTz4kMK2Q.jpg",
+      "author_photo_path": "channels/hranews/media/294c867d92cda28ca3eef2ff.jpg",
+      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
+      "body_html": "احمدرضا حائری با پایان دوران محکومیت از زندان آزاد شد<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji> – احمدرضا حائری، زندانی سیاسی، امروز با پایان دوران محکومیت خود از زندان قزلحصار کرج آزاد شد.<br><br>به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، احمدرضا حائری، آزاد شد.<br><br>آزادی وی ساعاتی پیش، با پایان دوران محکومیت از زندان قزلحصار کرج صورت گرفته است.<br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-58201/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><a href=\"?q=%23%D8%A7%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7_%D8%AD%D8%A7%D8%A6%D8%B1%DB%8C\">#احمدرضا_حائری</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "احمدرضا حائری با پایان دوران محکومیت از زندان آزاد شد\n\n❗️❗️❗️❗️❗️ – احمدرضا حائری، زندانی سیاسی، امروز با پایان دوران محکومیت خود از زندان قزلحصار کرج آزاد شد.\n\nبه گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، احمدرضا حائری، آزاد شد.\n\nآزادی وی ساعاتی پیش، با پایان دوران محکومیت از زندان قزلحصار کرج صورت گرفته است.\n\nادامه مطلب\n\n#احمدرضا_حائری\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/hranews/115497",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/jI2lMEIFOENV86yjtIxXO9hf1sT1av4STc1el-6vSQ1vS9No1Gv97-CWu1QCIJPS2ikC31TcUcquh_VtS36cDlPqdfDpDeBYuBadlxXmsCH6kHG7JjwnMQ0MvPX0U_FH_HLnkdLC2IE5TO-CJNZ2kpLXz42ZtVOoKPVlDWaGseAW73uGxCjGpNsc4ula8gGt77AJN89gcffp9LofYzPW6HNhPbT9t9W7wOAYEK7ls6TjAVw1hfH2h2FLXA8PGoiys8wMJCEU1b33mVqDGessuVJSZQcZbpzORjXGlBns6cXu_Wkitk1BTeUEmz72gliYKdPcNfb7bMcsz7xaIMzRWQ.jpg",
+          "thumbnail_path": "channels/hranews/media/efb6c8f34eecf1acf15908a6.jpg",
+          "thumbnail_sha256": "c89daeb98642a5301683461effed9981ba70e73ab28996c52e0d9ca2597d2ef8",
+          "duration_label": null,
+          "aspect_ratio": 1.5009380863039399
+        }
+      ],
+      "reactions": [],
+      "views_label": "4",
+      "posted_at": "2026-09-08T18:15:28+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/115497",
+      "reply": null
+    },
+    {
       "id": "hranews/115496",
       "author_name": "خبرگزاری هرانا",
       "author_photo_url": "https://cdn1.telesco.pe/file/iZyX_7dy9Du8-YNGCtdMYK3MP5dphPfB1zMaXCNUK8aaaARamz4Ly0CvRtoCcM3-dyXXRK5WX_Sh46_vYKlxQGctH2xTxf7JYZKDegTqeMVeBYAHxut8hrTLcwSVeUa-ZCjEG9Kz6oZ-0SQ9iKaGJN1Cj-2fIoPG4wyomntMR29iluxWEStx7DkF_1cq5ElU5tzftMAZ6xYE047jyvCHZ9Az1sy-Xq3xItrYFJkO7HPnbwf_MpvguP9NlFYRMr0nCnrYtqCi4BgxZQ__GAu9nHAo74NCj6gJ7R8-n_pBnl5RWaqcN-f80J_DUfVycgHq_htQjBCQccv9yYTz4kMK2Q.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "تبدیل یکی از احکام اعدام یوسف احمدی به حبس و دیه\n\n❗️❗️❗️❗️❗️ – یکی از احکام منتهی به #اعدام یوسف احمدی، زندانی محبوس در زندان سنندج، با پرداخت دیه و تحمل ۱۰ سال #حبس تعزیری جایگزین شد. با این حال، حکم اعدام دیگر وی از بابت اتهام «بغی» همچنان پابرجاست و وکلای او برای سومین بار درخواست اعاده دادرسی این پرونده را به دیوان عالی کشور ارائه کرده‌اند.\n\nادامه مطلب\n\n#یوسف_احمدی\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "139",
+      "views_label": "171",
       "posted_at": "2026-09-08T17:57:55+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115496",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "299",
+      "views_label": "332",
       "posted_at": "2026-09-08T17:20:29+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115495",
@@ -65,7 +93,7 @@
       "plain_text": "برگزاری جلسه بازپرسی محسن آرمین در دادسرای تهران\n\n❗️❗️❗️❗️❗️ – جلسه بازپرسی محسن آرمین، فعال سیاسی در دادسرای عمومی و انقلاب ناحیه ۳۳ تهران برگزار شد. وی در پایان جلسه بازپرسی با قرار کفالت آزاد شد.\n\nادامه مطلب\n\n#محسن_آرمین\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "402",
+      "views_label": "433",
       "posted_at": "2026-09-08T16:43:20+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115494",
@@ -81,7 +109,7 @@
       "plain_text": "یک شهروند در پی تیراندازی بی‌ضابطه نیروهای نظامی در فاریاب کشته شد\n\n❗️❗️❗️❗️❗️ – روز گذشته، یک شهروند در شهرستان فاریاب در پی تعقیب و گریز و تیراندازی بی‌ضابطه نیروهای نظامی، جان خود را از دست داد.\n\nادامه مطلب\n\n#مجتبی_بامری\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "436",
+      "views_label": "467",
       "posted_at": "2026-09-08T16:25:21+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115493",
@@ -97,7 +125,7 @@
       "plain_text": "محمدباقر خرازی همچنان در بازداشت به‌سر می‌برد\n\n❗️❗️❗️❗️❗️ – سخنگوی قوه قضاییه، از تداوم بازداشت محمدباقر خرازی خبر داد و اعلام کرد که پرونده این روحانی و فعال سیاسی، در دادسرای ویژه روحانیت در حال رسیدگی است.\n\nادامه مطلب\n\n#محمدباقر_خرازی\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "550",
+      "views_label": "551",
       "posted_at": "2026-09-08T15:32:19+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115492",
@@ -125,7 +153,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "528",
+      "views_label": "529",
       "posted_at": "2026-09-08T15:06:04+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115491",
@@ -197,7 +225,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "470",
+      "views_label": "500",
       "posted_at": "2026-09-08T14:18:15+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115488",
@@ -225,7 +253,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "574",
+      "views_label": "604",
       "posted_at": "2026-09-08T13:03:39+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115487",
@@ -2277,22 +2305,6 @@
       "posted_at": "2026-09-04T13:19:47+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115398",
-      "reply": null
-    },
-    {
-      "id": "hranews/115397",
-      "author_name": "خبرگزاری هرانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/PRWg4sI99bWdJWxYOJOxcC0suFyfOOCr8ghHR8BLosWGsLKNWyPv49u2WQEOecCgUokv4Hs-6Z75M4ycDPsxD7zf6W6utXCZDlFGZAbTZI6Tv5Wvg9Vlok-4RfsGaJ66Atyt1h_mCREANbl8zTK2qAhm53eLR82BT1Sson-uR7M28SWB_pqOS0l7rCkcrjH2UCC_gA3ed5rVNYUv0QpUGcyxoDwQMr3-LAUGG4_BtRJDwM2ThUeEwu7xXCNmNyYBqbcWtnR-vQuIRvdSj0mwIwWVTDBgGpzsWH3rR0TTYWoPZvDQj7p6HD8OOB7KCPs_49cOIhjz7uRDFuFlt52yKg.jpg",
-      "author_photo_path": "channels/hranews/media/550b221295ccd3e478d3cad0.jpg",
-      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
-      "body_html": "گزارشی از بازداشت میلاد خورشیدی در مریوان<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– میلاد خورشیدی، معلم مقطع ابتدایی و ساکن مریوان، حدود یک ماه پیش توسط ماموران اداره اطلاعات در مریوان بازداشت و به بازداشتگاه این نهاد در سنندج منتقل شده است.<br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-1e69e8fe/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-5581d2ef/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><br></a><br><a href=\"?q=%23%D9%85%DB%8C%D9%84%D8%A7%D8%AF_%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C\">#میلاد_خورشیدی</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
-      "plain_text": "گزارشی از بازداشت میلاد خورشیدی در مریوان\n\n❗️❗️❗️❗️❗️– میلاد خورشیدی، معلم مقطع ابتدایی و ساکن مریوان، حدود یک ماه پیش توسط ماموران اداره اطلاعات در مریوان بازداشت و به بازداشتگاه این نهاد در سنندج منتقل شده است.\n\nادامه مطلب\n\n#میلاد_خورشیدی\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
-      "media": [],
-      "reactions": [],
-      "views_label": "912",
-      "posted_at": "2026-09-04T12:25:39+00:00",
-      "edited": false,
-      "permalink": "https://t.me/hranews/115397",
       "reply": null
     }
   ]
