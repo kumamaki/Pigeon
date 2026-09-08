@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T14:17:52.660Z",
+  "fetched_at": "2026-09-08T14:22:01.368Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229864",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "جمهوری اسلامی قیمت بنزین را افزایش داده و محمدرضا عارف در دفاع از این سیاست، مصرف و سفر مردم را هدف گرفته است؛ هم‌زمان با هشدار درباره التهاب اجتماعی، استقرار نیروهای لباس‌شخصی در جایگاه‌ها و افزایش فشار گرانی بر زندگی روزمره.",
+      "plain_text": "جمهوری اسلامی قیمت بنزین را افزایش داده و محمدرضا عارف در دفاع از این سیاست، مصرف و سفر مردم را هدف گرفته است؛ هم‌زمان با هشدار درباره التهاب اجتماعی، استقرار نیروهای لباس‌شخصی در جایگاه‌ها و افزایش فشار گرانی بر زندگی روزمره.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229864",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Ek8gBEiIBMgDObDRBRQi90BRx-qgHjEwUX8C9d28ipPzeyv79_w44RA87OAYbnF3FqMK-pnlsP6psT7dYeibOn36MydvPISqqX3zIWDIAyT3woMb-abgA7jZWEuY21_S-LE04rnKcuFpaqPhyV2HroXpn1HHvydRmcSCQk5jwh-8iJ_3WLi6DMZ8DUichE4YaCjIRvcPBLvDhq4PhfCIb1omF7N8V2X9QtwyXjDBR-6HVpI0lYa-nczrmdPGYfbW7Onh3rnMvF3iwaEdAjc81OjteCfJf4ch7R7RFh50IGLWaolFXxZE4ulkk8GOWPdcjZa6ASmT_ykiAfZWpQZvVQ",
+          "thumbnail_path": "channels/farsivoa/media/325d63fa6012c649e478e36d.jpg",
+          "thumbnail_sha256": "fbc0f3a9feed841453ceb2a2951e90bc5e5a2d047f61d47f116a1304229b0163",
+          "duration_label": "4:46",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "98",
+      "posted_at": "2026-09-08T14:20:56+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229864",
+      "reply": null
+    },
     {
       "id": "farsivoa/229863",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "501",
+      "views_label": "660",
       "posted_at": "2026-09-08T14:07:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229863",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "795",
+      "views_label": "924",
       "posted_at": "2026-09-08T14:00:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229862",
@@ -77,7 +105,7 @@
       "plain_text": "🔺بریتانیا موسسه «القرض‌الحسن» را تحریم کرد؛ تشدید فشار بر جمهوری اسلامی با تحریم بازوی مالی حزب‌الله\n\n▪️بریتانیا روز سه‌شنبه ۱۷ شهریور ۱۴۰۵ تحریم‌هایی را علیه موسسه «القرض‌الحسن»، مؤسسه مالی وابسته به حزب‌الله لبنان، اعلام کرد؛ اقدامی که در ادامه فشارهای آمریکا و متحدانش برای محدود کردن منابع مالی این گروه مورد حمایت جمهوری اسلامی انجام می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/britain-sanctions-hezbollah-linked-institution/8195533.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.14K",
+      "views_label": "1.27K",
       "posted_at": "2026-09-08T13:45:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229861",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.34K",
+      "views_label": "1.44K",
       "posted_at": "2026-09-08T13:32:59+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229860",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.53K",
+      "views_label": "1.6K",
       "posted_at": "2026-09-08T13:20:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229859",
@@ -149,7 +177,7 @@
       "plain_text": "🔺اعزام تیم ارزیاب کره‌جنوبی به منطقه برای بررسی وضعیت تنگه هرمز\n\n▪️وزارت دفاع کره‌جنوبی روز سه‌شنبه ۱۷ شهریور اعلام کرد که تیمی را برای ارزیابی وضعیت در تنگه هرمز به منطقه اعزام کرده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/south-korea-assessment-team-deployment-strait-of-hormuz/8195526.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.47K",
+      "views_label": "1.54K",
       "posted_at": "2026-09-08T13:18:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229858",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.57K",
+      "views_label": "1.63K",
       "posted_at": "2026-09-08T13:10:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229857",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.57K",
+      "views_label": "1.63K",
       "posted_at": "2026-09-08T13:05:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229856",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.47K",
+      "views_label": "1.54K",
       "posted_at": "2026-09-08T13:03:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229855",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.76K",
+      "views_label": "1.79K",
       "posted_at": "2026-09-08T12:50:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229854",
@@ -289,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.96K",
+      "views_label": "1.99K",
       "posted_at": "2026-09-08T12:39:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229853",
@@ -317,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.12K",
+      "views_label": "2.18K",
       "posted_at": "2026-09-08T12:25:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229852",
@@ -333,7 +361,7 @@
       "plain_text": "🔺بریتانیا لایحه تحریم‌های سخت‌تر علیه جمهوری اسلامی را منتشر کرد\n\n▪️بریتانیا روز سه‌شنبه قانونی برای اعمال تحریم‌های سخت‌تر علیه جمهوری اسلامی منتشر کرد که محدودیت‌های تجاری و اختیارات هدف قرار دادن شناورها را گسترش می‌دهد.\n\n▪️دولت بریتانیا اقدام را بخشی از تلاش گسترده‌تر برای مهار برنامه هسته‌ای تهران و «دیگر فعالیت‌های خصمانه» خواند. بر پایه اعلام دولت بریتانیا، اقدام‌ها دسترسی جمهوری اسلامی به نظام مالی این کشور را محدود می‌کند.\n\n▪️ممنوعیت تجارت به کالاها، فناوری و خدمات بیشتری گسترش می‌یابد و فرود هواپیماهای ایرانی در بریتانیا جز در موارد استثنا ممنوع می‌شود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/uk-publishes-legislation-for-tougher-sanctions-on-iran/8195516.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.47K",
+      "views_label": "2.5K",
       "posted_at": "2026-09-08T12:07:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229851",
@@ -349,7 +377,7 @@
       "plain_text": "🔺ژاپن نگرانی خود را از حملات جمهوری اسلامی به شناورها در هرمز ابراز کرد\n\n▪️توشیمیتسو موتگی، وزیر خارجه ژاپن، در گفت‌وگوی تلفنی با عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، نگرانی خود را از ادامه حملات جمهوری اسلامی به شناورهای غیرنظامی ابراز کرد و خواستار «حداکثر خویشتنداری» شد.\n\n▪️بر پایه اعلام وزارت خارجه ژاپن، در این تماس پنج خواسته توکیو از جمله کاهش تنش و از سرگیری مذاکرات، انعطاف حداکثری، توقف حمله به شناورها، بازگشت آزادی دریانوردی بدون هزینه افزوده و مهار حوثی‌ها به عراقچی منتقل شد.\n\n▪️در مقابل عراقچی از «پیشرفت قابل توجه» گفت‌وگوها با عمان برای تعیین یک مسیر موقت تردد در تنگه هرمز خبر داد. ژاپن اما می‌گوید آینده تنگه باید در جامعه بین‌المللی بررسی شود، نه دوجانبه.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/japan-expresses-concern-over-iranian-attacks-on-vessels-in-hormuz/8195515.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.31K",
+      "views_label": "2.34K",
       "posted_at": "2026-09-08T12:02:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229850",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.33K",
+      "views_label": "2.36K",
       "posted_at": "2026-09-08T11:44:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229848",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.39K",
+      "views_label": "2.42K",
       "posted_at": "2026-09-08T11:34:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229847",
@@ -2603,34 +2631,6 @@
       "posted_at": "2026-09-07T16:16:15+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229755",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229754",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "بخشی از یکی از کارهای پیشین وفا احمدپور، معروف به «وفادار»، که به گرانی بنزین و کاهش قدرت خرید مردم می‌پردازد؛ جمهوری اسلامی از ۱۷ شهریور ۱۴۰۵ قیمت بنزین را به ۱۰ هزار تومان افزایش داد.<br><br>وفا احمدپور، خواننده رپ اعتراضی امروز، ۱۶ شهریور، اعلام کرد به رغم سپری کردن دوران حبس و نداشتن فعالیت سیاسی بعد از محکومیت، ابلاغیه‌ای دریافت کرده و پرونده او بار دیگر به جریان افتاده است. <br><br>پیشتر وفا احمدپور همراه با دانیال مقدم، پس از انتشار موزیک ویدیویی به نام «آماده باش» در شیراز بازداشت و توسط دادگاه انقلاب به اتهام «تبلیغ علیه نظام» محکوم شده بودند.",
-      "plain_text": "بخشی از یکی از کارهای پیشین وفا احمدپور، معروف به «وفادار»، که به گرانی بنزین و کاهش قدرت خرید مردم می‌پردازد؛ جمهوری اسلامی از ۱۷ شهریور ۱۴۰۵ قیمت بنزین را به ۱۰ هزار تومان افزایش داد.\n\nوفا احمدپور، خواننده رپ اعتراضی امروز، ۱۶ شهریور، اعلام کرد به رغم سپری کردن دوران حبس و نداشتن فعالیت سیاسی بعد از محکومیت، ابلاغیه‌ای دریافت کرده و پرونده او بار دیگر به جریان افتاده است.\n\nپیشتر وفا احمدپور همراه با دانیال مقدم، پس از انتشار موزیک ویدیویی به نام «آماده باش» در شیراز بازداشت و توسط دادگاه انقلاب به اتهام «تبلیغ علیه نظام» محکوم شده بودند.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229754",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/YzkL_QuwMoMVegbs0YufHqsjxvPe7HT7P_OLWtcktSfP0bwHkue1ua3gxkBoXByGYyyuFZjtNwq7aqP9DyyLCRR25-ICg_TgIcbFbwPaS43A3s2JAOYGkglcH7KbZN7VuIZCmiWXosSI8mv_QXq9V13J5O7wromtclbL5xbqDaiL08wcx2S1qbSCtgWY5o0Pqhlk_MTwo5YnQMUayU0Ax7Tew2VDFyybtpjjll3xUB1SXibAs1ZePZUz2k_CmbPtgxYSAmCU0w-0vOx_mPxBmWa2f0nzNpY5AxUuaoP9F62lMMUcb7mhT-U41Z_Gn868Yjp_ZxgYptgMcAzAoQuY7w",
-          "thumbnail_path": "channels/farsivoa/media/afeab3f67fd34efaca965b54.jpg",
-          "thumbnail_sha256": "69fe5067262b073da64aec9ea203f57ecfd6205e591e592ba7a5e45a927cfc60",
-          "duration_label": "0:56",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.71K",
-      "posted_at": "2026-09-07T16:15:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229754",
       "reply": null
     }
   ]
