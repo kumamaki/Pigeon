@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T16:11:41.908Z",
+  "fetched_at": "2026-09-08T16:16:36.668Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.8K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93492",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Xp1GPjZY4ATloWqym-TkX3n9GYZxWlsZ1JtO4D0neLIWJRuH5wpmbTqs7uCbifzSxmrRAvB4RkQfdU7HCHg5ZE0qJtxdyyg8uwCTr7BFtLRcRte9trFF1imaWTJHRLFCw-X6Q0R2s4gfHibpcPDDqN-O7C-Sip6L5LU3Z2EhTU6d0TOKSgGv2s55eTjDoHnQvCOdmy9lqr40HjmQlQo2zI-H45ezXn7GynL2iQ_JqHbx3G-llmnGay-lX4jOrCLEKVrCnCiMz-GMVGehcWuLYj-lGPFR3ApxgpnjnktzRoSJSY9yrR0I5lAuE0M1bKFShaKBpqnjajGbZEDVTv8FwQ.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a45e25b72ade524afd0808f4.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "«وفا کاشفی»، شهروند بهایی ساکن مشهد، به شش سال حبس محکوم شد. این شهروند بهایی که از اول اردیبهشت‌ماه ۱۴۰۵ در بازداشت به سر می‌برد، اکنون ۱۴۰ روز است که در بند قرنطینه زندان وکیل‌آباد مشهد نگهداری می‌شود.<br><br><br>بیشتر بخوانید: <a href=\"https://iranwire.com/fa/news-1/157342\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157342</a><br><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "«وفا کاشفی»، شهروند بهایی ساکن مشهد، به شش سال حبس محکوم شد. این شهروند بهایی که از اول اردیبهشت‌ماه ۱۴۰۵ در بازداشت به سر می‌برد، اکنون ۱۴۰ روز است که در بند قرنطینه زندان وکیل‌آباد مشهد نگهداری می‌شود.\n\n\nبیشتر بخوانید: https://iranwire.com/fa/news-1/157342\n\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93492",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/nMG8-wYtFOHc85eDHeSyYYf-s0R0Y1_VNxTPfgAH_1p__zbw8pzDdhfMwqSPxriwPBJtGFUGP70lWHGvsqASslnSvg8KvNycO6g4vYwGoD6tkDGLbS76n5tON2829TpNQiA7OI5Zf-2HJk7E7LLXOY_BL5uW6uL1qN_vI8Sw2j2zhLJ4X8CbVyjodvuNhf3HOsZsyfKeAHKmspdMh-jAGS4_c2EQFrhPt4UAWG-DAHMvVLXxFcsZCmVuTVWCBfak2Hn8gKCFe4waWRdTbgnEmMllBcB3peMjrflF6KE_gAXMen5hy0_dt3O87QSFrEgA_7PORwgiwF1sTWrkfqKWjg.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/2ae00d621fc19e41f6324688.jpg",
+          "thumbnail_sha256": "9097455da1f772681225c05254cd46706e2e8390fcf9ec629c6f0a99ad5724da",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "35",
+      "posted_at": "2026-09-08T16:15:06+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93492",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93491",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "210",
+      "views_label": "246",
       "posted_at": "2026-09-08T15:49:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93491",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "336",
+      "views_label": "362",
       "posted_at": "2026-09-08T15:24:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93490",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "389",
+      "views_label": "406",
       "posted_at": "2026-09-08T15:08:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93489",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "367",
+      "views_label": "385",
       "posted_at": "2026-09-08T15:06:31+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93488",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "496",
+      "views_label": "510",
       "posted_at": "2026-09-08T14:50:47+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93487",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "910",
+      "views_label": "918",
       "posted_at": "2026-09-08T12:40:34+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93486",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "877",
+      "views_label": "884",
       "posted_at": "2026-09-08T12:30:41+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93485",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "925",
+      "views_label": "932",
       "posted_at": "2026-09-08T12:20:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93484",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "921",
+      "views_label": "933",
       "posted_at": "2026-09-08T12:10:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93483",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "904",
+      "views_label": "916",
       "posted_at": "2026-09-08T11:51:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93482",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "984",
+      "views_label": "990",
       "posted_at": "2026-09-08T11:25:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93481",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "996",
+      "views_label": "1K",
       "posted_at": "2026-09-08T11:13:07+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93480",
@@ -509,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.21K",
+      "views_label": "1.22K",
       "posted_at": "2026-09-08T08:34:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93474",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-05T14:43:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93390",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93389",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/K1ryeuKQ4KEx_W8GG_UAEgXS4WenbnqYy6I38arbtQjTENtUCZQc86aijSe5XYgmScJwV1DfLQ_4VEPN5DltoBy7THAdB-M57YdRe65wQEul8EBsDbrMRWw2zRL5OzhWguF-d-8QVWwclG6spHHFcXlsJFKgrZLGgwKhEeGbn7jfwHtI0-R8bayMDq_tttXVRSGkpMVAeAyb34TseqUs8rqvywSzheUDDm3U0EVjDW-9tmpTsswi5sMh55tZyHvVXko6rwusUIzlfc8QZNYipXbKGOAn3cz77hC389xV_7PX6pD8qx8sh7cKA0Jz_noMeNwVM5xZQ77gMTmo8209sA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/5ea6725eb75d0236588a5f92.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "جواد مجابی، نویسنده، شاعر، طنزپرداز و منتقد ادبی و هنری، در ۸۷ سالگی پس از یک دوره بیماری درگذشت. او بیش از شش دهه در حوزه‌های ادبیات، روزنامه‌نگاری، نقد هنری و هنرهای تجسمی فعالیت داشت و بیش از ۵۰ اثر در قالب‌های مختلف منتشر کرد.<br><br><br>بیشتر بخوانید: <a href=\"https://iranwire.com/fa/news-1/157195\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157195</a><br><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "جواد مجابی، نویسنده، شاعر، طنزپرداز و منتقد ادبی و هنری، در ۸۷ سالگی پس از یک دوره بیماری درگذشت. او بیش از شش دهه در حوزه‌های ادبیات، روزنامه‌نگاری، نقد هنری و هنرهای تجسمی فعالیت داشت و بیش از ۵۰ اثر در قالب‌های مختلف منتشر کرد.\n\n\nبیشتر بخوانید: https://iranwire.com/fa/news-1/157195\n\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93389",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/kYH77gJ3PXUsydY3xaOexw4AYZcBFfElUOZZiQC_5mKdlT9Pvr-XxdLsDWG6VA9EX4NmerlZ6tWDuZ9sMGw1Oxhbbr8jqEUyLtolwzQMbu6mfBGkE41xXGhcHNHTyd-9oUNO0GjhLTWv6T2iRosFz5SBZGZVQ5_ZLkn28Htm9waxPsVNHV8xvD-ZUPPU9C9s6-GR1eCor5xGUDyi8GE9qqd1xdTyb6vj_CHph-PvUUbAasuEq05WqnBvU6ZCKQLhcLSsXAztniSLGE-eDHf3Ooo3XCaF2YtO-NI6CQ9y-ow-Xwma08oG49RhEzyCFonSQORyM5CSg_gI3SynfGkvpg.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/51a07f443adabeba1623c6c5.jpg",
-          "thumbnail_sha256": "685c530afdf859ecf1e7d941ab938cbefb205f9f08332a99dc86e143defd1e4a",
-          "duration_label": null,
-          "aspect_ratio": 0.7975000000000035
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.37K",
-      "posted_at": "2026-09-05T14:40:19+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93389",
       "reply": null
     }
   ]
