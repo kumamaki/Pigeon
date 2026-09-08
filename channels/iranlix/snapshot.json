@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T22:41:40.151Z",
+  "fetched_at": "2026-09-08T22:46:40.083Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,43 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12758",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l_9ufMfFpJ25r_afGsqRdLe1TBpEdGtQubrLV3heTp0xaKy_3bOMj2CgWrdIc1UpDv6BDR1CUz7LUOwlbGt6cwYajWQXJCUkSLc4mDg8KVE14zTZ9LwGvkwqm71diFwCbH2nViIRdsbm6NTEHx-FPiGHK2If0glqgKIwFN6E3fpPfXG4L5B_8u0lF9SlI9JysGs-RP3ETL5mlmlmj6cRJFK1sNdtj7tP4DYND499o8XinHXPyv-COryBv7foYUzrzsqsk-AuzXwXdGL2-S-fyV30ffZpU_JFFsxZW8baXEnEFumOwn_VcgVB9V_D4tzEEogyHXtPWDrMkW0xK7JN9Q.jpg",
+      "author_photo_path": "channels/iranlix/media/cea36268eb0d26be31369b06.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<a href=\"?q=%23%D8%AA%DA%A9%D9%85%DB%8C%D9%84%DB%8C\">#تکمیلی</a> | <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i><b>فرماندهی مرکزی ایالات متحده آمریکا(سنتکام):<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>«ج.ا از این نفتکش ها به عنوان بخشی از یک شبکه مخفی چند میلیارد دلاری برای تامین مالی سپاه تروریستی پاسداران و نیروهای نیابتی خود در منطقه استفاده می کند.‌‌</b>»<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "#تکمیلی | 🇺🇸فرماندهی مرکزی ایالات متحده آمریکا(سنتکام):\n\n🔸«ج.ا از این نفتکش ها به عنوان بخشی از یک شبکه مخفی چند میلیارد دلاری برای تامین مالی سپاه تروریستی پاسداران و نیروهای نیابتی خود در منطقه استفاده می کند.‌‌»\n\n@iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/12758",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/mtNGu_sVAlnoWSlb2eDxcF9uqxRoS6fFmeXT0OQa6UU_Wdac1dNgxfqm4QJ92SW4cWheZ-Tc2i7oGsPFQL5401-ws05v-nPoQNUUIJphSskXMqIMTukkTTb3P_dgEfo1pe8jGmFnxqfu3SqQwGD-Zio26mNR_h7T8eQLF3AWqsdA7VMwDI6_othdh-pJLQ5OZIMs8uBr2cw0DZohK_7J6jEo2ya8aUeEiVUrCNwSvqoMA-g565LjBqRTz0vUjPyrLfvis8PaC1eEhD270TU--SssEOljJKb1blla7CDDuYKqhb8YnBSkZzKgnHsa920kesjUbJ9et2cStOGsYT3z_A.jpg",
+          "thumbnail_path": "channels/iranlix/media/12747cb7ca4d33d5554731b1.jpg",
+          "thumbnail_sha256": "84709ace4e09f104c9f174a6532a9461fb148e3bc20058a2bb3035523daa4259",
+          "duration_label": null,
+          "aspect_ratio": 1.7818181818181766
+        }
+      ],
+      "reactions": [],
+      "views_label": "61",
+      "posted_at": "2026-09-08T22:42:22+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12758",
+      "reply": {
+        "channel_username": "iranlix",
+        "post_id": "12757",
+        "author_name": "ایرانلیکس",
+        "preview_text": "",
+        "thumbnail_url": "https://cdn4.telesco.pe/file/DyUYdngxsIVT-zJvp0wZrOl2nJy5jvXio0bifOIXZzSRdyBX5gNyajZUtggYOIDNb9UByoRGQj63hK74z_3q_hlKy29u7YmxSsis8vazkW7ZdTRLhakL8uYuB0QmXFHWMOjICZ4NLRbq-yM-Rrx8LplmVh4NXd3FZYW71xIu4JUTMJMxKGX6OhSLf99KeQTbi202Savueau0DtiDsD_e4OonLfZx2auV_rAbOdvg5xiojT1UnjWcSQGvjMBkkGAHs9q_QVBkJzCw5o9_7oHIqRUKEDDmU1hvjeI_zMczxUaTyM4IIjrEAvtFF7NvnUfU72M3NudB8Gozf2WIt9zCTw",
+        "thumbnail_path": "channels/iranlix/media/360c12aeb51fac28320231c0.jpg",
+        "thumbnail_sha256": "f9844f80a87e89e2c18241195ed547d74844a164ab80046542be33a17e67e6f3",
+        "permalink": "https://t.me/iranlix/12757"
+      }
+    },
     {
       "id": "iranlix/12756",
       "author_name": "ایرانلیکس",
@@ -44,7 +81,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "126",
+      "views_label": "187",
       "posted_at": "2026-09-08T22:29:09+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12756",
@@ -72,7 +109,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "187",
+      "views_label": "218",
       "posted_at": "2026-09-08T22:23:55+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12755",
@@ -100,7 +137,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "188",
+      "views_label": "219",
       "posted_at": "2026-09-08T22:22:34+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12754",
@@ -139,7 +176,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "283",
+      "views_label": "284",
       "posted_at": "2026-09-08T22:14:07+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12752",
@@ -239,7 +276,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "347",
+      "views_label": "377",
       "posted_at": "2026-09-08T22:01:28+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12746",
@@ -267,7 +304,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "400",
+      "views_label": "430",
       "posted_at": "2026-09-08T21:54:46+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12745",
@@ -345,7 +382,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "418",
+      "views_label": "448",
       "posted_at": "2026-09-08T21:50:57+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12741",
@@ -373,7 +410,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "598",
+      "views_label": "628",
       "posted_at": "2026-09-08T21:30:16+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12740",
@@ -3043,34 +3080,6 @@
       "posted_at": "2026-09-06T18:12:02+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12639",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12638",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fMVnOc1uSucjuboT6V0k7ELXy0-AF7uXhfQKrT0ABzO4YzNvYVYnhQDl9twI5SD7s_WY23CPVzE1kCYrgwBE-c0afmMRE4w0x1v9fJg2JPujS6glrH0OikU9oZB7LN90gFgqsYvcd6hcSfUWJGw9K7p7qJGl0c1YSpXmSrRkUabxYJw4-0ABlI1K019Rc4i4hddSvcxPaBcfBxscaRfeZ2IAghENZ4crQZSKfSCyu-vReE4p-qu7FL3BVKVpjlewu9IH_c86Ie703hT2oR8BPw-_W35Ebf76o_in2_h7S0lirkU8mZyQ9oCUpBRTYO2xsEYmfY7qyRK21qYFBO7xfA.jpg",
-      "author_photo_path": "channels/iranlix/media/d6f23b233b51f82bbdb3cdba.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i><b>سرهنگ ارتش ج.ا:<br><br> یک قایق پر از بمب با جلیقه انتحاری به من بدهند تا خودم را بکوبم به ناو آمریکایی و شکست بخورند</b>.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔹سرهنگ ارتش ج.ا:\n\nیک قایق پر از بمب با جلیقه انتحاری به من بدهند تا خودم را بکوبم به ناو آمریکایی و شکست بخورند.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/iranlix/12638",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/oMZrlUpIW6eJqlo8gwKL3LIMauA2RYifq3sNyrEQVi6ZRoUM79qUa5oHSmtwrLHih5FhGCj6oUcBk7rfnBOr7lQVwpDigzGgLz5foq9zyrC0TqMltfcj1D-AD3xiHPySWxlHOOt0YyBBOBABMLODy748nncE5OF5VU1vfEYha9Zbd2Nb8RBgbZotttt2t3_Z2cKnk6z0PbzD8tmguQl5vCCt_yzUsIIOSJnha23iMELXrcXyLvCMYb3tdY30MgoZgutMSapDcH81VmJrja6nD92pdB7dcj-LTaA_AbnZAQsm1cq2p0j9xS0uaTc21saY6VCpiu7VxXHINCn3TS3qYA",
-          "thumbnail_path": "channels/iranlix/media/9dd344de0cd08bb8f1861914.jpg",
-          "thumbnail_sha256": "97d60b7698f44f816ed4f61aac9090b68e0abc9f1c5b37f937965f7c73f13958",
-          "duration_label": "0:37",
-          "aspect_ratio": 1.8750000000000118
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.35K",
-      "posted_at": "2026-09-06T18:09:05+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12638",
       "reply": null
     }
   ]
