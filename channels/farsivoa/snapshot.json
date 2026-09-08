@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T12:23:02.046Z",
+  "fetched_at": "2026-09-08T12:26:33.238Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229852",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "سه‌شنبه ۱۷ شهریور ۱۴۰۵، گروهی از پرستاران در کرمانشاه در اعتراض به وضعیت معیشتی با شعار «می‌گیم حقوق نداریم، می‌رید پلیس میارید» تجمع کردند.",
+      "plain_text": "سه‌شنبه ۱۷ شهریور ۱۴۰۵، گروهی از پرستاران در کرمانشاه در اعتراض به وضعیت معیشتی با شعار «می‌گیم حقوق نداریم، می‌رید پلیس میارید» تجمع کردند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229852",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Uk08kKfN4cJ1XOCTw-jkN9sIquLyrZ6aM6r0a5Seuwp6nP-lLg4BjtwNnSudzKduKgaJ3hf83sWrhDc31KvbiyFFTZ_3ke5ZziUY3iXUjpAmcuk3az8KJMqkFCAWwMGsislU78qINtQPVfhBXtAfX-ryX2qBLt_L_2x1XXvG1zlgxtRdct90xQv1CzUBwI_fk1Qc_VH8x7LdylDUn03cTrOEBLK29EWUmllUDU7PHSJ5kVXV7NrSD7_DykKqW7BlP94XEJcO9dcbsaUXJbK8S6n4dJQRv8fEEFym-tiVPdxvfFbXKpSqNHIcMHnA7xpB0eqD7fsJ0UuefmxKClHBpA",
+          "thumbnail_path": "channels/farsivoa/media/08690cb8aaf6e980ce00c001.jpg",
+          "thumbnail_sha256": "c566540957d299e4734a2cc485dce34210dc5cd367bf93d6c68b7e1bbd451f09",
+          "duration_label": "0:07",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "68",
+      "posted_at": "2026-09-08T12:25:13+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229852",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229851",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺بریتانیا لایحه تحریم‌های سخت‌تر علیه جمهوری اسلامی را منتشر کرد\n\n▪️بریتانیا روز سه‌شنبه قانونی برای اعمال تحریم‌های سخت‌تر علیه جمهوری اسلامی منتشر کرد که محدودیت‌های تجاری و اختیارات هدف قرار دادن شناورها را گسترش می‌دهد.\n\n▪️دولت بریتانیا اقدام را بخشی از تلاش گسترده‌تر برای مهار برنامه هسته‌ای تهران و «دیگر فعالیت‌های خصمانه» خواند. بر پایه اعلام دولت بریتانیا، اقدام‌ها دسترسی جمهوری اسلامی به نظام مالی این کشور را محدود می‌کند.\n\n▪️ممنوعیت تجارت به کالاها، فناوری و خدمات بیشتری گسترش می‌یابد و فرود هواپیماهای ایرانی در بریتانیا جز در موارد استثنا ممنوع می‌شود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/uk-publishes-legislation-for-tougher-sanctions-on-iran/8195516.html",
       "media": [],
       "reactions": [],
-      "views_label": "608",
+      "views_label": "737",
       "posted_at": "2026-09-08T12:07:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229851",
@@ -37,7 +65,7 @@
       "plain_text": "🔺ژاپن نگرانی خود را از حملات جمهوری اسلامی به شناورها در هرمز ابراز کرد\n\n▪️توشیمیتسو موتگی، وزیر خارجه ژاپن، در گفت‌وگوی تلفنی با عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، نگرانی خود را از ادامه حملات جمهوری اسلامی به شناورهای غیرنظامی ابراز کرد و خواستار «حداکثر خویشتنداری» شد.\n\n▪️بر پایه اعلام وزارت خارجه ژاپن، در این تماس پنج خواسته توکیو از جمله کاهش تنش و از سرگیری مذاکرات، انعطاف حداکثری، توقف حمله به شناورها، بازگشت آزادی دریانوردی بدون هزینه افزوده و مهار حوثی‌ها به عراقچی منتقل شد.\n\n▪️در مقابل عراقچی از «پیشرفت قابل توجه» گفت‌وگوها با عمان برای تعیین یک مسیر موقت تردد در تنگه هرمز خبر داد. ژاپن اما می‌گوید آینده تنگه باید در جامعه بین‌المللی بررسی شود، نه دوجانبه.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/japan-expresses-concern-over-iranian-attacks-on-vessels-in-hormuz/8195515.html",
       "media": [],
       "reactions": [],
-      "views_label": "800",
+      "views_label": "864",
       "posted_at": "2026-09-08T12:02:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229850",
@@ -65,7 +93,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.04K",
+      "views_label": "1.07K",
       "posted_at": "2026-09-08T11:51:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229849",
@@ -93,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.21K",
+      "views_label": "1.24K",
       "posted_at": "2026-09-08T11:44:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229848",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.36K",
+      "views_label": "1.39K",
       "posted_at": "2026-09-08T11:34:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229847",
@@ -149,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.49K",
+      "views_label": "1.52K",
       "posted_at": "2026-09-08T11:24:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229846",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.8K",
+      "views_label": "1.83K",
       "posted_at": "2026-09-08T11:08:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229845",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.96K",
+      "views_label": "1.99K",
       "posted_at": "2026-09-08T10:57:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229844",
@@ -221,7 +249,7 @@
       "plain_text": "🔺هشدار استادان دانشگاه مبنی بر اعتصاب از اول مهر و حاضر نشدن در کلاس‌ها\n\n▪️کانون صنفی استادان دانشگاهی ایران هشدار داد اگر قانون ترمیم حقوق اعضای هیئت علمی تا پایان شهریور به‌طور کامل اجرا نشود، از استادان می‌خواهد فعالیت‌های دانشگاهی خود را از ابتدای مهر تعلیق کنند.\n\n▪️بر پایه بیانیه این کانون، تعلیق حوزه‌های آموزشی، پژوهشی، اجرایی و مشاوره‌ای را در بر می‌گیرد و تا اجرای «کامل و بی‌قیدوشرط» قانون ادامه می‌یابد.\n\n▪️در بیانیه آمده است اعضای هیئت علمی پس از دو سال طی شدن مراحل کارشناسی و قانونی انتظار داشتند اجرای قانون بخشی از مشکلات معیشتی آنان را کاهش دهد.\n\n▪️با این حال با گذشت نزدیک به شش ماه از سال ۱۴۰۵، قانون همچنان به‌طور کامل اجرا نشده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195514.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.21K",
+      "views_label": "2.24K",
       "posted_at": "2026-09-08T10:45:08+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229843",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.17K",
+      "views_label": "2.21K",
       "posted_at": "2026-09-08T10:33:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229842",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.26K",
+      "views_label": "2.27K",
       "posted_at": "2026-09-08T10:26:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229841",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.56K",
+      "views_label": "2.6K",
       "posted_at": "2026-09-08T09:59:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229840",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.68K",
+      "views_label": "2.72K",
       "posted_at": "2026-09-08T09:41:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229839",
@@ -349,7 +377,7 @@
       "plain_text": "🔺نماینده مجلس: تغییر قیمت بنزین «التهاب‌زا» است؛ جایگاه‌ها به مشکل فنی خوردند\n\n▪️پس از افزایش قیمت بنزین آزاد از پنج هزار تومان به ۱۰ هزار تومان، رئیس کمیسیون امور داخلی مجلس شورای اسلامی گفت تغییر قیمت بنزین بدون همراهی مجلس «التهاب‌زا» است.\n\n▪️سهمیه‌های یارانه‌ای تغییر نکرده است. مالکان خودروهای شخصی همچنان ماهانه ۶۰ لیتر با نرخ ۱۵۰۰ تومان و ۵۰ لیتر با نرخ ۳۰۰۰ تومان دریافت می‌کنند. نرخ تازه زمانی اعمال می‌شود که مصرف از مجموع سهمیه‌ها بگذرد یا راننده کارت شخصی همراه نداشته باشد.\n\n▪️همزمان اجرای طرح با مشکل فنی روبه‌رو شد و در جایگاه‌های سوخت مشکلاتی ایجاد کرد. بر اساس گزارش رسانه‌ها، نمایشگرهای جایگاه‌های سوخت چهار رقمی‌اند و رقم ۱۰ هزار تومان روی آنها جا نمی‌شود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195513.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.75K",
+      "views_label": "2.78K",
       "posted_at": "2026-09-08T09:31:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229838",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.78K",
+      "views_label": "2.81K",
       "posted_at": "2026-09-08T09:17:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229837",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.97K",
+      "views_label": "3K",
       "posted_at": "2026-09-08T09:02:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229836",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.9K",
+      "views_label": "2.94K",
       "posted_at": "2026-09-08T08:52:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229835",
@@ -449,7 +477,7 @@
       "plain_text": "🔺هاکبی: ممنوعیت تجارت بریتانیا با شهرک‌های اسرائیلی واکنش آمریکا را برمی‌انگیزد\n\n▪️سفیر آمریکا در اسرائیل هشدار داد اعلام ممنوعیت تجارت بریتانیا با شهرک‌های کرانه باختری احتمالاً واکنش آمریکا را در پی دارد. مایک هاکبی به شبکه خبری بی‌بی‌سی گفت «بدون تردید» واکنشی خواهد بود، از جمله در سطح ایالت‌های منفرد آمریکا.\n\n▪️هاکبی افزود این می‌تواند «اثر اقتصادی عظیمی بر کسب‌وکارهای بریتانیایی» داشته باشد، چون برخی شرکت‌ها ممکن است از فعالیت در برخی ایالت‌ها منع شوند.\n\n▪️پیشتر رندی فاین، نماینده جمهوری‌خواه، در شبکه ایکس نوشت: «فلوریدا یکی از بزرگترین شرکای تجاری بریتانیاست. باید بدانند پروژه خودنمایانه‌شان در پشتیبانی از تروریسم مسلمانان می‌تواند میلیاردها دلار برایشان هزینه داشته باشد.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195511.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.96K",
+      "views_label": "2.99K",
       "posted_at": "2026-09-08T08:42:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229834",
@@ -477,7 +505,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.79K",
+      "views_label": "2.82K",
       "posted_at": "2026-09-08T08:31:45+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229833",
@@ -2591,34 +2619,6 @@
       "posted_at": "2026-09-07T15:04:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229743",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229742",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "روز دوشنبه ۱۶ شهریور، بازنشستگان مخابرات استان آذربایجان شرقی تجمع اعتراضی برگزار کردند و خواستار اجرای آیین‌نامه ۸۹/۲۴، اجرای رأی ۹۲۳۵ دیوان عدالت اداری، اجرای متناسب‌سازی عادلانه، ساماندهی بیمه تکمیلی و پرداخت مطالبات سال‌های گذشته شدند.",
-      "plain_text": "روز دوشنبه ۱۶ شهریور، بازنشستگان مخابرات استان آذربایجان شرقی تجمع اعتراضی برگزار کردند و خواستار اجرای آیین‌نامه ۸۹/۲۴، اجرای رأی ۹۲۳۵ دیوان عدالت اداری، اجرای متناسب‌سازی عادلانه، ساماندهی بیمه تکمیلی و پرداخت مطالبات سال‌های گذشته شدند.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229742",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/cKzqSeD-_1DK7tuiR6xM613mwqGMV_Oq0Lh7kmByhMzqsXH_zLw7zMAKSIzFjQ2KbgAbkQppcvCELNN_itjOV_TpepigdjodkBh82GAuhcBKD-cy7tqSrSDNh5iHxHb0AZo577Hyfm8LVb9lAcudOVjL6ifH5GGPP3NIBOTKyvT9x3pcK1sCpdi6UjJx22WRLQxfuv4B8Hbr7vmGhGQbaBFm24n2cmfyHXH6aYq5-R_EoWAt5cGMT2o0UxgGaGvks9FUhPKz4B10GQ_rmxzVz-W_QtEvjmKe2qPLkCbfdmJIcCgPdo2aWgw1DZxTWpVNyONQtpDusjvecZlvqJCyVA",
-          "thumbnail_path": "channels/farsivoa/media/0877d58a94dd67605f79ade5.jpg",
-          "thumbnail_sha256": "a23cc18a56f4d50572f8a95e744469130658d6fb5ee68827b63b1d1640c3b627",
-          "duration_label": "0:48",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.38K",
-      "posted_at": "2026-09-07T14:48:00+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229742",
       "reply": null
     }
   ]
