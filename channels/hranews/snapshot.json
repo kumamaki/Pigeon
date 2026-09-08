@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T16:41:38.107Z",
+  "fetched_at": "2026-09-08T16:46:38.408Z",
   "channel": {
     "username": "hranews",
     "title": "خبرگزاری هرانا",
@@ -12,6 +12,22 @@
   },
   "posts": [
     {
+      "id": "hranews/115494",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/iZyX_7dy9Du8-YNGCtdMYK3MP5dphPfB1zMaXCNUK8aaaARamz4Ly0CvRtoCcM3-dyXXRK5WX_Sh46_vYKlxQGctH2xTxf7JYZKDegTqeMVeBYAHxut8hrTLcwSVeUa-ZCjEG9Kz6oZ-0SQ9iKaGJN1Cj-2fIoPG4wyomntMR29iluxWEStx7DkF_1cq5ElU5tzftMAZ6xYE047jyvCHZ9Az1sy-Xq3xItrYFJkO7HPnbwf_MpvguP9NlFYRMr0nCnrYtqCi4BgxZQ__GAu9nHAo74NCj6gJ7R8-n_pBnl5RWaqcN-f80J_DUfVycgHq_htQjBCQccv9yYTz4kMK2Q.jpg",
+      "author_photo_path": "channels/hranews/media/294c867d92cda28ca3eef2ff.jpg",
+      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
+      "body_html": "برگزاری جلسه بازپرسی محسن آرمین در دادسرای تهران<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji> – جلسه بازپرسی محسن آرمین، فعال سیاسی در دادسرای عمومی و انقلاب ناحیه ۳۳ تهران برگزار شد. وی در پایان جلسه بازپرسی با قرار کفالت آزاد شد.<br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-bf5bbc4a/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><a href=\"?q=%23%D9%85%D8%AD%D8%B3%D9%86_%D8%A2%D8%B1%D9%85%DB%8C%D9%86\">#محسن_آرمین</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "برگزاری جلسه بازپرسی محسن آرمین در دادسرای تهران\n\n❗️❗️❗️❗️❗️ – جلسه بازپرسی محسن آرمین، فعال سیاسی در دادسرای عمومی و انقلاب ناحیه ۳۳ تهران برگزار شد. وی در پایان جلسه بازپرسی با قرار کفالت آزاد شد.\n\nادامه مطلب\n\n#محسن_آرمین\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
+      "media": [],
+      "reactions": [],
+      "views_label": "49",
+      "posted_at": "2026-09-08T16:43:20+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/115494",
+      "reply": null
+    },
+    {
       "id": "hranews/115493",
       "author_name": "خبرگزاری هرانا",
       "author_photo_url": "https://cdn1.telesco.pe/file/iZyX_7dy9Du8-YNGCtdMYK3MP5dphPfB1zMaXCNUK8aaaARamz4Ly0CvRtoCcM3-dyXXRK5WX_Sh46_vYKlxQGctH2xTxf7JYZKDegTqeMVeBYAHxut8hrTLcwSVeUa-ZCjEG9Kz6oZ-0SQ9iKaGJN1Cj-2fIoPG4wyomntMR29iluxWEStx7DkF_1cq5ElU5tzftMAZ6xYE047jyvCHZ9Az1sy-Xq3xItrYFJkO7HPnbwf_MpvguP9NlFYRMr0nCnrYtqCi4BgxZQ__GAu9nHAo74NCj6gJ7R8-n_pBnl5RWaqcN-f80J_DUfVycgHq_htQjBCQccv9yYTz4kMK2Q.jpg",
@@ -21,7 +37,7 @@
       "plain_text": "یک شهروند در پی تیراندازی بی‌ضابطه نیروهای نظامی در فاریاب کشته شد\n\n❗️❗️❗️❗️❗️ – روز گذشته، یک شهروند در شهرستان فاریاب در پی تعقیب و گریز و تیراندازی بی‌ضابطه نیروهای نظامی، جان خود را از دست داد.\n\nادامه مطلب\n\n#مجتبی_بامری\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "144",
+      "views_label": "186",
       "posted_at": "2026-09-08T16:25:21+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115493",
@@ -37,7 +53,7 @@
       "plain_text": "محمدباقر خرازی همچنان در بازداشت به‌سر می‌برد\n\n❗️❗️❗️❗️❗️ – سخنگوی قوه قضاییه، از تداوم بازداشت محمدباقر خرازی خبر داد و اعلام کرد که پرونده این روحانی و فعال سیاسی، در دادسرای ویژه روحانیت در حال رسیدگی است.\n\nادامه مطلب\n\n#محمدباقر_خرازی\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "346",
+      "views_label": "366",
       "posted_at": "2026-09-08T15:32:19+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115492",
@@ -65,7 +81,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "381",
+      "views_label": "398",
       "posted_at": "2026-09-08T15:06:04+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115491",
@@ -93,7 +109,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "360",
+      "views_label": "374",
       "posted_at": "2026-09-08T14:48:50+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115490",
@@ -109,7 +125,7 @@
       "plain_text": "همزمان با بازداشت ۷ شهروند در کهگیلویه؛ یک واحد صنفی پلمب شد\n\n❗️❗️❗️❗️❗️ – فرمانده انتظامی کهگیلویه از #بازداشت هفت شهروند در ارتباط با مدیریت صفحات و تولید محتوا در فضای مجازی خبر داد. به گفته وی، این افراد پس از بازداشت به مرجع قضایی معرفی شده‌اند و یک واحد صنفی نیز در ارتباط با این پرونده #پلمب شده است.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "383",
+      "views_label": "394",
       "posted_at": "2026-09-08T14:34:47+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115489",
@@ -137,7 +153,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "401",
+      "views_label": "409",
       "posted_at": "2026-09-08T14:18:15+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115488",
@@ -165,7 +181,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "517",
+      "views_label": "528",
       "posted_at": "2026-09-08T13:03:39+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115487",
@@ -193,7 +209,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "548",
+      "views_label": "553",
       "posted_at": "2026-09-08T12:33:18+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115486",
@@ -221,7 +237,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "534",
+      "views_label": "540",
       "posted_at": "2026-09-08T12:05:05+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115485",
@@ -249,7 +265,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "512",
+      "views_label": "517",
       "posted_at": "2026-09-08T11:55:58+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115484",
@@ -277,7 +293,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "504",
+      "views_label": "511",
       "posted_at": "2026-09-08T11:40:40+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115483",
@@ -305,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "604",
+      "views_label": "609",
       "posted_at": "2026-09-08T10:37:47+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115482",
@@ -333,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "622",
+      "views_label": "628",
       "posted_at": "2026-09-08T10:15:43+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115481",
@@ -361,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "632",
+      "views_label": "640",
       "posted_at": "2026-09-08T10:03:09+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115480",
@@ -389,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "671",
+      "views_label": "676",
       "posted_at": "2026-09-08T08:58:47+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115479",
@@ -417,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "770",
+      "views_label": "777",
       "posted_at": "2026-09-08T08:19:39+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115478",
@@ -445,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "768",
+      "views_label": "775",
       "posted_at": "2026-09-08T08:01:33+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115477",
@@ -473,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.38K",
+      "views_label": "1.39K",
       "posted_at": "2026-09-07T19:16:41+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115476",
@@ -2289,34 +2305,6 @@
       "posted_at": "2026-09-04T07:36:39+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115395",
-      "reply": null
-    },
-    {
-      "id": "hranews/115394",
-      "author_name": "خبرگزاری هرانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/PRWg4sI99bWdJWxYOJOxcC0suFyfOOCr8ghHR8BLosWGsLKNWyPv49u2WQEOecCgUokv4Hs-6Z75M4ycDPsxD7zf6W6utXCZDlFGZAbTZI6Tv5Wvg9Vlok-4RfsGaJ66Atyt1h_mCREANbl8zTK2qAhm53eLR82BT1Sson-uR7M28SWB_pqOS0l7rCkcrjH2UCC_gA3ed5rVNYUv0QpUGcyxoDwQMr3-LAUGG4_BtRJDwM2ThUeEwu7xXCNmNyYBqbcWtnR-vQuIRvdSj0mwIwWVTDBgGpzsWH3rR0TTYWoPZvDQj7p6HD8OOB7KCPs_49cOIhjz7uRDFuFlt52yKg.jpg",
-      "author_photo_path": "channels/hranews/media/550b221295ccd3e478d3cad0.jpg",
-      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
-      "body_html": "زندان اردبیل؛ بابک دادبخش به اعتصاب خود پایان داد<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– بابک دادبخش، زندانی سیاسی محبوس در زندان اردبیل، با وعده مساعد مسئولان به اعتصاب خود پایان داد.<br><br>به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، بابک دادبخش به <a href=\"?q=%23%D8%A7%D8%B9%D8%AA%D8%B5%D8%A7%D8%A8\">#اعتصاب</a> خود پایان داد.<br><br>بر اساس اطلاعات دریافتی هرانا، وی پس از دریافت وعده‌هایی توسط مسئولان قضایی استان اردبیل و مسئولان سازمان زندان‌ها در خصوص رسیدگی به مطالباتش، روز چهارشنبه ۱۰ شهریورماه به اعتصاب غذای خود پایان داده است. آقای دادبخش از همان روز به بهداری زندان منتقل و تحت نظر قرار گرفته است.<br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-5581d2ef/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب<br></a><br><a href=\"?q=%23%D8%A8%D8%A7%D8%A8%DA%A9_%D8%AF%D8%A7%D8%AF%D8%A8%D8%AE%D8%B4\">#بابک_دادبخش</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
-      "plain_text": "زندان اردبیل؛ بابک دادبخش به اعتصاب خود پایان داد\n\n❗️❗️❗️❗️❗️– بابک دادبخش، زندانی سیاسی محبوس در زندان اردبیل، با وعده مساعد مسئولان به اعتصاب خود پایان داد.\n\nبه گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، بابک دادبخش به #اعتصاب خود پایان داد.\n\nبر اساس اطلاعات دریافتی هرانا، وی پس از دریافت وعده‌هایی توسط مسئولان قضایی استان اردبیل و مسئولان سازمان زندان‌ها در خصوص رسیدگی به مطالباتش، روز چهارشنبه ۱۰ شهریورماه به اعتصاب غذای خود پایان داده است. آقای دادبخش از همان روز به بهداری زندان منتقل و تحت نظر قرار گرفته است.\n\nادامه مطلب\n\n#بابک_دادبخش\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/hranews/115394",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/HSJb2V9p9_GjrXV0J0UlotFWzAmfPVrI4rQyHq76y7f_3nWxlEA67BqaiNoESA93A9WG2WVNcHEIPnJ5wK90hHr3gukHaudc9SE3kv7OIHnyEMrIcqwoPjseFpBe7Q_S9TGYYsSo1hxZ6q-knK37adcV4NK4lVkYsHyPsBBK1pHOQgqUfGSL9-9lsJWhzIRHIyQFplILNr2nPan-YAogx9dY2lisbxNi0IUmLgRak1d4G2P2Rgdat3kHjkV3Ld0XiO4b5YcompPVqexfOGVBc9txxNAOmoaO40pHqJsansEhKwkZWT5EgUzTPiJ5sLI7oCizzACboHsgIUvouhBUAg.jpg",
-          "thumbnail_path": "channels/hranews/media/18c6996411dfd5166a521be9.jpg",
-          "thumbnail_sha256": "ba2c1aa8338e9de3c70997baf60a5e5991903e61d926af668ba84468694468f9",
-          "duration_label": null,
-          "aspect_ratio": 1.5009380863039399
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.05K",
-      "posted_at": "2026-09-04T07:03:23+00:00",
-      "edited": false,
-      "permalink": "https://t.me/hranews/115394",
       "reply": null
     }
   ]

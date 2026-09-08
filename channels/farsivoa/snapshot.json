@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T16:41:36.376Z",
+  "fetched_at": "2026-09-08T16:46:36.839Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,50 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229882",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>مارکو روبیو درباره اقدامات حوثی‌ها: دست جمهوری اسلامی پشت آنها است<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>مارکو روبیو، وزیر امور خارجه ایالات متحده، روز سه‌شنبه ۱۷ شهریور با اشاره به حملات حوثی‌های یمن به عربستان سعودی گفت این گروه «از بسیاری جهات عوامل و نیروهای نیابتی» جمهوری اسلامی است و افزود که «به‌وضوح دست جمهوری اسلامی» پشت بخشی از این تحولات دیده می‌شود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/rubio-links-houthis-to-iran/8195596.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/rubio-links-houthis-to-iran/8195596.html/?nocach=1</a>",
+      "plain_text": "🔺مارکو روبیو درباره اقدامات حوثی‌ها: دست جمهوری اسلامی پشت آنها است\n\n▪️مارکو روبیو، وزیر امور خارجه ایالات متحده، روز سه‌شنبه ۱۷ شهریور با اشاره به حملات حوثی‌های یمن به عربستان سعودی گفت این گروه «از بسیاری جهات عوامل و نیروهای نیابتی» جمهوری اسلامی است و افزود که «به‌وضوح دست جمهوری اسلامی» پشت بخشی از این تحولات دیده می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/rubio-links-houthis-to-iran/8195596.html/?nocach=1",
+      "media": [],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T16:46:02+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229882",
+      "reply": null
+    },
+    {
+      "id": "farsivoa/229881",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "جو ویلسون: امپراتوری مرگ حوثی‌ها به دست مردم یمن در حال فروپاشی است",
+      "plain_text": "جو ویلسون: امپراتوری مرگ حوثی‌ها به دست مردم یمن در حال فروپاشی است",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229881",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/IZxE20PzwJEWnv1VvElgOuuFPVqwy_7Hbq7ilAIFkPV5Um-YEID_qtNgSJvqrgfSRl3VjcbykxvAj38Cxh5U7Ub2fP2OYLnjAP1umJ75n2oyt2AbB9mBOasgJkyjsX1ub-E9c-3w_8lE0FUEFqPIYNkxr-wYJS2ArKX4MgiC4BtTvpnZSZTXLz19LbVf-zuEY6Q0ge7FV-Y8t8dADDjrQ65lwo6XGfSllBBRgBjqb48V-sSSiScTLOml6HKbTmeAecdhA_Wd6qlTxkKYdfFe2fcrNdB3COBHoDfK85zlebnZOOyhQyffsQNBEKBgurCUCJkbTNguM1ljEaiZf2jqKA",
+          "thumbnail_path": "channels/farsivoa/media/92443ed884aecfca1ea856b2.jpg",
+          "thumbnail_sha256": "6779f6ceac6af5768db4d15606eff1c8df08f2a217e9277be9b470291144f321",
+          "duration_label": "2:57",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "194",
+      "posted_at": "2026-09-08T16:44:49+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229881",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229880",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
@@ -21,7 +65,7 @@
       "plain_text": "🔺واکنش اسرائیل به اقدامات بریتانیا؛ تعطیلی کنسولگری در اورشلیم و اخراج نمایندگان از مرکز هماهنگی غزه\n\n▪️به گزارش رسانه‌های اسرائیل، گیدئون سعار، وزیر امور خارجه اسرائیل، روز سه‌شنبه ۱۷ شهریور با انتشار بیانیه‌ای اعلام کرد که اسرائیل چند اقدام دیپلماتیک را علیه بریتانیا به اجرا خواهد گذاشت.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/gideon-saar-israel-british-relations/8195571.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "353",
+      "views_label": "647",
       "posted_at": "2026-09-08T16:36:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229880",
@@ -49,7 +93,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "580",
+      "views_label": "811",
       "posted_at": "2026-09-08T16:33:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229879",
@@ -77,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "902",
+      "views_label": "1.1K",
       "posted_at": "2026-09-08T16:24:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229878",
@@ -121,7 +165,7 @@
       "plain_text": "🔺موج حمایت خانواده‌های دادخواه از یکدیگر؛‌ زنده بمانیم تا روز انتقام\n\n▪️در پی انتشار اخباری درباره خودکشی دو تن از بستگان کشته‌شدگانِ اعتراضات سال ۱۴۰۴، شماری از خانواده‌های دادخواه با انتشار ویدیوهایی بر لزوم «زنده ماندن و مبارزه تا فرارسیدن روز انتقام» تاکید کردند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iran-human-rights-suicide-protests-january-2026-murder-kill/8195558.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.34K",
+      "views_label": "1.48K",
       "posted_at": "2026-09-08T16:11:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229876",
@@ -149,7 +193,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.38K",
+      "views_label": "1.45K",
       "posted_at": "2026-09-08T16:06:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229875",
@@ -177,7 +221,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.71K",
+      "views_label": "1.81K",
       "posted_at": "2026-09-08T15:51:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229874",
@@ -193,7 +237,7 @@
       "plain_text": "🔺دو تن از نزدیکان جان‌باختگان اعتراضات دی ۱۴۰۴ به زندگی خود پایان دادند\n\n▪️گزارش‌های منتشرشده توسط چند رسانه و منبع حقوق بشری حاکی است دانیال کریمی، پدر امیرمحمد کریمی، از جان‌باختگان اعتراضات دی‌ ۱۴۰۴، و آیدا حیدری، نامزد ابوالفضل سلیمانی الموتی، یکی دیگر از جان‌باختگان این اعتراضات، به زندگی خود پایان داده‌اند؛ رخدادهایی که در ادامه گزارش‌ها درباره پیامدهای سنگین سرکوب معترضان و فشار بر خانواده‌های دادخواه منتشر می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/two-bereaved-relatives-die/8195553.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2K",
+      "views_label": "2.1K",
       "posted_at": "2026-09-08T15:38:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229873",
@@ -209,7 +253,7 @@
       "plain_text": "🔺آمریکا ده‌ها شرکت و نهاد مرتبط با هوانوردی جمهوری اسلامی را تحریم کرد\n\n▪️دفتر کنترل دارایی‌های خارجی وزارت خزانه‌داری ایالات متحده آمریکا «اوفک» در چارچوب «عملیات طرد اقتصادی» ۳۶ نهاد، از جمله ۲۷ شرکت هواپیمایی جمهوری اسلامی، را به دلیل حمایت از بخش هوانوردی ایران - که حکومت ایران از آن برای جابه‌جایی تسلیحات، پرسنل، و محموله‌های غیرقانونی استفاده می‌کند - تحریم کرد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/ofac-iranian-regime-aviation-sanctions/8195557.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.83K",
+      "views_label": "1.89K",
       "posted_at": "2026-09-08T15:34:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229872",
@@ -237,7 +281,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.77K",
+      "views_label": "1.84K",
       "posted_at": "2026-09-08T15:27:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229871",
@@ -265,7 +309,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.8K",
+      "views_label": "1.87K",
       "posted_at": "2026-09-08T15:25:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229870",
@@ -293,7 +337,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.19K",
+      "views_label": "2.25K",
       "posted_at": "2026-09-08T15:09:26+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229869",
@@ -321,7 +365,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.22K",
+      "views_label": "2.26K",
       "posted_at": "2026-09-08T14:57:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229868",
@@ -337,7 +381,7 @@
       "plain_text": "🔺وزیران خارجه کشورهای عربی حملات منطقه‌ای جمهوری اسلامی را محکوم کردند\n\n▪️وزیران امور خارجه کشورهای عربی با محکوم کردن حملات جمهوری اسلامی به کشورهای منطقه، بر حق دفاع فردی و جمعی در برابر این حملات تأکید کردند و خواستار بازگشایی فوری و بدون قید و شرط تنگه هرمز و تضمین آزادی کشتیرانی در آبراه‌های منطقه شدند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/arab-league-foreign-ministers-cairo/8195540.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.37K",
+      "views_label": "2.44K",
       "posted_at": "2026-09-08T14:46:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229867",
@@ -365,7 +409,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.4K",
+      "views_label": "2.43K",
       "posted_at": "2026-09-08T14:36:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229866",
@@ -393,7 +437,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.5K",
+      "views_label": "2.57K",
       "posted_at": "2026-09-08T14:28:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229865",
@@ -421,7 +465,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.57K",
+      "views_label": "2.63K",
       "posted_at": "2026-09-08T14:20:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229864",
@@ -449,7 +493,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.79K",
+      "views_label": "2.85K",
       "posted_at": "2026-09-08T14:07:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229863",
@@ -477,7 +521,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.89K",
+      "views_label": "2.92K",
       "posted_at": "2026-09-08T14:00:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229862",
@@ -2498,62 +2542,6 @@
       "posted_at": "2026-09-07T18:15:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229780",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229779",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "ارتش اسرائیل اعلام کرد روز گذشته، دوشنبه، دو نیروی سازمان‌های تروریستی حماس و جهاد اسلامی فلسطین را در نوار غزه هدف‌گیری کرد.<br><br>«صبحي حداد الهاشم البطریخی»، عضو جنبش جهاد اسلامی فلسطین، و «احمد فؤاد خلیل خلس»، عضو یگان نخبه در شاخه نظامی سازمان تروریستی حماس، که هر دو در کارگذاری بمب‌ها علیه نیروهای ارتش اسرائیل در منطقه مشارکت داشتند، در نوار غزه هدف‌گیری و حذف شدند.<br><br>ارتش اسرائیل تاکید کرد این دو در دوره اخیر طرح‌های تروریستی علیه نیروهای ارتش اسرائیل و شهروندان کشور اسرائیل را پیش می‌بردند و به‌صورت مستمر آتش‌بس را نقض می‌کردند.",
-      "plain_text": "ارتش اسرائیل اعلام کرد روز گذشته، دوشنبه، دو نیروی سازمان‌های تروریستی حماس و جهاد اسلامی فلسطین را در نوار غزه هدف‌گیری کرد.\n\n«صبحي حداد الهاشم البطریخی»، عضو جنبش جهاد اسلامی فلسطین، و «احمد فؤاد خلیل خلس»، عضو یگان نخبه در شاخه نظامی سازمان تروریستی حماس، که هر دو در کارگذاری بمب‌ها علیه نیروهای ارتش اسرائیل در منطقه مشارکت داشتند، در نوار غزه هدف‌گیری و حذف شدند.\n\nارتش اسرائیل تاکید کرد این دو در دوره اخیر طرح‌های تروریستی علیه نیروهای ارتش اسرائیل و شهروندان کشور اسرائیل را پیش می‌بردند و به‌صورت مستمر آتش‌بس را نقض می‌کردند.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229779",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/PcxDDDV5TB0sYlTs3WRr_3AuUhR_M_mEEMae3L3nsgOIUpDac7twwwLuUEAoS3uABt5K1B9C5NcZ29F5H7APH2DrWU8zVVnsl8ZYVk4IgDTR71rvAVYFOTDAarXaLZrAfGg7ODAqQcxerebgPfXu3ocSHzfqpf4vfTiojC5wJbCQGqCeM37DndLVa5kmBH1KtHGnU729aJM-HEE-H1ToW9VrIqfuCnmk2o5UR0qVddgz9-MnDnbhBDCFYIuMEhLNCMysrpr-uXMHHOfMq-ZinZiqBhBktieEHNmBWoaLZwiNmoH2_1iA9RUZoXvup0cnGm5aiY4Ff3tF7pQml-dznw",
-          "thumbnail_path": "channels/farsivoa/media/fb1d50adb6e2987e17008a3f.jpg",
-          "thumbnail_sha256": "18d93ef3d788ba32b9c4196f20971db8521974f4fb427d046d2df56143254aef",
-          "duration_label": "0:06",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.22K",
-      "posted_at": "2026-09-07T18:07:47+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229779",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229778",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "قصد اصلی حکومت ایجاد ابهام در قضیه هسته‌ای است. وضعیتی که نه رژیم به بمب می‌رسد و نه طرف مقابل مطمئن است که آنها توان ساخت بمب را ندارند. روح اللّٰه رحيم پور در «میدان».",
-      "plain_text": "قصد اصلی حکومت ایجاد ابهام در قضیه هسته‌ای است. وضعیتی که نه رژیم به بمب می‌رسد و نه طرف مقابل مطمئن است که آنها توان ساخت بمب را ندارند. روح اللّٰه رحيم پور در «میدان».",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229778",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/G6HYxD9cE-CrdOypEwP9jgJj1N-yKhHP5XyjT2aklQB4JuJHMD93WfR9fQe6Hqovsh_jLgq4GWPDm8JCW30LTGLbc4AGhwx3yPO-mRXGrDkfVOw-hNNs4I2HZhavdiaxmajFKW1wGn9jtFySNMBvU0dqkn8NENP1YLYqGCN9NBUl2_pA2A4Qu4TmhSGfB_66P-A0ZWBsDiVjm_z9rHTezbqPqUySD8ZlArLzrSFhBq1LgkjOA3-6Roq5ekhwxoMA1MeU5Yr8jPUYcLWngcPKg1u4I9TqQTpjjpQqse02c4FJqGjSXYZzfT4juPQIxDIB66bT7GO_qYn6usnXuprtPA",
-          "thumbnail_path": "channels/farsivoa/media/fcf709292776e3a6bd903b63.jpg",
-          "thumbnail_sha256": "7eb86a6dbf7614fdfca4a2c489c9a57f75669810eeb669f4de6540b07156f39c",
-          "duration_label": "1:38",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.14K",
-      "posted_at": "2026-09-07T17:57:38+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229778",
       "reply": null
     }
   ]
