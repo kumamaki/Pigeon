@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T05:17:04.185Z",
+  "fetched_at": "2026-09-08T05:22:09.532Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,22 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229821",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>پیشنهاد مصر برای چارچوب امنیتی مشترک عربی در پی حملات جمهوری اسلامی<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>وزیر امور خارجه مصر، در نشست شورای اتحادیه عرب در قاهره چارچوب امنیتی مشترکی برای کشورهای عربی پیشنهاد کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>بنابر گزارش رسانه‌های عربی، بدر عبدالعاطی گفت مصر آماده است با اتحادیه عرب و کشورهای عضو بر سر چارچوبی جامع کار کند که حوزه‌های همکاری، سازوکارهای هماهنگی و رویه‌های واکنش به بحران را تعیین کند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>عبدالعاطی افزود ترتیبات پیشنهادی می‌تواند بر پیمان دفاع مشترک عربی و تصمیم‌های اتحادیه عرب بنا شود، ضمن احترام به حاکمیت و استقلال تصمیم‌گیری کشورهای عضو.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>او در همین نشست حملات جمهوری اسلامی به کشورهای عربی را محکوم کرد و همبستگی مصر را با کشورهای خلیج فارس، اردن و عراق اعلام کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8195470.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8195470.html</a>",
+      "plain_text": "🔺پیشنهاد مصر برای چارچوب امنیتی مشترک عربی در پی حملات جمهوری اسلامی\n\n▪️وزیر امور خارجه مصر، در نشست شورای اتحادیه عرب در قاهره چارچوب امنیتی مشترکی برای کشورهای عربی پیشنهاد کرد.\n\n▪️بنابر گزارش رسانه‌های عربی، بدر عبدالعاطی گفت مصر آماده است با اتحادیه عرب و کشورهای عضو بر سر چارچوبی جامع کار کند که حوزه‌های همکاری، سازوکارهای هماهنگی و رویه‌های واکنش به بحران را تعیین کند.\n\n▪️عبدالعاطی افزود ترتیبات پیشنهادی می‌تواند بر پیمان دفاع مشترک عربی و تصمیم‌های اتحادیه عرب بنا شود، ضمن احترام به حاکمیت و استقلال تصمیم‌گیری کشورهای عضو.\n\n▪️او در همین نشست حملات جمهوری اسلامی به کشورهای عربی را محکوم کرد و همبستگی مصر را با کشورهای خلیج فارس، اردن و عراق اعلام کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195470.html",
+      "media": [],
+      "reactions": [],
+      "views_label": "34",
+      "posted_at": "2026-09-08T05:21:29+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229821",
+      "reply": null
+    },
     {
       "id": "farsivoa/229820",
       "author_name": "Farsi VOA",
@@ -33,7 +49,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "296",
+      "views_label": "456",
       "posted_at": "2026-09-08T05:12:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229820",
@@ -61,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "687",
+      "views_label": "813",
       "posted_at": "2026-09-08T05:01:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229819",
@@ -89,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "983",
+      "views_label": "1.08K",
       "posted_at": "2026-09-08T04:47:11+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229818",
@@ -117,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.31K",
+      "views_label": "1.4K",
       "posted_at": "2026-09-08T04:36:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229817",
@@ -145,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.64K",
+      "views_label": "3.7K",
       "posted_at": "2026-09-08T01:29:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229816",
@@ -173,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.31K",
+      "views_label": "3.37K",
       "posted_at": "2026-09-08T01:08:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229815",
@@ -201,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.36K",
+      "views_label": "3.39K",
       "posted_at": "2026-09-08T00:29:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229814",
@@ -229,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.49K",
+      "views_label": "3.56K",
       "posted_at": "2026-09-08T00:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229813",
@@ -245,7 +261,7 @@
       "plain_text": "🔺ترامپ: قیمت نفت کاهش خواهد یافت و جمهوری اسلامی به سلاح هسته‌ای دست پیدا نمی‌کند\n\n▪️دونالد ترامپ، رئیس‌جمهوری آمریکا، دوشنبه شب در شبکه اجتماعی تروت‌سوشال نوشت وقتی در جنگ با جمهوری اسلامی ایران «پیروز شویم، قیمت نفت به سرعت کاهش خواهد یافت.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195221.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.47K",
+      "views_label": "3.5K",
       "posted_at": "2026-09-07T23:46:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229812",
@@ -273,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.06K",
+      "views_label": "3.09K",
       "posted_at": "2026-09-07T23:39:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229811",
@@ -301,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.97K",
+      "views_label": "3.03K",
       "posted_at": "2026-09-07T23:33:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229810",
@@ -329,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.02K",
+      "views_label": "3.05K",
       "posted_at": "2026-09-07T23:15:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229809",
@@ -345,7 +361,7 @@
       "plain_text": "🔺جمهوری اسلامی رسماً قیمت بنزین را افزایش داد و نیروهای سرکوب لباس شخصی را در اطراف جایگاه‌های سوخت مستقر کرد\n\n▪️جمهوری اسلامی بامداد سه‌شنبه ۱۷ شهریور قیمت بنزین موسوم به «سوخت سهمیه جایگاه‌ها» را به‌طور رسمی افزایش داد و نیروهای سرکوب را در اطراف پمپ‌بنزین‌ها مستقر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195211.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.07K",
+      "views_label": "3.1K",
       "posted_at": "2026-09-07T23:06:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229808",
@@ -373,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.89K",
+      "views_label": "2.95K",
       "posted_at": "2026-09-07T22:50:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229807",
@@ -401,7 +417,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.3K",
+      "views_label": "3.33K",
       "posted_at": "2026-09-07T22:18:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229806",
@@ -429,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.38K",
+      "views_label": "3.41K",
       "posted_at": "2026-09-07T22:10:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229805",
@@ -445,7 +461,7 @@
       "plain_text": "🔺خبرنگار سی‌بی‌اس: کامران حکمتی، شهروند آمریکایی از زندان اوین آزاد شد اما همچنان ممنوع‌الخروج است\n\n▪️مارگارت برنان، خبرنگار شبکه خبری سی‌بی‌اس آمریکا، روز دوشنبه ‍‍۱۶ شهریور اعلام کرد کامران حکمتی، شهروند دوتابعیتی ایرانی-آمریکایی، سه روز پیش از زندان اوین آزاد شده است، اما همچنان اجازه خروج از ایران را ندارد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195205.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.42K",
+      "views_label": "3.45K",
       "posted_at": "2026-09-07T22:03:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229804",
@@ -489,7 +505,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.22K",
+      "views_label": "3.25K",
       "posted_at": "2026-09-07T21:47:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229802",
@@ -2591,34 +2607,6 @@
       "posted_at": "2026-09-07T10:34:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229710",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229709",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "رئیس مجلس شورای اسلامی، در پاسخ مستقیم به پیت هگست، وزیر جنگ آمریکا، در شبکه ایکس هشدار داد زنجیره تولید نفت و گاز منطقه در معرض آسیب است.<br><br>محمدباقر قالیباف نوشت: «ساده است: زنجیره تولید نفت و گاز اینجا گسترده، در دسترس و در معرض است. شرکت‌های نفت و گاز آمریکایی در سراسر این آب‌ها و تأسیسات در همین آسیب‌پذیری شریک‌اند. به دارایی‌های ما بزنید، زده می‌شوید. ما پیشاپیش ثابتش کرده‌ایم. از پایگاه‌هایی بپرسید که دیگر قابل استفاده نیستند.»<br><br>او همراه پیام تصویری با عنوان «دهه از دست رفته اقتصاد آمریکا در راه است» منتشر کرد.<br><br>هگست روز شنبه در شبکه ایکس نوشته بود: «ساده است: اگر ایران به شناورهای آمریکا شلیک کند، نفتکش‌هایشان را نابود و غرق می‌کنیم. تنها کاری که باید بکنند این است که به نیروی دریایی آمریکا شلیک نکنند.»<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "رئیس مجلس شورای اسلامی، در پاسخ مستقیم به پیت هگست، وزیر جنگ آمریکا، در شبکه ایکس هشدار داد زنجیره تولید نفت و گاز منطقه در معرض آسیب است.\n\nمحمدباقر قالیباف نوشت: «ساده است: زنجیره تولید نفت و گاز اینجا گسترده، در دسترس و در معرض است. شرکت‌های نفت و گاز آمریکایی در سراسر این آب‌ها و تأسیسات در همین آسیب‌پذیری شریک‌اند. به دارایی‌های ما بزنید، زده می‌شوید. ما پیشاپیش ثابتش کرده‌ایم. از پایگاه‌هایی بپرسید که دیگر قابل استفاده نیستند.»\n\nاو همراه پیام تصویری با عنوان «دهه از دست رفته اقتصاد آمریکا در راه است» منتشر کرد.\n\nهگست روز شنبه در شبکه ایکس نوشته بود: «ساده است: اگر ایران به شناورهای آمریکا شلیک کند، نفتکش‌هایشان را نابود و غرق می‌کنیم. تنها کاری که باید بکنند این است که به نیروی دریایی آمریکا شلیک نکنند.»\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229709",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Z0_5HLjR9rYtjK2YPx_cVqScK9T-yOXjy8D-jHyUm5K96HwLNJGd6T2SdX6Awxe4T_yNvNG9opdFItEMUpM9RH9-rMTRREYbXkuCkNj0ewl14niojwfxc6jzb31Oht96-X8Q1D6WKl2h3RZa0PUuxouug64otor_UcVha_DXE7cqgpR3pQfT_lqbvlOiGFy17Nl0Yy2lSVOm2h8uffMHgZFuKFn7QelMwgJT-3y3-1CdxYVRw1TevC9kODSyoz5A3dkgZ-qjgpsyXfofIcWZyGG9a9r243axvBHDTZbBEOe9J72QoOoCdNXdNvUgN5VwLfbcIbDPhObOtAiN_XpyYA.jpg",
-          "thumbnail_path": "channels/farsivoa/media/7f1f71b6ef1930f3f9ddbef8.jpg",
-          "thumbnail_sha256": "98b4dfab4c3dbd10487bcd65d1f1dd6da1fca0edbc95b4aa156c720cd3751083",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.62K",
-      "posted_at": "2026-09-07T10:23:05+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229709",
       "reply": null
     }
   ]
