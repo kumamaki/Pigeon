@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T12:41:28.793Z",
+  "fetched_at": "2026-09-08T12:46:37.994Z",
   "channel": {
     "username": "filter_watch",
     "title": "فیلتربان",
@@ -30,7 +30,7 @@
           "count": "2"
         }
       ],
-      "views_label": "579",
+      "views_label": "580",
       "posted_at": "2026-09-06T17:18:06+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1901",
@@ -59,7 +59,7 @@
           "count": "1"
         }
       ],
-      "views_label": "582",
+      "views_label": "583",
       "posted_at": "2026-09-04T12:18:41+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1900",
@@ -125,7 +125,7 @@
           "count": "1"
         }
       ],
-      "views_label": "670",
+      "views_label": "671",
       "posted_at": "2026-09-03T14:29:14+00:00",
       "edited": true,
       "permalink": "https://t.me/filter_watch/1898",
@@ -150,7 +150,7 @@
           "count": "1"
         }
       ],
-      "views_label": "742",
+      "views_label": "743",
       "posted_at": "2026-09-02T11:14:22+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1897",
@@ -187,7 +187,7 @@
           "count": "1"
         }
       ],
-      "views_label": "656",
+      "views_label": "657",
       "posted_at": "2026-09-01T10:13:13+00:00",
       "edited": false,
       "permalink": "https://t.me/filter_watch/1896",
@@ -285,8 +285,8 @@
           "asset_url": "https://t.me/filter_watch/1892",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/QCJpvk4atyf7xWY-agQKwOV48IyOQwOLjrpKtlAClX450u2bheT8zYiVjGEZYvY-B5rIJKydFJlairQrVJBSqDIcHlIy04oXDH5GDBwJF8GpoRaW3_T_hKVzas4CXSunNH8IfL52YcPS9f2G5WyrHZhAJ-VtLAWsubjhwipTXe47_xIbd9bPw7EFwpNxuKxg3va7lpFfFAaH8MUCnaA2_guIv5jx5prVqP7QEpgWQq6rCLhMOlUfdQFBvXUQl9QGR6jRbEnfbmtPvcTRbRqLF8mwxe6kHIx7wxew_u70KB6FS7gEF_NFbCXUgdJVIBf6FLMOZl5-q-cDdZwgtcGVzA",
-          "thumbnail_path": "channels/filter_watch/media/36fd3e06dd41ae0b0be813d5.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/v9NFKJ5ekaFu-Z8D2Vd1_OtqVXZZsZNAhZJUmNuaXWaN6VZXuxeuOVyKntJliQ_wMjubVNLdFZEwwEzHVMYr2B_5LTt1BXsE8LfW6uof88F2vDEIz-lyYMNBzXEwczCUSD2Fn8RDV6heTnmrgEFFtmLZSZyxrBATxS_B42Zf1pEvvBl7R-1ODaLqq58vY8aAmfxSFhU-LXQZSMks3j1e_eKvaZpkOp0dqKfCfrd9uW-JX8WaPkv8u1Oak5z_el_X-VMQss_3eU_4FynZlGxYZDDDG415F_QL4VGfg2x-ien_sr90wQWIeMdwudZ-ujjtyxBKtZAAQTWypBpBfgLRLA",
+          "thumbnail_path": "channels/filter_watch/media/ecce349dede4dee7964c35df.jpg",
           "thumbnail_sha256": "5532e147b2252f12e5a415e80fd75891a68e95a3a8d4624c75135d85efef5022",
           "duration_label": "0:23",
           "aspect_ratio": 0.7500000000000188
