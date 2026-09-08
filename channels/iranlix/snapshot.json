@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T20:16:45.861Z",
+  "fetched_at": "2026-09-08T20:21:38.656Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12734",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l_9ufMfFpJ25r_afGsqRdLe1TBpEdGtQubrLV3heTp0xaKy_3bOMj2CgWrdIc1UpDv6BDR1CUz7LUOwlbGt6cwYajWQXJCUkSLc4mDg8KVE14zTZ9LwGvkwqm71diFwCbH2nViIRdsbm6NTEHx-FPiGHK2If0glqgKIwFN6E3fpPfXG4L5B_8u0lF9SlI9JysGs-RP3ETL5mlmlmj6cRJFK1sNdtj7tP4DYND499o8XinHXPyv-COryBv7foYUzrzsqsk-AuzXwXdGL2-S-fyV30ffZpU_JFFsxZW8baXEnEFumOwn_VcgVB9V_D4tzEEogyHXtPWDrMkW0xK7JN9Q.jpg",
+      "author_photo_path": "channels/iranlix/media/cea36268eb0d26be31369b06.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i><b>سفارت آمریکا در یمن:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>تروریستهای حوثی‌ها این درگیری را آغاز کرده‌اند و باید مسئولیت عواقب تجاوزات خود را بپذیرند.دولت یمن تنها دولت مشروع است و هر حقی را دارد تا از مردم خود دفاع کند و توانایی تروریستهای حوثی‌ها را برای ایجاد وحشت پایان دهد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>عربستان سعودی نیز حق دارد از خاک و شهروندان خود دفاع کند و از دولت مشروع یمن در پایان دادن به تروریسم حوثی‌ها حمایت کند.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "💢سفارت آمریکا در یمن:\n\n🔸تروریستهای حوثی‌ها این درگیری را آغاز کرده‌اند و باید مسئولیت عواقب تجاوزات خود را بپذیرند.دولت یمن تنها دولت مشروع است و هر حقی را دارد تا از مردم خود دفاع کند و توانایی تروریستهای حوثی‌ها را برای ایجاد وحشت پایان دهد.\n\n🔸عربستان سعودی نیز حق دارد از خاک و شهروندان خود دفاع کند و از دولت مشروع یمن در پایان دادن به تروریسم حوثی‌ها حمایت کند.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/12734",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/YylTeLhNULldVbbmSqpj_LwX2fS8XIX73tk5NbnpfcjL6eOS6y4KmrSNhjv_YN6dc7zYNbcKfFrbdatRlbk8ZxlVRGH2TLdvUsTVbVfYgvbdRyVH_9lrwvWAYLAjSN5YJ5IS4PuiGcpxkXxo3T0MA8Ekj0P2phY8oXkjImmqTGjEKjNQSYz0KYrbzkstFaqSJ458pC1g988Trh_SwSR_RTmjsfz2aWBfXjaXYa-eMXCf-Gv8mFNcIxqxEqBlENURE5QzS5s-i6wPBHhCD1-xK1hxhAjy5KnxQEiR4O9xAYL-OpwhCkbWdl6JLGWChQ_tgqYNpg0ahSwYvQUfjXK5bA.jpg",
+          "thumbnail_path": "channels/iranlix/media/44fc01dddb9356d01431ab9c.jpg",
+          "thumbnail_sha256": "56b184589d939ce46a94dc9301dec90edf13eb53da5b9851b95fe12150fc11e3",
+          "duration_label": null,
+          "aspect_ratio": 1.075268817204301
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T20:21:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12734",
+      "reply": null
+    },
     {
       "id": "iranlix/12733",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "269",
+      "views_label": "320",
       "posted_at": "2026-09-08T20:02:02+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12733",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "530",
+      "views_label": "554",
       "posted_at": "2026-09-08T19:35:49+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12732",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "626",
+      "views_label": "644",
       "posted_at": "2026-09-08T19:25:57+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12731",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "676",
+      "views_label": "699",
       "posted_at": "2026-09-08T19:14:41+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12730",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "687",
+      "views_label": "704",
       "posted_at": "2026-09-08T19:11:49+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12729",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "687",
+      "views_label": "699",
       "posted_at": "2026-09-08T19:09:21+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12728",
@@ -212,7 +240,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "690",
+      "views_label": "701",
       "posted_at": "2026-09-08T18:54:23+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12726",
@@ -240,7 +268,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "787",
+      "views_label": "796",
       "posted_at": "2026-09-08T18:40:45+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12725",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "861",
+      "views_label": "874",
       "posted_at": "2026-09-08T18:20:53+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12724",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.03K",
+      "views_label": "1.04K",
       "posted_at": "2026-09-08T17:10:24+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12723",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.02K",
+      "views_label": "1.03K",
       "posted_at": "2026-09-08T16:56:34+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12722",
@@ -361,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.01K",
+      "views_label": "1.02K",
       "posted_at": "2026-09-08T16:35:52+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12721",
@@ -389,7 +417,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "943",
+      "views_label": "950",
       "posted_at": "2026-09-08T16:34:09+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12720",
@@ -445,7 +473,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.04K",
+      "views_label": "1.05K",
       "posted_at": "2026-09-08T15:46:59+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12718",
@@ -473,7 +501,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.16K",
+      "views_label": "1.17K",
       "posted_at": "2026-09-08T14:00:08+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12717",
@@ -501,7 +529,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.16K",
+      "views_label": "1.17K",
       "posted_at": "2026-09-08T13:30:39+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12716",
@@ -529,7 +557,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.12K",
+      "views_label": "1.13K",
       "posted_at": "2026-09-08T13:03:26+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12715",
@@ -2944,34 +2972,6 @@
       "posted_at": "2026-09-06T11:30:02+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12624",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12623",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/P6wlknCu4KydGDASnYIJkSL42jXufROUjwRrm01v7d51p3YBEx4rkQqYs2krFRd4LHxq08mmEy2TgCu4J08n1ZSq4paFfXykL6OUFFjnmHtPmJBtBzfKlwmoLApVk-hNCwoL_o5_BhnH1XV2kRj1D9AC6GrktP5S1x_N6bbjtspXBjUWiGZM-RyGHabxIzRLAK0ahjPnDYjTX3GkA8zCiRKYeBgBZ2IZIJafC1T4hqw3d7cILAqS-xr4k_jJzzVdlQM_10wXECCBz6Ghjgv3P7yq1mMYdKuv0PT6kTc0TA6UOTJAVRnZgMZXVG41AUnWWGzcvDjcbkzyxVcxRpZqtg.jpg",
-      "author_photo_path": "channels/iranlix/media/140d7098768bcd69ed55b2fa.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i><b>دو آپارتمان چند میلیون پوندی منسوب به مجتبی خامنه‌ای در لندن به فروش گذاشته شد</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>روزنامه ساندی تایمز گزارش داد دو آپارتمان چند میلیون پوندی در منطقه کنزینگتون لندن که منسوب به مجتبی خامنه‌ای است، پس از تحریم علی انصاری (بانکدار ایرانی و واسطه مالی او) از سوی دولت بریتانیا به فروش گذاشته شد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i> این املاک که در نزدیکی سفارت اسرائیل و کاخ کنزینگتون قرار دارند، قبل‌تر به‌توالی در سال‌های ۲۰۱۴ و ۲۰۱۶ با قیمت‌های ۱۶.۷۵ و ۱۹ میلیون پوند خریداری شده بودند؛ حال اما واحد اول با تخفیف به ۱۲ میلیون پوند عرضه شده است. مجموع املاک منسوب به خامنه‌ای در لندن حدود ۲۰۰ میلیون پوند برآورد می‌شود.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "💢دو آپارتمان چند میلیون پوندی منسوب به مجتبی خامنه‌ای در لندن به فروش گذاشته شد\n\n🔸روزنامه ساندی تایمز گزارش داد دو آپارتمان چند میلیون پوندی در منطقه کنزینگتون لندن که منسوب به مجتبی خامنه‌ای است، پس از تحریم علی انصاری (بانکدار ایرانی و واسطه مالی او) از سوی دولت بریتانیا به فروش گذاشته شد.\n\n🔸 این املاک که در نزدیکی سفارت اسرائیل و کاخ کنزینگتون قرار دارند، قبل‌تر به‌توالی در سال‌های ۲۰۱۴ و ۲۰۱۶ با قیمت‌های ۱۶.۷۵ و ۱۹ میلیون پوند خریداری شده بودند؛ حال اما واحد اول با تخفیف به ۱۲ میلیون پوند عرضه شده است. مجموع املاک منسوب به خامنه‌ای در لندن حدود ۲۰۰ میلیون پوند برآورد می‌شود.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/12623",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/PXFWBJyjINXvKpEeejJ5uhttSuHEE4dUpKVnHO0fEy0RskYuRGX1lPk5RiLlVdQ9kNliy9seRwejZhwEkTlEdf0YXg62l_mi9a-bPDBYN3me72BygXsZI2NtMFldXySnZ-7UezmLqwbKphz-g5JiTl1BhWj-UC6u_Yx04zDhFPyExByo0gs12Gk_2AqtFyeK2I3vAfWOVTivRW1mHhPWrJzz9bPOpt7JSRmrBO5urFHXit3z7loUpEA5crw74ecQOdQHmAU1G_PSgYzH5avIQ94Yc8Jl_Vne-tDXnREoC0CzSWWdRczgod8z9Spc3p27TNQuONTRTode2lJLHNdC1Q.jpg",
-          "thumbnail_path": "channels/iranlix/media/acb5072aff202e5477b6adb9.jpg",
-          "thumbnail_sha256": "8528e37e49af4c9780857e6e35d706d6a2a08a5da67499dc64297b15583a2dbf",
-          "duration_label": null,
-          "aspect_ratio": 1.094391244870041
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.07K",
-      "posted_at": "2026-09-06T11:27:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12623",
       "reply": null
     }
   ]

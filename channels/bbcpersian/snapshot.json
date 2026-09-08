@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T20:16:40.477Z",
+  "fetched_at": "2026-09-08T20:21:33.643Z",
   "channel": {
     "username": "bbcpersian",
     "title": "BBCPersian",
@@ -11,6 +11,22 @@
     "subscriber_count": "774K"
   },
   "posts": [
+    {
+      "id": "bbcpersian/291095",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/s4C2G175wBvyimmVC3qkGVE7qsM7s77SqXkLiiZbw1_t1AEH4C7ALTkCerEqRMGj3-64ClLx_p8VVEwFywKEqKloyqYWrmdoKaype4oiZrGsExmdyTZLKdy_R27bUvHDfEoNhVUtXx2inNF65bXqA26yQLITR_Co8rhjMV3XAIm1E54Rl-qSnlrguLpLz3_g-vLFxwgJya1Tyfc0VhEkRey6YJ249jnJa1MQhLZJ4qgN_7mpa--qxfAjqj--QgCXyj1ByASQFGik-d07BuXNPtqg9GPSCDSc6TxZceIpFff0Zvu4G4ZD1fsw0ZQm4-v11Hrb2wGKVpankgtrHmB0kQ.jpg",
+      "author_photo_path": "channels/bbcpersian/media/92ca8172f153819f54f28df1.jpg",
+      "author_photo_sha256": "cf48535f60438757cd9b0534a23c038e85ac3e9a472bad98fdb8dd6f9211ad10",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93BB.png')\"><b>📻</b></i>پادکست برنامه شصت دقیقه سه‌شنبه ۱۷ شهریور ۱۴۰۵<br><br>این نسخه رادیویی برنامه شصت دقیقه تلویزیون فارسی بی‌بی‌سی است که هرشب بعد از پخش، با حجم کم از اپلیکیشن‌های پادگیر و صفحه تلگرام بی‌بی‌سی فارسی در دسترس است. با هشتگ BBCPersianRadio با ما در ارتباط باشید.<br><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">@BBCPersian</a>",
+      "plain_text": "📻پادکست برنامه شصت دقیقه سه‌شنبه ۱۷ شهریور ۱۴۰۵\n\nاین نسخه رادیویی برنامه شصت دقیقه تلویزیون فارسی بی‌بی‌سی است که هرشب بعد از پخش، با حجم کم از اپلیکیشن‌های پادگیر و صفحه تلگرام بی‌بی‌سی فارسی در دسترس است. با هشتگ BBCPersianRadio با ما در ارتباط باشید.\n\n@BBCPersian",
+      "media": [],
+      "reactions": [],
+      "views_label": "331",
+      "posted_at": "2026-09-08T20:20:25+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/291095",
+      "reply": null
+    },
     {
       "id": "bbcpersian/291094",
       "author_name": "BBCPersian",
@@ -33,7 +49,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7.05K",
+      "views_label": "9.61K",
       "posted_at": "2026-09-08T20:05:04+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291094",
@@ -49,7 +65,7 @@
       "plain_text": "🔻گزارش رسانه‌های ایران از شنیده شدن صدای انفجار در جاسک\n\nرسانه‌های ایران از شنیده شدن صدای انفجار در جاسک در استان هرمزگان خبر می‌دهند.\n\nخبرگزاری فارس می‌گوید «حوالی ساعت ۲۱:۴۵ امشب، صدای انفجار در شهرستان جاسک شنیده شد.»\n\nاین خبرگزاری همچنین به نقل از منابع محلی گفته است «صدا از سمت دریا و نزدیکی منطقه سنگ سیاه به گوش رسیده و انفجار در دو مرحله و با فاصله کوتاه رخ داده است.»\n\nhttps://bbc.in/46LSn83\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "17K",
+      "views_label": "18.6K",
       "posted_at": "2026-09-08T19:43:13+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291093",
@@ -65,7 +81,7 @@
       "plain_text": "🔻عراقچی به وزیر خارجه ژاپن: گفتگوهای ایران و عمان درباره تنگه هرمز پیشرفت داشته است\n\nعباس عراقچی، وزیر خارجه ایران، در یک گفتگوی تلفنی با توشیمیتسو موتگی، همتای ژاپنی خود، از «پیشرفت قابل توجه» مذاکرات ایران و عمان درباره تعیین مسیر موقت تردد کشتی‌ها در تنگه هرمز خبر داده است.\n\nاو بازگشت به وضعیت عادی در تنگه هرمز را به «بازگشت و پایبندی طرف آمریکایی به تعهدات و امضای خود در تفاهم نامه اسلام آباد» مشروط کرده است.\n\nابهام درباره بازشدن تنگه هرمز در حالیست که امروز حسن قشقاوی، سخنگوی کمیسیون امنیت ملی و سیاست خارجی مجلس شورای اسلامی، جرئیاتی درباره نحوه هزینه کرد عوارض تردد کشتی‌ها از تنگه هرمز ارائه کرده است.\n\nاو گفته است که منابع درآمدی حاصل از اعمال طرح اخذ عوارض در تنگه هرمز قرار است علاوه بر بودجه مصوب سالانه، «به معیشت مردم در قالب کالا برگ، تقویت بنیه دفاعی و زیرساختی کشور» اختصاص یابد.\n\nطرح راهبردی تنگه هرمز شامل ۹ موضوع تنگه و سه موضوع اصلاح قانون مناطق دریایی، در نیمه مرداد ماه در مجلس شورای اسلامی اعلام وصول شد و به کمیسیون امنیت ملی و سیاست خارجی ارجاع شده است.\n\nhttps://bbc.in/3Vk8RSk\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "17.4K",
+      "views_label": "18.7K",
       "posted_at": "2026-09-08T19:40:44+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291092",
@@ -93,7 +109,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.5K",
+      "views_label": "29.5K",
       "posted_at": "2026-09-08T19:06:27+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291091",
@@ -121,7 +137,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.1K",
+      "views_label": "33.7K",
       "posted_at": "2026-09-08T18:27:34+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291090",
@@ -137,7 +153,7 @@
       "plain_text": "🔻وزیر دارایی آمریکا درباره پیامدهای مراوده با شرکت‌های هواپیمایی ایران هشدار داد\n\nدر پی اعلام تحریم‌های جدید آمریکا، اسکات بسنت، وزیر دارایی ایالات متحده، به کسانی که با شرکت‌هواپیمایی ایران مراوده دارند، هشدار داده است.\n\nاو در شبکه اجتماعی ایکس نوشته است: «در چارچوب عملیات طرد اقتصادی، ما وعده دادیم که برای کسانی که شریان‌های حیاتی مالی در اختیار رژیم ایران قرار می‌دهند، پیامدهای سنگینی رقم خواهیم زد.»\n\nوزیر دارایی آمریکا در ادامه نوشته است: «امروز، ما با اعمال تحریم علیه شرکت‌هایی که همچنان به حمایت از هواپیمایی ماهان ادامه می‌دهند، به آن وعده عمل کردیم.»\n\n«این هشداری باشد برای کسانی که با شرکت‌های هواپیمایی باقی‌مانده ایران، که همگی آن‌ها را امروز تحریم کردیم، مراوده دارند: شما در معرض خطر قطع دسترسی به نظام مالی جهانی قرار دارید.»\n\nساعاتی پیش دولت آمریکا اعلام کرد که «تمام شرکت‌های هواپیمایی ایران» را که تاکنون تحریم‌ نشده بودند، در فهرست تحریم‌هایش قرار خواهد داد.\n\nآمریکا می‌گوید این اقدام را در راستای کارزار خود برای طرد اقتصادی ایران انجام داده است.\n\nوزارت دارایی آمریکا اعلام کرد در تازه‌ترین اقدام خود، ۳۶ فرد و نهاد را به دلیل حمایت از هوانوردی ایران تحریم کرده است.\n\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "35.5K",
+      "views_label": "36.2K",
       "posted_at": "2026-09-08T17:56:39+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291089",
@@ -153,7 +169,7 @@
       "plain_text": "اگر در ایران زندگی می‌کنید، شرایط اجتماعی، مطالبات آزادی‌خواهی و جنبش زنان را چطور می‌بینید؟ به نظر شما شرایط نسبت به قبل از جنبش مهسا چه تغییراتی کرده است؟ \nهمراهی جامعه با مطالبات زنان چطور است؟\n \nنظرات و تجربیات خود را با #مهسا برای ما ارسال کنید:\nآی‌مسج و واتس‌اپ:  ۰۰۴۴۷۳۴۲۰۳۲۱۱۳\nپیامگیر تلگرام t.me/bbcshoma\n \n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "37K",
+      "views_label": "37.6K",
       "posted_at": "2026-09-08T17:27:33+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291088",
@@ -201,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.6K",
+      "views_label": "36.3K",
       "posted_at": "2026-09-08T17:27:28+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291086",
@@ -217,7 +233,7 @@
       "plain_text": "پادکست برنامه جام جهان‌نما سه‌شنبه ۱۷ شهریور ۱۴۰۵\nاین برنامه رادیویی را می‌توانید هرشب ساعت ۲۰ به وقت ایران، روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۹۴۶۵ کیلوهرتز بشنوید.تکرار برنامه را هم می‌توانید ساعت ۲۱:۳۰ روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۵۳۹۵ کیلوهرتز گوش کنید.\n\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "36.5K",
+      "views_label": "36.8K",
       "posted_at": "2026-09-08T17:08:44+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291085",
@@ -245,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "48.6K",
+      "views_label": "48.9K",
       "posted_at": "2026-09-08T15:40:22+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291084",
@@ -273,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "44K",
+      "views_label": "44.3K",
       "posted_at": "2026-09-08T15:17:45+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291083",
@@ -301,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.3K",
+      "views_label": "40.6K",
       "posted_at": "2026-09-08T15:15:53+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291082",
@@ -329,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "41K",
+      "views_label": "41.3K",
       "posted_at": "2026-09-08T15:12:04+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291081",
@@ -345,7 +361,7 @@
       "plain_text": "📻 تازه‌ترین خبرهای ایران و جهان، سه‌شنبه ۱۷ شهریور ۱۴۰۵ از رادیو بی‌بی‌سی در لندن\n\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "43.7K",
+      "views_label": "44K",
       "posted_at": "2026-09-08T14:05:39+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291080",
@@ -361,7 +377,7 @@
       "plain_text": "🔻وال‌استریت ژورنال در گزارشی می‌گوید که «دلارهای نفتی ایران در حال خشک‌شدن» است\n\nروزنامه وال‌استریت ژورنال در گزارشی نوشته است که محاصره دریایی آمریکا به‌تدریج مهم‌ترین منبع درآمد ارزی ایران را از بین می‌برد. بر اساس داده‌های شرکت کپلر، از زمان برقراری مجدد محاصره دریایی در اواسط ژوئیه، هیچ محموله تازه‌ای از نفت خام ایران نتوانسته است از محدوده محاصره عبور کند.\n\nبه گزارش وال‌استریت ژورنال، ذخایر نفت ایران در نفتکش‌های خارج از منطقه محاصره که عمدتاً برای مشتریان چینی در نظر گرفته شده بود، از حدود ۹۰ میلیون بشکه در اواسط ژوئیه به ۲۹ میلیون بشکه کاهش یافته است. اگر تحویل روزانه نزدیک به یک میلیون بشکه ادامه یابد، این ذخایر احتمالاً تا اواسط اکتبر تمام خواهد شد و پرداخت بابت محموله‌های پیشین نیز ممکن است تا اواسط دسامبر متوقف شود.\n\nبر اساس این گزارش، ایران در ماه اوت روزانه حدود ۲۵۵ هزار بشکه نفت بارگیری کرده است؛ رقمی که ۸۵ درصد کمتر از میانگین ماه‌های فوریه تا آوریل است. وال‌استریت ژورنال می‌نویسد حمل‌ونقل زمینی نیز جایگزین مؤثری نیست، چون ظرفیت صادرات نفت با کامیون و قطار احتمالاً از روزانه ۴۰ هزار بشکه فراتر نمی‌رود؛ درحالی‌که صادرات ایران پیش از جنگ نزدیک به دو میلیون بشکه در روز بود.\n\nاز سوی دیگر، صادرات محصولات پتروشیمی، دومین منبع عمده درآمد ارزی ایران، نیز حدود دوسوم کاهش یافته است.\n\nبر اساس این گزارش، فشار مالی ناشی از محاصره با تورم بیش از ۸۰ درصدی، سقوط ارزش ریال و پیش‌بینی صندوق بین‌المللی پول درباره انقباض ۵/۴ درصدی اقتصاد ایران همراه شده است.\n\nhttps://bbc.in/4zVqQyp\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "47.3K",
+      "views_label": "47.6K",
       "posted_at": "2026-09-08T13:46:25+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291079",
@@ -405,7 +421,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "41.2K",
+      "views_label": "41.5K",
       "posted_at": "2026-09-08T13:30:40+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291077",
@@ -421,7 +437,7 @@
       "plain_text": "🔻فرمانده بسیج شهر پارود در استان سیستان و بلوچستان کشته شد\n\nبه گزارش رسانه‌های ایران، عبدالرئوف اسحاقی، فرمانده مقاومت بسیج پارود شهرستان راسک، در استان سیستان و بلوچستان در یک حمله‌ کشته شده است.\n\nبر اساس گزارش‌ها این حمله امروز سه‌شنبه (۱۷ شهریور) رخ داد که در پی آن این فرمانده بسیج کشته شد.\n\nرسانه‌های ایران می‌گویند که «نیروهای امنیتی در حال رصد و تعقیب تروریست‌ها هستند.»\n\nمقام‌های امنیتی استان سیستان و بلوچستان روز دوشنبه گفتند که سه هسته سازمان‌یافته و عملیاتی وابسته به آنچه «گروه‌های تکفیری مورد حمایت آمریکا و اسرائیل» خوانده‌اند، پیش از انجام هرگونه اقدامی در مناطق مرزی شناسایی و «متلاشی شده‌اند.»به گفته این مقام‌ها، اعضای این هسته‌ها هنگام ورود از مرز «رهگیری شدند و نیروهای امنیتی پیش از آنکه بتوانند عملیات خود را اجرا کنند» آنها را خنثی کردند.جزییات بیشتری از مشخصات این افراد منتشر نشده است اما تصاویر ویدیویی از آنچه به نظر یکی از عملیات‌های نیروهای ایرانی در این منطقه است در خبرگزاری‌های داخل ایران منتشر شد.\n\nhttps://bbc.in/4zVqQyp\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "39.7K",
+      "views_label": "39.8K",
       "posted_at": "2026-09-08T13:20:50+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291076",
@@ -2388,78 +2404,6 @@
       "posted_at": "2026-09-06T23:35:04+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/290972",
-      "reply": null
-    },
-    {
-      "id": "bbcpersian/290967",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Rcx9zGv69UHGrtTVfPSpu_6MA3BWa9-TzEMakV2saM75bGdM7-C9EPn_zObD8xyEztAgGyVkr0gkzf3XqNBqTKn8DXaJtlmPDnP9IMmEJn5HRDIq0uoh5RWNxmPwN6cfXWAN3chJdbfau9xPME1lzW--0IaUt5uYTLX4YasbKmbb-44p8AKeTsbNsoccadYwzH-J7qVxfJ_-Dj3m494674xXDAR_k1wA67HV1D6RMQfI9kzQ5V9af4ldEWF5vHHqslNkvigVfmkCVHjteJ1zcIvqUiy2GAH5LiztyUnMtauIKOfhs0G74rjfmbSSLgaam_nQiulXLjg060I3oSK1KA.jpg",
-      "author_photo_path": "channels/bbcpersian/media/63160276cfca5480f4173d92.jpg",
-      "author_photo_sha256": "cf48535f60438757cd9b0534a23c038e85ac3e9a472bad98fdb8dd6f9211ad10",
-      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>دونالد ترامپ، رئیس جمهور آمریکا، عصر یکشنبه یک بار دیگر  چند طرح‌ گرافیکی که به نظر می‌رسد با هوش مصنوعی تهیه کرده را در شبکه اجتماعی خود - تروث سوشال - منتشر کرد. </b><br> <br>در یکی از این طرح‌ها او با انتشار نقشه ایران بالای آن نوشته: «حکومت ایران شکست‌خورده است»<br><br>از جمله این چند طرح، گرافیکی با مضمون حمله هوایی به جزیره خارگ است و چند نمودار که سقوط ارزش ریال در برابر دلار آمریکا را برجسته کرده است.<br> <br>او همچنین در یکی از این طرح‌ها با سر و ته کردن نقشه ایران آن را با تغییراتی شبیه نیمرخ خود کرده است. <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B7.png')\"><b>📷</b></i>TRUMP TRUTH<br><a href=\"https://bbc.in/4ib0wKk\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4ib0wKk</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a></div>",
-      "plain_text": "🔻دونالد ترامپ، رئیس جمهور آمریکا، عصر یکشنبه یک بار دیگر چند طرح‌ گرافیکی که به نظر می‌رسد با هوش مصنوعی تهیه کرده را در شبکه اجتماعی خود - تروث سوشال - منتشر کرد.\n\nدر یکی از این طرح‌ها او با انتشار نقشه ایران بالای آن نوشته: «حکومت ایران شکست‌خورده است»\n\nاز جمله این چند طرح، گرافیکی با مضمون حمله هوایی به جزیره خارگ است و چند نمودار که سقوط ارزش ریال در برابر دلار آمریکا را برجسته کرده است.\n\nاو همچنین در یکی از این طرح‌ها با سر و ته کردن نقشه ایران آن را با تغییراتی شبیه نیمرخ خود کرده است.\n\n📷TRUMP TRUTH\nhttps://bbc.in/4ib0wKk\n@BBCPersian",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/290967?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/iB-5YxkumoELDalc9GglEipReVolDFvPojdBA56D12RPUfFOuwlUQoKKwA8r8isuNCckWtHr_xImTlIQRoBx5sfVjUIw56q6J7lDaO9KdYP2mBIb1wOLzVN7MUR0L9yYAtc4qyOuC02vRlCHO2ked2BrcGmbpo8HalIHV7ERpTzOkwFYFZ7DYxuIl8ghzw8qkBo8X9uQ3OStdQ5LPhik3feewUEKhQRvA1f5bVikP2SIIIVGY9LmH9crnBGrD_zjOIi_LzZeUo-nm1PDez6BGJAB5LLznJdgPmwbjRjhhUrEl_bYTULJo3PqXqXZVNoXOptSrJ4H8OZkHDVQAxxnug.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/b56ef3c77dd977299913f227.jpg",
-          "thumbnail_sha256": "6d23eb75b143f56d0e1f7f14ac4c693f5a78e082ecfb99abe2edd2dfc97d8a2a",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/290968?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/H8LZgQGa_Fw__bRYj9MRuTRHg9BrkEpLByOmrPW5OGYWr8irAJu2OiyY8UV3bLh7ACH6QnEbnxK3DU3IC0oq8DO8hFf2jERxa5jRS9PWHaMZFcjoaoqhEOp1zUi3AuETVy2F9Ux4qn5-I4gnSVTWVs-OTqofNMi7_isW4dKAqe_Cmv2pFuqRhug9KJm2D1S0DsiH7laTpGZW-hiL2Zd6PRIdN80Y6hHjhVtr3N3a6WHspynpCijtoydcjEL53Aubq0Ww-Nv45oAuiYHRI1C8M5ysIZXctd81rwpzWb_wSr0g3UjBJr_RYoXFw_cE7VnrfNLiaoLsqbSuTUkWdS0Z_w.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/028d21b4fd80e61248487dba.jpg",
-          "thumbnail_sha256": "f2e7c5ccd3facb43f358153d15eeeb002079052e4376214ef8624c204e1968aa",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/290969?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/s74kfyRHgHeSyL67ls6-A7XJtXsLEY27jcnZF34wwkz9hjIM1u7GFY8Yhs_rLtCfigj6BwQZ_Sxluz89klYwiZLKVJyDHtZyAs93QrVuFQV3E2d4oVyHESZquFLloMZmQzQHqrlDaHa6WKvK4L3jOZc1PqPCbBMzjdlcirnF7aMiPJwV9zbpXURj54EZT-4mvGYviSSjmLWtqzX9VS0MZ1T7ix--Fk8yIad4OF47GwJEupQUwRfXMUCXB4aiHLBWOEbuwPK2Wei8I70jZTQdoUa70sWbYuxttK_CRr7vGfGUusN28asHZcVZoJH9zQ4dx6J_6f6wnAdr-rWMPM1vGw.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/2eeb75775ea50ac46c664171.jpg",
-          "thumbnail_sha256": "ed39c34c12dfac7b04e9c9a3e9b131805ee076a9f68639f9d2f7e8e1b42efe35",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/290970?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/v5Hp8ddO696H9FDnfWGVo-G8wT345XZkMI2e_YoniSWK4ydWzEfr6t1oJTjGZO5JJHlh_fRAHSe08-3QkUeHc8quUZs4KT5WqFfSHzAR-fA81xq_0dPAHWCHAjzPlVqfULMdDA22c2MxIzYLpAGGf1nTAHXXZCY5b_gUqS-9aJwfmbmlAovcM26XuI-IsZQgx36Uz3iKEb6QFWF3naco11mUWnpkUeeBV_7J3IBv_lE3ZoZzhPGTH52xEDkeIsE-tMqtG4bwLdZc9tKDMKpeGKYvR3U0cnA_xrp2GYHprem2K7fDxbMgkkn4odX2rOQdQoxAb_HzAKLR3Laid3WVQg.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/2d321249f5ea51ba5abafa61.jpg",
-          "thumbnail_sha256": "8b716f93acd18bd21f746cd4eff5694370cbd03d7b265518cbbb8d1df239f038",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/290971?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/kOXQ-cycj759Lxq3qpJHe8PckhSRxnCQNl3v5HLuc6mzOJ0Q_tSJjWTfZ8k6NiAkbDxOcQ9lofMObGosBqpfuN-bvmdmLgJW5TsaWxmLfwoDgJW8kWpKlPwHaRwh5LNGRwZaVgFUgf2FZPHPxBS63KFSVmurBCNxNwgnRxtcCP_drENY44TPiAV2BrSXN32oiNMd5-qbqg9XHDg8Tn3xCdyJIGvzbAMIFs40NuXJhvE0PybSJHWZQjLlVvsqawcbhPHIy0GIsHvSIgn7WJIUz-eAeoa0HE0_kb-I6b5UTcDhAKRJH7vrQkhTQ55GZV9hhbOvG5Y2rRwqddgSAogrcw.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/b790c82543a173dbae79551d.jpg",
-          "thumbnail_sha256": "22c55e1bd97e811c4abcda0b865e1a76eb22841f5d4956e29349daf7e8e2e756",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "45.7K",
-      "posted_at": "2026-09-06T22:57:00+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/290967",
       "reply": null
     }
   ]
