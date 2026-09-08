@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T13:51:58.532Z",
+  "fetched_at": "2026-09-08T13:56:52.299Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -11,6 +11,47 @@
     "subscriber_count": "96.3K"
   },
   "posts": [
+    {
+      "id": "ircfspace/2588",
+      "author_name": "IRCF | اینترنت آزاد برای همه",
+      "author_photo_url": "https://cdn1.telesco.pe/file/RMgoA--2hf-N1YEYDA0RZY5vqAsKwsemiYEgEpWCqXkcRchZcWW-OMfjbqPzh4wuDumtc0i_cPEUIGRwkXAS6KpmHaju4F_wIuErOsxa5RDGzpvd3YeJzrP7ZwpksWOnSfHYXmro5jriJkvl9y0XplngneMP6cOQbR744yJUQn9dFOxluoCo6cAYL-clnTTprQMSuCprmQ2ado7trEAWPB9iOM-9QhzmUrt0yRqbYKRPcWsqmhxng48sRGuFbLXffzc1ypfBNsRisyAnSckF05zqiDNkCDG_TMdHRVymEWh3fBQoMFDYLbiRKHBGKfivxHqWRda2bmeRICcaxqJxcQ.jpg",
+      "author_photo_path": "channels/ircfspace/media/f3cf30c9deec2ba3d1ddeaea.jpg",
+      "author_photo_sha256": "158f2dc02d1e6a05c082153b128dee184884a3f1159a3f635b1a111432f7eabc",
+      "body_html": "واحد امنیت تیم پس‌کوچه در ماه‌های اخیر حرکت حمایتی قشنگی‌رو شروع کرده و اپ‌های VPN متن‌باز (که در ایران مورد استقبال قرار گرفتن) رو تحت ممیزی امنیتی قرار میده.<br><br>طبق آماری که دارم گزارش این ممیزی‌ها تا الان بصورت محرمانه برای ۷ فرد یا تیم توسعه فرستاده شده. اکثر این اپ‌ها درحال کار روی بروزرسانی‌های جدیدشون هستن و بیشتر از نصفشون آپدیت‌های کوچک و بزرگ داشتن.<br><br>این‌قضیه تقریبا برای توسعه‌دهنده‌ها و جامعه‌ی هدف برد-برد هست. اون فیلترشکن‌هایی هم که نسبت به مشکلات گزارش‌شده بی‌اعتنا باشن، به مرور از چرخه اطلاع‌رسانی و توصیه به افراد کنار گذاشته میشن.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴡᴇʙꜱɪᴛᴇ</a> • <a href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴠᴘɴʜᴜʙ</a> • <a href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
+      "plain_text": "واحد امنیت تیم پس‌کوچه در ماه‌های اخیر حرکت حمایتی قشنگی‌رو شروع کرده و اپ‌های VPN متن‌باز (که در ایران مورد استقبال قرار گرفتن) رو تحت ممیزی امنیتی قرار میده.\n\nطبق آماری که دارم گزارش این ممیزی‌ها تا الان بصورت محرمانه برای ۷ فرد یا تیم توسعه فرستاده شده. اکثر این اپ‌ها درحال کار روی بروزرسانی‌های جدیدشون هستن و بیشتر از نصفشون آپدیت‌های کوچک و بزرگ داشتن.\n\nاین‌قضیه تقریبا برای توسعه‌دهنده‌ها و جامعه‌ی هدف برد-برد هست. اون فیلترشکن‌هایی هم که نسبت به مشکلات گزارش‌شده بی‌اعتنا باشن، به مرور از چرخه اطلاع‌رسانی و توصیه به افراد کنار گذاشته میشن.\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/ircfspace/2588",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/jQcx3spuCjvpy18gtd6z2IGU1N7RiIG2d3mkYyeysDNM0ilW8dw7VMeyDiQJ_yddGsC_AsQRB6HZzNeU7ehnOcggn3pmniK3jFBHCTUu9tSj9U4cEFPWmupNpUEsDaAEgYZOfoplZwq-9bZXeUE6VhSpbSGcPvffgjV7smeFeZyYPBEmOfXKanBgoqDPmbfkZx43Osxw15chUL2EWqR-Tzbr9-VN26k2etJAzJ5r-29_Z8XW_khG-ViRIr3R1Gd9DJ7c4_doqlRnfivjrWUfYKDW60ceYSKEIRVfTQOjpzqcuZ0o524VXIzcwuDufYdF6-ZlWA_X5WSlWNta6rfS-Q.jpg",
+          "thumbnail_path": "channels/ircfspace/media/24b6c6c69b4ee28e1ea2d314.jpg",
+          "thumbnail_sha256": "df9dbdd4bc6eef223634e0a6e9312cee3f84d7547eee83838ffb9eb18f93ce3d",
+          "duration_label": null,
+          "aspect_ratio": 2
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "40"
+        },
+        {
+          "emoji": "👏",
+          "count": "6"
+        },
+        {
+          "emoji": "👍",
+          "count": "2"
+        }
+      ],
+      "views_label": "1.26K",
+      "posted_at": "2026-09-08T13:52:25+00:00",
+      "edited": true,
+      "permalink": "https://t.me/ircfspace/2588",
+      "reply": null
+    },
     {
       "id": "ircfspace/2587",
       "author_name": "IRCF | اینترنت آزاد برای همه",
@@ -35,11 +76,11 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "359"
+          "count": "369"
         },
         {
           "emoji": "🤡",
-          "count": "106"
+          "count": "110"
         },
         {
           "emoji": "😐",
@@ -47,7 +88,7 @@
         },
         {
           "emoji": "🗿",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "👍",
@@ -70,7 +111,7 @@
           "count": "1"
         }
       ],
-      "views_label": "10.4K",
+      "views_label": "10.9K",
       "posted_at": "2026-09-08T08:11:30+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2587",
@@ -100,11 +141,11 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "302"
+          "count": "303"
         },
         {
           "emoji": "🤡",
-          "count": "142"
+          "count": "143"
         },
         {
           "emoji": "🤬",
@@ -127,7 +168,7 @@
           "count": "2"
         }
       ],
-      "views_label": "17.8K",
+      "views_label": "18.1K",
       "posted_at": "2026-09-07T05:41:19+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2586",
@@ -169,7 +210,7 @@
         },
         {
           "emoji": "👍",
-          "count": "15"
+          "count": "16"
         },
         {
           "emoji": "🗿",
@@ -184,7 +225,7 @@
           "count": "2"
         }
       ],
-      "views_label": "16.8K",
+      "views_label": "17K",
       "posted_at": "2026-09-07T05:32:27+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2585",
@@ -218,7 +259,7 @@
         },
         {
           "emoji": "👍",
-          "count": "25"
+          "count": "26"
         },
         {
           "emoji": "👎",
@@ -229,7 +270,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.2K",
+      "views_label": "15.4K",
       "posted_at": "2026-09-07T05:23:54+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2584",
@@ -259,7 +300,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "79"
+          "count": "80"
         },
         {
           "emoji": "❤",
@@ -274,7 +315,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.4K",
+      "views_label": "15.5K",
       "posted_at": "2026-09-07T05:10:20+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2583",
@@ -616,7 +657,7 @@
           "count": "1"
         }
       ],
-      "views_label": "25.5K",
+      "views_label": "25.6K",
       "posted_at": "2026-09-03T15:17:25+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2577",
@@ -685,7 +726,7 @@
           "count": "1"
         }
       ],
-      "views_label": "27.2K",
+      "views_label": "27.5K",
       "posted_at": "2026-09-03T14:39:14+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2576",
@@ -738,7 +779,7 @@
           "count": "1"
         }
       ],
-      "views_label": "37.2K",
+      "views_label": "37.4K",
       "posted_at": "2026-08-31T15:17:54+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2575",
@@ -779,7 +820,7 @@
           "count": "4"
         }
       ],
-      "views_label": "39K",
+      "views_label": "39.1K",
       "posted_at": "2026-08-30T08:22:53+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2574",
@@ -852,7 +893,7 @@
           "count": "1"
         }
       ],
-      "views_label": "32.6K",
+      "views_label": "32.7K",
       "posted_at": "2026-08-30T08:14:25+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2573",
@@ -978,7 +1019,7 @@
           "count": "1"
         }
       ],
-      "views_label": "28.6K",
+      "views_label": "28.7K",
       "posted_at": "2026-08-30T08:04:22+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2571",
@@ -5660,47 +5701,6 @@
       "posted_at": "2026-07-14T04:19:21+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2488",
-      "reply": null
-    },
-    {
-      "id": "ircfspace/2487",
-      "author_name": "IRCF | اینترنت آزاد برای همه",
-      "author_photo_url": "https://cdn1.telesco.pe/file/e6X8qd9I-3ohqA6bBKZi9yeq6Qm71nrfpRTA_c8A7v3IKCc_OhUVj1exDfqpXYFyCK0BN2ErjKrspSTSeQSuFueDykvWCKsLdoRxcf4YEQgp5XfUlvv1PYO5PYg6I9NXXn9Ifv0MgQek1a1ugQdrTndcKH8x7ukvOVBuSbu2oD-skEFq9hrk59S2sUin8e5nEfHYcI4scBQgPjHV__lSzDraVagZKKoRfAR9oRmiv0KG-EJXwgzHrScPkgXJv5LUAqU3qoiWy44N1heyQP2iJHFQJz0bd93GdVBA2o0jihwMcWKtzqvOa_jTlwSCdCU6CmO8DXVrNjH5L0VS_Eiw-g.jpg",
-      "author_photo_path": "channels/ircfspace/media/6ee1aad7aa029b4cd4d64d98.jpg",
-      "author_photo_sha256": "158f2dc02d1e6a05c082153b128dee184884a3f1159a3f635b1a111432f7eabc",
-      "body_html": "بانک ملی اطلاعیه زده که \"کلیه خدمات بانکی و مالی این بانک شامل همراه بانک و اینترنت بانک مجددا فعال شده\"، اما ایسنا نوشته \"اعلام بازگشت خدمات بانکی به شرایط عادی، لزوما به معنای پایان مشکلات برای همه مشتریان نیست و گزارش‌هایی از تراکنش‌های ناتمام، کسر وجه و اعلام زمان انتظار تا ۳۰ روز کاری برای تعیین تکلیف، نشان می‌دهد بخشی از کاربران همچنان با پیامدهای اختلالات اخیر دست‌وپنجه نرم می‌کنند\".<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴡᴇʙꜱɪᴛᴇ</a> • <a href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴠᴘɴʜᴜʙ</a> • <a href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
-      "plain_text": "بانک ملی اطلاعیه زده که \"کلیه خدمات بانکی و مالی این بانک شامل همراه بانک و اینترنت بانک مجددا فعال شده\"، اما ایسنا نوشته \"اعلام بازگشت خدمات بانکی به شرایط عادی، لزوما به معنای پایان مشکلات برای همه مشتریان نیست و گزارش‌هایی از تراکنش‌های ناتمام، کسر وجه و اعلام زمان انتظار تا ۳۰ روز کاری برای تعیین تکلیف، نشان می‌دهد بخشی از کاربران همچنان با پیامدهای اختلالات اخیر دست‌وپنجه نرم می‌کنند\".\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "😐",
-          "count": "319"
-        },
-        {
-          "emoji": "🤡",
-          "count": "92"
-        },
-        {
-          "emoji": "🤬",
-          "count": "33"
-        },
-        {
-          "emoji": "😁",
-          "count": "23"
-        },
-        {
-          "emoji": "❤",
-          "count": "13"
-        },
-        {
-          "emoji": "👍",
-          "count": "10"
-        }
-      ],
-      "views_label": "34.9K",
-      "posted_at": "2026-07-13T13:57:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/ircfspace/2487",
       "reply": null
     }
   ]
