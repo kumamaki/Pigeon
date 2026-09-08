@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T19:59:12.508Z",
+  "fetched_at": "2026-09-08T20:03:24.368Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,62 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356389",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "نیروی دریایی سپاه پاسداران اعلام کرد با توجه به اقدام ارتش آمریکا در هدف قرار دادن چند فروند از نفتکش‌های جمهوری اسلامی، به تمامی خدمه نفتکش‌ها در محدود اسکله‌های کویت و بحرین که میزبان نیروهای آمریکایی است، اخطار می‌دهد شناور خود را چه در لنگرگاه و چه در اسکله‌ها سریعا ترک نمایند چرا که مورد هدف قرار خواهند گرفت.<br><a href=\"https://iranintl.com/202609085102\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609085102</a>",
+      "plain_text": "نیروی دریایی سپاه پاسداران اعلام کرد با توجه به اقدام ارتش آمریکا در هدف قرار دادن چند فروند از نفتکش‌های جمهوری اسلامی، به تمامی خدمه نفتکش‌ها در محدود اسکله‌های کویت و بحرین که میزبان نیروهای آمریکایی است، اخطار می‌دهد شناور خود را چه در لنگرگاه و چه در اسکله‌ها سریعا ترک نمایند چرا که مورد هدف قرار خواهند گرفت.\nhttps://iranintl.com/202609085102",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356389",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/swwMBptKw6AMZZN-UOfFCimZDxog9Ho0cXneRXWL3Fx1MRx6uW-aTgbTq61UYf5_IW-LixLUCih9czRwBlBB0aBIbdC1a0jOOL7IqPoG3QriGhw0YtpdATIVQ4jUX2Bmqg91x7jfPGYkC3AWnl0kGldu1-qjmHWVxzw9RpeuGuC3R1LksexZdQ7fnoiMLOLpvfGmPS4chCQy0TCgnv5uLv3jlGM3I_FtWw1ShD85KA4jro_qGAThInMX1qfo593fzxwDVbmS2J8WYz-9q_-whmWaxUmGh-ueluokjNajju2AdioRjup0PTK5HXWf8ndtKKUp2fXoJIBYExX0eHZptQ.jpg",
+          "thumbnail_path": "channels/iranintltv/media/a7afa771ba32a968eda48dde.jpg",
+          "thumbnail_sha256": "8615d7c0b435b797e3398de0bf271b66ba6d431a8b7b71c9c9f0418db2dfb827",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "7.26K",
+      "posted_at": "2026-09-08T20:00:32+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356389",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356388",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال به اظهارات وزیر نیرو واکنش نشان داد که گفته بود «اگر قطعی برق برنامه‌ریزی‌شده‌ای مشاهده شد، مردم می‌توانند موضوع را با شماره ۱۲۱ اطلاع دهند.»<br><br>این شهروند نشان داد که شماره اعلام‌شده اشغال است و گفت: «در گذشته، وزیرهای نیرو از دهان حرف می‌زند.»",
+      "plain_text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال به اظهارات وزیر نیرو واکنش نشان داد که گفته بود «اگر قطعی برق برنامه‌ریزی‌شده‌ای مشاهده شد، مردم می‌توانند موضوع را با شماره ۱۲۱ اطلاع دهند.»\n\nاین شهروند نشان داد که شماره اعلام‌شده اشغال است و گفت: «در گذشته، وزیرهای نیرو از دهان حرف می‌زند.»",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356388",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/gvmiWm8yitvlqu877NRGFM3FAdHPfqk1oqQ7ID2_FbLKVE-KAFtq7YczBM4M39pqBGMtfDVHN6huUzVSHArPNRQ_SfsQ3iicneJoOn1Pz1l9DHNIqUCn5HtXOprDeU65A1BFbyU3d2QqUWHmg8tfcTxv3ENOKjPBecuTeTx-s65qF_JbPVCXSIAqnGYVd46jmvniKoWnUvfAyk-Tqj9K6YJFqaaSOr2ftQrwTPDqgSkSCFctezTsEEgR90gB_ABJsG1NTl8nxsUiIBbZEUhfuyH-tb38WBjPpXbXz5g3lrrsGzmu18LuGWUzXg7kvsKV_Aa3pQRF95KVn7p-pB5WkA",
+          "thumbnail_path": "channels/iranintltv/media/9ab0a9c20c8b789088d70876.jpg",
+          "thumbnail_sha256": "2fd0cf6d5c461788c8c7ba84953417c4c0d769bff27213c0ae6dcea08fbde224",
+          "duration_label": "0:41",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "7.29K",
+      "posted_at": "2026-09-08T19:59:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356388",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356387",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.32K",
+      "views_label": "14.6K",
       "posted_at": "2026-09-08T19:54:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356387",
@@ -49,7 +105,7 @@
       "plain_text": "🎧نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: آرایش نظامی در شهرهای ایران\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "10.4K",
+      "views_label": "14.6K",
       "posted_at": "2026-09-08T19:52:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356386",
@@ -77,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.5K",
+      "views_label": "17.7K",
       "posted_at": "2026-09-08T19:50:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356385",
@@ -93,7 +149,7 @@
       "plain_text": "🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - سه‌شنبه ۱۷ شهریور\n\n🔹من توی جزیره خارک هستم، بهم اطلاع دادن، گفتن سه عدد نفت‌کش مورد اصابت قرار گرفته\n\n🔹ساعت ۲۲ و ۳۵ دقیقه سه‌شنبه، صدای دو فروند موشک یا هواپیمای جنگی در آسمان کرمانشاه\n\n🔹ملارد کرج، سه‌شنبه شب، دم پمپ‌بنزین، صدای شلیک تیر میاد؛ مردم با نیروی بسیجی درگیر شدند\n\n🔹من ۱۴ سالمه، ورزش می‌کنم. شهریه‌ی باشگاه انقدر گرون شده که بعضی وقتا آخر ماه شهریه رو می‌دم. انقدر تورم و گرونی زیاده که بعضی وقتا خودم از کارتم به خانواده پول می‌دم. چی داره به سر ملت ایران میاد؟\n\n🔹استامینوفن کدئین، یک خشاب یک میلیون تومان؛ یعنی هر دانه قرص صد هزار تومان شده\n\n🔹امروز با گران شدن بنزین کرایه وانت‌بارها ۴۰ درصد گران شد و راننده‌ها با کرایه‌های قبل بار نمی‌بردن\n\n🔹سلام مگه نگفتن دیگه برق‌ها رو قطع نمی‌کنن؟ میان‌دوآب از ساعت ۲ تا ۴ هر روز برق‌ها قطع می‌شه\n\n🔹عارف گفته ۷۰ سنت می‌خریم، ۳ سنت می‌فروشیم، ولی نمی‌گه ۱۰ درصدش وارداتیه، مابقی تولید خودمونه؛ یعنی ۹۰ درصد قیمت مفت داره به مردم ۱۰ تومن می‌فروشه. خودتی عمو",
       "media": [],
       "reactions": [],
-      "views_label": "15.7K",
+      "views_label": "18.8K",
       "posted_at": "2026-09-08T19:47:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356384",
@@ -121,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.7K",
+      "views_label": "20.8K",
       "posted_at": "2026-09-08T19:44:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356383",
@@ -149,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.4K",
+      "views_label": "34.5K",
       "posted_at": "2026-09-08T19:30:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356382",
@@ -177,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.3K",
+      "views_label": "33.4K",
       "posted_at": "2026-09-08T19:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356381",
@@ -205,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.4K",
+      "views_label": "34.5K",
       "posted_at": "2026-09-08T19:25:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356380",
@@ -233,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.4K",
+      "views_label": "34.5K",
       "posted_at": "2026-09-08T19:23:20+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356379",
@@ -261,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.4K",
+      "views_label": "35.5K",
       "posted_at": "2026-09-08T19:18:58+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356378",
@@ -289,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.5K",
+      "views_label": "36.6K",
       "posted_at": "2026-09-08T19:14:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356377",
@@ -317,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "42.9K",
+      "views_label": "43.9K",
       "posted_at": "2026-09-08T18:59:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356376",
@@ -345,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "41.9K",
+      "views_label": "43.9K",
       "posted_at": "2026-09-08T18:57:35+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356375",
@@ -373,7 +429,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.8K",
+      "views_label": "41.8K",
       "posted_at": "2026-09-08T18:55:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356374",
@@ -401,7 +457,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.7K",
+      "views_label": "39.8K",
       "posted_at": "2026-09-08T18:54:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356373",
@@ -429,7 +485,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.7K",
+      "views_label": "37.8K",
       "posted_at": "2026-09-08T18:54:32+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356372",
@@ -457,7 +513,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.8K",
+      "views_label": "40.9K",
       "posted_at": "2026-09-08T18:47:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356371",
@@ -485,7 +541,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.9K",
+      "views_label": "42K",
       "posted_at": "2026-09-08T18:44:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356370",
@@ -2705,62 +2761,6 @@
       "posted_at": "2026-09-08T09:55:21+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356290",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356289",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "مخاطبان ایران‌اینترنشنال از شهرهای مختلف، از تشدید فضای امنیتی و تشکیل صف‌های طولانی در پمپ‌بنزین‌ها، هم‌زمان با افزایش قیمت بنزین به لیتری ۱۰ هزار تومان، خبر دادند. در ویدیویی منتشرشده در شبکه‌های اجتماعی، یک شهروند در اعتراض به تصمیم مسعود پزشکیان و دولت برای افزایش قیمت بنزین، آنها را دروغگو خطاب می‌کند.<br><br>جزییات بیشتر در گفت‌وگو با مهدی تاجیک، عضو تحریریه ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "مخاطبان ایران‌اینترنشنال از شهرهای مختلف، از تشدید فضای امنیتی و تشکیل صف‌های طولانی در پمپ‌بنزین‌ها، هم‌زمان با افزایش قیمت بنزین به لیتری ۱۰ هزار تومان، خبر دادند. در ویدیویی منتشرشده در شبکه‌های اجتماعی، یک شهروند در اعتراض به تصمیم مسعود پزشکیان و دولت برای افزایش قیمت بنزین، آنها را دروغگو خطاب می‌کند.\n\nجزییات بیشتر در گفت‌وگو با مهدی تاجیک، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356289",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/hSvuO6o708JZlRfllCSFchogA8Nx77f0o60boHj6nYV1TMnInXNzGRYHwpFo8EHfjdRTGELd6AJmqt6R-oZ1epP6skpuM31ffs3XN3WvBOQmqBUIqhHCl8gxP7Eav-B7nAxtWyUVI4DCfmTuqEwIlmx-bQFpw1r9xwMZ3Hk98I0M3-cvmhJ7n6O8jeKqDLvvGjY1gTdEzt9c1QwmzfFsyDJZ9J9oLia8mgek7Ls5BT2R2TCsqKozjQ8CT94qOuq9t6AZ5qKu5m4c5fJaWoi25vKdlizNZJ0KetLM-nu5lBGusbXbPVH3XKd2jZBCz71uGkBr20-ajZMD_Xlqca43hQ",
-          "thumbnail_path": "channels/iranintltv/media/eb3a38fba55cc797b5ead549.jpg",
-          "thumbnail_sha256": "b3083934292461d3672c6ed2494ed95f44d082a2254650fe36441b7c0b5a4600",
-          "duration_label": "2:46",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "37.9K",
-      "posted_at": "2026-09-08T09:54:30+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356289",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356288",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "سرخط خبرهای سه‌شنبه ۱۷ شهریور<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "سرخط خبرهای سه‌شنبه ۱۷ شهریور\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356288",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/MY7EpbKs753EBAiCQnRcH5Fmnn8wRdS8H5F2hwZKvXVc4ED6omcbsHd_7A23gl598Zy4Wm4FlIHQNn3nw3xDQsEDaMcHDMCA9-Z-IS3o0nU8Lslwtax0_BozX1ZhSTsN6sv9TaLwu33el0IdUMD23vGpj41-iPQPNsbVIIHHK_8vaws7FdNB07djHXN9x6U1PW7bapzCctkE7hIOtftjYqMdhOrydQQhuDImBb4CtU_j53Nn_cpTwMnzSFFf59FYUBnH8avOKnkHmRKlQcwn25HFNYLFCuJFieClEPYgEuJq9s0vAHp0PYNyeRspWZ8WSvqb7ImRcAmog-y2exFPUg",
-          "thumbnail_path": "channels/iranintltv/media/98a8b1172fd09393a2058e9a.jpg",
-          "thumbnail_sha256": "91936760ec36a2a2e4871c68d3ee4bd44dbbd1fa34a91808868f3e5447facdc4",
-          "duration_label": "1:15",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "38.9K",
-      "posted_at": "2026-09-08T09:37:43+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356288",
       "reply": null
     }
   ]
