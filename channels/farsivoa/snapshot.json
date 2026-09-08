@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T00:27:00.213Z",
+  "fetched_at": "2026-09-08T00:32:51.453Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229814",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "دو فوتبالیست زن ایرانی: سکوت ما در حمایت از معترضان بود<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "دو فوتبالیست زن ایرانی: سکوت ما در حمایت از معترضان بود\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229814",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Z0E-Nvz9mPW4g9Tq6xqLby6NQO-tESqVmS5yfQRyFKvGFOn27-yt_8N6CcWVUDy7u2DE6jd24RTWMDdzOJStNAaXv1D0Nq84zD1div1ukKI4lv5A13ucwuwKn77CdXIyO7OLy7BUVICYCFg0CSNzndISEwHPLBjkWr4NLiNhOtNGCUOHbNM1HuwfNHtRTaPryLiqc5oAIcv9XUwkJlT4Nvoh_Ve7r7DuRoWNf4FAfO4NPgB4o3VoAnoKPmcERFYp32ryXWI3E3gTiT5KU7JuhMamDuLO7ymyMhfg53ThW9j7lXDBIl2wXluccye4p18Z5HYNdFnnNjn5Nb5GXz-YyQ",
+          "thumbnail_path": "channels/farsivoa/media/2caae58bfc97640afd7152f1.jpg",
+          "thumbnail_sha256": "f07d7866d87522f5fcd54783128bda568d4f95679a3bc97ddb3feb0f4a64340e",
+          "duration_label": "3:46",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "74",
+      "posted_at": "2026-09-08T00:29:29+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229814",
+      "reply": null
+    },
     {
       "id": "farsivoa/229813",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "319",
+      "views_label": "414",
       "posted_at": "2026-09-08T00:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229813",
@@ -49,7 +77,7 @@
       "plain_text": "🔺ترامپ: قیمت نفت کاهش خواهد یافت و جمهوری اسلامی به سلاح هسته‌ای دست پیدا نمی‌کند\n\n▪️دونالد ترامپ، رئیس‌جمهوری آمریکا، دوشنبه شب در شبکه اجتماعی تروت‌سوشال نوشت وقتی در جنگ با جمهوری اسلامی ایران «پیروز شویم، قیمت نفت به سرعت کاهش خواهد یافت.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195221.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "552",
+      "views_label": "617",
       "posted_at": "2026-09-07T23:46:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229812",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "581",
+      "views_label": "645",
       "posted_at": "2026-09-07T23:39:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229811",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "647",
+      "views_label": "709",
       "posted_at": "2026-09-07T23:33:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229810",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "815",
+      "views_label": "877",
       "posted_at": "2026-09-07T23:15:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229809",
@@ -149,7 +177,7 @@
       "plain_text": "🔺جمهوری اسلامی رسماً قیمت بنزین را افزایش داد و نیروهای سرکوب لباس شخصی را در اطراف جایگاه‌های سوخت مستقر کرد\n\n▪️جمهوری اسلامی بامداد سه‌شنبه ۱۷ شهریور قیمت بنزین موسوم به «سوخت سهمیه جایگاه‌ها» را به‌طور رسمی افزایش داد و نیروهای سرکوب را در اطراف پمپ‌بنزین‌ها مستقر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195211.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "924",
+      "views_label": "956",
       "posted_at": "2026-09-07T23:06:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229808",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.01K",
+      "views_label": "1.05K",
       "posted_at": "2026-09-07T22:50:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229807",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.54K",
+      "views_label": "1.57K",
       "posted_at": "2026-09-07T22:18:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229806",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.63K",
+      "views_label": "1.66K",
       "posted_at": "2026-09-07T22:10:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229805",
@@ -249,7 +277,7 @@
       "plain_text": "🔺خبرنگار سی‌بی‌اس: کامران حکمتی، شهروند آمریکایی از زندان اوین آزاد شد اما همچنان ممنوع‌الخروج است\n\n▪️مارگارت برنان، خبرنگار شبکه خبری سی‌بی‌اس آمریکا، روز دوشنبه ‍‍۱۶ شهریور اعلام کرد کامران حکمتی، شهروند دوتابعیتی ایرانی-آمریکایی، سه روز پیش از زندان اوین آزاد شده است، اما همچنان اجازه خروج از ایران را ندارد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195205.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.69K",
+      "views_label": "1.72K",
       "posted_at": "2026-09-07T22:03:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229804",
@@ -265,7 +293,7 @@
       "plain_text": "🔺سنتکام مسیر ۹۴ کشتی تجاری را در جریان محاصره دریایی علیه جمهوری اسلامی تغییر داده است\n\n▪️ستاد فرماندهی مرکزی آمریکا، سنتکام، روز دوشنبه اعلام کرد نیروهای آمریکایی تاکنون مسیر ۹۴ کشتی تجاری را در چارچوب اجرای موج دوم محاصره دریایی علیه جمهوری اسلامی تغییر داده‌اند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195203.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.77K",
+      "views_label": "1.8K",
       "posted_at": "2026-09-07T21:49:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229803",
@@ -293,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.67K",
+      "views_label": "1.71K",
       "posted_at": "2026-09-07T21:47:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229802",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.81K",
+      "views_label": "1.84K",
       "posted_at": "2026-09-07T21:39:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229801",
@@ -449,7 +477,7 @@
       "plain_text": "🔴📢‌ پادکست میدان - دوشنبه ۱۶ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از\nنسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه\nسبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "3.76K",
+      "views_label": "3.79K",
       "posted_at": "2026-09-07T19:54:30+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229796",
@@ -477,7 +505,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.84K",
+      "views_label": "3.88K",
       "posted_at": "2026-09-07T19:31:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229795",
@@ -2567,34 +2595,6 @@
       "posted_at": "2026-09-07T08:58:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229703",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229702",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "سخنگوی وزارت امور خارجه جمهوری اسلامی در پیامی به زبان کره‌ای هشدار داد هرگونه مشارکت عملیاتی یا حضور نظامی کره جنوبی در خلیج فارس و تنگه هرمز «پیامدهای جدی» خواهد داشت.<br><br>اسماعیل بقائی نوشت: «هرگونه مشارکت عملیاتی یا حضور نظامی دیگر طرف‌ها در خلیج فارس و تنگه هرمز، به منزله حمایت مستقیم از طرف متجاوز بوده و پیامدهای جدی خواهد داشت.»<br><br>پیام بقائی دومین هشدار تهران به سئول ظرف سه روز است.<br><br>کره جنوبی زیر فشار واشنگتن برای مشارکت در تأمین امنیت تنگه هرمز قرار دارد. دونالد ترامپ، رئیس‌جمهوری آمریکا، بارها متحدان را به دلیل نبود همکاری در پرونده هرمز نقد کرده است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "سخنگوی وزارت امور خارجه جمهوری اسلامی در پیامی به زبان کره‌ای هشدار داد هرگونه مشارکت عملیاتی یا حضور نظامی کره جنوبی در خلیج فارس و تنگه هرمز «پیامدهای جدی» خواهد داشت.\n\nاسماعیل بقائی نوشت: «هرگونه مشارکت عملیاتی یا حضور نظامی دیگر طرف‌ها در خلیج فارس و تنگه هرمز، به منزله حمایت مستقیم از طرف متجاوز بوده و پیامدهای جدی خواهد داشت.»\n\nپیام بقائی دومین هشدار تهران به سئول ظرف سه روز است.\n\nکره جنوبی زیر فشار واشنگتن برای مشارکت در تأمین امنیت تنگه هرمز قرار دارد. دونالد ترامپ، رئیس‌جمهوری آمریکا، بارها متحدان را به دلیل نبود همکاری در پرونده هرمز نقد کرده است.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229702",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/VXno3CbNkfYaMoZLjjGHGpAH87gWmHGw3wpo98rb8Hm7kcuIj9mWcqlrJLYPQ6gvcWLIxxu-OIFNdHiBQcB4DrDvwD-AhbMVvIjZHkL3PXyvSulEY94KcO1UMddYEOZP8a1P2bs31Z4HmvtBHFaFuXNOj8Ogy__3ZPr14I_7U1yVH2bbFD7T4acLHVrXgA0d-FUw89Tm3A3G7D3QOto1QUBphlwB3su-1Tw8KIGM2VfdPZOYX9VrpebJ8UHKafV7CYpnLzOc_4f5unNkHut-BTOEn8LsYMvZPlbbLu6VNBJkvnsK2VON75iKQFIVPsnxIDcR8rcaL5hrTpZnu5l-Kw.jpg",
-          "thumbnail_path": "channels/farsivoa/media/10d385aa6db15b66e8f68189.jpg",
-          "thumbnail_sha256": "5a3f391239aec562122cdfb74dcc409b5b17ec3f9d31b908b985438767db00a4",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.86K",
-      "posted_at": "2026-09-07T08:50:14+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229702",
       "reply": null
     }
   ]
