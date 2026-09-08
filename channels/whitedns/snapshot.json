@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T09:47:20.697Z",
+  "fetched_at": "2026-09-08T09:52:26.110Z",
   "channel": {
     "username": "whitedns",
     "title": "White DNS",
@@ -11,6 +11,27 @@
     "subscriber_count": "108K"
   },
   "posts": [
+    {
+      "id": "whitedns/1739",
+      "author_name": "White DNS",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Lf2Zh5d8QvMFFVyEOsSMYKftOnni1arq6x1P710Mkt8MNlaPn_lDOpXo4NqZDOy4eB3Y4jxzuocskAo_pIe8-kq0fhq4aKEih3oiZfsRo7X87At2RZcaC1adkbeTNCZ-JWASd1NvZ0_KSklAcbnkuef_16__edJ_SMpd8E1BIGwKRh2iHSyDVHG5TlzaIaRos-IdsV3yQzcVVuLWSVji9FlyDL2KEqZB2aQG2Je4yzUjWkyliWBvyLrgEWmlHjZjgOVLAIbzGZ6XiVOSms171PbXiO5n22C2Hi7gyu4RT-hydERh57q3XMtnYaZAg-jt3M4xSeE_DG6pKxuuWVv6lg.jpg",
+      "author_photo_path": "channels/whitedns/media/2d80bb22e9de6b54bbc394c0.jpg",
+      "author_photo_sha256": "333c4e41d2bf79dd691d47900c56c348640a2318a91227017dc547fbda818224",
+      "body_html": "دوستانی که علاقه به AI و برنامه‌نویسی دارید، من یه چنل شخصی 《پدی》 شروع کردم که اگر به اون موضوع علاقه دارید میتونید جوین بشید <tg-emoji emoji-id=\"5267102644886853973\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></tg-emoji><br><br><a href=\"https://t.me/iampediii/5\" target=\"_blank\" rel=\"noopener\">https://t.me/iampediii/5</a>",
+      "plain_text": "دوستانی که علاقه به AI و برنامه‌نویسی دارید، من یه چنل شخصی 《پدی》 شروع کردم که اگر به اون موضوع علاقه دارید میتونید جوین بشید ❤️\n\nhttps://t.me/iampediii/5",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": "1"
+        }
+      ],
+      "views_label": "1",
+      "posted_at": "2026-09-08T09:52:08+00:00",
+      "edited": false,
+      "permalink": "https://t.me/whitedns/1739",
+      "reply": null
+    },
     {
       "id": "whitedns/1738",
       "author_name": "White DNS",
@@ -23,7 +44,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "47"
+          "count": "48"
         },
         {
           "emoji": "❤‍🔥",
@@ -50,7 +71,7 @@
           "count": "1"
         }
       ],
-      "views_label": "4.2K",
+      "views_label": "4.29K",
       "posted_at": "2026-09-08T08:02:42+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1738",
@@ -257,7 +278,7 @@
           "count": "1"
         }
       ],
-      "views_label": "12.6K",
+      "views_label": "12.7K",
       "posted_at": "2026-09-06T11:25:09+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1735",
@@ -5443,71 +5464,6 @@
       "posted_at": "2026-08-24T11:06:10+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1589",
-      "reply": null
-    },
-    {
-      "id": "whitedns/1588",
-      "author_name": "White DNS",
-      "author_photo_url": "https://cdn4.telesco.pe/file/IGGZm7zHS0c1y_rqeRqbUQZFxrQTyGSyGVCLl-5XI0RaB-XrlPc40-fCpc1l5cCwefHz4h7rD4-KAjMKWfYejf3BDSwlQiseZbfK9KteErSqWd71c0MN7d8pNND9LQV_CGNaxX4n9pZufPdjVtd3-u9U07uVb63RmjHlqoxw4H-rzKioYu0DkUFi0xNqbZSTWclAIuDmpLU-v75E8y47fVAF2qFkA5MxMLfnRERHqQymmNikja93pTS4Ca4Qm_tgntFcy5zAXtM4kBR1v_ummg7QQCy8PSz2DfjIhiKywXYBqNBUGaEvgncupjXNbiAgPeGGymPLYDQqHwgEcMCXRg.jpg",
-      "author_photo_path": "channels/whitedns/media/8fe4910a910e769db4d3ac6a.jpg",
-      "author_photo_sha256": "333c4e41d2bf79dd691d47900c56c348640a2318a91227017dc547fbda818224",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i> WhiteVPN 1.6.2</b><br><br><tg-emoji emoji-id=\"5197269100878907942\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C8D.png')\"><b>✍️</b></i></tg-emoji> این نسخه اتصال WhiteVPN را سریع‌تر و پایدارتر می‌کند و چند بهبود مهم برای سابسکریپشن‌ها، تنظیمات و Split Tunneling دارد.<br><br><tg-emoji emoji-id=\"5197269100878907942\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C8D.png')\"><b>✍️</b></i></tg-emoji> <b>تغییرات مهم<br></b>• اتصال مجدد خودکار، سریع‌تر و قابل‌اعتمادتر شده است.<br>• در صورت بروز مشکل در اتصال، برنامه بهتر و امن‌تر آن را بازیابی می‌کند.<br>• بررسی سلامت اتصال و مدیریت تغییرات شبکه بهبود یافته است.<br>• هنگام قطع اتصال، وضعیت واقعی عملیات نمایش داده می‌شود و برنامه تا توقف کامل اتصال در حالت «در حال قطع اتصال» باقی می‌ماند.<br>• مدیریت و ذخیره‌سازی سابسکریپشن‌ها پایدارتر شده است.<br>• فایل‌های خراب سابسکریپشن به‌صورت خودکار شناسایی و دوباره دریافت می‌شوند.<br>• آخرین نسخه سالم سابسکریپشن برای مواقعی که دریافت نسخه جدید ممکن نیست، حفظ می‌شود.<br>• پشتیبانی از لینک‌ها و کانفیگ‌های SOCKS و SOCKS5 اضافه شده است.<br>• تنظیمات سابسکریپشن، زبان و ظاهر برنامه به بخش جدید «تنظیمات برنامه» منتقل شده‌اند.<br>• گزینه «بازنشانی تنظیمات» اضافه شده است؛ بدون حذف سابسکریپشن‌ها، نتایج تست‌ها یا قطع اتصال فعال.<br>• در بخش Split Tunneling اکنون تمام برنامه‌های نصب‌شده، حتی برنامه‌های بدون آیکون، نمایش داده می‌شوند.<br>• اسکرول فهرست برنامه‌ها در Split Tunneling اصلاح شده است.<br>• ذخیره نتایج تست اتصال و به‌روزرسانی صفحه سریع‌تر و روان‌تر شده است.<br>• حجم نسخه نهایی با حذف منابع اضافی کاهش یافته است.<br><br><br><tg-emoji emoji-id=\"5771777713236877062\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji>  <b>دانلود از گیتهاب<br></b><a href=\"https://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.6.2\" target=\"_blank\" rel=\"noopener\">https://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.6.2</a>",
-      "plain_text": "🚀 WhiteVPN 1.6.2\n\n✍️ این نسخه اتصال WhiteVPN را سریع‌تر و پایدارتر می‌کند و چند بهبود مهم برای سابسکریپشن‌ها، تنظیمات و Split Tunneling دارد.\n\n✍️ تغییرات مهم\n• اتصال مجدد خودکار، سریع‌تر و قابل‌اعتمادتر شده است.\n• در صورت بروز مشکل در اتصال، برنامه بهتر و امن‌تر آن را بازیابی می‌کند.\n• بررسی سلامت اتصال و مدیریت تغییرات شبکه بهبود یافته است.\n• هنگام قطع اتصال، وضعیت واقعی عملیات نمایش داده می‌شود و برنامه تا توقف کامل اتصال در حالت «در حال قطع اتصال» باقی می‌ماند.\n• مدیریت و ذخیره‌سازی سابسکریپشن‌ها پایدارتر شده است.\n• فایل‌های خراب سابسکریپشن به‌صورت خودکار شناسایی و دوباره دریافت می‌شوند.\n• آخرین نسخه سالم سابسکریپشن برای مواقعی که دریافت نسخه جدید ممکن نیست، حفظ می‌شود.\n• پشتیبانی از لینک‌ها و کانفیگ‌های SOCKS و SOCKS5 اضافه شده است.\n• تنظیمات سابسکریپشن، زبان و ظاهر برنامه به بخش جدید «تنظیمات برنامه» منتقل شده‌اند.\n• گزینه «بازنشانی تنظیمات» اضافه شده است؛ بدون حذف سابسکریپشن‌ها، نتایج تست‌ها یا قطع اتصال فعال.\n• در بخش Split Tunneling اکنون تمام برنامه‌های نصب‌شده، حتی برنامه‌های بدون آیکون، نمایش داده می‌شوند.\n• اسکرول فهرست برنامه‌ها در Split Tunneling اصلاح شده است.\n• ذخیره نتایج تست اتصال و به‌روزرسانی صفحه سریع‌تر و روان‌تر شده است.\n• حجم نسخه نهایی با حذف منابع اضافی کاهش یافته است.\n\n\n📱 دانلود از گیتهاب\nhttps://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.6.2",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/whitedns/1588",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/THN0xMAURmLZUFRbB9b1VdU3uhcPJON_mSwaKx77ygWBAAYmGMjuAIO5C5sdwsw27kHKHMYHB4LbBi7zKHkZv9LuCmgN7UCnrAHB97e_uMsdYgBqw_tNJKIe_nOoPlENmGVmFdbZ0TlJiUSsBDHxSltsBLod7Tb_qK8Zg3tPgAw9Uypbq-Ip0nNEcUCIdEVgOFw4cPwaD1arWyE1DkjqJggSG4BdxMNzKEMt9ZuLBp8gir1Pvm7Y7daQGVZ-HZbbHnf2wEtq03OSfsR1J9KaC8uPUB50Neos4gZDTlzDwO8mTveFE4JSTqbgNHwXcyZ2onQIzWZQuSkVzJ1oQzg6wA.jpg",
-          "thumbnail_path": "channels/whitedns/media/a172df3e4ee6da024d60c37a.jpg",
-          "thumbnail_sha256": "9a1654261b5ae9e027b476ceb49aa62133b53fc9291385f99b171925e895aaf6",
-          "duration_label": null,
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "1"
-        },
-        {
-          "emoji": "❤",
-          "count": "212"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "9"
-        },
-        {
-          "emoji": "🔥",
-          "count": "5"
-        },
-        {
-          "emoji": "👏",
-          "count": "2"
-        },
-        {
-          "emoji": "😍",
-          "count": "2"
-        },
-        {
-          "emoji": "🍾",
-          "count": "2"
-        },
-        {
-          "emoji": "👍",
-          "count": "1"
-        },
-        {
-          "emoji": "🕊",
-          "count": "1"
-        }
-      ],
-      "views_label": "13.1K",
-      "posted_at": "2026-08-24T11:04:51+00:00",
-      "edited": false,
-      "permalink": "https://t.me/whitedns/1588",
       "reply": null
     }
   ]

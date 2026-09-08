@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T09:47:10.875Z",
+  "fetched_at": "2026-09-08T09:52:15.540Z",
   "channel": {
     "username": "daadbaan2021",
     "title": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
@@ -26,8 +26,8 @@
           "asset_path": null,
           "asset_sha256": null,
           "thumbnail_url": "https://cdn4.telesco.pe/file/LNN6KK7N0e_w6FPgjf2L-u5sKyJ8u-Ag4VV1h81xIwFwvz5ISRSq_eikGMIZBM1cFU8XhsGOg3HsXOIDjzXdth8s5SF66EdnrSLREOb6bnlSLzITjxTDpi7T0VYEzg53o75UMHcrf2uEU5X4RGNbk-5ZO1cMtqQZ7rnMNVeba4a9Skci50L1Z11GlWqm2KK9OYGfVknym8ToKqj-SZa2HrC5bJn5-7qeepScHgggS6w7LrzngsqkHH57IzuA3uPgSdKPgQiUW56Oxy15_E5czfwjFCL0F0v9KTsDl4cK5codgGcPBPVEuJ-gGV7xje6QMyZWupnu7g-OIEXr88wMnQ.jpg",
-          "thumbnail_path": null,
-          "thumbnail_sha256": null,
+          "thumbnail_path": "channels/daadbaan2021/media/9b66dc03c5bf73945b0212d8.jpg",
+          "thumbnail_sha256": "5f5aaecadea4dad5bcc072344c1123b44a0513573e4e7fd3509e7df47005c918",
           "duration_label": null,
           "aspect_ratio": 0.7987500000000295
         }
@@ -42,7 +42,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15",
+      "views_label": "28",
       "posted_at": "2026-09-08T09:42:12+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20233",
@@ -79,7 +79,7 @@
           "count": "1"
         }
       ],
-      "views_label": "63",
+      "views_label": "68",
       "posted_at": "2026-09-08T08:16:44+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20232",
@@ -116,7 +116,7 @@
           "count": "1"
         }
       ],
-      "views_label": "78",
+      "views_label": "81",
       "posted_at": "2026-09-08T07:23:05+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20231",
@@ -153,7 +153,7 @@
           "count": "1"
         }
       ],
-      "views_label": "165",
+      "views_label": "166",
       "posted_at": "2026-09-07T22:14:09+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20230",
@@ -198,7 +198,7 @@
           "count": "1"
         }
       ],
-      "views_label": "224",
+      "views_label": "225",
       "posted_at": "2026-09-07T17:54:18+00:00",
       "edited": false,
       "permalink": "https://t.me/Daadbaan2021/20229",
@@ -235,7 +235,7 @@
           "count": "1"
         }
       ],
-      "views_label": "183",
+      "views_label": "185",
       "posted_at": "2026-09-07T17:22:09+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20228",
@@ -272,7 +272,7 @@
           "count": "1"
         }
       ],
-      "views_label": "170",
+      "views_label": "171",
       "posted_at": "2026-09-07T15:34:48+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20227",
