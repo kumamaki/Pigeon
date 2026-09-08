@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T14:06:36.388Z",
+  "fetched_at": "2026-09-08T14:11:44.389Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229863",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "حساب کاربری ارتش دفاعی اسرائیل به زبان فارسی، از فعال شدن دوباره گشت دریایی «اسکادران ۱۹۳» خبر داد. پس از بازگشایی در ۲۰۲۶، بالگردهای جدید (اس‌اچ۶۰‌اف) به این یگان عملیاتی و نظامی ارتش اسرائیل که به آن «مدافعان غرب» نیز می‌گویند، ملحق شد. این بالگرد نظامی چندمنظوره ساخت آمریکا و زیرمجموعه بالگردهای بلک‌هاوک است.",
+      "plain_text": "حساب کاربری ارتش دفاعی اسرائیل به زبان فارسی، از فعال شدن دوباره گشت دریایی «اسکادران ۱۹۳» خبر داد. پس از بازگشایی در ۲۰۲۶، بالگردهای جدید (اس‌اچ۶۰‌اف) به این یگان عملیاتی و نظامی ارتش اسرائیل که به آن «مدافعان غرب» نیز می‌گویند، ملحق شد. این بالگرد نظامی چندمنظوره ساخت آمریکا و زیرمجموعه بالگردهای بلک‌هاوک است.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229863",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/IBs4FMbYcGzsr8CpJ-o4nvxzS4oJsY0MRciGE4bg8cp8WuFjlqy9ncv-_eT5iBTKgj8Xouv0j8yYBDf5-ZjODjUbTOYqxu5vjfdIUUt38WtHD_WCBjvrt2neKhbJB5lYW-YQ09jRr3qD8RC51-BSGiltjrJ9SKK-g2Eo-Rd59fE7Rx-sZLuqghYRqtEyhwtxv4ktDo7tPvgvVmmbh1y6WjIxze0SezWf5-2iDU1IUMTyByIQPoPXZjkJRNQV9V3q0qRMRb696JJ6OFcl8OFlhvQn1qflFD4quJbedAN6mBkU7FkT_R6gatKOM1n7SPxz3_L_d1CWzo2cAAda2lPPWw",
+          "thumbnail_path": "channels/farsivoa/media/0c148e9b31ff3b0cdab1ef1b.jpg",
+          "thumbnail_sha256": "efab009120fa6d5a764df40d5ff667fedbefde626d38c1d742c41d7825589909",
+          "duration_label": "0:46",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "281",
+      "posted_at": "2026-09-08T14:07:56+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229863",
+      "reply": null
+    },
     {
       "id": "farsivoa/229862",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "355",
+      "views_label": "605",
       "posted_at": "2026-09-08T14:00:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229862",
@@ -49,7 +77,7 @@
       "plain_text": "🔺بریتانیا موسسه «القرض‌الحسن» را تحریم کرد؛ تشدید فشار بر جمهوری اسلامی با تحریم بازوی مالی حزب‌الله\n\n▪️بریتانیا روز سه‌شنبه ۱۷ شهریور ۱۴۰۵ تحریم‌هایی را علیه موسسه «القرض‌الحسن»، مؤسسه مالی وابسته به حزب‌الله لبنان، اعلام کرد؛ اقدامی که در ادامه فشارهای آمریکا و متحدانش برای محدود کردن منابع مالی این گروه مورد حمایت جمهوری اسلامی انجام می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/britain-sanctions-hezbollah-linked-institution/8195533.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "827",
+      "views_label": "984",
       "posted_at": "2026-09-08T13:45:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229861",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.12K",
+      "views_label": "1.22K",
       "posted_at": "2026-09-08T13:32:59+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229860",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.35K",
+      "views_label": "1.44K",
       "posted_at": "2026-09-08T13:20:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229859",
@@ -121,7 +149,7 @@
       "plain_text": "🔺اعزام تیم ارزیاب کره‌جنوبی به منطقه برای بررسی وضعیت تنگه هرمز\n\n▪️وزارت دفاع کره‌جنوبی روز سه‌شنبه ۱۷ شهریور اعلام کرد که تیمی را برای ارزیابی وضعیت در تنگه هرمز به منطقه اعزام کرده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/south-korea-assessment-team-deployment-strait-of-hormuz/8195526.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.28K",
+      "views_label": "1.38K",
       "posted_at": "2026-09-08T13:18:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229858",
@@ -149,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.41K",
+      "views_label": "1.51K",
       "posted_at": "2026-09-08T13:10:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229857",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.41K",
+      "views_label": "1.48K",
       "posted_at": "2026-09-08T13:05:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229856",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.32K",
+      "views_label": "1.38K",
       "posted_at": "2026-09-08T13:03:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229855",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.63K",
+      "views_label": "1.7K",
       "posted_at": "2026-09-08T12:50:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229854",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.83K",
+      "views_label": "1.89K",
       "posted_at": "2026-09-08T12:39:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229853",
@@ -289,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.02K",
+      "views_label": "2.05K",
       "posted_at": "2026-09-08T12:25:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229852",
@@ -305,7 +333,7 @@
       "plain_text": "🔺بریتانیا لایحه تحریم‌های سخت‌تر علیه جمهوری اسلامی را منتشر کرد\n\n▪️بریتانیا روز سه‌شنبه قانونی برای اعمال تحریم‌های سخت‌تر علیه جمهوری اسلامی منتشر کرد که محدودیت‌های تجاری و اختیارات هدف قرار دادن شناورها را گسترش می‌دهد.\n\n▪️دولت بریتانیا اقدام را بخشی از تلاش گسترده‌تر برای مهار برنامه هسته‌ای تهران و «دیگر فعالیت‌های خصمانه» خواند. بر پایه اعلام دولت بریتانیا، اقدام‌ها دسترسی جمهوری اسلامی به نظام مالی این کشور را محدود می‌کند.\n\n▪️ممنوعیت تجارت به کالاها، فناوری و خدمات بیشتری گسترش می‌یابد و فرود هواپیماهای ایرانی در بریتانیا جز در موارد استثنا ممنوع می‌شود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/uk-publishes-legislation-for-tougher-sanctions-on-iran/8195516.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.37K",
+      "views_label": "2.41K",
       "posted_at": "2026-09-08T12:07:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229851",
@@ -321,7 +349,7 @@
       "plain_text": "🔺ژاپن نگرانی خود را از حملات جمهوری اسلامی به شناورها در هرمز ابراز کرد\n\n▪️توشیمیتسو موتگی، وزیر خارجه ژاپن، در گفت‌وگوی تلفنی با عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، نگرانی خود را از ادامه حملات جمهوری اسلامی به شناورهای غیرنظامی ابراز کرد و خواستار «حداکثر خویشتنداری» شد.\n\n▪️بر پایه اعلام وزارت خارجه ژاپن، در این تماس پنج خواسته توکیو از جمله کاهش تنش و از سرگیری مذاکرات، انعطاف حداکثری، توقف حمله به شناورها، بازگشت آزادی دریانوردی بدون هزینه افزوده و مهار حوثی‌ها به عراقچی منتقل شد.\n\n▪️در مقابل عراقچی از «پیشرفت قابل توجه» گفت‌وگوها با عمان برای تعیین یک مسیر موقت تردد در تنگه هرمز خبر داد. ژاپن اما می‌گوید آینده تنگه باید در جامعه بین‌المللی بررسی شود، نه دوجانبه.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/japan-expresses-concern-over-iranian-attacks-on-vessels-in-hormuz/8195515.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.22K",
+      "views_label": "2.25K",
       "posted_at": "2026-09-08T12:02:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229850",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.17K",
+      "views_label": "2.21K",
       "posted_at": "2026-09-08T11:51:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229849",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.24K",
+      "views_label": "2.27K",
       "posted_at": "2026-09-08T11:44:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229848",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.33K",
+      "views_label": "2.36K",
       "posted_at": "2026-09-08T11:34:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229847",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.41K",
+      "views_label": "2.44K",
       "posted_at": "2026-09-08T11:24:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229846",
@@ -461,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.61K",
+      "views_label": "2.64K",
       "posted_at": "2026-09-08T11:08:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229845",
@@ -489,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.7K",
+      "views_label": "2.71K",
       "posted_at": "2026-09-08T10:57:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229844",
@@ -2603,34 +2631,6 @@
       "posted_at": "2026-09-07T16:15:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229754",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229753",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "جگوار لندرور همزمان با افت فروش، رقابت خودروسازان چینی، و فشار تعرفه‌های آمریکا، تایید کرده است تا چهار هزار شغل را طی مدت دو سال حذف کند. تعدیل نیرو در بزرگ‌ترین خودروساز بریتانیا، نگرانی‌ها درباره آینده مشاغل صنعتی این کشور را بیشتر کرده است.",
-      "plain_text": "جگوار لندرور همزمان با افت فروش، رقابت خودروسازان چینی، و فشار تعرفه‌های آمریکا، تایید کرده است تا چهار هزار شغل را طی مدت دو سال حذف کند. تعدیل نیرو در بزرگ‌ترین خودروساز بریتانیا، نگرانی‌ها درباره آینده مشاغل صنعتی این کشور را بیشتر کرده است.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229753",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/ZmjM4OVot-5C_Fu5ohmnqkc-bonqpFC2_SuS7hThT_6TNPHw9hetJ9_wMV-uvzY7aRModO0FiujksiF4XSQFnt7PS7dkAOgpCDlFZ0EkOjo0BHMW5omegvhlLSwLEgx5uypwKNdEQThdCm-O5o5Lzl0G-t-GF5ASIE3KKAlof8KjMPcpFGan60q0WrzG2wktqIR1gaF9sBXTBqKEmiQJ945gYx28Jd4nxRSBd0xEWj04soD_O2NXKlvulnhCr6M0eoryQHW3cHNJvlxxaUiVJ74_vay9I_ano7ms_Jn2CgWgG1Ox8AOu0Y4CMRmDj_RIav-ZXaMYXx8Xyq0k7W54dg",
-          "thumbnail_path": "channels/farsivoa/media/0b3d975611fe69568780e3c5.jpg",
-          "thumbnail_sha256": "3ea62df9647e84eb19429c83768967c056679842f9b9434079bbe90e02e018e1",
-          "duration_label": "4:49",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.74K",
-      "posted_at": "2026-09-07T16:06:29+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229753",
       "reply": null
     }
   ]
