@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T12:36:45.091Z",
+  "fetched_at": "2026-09-08T12:41:27.804Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229853",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "ولودیمیر زلنسکی، رئیس‌ جمهوری اوکراین، با انتشار ویدیویی از خسارات حملات شبانه روسیه اعلام کرد کی‌یف و چند منطقه دیگر با موشک‌های بالستیک، کروز و ضدکشتی و همچنین پهپادهای تهاجمی هدف قرار گرفته‌اند.<br><br>به گفته زلنسکی، در کی‌یف دو نفر کشته و ۱۰ نفر زخمی شدند و خسارات قابل‌توجهی به ساختمان‌های مسکونی و زیرساخت‌های غیرنظامی وارد شد. او همچنین گفت پدافند اوکراین در طول شب ۱۷۵ هدف هوایی را سرنگون کرده است.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "ولودیمیر زلنسکی، رئیس‌ جمهوری اوکراین، با انتشار ویدیویی از خسارات حملات شبانه روسیه اعلام کرد کی‌یف و چند منطقه دیگر با موشک‌های بالستیک، کروز و ضدکشتی و همچنین پهپادهای تهاجمی هدف قرار گرفته‌اند.\n\nبه گفته زلنسکی، در کی‌یف دو نفر کشته و ۱۰ نفر زخمی شدند و خسارات قابل‌توجهی به ساختمان‌های مسکونی و زیرساخت‌های غیرنظامی وارد شد. او همچنین گفت پدافند اوکراین در طول شب ۱۷۵ هدف هوایی را سرنگون کرده است.\n\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229853",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/B6IMdSWaXI9G5g1nLCnw8C-bY_LhiW7K1sVEbw5o1LHLx6cZvVbfhI5RDcGNS2SuKyHwiZBTmAKfMCvkziTvO7AEIWKmJU6cB-OC68Y6Zg1V4Iikp80CamteLw7pbgYYMVQWZ1kkBMxDE8VlX1myLY98k8hd1N3KFJ9aYd4MhGrZbMn1sE2K6cCavEYMF7vtDKa7YeYwwDC3hpFfpb4bAD4hrKA0BT1wC4FwShE5hmU_Zu2XufzFYXbhPSD6srWxdehG1WoDA2P4j_nxYE6QulKN-kiiDiF4exS60qdparma6x_dojWhHAJy2h9eQmhpeqn7F9POmTFBPpx-d5cudw",
+          "thumbnail_path": "channels/farsivoa/media/cda34988cc0dd916d4c0d53b.jpg",
+          "thumbnail_sha256": "df5e5a2dcd89c0694f7e43ba18eed1de425d1bb1fba9c85698d7af9c10e8b996",
+          "duration_label": "0:58",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "127",
+      "posted_at": "2026-09-08T12:39:21+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229853",
+      "reply": null
+    },
     {
       "id": "farsivoa/229852",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "486",
+      "views_label": "673",
       "posted_at": "2026-09-08T12:25:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229852",
@@ -49,7 +77,7 @@
       "plain_text": "🔺بریتانیا لایحه تحریم‌های سخت‌تر علیه جمهوری اسلامی را منتشر کرد\n\n▪️بریتانیا روز سه‌شنبه قانونی برای اعمال تحریم‌های سخت‌تر علیه جمهوری اسلامی منتشر کرد که محدودیت‌های تجاری و اختیارات هدف قرار دادن شناورها را گسترش می‌دهد.\n\n▪️دولت بریتانیا اقدام را بخشی از تلاش گسترده‌تر برای مهار برنامه هسته‌ای تهران و «دیگر فعالیت‌های خصمانه» خواند. بر پایه اعلام دولت بریتانیا، اقدام‌ها دسترسی جمهوری اسلامی به نظام مالی این کشور را محدود می‌کند.\n\n▪️ممنوعیت تجارت به کالاها، فناوری و خدمات بیشتری گسترش می‌یابد و فرود هواپیماهای ایرانی در بریتانیا جز در موارد استثنا ممنوع می‌شود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/uk-publishes-legislation-for-tougher-sanctions-on-iran/8195516.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.06K",
+      "views_label": "1.19K",
       "posted_at": "2026-09-08T12:07:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229851",
@@ -65,7 +93,7 @@
       "plain_text": "🔺ژاپن نگرانی خود را از حملات جمهوری اسلامی به شناورها در هرمز ابراز کرد\n\n▪️توشیمیتسو موتگی، وزیر خارجه ژاپن، در گفت‌وگوی تلفنی با عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، نگرانی خود را از ادامه حملات جمهوری اسلامی به شناورهای غیرنظامی ابراز کرد و خواستار «حداکثر خویشتنداری» شد.\n\n▪️بر پایه اعلام وزارت خارجه ژاپن، در این تماس پنج خواسته توکیو از جمله کاهش تنش و از سرگیری مذاکرات، انعطاف حداکثری، توقف حمله به شناورها، بازگشت آزادی دریانوردی بدون هزینه افزوده و مهار حوثی‌ها به عراقچی منتقل شد.\n\n▪️در مقابل عراقچی از «پیشرفت قابل توجه» گفت‌وگوها با عمان برای تعیین یک مسیر موقت تردد در تنگه هرمز خبر داد. ژاپن اما می‌گوید آینده تنگه باید در جامعه بین‌المللی بررسی شود، نه دوجانبه.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/japan-expresses-concern-over-iranian-attacks-on-vessels-in-hormuz/8195515.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.15K",
+      "views_label": "1.22K",
       "posted_at": "2026-09-08T12:02:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229850",
@@ -93,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.27K",
+      "views_label": "1.33K",
       "posted_at": "2026-09-08T11:51:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229849",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.43K",
+      "views_label": "1.46K",
       "posted_at": "2026-09-08T11:44:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229848",
@@ -149,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.55K",
+      "views_label": "1.59K",
       "posted_at": "2026-09-08T11:34:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229847",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.67K",
+      "views_label": "1.71K",
       "posted_at": "2026-09-08T11:24:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229846",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.96K",
+      "views_label": "1.99K",
       "posted_at": "2026-09-08T11:08:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229845",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.09K",
+      "views_label": "2.15K",
       "posted_at": "2026-09-08T10:57:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229844",
@@ -249,7 +277,7 @@
       "plain_text": "🔺هشدار استادان دانشگاه مبنی بر اعتصاب از اول مهر و حاضر نشدن در کلاس‌ها\n\n▪️کانون صنفی استادان دانشگاهی ایران هشدار داد اگر قانون ترمیم حقوق اعضای هیئت علمی تا پایان شهریور به‌طور کامل اجرا نشود، از استادان می‌خواهد فعالیت‌های دانشگاهی خود را از ابتدای مهر تعلیق کنند.\n\n▪️بر پایه بیانیه این کانون، تعلیق حوزه‌های آموزشی، پژوهشی، اجرایی و مشاوره‌ای را در بر می‌گیرد و تا اجرای «کامل و بی‌قیدوشرط» قانون ادامه می‌یابد.\n\n▪️در بیانیه آمده است اعضای هیئت علمی پس از دو سال طی شدن مراحل کارشناسی و قانونی انتظار داشتند اجرای قانون بخشی از مشکلات معیشتی آنان را کاهش دهد.\n\n▪️با این حال با گذشت نزدیک به شش ماه از سال ۱۴۰۵، قانون همچنان به‌طور کامل اجرا نشده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195514.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.34K",
+      "views_label": "2.37K",
       "posted_at": "2026-09-08T10:45:08+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229843",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.3K",
+      "views_label": "2.33K",
       "posted_at": "2026-09-08T10:33:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229842",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.36K",
+      "views_label": "2.39K",
       "posted_at": "2026-09-08T10:26:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229841",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.69K",
+      "views_label": "2.7K",
       "posted_at": "2026-09-08T09:59:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229840",
@@ -361,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.78K",
+      "views_label": "2.81K",
       "posted_at": "2026-09-08T09:41:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229839",
@@ -377,7 +405,7 @@
       "plain_text": "🔺نماینده مجلس: تغییر قیمت بنزین «التهاب‌زا» است؛ جایگاه‌ها به مشکل فنی خوردند\n\n▪️پس از افزایش قیمت بنزین آزاد از پنج هزار تومان به ۱۰ هزار تومان، رئیس کمیسیون امور داخلی مجلس شورای اسلامی گفت تغییر قیمت بنزین بدون همراهی مجلس «التهاب‌زا» است.\n\n▪️سهمیه‌های یارانه‌ای تغییر نکرده است. مالکان خودروهای شخصی همچنان ماهانه ۶۰ لیتر با نرخ ۱۵۰۰ تومان و ۵۰ لیتر با نرخ ۳۰۰۰ تومان دریافت می‌کنند. نرخ تازه زمانی اعمال می‌شود که مصرف از مجموع سهمیه‌ها بگذرد یا راننده کارت شخصی همراه نداشته باشد.\n\n▪️همزمان اجرای طرح با مشکل فنی روبه‌رو شد و در جایگاه‌های سوخت مشکلاتی ایجاد کرد. بر اساس گزارش رسانه‌ها، نمایشگرهای جایگاه‌های سوخت چهار رقمی‌اند و رقم ۱۰ هزار تومان روی آنها جا نمی‌شود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195513.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.84K",
+      "views_label": "2.87K",
       "posted_at": "2026-09-08T09:31:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229838",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.87K",
+      "views_label": "2.88K",
       "posted_at": "2026-09-08T09:17:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229837",
@@ -461,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.97K",
+      "views_label": "3K",
       "posted_at": "2026-09-08T08:52:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229835",
@@ -477,7 +505,7 @@
       "plain_text": "🔺هاکبی: ممنوعیت تجارت بریتانیا با شهرک‌های اسرائیلی واکنش آمریکا را برمی‌انگیزد\n\n▪️سفیر آمریکا در اسرائیل هشدار داد اعلام ممنوعیت تجارت بریتانیا با شهرک‌های کرانه باختری احتمالاً واکنش آمریکا را در پی دارد. مایک هاکبی به شبکه خبری بی‌بی‌سی گفت «بدون تردید» واکنشی خواهد بود، از جمله در سطح ایالت‌های منفرد آمریکا.\n\n▪️هاکبی افزود این می‌تواند «اثر اقتصادی عظیمی بر کسب‌وکارهای بریتانیایی» داشته باشد، چون برخی شرکت‌ها ممکن است از فعالیت در برخی ایالت‌ها منع شوند.\n\n▪️پیشتر رندی فاین، نماینده جمهوری‌خواه، در شبکه ایکس نوشت: «فلوریدا یکی از بزرگترین شرکای تجاری بریتانیاست. باید بدانند پروژه خودنمایانه‌شان در پشتیبانی از تروریسم مسلمانان می‌تواند میلیاردها دلار برایشان هزینه داشته باشد.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195511.html",
       "media": [],
       "reactions": [],
-      "views_label": "3.03K",
+      "views_label": "3.06K",
       "posted_at": "2026-09-08T08:42:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229834",
@@ -2591,34 +2619,6 @@
       "posted_at": "2026-09-07T15:12:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229744",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229743",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "پدر محسن عباسی، از کشته‌شدگان دی ماه ۱۴۰۴، ویدیویی از پوتین‌های پسرش منتشر کرده است و می‌گوید: «خودش رفت و چکمه‌هایش ماند.»<br><br>محسن عباسی، ۲۱ ساله، ۱۸ دی با شلیک گلوله ماموران حکومتی در نجف‌آباد اصفهان کشته شد.",
-      "plain_text": "پدر محسن عباسی، از کشته‌شدگان دی ماه ۱۴۰۴، ویدیویی از پوتین‌های پسرش منتشر کرده است و می‌گوید: «خودش رفت و چکمه‌هایش ماند.»\n\nمحسن عباسی، ۲۱ ساله، ۱۸ دی با شلیک گلوله ماموران حکومتی در نجف‌آباد اصفهان کشته شد.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229743",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/VyLLAzlWdglV42vYEZyPFycXaMPF2xCE-UZa7tXNBmwHXT7IAxha0t7U-RAGls-1CH5tNfgf-mXntTjAQWr9YtvVQKGK0dqhGqnMtXG1vej3eQ-VC-g9ZtEGgDO8oKS9x5yZw6lfftRmu0rbHBTE3Dw-NKuOFGL8GxcLOIo23kI6BNC4yf4CI620yywifSUulMVmU5vrEb4oxeP8kjJWQ1l_dZ1SF5aSJt41ulJXJlNHHv2uD2QNwqj3IzfcXG15HGJApC-aq8dLRPxbakbnpaC-rl3AoPuHTXNk95HWXFMjMYZWdF56Gu0ivsL3cxTNzwZWA35V4AN-K9WRiczbJA",
-          "thumbnail_path": "channels/farsivoa/media/4082060e05f2588b8832213a.jpg",
-          "thumbnail_sha256": "b60ccc04a3813a27ba994df311c21e0947f54d917115f6863482ffb397935fa6",
-          "duration_label": "0:55",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.26K",
-      "posted_at": "2026-09-07T15:04:27+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229743",
       "reply": null
     }
   ]
