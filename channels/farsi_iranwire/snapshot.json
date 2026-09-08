@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T12:26:32.751Z",
+  "fetched_at": "2026-09-08T12:31:53.012Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93485",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Xp1GPjZY4ATloWqym-TkX3n9GYZxWlsZ1JtO4D0neLIWJRuH5wpmbTqs7uCbifzSxmrRAvB4RkQfdU7HCHg5ZE0qJtxdyyg8uwCTr7BFtLRcRte9trFF1imaWTJHRLFCw-X6Q0R2s4gfHibpcPDDqN-O7C-Sip6L5LU3Z2EhTU6d0TOKSgGv2s55eTjDoHnQvCOdmy9lqr40HjmQlQo2zI-H45ezXn7GynL2iQ_JqHbx3G-llmnGay-lX4jOrCLEKVrCnCiMz-GMVGehcWuLYj-lGPFR3ApxgpnjnktzRoSJSY9yrR0I5lAuE0M1bKFShaKBpqnjajGbZEDVTv8FwQ.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a45e25b72ade524afd0808f4.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "جلسه رسیدگی به اتهامات «فریبا اسدی»، فعال مدنی و از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، روز دوشنبه ۱۶ شهریور ۱۴۰۵ در شعبه دوم دادگاه انقلاب کرج برگزار شد.<br>هرانا خبر داد این جلسه به ریاست قاضی سبزواری برگزار شد و اسدی در برابر اتهام‌های «اجتماع و تبانی برای اقدام علیه امنیت ملی» و «شرکت در اعتراضات» از خود دفاع کرد.<br>بیشتر: <a href=\"https://iranwire.com/fa/news-1/157326\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157326</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "جلسه رسیدگی به اتهامات «فریبا اسدی»، فعال مدنی و از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، روز دوشنبه ۱۶ شهریور ۱۴۰۵ در شعبه دوم دادگاه انقلاب کرج برگزار شد.\nهرانا خبر داد این جلسه به ریاست قاضی سبزواری برگزار شد و اسدی در برابر اتهام‌های «اجتماع و تبانی برای اقدام علیه امنیت ملی» و «شرکت در اعتراضات» از خود دفاع کرد.\nبیشتر: https://iranwire.com/fa/news-1/157326\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93485",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/vXpLQqhAbpQC30gLgwvfMXBjBAFcPu0Ob-y_LWu_VQDAIErHf70CsLBd93SBfyNi3GiImVYRAs08zN0BUvUXuRt465ksCuRLOQS1YugAkYp6OfssCU6U-1OKf3gOoAYQUFJO0o3eNtPjDHqLCzd8QSW1iQAwQ8Lb1umBFVa504fbQFagPsdG4FPu_egwhwT_Krk-s9RZbicC-kIHLxKTPVll5pJmM56S875Sa0DD3JA1psA8pJtx9OwOqnaQNS9Oanr8jO64yJrx4l_KnGQz1ofKFIwj_YxF9IW9__2-0Xbv71hS8txyNFQYjCuXgxNFJkqSReF5i0iFCEYcp8aTpA.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/932eec319d5f350b4af79d63.jpg",
+          "thumbnail_sha256": "bd7a436cacf822543c0338b541cd50974a6e8ec014a798c4aa41bbb0afeb307f",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "4",
+      "posted_at": "2026-09-08T12:30:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93485",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93484",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "104",
+      "views_label": "169",
       "posted_at": "2026-09-08T12:20:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93484",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "219",
+      "views_label": "285",
       "posted_at": "2026-09-08T12:10:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93483",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "356",
+      "views_label": "390",
       "posted_at": "2026-09-08T11:51:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93482",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "524",
+      "views_label": "557",
       "posted_at": "2026-09-08T11:25:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93481",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "572",
+      "views_label": "576",
       "posted_at": "2026-09-08T11:13:07+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93480",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "762",
+      "views_label": "765",
       "posted_at": "2026-09-08T10:29:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93479",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "819",
+      "views_label": "852",
       "posted_at": "2026-09-08T10:12:19+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93478",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "806",
+      "views_label": "838",
       "posted_at": "2026-09-08T09:57:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93477",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "870",
+      "views_label": "902",
       "posted_at": "2026-09-08T09:38:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93476",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "980",
+      "views_label": "981",
       "posted_at": "2026-09-08T09:06:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93475",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "995",
+      "views_label": "997",
       "posted_at": "2026-09-08T08:18:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93473",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "996",
+      "views_label": "1.03K",
       "posted_at": "2026-09-08T07:54:35+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93470",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-05T12:43:01+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93383",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93382",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/K1ryeuKQ4KEx_W8GG_UAEgXS4WenbnqYy6I38arbtQjTENtUCZQc86aijSe5XYgmScJwV1DfLQ_4VEPN5DltoBy7THAdB-M57YdRe65wQEul8EBsDbrMRWw2zRL5OzhWguF-d-8QVWwclG6spHHFcXlsJFKgrZLGgwKhEeGbn7jfwHtI0-R8bayMDq_tttXVRSGkpMVAeAyb34TseqUs8rqvywSzheUDDm3U0EVjDW-9tmpTsswi5sMh55tZyHvVXko6rwusUIzlfc8QZNYipXbKGOAn3cz77hC389xV_7PX6pD8qx8sh7cKA0Jz_noMeNwVM5xZQ77gMTmo8209sA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/5ea6725eb75d0236588a5f92.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "قیمت برخی داروهای پرمصرف در ایران طی یک سال گذشته چند برابر شده است. هم‌زمان، رییس سازمان غذا و دارو هشدار داده که شرکت‌های دارویی برای خرید ارز و تامین مواد اولیه، نقدینگی کافی در اختیار ندا‌رند.<br>براساس گزارشی درباره تغییر قیمت هفت قلم دارو در فاصله شهریور ۱۴۰۴ تا شهریور ۱۴۰۵، قیمت آموکسی‌سیلین از ۳۲۰ هزار تومان به یک میلیون و ۲۳۰ هزار تومان و قیمت استامینوفن کدئین از ۱۳۷ هزار تومان به ۶۵۰ هزار تومان رسیده است.<br><br>بخوانید:  <a href=\"https://iranwire.com/fa/news-1/157191\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157191</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "قیمت برخی داروهای پرمصرف در ایران طی یک سال گذشته چند برابر شده است. هم‌زمان، رییس سازمان غذا و دارو هشدار داده که شرکت‌های دارویی برای خرید ارز و تامین مواد اولیه، نقدینگی کافی در اختیار ندا‌رند.\nبراساس گزارشی درباره تغییر قیمت هفت قلم دارو در فاصله شهریور ۱۴۰۴ تا شهریور ۱۴۰۵، قیمت آموکسی‌سیلین از ۳۲۰ هزار تومان به یک میلیون و ۲۳۰ هزار تومان و قیمت استامینوفن کدئین از ۱۳۷ هزار تومان به ۶۵۰ هزار تومان رسیده است.\n\nبخوانید: https://iranwire.com/fa/news-1/157191\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93382",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/sfQCQryyadIkDsW7JX5wis4TlDCA1F9cDVIqdCjnv_9kz8SE6s2Qv_kQ_2P638rQLf6u8BOG5_I_Og_Rjvr4b7Yz4BrkGUpFC4C_PeQz6t6oa6gWvNZ3Kv4FKVystI5Vg_UciarII2zyuEOU7rkHjAmFa69xbpd8ACoJMdEOexXJl7tJhsQE1-aJMKfNyVuXAEUrqXlUc-AgrfPg3SPMMy8I99viEFs34QtIjjrvNs0E52dFAq1Vr2BtcDgFAA_aHG4qbzrF25NZlsu8Ow93sI2w2BoTxiO8PG17Gx70LQBZpjDSWDut-ldMawVXjo1G8jTZw8-nTMx4fZR2LYArsQ.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/34bb28afa8e8451579816a43.jpg",
-          "thumbnail_sha256": "ae5c3c0ee7f103913eb2d153c7f8fe1a9154ea7453ca6136f9d962fed238e113",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.47K",
-      "posted_at": "2026-09-05T12:06:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93382",
       "reply": null
     }
   ]
