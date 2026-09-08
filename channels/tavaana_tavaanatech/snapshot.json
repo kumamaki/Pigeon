@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T02:18:13.502Z",
+  "fetched_at": "2026-09-08T02:22:22.673Z",
   "channel": {
     "username": "tavaana_tavaanatech",
     "title": "آموزشکده توانا",
@@ -38,15 +38,15 @@
           "count": "8"
         },
         {
-          "emoji": "🕊",
+          "emoji": "❤",
           "count": "2"
         },
         {
-          "emoji": "❤",
-          "count": "1"
+          "emoji": "🕊",
+          "count": "2"
         }
       ],
-      "views_label": "435",
+      "views_label": "438",
       "posted_at": "2026-09-07T21:57:46+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105969",
@@ -80,14 +80,14 @@
         },
         {
           "emoji": "❤",
-          "count": "1"
+          "count": "2"
         },
         {
           "emoji": "🕊",
           "count": "1"
         }
       ],
-      "views_label": "513",
+      "views_label": "515",
       "posted_at": "2026-09-07T21:30:35+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105968",
@@ -117,7 +117,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "18"
+          "count": "19"
         }
       ],
       "views_label": "362",
