@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T23:42:15.584Z",
+  "fetched_at": "2026-09-08T23:46:30.655Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229932",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "موشک‌های ارسالی جمهوری اسلامی در دست شورشیان حوثی‌؛ تشدید ناآرامی در دریای سرخ<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "موشک‌های ارسالی جمهوری اسلامی در دست شورشیان حوثی‌؛ تشدید ناآرامی در دریای سرخ\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229932",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/f_OJUBFW7Y8TYEJaAMw5qJOES6Ju9BbV0FOWxsLXC39a3SsvKzIW1C1prUjh1SJxrpN9QAJum6XmDDWtUyd2Q8gUH3hZm9BFDnAaGipEHXPJJOjUxSCB96OYZ0F1d2C5VtY-4O15ec-9aesKXCEH4SGVJpD0jKLsu2tJfFmYxVhHIYnrMXAlsKZT59O3PBcnf3EUJb80Kg644FAsLa12fQ0bNHg3wcv5xBMA-iq55XXrb38XE2DL4oMCheKv7sbH8_edyHcg1m4T-vXS3dWHNF2KK_j6XvhhsU4Acr7CILqV03aC1Lt1RT-xI-8wbUY9yoDp-kkMsQqr-rtah19fkw",
+          "thumbnail_path": "channels/farsivoa/media/99ff75e4b909975cd668f985.jpg",
+          "thumbnail_sha256": "56d2fdb6a9d8c745ff587b2660fe4c5619ae84be4be341ae9ac7f49cf8fa4a7a",
+          "duration_label": "3:40",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T23:45:35+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229932",
+      "reply": null
+    },
     {
       "id": "farsivoa/229931",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "244",
+      "views_label": "346",
       "posted_at": "2026-09-08T23:34:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229931",
@@ -49,7 +77,7 @@
       "plain_text": "🔺روبیو: جمهوری اسلامی به ازای هر تلاش برای حمله به ناوهای آمریکایی نفتکش‌هایی را از دست خواهد داد\n\n▪️مارکو روبیو، وزیر امور خارجه آمریکا، روز سه‌شنبه ۱۷ شهریور در گفت‌وگو با خبرنگاران درباره حملات اخیر به نفتکش‌های جمهوری اسلامی گفت جمهوری اسلامی همچنان تلاش می‌کند ناوهای نیروی دریایی آمریکا را هدف قرار دهد و واشنگتن در پاسخ به هرگونه حمله یا تلاش برای حمله، نفتکش‌های آن را هدف خواهد گرفت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195716.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "338",
+      "views_label": "440",
       "posted_at": "2026-09-08T23:32:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229930",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "697",
+      "views_label": "738",
       "posted_at": "2026-09-08T23:15:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229929",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "962",
+      "views_label": "1.03K",
       "posted_at": "2026-09-08T23:05:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229928",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.37K",
+      "views_label": "1.41K",
       "posted_at": "2026-09-08T22:45:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229927",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.54K",
+      "views_label": "1.57K",
       "posted_at": "2026-09-08T22:40:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229926",
@@ -177,7 +205,7 @@
       "plain_text": "🔺سنتکام: پنج نفتکش حامل نفت خام ایران منهدم شد\n\n▪️سنتکام در بیانیه‌ای گفت که نیروهای آن روز ۸ سپتامبر (۱۷ شهریور) پنج نفتکش حامل نفت خام ایران را منهدم کردند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195713.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.67K",
+      "views_label": "1.7K",
       "posted_at": "2026-09-08T22:32:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229925",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.1K",
+      "views_label": "2.14K",
       "posted_at": "2026-09-08T22:02:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229921",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.51K",
+      "views_label": "2.54K",
       "posted_at": "2026-09-08T21:45:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229920",
@@ -349,7 +377,7 @@
       "plain_text": "🔺ایالات متحده پس از حملات موشکی بیشتر سپاه به یک ناو جنگی آمریکا، نفتکش‌های جمهوری اسلامی را هدف قرار داد\n\n▪️ایالات متحده روز سه‌شنبه ۱۷ شهریور در واکنش به تلاش‌های بیشتر جمهوری اسلامی برای حمله موشکی به یک ناو جنگی نیروی دریایی آمریکا، چندین نفتکش جمهوری اسلامی ایران را هدف قرار داد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195704.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "2.98K",
+      "views_label": "3.01K",
       "posted_at": "2026-09-08T21:27:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229918",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.42K",
+      "views_label": "3.45K",
       "posted_at": "2026-09-08T20:59:33+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229916",
@@ -2469,34 +2497,6 @@
       "posted_at": "2026-09-08T08:20:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229832",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229831",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "کمیسیون اروپا درخواست اوکراین برای خرید موشک‌های رهگیر سامانه پدافندی پاتریوت با استفاده از وام ۹۰ میلیارد یورویی اتحادیه اروپا را تأیید کرد.<br><br>بر پایه گزارش رسانه‌های اوکراین این تأیید روز دوشنبه انجام شد و کی‌یف باید پیش از تصمیم‌گیری درباره پرداخت‌های واقعی، قراردادهای خرید را برای بررسی به نهاد اجرایی اتحادیه اروپا ارائه دهد.<br><br>اوکراین بیش از دو میلیارد یورو برای خرید موشک‌ها درخواست کرده است.<br><br>کمیسیون اروپا پیش‌تر فهرستی از تسلیحات را از کی‌یف دریافت کرده بود که بخش عمده شش میلیارد یورو باقی‌مانده از بخش دفاعی وام صرف آنها می‌شود.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "کمیسیون اروپا درخواست اوکراین برای خرید موشک‌های رهگیر سامانه پدافندی پاتریوت با استفاده از وام ۹۰ میلیارد یورویی اتحادیه اروپا را تأیید کرد.\n\nبر پایه گزارش رسانه‌های اوکراین این تأیید روز دوشنبه انجام شد و کی‌یف باید پیش از تصمیم‌گیری درباره پرداخت‌های واقعی، قراردادهای خرید را برای بررسی به نهاد اجرایی اتحادیه اروپا ارائه دهد.\n\nاوکراین بیش از دو میلیارد یورو برای خرید موشک‌ها درخواست کرده است.\n\nکمیسیون اروپا پیش‌تر فهرستی از تسلیحات را از کی‌یف دریافت کرده بود که بخش عمده شش میلیارد یورو باقی‌مانده از بخش دفاعی وام صرف آنها می‌شود.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229831",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/geQo5kXO2J4majnlzkg3EbEoRAyZ7eX39WL_Wz90M6eB9vt9jJN1J98e2DmeoMA33llFebvqicIpn6msNZ_hERZyG23a3uSzVrczo76yGPMq0YWwJmNuZZGKQSG33N7Tv7hMmVk0MCzH4eCL70EDSjVYOR_HNwjWWOxwJiHNn8sEuz1wsJCx0aOAFXKwcYpqQwJMQx2PiMOIC4doHd9bzeLtidec1rxOUQdF-7RTyj8l17wTFCE7oW3iRRHAG3uE5Xm_wW7Yc5ULoJo3dXPZcuxEFBkdBwoQrustjZh2uMDnl2nQOqOL07lvwBYuPkdn4GKCLkPNTnJSeEY-hsfsaA.jpg",
-          "thumbnail_path": "channels/farsivoa/media/dfc71bb151e791485111017e.jpg",
-          "thumbnail_sha256": "69731d3bace1636e18546ad13eb0359961544db007afb4de9cc30636b2d3953c",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.89K",
-      "posted_at": "2026-09-08T08:12:07+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229831",
       "reply": null
     }
   ]
