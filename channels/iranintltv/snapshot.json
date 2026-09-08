@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T22:27:45.500Z",
+  "fetched_at": "2026-09-08T22:31:39.264Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356405",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "کیان از کرمانشاه: به پزشکم نگفته‌ام که قرص‌ها را نصف می‌کنم و می‌خورم<br><br>«یک ایران صدای شما را می‌شنود»<br><br>دوشنبه تا پنجشنبه، ۱۱ شب تهران<br>از تلویزیون ایران‌اینترنشنال<br><br>تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:<br><a href=\"https://youtu.be/DQcaNf1bkFo\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><u>https://youtu.be/DQcaNf1bkFo</u></a>",
+      "plain_text": "کیان از کرمانشاه: به پزشکم نگفته‌ام که قرص‌ها را نصف می‌کنم و می‌خورم\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه، ۱۱ شب تهران\nاز تلویزیون ایران‌اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/DQcaNf1bkFo",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356405",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/uePxeLJBZStbT1sPQuAdAZthhb2VAnAO_-6X7VLJ6_Tntp_ZUPfqFYWTN4eSZwwZEhDsmO-kNpFFeZVx6Q7azw7SjgS3z7PhmpfHg0MhPH5Uc-20x6HEl-zBuKWWZP8HwbSQTzn1g4Y2zO3jooIBmoigrnN7ztrncFxujku7yfVu5NzlmyRFga9_o8uVALp7cAlngJsAtwpNlZJ7ifcKE25Gpc67UAYCdKDC7p6kQM1UQ7mHEHHEIXmJatu_fn7GpPuNPbPyH2TrP5TqOnyov_aas3T-g50oFgDRHWpibhuo7Vep9bv4u3xTQGNb4RHJnYDJUf2lg-a7IKdOmggT1Q",
+          "thumbnail_path": "channels/iranintltv/media/3396a1b98e665691c463bd97.jpg",
+          "thumbnail_sha256": "919bf1b45fa8d48a37728717ca2841640667afd23275c83efd73ff8dafd01587",
+          "duration_label": "5:30",
+          "aspect_ratio": 1.8275862068965676
+        }
+      ],
+      "reactions": [],
+      "views_label": "3.19K",
+      "posted_at": "2026-09-08T22:29:25+00:00",
+      "edited": true,
+      "permalink": "https://t.me/IranintlTV/356405",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356404",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.08K",
+      "views_label": "6.36K",
       "posted_at": "2026-09-08T22:26:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356404",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.37K",
+      "views_label": "10.6K",
       "posted_at": "2026-09-08T22:21:38+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356403",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.7K",
+      "views_label": "16.9K",
       "posted_at": "2026-09-08T22:14:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356401",
@@ -105,7 +133,7 @@
       "plain_text": "🎧نسخه صوتی برنامه با کامبیز حسینی | دارو نیست؛ پولش هم نیست؛ داروی شما پیدا می‌شود؟\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "13.8K",
+      "views_label": "15.9K",
       "posted_at": "2026-09-08T22:13:00+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356400",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.9K",
+      "views_label": "20.1K",
       "posted_at": "2026-09-08T22:08:44+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356399",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.6K",
+      "views_label": "32.7K",
       "posted_at": "2026-09-08T21:50:26+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356398",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.5K",
+      "views_label": "30.6K",
       "posted_at": "2026-09-08T21:48:37+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356397",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.3K",
+      "views_label": "48.4K",
       "posted_at": "2026-09-08T21:15:39+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356396",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "57.7K",
+      "views_label": "58.7K",
       "posted_at": "2026-09-08T20:46:37+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356394",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "58.7K",
+      "views_label": "59.8K",
       "posted_at": "2026-09-08T20:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356392",
@@ -345,7 +373,7 @@
       "plain_text": "🎧نسخه صوتی چشم‌انداز: آرایش جنگی در پمپ بنزین‌ها و احتمال فروپاشی دولت\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "59.8K",
+      "views_label": "60.8K",
       "posted_at": "2026-09-08T20:23:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356391",
@@ -373,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "69.1K",
+      "views_label": "70.1K",
       "posted_at": "2026-09-08T20:08:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356390",
@@ -473,7 +501,7 @@
       "plain_text": "🎧نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: آرایش نظامی در شهرهای ایران\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "60.8K",
+      "views_label": "61.9K",
       "posted_at": "2026-09-08T19:52:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356386",
@@ -501,7 +529,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "62.9K",
+      "views_label": "63.9K",
       "posted_at": "2026-09-08T19:50:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356385",
@@ -2709,34 +2737,6 @@
       "posted_at": "2026-09-08T12:00:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356305",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356304",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "فیصل بن فرحان آل سعود، وزیر خارجه عربستان سعودی، در نشست خبری در مسکو گفت عربستان برای حفاظت از منافع خود از همه ابزارهای موجود استفاده خواهد کرد و در حمایت از اقداماتی که منافع یمن و منطقه را تامین کند، تردید نخواهد کرد.<br><br>فیصل بن فرحان درباره تنش‌ها با حوثی‌ها گفت: «حوثی‌ها خود را وارد مسیری کرده‌اند که توان تحمل پیامدهای آن را ندارند.»<br><br>وزیر خارجه عربستان سعودی حوثی‌ها را متهم کرد که منافع خود را بر منافع مردم یمن ترجیح می‌دهند و گفت این گروه هر زمان در موقعیت دشواری قرار می‌گیرد، به خشونت متوسل می‌شود.<br><br>فیصل بن فرحان در عین حال گفت مسیر دیپلماسی برای مقابله با حوثی‌ها همچنان باز است.",
-      "plain_text": "فیصل بن فرحان آل سعود، وزیر خارجه عربستان سعودی، در نشست خبری در مسکو گفت عربستان برای حفاظت از منافع خود از همه ابزارهای موجود استفاده خواهد کرد و در حمایت از اقداماتی که منافع یمن و منطقه را تامین کند، تردید نخواهد کرد.\n\nفیصل بن فرحان درباره تنش‌ها با حوثی‌ها گفت: «حوثی‌ها خود را وارد مسیری کرده‌اند که توان تحمل پیامدهای آن را ندارند.»\n\nوزیر خارجه عربستان سعودی حوثی‌ها را متهم کرد که منافع خود را بر منافع مردم یمن ترجیح می‌دهند و گفت این گروه هر زمان در موقعیت دشواری قرار می‌گیرد، به خشونت متوسل می‌شود.\n\nفیصل بن فرحان در عین حال گفت مسیر دیپلماسی برای مقابله با حوثی‌ها همچنان باز است.",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356304",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/k_KTxsJXRDEPWdtNmbRW10HeASNNooMrFWxiKLqh30VWw_5ejRDbDBIwu6noC3tXJWTQAn9G-0IyqPXOpLwvxdUztrDBbLX90k9TJOM0rQKC2cXARTAHrWjzK7dNRzGPmsUkZof4OpDfMGz1lONrUBhi_sZxjN5BcWPiW56SVNGXXJf24CIhw03co9wgknUjQgKTICUoX3ido738rTRvAMRyHPmHC3uKCDLi2pfAaCjMBngnwy4Cv6alHhu1GrOL2HriW5BG5WoXXhhU1T3Ft2gcETYDFPBxBn9wJ54BEVyWml6BHD76EXX8w-1DUGDHYt1yqcE4_rJOk_cCq0Q3aQ.jpg",
-          "thumbnail_path": "channels/iranintltv/media/5391361df534a35128b39b32.jpg",
-          "thumbnail_sha256": "80f2ab0085f3bb7a815a08821c23e66f202f34acf95c3c4b929e5d3637e608c1",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "37K",
-      "posted_at": "2026-09-08T11:43:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356304",
       "reply": null
     }
   ]
