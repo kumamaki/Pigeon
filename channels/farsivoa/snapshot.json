@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T09:57:50.451Z",
+  "fetched_at": "2026-09-08T10:02:40.166Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229840",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "بریتانیا امروز سه‌شنبه ممنوعیت تجارت کالاهای تولیدشده در شهرک‌های اسرائیل در کرانه باختری اشغالی را اعلام می‌کند.<br><br>پت مک‌فادن، وزیر بازنشستگی بریتانیا، خبر را تأیید کرد و گفت اقدام بخشی از تلاش لندن برای پشتیبانی از راه‌حل دو کشوری است.<br><br>اد میلیبند، وزیر امور خارجه بریتانیا، قرار است بیانیه‌ای درباره اسرائیل و محدودیت‌های تجاری در مجلس عوام ارائه دهد.<br><br>مک‌فادن به رادیو تایمز گفت جزئیات نحوه اجرای ممنوعیت را نمی‌داند و افزود: «وزیر امور خارجه امروز بیانیه‌ای به پارلمان ارائه می‌کند.»<br><br>میلیبند هفته گذشته گفته بود طرح شهرک‌سازی ای۱ اسرائیل زمینی را قطع می‌کند که فلسطینیان برای دولت خود می‌خواهند و راه‌حل دو کشوری را به خطر می‌اندازد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "بریتانیا امروز سه‌شنبه ممنوعیت تجارت کالاهای تولیدشده در شهرک‌های اسرائیل در کرانه باختری اشغالی را اعلام می‌کند.\n\nپت مک‌فادن، وزیر بازنشستگی بریتانیا، خبر را تأیید کرد و گفت اقدام بخشی از تلاش لندن برای پشتیبانی از راه‌حل دو کشوری است.\n\nاد میلیبند، وزیر امور خارجه بریتانیا، قرار است بیانیه‌ای درباره اسرائیل و محدودیت‌های تجاری در مجلس عوام ارائه دهد.\n\nمک‌فادن به رادیو تایمز گفت جزئیات نحوه اجرای ممنوعیت را نمی‌داند و افزود: «وزیر امور خارجه امروز بیانیه‌ای به پارلمان ارائه می‌کند.»\n\nمیلیبند هفته گذشته گفته بود طرح شهرک‌سازی ای۱ اسرائیل زمینی را قطع می‌کند که فلسطینیان برای دولت خود می‌خواهند و راه‌حل دو کشوری را به خطر می‌اندازد.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229840",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/f1CbzOvVoY8Zrl8M-CMJAZv2JcKrRGTyGdAOmbBQqQpMc5XR_ykKkq2oLWINuzzYxHNjAZe-IB3yptDapIHuPRs14B8TRiyxwpnBzYB1ogffh-vXskW4p6eWEO_-fiSO3opXoUARDvvk_Md4GXA5os03iCg1EP3fcHkRHKUMF_4IeCL5P7RQwbuw0Tf-tEQrNnbZR3hbPcbZWLjKkvEUIYlM1JmQrbkT5ysTc2vKveERYqT5NqQcoU0BQzmr6j4z7oJy7ldGkitjUla0Q9CB2txf71_TJahh_qMB1LO5-9nB-epQynz1Y4sH-nSbZ6gNSeHFC08WSCANVk3EsVTZoQ.jpg",
+          "thumbnail_path": "channels/farsivoa/media/87e87a4365fe54593492030a.jpg",
+          "thumbnail_sha256": "942026c1b8d6028a7fb382d3961505133e87b86276688e3d764e62daf8d2d9ac",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "188",
+      "posted_at": "2026-09-08T09:59:34+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229840",
+      "reply": null
+    },
     {
       "id": "farsivoa/229839",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "726",
+      "views_label": "855",
       "posted_at": "2026-09-08T09:41:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229839",
@@ -49,7 +77,7 @@
       "plain_text": "🔺نماینده مجلس: تغییر قیمت بنزین «التهاب‌زا» است؛ جایگاه‌ها به مشکل فنی خوردند\n\n▪️پس از افزایش قیمت بنزین آزاد از پنج هزار تومان به ۱۰ هزار تومان، رئیس کمیسیون امور داخلی مجلس شورای اسلامی گفت تغییر قیمت بنزین بدون همراهی مجلس «التهاب‌زا» است.\n\n▪️سهمیه‌های یارانه‌ای تغییر نکرده است. مالکان خودروهای شخصی همچنان ماهانه ۶۰ لیتر با نرخ ۱۵۰۰ تومان و ۵۰ لیتر با نرخ ۳۰۰۰ تومان دریافت می‌کنند. نرخ تازه زمانی اعمال می‌شود که مصرف از مجموع سهمیه‌ها بگذرد یا راننده کارت شخصی همراه نداشته باشد.\n\n▪️همزمان اجرای طرح با مشکل فنی روبه‌رو شد و در جایگاه‌های سوخت مشکلاتی ایجاد کرد. بر اساس گزارش رسانه‌ها، نمایشگرهای جایگاه‌های سوخت چهار رقمی‌اند و رقم ۱۰ هزار تومان روی آنها جا نمی‌شود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195513.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.03K",
+      "views_label": "1.13K",
       "posted_at": "2026-09-08T09:31:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229838",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.31K",
+      "views_label": "1.41K",
       "posted_at": "2026-09-08T09:17:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229837",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.66K",
+      "views_label": "1.73K",
       "posted_at": "2026-09-08T09:02:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229836",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.78K",
+      "views_label": "1.85K",
       "posted_at": "2026-09-08T08:52:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229835",
@@ -149,7 +177,7 @@
       "plain_text": "🔺هاکبی: ممنوعیت تجارت بریتانیا با شهرک‌های اسرائیلی واکنش آمریکا را برمی‌انگیزد\n\n▪️سفیر آمریکا در اسرائیل هشدار داد اعلام ممنوعیت تجارت بریتانیا با شهرک‌های کرانه باختری احتمالاً واکنش آمریکا را در پی دارد. مایک هاکبی به شبکه خبری بی‌بی‌سی گفت «بدون تردید» واکنشی خواهد بود، از جمله در سطح ایالت‌های منفرد آمریکا.\n\n▪️هاکبی افزود این می‌تواند «اثر اقتصادی عظیمی بر کسب‌وکارهای بریتانیایی» داشته باشد، چون برخی شرکت‌ها ممکن است از فعالیت در برخی ایالت‌ها منع شوند.\n\n▪️پیشتر رندی فاین، نماینده جمهوری‌خواه، در شبکه ایکس نوشت: «فلوریدا یکی از بزرگترین شرکای تجاری بریتانیاست. باید بدانند پروژه خودنمایانه‌شان در پشتیبانی از تروریسم مسلمانان می‌تواند میلیاردها دلار برایشان هزینه داشته باشد.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195511.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.79K",
+      "views_label": "1.85K",
       "posted_at": "2026-09-08T08:42:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229834",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.83K",
+      "views_label": "1.89K",
       "posted_at": "2026-09-08T08:31:45+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229833",
@@ -193,7 +221,7 @@
       "plain_text": "🔺دو وزیر اسرائیلی خواستار اخراج سفیر بریتانیا و تحریم این کشور شدند\n\n▪️بتسلئل اسموتریچ، وزیر دارایی اسرائیل، پس از گزارش‌هایی درباره ممنوعیت تجارت بریتانیا با شهرک‌های کرانه باختری، خواستار اخراج فوری سفیر این کشور شد.\n\n▪️او شامگاه دوشنبه در شبکه ایکس نوشت: «سفیر بریتانیا را همین امشب اخراج کنید! قیمومیت بریتانیا بر سرزمین اسرائیل تمام شده است.»\n\n▪️ایتمار بن‌گویر، وزیر امنیت ملی اسرائیل نیز واکنش متفاوتی نشان داد.\n\n▪️او در شبکه ایکس و به زبان اسپانیایی نوشت: «وقت آن رسیده که دولت اسرائیل علناً به رسمیت بشناسد که جزایر مالویناس سرزمین آرژانتین است.» او از بنیامین نتانیاهو خواست حاکمیت آرژانتین را بپذیرد و «تا زمانی که اشغال ادامه دارد» بریتانیا را تحریم کند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195510.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.05K",
+      "views_label": "2.09K",
       "posted_at": "2026-09-08T08:20:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229832",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.03K",
+      "views_label": "2.09K",
       "posted_at": "2026-09-08T08:12:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229831",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.39K",
+      "views_label": "2.43K",
       "posted_at": "2026-09-08T07:57:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229830",
@@ -265,7 +293,7 @@
       "plain_text": "🔺نفتالی بنت: امارات حمله ۷ اکتبر را به نتانیاهو گزارش داده بود\n\n▪️نفتالی بنت، نخست‌وزیر پیشین اسرائیل، گفت گزارش روزنامه هاآرتص درباره دریافت هشدار شخصی نتانیاهو از رئیس امارات پیش از حمله ۱۵ مهر ۱۴۰۲ «درست است».\n\n▪️او در شبکه ایکس نوشت: «گزارشی که امروز صبح منتشر شد مبنی بر اینکه نتانیاهو ۱۰ روز پیش از کشتار ۷ اکتبر درباره نیت‌های سنوار هشدار گرفته بود، درست است. نتانیاهو مسئولیت شخصی و مستقیم شکستی را بر عهده دارد که به مرگ هزاران اسرائیلی در دوره او انجامید.»\n\n▪️رهبر حزب «با هم» گفت بی‌توجهی نتانیاهو به هشدارها «به قصور جنایی می‌رسد». او افزود: «به همین دلیل است که هر کاری می‌کند تا از تشکیل کمیسیون تحقیق دولتی که حقیقت را آشکار کند جلوگیری کند.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195509.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.63K",
+      "views_label": "2.66K",
       "posted_at": "2026-09-08T07:39:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229829",
@@ -293,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.12K",
+      "views_label": "3.15K",
       "posted_at": "2026-09-08T06:31:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229828",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.94K",
+      "views_label": "2.97K",
       "posted_at": "2026-09-08T06:22:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229827",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.75K",
+      "views_label": "2.79K",
       "posted_at": "2026-09-08T06:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229825",
@@ -393,7 +421,7 @@
       "plain_text": "🔺نفت با نگرانی از طولانی شدن جنگ گران‌تر شد\n\n▪️قیمت نفت روز سه‌شنبه با افزایش نگرانی از طولانی شدن درگیری خاورمیانه و پس از آنکه جمهوری اسلامی تهدید کرد به هر حمله تازه آمریکا پاسخ می‌دهد، بالا رفت.\n\n▪️بهای نفت برنت ۴۹ سنت بالا رفت و به ۹۷ دلار و ۴۹ سنت در هر بشکه رسید. نفت وست تگزاس اینترمدییت آمریکا نیز با یک دلار و ۴۴ سنت رشد به ۹۲ دلار و ۹۲ سنت رسید.\n\n▪️این تحول در حالی است که بر خلاف تصور جمهوری اسلامی شوک بزرگی از ابتدای جنگ به بازار نفت وارد نشد و هنوز حجم قابل توجهی از نفت از تنگه هرمز عبور می‌کند.\n\n▪️تولیدکنندگان دیگر هم جای خالی نفت خلیج فارس را پر می‌کنند. آمریکا، کانادا و گویانا امسال یک میلیون و ۴۰۰ هزار بشکه در روز به تولید اضافه کردند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195471.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.76K",
+      "views_label": "2.79K",
       "posted_at": "2026-09-08T05:51:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229824",
@@ -421,7 +449,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.69K",
+      "views_label": "2.72K",
       "posted_at": "2026-09-08T05:40:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229823",
@@ -465,7 +493,7 @@
       "plain_text": "🔺پیشنهاد مصر برای چارچوب امنیتی مشترک عربی در پی حملات جمهوری اسلامی\n\n▪️وزیر امور خارجه مصر، در نشست شورای اتحادیه عرب در قاهره چارچوب امنیتی مشترکی برای کشورهای عربی پیشنهاد کرد.\n\n▪️بنابر گزارش رسانه‌های عربی، بدر عبدالعاطی گفت مصر آماده است با اتحادیه عرب و کشورهای عضو بر سر چارچوبی جامع کار کند که حوزه‌های همکاری، سازوکارهای هماهنگی و رویه‌های واکنش به بحران را تعیین کند.\n\n▪️عبدالعاطی افزود ترتیبات پیشنهادی می‌تواند بر پیمان دفاع مشترک عربی و تصمیم‌های اتحادیه عرب بنا شود، ضمن احترام به حاکمیت و استقلال تصمیم‌گیری کشورهای عضو.\n\n▪️او در همین نشست حملات جمهوری اسلامی به کشورهای عربی را محکوم کرد و همبستگی مصر را با کشورهای خلیج فارس، اردن و عراق اعلام کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195470.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.8K",
+      "views_label": "2.81K",
       "posted_at": "2026-09-08T05:21:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229821",
@@ -2579,34 +2607,6 @@
       "posted_at": "2026-09-07T13:23:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229730",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229729",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "تداوم سیاست تنش‌زایی توسط جمهوری اسلامی؛ حکومت ایران همچنان بر طبل تقابل با آمریکا می‌کوبد",
-      "plain_text": "تداوم سیاست تنش‌زایی توسط جمهوری اسلامی؛ حکومت ایران همچنان بر طبل تقابل با آمریکا می‌کوبد",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229729",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/F9sZFUNsicwwLiWdC81iH1eGFTaR6gnXN1tm7-ce5t6AGfd3vrFgiF8mIrPmSbxiyOtkf8IiCp5Zi3NVmVjVk0ucadl22sPS0fCAnlh7zyGzpmHdChcj7NJsek9S6Fhlims_aoFgnGcquubTfqrgiFeP8JB8QS3TNghgotiad4QN3ZIgLulXltCjNoXCT1Es8PGJK7SHbu21_wdvowbryQByNuUwazR89kZvUMsARuANzxpoaKJMgGdJ1VDmg6pbkJNFHosCdqUaKk_51ULz7CNSE1W2RQ5tJAEST-5BlX7pm_5jEeNKC-d4AEH5vNBx3jNgWudTpEMGvv2jDmGASw",
-          "thumbnail_path": "channels/farsivoa/media/c17955441342eedbfe673b57.jpg",
-          "thumbnail_sha256": "3a8ec1e81696f3d98fca5d838824488cd7716e05c27f8f998ee84ffb0ad91b57",
-          "duration_label": "4:02",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.54K",
-      "posted_at": "2026-09-07T13:02:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229729",
       "reply": null
     }
   ]
