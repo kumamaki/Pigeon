@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T12:31:54.933Z",
+  "fetched_at": "2026-09-08T12:36:46.331Z",
   "channel": {
     "username": "hranews",
     "title": "خبرگزاری هرانا",
@@ -11,6 +11,34 @@
     "subscriber_count": "31.8K"
   },
   "posts": [
+    {
+      "id": "hranews/115486",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/iZyX_7dy9Du8-YNGCtdMYK3MP5dphPfB1zMaXCNUK8aaaARamz4Ly0CvRtoCcM3-dyXXRK5WX_Sh46_vYKlxQGctH2xTxf7JYZKDegTqeMVeBYAHxut8hrTLcwSVeUa-ZCjEG9Kz6oZ-0SQ9iKaGJN1Cj-2fIoPG4wyomntMR29iluxWEStx7DkF_1cq5ElU5tzftMAZ6xYE047jyvCHZ9Az1sy-Xq3xItrYFJkO7HPnbwf_MpvguP9NlFYRMr0nCnrYtqCi4BgxZQ__GAu9nHAo74NCj6gJ7R8-n_pBnl5RWaqcN-f80J_DUfVycgHq_htQjBCQccv9yYTz4kMK2Q.jpg",
+      "author_photo_path": "channels/hranews/media/294c867d92cda28ca3eef2ff.jpg",
+      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
+      "body_html": "نزهت میرراضی از زندان لاکان رشت آزاد شد<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– روز گذشته، نزهت میرراضی، شهروند ساکن رودسر با تودیع وثیقه از زندان لاکان رشت آزاد شد.<br><br>به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، نزهت میرراضی آزاد شد.<br><br>بر اساس اطلاعات دریافتی هرانا آزادی نزهت میرراضی روز دوشنبه ۱۶ شهریورماه با تودیع وثیقه از زندان لاکان رشت صورت گرفته است.<br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-640a167c/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><a href=\"?q=%23%D9%86%D8%B2%D9%87%D8%AA_%D9%85%DB%8C%D8%B1%D8%B1%D8%A7%D8%B6%DB%8C\">#نزهت_میرراضی</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "نزهت میرراضی از زندان لاکان رشت آزاد شد\n\n❗️❗️❗️❗️❗️– روز گذشته، نزهت میرراضی، شهروند ساکن رودسر با تودیع وثیقه از زندان لاکان رشت آزاد شد.\n\nبه گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، نزهت میرراضی آزاد شد.\n\nبر اساس اطلاعات دریافتی هرانا آزادی نزهت میرراضی روز دوشنبه ۱۶ شهریورماه با تودیع وثیقه از زندان لاکان رشت صورت گرفته است.\n\nادامه مطلب\n\n#نزهت_میرراضی\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/hranews/115486",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/pWgmcWV6fjJu8hMVVvJc50tRDQMZuKCYcsWhl8ImBlv7p4SHyXY7QiOEW9uU_YzMw52XvhjWHXDzXUt4sC7EWyitpklvtc_C5eRMGgNGTfzT-7EZi4DHdHlvDjEYEwcqc4y3Z-UlujW4kjHeR4MZPg4opbCZyrmd4LQF32HQ5I1y--VBBRC_YCgeWxkyrpTgrI206C9Nn-M7K4PofNiwZmyT-XaVbxtGNwvIRKfTmip6pCwx6obmNbXr485DfzCRi8ptxzZpeguupddZG1Ta6_VRESPHkzxeSmMYuJxFdxKT_qaae8OW-CjXylnFj8dTf5v8J8fGEUVLb9EOwFdPdQ.jpg",
+          "thumbnail_path": "channels/hranews/media/5cb064fb07fe94585bc7127d.jpg",
+          "thumbnail_sha256": "3f01390e502661f6630794b09e8752ea025509fe68d0b40245516cb303e3e6a6",
+          "duration_label": null,
+          "aspect_ratio": 1.5009380863039399
+        }
+      ],
+      "reactions": [],
+      "views_label": "51",
+      "posted_at": "2026-09-08T12:33:18+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/115486",
+      "reply": null
+    },
     {
       "id": "hranews/115485",
       "author_name": "خبرگزاری هرانا",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "132",
+      "views_label": "165",
       "posted_at": "2026-09-08T12:05:05+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115485",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "179",
+      "views_label": "205",
       "posted_at": "2026-09-08T11:55:58+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115484",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "208",
+      "views_label": "227",
       "posted_at": "2026-09-08T11:40:40+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115483",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "383",
+      "views_label": "391",
       "posted_at": "2026-09-08T10:37:47+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115482",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "426",
+      "views_label": "435",
       "posted_at": "2026-09-08T10:15:43+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115481",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "429",
+      "views_label": "437",
       "posted_at": "2026-09-08T10:03:09+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115480",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "516",
+      "views_label": "525",
       "posted_at": "2026-09-08T08:58:47+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115479",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "607",
+      "views_label": "615",
       "posted_at": "2026-09-08T08:19:39+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115478",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "598",
+      "views_label": "608",
       "posted_at": "2026-09-08T08:01:33+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115477",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.3K",
+      "views_label": "1.31K",
       "posted_at": "2026-09-07T19:16:41+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115476",
@@ -329,7 +357,7 @@
       "plain_text": "پس از تحمل ۱۱ سال حبس؛ یک زندانی از مجازات اعدام رهایی یافت\n\n❗️❗️❗️❗️❗️– یک زندانی در تهران که پیشتر از بابت اتهام قتل به #اعدام محکوم شده بود، پس از تحمل ۱۱ سال حبس، با کسب رضایت از اولیای دم، از مجازات مرگ رهایی یافت.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "855",
+      "views_label": "859",
       "posted_at": "2026-09-07T19:02:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115474",
@@ -345,7 +373,7 @@
       "plain_text": "یک شهروند در ارومیه بازداشت شد\n\n❗️❗️❗️❗️❗️– فرمانده هنگ مرزی ارومیه از #بازداشت یک شهروند در یکی از ایست و بازرسی‌های این هنگ خبر داد. به گفته وی، فرد بازداشت‌شده با «یکی از گروه‌های مخالف جمهوری اسلامی» ارتباط داشته است.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "845",
+      "views_label": "848",
       "posted_at": "2026-09-07T18:54:45+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115473",
@@ -361,7 +389,7 @@
       "plain_text": "کامران حکمتی، شهروند یهودی دوتابعیتی از زندان اوین آزاد شد\n\n❗️❗️❗️❗️❗️– کامران (یهودا) حکمتی، شهروند ۷۱ ساله یهودی دوتابعیتی ایرانی-آمریکایی و مبتلا به سرطان، از زندان اوین آزاد شد. وی با وجود آزادی همچنان ممنوع‌الخروج است و امکان ترک ایران را ندارد.\n\nادامه مطلب\n\n#کامران_حکمتی (#یهودا_حکمتی)\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "765",
+      "views_label": "767",
       "posted_at": "2026-09-07T18:32:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115472",
@@ -377,7 +405,7 @@
       "plain_text": "مطالبات مزدی و بیمه ای پرستاران دزفول و رانندگان شرکت واحد اتوبوسرانی تهران\n\n❗️❗️❗️❗️❗️– شماری از کارگران و رانندگان شرکت واحد اتوبوسرانی تهران مطالبات بیمه ای پرداخت نشده دارند. همچنین، رئیس سازمان نظام پرستاری شهرستان دزفول اعلام کرد که مطالبات پرستاران این شهرستان همچون شش ماه حق کارانه و سه ماه اضافه کاری، کماکان به آنها پرداخت نشده است.\n\nادامه مطلب\n\n#پرستاران #کارگران\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "745",
+      "views_label": "747",
       "posted_at": "2026-09-07T18:08:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115471",
@@ -449,7 +477,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "762",
+      "views_label": "765",
       "posted_at": "2026-09-07T17:14:59+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115468",
@@ -2321,34 +2349,6 @@
       "posted_at": "2026-09-03T17:18:24+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115383",
-      "reply": null
-    },
-    {
-      "id": "hranews/115382",
-      "author_name": "خبرگزاری هرانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/E6XMXe3o_CzcL-0JIoxNdzrkPEPfcAWQZvY_HIUxIDF9bsEoAiAvMxcLoISkCCEXEtBPz9O0iPkSUpvqPVslQ1sA49I94tvU6WHqj71yBiKyXlmIv1FBCgPFnBRbh3z643OeUoiI-lZnEemgixRWLkK8Lbhl2HLSR11z3w3Jo1AFWH4VbKUk8iNru5vqlhWJMaFQwuOllBBgaE9sq1X2DE140-JX_dZDZ4BCWEd1anZzPSqpw6anx_L01siyZU5L7VjTOXtWbmXATB5S5_dR8L92cDh25VoAALJJySO7z5cUCfEbpHglJrQ9LZEGSBZMBHjpVA1xYemFyyq-qNIafQ.jpg",
-      "author_photo_path": "channels/hranews/media/f6db971fc4d930da7b734a27.jpg",
-      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
-      "body_html": "شهرستان ماکو؛ صدور شناسنامه برای یک کودک پس از ۶ سال<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– اداره ثبت احوال شهرستان ماکو برای یک کودک به نام «چاغری» پس از گذشت شش سال از زمان تولد و شکایت والدین او به مرجع قضائی، <a href=\"?q=%23%D8%B4%D9%86%D8%A7%D8%B3%D9%86%D8%A7%D9%85%D9%87\">#شناسنامه</a> صادر کرد.<br><br>به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، اداره ثبت احوال شهرستان ماکو پس از گذشت شش سال برای یک کودک به نام «چاغری» شناسنامه صادر کرده است.<br><br>این کودک در تاریخ ۴ مردادماه سال ۱۳۹۹ متولد شد و پس از اقدام والدین برای دریافت مدارک هویتی وی، اداره ثبت احوال شهرستان ماکو این نام را «غیرقانونی» دانست و از ثبت آن امتناع کرد.<br>همچنین در خردادماه سال ۱۴۰۴ شعبه سوم دادگاه صلح ماکو طی حکمی مبنی بر اینکه «نام مذکور جزو اسامی متداول و رایج در جامعه نمی‌باشد» با صدور شناسنامه برای این کودک مخالفت کرده بود. نهایتا با شکایت مجدد والدین پس از طی مراحل اداری و حقوقی، بعد از گذشت شش سال از زمان تولد، اداره ثبت احوال این شهرستان مورخ ۷ مردادماه امسال برای چاغری شناسنامه صادر کرده است.<br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-04cefaa0/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
-      "plain_text": "شهرستان ماکو؛ صدور شناسنامه برای یک کودک پس از ۶ سال\n\n❗️❗️❗️❗️❗️– اداره ثبت احوال شهرستان ماکو برای یک کودک به نام «چاغری» پس از گذشت شش سال از زمان تولد و شکایت والدین او به مرجع قضائی، #شناسنامه صادر کرد.\n\nبه گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، اداره ثبت احوال شهرستان ماکو پس از گذشت شش سال برای یک کودک به نام «چاغری» شناسنامه صادر کرده است.\n\nاین کودک در تاریخ ۴ مردادماه سال ۱۳۹۹ متولد شد و پس از اقدام والدین برای دریافت مدارک هویتی وی، اداره ثبت احوال شهرستان ماکو این نام را «غیرقانونی» دانست و از ثبت آن امتناع کرد.\nهمچنین در خردادماه سال ۱۴۰۴ شعبه سوم دادگاه صلح ماکو طی حکمی مبنی بر اینکه «نام مذکور جزو اسامی متداول و رایج در جامعه نمی‌باشد» با صدور شناسنامه برای این کودک مخالفت کرده بود. نهایتا با شکایت مجدد والدین پس از طی مراحل اداری و حقوقی، بعد از گذشت شش سال از زمان تولد، اداره ثبت احوال این شهرستان مورخ ۷ مردادماه امسال برای چاغری شناسنامه صادر کرده است.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/hranews/115382",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/JTfuzCYtzR-stK6QS1yVImICUVk4Fn-wSr4UQLg62IjGVgOlHzITgvNrq_xN0g5EN-KtyDRoLtJRMdX5EWAj9Ch1e-a22aIAhNWBx6EJ_8NhQylrEyxv8R3k8MpKg9PqQBAYAFbvkE0OtWwCIp3Sa0Y0gci1YnsElzwRemS0VorVZi8-bsttjuoNkYrFPF3lnjgoYmzaoeRbXi5lTQERhlsVxkeBIgiYT8rj_4bVAwm7LFkFR08Y7E4GBoBapKhPEJ2mvCsQ8J8ukFBhqtNeJ7xoA3z2qUnkhKANDqRTlG-KFXD1oge1BFWRDPOPs-FZRXRcDRRapUk-mFQ4Wnz7bQ.jpg",
-          "thumbnail_path": "channels/hranews/media/174a94cbb7ee698e055005a5.jpg",
-          "thumbnail_sha256": "e9be12af0078c688c867d699031996d3b5094061a2fce12d408a8c98399fd3ed",
-          "duration_label": null,
-          "aspect_ratio": 1.5009380863039399
-        }
-      ],
-      "reactions": [],
-      "views_label": "844",
-      "posted_at": "2026-09-03T16:59:54+00:00",
-      "edited": false,
-      "permalink": "https://t.me/hranews/115382",
       "reply": null
     }
   ]
