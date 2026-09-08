@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T12:46:36.358Z",
+  "fetched_at": "2026-09-08T12:51:49.601Z",
   "channel": {
     "username": "durov",
     "title": "Pavel Durov",
@@ -35,7 +35,7 @@
         },
         {
           "emoji": "💎",
-          "count": "4.81K"
+          "count": "4.82K"
         }
       ],
       "views_label": "875K",
