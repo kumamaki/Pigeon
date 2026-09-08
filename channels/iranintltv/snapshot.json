@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T13:56:51.341Z",
+  "fetched_at": "2026-09-08T14:01:39.941Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,62 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356327",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "دومین روز نشست شورای حکام آژانس بین‌المللی انرژی اتمی صبح سه‌شنبه ۱۷ شهریور آغاز شد. به گفته دولت بریتانیا، قانون جدید با هدف اعمال تحریم‌های سخت‌گیرانه‌تر علیه تهران و افزایش فشارهای اقتصادی و سیاسی بر حکومت ایران تصویب شده است.<br><br>گزارش احمد صمدی، خبرنگار ایران‌اینترنشنال، از وین<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "دومین روز نشست شورای حکام آژانس بین‌المللی انرژی اتمی صبح سه‌شنبه ۱۷ شهریور آغاز شد. به گفته دولت بریتانیا، قانون جدید با هدف اعمال تحریم‌های سخت‌گیرانه‌تر علیه تهران و افزایش فشارهای اقتصادی و سیاسی بر حکومت ایران تصویب شده است.\n\nگزارش احمد صمدی، خبرنگار ایران‌اینترنشنال، از وین\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356327",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/h3UAwma6p22H9PXXpMvFJGi4MqgNiHbQQmNlpWGsym6hlSNRFaSbYTYYaSqtbWrClfDUrjKdpe2kQKHHEADtpcRbqrwJs41oz47-IPP_yVcHoNZtm1Ub2FQo4B2BEf6Gp-XIcNdINrD7LQGro2xyR7mIjEeEGogxtaHmc7CwVyhxbuqa84tRfpodRUSQsbzq_7pjkI1ehkpD9unuT9OLbMi6J_jv6u09yT_t-QB4qlvpj-T6uKlPC9SlkULidLmucB9DoafCYfjXNk7kSSx_HATp8st0X3Zgjo_PlbSUw9t4noy4kIGwaQHCzLFUJpi4G3xs8X9GdQ1FvP8EPJ-bfA",
+          "thumbnail_path": "channels/iranintltv/media/0579f41e17ebfb347451ce81.jpg",
+          "thumbnail_sha256": "0166b227696270005c36d0722e83ed640edc997907e7ccf448c3cd08247570a9",
+          "duration_label": "3:32",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.06K",
+      "posted_at": "2026-09-08T14:00:32+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356327",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356326",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "ویدیوی رسیده، بی‌قراری مادر جاویدنام مانی صفرپور را بر سر مزار پسرش نشان می‌دهد.﻿<br>﻿مانی صفرپور، ۱۸ ساله و اهل لاهیجان، ۱۸ دی ۱۴۰۴ در منطقه سلسبیل تهران با شلیک مستقیم گلوله‌های جنگی به دست نیروهای سرکوب کشته شد.",
+      "plain_text": "ویدیوی رسیده، بی‌قراری مادر جاویدنام مانی صفرپور را بر سر مزار پسرش نشان می‌دهد.﻿\n﻿مانی صفرپور، ۱۸ ساله و اهل لاهیجان، ۱۸ دی ۱۴۰۴ در منطقه سلسبیل تهران با شلیک مستقیم گلوله‌های جنگی به دست نیروهای سرکوب کشته شد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356326",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/TP93E-oiS358eMsya9yMv9wGNBU1dyaqO6lyZIuf0ryryduAUK-m7qJJWzsyhxZFtiIU5HJh0h0XFO6FSqrlJ2zyXTSvfJtlz9SEOYrfSwrV1Egb8Dh38FYCGKrETcblhArT09QZpbS8ebXMCPhysxjoBJVeH68WrYz7cSRu54Xd9o33mDpAxYuKQUfftxj7ppntSbBNiXjd7WxT1xVMTLpv6Jbhypvv7kH-UnAyRfyXPEuZbbkWQZwtuTy7iC6_4T9We_3vsgDfzTXSiE1ZET9iHOpZFgoa39NtukpTuTVf80vPSJTpTnR_dch_N38Yyem3lzy9df1t7qfLBQswuQ",
+          "thumbnail_path": "channels/iranintltv/media/66fcef362a39625a0e9523a1.jpg",
+          "thumbnail_sha256": "7f173e90d1447e641c6c5b85826668afd31a9938baef7288974ee37710920b8b",
+          "duration_label": "1:26",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.06K",
+      "posted_at": "2026-09-08T14:00:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356326",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356325",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.2K",
+      "views_label": "6.38K",
       "posted_at": "2026-09-08T13:52:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356325",
@@ -61,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.6K",
+      "views_label": "14.8K",
       "posted_at": "2026-09-08T13:38:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356324",
@@ -89,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.8K",
+      "views_label": "16.9K",
       "posted_at": "2026-09-08T13:33:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356323",
@@ -117,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.8K",
+      "views_label": "16.9K",
       "posted_at": "2026-09-08T13:31:58+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356322",
@@ -145,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.8K",
+      "views_label": "15.9K",
       "posted_at": "2026-09-08T13:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356321",
@@ -173,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.9K",
+      "views_label": "17K",
       "posted_at": "2026-09-08T13:25:33+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356320",
@@ -201,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17K",
+      "views_label": "19.1K",
       "posted_at": "2026-09-08T13:20:20+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356319",
@@ -229,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.3K",
+      "views_label": "22.3K",
       "posted_at": "2026-09-08T13:13:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356318",
@@ -257,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.3K",
+      "views_label": "23.4K",
       "posted_at": "2026-09-08T13:07:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356317",
@@ -285,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.3K",
+      "views_label": "23.3K",
       "posted_at": "2026-09-08T13:05:08+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356316",
@@ -313,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.3K",
+      "views_label": "22.3K",
       "posted_at": "2026-09-08T13:04:16+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356315",
@@ -341,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.2K",
+      "views_label": "22.2K",
       "posted_at": "2026-09-08T13:02:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356314",
@@ -357,7 +413,7 @@
       "plain_text": "🎧نسخه صوتی اخبار نیم‌روزی | سه‌شنبه ۱۷ شهریور\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "21.2K",
+      "views_label": "22.3K",
       "posted_at": "2026-09-08T13:00:50+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356313",
@@ -385,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.3K",
+      "views_label": "24.4K",
       "posted_at": "2026-09-08T12:59:08+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356312",
@@ -413,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.4K",
+      "views_label": "25.5K",
       "posted_at": "2026-09-08T12:52:48+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356311",
@@ -441,7 +497,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.7K",
+      "views_label": "29.7K",
       "posted_at": "2026-09-08T12:44:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356310",
@@ -469,7 +525,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.9K",
+      "views_label": "33.9K",
       "posted_at": "2026-09-08T12:32:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356309",
@@ -2693,62 +2749,6 @@
       "posted_at": "2026-09-07T23:58:33+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356225",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356224",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "سرگئی ریابکوف، معاون وزیر خارجه روسیه، گفت وضعیت پیرامون ایران «فوری‌ترین و مهم‌ترین موضوع» در دستور کار سیاسی بریکس است و انتظار می‌رود بخش مهمی از نشست آینده سران این گروه به آن اختصاص یابد.<br><br>ریابکوف در گفت‌وگو با خبرگزاری تاس، پیش از نشست سران بریکس در دهلی‌نو، گفت وضعیت ایران پیچیده است، زیرا در میان اعضای بریکس کشورهایی وجود دارند که موضعی «به‌شدت انتقادی» نسبت به اقدامات اخیر تهران دارند. او نام این کشورها را اعلام نکرد.<br><br>معاون وزیر خارجه روسیه افزود وضعیت خلیج فارس فوری‌ترین موضوع سیاسی برای اعضای بریکس است و ممکن است بررسی آن در گفت‌وگوهای رهبران و تدوین سند نهایی نشست زمان زیادی ببرد.<br><br>ریابکوف گفت در شرایط کنونی نمی‌تواند نتیجه مذاکرات درباره این موضوع را پیش‌بینی کند.<br><br>بریکس ۱۱ عضو اصلی، از جمله روسیه، چین، هند، برزیل، عربستان سعودی، امارات متحده عربی و ایران دارد و شماری از کشورها نیز به‌عنوان شریک با این گروه همکاری می‌کنند.<br><br><a href=\"https://iranintl.com/202609079512\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609079512</a>",
-      "plain_text": "سرگئی ریابکوف، معاون وزیر خارجه روسیه، گفت وضعیت پیرامون ایران «فوری‌ترین و مهم‌ترین موضوع» در دستور کار سیاسی بریکس است و انتظار می‌رود بخش مهمی از نشست آینده سران این گروه به آن اختصاص یابد.\n\nریابکوف در گفت‌وگو با خبرگزاری تاس، پیش از نشست سران بریکس در دهلی‌نو، گفت وضعیت ایران پیچیده است، زیرا در میان اعضای بریکس کشورهایی وجود دارند که موضعی «به‌شدت انتقادی» نسبت به اقدامات اخیر تهران دارند. او نام این کشورها را اعلام نکرد.\n\nمعاون وزیر خارجه روسیه افزود وضعیت خلیج فارس فوری‌ترین موضوع سیاسی برای اعضای بریکس است و ممکن است بررسی آن در گفت‌وگوهای رهبران و تدوین سند نهایی نشست زمان زیادی ببرد.\n\nریابکوف گفت در شرایط کنونی نمی‌تواند نتیجه مذاکرات درباره این موضوع را پیش‌بینی کند.\n\nبریکس ۱۱ عضو اصلی، از جمله روسیه، چین، هند، برزیل، عربستان سعودی، امارات متحده عربی و ایران دارد و شماری از کشورها نیز به‌عنوان شریک با این گروه همکاری می‌کنند.\n\nhttps://iranintl.com/202609079512",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356224",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/dWMruGkrxSXJOAvekRbkug4j-H5kc9lSkcaPZgu7qVvEsFLQlEeGKPFDqI1mzMIIQjrWYw8IAifqGjC7KUVF5sj0qgUM9P-qMqqFK02UKfLsWL5g4dEfIYeRRNG4puzjamreSo2-ya5dIHplUn64v6a-U_GkkjIDfCiHXz6tGgrmmkxJSk-BdHCuCd80GF3Nzej4K65ETkAe9FDZrWjqjfaoCFIgnIKhfvee5s6ol5BvidV7d5Fzx8vvm-WUEbV4_M2_dtFQSHiLIeEE54n8_hNz1GGD1ImdUaOeOvEJBxU3-Tj_7ZBMzNBSTZkhkbhDV1rzPUN5XNPRnpSYqLDoTw.jpg",
-          "thumbnail_path": "channels/iranintltv/media/5731aadcf2f4497c5f300de4.jpg",
-          "thumbnail_sha256": "630b55fbfcd55533425e3104adb784c4219f68c2d4130de2a977878c3c892de9",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "42.1K",
-      "posted_at": "2026-09-07T23:50:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356224",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356223",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "سحر از تهران: اون‌هایی که شب‌ها پرچم می‌چرخونن، همون‌هایی هستن که دی‌ماه مردم رو کشتن<br><br>«یک ایران صدای شما را می‌شنود»<br>دوشنبه تا پنجشنبه ۱۱ شب تهران<br>از تلویزیون ایران اینترنشنال<br><br>تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:<br><a href=\"https://youtu.be/EOrWu7T_oHM\" target=\"_blank\" rel=\"noopener\">https://youtu.be/EOrWu7T_oHM</a><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "سحر از تهران: اون‌هایی که شب‌ها پرچم می‌چرخونن، همون‌هایی هستن که دی‌ماه مردم رو کشتن\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/EOrWu7T_oHM\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356223",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/cBuii-BtGDf8LzrUTKaU77L9SmAuVc32KkWBw0K2tZAlNY81uTZrsMwQ3_gWlUX1VL04aI9x9G_embEmTMi6krr32PckL9xxYZIZMXbSQzVcnK7VzxlwJafRjmvMeU4Mi-V_qhmEbNaKYA_ZZPNc22xNytqiv9D6DwZn_mm6NnKSU0ei9uVv3JmIjr31UULN5Ca5ESMCby7wfCCPi1XOcdX2jzBUxRBDuauW9a6Q6z4CYao_fGvKB8jQdLosTj6V24VhTs3iVVljS0bt7z95aCsAtipK8kuIMVRWZ1w1mCAclEcD4JAIcY7K_k_-n4tnfQ5Xc7WEKmo1irg6zZZV8g",
-          "thumbnail_path": "channels/iranintltv/media/5981a6f8b0d747a4f94d05ba.jpg",
-          "thumbnail_sha256": "e4322c0d93c9e9bd58df3b9fc167bd54a749c0406032cd5a5c7a0f3f57a273ae",
-          "duration_label": "6:27",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "41.4K",
-      "posted_at": "2026-09-07T23:22:19+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356223",
       "reply": null
     }
   ]
