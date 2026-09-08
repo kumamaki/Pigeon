@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T17:11:49.076Z",
+  "fetched_at": "2026-09-08T17:20:21.394Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356359",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "بارش رگباری و سیل‌آسا بامداد سه‌شنبه ۱۷ شهریور در شهرها و روستاهای شمال ایران به آبگرفتگی معابر عمومی و خیابان‌ها انجامید و آب در برخی مسیرها جاری شد. شدت بارندگی در بخش‌هایی از این مناطق بیشتر بود و در برخی نقاط اختلال در رفت‌وآمد گزارش شد. افزایش حجم روان‌آب‌ها و بالا آمدن سطح رودخانه‌ها و مسیل‌ها نیز نگرانی درباره احتمال بروز خسارت در نقاط مستعد را افزایش داده است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "بارش رگباری و سیل‌آسا بامداد سه‌شنبه ۱۷ شهریور در شهرها و روستاهای شمال ایران به آبگرفتگی معابر عمومی و خیابان‌ها انجامید و آب در برخی مسیرها جاری شد. شدت بارندگی در بخش‌هایی از این مناطق بیشتر بود و در برخی نقاط اختلال در رفت‌وآمد گزارش شد. افزایش حجم روان‌آب‌ها و بالا آمدن سطح رودخانه‌ها و مسیل‌ها نیز نگرانی درباره احتمال بروز خسارت در نقاط مستعد را افزایش داده است.\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356359",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qBhfcolmd4HrJTLTMmO2Tae93GYCfqsUtsL69yBofKAOGnYT6tnTZfOHOi8xf0gYTKxyZUlPfW9YSCsKddLAQJrvivmI26BfMLAU83dKTwKTBJjwqAReQjUof3a4IEfP3Wcww34h7OIddLQYLV8KvBQfFM6AkTmA-QQcJATVFpAjIjC97wL0_9TpkedevffEt3qfsGPenr9SBKEhqhvK-2aU0fswjHyortmW40F396ymknugUbfaoXBP6Hgr1Asu7rWdYB1Te3IfsPyocZtW1C59foW0jDp-jpstNNf6zfRI6rWeUQkOpI4SgaWD6lbTALIGsaJ36sApPcP9fShnOw",
+          "thumbnail_path": "channels/iranintltv/media/d568853b1806000c758ee616.jpg",
+          "thumbnail_sha256": "6a0ee300deeb552fb90ce41c729b28d044d85318e7e6841f7266b5d8261a2ec0",
+          "duration_label": "2:07",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.08K",
+      "posted_at": "2026-09-08T17:18:42+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356359",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356358",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.06K",
+      "views_label": "9.53K",
       "posted_at": "2026-09-08T17:10:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356358",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.53K",
+      "views_label": "15.8K",
       "posted_at": "2026-09-08T16:59:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356357",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19K",
+      "views_label": "24.3K",
       "posted_at": "2026-09-08T16:44:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356356",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.2K",
+      "views_label": "27.4K",
       "posted_at": "2026-09-08T16:36:18+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356355",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.1K",
+      "views_label": "25.3K",
       "posted_at": "2026-09-08T16:35:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356354",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.2K",
+      "views_label": "26.4K",
       "posted_at": "2026-09-08T16:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356353",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.2K",
+      "views_label": "25.3K",
       "posted_at": "2026-09-08T16:28:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356352",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.3K",
+      "views_label": "28.5K",
       "posted_at": "2026-09-08T16:21:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356351",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.4K",
+      "views_label": "29.5K",
       "posted_at": "2026-09-08T16:14:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356350",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.5K",
+      "views_label": "30.6K",
       "posted_at": "2026-09-08T16:10:50+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356349",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.6K",
+      "views_label": "32.7K",
       "posted_at": "2026-09-08T15:59:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356348",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.5K",
+      "views_label": "29.6K",
       "posted_at": "2026-09-08T15:58:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356346",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.5K",
+      "views_label": "31.7K",
       "posted_at": "2026-09-08T15:58:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356347",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.8K",
+      "views_label": "35.9K",
       "posted_at": "2026-09-08T15:42:09+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356345",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36K",
+      "views_label": "37K",
       "posted_at": "2026-09-08T15:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356343",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37K",
+      "views_label": "38.1K",
       "posted_at": "2026-09-08T15:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356344",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.1K",
+      "views_label": "39.1K",
       "posted_at": "2026-09-08T15:23:43+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356342",
@@ -497,7 +525,7 @@
       "plain_text": "🎧نسخه صوتی اخبار شبانگاهی | سه‌شنبه ۱۷ شهریور\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "40.2K",
+      "views_label": "41.3K",
       "posted_at": "2026-09-08T15:14:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356341",
@@ -525,7 +553,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.2K",
+      "views_label": "41.3K",
       "posted_at": "2026-09-08T15:13:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356340",
@@ -2721,34 +2749,6 @@
       "posted_at": "2026-09-08T06:36:37+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356257",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356256",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>در پی اظهارات حیدر بهاروند، رئیس سازمان لیگ درباره رد درخواست استقلال برای دریافت جام قهرمانی فصل گذشته که نیمه تمام ماند، حجت‌اله بهمنی، سخنگوی سازمان لیگ گفت که درخواست باشگاه استقلال برای دریافت جام قهرمانی «در هیات رئیسه فدراسیون فوتبال بررسی و در مورد آن تصمیم گیری می‌شود.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>حیدر بهاروند، رییس سازمان لیگ دوشنبه ۱۶ شهریور ۱۴۰۵، در گفت‌وگویی تلویزیونی درباره سرنوشت قهرمانی لیگ نیمه‌تمام سال گذشته گفت: «هیئت‌رییسه فدراسیون فوتبال دو سه ماه پیش مصوب کرده که اصلا این لیگ قهرمانی ندارد.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>بهاروند گفت: «زمانی که پرونده لیگ بسته شد، دوستان هم از استقلال آمدند اینجا و مصوبه را دیدند. مصوب شده که لیگ قهرمانی ندارد و پرونده‌اش بسته شده تقریبا.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>به گفته سخنگوی سازمان لیگ، هیات رئیسه فدراسیون در ۳۰ خرداد ۱۴۰۵  مصوب کرده «باتوجه به نیمه تمام ماندن مسابقات ليگ برتر در فصل ۱۴۰۵_۱۴۰۴ ادامه مسابقات برگزار نشود و قهرمانی برای این فصل اعلام نشود.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>پیش‌تر علی تاجرنیا، رییس هیئت‌مدیره استقلال، درباره قهرمانی آبی‌پوشان در لیگ نیمه‌تمام گفته بود: «موضوع جام قهرمانی چیزی نیست که کوتاه بیاییم.»<br><br><a href=\"https://t.me/iranintltvsport\" target=\"_blank\">@iranintltvsport</a>",
-      "plain_text": "🔻در پی اظهارات حیدر بهاروند، رئیس سازمان لیگ درباره رد درخواست استقلال برای دریافت جام قهرمانی فصل گذشته که نیمه تمام ماند، حجت‌اله بهمنی، سخنگوی سازمان لیگ گفت که درخواست باشگاه استقلال برای دریافت جام قهرمانی «در هیات رئیسه فدراسیون فوتبال بررسی و در مورد آن تصمیم گیری می‌شود.»\n\n🔹حیدر بهاروند، رییس سازمان لیگ دوشنبه ۱۶ شهریور ۱۴۰۵، در گفت‌وگویی تلویزیونی درباره سرنوشت قهرمانی لیگ نیمه‌تمام سال گذشته گفت: «هیئت‌رییسه فدراسیون فوتبال دو سه ماه پیش مصوب کرده که اصلا این لیگ قهرمانی ندارد.»\n\n🔹بهاروند گفت: «زمانی که پرونده لیگ بسته شد، دوستان هم از استقلال آمدند اینجا و مصوبه را دیدند. مصوب شده که لیگ قهرمانی ندارد و پرونده‌اش بسته شده تقریبا.»\n\n🔹به گفته سخنگوی سازمان لیگ، هیات رئیسه فدراسیون در ۳۰ خرداد ۱۴۰۵ مصوب کرده «باتوجه به نیمه تمام ماندن مسابقات ليگ برتر در فصل ۱۴۰۵_۱۴۰۴ ادامه مسابقات برگزار نشود و قهرمانی برای این فصل اعلام نشود.»\n\n🔹پیش‌تر علی تاجرنیا، رییس هیئت‌مدیره استقلال، درباره قهرمانی آبی‌پوشان در لیگ نیمه‌تمام گفته بود: «موضوع جام قهرمانی چیزی نیست که کوتاه بیاییم.»\n\n@iranintltvsport",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356256",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/or0RJ-j6ofU21lW3p0HSFK4yjDUDQfUpy5Or0UdQl4Hnjft7BhoSXFA8NzNayc8AViXLmOl9bTTYacHQGu0KtNBrgksZyI2_z4-kpfRyZXMegmLOnOaxibN2Ocdgmp9Vp1PdibwsPBZu5__750NZZrls9HN5b0UcaHZb8ZbtJ-4h7n-1EJLUqQdB7rFKyr0dSUGKdpOe3QJFD31KY3rZORm7bhwgNJ3AsKP7bQGvHxn6Dj6NNMIvF-1wXeDxo05JNY02bd6SbvOjsVmWjSezJLTXCHDJE3uYoh-K7fA4kOEvVRWTEQJRQGy_qN3H52Ih1z-j2W3Eo6CgnwAk3rpXnw.jpg",
-          "thumbnail_path": "channels/iranintltv/media/d73ad5cac445a3b5c24cd738.jpg",
-          "thumbnail_sha256": "1e2cc5c590b844691e03f280f31b077da1a73820d169a48f290b2c78681a14a9",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "30.4K",
-      "posted_at": "2026-09-08T06:34:39+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356256",
       "reply": null
     }
   ]
