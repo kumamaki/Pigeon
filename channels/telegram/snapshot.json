@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T21:16:38.194Z",
+  "fetched_at": "2026-09-08T21:22:09.181Z",
   "channel": {
     "username": "telegram",
     "title": "Telegram News",
@@ -161,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "732K",
+      "views_label": "733K",
       "posted_at": "2026-08-26T19:11:05+00:00",
       "edited": true,
       "permalink": "https://t.me/telegram/455",
