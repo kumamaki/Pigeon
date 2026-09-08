@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T12:07:08.520Z",
+  "fetched_at": "2026-09-08T12:11:31.962Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356308",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "شورای همکاری کشورهای خلیج فارس و کشورهای منطقه، حملات شبه‌نظامیان حوثی به عربستان سعودی را محکوم کردند. دبیرکل شورای همکاری خلیج فارس در بیانیه‌ای، حملات شبه‌نظامیان حوثی به غیرنظامیان و تاسیسات حیاتی را عمدی خواند و از جامعه بین‌المللی خواست موضعی قاطع و بازدارنده در برابر این اقدامات اتخاذ کند.<br><br>جزییات بیشتر در گفت‌وگو با تروسکه صادقی، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "شورای همکاری کشورهای خلیج فارس و کشورهای منطقه، حملات شبه‌نظامیان حوثی به عربستان سعودی را محکوم کردند. دبیرکل شورای همکاری خلیج فارس در بیانیه‌ای، حملات شبه‌نظامیان حوثی به غیرنظامیان و تاسیسات حیاتی را عمدی خواند و از جامعه بین‌المللی خواست موضعی قاطع و بازدارنده در برابر این اقدامات اتخاذ کند.\n\nجزییات بیشتر در گفت‌وگو با تروسکه صادقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356308",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/VfeB27uF2x7iDiP45qv6MZWQ6iDIYkIu8RvJHcTGNdrFneMSeOf370xC-v9J_rfd2XkaYQ9GR-H-Y6JZwWxMIdGH3Ne24qlIpeOWaRwRxEFEbQI3gsL4hkIy4QcQCtxouYPgeXfH6Th9xzKCQmyVdgWJdx4iw6rT9jn0uDEKD_UGHr5oD2EAG7kEa4NBa16HK73Gr-_pQDzHluKbCkkXTOaVhkoDXVIjualbtNI6sn_t0dAkNkIkPFx96f92b4C7s8TbHgn8L7b53NcUROPhFJdi6I0yIQRE2D-RlXayibHWbVxkXiI-mgaEh3cFjhzmyvgVXyGQGccXYtlkRnMtww",
+          "thumbnail_path": "channels/iranintltv/media/c1408b75c226056efb0c8799.jpg",
+          "thumbnail_sha256": "3f35dd084d0e1cf0b2bbd5298c3d6d4fa7cb06cc9144ea0e12a00e5562af56eb",
+          "duration_label": "2:14",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.02K",
+      "posted_at": "2026-09-08T12:09:44+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356308",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356306",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19",
+      "views_label": "4.24K",
       "posted_at": "2026-09-08T12:06:05+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356306",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "52",
+      "views_label": "4.24K",
       "posted_at": "2026-09-08T12:06:05+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356307",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.26K",
+      "views_label": "6.37K",
       "posted_at": "2026-09-08T12:00:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356305",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.8K",
+      "views_label": "16.9K",
       "posted_at": "2026-09-08T11:43:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356304",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.7K",
+      "views_label": "15.8K",
       "posted_at": "2026-09-08T11:42:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356303",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.9K",
+      "views_label": "19K",
       "posted_at": "2026-09-08T11:33:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356302",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20K",
+      "views_label": "22.1K",
       "posted_at": "2026-09-08T11:27:14+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356301",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.2K",
+      "views_label": "23.3K",
       "posted_at": "2026-09-08T11:19:40+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356300",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.5K",
+      "views_label": "30.6K",
       "posted_at": "2026-09-08T11:03:31+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356299",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.9K",
+      "views_label": "37.9K",
       "posted_at": "2026-09-08T10:40:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356298",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.9K",
+      "views_label": "37.9K",
       "posted_at": "2026-09-08T10:30:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356297",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "43.1K",
+      "views_label": "44.2K",
       "posted_at": "2026-09-08T10:03:14+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356295",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "42K",
+      "views_label": "43.1K",
       "posted_at": "2026-09-08T10:02:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356294",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.9K",
+      "views_label": "38.9K",
       "posted_at": "2026-09-08T10:00:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356293",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.7K",
+      "views_label": "34.7K",
       "posted_at": "2026-09-08T09:56:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356291",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.9K",
+      "views_label": "38.9K",
       "posted_at": "2026-09-08T09:56:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356292",
@@ -509,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.7K",
+      "views_label": "33.8K",
       "posted_at": "2026-09-08T09:55:21+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356290",
@@ -537,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.8K",
+      "views_label": "35.8K",
       "posted_at": "2026-09-08T09:54:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356289",
@@ -2721,34 +2749,6 @@
       "posted_at": "2026-09-07T21:51:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356205",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356204",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>حجت کریمی، مدیرعامل تراکتور در یک برنامه در صدا و سیمای جمهوری اسلامی گفت شجاع خلیل‌زاده، کاپیتان تراکتور پس از بازی با گل‌گهر «گلگی کرد چرا اجازه ندادید روی سکوها اتفاقی بیافتد.» او پیش‌تر گفته بود قبل از بازی به لیدرها گفته بوده از فحاشی به بازیکنان حریف خودداری کنند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>او همچنین درباره انتشار فایل صوتی فحاشی‌های خداداد عزیزی به امید عالیشاه گفت: «حق نداشتید چنین صدایی را پخش کنید که حال جامعه را در این شرایط بد کنید. به ما می‌گفتند، با کسی این فحش‌ها را داده، برخورد می‌کردیم.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>کریمی گفت: «فردی که صدا را ضبط و پخش کرده، حال جامعه را بد کرده است. آبروی طرف را برده است، چرا به آبروی طرف فکر نمی‌کنید. شما یک بازیکن ملی کشورمان را که با او خاطرات خوبی داریم، خراب کردید.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>مدیرعامل تراکتور درباره حکم کمیته انضباطی برای خداداد عزیزی گفت: «یعنی چی؟ یعنی خداداد را به استادیوم‌ها راه ندهیم؟ این حکم درست است؟»<br><br> <a href=\"https://t.me/iranintltvsport\" target=\"_blank\">@iranintltvsport</a>",
-      "plain_text": "🔻حجت کریمی، مدیرعامل تراکتور در یک برنامه در صدا و سیمای جمهوری اسلامی گفت شجاع خلیل‌زاده، کاپیتان تراکتور پس از بازی با گل‌گهر «گلگی کرد چرا اجازه ندادید روی سکوها اتفاقی بیافتد.» او پیش‌تر گفته بود قبل از بازی به لیدرها گفته بوده از فحاشی به بازیکنان حریف خودداری کنند.\n\n🔹او همچنین درباره انتشار فایل صوتی فحاشی‌های خداداد عزیزی به امید عالیشاه گفت: «حق نداشتید چنین صدایی را پخش کنید که حال جامعه را در این شرایط بد کنید. به ما می‌گفتند، با کسی این فحش‌ها را داده، برخورد می‌کردیم.»\n\n🔹کریمی گفت: «فردی که صدا را ضبط و پخش کرده، حال جامعه را بد کرده است. آبروی طرف را برده است، چرا به آبروی طرف فکر نمی‌کنید. شما یک بازیکن ملی کشورمان را که با او خاطرات خوبی داریم، خراب کردید.»\n\n🔹مدیرعامل تراکتور درباره حکم کمیته انضباطی برای خداداد عزیزی گفت: «یعنی چی؟ یعنی خداداد را به استادیوم‌ها راه ندهیم؟ این حکم درست است؟»\n\n@iranintltvsport",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356204",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/McKw1PtdX2SkQlrvH3XZjZGEs5b46c1sCabraZH7m2z1Q2ukrhM678GeCYyVC_IZe2cKd62GGEwR3cMjXb0OFzA6sH_Jo6jWBLz7l3x7I47-f9-PxPs50-ajVdTHQG-avAgxdfWX8m45nZoLmzQQqdz0zJVbVdZzU3maA6fal49-kiQ_zK4nBnPwkZRNYjhPa6F6sRL4tOnqLNNsIvfrX8QCPhXq5PQhMgXmr89P6srh8FV45SPee66QpGt2B9r77ZFkyG7gAZCUErl1yrJ8AhzP5LtXHENxx4wERtU12btsZzsHQHN5fTJ14aWk57upcgGdKzkxY9NFq-czdOBR4Q.jpg",
-          "thumbnail_path": "channels/iranintltv/media/010f1f97c876432507729792.jpg",
-          "thumbnail_sha256": "0f04c42476142d1955a08bf60ad2d5688a59f54eda08abb35da46d310a91fa3a",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "32.3K",
-      "posted_at": "2026-09-07T21:34:27+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356204",
       "reply": null
     }
   ]
