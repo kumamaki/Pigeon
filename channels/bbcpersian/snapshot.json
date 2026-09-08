@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T07:21:59.523Z",
+  "fetched_at": "2026-09-08T07:27:09.123Z",
   "channel": {
     "username": "bbcpersian",
     "title": "BBCPersian",
@@ -11,6 +11,34 @@
     "subscriber_count": "774K"
   },
   "posts": [
+    {
+      "id": "bbcpersian/291059",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/s4C2G175wBvyimmVC3qkGVE7qsM7s77SqXkLiiZbw1_t1AEH4C7ALTkCerEqRMGj3-64ClLx_p8VVEwFywKEqKloyqYWrmdoKaype4oiZrGsExmdyTZLKdy_R27bUvHDfEoNhVUtXx2inNF65bXqA26yQLITR_Co8rhjMV3XAIm1E54Rl-qSnlrguLpLz3_g-vLFxwgJya1Tyfc0VhEkRey6YJ249jnJa1MQhLZJ4qgN_7mpa--qxfAjqj--QgCXyj1ByASQFGik-d07BuXNPtqg9GPSCDSc6TxZceIpFff0Zvu4G4ZD1fsw0ZQm4-v11Hrb2wGKVpankgtrHmB0kQ.jpg",
+      "author_photo_path": "channels/bbcpersian/media/92ca8172f153819f54f28df1.jpg",
+      "author_photo_sha256": "cf48535f60438757cd9b0534a23c038e85ac3e9a472bad98fdb8dd6f9211ad10",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>رئیس شورای شهر تهران گفته است که تابلوی راهنمای پناهگاه در برخی از نقاط شهر تهران از جمله برخی از ایستگاه‌های مترو نصب خواهد شد.<br><br>مهدی چمران گفته است که بر اساس مصوبات اخیر شورای شهر مقرر شده تا در محل‌هایی که به عنوان پناهگاه انتخاب شده‌اند، تابلوهای راهنما نصب شود و شهروندان از محل پناهگاه‌ها آگاه باشند.<br><br>در جریان دو جنگ اخیر، شهروندان ایرانی از نبود پناهگاه و علائم راهنما برای دسترسی به پناهگاه‌های احتمالی انتقاد داشتند.<br><br>آقای چمران گفته است ایستگاه‌های مترو که به عنوان پناهگاه تعریف شده‌اند هم به مردم اطلاع‌ داده خواهد شد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B8.png')\"><b>📸</b></i> ایسنا<br><br><a href=\"https://bbc.in/4zVqQyp\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4zVqQyp</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔻رئیس شورای شهر تهران گفته است که تابلوی راهنمای پناهگاه در برخی از نقاط شهر تهران از جمله برخی از ایستگاه‌های مترو نصب خواهد شد.\n\nمهدی چمران گفته است که بر اساس مصوبات اخیر شورای شهر مقرر شده تا در محل‌هایی که به عنوان پناهگاه انتخاب شده‌اند، تابلوهای راهنما نصب شود و شهروندان از محل پناهگاه‌ها آگاه باشند.\n\nدر جریان دو جنگ اخیر، شهروندان ایرانی از نبود پناهگاه و علائم راهنما برای دسترسی به پناهگاه‌های احتمالی انتقاد داشتند.\n\nآقای چمران گفته است ایستگاه‌های مترو که به عنوان پناهگاه تعریف شده‌اند هم به مردم اطلاع‌ داده خواهد شد.\n\n📸 ایسنا\n\nhttps://bbc.in/4zVqQyp\n@BBCPersian",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/291059",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/bAisjAiObc28GLVD7XGl7F9l2rHK0MDAnZhldN20gzWQJWLaYSNmn5dWP7g0fDqIQawD2VDBxL1LEZQp_SuJslQULv3DiAEza0rFH934PnXa4va9EOS6qoa3OKWfy7PFPUi4-pbTolgi9jkl6jLUtp5HmtiBr5s9gHqgFaIQ_UPiHZIg54R3PguT6Hbdn7gyCTturvmtq930C4ahZct74qRqbqJg-t2oRLISDc9runlVSw8B-9LaGFPzfSyUSRiL9vKQCs7bACRtpjHcH295KLwCsrmKrPljfpN8qnc6KydRw7Qm9Yo9EskDPBQX7FTQj4QJQVbyim2302yHEFJ2HQ.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/6e486c75f88d9401d30756fc.jpg",
+          "thumbnail_sha256": "b64db08869be80570fe51541dc1fbb59047e27bdab15a770fe5a903d36b7dbb5",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.92K",
+      "posted_at": "2026-09-08T07:23:39+00:00",
+      "edited": true,
+      "permalink": "https://t.me/bbcpersian/291059",
+      "reply": null
+    },
     {
       "id": "bbcpersian/291058",
       "author_name": "BBCPersian",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.56K",
+      "views_label": "7.17K",
       "posted_at": "2026-09-08T07:03:04+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291058",
@@ -49,7 +77,7 @@
       "plain_text": "🔻چرا تعطیلی تنها مدرسه ایرانی در کویت خانواده‌ها را نگران کرده است؟\n\n🖌نسرین حاطوم, خبرنگار بی‌بی‌سی عربی در امور خلیج فارس\n\nخانواده‌های ایرانی ساکن کویت در آستانه آغاز سال تحصیلی جدید، با چالش یافتن مدرسه‌ای جایگزین برای فرزندانشان روبه‌رو شده‌اند؛ چالشی که پس از تصمیم مقام‌های کویتی برای لغو مجوز و تعطیلی تنها مدرسه خصوصی ایرانی در این کشور پدید آمد.\n\nhttps://bbc.in/4drbyYy\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "12.7K",
+      "views_label": "13.7K",
       "posted_at": "2026-09-08T06:33:42+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291056",
@@ -65,7 +93,7 @@
       "plain_text": "🔻وزیر اقتصاد ایران: تأمین کالاهای اساسی از منطقه اوراسیا به ویژه روسیه موضوعی اولویت‌دار است\n\nوزیر اقتصاد ایران که به روسیه رفته گفته است که «تأمین کالاهای اساسی از منطقه اوراسیا به ویژه روسیه موضوعی اولویت‌دار است که آن را به صورت جدی پیگیری می‌کنیم.»\n\nعلی مدنی‌زاده در دیار با تجار و بازرگانان ایرانی مقیم روسیه این موضوع را مطرح کرده است.\n\nایران که از سوی آمریکا محاصره دریایی شده گفته است که به دنبال راه‌های جایگزین برای واردات کالاست.\n\nایرنا، خبرگزاری رسمی ایران می‌گوید برخی فعالان اقتصادی در این نشست مطالبی درباره صف طولانی در گمرک آستارا و ترتیبات زمان‌بر رسیدگی در این گمرک مطرح کردند.\n\nبر اساس این گزارش آقای مدنی زاده وعده داد که این موضوع را با مقام‌های کمیسیون اقتصادی اوراسیا مطرح کند.\n\nکمیسیون اقتصادی اوراسیا رکن اجرایی اتحادیه اقتصادی اوراسیا و مقر آن مسکو است.\n\nاین اتحادیه بین دولت‌های بلاروس، قزاقستان، روسیه، قرقیزستان و ارمنستان است و ایران هم عضو ناظر آن است.\n\nhttps://bbc.in/4zVqQyp\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "15.3K",
+      "views_label": "15.9K",
       "posted_at": "2026-09-08T06:19:34+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291055",
@@ -93,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16.6K",
+      "views_label": "17.3K",
       "posted_at": "2026-09-08T06:08:48+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291054",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.8K",
+      "views_label": "20.5K",
       "posted_at": "2026-09-08T05:41:01+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291053",
@@ -165,7 +193,7 @@
       "plain_text": "🔻روایت زنی که به هواپیماربایان ۱۱ سپتامبر خانه اجاره داد\n\n🖋️جین مک‌مالن\nبی‌بی‌سی\n\n🔻هالی رچفورد هنوز هم نمی‌تواند باور کند مردی که زمانی به مجتمع مسکونی تحت مدیریت او نقل مکان کرده بود، بعدها به دست داشتن در یکی از تاریک‌ترین روزهای تاریخ معاصر آمریکا متهم شود.\n\nاو به بی‌بی‌سی می‌گوید: «تقریبا غیرممکن است بتوانم تفاوت میان کسی را که ادعا می‌کرد و کسی را که واقعا بود، در ذهنم هضم کنم. هنوز با این موضوع درگیرم.»\n\nاین مرد، عمربیومی، شهروند سعودیِ حدوداً ۴۰ ساله، در سپتامبر ۱۹۹۹ به همراه خانواده‌اش به این مجتمع مسکونی در سن‌دیگوِ کالیفرنیا نقل مکان کرد.\n\nساکن تازه آپارتمان شماره ۱۵۲ مجتمع پارک‌وود خیلی زود به یکی از مهمانان همیشگی مهمانی‌های کنار استخر رچفورد تبدیل شد.\n\nاو به یاد می‌آورد: «همیشه بسیار سرزنده و خندان بود و رفتاری واقعا دوستانه داشت.»\n\nچند ماه بعد، عمر، رچفورد را با دو مرد به‌ ظاهر معمولی و «مودب» آشنا کرد که آن‌ها نیز همسایه‌اش شدند.\nاین دو نفر بعدها با ربودن پرواز ۷۷ امریکن ایرلاینز و هدایت آن به ساختمان پنتاگون در حملات ۱۱ سپتامبر، نام خود را با یکی از مرگبارترین حملات تاریخ آمریکا گره زدند.\n\nادامه مطلب در لینک زیر:\nhttps://bbc.in/4xf3TUt\n\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "31.7K",
+      "views_label": "32K",
       "posted_at": "2026-09-08T04:19:16+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291051",
@@ -181,7 +209,7 @@
       "plain_text": "🔻مقام‌های امنیتی ایران: سه هسته وابسته به گروه‌های «تکفیری» را در سیستان و بلوچستان «متلاشی شدند»\n\n🔻مقام‌های امنیتی استان سیستان و بلوچستان روز دوشنبه گفتند که سه هسته سازمان‌یافته و عملیاتی وابسته به آنچه «گروه‌های تکفیری مورد حمایت آمریکا و اسرائیل» خوانده‌اند، پیش از انجام هرگونه اقدامی در مناطق مرزی شناسایی و «متلاشی شده‌اند».\n\nبه گفته این مقام‌ها، اعضای این هسته‌ها هنگام ورود از مرز «رهگیری شدند و نیروهای امنیتی پیش از آنکه بتوانند عملیات خود را اجرا کنند» آنها را خنثی کردند.\n\nجزییات بیشتری از مشخصات این افراد منتشر نشده اما تصاویر ویدیویی از آنچه به نظر یکی از عملیات‌های نیروهای ایرانی در این منطقه است در خبرگزاری‌های داخل ایران از جمله ایرنا منتشر شده است.\n\nhttps://bbc.in/4czJySi\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "30.8K",
+      "views_label": "31.1K",
       "posted_at": "2026-09-08T04:04:52+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291050",
@@ -209,7 +237,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.4K",
+      "views_label": "34.7K",
       "posted_at": "2026-09-08T03:33:28+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291049",
@@ -237,7 +265,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.5K",
+      "views_label": "38.8K",
       "posted_at": "2026-09-08T02:18:31+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291048",
@@ -380,7 +408,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.3K",
+      "views_label": "38.6K",
       "posted_at": "2026-09-08T01:00:35+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291037",
@@ -2486,22 +2514,6 @@
       "posted_at": "2026-09-06T11:54:36+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/290926",
-      "reply": null
-    },
-    {
-      "id": "bbcpersian/290925",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/diY127ratCidRQBlnbIYTWpc6tSp0qcS4R4O28MWRX4knKjpIaxSnEol1WT3eoIfQAdjiqP4IC_p71AHwGXVeuIvESe62D6qqiDZCWXQBackAIEID1jz-vI840b35b39xPjdY3TgiDPsstS3yiFwq_gv7ZByqqrn3Hs9xmyuvE2VcFmPPBs9QKqiNvYT43NYoxnJ1ucFWCTM3qamIdkk1OsbgbFruM4G37RLamrFqiG1JwmXgJ3Ix_Z4iVhnl4j3JCzbPZQYY9ujMA8v9QSgrmlSvByrqSrbFpP7qEeBejG5HMWgwQeVkTE2yhgVUy1X_mj88RwaT3Gl942tBvanow.jpg",
-      "author_photo_path": "channels/bbcpersian/media/b3ffb6f4b6579a10cf72c4bb.jpg",
-      "author_photo_sha256": "cf48535f60438757cd9b0534a23c038e85ac3e9a472bad98fdb8dd6f9211ad10",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>جواد مجابی، شاعری عصا به دست که مقابل سانسور از پا نیفتاد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C8D.png')\"><b>✍️</b></i>حسام محجوبی<br>بی‌بی‌سی<br><br>جواد مجابی، نویسنده، شاعر، نقاش و منتقد ادبی و هنری، که ۱۴ شهریور در ۸۷ سالگی درگذشت، به دلیل مشکل جسمی با عصا قدم برمی‌داشت، اما در قدم گذاشتن در راه ادبیات و هنر هیچ مانعی از جمله «سانسور» را به رسمیت نمی‌شناخت.<br><br>او که نمونه‌ای از یک هنرمند «چندبعدی» بود، در زمینه‌های مختلف روزنامه‌نگاری، ادبیات، هنرهای تجسمی و نقد هنری فعالیت کرد و در مجموع بیش از ۵۰ اثر در قالب‌های مختلف، از جمله شعر، داستان کوتاه، رمان، طنز، نمایشنامه، فیلمنامه و پژوهش از خود بر جای گذاشت.<br><br><a href=\"https://bbc.in/4gEQuA7\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4gEQuA7</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "🔻جواد مجابی، شاعری عصا به دست که مقابل سانسور از پا نیفتاد\n\n✍️حسام محجوبی\nبی‌بی‌سی\n\nجواد مجابی، نویسنده، شاعر، نقاش و منتقد ادبی و هنری، که ۱۴ شهریور در ۸۷ سالگی درگذشت، به دلیل مشکل جسمی با عصا قدم برمی‌داشت، اما در قدم گذاشتن در راه ادبیات و هنر هیچ مانعی از جمله «سانسور» را به رسمیت نمی‌شناخت.\n\nاو که نمونه‌ای از یک هنرمند «چندبعدی» بود، در زمینه‌های مختلف روزنامه‌نگاری، ادبیات، هنرهای تجسمی و نقد هنری فعالیت کرد و در مجموع بیش از ۵۰ اثر در قالب‌های مختلف، از جمله شعر، داستان کوتاه، رمان، طنز، نمایشنامه، فیلمنامه و پژوهش از خود بر جای گذاشت.\n\nhttps://bbc.in/4gEQuA7\n@BBCPersian",
-      "media": [],
-      "reactions": [],
-      "views_label": "32.9K",
-      "posted_at": "2026-09-06T11:34:48+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/290925",
       "reply": null
     }
   ]
