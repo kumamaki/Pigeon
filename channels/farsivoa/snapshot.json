@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T14:31:42.972Z",
+  "fetched_at": "2026-09-08T14:36:42.732Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229866",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "مادر سپهر ابراهیمی، از کشته‌شدگان دی ماه ۱۴۰۴، به یاد پسرش شمعی روشن کرد و گفت: «نه فراموش می‌کنیم و نه می‌بخشیم، ‌استوارتر از قبل می‌ایستیم تا انتقام فرزندانمان را بگیریم.»<br><br>سپهر ابراهیمی، ۱۹ ساله، ۱۸ دی‌ ۱۴۰۴، با شلیک گلوله ماموران حکومتی به ناحیه گردن در تهران کشته شد.",
+      "plain_text": "مادر سپهر ابراهیمی، از کشته‌شدگان دی ماه ۱۴۰۴، به یاد پسرش شمعی روشن کرد و گفت: «نه فراموش می‌کنیم و نه می‌بخشیم، ‌استوارتر از قبل می‌ایستیم تا انتقام فرزندانمان را بگیریم.»\n\nسپهر ابراهیمی، ۱۹ ساله، ۱۸ دی‌ ۱۴۰۴، با شلیک گلوله ماموران حکومتی به ناحیه گردن در تهران کشته شد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229866",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/rhtiVx6wfSscUDpeFPeAG7agzHK4w3Y5t3e9MMLhGmfBm0Mur6qqOlg7Vm7Krm0c6y2VOnOZU4XQz1oxvo4OTIiAld47k5gPWwv4wdD8OQFR-fyWzSi5WknRgAGZPXeAeQKWVsj1kfCG8qATNTJjysTJI2nKUte0JmewlHjKpr7OEkshIy_tNOvnluMUb23-EQoVjNU-s0UMJYZlWcobkvsp8GDt7belnrFiFTqSYg0goDsx3rOq3eqlpc549lzPR9BlweXG-toSw6SCcF9qkDYKEauYfKdowelytBb0EyGcQbo4MBeAX7gI00H2ebcuAO2FBZn931PnVXQt57_rLA",
+          "thumbnail_path": "channels/farsivoa/media/899a06230611a5b0383a9a95.jpg",
+          "thumbnail_sha256": "7dec181c99e9aed5a28798cb379f047d670bdab540879806c4dc3ece594cfd3f",
+          "duration_label": "2:20",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T14:36:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229866",
+      "reply": null
+    },
     {
       "id": "farsivoa/229865",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "225",
+      "views_label": "383",
       "posted_at": "2026-09-08T14:28:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229865",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "579",
+      "views_label": "740",
       "posted_at": "2026-09-08T14:20:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229864",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.02K",
+      "views_label": "1.15K",
       "posted_at": "2026-09-08T14:07:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229863",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.25K",
+      "views_label": "1.38K",
       "posted_at": "2026-09-08T14:00:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229862",
@@ -133,7 +161,7 @@
       "plain_text": "🔺بریتانیا موسسه «القرض‌الحسن» را تحریم کرد؛ تشدید فشار بر جمهوری اسلامی با تحریم بازوی مالی حزب‌الله\n\n▪️بریتانیا روز سه‌شنبه ۱۷ شهریور ۱۴۰۵ تحریم‌هایی را علیه موسسه «القرض‌الحسن»، مؤسسه مالی وابسته به حزب‌الله لبنان، اعلام کرد؛ اقدامی که در ادامه فشارهای آمریکا و متحدانش برای محدود کردن منابع مالی این گروه مورد حمایت جمهوری اسلامی انجام می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/britain-sanctions-hezbollah-linked-institution/8195533.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.46K",
+      "views_label": "1.56K",
       "posted_at": "2026-09-08T13:45:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229861",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.58K",
+      "views_label": "1.67K",
       "posted_at": "2026-09-08T13:32:59+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229860",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.73K",
+      "views_label": "1.76K",
       "posted_at": "2026-09-08T13:20:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229859",
@@ -205,7 +233,7 @@
       "plain_text": "🔺اعزام تیم ارزیاب کره‌جنوبی به منطقه برای بررسی وضعیت تنگه هرمز\n\n▪️وزارت دفاع کره‌جنوبی روز سه‌شنبه ۱۷ شهریور اعلام کرد که تیمی را برای ارزیابی وضعیت در تنگه هرمز به منطقه اعزام کرده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/south-korea-assessment-team-deployment-strait-of-hormuz/8195526.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.64K",
+      "views_label": "1.7K",
       "posted_at": "2026-09-08T13:18:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229858",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.76K",
+      "views_label": "1.8K",
       "posted_at": "2026-09-08T13:10:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229857",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.73K",
+      "views_label": "1.77K",
       "posted_at": "2026-09-08T13:05:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229856",
@@ -289,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.6K",
+      "views_label": "1.64K",
       "posted_at": "2026-09-08T13:03:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229855",
@@ -317,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.89K",
+      "views_label": "1.92K",
       "posted_at": "2026-09-08T12:50:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229854",
@@ -345,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.08K",
+      "views_label": "2.12K",
       "posted_at": "2026-09-08T12:39:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229853",
@@ -373,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.24K",
+      "views_label": "2.28K",
       "posted_at": "2026-09-08T12:25:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229852",
@@ -389,7 +417,7 @@
       "plain_text": "🔺بریتانیا لایحه تحریم‌های سخت‌تر علیه جمهوری اسلامی را منتشر کرد\n\n▪️بریتانیا روز سه‌شنبه قانونی برای اعمال تحریم‌های سخت‌تر علیه جمهوری اسلامی منتشر کرد که محدودیت‌های تجاری و اختیارات هدف قرار دادن شناورها را گسترش می‌دهد.\n\n▪️دولت بریتانیا اقدام را بخشی از تلاش گسترده‌تر برای مهار برنامه هسته‌ای تهران و «دیگر فعالیت‌های خصمانه» خواند. بر پایه اعلام دولت بریتانیا، اقدام‌ها دسترسی جمهوری اسلامی به نظام مالی این کشور را محدود می‌کند.\n\n▪️ممنوعیت تجارت به کالاها، فناوری و خدمات بیشتری گسترش می‌یابد و فرود هواپیماهای ایرانی در بریتانیا جز در موارد استثنا ممنوع می‌شود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/uk-publishes-legislation-for-tougher-sanctions-on-iran/8195516.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.57K",
+      "views_label": "2.6K",
       "posted_at": "2026-09-08T12:07:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229851",
@@ -405,7 +433,7 @@
       "plain_text": "🔺ژاپن نگرانی خود را از حملات جمهوری اسلامی به شناورها در هرمز ابراز کرد\n\n▪️توشیمیتسو موتگی، وزیر خارجه ژاپن، در گفت‌وگوی تلفنی با عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، نگرانی خود را از ادامه حملات جمهوری اسلامی به شناورهای غیرنظامی ابراز کرد و خواستار «حداکثر خویشتنداری» شد.\n\n▪️بر پایه اعلام وزارت خارجه ژاپن، در این تماس پنج خواسته توکیو از جمله کاهش تنش و از سرگیری مذاکرات، انعطاف حداکثری، توقف حمله به شناورها، بازگشت آزادی دریانوردی بدون هزینه افزوده و مهار حوثی‌ها به عراقچی منتقل شد.\n\n▪️در مقابل عراقچی از «پیشرفت قابل توجه» گفت‌وگوها با عمان برای تعیین یک مسیر موقت تردد در تنگه هرمز خبر داد. ژاپن اما می‌گوید آینده تنگه باید در جامعه بین‌المللی بررسی شود، نه دوجانبه.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/japan-expresses-concern-over-iranian-attacks-on-vessels-in-hormuz/8195515.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.41K",
+      "views_label": "2.44K",
       "posted_at": "2026-09-08T12:02:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229850",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.33K",
+      "views_label": "2.37K",
       "posted_at": "2026-09-08T11:51:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229849",
@@ -461,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.39K",
+      "views_label": "2.43K",
       "posted_at": "2026-09-08T11:44:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229848",
@@ -2615,34 +2643,6 @@
       "posted_at": "2026-09-07T16:30:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229757",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229756",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "آغاز دور تازه مذاکرات خلع سلاح گروه‌های هم‌پیمان جمهوری اسلامی در عراق از ماه مهر",
-      "plain_text": "آغاز دور تازه مذاکرات خلع سلاح گروه‌های هم‌پیمان جمهوری اسلامی در عراق از ماه مهر",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229756",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/mExsuIx_ZOtC0HMNjT-8SiiG76GY-FotcHEnEU6fk2ZfhQN1wB8v_lrR1HJPRtcyq8ZWXRpWCwG6GDyjmeJRKRGQumthz31pYfRVDAOqZEMVXXeWTmEoiLDKexP8K15FwyALQlYmAisB6dGSNFu4le2BvjuidbodPLOZ6gRXU27txCs6Ec0g20u1IovSb31J1gsiA3BzKm19n7TaZ-yCUgqRtAi8JsqCgz2tjq8nTuim6mEAVhDpAx3in4FKM3bpcO2tL6n16rwg-Q37ZznTuPYhMYehBEwI7qlc_QSxCTq2omN55w6KELZ5GZMCCAwWrRvdbB1Fd03h25sDhW9eGg",
-          "thumbnail_path": "channels/farsivoa/media/b3aa161cf9c277541f7afe8c.jpg",
-          "thumbnail_sha256": "01fbbd00f21b7fd14ca6517c4249e4961555f204c9b512ba04c1fa159fae9a95",
-          "duration_label": "4:16",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.03K",
-      "posted_at": "2026-09-07T16:19:41+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229756",
       "reply": null
     }
   ]
