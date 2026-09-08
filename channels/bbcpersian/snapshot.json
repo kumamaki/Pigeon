@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T05:37:02.833Z",
+  "fetched_at": "2026-09-08T05:42:06.538Z",
   "channel": {
     "username": "bbcpersian",
     "title": "BBCPersian",
@@ -11,6 +11,34 @@
     "subscriber_count": "774K"
   },
   "posts": [
+    {
+      "id": "bbcpersian/291053",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/s4C2G175wBvyimmVC3qkGVE7qsM7s77SqXkLiiZbw1_t1AEH4C7ALTkCerEqRMGj3-64ClLx_p8VVEwFywKEqKloyqYWrmdoKaype4oiZrGsExmdyTZLKdy_R27bUvHDfEoNhVUtXx2inNF65bXqA26yQLITR_Co8rhjMV3XAIm1E54Rl-qSnlrguLpLz3_g-vLFxwgJya1Tyfc0VhEkRey6YJ249jnJa1MQhLZJ4qgN_7mpa--qxfAjqj--QgCXyj1ByASQFGik-d07BuXNPtqg9GPSCDSc6TxZceIpFff0Zvu4G4ZD1fsw0ZQm4-v11Hrb2wGKVpankgtrHmB0kQ.jpg",
+      "author_photo_path": "channels/bbcpersian/media/92ca8172f153819f54f28df1.jpg",
+      "author_photo_sha256": "cf48535f60438757cd9b0534a23c038e85ac3e9a472bad98fdb8dd6f9211ad10",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>معاون اول رئیس‌جمهور ایران گفته است که «فیلترشکن‌ها اشراف امنیتی ما را از بین برده‌اند و در جنگ‌های اخیر هم از این مسئله ضربه خورده‌ایم.»<br><br>محمدرضا عارف در دیدار با اعضای جامعه مدرسین حوزه علمیه قم که یک نهاد محافظه کار مذهبی و سیاسی است گفته است «دستاوردهای علمی ما مرهون اینترنت است و خود روحانیت هم از اینترنت استفاده علمی می‌کند.»<br><br>او گفته است «آمادگی داریم با اعضای جامعه مدرسین و وزیر ارتباطات جلسه‌ای برگزار کنیم تا درباره مزایا و معایب شیوه‌های نظارت بر اینترنت، بحث علمی و کارشناسی صورت گیرد و ببینید که فیلتر شکن چه بلایی سر امنیت کشور می آورد.»<br><br>مقام‌های ایران در دوره‌های مختلف محدودیت اینترنت، برای این اقدامشان به ملاحظات امنیتی استناد کرده‌اند.<br><br>ایران در جریان دو جنگ اخیر شبکه اینترنت را قطع کرد.<br><br>این کشور استفاده از اینترنت ماهواره‌ای همچون استارلینک را هم جرم‌انگاری کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B8.png')\"><b>📸</b></i> <a href=\"http://Khamenei.ir/\" target=\"_blank\" rel=\"noopener\">Khamenei.ir</a><br><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔻معاون اول رئیس‌جمهور ایران گفته است که «فیلترشکن‌ها اشراف امنیتی ما را از بین برده‌اند و در جنگ‌های اخیر هم از این مسئله ضربه خورده‌ایم.»\n\nمحمدرضا عارف در دیدار با اعضای جامعه مدرسین حوزه علمیه قم که یک نهاد محافظه کار مذهبی و سیاسی است گفته است «دستاوردهای علمی ما مرهون اینترنت است و خود روحانیت هم از اینترنت استفاده علمی می‌کند.»\n\nاو گفته است «آمادگی داریم با اعضای جامعه مدرسین و وزیر ارتباطات جلسه‌ای برگزار کنیم تا درباره مزایا و معایب شیوه‌های نظارت بر اینترنت، بحث علمی و کارشناسی صورت گیرد و ببینید که فیلتر شکن چه بلایی سر امنیت کشور می آورد.»\n\nمقام‌های ایران در دوره‌های مختلف محدودیت اینترنت، برای این اقدامشان به ملاحظات امنیتی استناد کرده‌اند.\n\nایران در جریان دو جنگ اخیر شبکه اینترنت را قطع کرد.\n\nاین کشور استفاده از اینترنت ماهواره‌ای همچون استارلینک را هم جرم‌انگاری کرده است.\n\n📸 Khamenei.ir\n\n@BBCPersian",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/291053",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/fBJ6_uQJ7AJ8GqoZ_adeDHL96uWKOmmvnU2HoKxVX5HjjS_Z54MylD27YrhrEYR8ZgbSyqsYL9qo85g3Gp7KchavoueBOc6btS4x44E19tc8E7EPixy-yRXMxLb7BXFA75XaKMqPsWpaYaUtzHjd16F9khrpp6-i5nayXZvqJDkabyd0FESshkxTF4Xhn5RPQHCPL6ugBo8OfLD4a_6cmvA4x1VYFo1DdzMn80AmA1va_tJjceBm1MverxKopzgo9hTsnCgAGlK-yCjLx6Xj_W8YmRI_RFaEYRJiWvlVPJB1jiZ94S1P-eOY6mCpzK2bsykis9OkQFH4hY1G6HvrJw.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/e5db69b5a30dabfbe1b0762e.jpg",
+          "thumbnail_sha256": "5ef7a55d341e302d8820458cba7550fa43875560fc0c573fccb3d5a2a0154875",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "15",
+      "posted_at": "2026-09-08T05:41:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/291053",
+      "reply": null
+    },
     {
       "id": "bbcpersian/291052",
       "author_name": "BBCPersian",
@@ -49,7 +77,7 @@
       "plain_text": "🔻روایت زنی که به هواپیماربایان ۱۱ سپتامبر خانه اجاره داد\n\n🖋️جین مک‌مالن\nبی‌بی‌سی\n\n🔻هالی رچفورد هنوز هم نمی‌تواند باور کند مردی که زمانی به مجتمع مسکونی تحت مدیریت او نقل مکان کرده بود، بعدها به دست داشتن در یکی از تاریک‌ترین روزهای تاریخ معاصر آمریکا متهم شود.\n\nاو به بی‌بی‌سی می‌گوید: «تقریبا غیرممکن است بتوانم تفاوت میان کسی را که ادعا می‌کرد و کسی را که واقعا بود، در ذهنم هضم کنم. هنوز با این موضوع درگیرم.»\n\nاین مرد، عمربیومی، شهروند سعودیِ حدوداً ۴۰ ساله، در سپتامبر ۱۹۹۹ به همراه خانواده‌اش به این مجتمع مسکونی در سن‌دیگوِ کالیفرنیا نقل مکان کرد.\n\nساکن تازه آپارتمان شماره ۱۵۲ مجتمع پارک‌وود خیلی زود به یکی از مهمانان همیشگی مهمانی‌های کنار استخر رچفورد تبدیل شد.\n\nاو به یاد می‌آورد: «همیشه بسیار سرزنده و خندان بود و رفتاری واقعا دوستانه داشت.»\n\nچند ماه بعد، عمر، رچفورد را با دو مرد به‌ ظاهر معمولی و «مودب» آشنا کرد که آن‌ها نیز همسایه‌اش شدند.\nاین دو نفر بعدها با ربودن پرواز ۷۷ امریکن ایرلاینز و هدایت آن به ساختمان پنتاگون در حملات ۱۱ سپتامبر، نام خود را با یکی از مرگبارترین حملات تاریخ آمریکا گره زدند.\n\nادامه مطلب در لینک زیر:\nhttps://bbc.in/4xf3TUt\n\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "18K",
+      "views_label": "19.3K",
       "posted_at": "2026-09-08T04:19:16+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291051",
@@ -65,7 +93,7 @@
       "plain_text": "🔻مقام‌های امنیتی ایران: سه هسته وابسته به گروه‌های «تکفیری» را در سیستان و بلوچستان «متلاشی شدند»\n\n🔻مقام‌های امنیتی استان سیستان و بلوچستان روز دوشنبه گفتند که سه هسته سازمان‌یافته و عملیاتی وابسته به آنچه «گروه‌های تکفیری مورد حمایت آمریکا و اسرائیل» خوانده‌اند، پیش از انجام هرگونه اقدامی در مناطق مرزی شناسایی و «متلاشی شده‌اند».\n\nبه گفته این مقام‌ها، اعضای این هسته‌ها هنگام ورود از مرز «رهگیری شدند و نیروهای امنیتی پیش از آنکه بتوانند عملیات خود را اجرا کنند» آنها را خنثی کردند.\n\nجزییات بیشتری از مشخصات این افراد منتشر نشده اما تصاویر ویدیویی از آنچه به نظر یکی از عملیات‌های نیروهای ایرانی در این منطقه است در خبرگزاری‌های داخل ایران از جمله ایرنا منتشر شده است.\n\nhttps://bbc.in/4czJySi\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "19.8K",
+      "views_label": "20.4K",
       "posted_at": "2026-09-08T04:04:52+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291050",
@@ -93,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.4K",
+      "views_label": "25.3K",
       "posted_at": "2026-09-08T03:33:28+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291049",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.5K",
+      "views_label": "31.1K",
       "posted_at": "2026-09-08T02:18:31+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291048",
@@ -137,7 +165,7 @@
       "plain_text": "🔻ایران: یک هیات قطری با هدف کاهش تنش به تهران آمد\n\n🔻اسماعیل بقایی، سخنگوی وزارت خارجه ایران تایید کرده است که یک هیئت دیپلماتیک قطری برای گفتگو با مقام‌های این کشور وارد تهران شده است.\n\nسخنگوی وزارت خارجه روز دوشنبه گفت که این هیئت با عباس عراقچی، وزیر خارجه ایران، دیدار کرده است.\nآقای بقایی هدف از سفر این هیئت قطری را «ادامه تلاش‌ها برای کاهش تنش» در منطقه عنوان کرد.\n\nhttps://bbc.in/4A6NTGS\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "29.8K",
+      "views_label": "30.5K",
       "posted_at": "2026-09-08T01:46:11+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291047",
@@ -264,7 +292,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.2K",
+      "views_label": "31.8K",
       "posted_at": "2026-09-08T01:00:35+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291037",
@@ -280,7 +308,7 @@
       "plain_text": "🔻بقایی در واکنش به همراهی کانادا با فشار اقتصادی آمریکا بر ایران؛ این همدستی با قانون‌شکنی است\n\n🔻اسماعیل بقایی، سخنگوی وزارت خارجه ایران، به بیانیه وزرای خارجه و دارایی کانادا که در‌ آن از همراهی این کشور با کارزار طرد اقتصادی آمریکا حمایت شده، واکنش نشان داده و به آن اعتراض کرده است.\n\nآقای بقایی روز دوشنبه - ۱۶ شهریور - گفت: «درست در همان روزی که رئیس‌جمهور آمریکا با بی‌حرمتی به حاکمیت و استقلال کانادا، کل این کشور را به‌عنوان بخشی از قلمروی آمریکا نقاشی کرد، وزرای امور خارجه و دارایی کانادا تصمیم می‌گیرند باز هم در مسیر باج‌دهی به همسایه قلدر قدم بردارند؛ این بار از طریق لگدپراکنی به سمت ایران از طریق صدور بیانیه‌ای که سراسر تحریف واقعیت‌ها است.»\n\nاشاره آقای بقایی به اظهارات آنیتا آناند، وزیر امور خارجه کانادا، و فرانسوا فیلیپ شامپاین، وزیر دارایی این کشور است که در بیانیه‌ای مشترک با محکوم کردن تهران، از ایران خواستند فورا به «فعالیت‌های بی‌ثبات‌کننده» خود در خاورمیانه پایان دهد.\n\nدر این بیانیه، مقام‌های کانادایی به طور مشخص به «تهدیدهای مستمر علیه کشتی‌هایی که قصد عبور از تنگه هرمز را دارند»، «پیگیری فعالیت‌های غیرقانونی هسته‌ای» و «حمایت از گروه‌های نیابتی در منطقه» اشاره کرده‌اند.\n\nوزیران خارجه و دارایی کانادا همچنین اعلام کردند که اتاوا در همکاری نزدیک با دیگر اعضای گروه هفت (G7)، از تلاش‌های آمریکا با همراهی فرانسه و بریتانیا برای بازگشایی تنگه هرمز حمایت می‌کند.\n\nآقای بقایی روز دوشنبه در واکنش به این اظهارات گفت: «این، نه دیپلماسی است و نه نشانه حکمرانی مسئولانه، بلکه نشانه سردرگمی راهبردی و تسلیم در برابر قلدری است؛ انتخابی که حتی خود کانادا را هم بیشتر در معرض تعرض‌ها و باج‌خواهی‌های آمریکا قرار خواهد داد.»\n\nhttps://bbc.in/4gG5HAP\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "28.9K",
+      "views_label": "29.2K",
       "posted_at": "2026-09-08T00:27:50+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291036",
@@ -308,7 +336,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.2K",
+      "views_label": "29.8K",
       "posted_at": "2026-09-08T00:03:06+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291035",
@@ -336,7 +364,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.7K",
+      "views_label": "32K",
       "posted_at": "2026-09-07T23:01:38+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291034",
@@ -352,7 +380,7 @@
       "plain_text": "🔻«اسب وحشی نهم»؛ نقدی تند به سیا که می‌تواند تماشاگران آمریکایی را دو قطبی کند\n\n🖋️نیکلاس باربر\n🔻فیلم جدید مارتین مک‌دونا، کارگردان ایرلندی، با بازی جان مالکوویچ در نقش یک مامور اطلاعاتی در دهه ۱۹۷۰، داستان مردی را روایت می‌کند که با عذاب وجدان دست‌وپنجه نرم می‌کند و در معرض افشای اسراری حساس قرار دارد. این فیلم جاسوسی، روایتی پرکشش و گزنده ارائه می‌دهد.\n\nمارتین مک‌دونا علاقه خاصی به ساختن فیلم‌هایی دارد که در آن‌ها دو مرد از دو نسل متفاوت، در لوکیشن‌هایی چشم‌نواز، مدام با یکدیگر کلنجار می‌روند و به هم ناسزا می‌گویند. کارنامه این نویسنده و کارگردان ایرلندی شامل آثاری چون کمدی گانگستریِ کالتِ «در بروژ» محصول ۲۰۰۸ و فیلم موفق «بنشی‌های اینیشرین» در سال ۲۰۲۲ است؛ فیلمی که نامزد ۹ جایزه اسکار شد.\n\nتازه‌ترین نمونه از این دست فیلم‌ها، «اسب وحشی نهم» است؛ یک کمدی جاسوسیِ هجوآمیز در دهه ۱۹۷۰ با بازی جان مالکوویچ و سم راکول در نقش دو مامور سرکش سیا که هم زبان تندی دارند و هم پیراهن‌های پرزرق‌وبرق‌تر.\n\nمتن کامل خبر در لینک زیر:\n\nhttps://bbc.in/3SPhtzM\n\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "36.5K",
+      "views_label": "36.9K",
       "posted_at": "2026-09-07T21:46:13+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291033",
@@ -2486,34 +2514,6 @@
       "posted_at": "2026-09-06T10:01:57+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/290921",
-      "reply": null
-    },
-    {
-      "id": "bbcpersian/290919",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/diY127ratCidRQBlnbIYTWpc6tSp0qcS4R4O28MWRX4knKjpIaxSnEol1WT3eoIfQAdjiqP4IC_p71AHwGXVeuIvESe62D6qqiDZCWXQBackAIEID1jz-vI840b35b39xPjdY3TgiDPsstS3yiFwq_gv7ZByqqrn3Hs9xmyuvE2VcFmPPBs9QKqiNvYT43NYoxnJ1ucFWCTM3qamIdkk1OsbgbFruM4G37RLamrFqiG1JwmXgJ3Ix_Z4iVhnl4j3JCzbPZQYY9ujMA8v9QSgrmlSvByrqSrbFpP7qEeBejG5HMWgwQeVkTE2yhgVUy1X_mj88RwaT3Gl942tBvanow.jpg",
-      "author_photo_path": "channels/bbcpersian/media/b3ffb6f4b6579a10cf72c4bb.jpg",
-      "author_photo_sha256": "cf48535f60438757cd9b0534a23c038e85ac3e9a472bad98fdb8dd6f9211ad10",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>‌سارا خلیفه، مجری سرشناس تلویزیونی و ۱۱ نفر دیگر برای جرایم مرتبط با مواد مخدر، در مصر به اعدام با طناب دار محکوم شده‌اند.<br><br>به گزارش روزنامه دولتی الاهرام این افراد عضو یک باند جنایتکار بودند که مواد اولیه برای تولید مواد مخدر را وارد و این مواد را می‌فروختند. بنابر این گزارش این افراد سلاح گرم و مهمات غیرقانونی داشتند.<br><br>سارا خلیفه، ۳۹ ساله، بیشتر برای برنامه تلویزیونی «ماموریت غیرممکن» شناخته می‌شود که به موضوعات مرتبط با جرم و جنایت می‌پرداخت. او اتهاماتش را رد کرده است.<br><br>وکیل خانم خلیفه گفته است که درخواست تجدیدنظر خواهد کرد.<br><br>این حکم نخستین بار ماه گذشته اعلام شد.<br><br>ادامه خبر را از لینک زیر در وبسایت بی‌بی‌سی فارسی بخوانید. <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B7.png')\"><b>📷</b></i> Sarah Khalifa Instagram account<br><a href=\"https://bbc.in/4xe6aPQ\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4xe6aPQ</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "🔻‌سارا خلیفه، مجری سرشناس تلویزیونی و ۱۱ نفر دیگر برای جرایم مرتبط با مواد مخدر، در مصر به اعدام با طناب دار محکوم شده‌اند.\n\nبه گزارش روزنامه دولتی الاهرام این افراد عضو یک باند جنایتکار بودند که مواد اولیه برای تولید مواد مخدر را وارد و این مواد را می‌فروختند. بنابر این گزارش این افراد سلاح گرم و مهمات غیرقانونی داشتند.\n\nسارا خلیفه، ۳۹ ساله، بیشتر برای برنامه تلویزیونی «ماموریت غیرممکن» شناخته می‌شود که به موضوعات مرتبط با جرم و جنایت می‌پرداخت. او اتهاماتش را رد کرده است.\n\nوکیل خانم خلیفه گفته است که درخواست تجدیدنظر خواهد کرد.\n\nاین حکم نخستین بار ماه گذشته اعلام شد.\n\nادامه خبر را از لینک زیر در وبسایت بی‌بی‌سی فارسی بخوانید.\n\n📷 Sarah Khalifa Instagram account\nhttps://bbc.in/4xe6aPQ\n@BBCPersian",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/290919",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/bcvj1iDyQGFqT0bEc3UozipMHdBz8FhlOz94BHEhE4j6fNNIq0vN5yQfoln3ukw05cEislEpbBeznWdE-Fv4srpeXJRLEfIlJYou_2p6IB0dMNMBa5Mps2hwq-Df8zSz4nrBlh--gFW3CIJ0f6tEXMEGzfr9BwoFqnTWLbfdnY0nk9pNOhBusWDQAmm_ey9UnMNoXLjMj4YnB8HqG5mh9oe-AXlEITBo5cORXtoKRLcHycD0cQP76K95VnenS-7ruC8qy06WebqS6d3QI5Rz4IYvfPzeUwHoFkGlMZ9tYzB3rGpvjyxp8kx1Wapw_RabFwiJ05heIWvUlti5-sFqhg.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/6ac9528e900825d53db6e7f3.jpg",
-          "thumbnail_sha256": "1b39063796f61a5cf9dd7ff2b7cd794addbf2ae1b865cb9f25730184150206d5",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "42K",
-      "posted_at": "2026-09-06T09:50:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/290919",
       "reply": null
     }
   ]
