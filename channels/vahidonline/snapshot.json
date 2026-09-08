@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T20:36:50.386Z",
+  "fetched_at": "2026-09-08T20:42:00.490Z",
   "channel": {
     "username": "vahidonline",
     "title": "Vahid Online وحید آنلاین",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.41M"
   },
   "posts": [
+    {
+      "id": "VahidOnline/78284",
+      "author_name": "Vahid Online وحید آنلاین",
+      "author_photo_url": "https://cdn1.telesco.pe/file/dlIAK319fV7Z8hJlbu8Yeo8wT8bN6f1usvCg8wg0n_YgO6mOh-y62iySK-wSeCchSDm0pgDEICbzFp_8MKc9i1HUHdFwsnkQW0X5u2_tXoaSu48KY86NyL3nJ2iroT14J0egcgIPlTuPwQiidcpK7Pg6Wjlp_pRX1TNeomF8P2FFj5D5C5c1SzmdhoepuXXrS6t6r2UjVplFBLUMHHsIfepDuyUTVPjekPfoYgOuszy3BnXjlqtDOhFqQ3-Bmk43bjbaymDDY_7DMl6ti__IRfcKlsPV9rjlyfYMcxqKc5zVmv1sQVEhzxzRajgkZAxKNy8gc16Ea3OpoBmtTQouqw.jpg",
+      "author_photo_path": "channels/vahidonline/media/a8025a121696f4450adc0bb6.jpg",
+      "author_photo_sha256": "bee60885437a832f3ac114c2547b44918ce852f80d43a07bead701fc17ad1bc8",
+      "body_html": "در پی گزارش‌ها از حمله ارتش آمریکا به اهدافی در جاسک و اطراف جزیره خارک، رسانه‌های حکومتی در ایران تائید کردند که یک نفتکش دیگر نیز در اطراف جاسک هدف قرار گرفت و خدمه آن با قایق نجات در حال انتقال به مناطق ساحلی هستند. <br><br>پیشتر رسانه‌های حکومتی در ایران گفته بودند یک نفتکش در اطراف خارک هدف قرار گرفت.<br><br> رسانه‌های اسرائيلی و آمریکایی به نقل از مقامات آمریکایی گزارش داده بودند که علاوه بر اهداف دیگر، چند نفتکش ایرانی نیز هدف نیروهای آمریکایی قرار گرفته‌‌اند.<br>@<a href=\"https://t.me/VahidHeadline/320491\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">VahidHeadline</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
+      "plain_text": "در پی گزارش‌ها از حمله ارتش آمریکا به اهدافی در جاسک و اطراف جزیره خارک، رسانه‌های حکومتی در ایران تائید کردند که یک نفتکش دیگر نیز در اطراف جاسک هدف قرار گرفت و خدمه آن با قایق نجات در حال انتقال به مناطق ساحلی هستند.\n\nپیشتر رسانه‌های حکومتی در ایران گفته بودند یک نفتکش در اطراف خارک هدف قرار گرفت.\n\nرسانه‌های اسرائيلی و آمریکایی به نقل از مقامات آمریکایی گزارش داده بودند که علاوه بر اهداف دیگر، چند نفتکش ایرانی نیز هدف نیروهای آمریکایی قرار گرفته‌‌اند.\n@VahidHeadline\n\n📡 @VahidOnline",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/VahidOnline/78284",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/pazctHEzsw8T-fXErQhru7DqsoYp7dF_tQuxovJzBjabO1TwEwpUAojp06Q0mzIbMrXBIfkarFNDDpVvlFNncxURGE0QT1tisxHtnjdmkNDi55aZk6GZ5xAkQ8X9rqWahH_O6TQEImjuMXdtSjQFXa_ofDtfELR5DNjllrZcCiZxmbyvy1eKWCQefoWx38SHyU48bEWf9xgDORyBo_CMwmtBxhMDJZXzDAA4GKm1zC7ZmShRGdqmi-a1Ur4-XEOGi-DWr3nxKoJSaRE-oJ_35_uW5lDampa4pGKvc3Ni1UM2DoemvY4IrGdbCahKdpaMpIpaLoD4zPIeTJm7h8q46g.jpg",
+          "thumbnail_path": "channels/vahidonline/media/c713c2343851c7d35ac43c15.jpg",
+          "thumbnail_sha256": "1640ee1c410d5d271935e8b2d998719d1b798eed46cca9a9ef6e454808bbd38d",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "19.7K",
+      "posted_at": "2026-09-08T20:37:55+00:00",
+      "edited": true,
+      "permalink": "https://t.me/VahidOnline/78284",
+      "reply": null
+    },
     {
       "id": "VahidOnline/78283",
       "author_name": "Vahid Online وحید آنلاین",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "79.4K",
+      "views_label": "90.2K",
       "posted_at": "2026-09-08T20:06:34+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78283",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "142K",
+      "views_label": "150K",
       "posted_at": "2026-09-08T19:27:01+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78282",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "133K",
+      "views_label": "139K",
       "posted_at": "2026-09-08T19:26:50+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78281",
@@ -105,7 +133,7 @@
       "plain_text": "\"صدای انفجار از حوالی ساحل جاسک\"\n\nخبرگزاری فارس وابسته به سپاه پاسداران:\nحوالی ساعت ۲۱:۴۵ امشب، صدای انفجار در شهرستان جاسک شنیده شد.\n\nمنابع محلی می‌گویند صدا از سمت دریا و نزدیکی منطقه سنگ سیاه به گوش رسیده و انفجار در دو مرحله و با فاصله کوتاه رخ داده است.\n📡 @VahidOnline",
       "media": [],
       "reactions": [],
-      "views_label": "150K",
+      "views_label": "155K",
       "posted_at": "2026-09-08T19:12:34+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78280",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "148K",
+      "views_label": "153K",
       "posted_at": "2026-09-08T19:10:34+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78279",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "139K",
+      "views_label": "143K",
       "posted_at": "2026-09-08T19:10:11+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78278",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "204K",
+      "views_label": "208K",
       "posted_at": "2026-09-08T16:43:22+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78277",
@@ -228,7 +256,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "235K",
+      "views_label": "237K",
       "posted_at": "2026-09-08T15:08:06+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78275",
@@ -256,7 +284,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "225K",
+      "views_label": "227K",
       "posted_at": "2026-09-08T15:06:33+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78274",
@@ -339,7 +367,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "269K",
+      "views_label": "270K",
       "posted_at": "2026-09-08T12:38:25+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78268",
@@ -367,7 +395,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "317K",
+      "views_label": "318K",
       "posted_at": "2026-09-08T05:18:24+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78267",
@@ -395,7 +423,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "341K",
+      "views_label": "342K",
       "posted_at": "2026-09-08T01:21:14+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78266",
@@ -423,7 +451,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "339K",
+      "views_label": "340K",
       "posted_at": "2026-09-08T01:20:02+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78265",
@@ -2945,22 +2973,6 @@
       "posted_at": "2026-09-01T18:24:41+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78154",
-      "reply": null
-    },
-    {
-      "id": "VahidOnline/78153",
-      "author_name": "Vahid Online وحید آنلاین",
-      "author_photo_url": "https://cdn1.telesco.pe/file/lpY-ME0Mc0Emf0IIp9JGQz_sjZcxQ3Cy5hDTkskn7j-3EDKyAuwopNDbn0Mn_TYsmfygG5AIC4vrQa1fzSmajUXjmc6EJ8KfVBFkVoNV9pi228104EWKBB3z8T_AX-vGYiP5ylJSDcI-EQQ7XdUBL2ygOmEovjpEOMeNLr8O9soBAmoQVD-sMUxPT_vdHOIFsDSBOfEc23ntHLEkV7dzn1jkBVRLCadR-3lhDPlgNRKOY_OE1aEw-BlKp70FixRiTg3RiqmNYkCbDzKHcfsveMTSmFHSFXS0kY7WdYIu_JIOK0J09t-3Cd3Y7q-Mg1TKitRDj3ABLtc5fW2mM70SvQ.jpg",
-      "author_photo_path": "channels/vahidonline/media/aeab3d046fe2d10ee017b9e2.jpg",
-      "author_photo_sha256": "bee60885437a832f3ac114c2547b44918ce852f80d43a07bead701fc17ad1bc8",
-      "body_html": "صداوسیما: فرودگاه جیرفت هدف حمله آمریکا قرار گرفت<br><br>خبرگزاری صداوسیمای جمهوری اسلامی شامگاه سه‌شنبه ۱۰ شهریور گزارش داد دقایقی پیش فرودگاه غیرنظامی جیرفت هدف حمله آمریکا قرار گرفته است.<br><br>&nbsp;این رسانه افزود اطلاعات تکمیلی درباره این حمله منتشر خواهد شد.<br>@<a href=\"https://t.me/VahidOnLive/8960\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">VahidOnLive</a><br><br>اسکندر پاسالار، فرماندار عسلویه، به خبرگزاری فارس، وابسته به سپاه پاسداران، گفت: «حوالی ساعت ۲۰:۱۰ شامگاه سه‌شنبه، صدای یک انفجار در شهرستان عسلویه گزارش شده است.»<br><br>فرماندار عسلویه گفت که از خسارات جانی و مالی این انفجار جزئیاتی مخابره نشده است.<br>@<a href=\"https://t.me/VahidOOnLine/257963\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">VahidOOnLine</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
-      "plain_text": "صداوسیما: فرودگاه جیرفت هدف حمله آمریکا قرار گرفت\n\nخبرگزاری صداوسیمای جمهوری اسلامی شامگاه سه‌شنبه ۱۰ شهریور گزارش داد دقایقی پیش فرودگاه غیرنظامی جیرفت هدف حمله آمریکا قرار گرفته است.\n\n این رسانه افزود اطلاعات تکمیلی درباره این حمله منتشر خواهد شد.\n@VahidOnLive\n\nاسکندر پاسالار، فرماندار عسلویه، به خبرگزاری فارس، وابسته به سپاه پاسداران، گفت: «حوالی ساعت ۲۰:۱۰ شامگاه سه‌شنبه، صدای یک انفجار در شهرستان عسلویه گزارش شده است.»\n\nفرماندار عسلویه گفت که از خسارات جانی و مالی این انفجار جزئیاتی مخابره نشده است.\n@VahidOOnLine\n\n📡 @VahidOnline",
-      "media": [],
-      "reactions": [],
-      "views_label": "232K",
-      "posted_at": "2026-09-01T18:24:16+00:00",
-      "edited": true,
-      "permalink": "https://t.me/VahidOnline/78153",
       "reply": null
     }
   ]

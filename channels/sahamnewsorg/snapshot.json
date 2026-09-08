@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T20:36:48.977Z",
+  "fetched_at": "2026-09-08T20:41:58.469Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "sahamnewsorg/147193",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/smAW_InWz98OrCURLxT9xranMh7tpFlLWV8zSZVibheTG3rKNcOtlMDWTt5JD8IaKVnpsx9Ot66idtDLHzf9pnQYniC5FGwhRuBWsCRwCX0-Mj9l4ogp_2OpFW0-A9FLwU-A1UcUeCsCK6kk8Lzo21xN1YNrtRrAlaqGaAofukdu1m0nYvC_OEUKkWfqLcQl6GUi6IfPKF71EHtCCM9lOVBTXeyyryPb6CUPK3qxuAD5Fcji9pxUZDZ-_FOXDtLpAl-nEy9GeiVn2HK7Uy8jQlYyYtABHS0F4acebiApw4Jqs5gekS8pQMwI0M3Fiux_NuY2uT2ctGm-dm4tcnSe8g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/05b9e04486c2e24c97c8a56b.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>خوشبختانه احمدرضا حائری، زندانی سیاسی، امروز با پایان دوران محکومیت خود از زندان قزلحصار کرج آزاد شد. آزادی وی ساعاتی پیش، با پایان دوران محکومیت از زندان قزلحصار کرج صورت گرفته است.یغما فشخامی<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅خوشبختانه احمدرضا حائری، زندانی سیاسی، امروز با پایان دوران محکومیت خود از زندان قزلحصار کرج آزاد شد. آزادی وی ساعاتی پیش، با پایان دوران محکومیت از زندان قزلحصار کرج صورت گرفته است.یغما فشخامی\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/147193",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/MjhhLKoE6ap-uaW-LMzpdjq7L0p1TzynUXVvMqPV9rLsS0KMhvu-hIy6EpKH30LlPPpAHGlq1NNhrlHov4UkFty-thB4AFVnY3ICewdTKtWnoUCPyFeLjd5QJcdEfWaof9n5KmvrxB2cW1vYLREXgHKtQp4h83JiQr8DKVS9HCrSFQQzuuPD_8KB3nsVNEBVTR4ngor2vTPwAjRtexC5g5-3VdBTbYymhhRYiWUWhiotMOVZZ4NxJbWtE69LwUqDpNMoUiOlfbwtdQPx2IQ3EyRfcs0jdumyStjc--OuCEZ5bvFUvOJPna1ZbGm4nDKozicn7LVclzb7P-CpmvdBKQ.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/74200a1e13dee03a03dd3fab.jpg",
+          "thumbnail_sha256": "4ec2537b311b4b039e1c587884a44d71bad6027119be3a760ade9b9bef740c6d",
+          "duration_label": null,
+          "aspect_ratio": 1.7818181818181766
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.07K",
+      "posted_at": "2026-09-08T20:39:46+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147193",
+      "reply": null
+    },
+    {
       "id": "sahamnewsorg/147192",
       "author_name": "سهام نیوز",
       "author_photo_url": "https://cdn1.telesco.pe/file/smAW_InWz98OrCURLxT9xranMh7tpFlLWV8zSZVibheTG3rKNcOtlMDWTt5JD8IaKVnpsx9Ot66idtDLHzf9pnQYniC5FGwhRuBWsCRwCX0-Mj9l4ogp_2OpFW0-A9FLwU-A1UcUeCsCK6kk8Lzo21xN1YNrtRrAlaqGaAofukdu1m0nYvC_OEUKkWfqLcQl6GUi6IfPKF71EHtCCM9lOVBTXeyyryPb6CUPK3qxuAD5Fcji9pxUZDZ-_FOXDtLpAl-nEy9GeiVn2HK7Uy8jQlYyYtABHS0F4acebiApw4Jqs5gekS8pQMwI0M3Fiux_NuY2uT2ctGm-dm4tcnSe8g.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "✅خبرنگار صداوسیما: ارتش آمریکا به نفتکش دوم در نزدیکی آب‌های جاسک حمله کرد.\n\nخدمه هر دو نفتکش با قایق نجات در حال انتقال به سمت ساحل جاسک هستند.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "9.3K",
+      "views_label": "11.4K",
       "posted_at": "2026-09-08T20:22:13+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147192",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.3K",
+      "views_label": "12.4K",
       "posted_at": "2026-09-08T20:19:38+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147191",
@@ -65,7 +93,7 @@
       "plain_text": "✅‏ آنچه از ۷ اکتبر از کارشناس‌های بیسواد و کودن در (رسانه ملی) و برخی مسئولان شنیدیم و تمام این تئوری‌ها اشتباه از آب درآمدند:\n\n۱. آمریکا درگیر جنگ اوکراین است و به کمک اسرائیل در جنگ غزه نخواهد آمد؛ اما آمد!\n\n۲. اسرائیل اگر زمینی به غزه حمله کند شکست خواهد خورد زیرا جنگ زمینی تله برای اسرائیل است؛ اما نشد!\n\n۳. اسرائیل توان حمله به حزب‌الله را ندارد، چون حزب‌الله حماس نیست؛ اما حمله کرد!\n\n۴. حمله زمینی به لبنان غیرممکن است، چون توان چنین کاری را ندارند؛ ولی پیش‌روی چشمگیری کرد!\n\n۵. اسرائیل جرات حمله به ایران را ندارد؛ اما حمله کرد!\n\n۶. آمریکا با اسرائیل در حمله به ایران همراه نخواهد شد؛ اما همراه شد!\n\n۷. در صورت بسته شدن تنگه نفت به بالای ۱۰۰ و ۲۰۰ دلار خواهد ماند؛ ولی نماند!\n\n۸. باب‌المندب بسته شود نفت به ۴۰۰دلار خواهد رسید؛ ولی نرسید!\n\nو زمستان سخت در اروپا، کمبود غذا در امارات، اختلال انرژی در غرب و...\n\nکشور درگیر تئوری‌هایی است هرگز درست ازآب درنیامدند!\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "14.7K",
+      "views_label": "16.7K",
       "posted_at": "2026-09-08T20:10:06+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147190",
@@ -81,7 +109,7 @@
       "plain_text": "✅نیروی دریایی سپاه: تمامی نفتکش‌ها در محدودۀ کویت و بحرین تخلیه شوند\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "15.4K",
+      "views_label": "17.4K",
       "posted_at": "2026-09-08T20:07:15+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147189",
@@ -97,7 +125,7 @@
       "plain_text": "✅طباطبایی معاون ارتباطات و اطلاع‌رسانی دفتر رئیس‌جمهور :\n\nرسانه ملی به بلندگوی آن یک نفری تبدیل شده است که در شعام مخالف تفاهم‌نامه بود\n\n🔻اول اسمش سعید جلیلیه\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "18.4K",
+      "views_label": "19.4K",
       "posted_at": "2026-09-08T20:00:37+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147188",
@@ -125,7 +153,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.6K",
+      "views_label": "22.6K",
       "posted_at": "2026-09-08T19:49:58+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147187",
@@ -141,7 +169,7 @@
       "plain_text": "✅قالیباف:در صورت حمله به نفتکش های ایران،\nبه شرکت های انرژی آمریکا در منطقه حمله خواهیم کرد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "23.6K",
+      "views_label": "24.7K",
       "posted_at": "2026-09-08T19:43:21+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147186",
@@ -178,7 +206,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.5K",
+      "views_label": "25.5K",
       "posted_at": "2026-09-08T19:38:47+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147185",
@@ -194,7 +222,7 @@
       "plain_text": "✅تایید حمله آمریکا به نفتکش ایرانی\n\nتسنیم: نفتکش ایرانی در ۴ مایلی جزیره خارگ هدف موشک نیروهای آمریکایی قرار گرفت.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "26.6K",
+      "views_label": "27.6K",
       "posted_at": "2026-09-08T19:32:35+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147184",
@@ -226,7 +254,7 @@
       "plain_text": "✅خبرگزاری رویترز به نقل از یک مقام آمریکایی گزارش داد:\n\n🔸 زیردریایی بدون سرنشینی که در خاورمیانه از کار افتاد، مدل قدیمی است و تجهیزات سونار طبقه‌بندی‌شده را حمل نمی‌کند.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "39.9K",
+      "views_label": "40.9K",
       "posted_at": "2026-09-08T18:13:41+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147182",
@@ -263,7 +291,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "41.4K",
+      "views_label": "42.4K",
       "posted_at": "2026-09-08T18:04:25+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147181",
@@ -307,7 +335,7 @@
       "plain_text": "✅بریتانیا فرود هواپیماهای ایرانی را ممنوع کرد\n\n🔸 دولت بریتانیا در چارچوب بسته جدید تحریم‌ها علیه ایران، فرود هواپیماهای ایرانی در این کشور را ممنوع کرده است؛ مگر در مواردی که معافیت مشخصی صادر شود.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "42K",
+      "views_label": "43K",
       "posted_at": "2026-09-08T17:42:50+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147179",
@@ -335,7 +363,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "41.6K",
+      "views_label": "42.6K",
       "posted_at": "2026-09-08T17:34:27+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147178",
@@ -395,7 +423,7 @@
       "plain_text": "✅میلیبند وزیر خارجه انگلیس:\n\nواردات محصولات از شهرک‌های اسرائیلی را ممنوع خواهیم کرد.\n\nاختلاف ما با مردم اسرائیل نیست؛ ما با مردم اسرائیل روابطی محکم و پایدار داریم.\n\nاختلاف ما با عملکرد دولت اسرائیل است.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "46.5K",
+      "views_label": "47.5K",
       "posted_at": "2026-09-08T15:56:51+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147175",
@@ -2315,34 +2343,6 @@
       "posted_at": "2026-09-06T14:28:02+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147093",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147092",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/642684be024870091c2036fb.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>به علت افزایش قیمت موبایل، دزدی خیلی زیاد شده. زیر 5 ثانیه آیفون 13 یه دخترو دزدیدن!</b><br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
-      "plain_text": "✅به علت افزایش قیمت موبایل، دزدی خیلی زیاد شده. زیر 5 ثانیه آیفون 13 یه دخترو دزدیدن!\n\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/sahamnewsorg/147092",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/MklNWD3YIxKNqi5KbNIoecFBORez3on5IiYkndubgWThPfdDloYsJC3mhtaeNmIfgmeKwivHKDJEd98eqLezxYSCyXis3D2lKeZF-hJsnSVyg2wmRIqJqxvpYPmXDkzefJ-5oGHhf-SFKwTYqRr39B4epLKbA_E-flzkUaLGmpEip4p45WeY1ZYxZWRBkhSsprvByyNTGTh_EMI83lTD02jnO3a3DGXIQB5VO5zij3heh83pCdlue3wpJjltub5h9zNGp5Xqg-NdyrJVIHFr7IEhWPcL5wiNlZncUZ7B89HtmN8FsVBLb5lCX79P2wc4QipyhB9UyM4QZrTgJ67nmQ",
-          "thumbnail_path": "channels/sahamnewsorg/media/b435fe0b210abfbc4553c8dc.jpg",
-          "thumbnail_sha256": "806d88080442677f57016d7f2d5c805a729b1f5f8dc3c45e95dc457873853632",
-          "duration_label": "0:25",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "60.2K",
-      "posted_at": "2026-09-06T14:21:00+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147092",
       "reply": null
     }
   ]
