@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T05:42:11.175Z",
+  "fetched_at": "2026-09-08T05:47:15.170Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356247",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت هم‌زمان با تشدید درگیری‌ها میان نیروهای دولت یمن و حوثی‌ها، محدود شدن مسیرهای ارسال تسلیحات از ایران و افزایش حضور نظامی آمریکا در منطقه، معادلات یمن و تنگه هرمز وارد مرحله تازه‌ای شده است.<br><br>هم‌زمان، تحرکات سنتکام و ادامه عبور محدود کشتی‌ها از تنگه هرمز بر حساسیت شرایط افزوده است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "کامبیز توانا، عضو تحریریه ایران‌اینترنشنال، گفت هم‌زمان با تشدید درگیری‌ها میان نیروهای دولت یمن و حوثی‌ها، محدود شدن مسیرهای ارسال تسلیحات از ایران و افزایش حضور نظامی آمریکا در منطقه، معادلات یمن و تنگه هرمز وارد مرحله تازه‌ای شده است.\n\nهم‌زمان، تحرکات سنتکام و ادامه عبور محدود کشتی‌ها از تنگه هرمز بر حساسیت شرایط افزوده است.\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356247",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/XnwkNa1uiPy-iVOFz2cM2gNfFFFsF0Oqn5IVftW5bKea6WkB58Gyq3cba-WeT4EFDP39ksJ10-MZtP_Eed4jPZ5XAOzELMqqNF_5eZ87qyGtWM1KYEtsrk6YaLEQmO5YzPraPF46eE_lCPt6Y8rUot_seDf16xM_a6GhkrguUGOCsfYLaHhmOSX75fXRPan9P9STViJiAVt5CTyCZzBxTaHmXczPflfnc9s7wfRr19xv2IooSwizz9i9EK9x7UAPmnvSkiMzgjJ-3YbMLb5TRt3Ipd87BlZHsZNyrj5_qRoz-nJm-IKB1D9K01ru2ahEdUitBoII5oCpij2dv93yug",
+          "thumbnail_path": "channels/iranintltv/media/fefb9715e6aa5ab0b59bd90e.jpg",
+          "thumbnail_sha256": "556cf7c2562f229a9c255e51f1d165c42a3d97c52bbff193c47adcf250ba0666",
+          "duration_label": "4:51",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.08K",
+      "posted_at": "2026-09-08T05:42:45+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356247",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356246",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.03K",
+      "views_label": "4.14K",
       "posted_at": "2026-09-08T05:40:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356246",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.04K",
+      "views_label": "5.17K",
       "posted_at": "2026-09-08T05:39:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356245",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.6K",
+      "views_label": "13.6K",
       "posted_at": "2026-09-08T05:21:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356244",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.7K",
+      "views_label": "14.7K",
       "posted_at": "2026-09-08T05:18:31+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356243",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.7K",
+      "views_label": "13.7K",
       "posted_at": "2026-09-08T05:16:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356242",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.6K",
+      "views_label": "12.7K",
       "posted_at": "2026-09-08T05:16:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356241",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.6K",
+      "views_label": "13.7K",
       "posted_at": "2026-09-08T05:12:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356240",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16.9K",
+      "views_label": "19K",
       "posted_at": "2026-09-08T05:01:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356239",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.1K",
+      "views_label": "22.2K",
       "posted_at": "2026-09-08T04:49:43+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356238",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.7K",
+      "views_label": "31.8K",
       "posted_at": "2026-09-08T04:22:26+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356237",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.3K",
+      "views_label": "40.3K",
       "posted_at": "2026-09-08T03:15:31+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356235",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.4K",
+      "views_label": "40.4K",
       "posted_at": "2026-09-08T03:05:18+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356234",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "46.3K",
+      "views_label": "47.3K",
       "posted_at": "2026-09-08T02:01:48+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356232",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "44K",
+      "views_label": "44.1K",
       "posted_at": "2026-09-08T01:33:38+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356230",
@@ -509,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "43.6K",
+      "views_label": "44.6K",
       "posted_at": "2026-09-08T00:57:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356229",
@@ -537,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "43.4K",
+      "views_label": "44.4K",
       "posted_at": "2026-09-08T00:35:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356228",
@@ -565,7 +593,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "42K",
+      "views_label": "43.1K",
       "posted_at": "2026-09-08T00:28:47+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356227",
@@ -2744,34 +2772,6 @@
       "posted_at": "2026-09-07T13:11:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356146",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356145",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "بر اساس ویدیوی رسیده به ایران‌اینترنشنال، گروهی از بازنشستگان مخابرات در اصفهان برای اعتراض به وضعیت معیشتی خود اعتراض کردند و شعارهایی چون «مخابرات رو ما ساختیم، سپاه برد و ما باختیم» سردادند.",
-      "plain_text": "بر اساس ویدیوی رسیده به ایران‌اینترنشنال، گروهی از بازنشستگان مخابرات در اصفهان برای اعتراض به وضعیت معیشتی خود اعتراض کردند و شعارهایی چون «مخابرات رو ما ساختیم، سپاه برد و ما باختیم» سردادند.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356145",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ocF3R1KZ4mviyx13R1y9P5WuKKQivWRUMteyio2gR-Tb-yLedIDpvdF18E7_lYNo_iAF6242s1d4db-IORyfVm01HXuW_0y6somXmJrYV9kb-rLfZ8R1_gZ5A6sxYEosyVHA5LiN0EgLL6Rs8bGQPAWH7ScJloXeZedZWuTsK72miFDDfBUkZ2mhFZ8xtRUvZ2YcIE8gNbdHtWFs3sGg05J6B4n2xVVMPY0y8A8S1JCvX90qxZR_rK0Rgm6T0XaXPPEigYtx1-cCslpaJkmLIkcLPfvgwJZjvv4zISQrEL_z7eBH9gcjfDEnPL2XIN8bRsnpF5bQYriQ8wmLEzwt_w",
-          "thumbnail_path": "channels/iranintltv/media/8eb8bd2459100f053ec11f2d.jpg",
-          "thumbnail_sha256": "dc6d818a042f6dfc0d97dff2c6c415869fc064ec84a8e810b15c098b121acc43",
-          "duration_label": "0:43",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "38.4K",
-      "posted_at": "2026-09-07T13:02:53+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356145",
       "reply": null
     }
   ]
