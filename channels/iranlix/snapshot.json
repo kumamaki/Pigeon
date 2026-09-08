@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T10:31:33.468Z",
+  "fetched_at": "2026-09-08T10:36:33.299Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12708",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l_9ufMfFpJ25r_afGsqRdLe1TBpEdGtQubrLV3heTp0xaKy_3bOMj2CgWrdIc1UpDv6BDR1CUz7LUOwlbGt6cwYajWQXJCUkSLc4mDg8KVE14zTZ9LwGvkwqm71diFwCbH2nViIRdsbm6NTEHx-FPiGHK2If0glqgKIwFN6E3fpPfXG4L5B_8u0lF9SlI9JysGs-RP3ETL5mlmlmj6cRJFK1sNdtj7tP4DYND499o8XinHXPyv-COryBv7foYUzrzsqsk-AuzXwXdGL2-S-fyV30ffZpU_JFFsxZW8baXEnEFumOwn_VcgVB9V_D4tzEEogyHXtPWDrMkW0xK7JN9Q.jpg",
+      "author_photo_path": "channels/iranlix/media/cea36268eb0d26be31369b06.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i>‏<b> آتش‌سوزی‌ گسترده پالایشگاه نفت جازان در پی حملات شب گذشته تروریستهای حوثی<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i>پالایشگاه نفت جازان عربستان همچنان در حال سوختن است</b>.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "♦️‏ آتش‌سوزی‌ گسترده پالایشگاه نفت جازان در پی حملات شب گذشته تروریستهای حوثی\n\n♦️پالایشگاه نفت جازان عربستان همچنان در حال سوختن است.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/iranlix/12708",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": null,
+          "thumbnail_path": null,
+          "thumbnail_sha256": null,
+          "duration_label": "0:05",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "54",
+      "posted_at": "2026-09-08T10:32:14+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12708",
+      "reply": null
+    },
     {
       "id": "iranlix/12707",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "60",
+      "views_label": "106",
       "posted_at": "2026-09-08T10:28:29+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12707",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "118",
+      "views_label": "162",
       "posted_at": "2026-09-08T10:21:59+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12706",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "376",
+      "views_label": "400",
       "posted_at": "2026-09-08T09:40:57+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12705",
@@ -105,7 +133,7 @@
       "plain_text": "آی مردم! اگه با برادران گمنام موسی 🇮🇱 ارتباط دارید بهشون بگید : این قیچک بچه های لانچر و مانچر... جرات ندارن سمت اسرائیل حتی یک ریگ پرت کنن. ندارن آقا! مثل سوسک که از امشی میترسه، میترسن!\nولشون کنین. اینکاره نیستن، فقط 💩 تناول میکنن!\nتمام فرماندهاشونم که سقط کردین، کسی نمونده! فک کردید محسن چپ چُس (رضایی) یا اون یکی مجید قشنگ (موسوی)‌یا مجتبی جرات دارند؟\nنــــــــــــدارن، باباشونم نداره!\n\n@iranlix",
       "media": [],
       "reactions": [],
-      "views_label": "411",
+      "views_label": "432",
       "posted_at": "2026-09-08T09:35:51+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12704",
@@ -142,7 +170,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "470",
+      "views_label": "493",
       "posted_at": "2026-09-08T09:22:50+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12703",
@@ -170,7 +198,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "455",
+      "views_label": "473",
       "posted_at": "2026-09-08T09:21:25+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12702",
@@ -209,7 +237,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "444",
+      "views_label": "462",
       "posted_at": "2026-09-08T09:20:02+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12700",
@@ -237,7 +265,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "577",
+      "views_label": "594",
       "posted_at": "2026-09-08T08:53:11+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12699",
@@ -265,7 +293,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "609",
+      "views_label": "627",
       "posted_at": "2026-09-08T08:38:45+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12698",
@@ -293,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "853",
+      "views_label": "864",
       "posted_at": "2026-09-08T06:55:10+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12697",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "947",
+      "views_label": "957",
       "posted_at": "2026-09-08T06:16:26+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12696",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "979",
+      "views_label": "988",
       "posted_at": "2026-09-08T05:48:28+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12695",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "979",
+      "views_label": "986",
       "posted_at": "2026-09-08T05:47:10+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12694",
@@ -461,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.42K",
+      "views_label": "1.43K",
       "posted_at": "2026-09-07T21:28:38+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12691",
@@ -517,7 +545,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.49K",
+      "views_label": "1.5K",
       "posted_at": "2026-09-07T19:47:50+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12689",
@@ -2900,34 +2928,6 @@
       "posted_at": "2026-09-05T18:22:26+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12602",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12601",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/P6wlknCu4KydGDASnYIJkSL42jXufROUjwRrm01v7d51p3YBEx4rkQqYs2krFRd4LHxq08mmEy2TgCu4J08n1ZSq4paFfXykL6OUFFjnmHtPmJBtBzfKlwmoLApVk-hNCwoL_o5_BhnH1XV2kRj1D9AC6GrktP5S1x_N6bbjtspXBjUWiGZM-RyGHabxIzRLAK0ahjPnDYjTX3GkA8zCiRKYeBgBZ2IZIJafC1T4hqw3d7cILAqS-xr4k_jJzzVdlQM_10wXECCBz6Ghjgv3P7yq1mMYdKuv0PT6kTc0TA6UOTJAVRnZgMZXVG41AUnWWGzcvDjcbkzyxVcxRpZqtg.jpg",
-      "author_photo_path": "channels/iranlix/media/140d7098768bcd69ed55b2fa.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>کانال 15 اسرائیل:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>در آستانه تشدید تنش‌ها؛ ج.ا در حال برنامه‌ریزی برای ایجاد ناآرامی در منطقه است، و در اسرائیل ادعا می‌کنند که تهران در حال بررسی هدف قرار دادن اهدافی در اسرائیل است.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔻کانال 15 اسرائیل:\n\n🔸در آستانه تشدید تنش‌ها؛ ج.ا در حال برنامه‌ریزی برای ایجاد ناآرامی در منطقه است، و در اسرائیل ادعا می‌کنند که تهران در حال بررسی هدف قرار دادن اهدافی در اسرائیل است.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/12601",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/HPXDrHDVcGlMyWVwCizOrjhm57XGx4pDYbD8CWDbqjwQNoxEvW09EeO4GGdRazLbepliIkqFCRboR5PFqH-oZb_-tyBgrbMi0cHqfyatzyWEiHYSW9nblP-imZdGGUzTC86m5aUHcfW1gzvnlDsfJAYNOq949ZKwotOyfz8LJ6a3nJwRAF1ijSKtkC7AzO7FePa098dwvzrmNXspMNT6lKyFO_Oza6eUciw5tV5bCWD32552AxylFGUE7gNursz1mxGkmB-hpt174NDHW5TwPwM7tXkhZKe7Kyp5SgU4BQQRQilppB6YqJeWRH9cfhYesBWOKCxr9LlWHLEkVs95Pg.jpg",
-          "thumbnail_path": "channels/iranlix/media/d1fd4f003ed30a6184c828cb.jpg",
-          "thumbnail_sha256": "aee3a379befd9f718676d592879ea9af3ec97b152496aefbdd32c7920f0b9e1f",
-          "duration_label": null,
-          "aspect_ratio": 1.4999999999999925
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.39K",
-      "posted_at": "2026-09-05T17:53:37+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12601",
       "reply": null
     }
   ]

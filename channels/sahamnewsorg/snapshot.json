@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T10:31:36.317Z",
+  "fetched_at": "2026-09-08T10:36:36.686Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -11,6 +11,34 @@
     "subscriber_count": "217K"
   },
   "posts": [
+    {
+      "id": "sahamnewsorg/147165",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/FKF1cckJAUtPCvrEDvhdUz7NZYvAf1EHIJitsyRN8VE6idlFJSlSu2K2xwDGVxKifuLkRZo545Eqoc49ZLmPoSTyOLoyCKDmEN3g4SAk_F1iRgeiTdyhFUQAMgLZ_i79FYzHGzdPVDjFbMrSBqkn52UyYzaCp3ckUiaqX6ED8F0x46VghW61EdReQFxfqL1FfFJD5tD1JPbY4-VlLtyHG_j1T88K3wFHTxO0-qIYXcQF7V695Ey_HoDkfis8UETFy0hyQ9WdEneqSKbA4wd5fYVnHLYawYY5EhbuuZ_X_366M-abZdl4zvZZQgVaE4H3IDNMUExb2Ss8l2_ckTXB3A.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/bf7f0b170836be3cfa34280a.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>شهریار شمس، زندانی سیاسی محبوس در زندان دامغان، در یک پیام صوتی از شکنجه معترضان بازداشت‌شده دی‌ماه توسط ضابطان وزارت اطلاعات خبر داده است.<br><br>او می‌گوید از حدود ۵۰ زندانی محبوس در بند او، ۲۹ نفر به دلایل سیاسی زندانی‌اند و همگی از بازداشت‌شدگان اعتراضات دی‌ماه هستند.<br><br>به گفته شهریار شمس، آثار کبودی بر بدن اکثر این زندانیان دیده می‌شود. او می‌گوید برخی شلاق خورده‌اند، برخی مورد تعرض قرار گرفته یا به تجاوز تهدید شده‌اند و از آن‌ها زیر شکنجه اعتراف گرفته شده است.<br><br>شمس در بخشی از این فایل صوتی می‌گوید ماموران برای شکنجه یکی از بازداشت‌شدگان «اسلحه را در دهان او گذاشته بودند».<br><br>به گفته این زندانی سیاسی، برای بسیاری از معترضان زندانی در دامغان قرار وثیقه صادر شده، اما فشار نهادهای امنیتی مانع آزادی آن‌ها شده <a href=\"http://%D8%A7%D8%B3%D8%AA.%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/\" target=\"_blank\" rel=\"noopener\">است.ایران</a> وایر<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅شهریار شمس، زندانی سیاسی محبوس در زندان دامغان، در یک پیام صوتی از شکنجه معترضان بازداشت‌شده دی‌ماه توسط ضابطان وزارت اطلاعات خبر داده است.\n\nاو می‌گوید از حدود ۵۰ زندانی محبوس در بند او، ۲۹ نفر به دلایل سیاسی زندانی‌اند و همگی از بازداشت‌شدگان اعتراضات دی‌ماه هستند.\n\nبه گفته شهریار شمس، آثار کبودی بر بدن اکثر این زندانیان دیده می‌شود. او می‌گوید برخی شلاق خورده‌اند، برخی مورد تعرض قرار گرفته یا به تجاوز تهدید شده‌اند و از آن‌ها زیر شکنجه اعتراف گرفته شده است.\n\nشمس در بخشی از این فایل صوتی می‌گوید ماموران برای شکنجه یکی از بازداشت‌شدگان «اسلحه را در دهان او گذاشته بودند».\n\nبه گفته این زندانی سیاسی، برای بسیاری از معترضان زندانی در دامغان قرار وثیقه صادر شده، اما فشار نهادهای امنیتی مانع آزادی آن‌ها شده است.ایران وایر\n\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/147165",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/OTYQmQUw-nRpHmWxYSR9VHVmeO2CZkTwWJhnwFaTen8s6Q38yDPKPx5MFfFLN7vvcnJvuKZJhAuJE21SjnYLceebS7_tqDD1f_oGAx97N4h6WV_PEUUMvTWCrMrScRLYBSYlrzzPCUPKc0REAIiLb3DRKbsxLJrap8gtAMtwgMZjOPzNOxKw_ExLE-pl-4h8gZO2dOfGVu3TF_VzWC2Uy01PmzDl7FuePaVFBLuS3dre8dNTij89b3cSU3FcCoBFnq3K2rcE3W8Y7Ty7OnLTnjIYFT_NwTCOvXn03cGUfRoAsa5fmfUGRXnQgrJHMp3X3XgLSimRBw3Hf9L2bDADTg.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/b83292eb7aab330df95c92bc.jpg",
+          "thumbnail_sha256": "b8686e8cd79e5b705d08543dd74686fc1413bdaf8b80b4a16b38ceba20527821",
+          "duration_label": null,
+          "aspect_ratio": 0.9337500000000262
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.54K",
+      "posted_at": "2026-09-08T10:33:23+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147165",
+      "reply": null
+    },
     {
       "id": "sahamnewsorg/147164",
       "author_name": "سهام نیوز",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16.3K",
+      "views_label": "17.8K",
       "posted_at": "2026-09-08T09:39:26+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147164",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.5K",
+      "views_label": "18.8K",
       "posted_at": "2026-09-08T09:31:22+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147163",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.2K",
+      "views_label": "23.1K",
       "posted_at": "2026-09-08T09:12:30+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147162",
@@ -105,7 +133,7 @@
       "plain_text": "✅ابن الرضا سرپرست وزارت دفاع: توان زدن ناو‌های محاصره‌کننده آمریکایی را داریم؛ ان‌شاءالله نتایجش را می‌بینید\n\n🔻حداد عادل ۲۰ سال پیش وعده داد ایران رو تبدیل به ژاپن اسلامی خواهیم کرد حالا معلوم شده دامادش می خواد ایران رو تبدیل به هیروشیمای ژاپن در زمان جنگ جهانی دوم کند\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "22.5K",
+      "views_label": "23.4K",
       "posted_at": "2026-09-08T09:09:32+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147161",
@@ -121,7 +149,7 @@
       "plain_text": "✅عارف معاون اول رئیس جمهور :\n\nقیمت واقعی بنزین ۷۰ تا ۸۰ هزار تومان است ولی دولت اعتقادی به رفتار ناگهانی ندارد.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "24.6K",
+      "views_label": "25.5K",
       "posted_at": "2026-09-08T08:53:46+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147160",
@@ -137,7 +165,7 @@
       "plain_text": "✅قیمت نفت برنت به مرز ۹۹ دلار رسید. /مهر\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "24.9K",
+      "views_label": "25.5K",
       "posted_at": "2026-09-08T08:49:44+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147159",
@@ -165,7 +193,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.9K",
+      "views_label": "26.8K",
       "posted_at": "2026-09-08T08:45:12+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147158",
@@ -193,7 +221,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.1K",
+      "views_label": "27.7K",
       "posted_at": "2026-09-08T08:27:56+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147157",
@@ -209,7 +237,7 @@
       "plain_text": "✅نیکزاد نایب‌رئیس مجلس: به‌خاطر حجاب در سفرها دچار تردید می‌شوم که واقعا اینجا ایران است یا خیر\n\n🔻ایکاش به خاطر فقر، فلاکت و تورم ۱۳۰ درصدی هم دچار تردید می شدی که اینجا ایران است یا خیر\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "29.2K",
+      "views_label": "29.8K",
       "posted_at": "2026-09-08T08:15:07+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147156",
@@ -237,7 +265,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.8K",
+      "views_label": "31.4K",
       "posted_at": "2026-09-08T08:03:50+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147155",
@@ -253,7 +281,7 @@
       "plain_text": "✅سخنگوی قوه‌قضائیه: محمدباقر خرازی در بازداشت است و پرونده‌اش هنوز به مرحلهٔ صدور کیفرخواست و حکم نرسیده است.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "29.8K",
+      "views_label": "30.5K",
       "posted_at": "2026-09-08T07:58:22+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147154",
@@ -281,7 +309,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.7K",
+      "views_label": "33.3K",
       "posted_at": "2026-09-08T07:41:58+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147153",
@@ -309,7 +337,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "61.8K",
+      "views_label": "62.1K",
       "posted_at": "2026-09-07T23:00:09+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147152",
@@ -365,7 +393,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "60.6K",
+      "views_label": "60.9K",
       "posted_at": "2026-09-07T21:57:57+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147150",
@@ -381,7 +409,7 @@
       "plain_text": "✅وزیر دفاع یمن: تصمیم برای تصرف صنعا و دیگر استان‌های تحت کنترل حوثی‌ها گرفته شده است.\n\nاو گفت: «آماده‌سازی‌ها با تمام سرعت در حال انجام است. غافلگیری‌هایی وجود دارد که فعلاً فاش نمی‌کنیم، اما در آینده‌ای نزدیک شاهد تحرکات میدانی خواهیم بود.»\n\nالصبری حوثی‌ها را مسئول آغاز جنگ دانست و گفت نبرد برای بازگرداندن دولت و جمهوری و آزادسازی تمامی خاک یمن ادامه دارد.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "56K",
+      "views_label": "56.3K",
       "posted_at": "2026-09-07T21:42:26+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147149",
@@ -409,7 +437,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "59.9K",
+      "views_label": "60.2K",
       "posted_at": "2026-09-07T20:54:25+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147148",
@@ -437,7 +465,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "58.6K",
+      "views_label": "58.9K",
       "posted_at": "2026-09-07T20:42:17+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147147",
@@ -465,7 +493,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "55.5K",
+      "views_label": "55.8K",
       "posted_at": "2026-09-07T20:36:29+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147146",
@@ -2351,22 +2379,6 @@
       "posted_at": "2026-09-05T21:15:00+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147065",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147064",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/SOVULoyiTPdbKkdDtb14ex7CCIYiKd0E3IQ_pAwzpszpYjPlbgmGHJk-U2NgxOC3Stk9AJoczLETdelSlC93P4CeM9v2Zqfx9kWDAZFQ16u7-NJWFEx0etkWtHjEudvVUmYP6dfkQ8qZmdrl9xym7IAckh_FSqly1nCblYMFZtUD-FHaogzqWnEl2Z5WAcX3n_-LZ1YgFPm5RXpfgGC5vQxB-GXbN4qpdoxbAjxKN5uKI-E5XsX5Lc7NzLsBHn1v38of2J5VoJxrPMxWxMK6GvjEiswagBGK5KJ0Y7TLC6qKaVNHPsiMSXFUboz0VT3EkLbViiQkwWEUlrqDN1CZGg.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/0dc496d06932e4cf0e256da8.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>میدونستین ۴۵ هزار تومن یارانه نقدی که سال ۸۹ پرداخت میشد به نسبت دلار و با احتساب تورم دلار، الان معادل ۱۴ میلیون تومن میشه یعنی به پول الان یه خانواده ۵ نفره ماهی ۷۰ میلیون تومن یارانه نقدی میگرفت، با طلا هم حساب کنی معادل ۱.۳ گرم طلا بود یعنی نفری ۳۰ میلیون تومن الان.<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅میدونستین ۴۵ هزار تومن یارانه نقدی که سال ۸۹ پرداخت میشد به نسبت دلار و با احتساب تورم دلار، الان معادل ۱۴ میلیون تومن میشه یعنی به پول الان یه خانواده ۵ نفره ماهی ۷۰ میلیون تومن یارانه نقدی میگرفت، با طلا هم حساب کنی معادل ۱.۳ گرم طلا بود یعنی نفری ۳۰ میلیون تومن الان.\n@Sahamnewsorg",
-      "media": [],
-      "reactions": [],
-      "views_label": "54.7K",
-      "posted_at": "2026-09-05T21:06:13+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147064",
       "reply": null
     }
   ]
