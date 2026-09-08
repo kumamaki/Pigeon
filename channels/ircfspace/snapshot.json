@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T16:36:40.533Z",
+  "fetched_at": "2026-09-08T16:41:39.152Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -11,6 +11,47 @@
     "subscriber_count": "96.3K"
   },
   "posts": [
+    {
+      "id": "ircfspace/2593",
+      "author_name": "IRCF | اینترنت آزاد برای همه",
+      "author_photo_url": "https://cdn1.telesco.pe/file/abLHLQ7tS_nDGF3NFbVmkGjDtyFJW1V8wjsn4TqehlMr_1n9wbuY-pQe4t_LU-awIpU_iXAUwiUTlak7XpKxPB_Pjk4xy89evH9dFDrLu_DDcd7TWkkugJ_O6RWzCClfClo2_Dlu-PmHY84W6wmglGcNHFrStOFr6nCvhfNQzVp86hpyIZ4TjldkacU3pS_EFIiwfU8CMdlKx_po7G7r1lneXuAGVHsFJbDBnrDcairvY3muUGEXE5SqAvpvmlER9xcdPavXgY-6nf7E5emLcOGU5bLiZkPa9HYU14gvgj3IFcMCJ_L4XKKHHzZdOmL4Bvb6_i4J3SoJizSlVwR25w.jpg",
+      "author_photo_path": "channels/ircfspace/media/9896fd5a699e8e4a76272c7a.jpg",
+      "author_photo_sha256": "158f2dc02d1e6a05c082153b128dee184884a3f1159a3f635b1a111432f7eabc",
+      "body_html": "گوگل یک آسیب‌پذیری روز صفر با شناسه CVE-2026-85046 را در موتور V8 کروم تأیید کرده و هشدار داده که هکرها از آن در حملات واقعی سوءاستفاده می‌کنند. <br>این نقص ممکن است با هدایت کاربر به یک صفحه آلوده فعال شود و مهاجمان را قادر به اجرای کد مخرب، سرقت اطلاعات یا از کار انداختن مرورگر کند.<br>لازم است پس از به‌روزرسانی، مرورگر را حتماً دوباره راه‌اندازی کنید. /فیلتربان<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴡᴇʙꜱɪᴛᴇ</a> • <a href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴠᴘɴʜᴜʙ</a> • <a href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
+      "plain_text": "گوگل یک آسیب‌پذیری روز صفر با شناسه CVE-2026-85046 را در موتور V8 کروم تأیید کرده و هشدار داده که هکرها از آن در حملات واقعی سوءاستفاده می‌کنند.\nاین نقص ممکن است با هدایت کاربر به یک صفحه آلوده فعال شود و مهاجمان را قادر به اجرای کد مخرب، سرقت اطلاعات یا از کار انداختن مرورگر کند.\nلازم است پس از به‌روزرسانی، مرورگر را حتماً دوباره راه‌اندازی کنید. /فیلتربان\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/ircfspace/2593",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/T9Nmq2xXLcTsK2dJdRQkhhjxMTtL1XK_H2ewadCvl6fV68LxXw56IMzkI5WvFsAhKtUeL98T3PIUKgL72lq0RoiNucAI7rq4ZNsghFNPz0jCCoeTzoE0cWNfvVu5rZwUOHzpy2b1ih0Ob0Bhc15ycktLOcEIlulSla21uP38fwV8viheOyzDVWqfdc100GK2PprQAen9p6d5e2xDwTWbD077E5sPp0sBbheIVFB-fOV5z8ByCifExXqMhqOmwrFhnPDHk79Uf1EY6GthPlqjNAtAllgHsJL_B7YUnFMT_izgTlFcoQTEPVtbygY9UeYxBZJIdo3tDidwsmLLZuTFhg.jpg",
+          "thumbnail_path": "channels/ircfspace/media/a7c9c43ec70b58e882339f39.jpg",
+          "thumbnail_sha256": "2e7efa4699e4d6665bde2930ef52075d7c7532744a3b5a7df51c94c6c93d2ff9",
+          "duration_label": null,
+          "aspect_ratio": 1.5748031496062993
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "👏",
+          "count": "4"
+        },
+        {
+          "emoji": "👍",
+          "count": "3"
+        },
+        {
+          "emoji": "😁",
+          "count": "1"
+        }
+      ],
+      "views_label": "227",
+      "posted_at": "2026-09-08T16:40:39+00:00",
+      "edited": true,
+      "permalink": "https://t.me/ircfspace/2593",
+      "reply": null
+    },
     {
       "id": "ircfspace/2592",
       "author_name": "IRCF | اینترنت آزاد برای همه",
@@ -35,15 +76,19 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "114"
+          "count": "118"
         },
         {
           "emoji": "❤",
-          "count": "34"
+          "count": "36"
         },
         {
           "emoji": "💯",
           "count": "7"
+        },
+        {
+          "emoji": "🏆",
+          "count": "4"
         },
         {
           "emoji": "👎",
@@ -55,10 +100,6 @@
         },
         {
           "emoji": "🤡",
-          "count": "3"
-        },
-        {
-          "emoji": "🏆",
           "count": "3"
         },
         {
@@ -74,7 +115,7 @@
           "count": "1"
         }
       ],
-      "views_label": "5.71K",
+      "views_label": "5.97K",
       "posted_at": "2026-09-08T15:23:45+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2592",
@@ -104,11 +145,11 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "108"
+          "count": "110"
         },
         {
           "emoji": "😱",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "😐",
@@ -119,7 +160,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.28K",
+      "views_label": "6.51K",
       "posted_at": "2026-09-08T15:13:29+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2591",
@@ -149,7 +190,7 @@
       "reactions": [
         {
           "emoji": "😐",
-          "count": "155"
+          "count": "156"
         },
         {
           "emoji": "😁",
@@ -168,7 +209,7 @@
           "count": "2"
         }
       ],
-      "views_label": "7.76K",
+      "views_label": "7.86K",
       "posted_at": "2026-09-08T14:41:39+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2590",
@@ -198,7 +239,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "325"
+          "count": "328"
         },
         {
           "emoji": "❤",
@@ -221,7 +262,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.93K",
+      "views_label": "9.06K",
       "posted_at": "2026-09-08T14:24:46+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2589",
@@ -255,7 +296,7 @@
         },
         {
           "emoji": "❤",
-          "count": "210"
+          "count": "214"
         },
         {
           "emoji": "👏",
@@ -278,7 +319,7 @@
           "count": "1"
         }
       ],
-      "views_label": "10.1K",
+      "views_label": "10.3K",
       "posted_at": "2026-09-08T13:52:25+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2588",
@@ -506,7 +547,7 @@
           "count": "1"
         }
       ],
-      "views_label": "16.6K",
+      "views_label": "16.7K",
       "posted_at": "2026-09-07T05:23:54+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2584",
@@ -536,7 +577,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "81"
+          "count": "82"
         },
         {
           "emoji": "❤",
@@ -681,7 +722,7 @@
           "count": "1"
         }
       ],
-      "views_label": "19.7K",
+      "views_label": "19.8K",
       "posted_at": "2026-09-06T03:47:35+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2581",
@@ -1056,7 +1097,7 @@
           "count": "4"
         }
       ],
-      "views_label": "40K",
+      "views_label": "40.1K",
       "posted_at": "2026-08-30T08:22:53+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2574",
@@ -5664,63 +5705,6 @@
       "posted_at": "2026-07-14T16:02:21+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2493",
-      "reply": null
-    },
-    {
-      "id": "ircfspace/2492",
-      "author_name": "IRCF | اینترنت آزاد برای همه",
-      "author_photo_url": "https://cdn1.telesco.pe/file/JQbf_TA0orSXGdmoAuY_SWzOsDAOYgsZnlQ0gY7iurU8WUmlg7fTBa4jA-yGMFcTmqzuHb6d2s-4Rq-n60MmYh-kpwVuULRr6fvNnF5C2EVVDhLELDSlqnW_H3kGjZs1B7uWGYZx7eX-DoyogKUL8QL1gmw3vUuJoDIytBF7M9ODoRiqYOYaWUDwOqMJK9XGbqdoGlgXxaj83r4eITiC4cYWY2w2JnstQhtrPXypRQnUk2jpVlyyy6f0XzoFxwFHqKtgrVqZk6S9SBYvJ94ZEd48slggsDJOd08d6Korl0PCCsSpBAzYtBY5AKrJrXCmEqdThYeeMD8ynV7xa7m8lQ.jpg",
-      "author_photo_path": "channels/ircfspace/media/b8fd8fcec2dc8fbaeacaf08a.jpg",
-      "author_photo_sha256": "158f2dc02d1e6a05c082153b128dee184884a3f1159a3f635b1a111432f7eabc",
-      "body_html": "دامین <code>t.me</code> که بدلیل تحریم‌های وزارت خزانه‌داری امریکا مسدود شده بود، مجدد فعال شد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/C2A9.png')\"><b>©</b></i> Linuxmaster14<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴡᴇʙꜱɪᴛᴇ</a> • <a href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴠᴘɴʜᴜʙ</a> • <a href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
-      "plain_text": "دامین t.me که بدلیل تحریم‌های وزارت خزانه‌داری امریکا مسدود شده بود، مجدد فعال شد.\n\n© Linuxmaster14\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/ircfspace/2492",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/Uj7-hokm4kbeJSy7J7a28gMNTDYy7OqWPWB1Wx0xpiU276ujZkfub6lKLo9LZ1z36Hm2Xu0V5oA5eZB0Gp_A9jjULU9zh57X3h89mhLSNwQGVSMG_h0rxvq3bIXWLABBCbvrf3Pecm1Pq-OVQAyWP95K4c7cGPbq8GDdnAyD9ch5zRhUwyT_J6LHLWotzWnmG_RMvRsRv0RjcNYvNZ6xBZKn1C5Jx6K9QEC0T_IBDvi_IfR2zdOiDOvT6_EHYnFyVz7M_CR5VyG_dbbvQZZrs9KwNG7axVcnCQ85XC-kspTrGC066gTFofRNoLueHsfzbXai2SXB4U4P0vw7PVMhFw.jpg",
-          "thumbnail_path": "channels/ircfspace/media/0a1fc41697dede9b646428e2.jpg",
-          "thumbnail_sha256": "447dacabc2e7daa67475391ec8122dd436bf4c72336eaf82a95857fa2f7a510b",
-          "duration_label": null,
-          "aspect_ratio": 1.8867924528301887
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "283"
-        },
-        {
-          "emoji": "❤",
-          "count": "32"
-        },
-        {
-          "emoji": "😁",
-          "count": "11"
-        },
-        {
-          "emoji": "🔥",
-          "count": "9"
-        },
-        {
-          "emoji": "👏",
-          "count": "4"
-        },
-        {
-          "emoji": "🗿",
-          "count": "2"
-        },
-        {
-          "emoji": "⚡",
-          "count": "1"
-        }
-      ],
-      "views_label": "27.5K",
-      "posted_at": "2026-07-14T15:49:12+00:00",
-      "edited": true,
-      "permalink": "https://t.me/ircfspace/2492",
       "reply": null
     }
   ]
