@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T11:01:42.805Z",
+  "fetched_at": "2026-09-08T11:06:39.177Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356299",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در خصوص گرانی‌ها در ایران می‌گوید: «دستمزد یک روز کار شد یک ساندویچ. ارزشی، حالا هی پرچم بگردان.»",
+      "plain_text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در خصوص گرانی‌ها در ایران می‌گوید: «دستمزد یک روز کار شد یک ساندویچ. ارزشی، حالا هی پرچم بگردان.»",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356299",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/bEPIIxHWSK31cWmG2QIDEZ6Dm_4s9DiX0FSXbnhMxdqT59BosuCOBXgwcda1rc1qp1hqp5k7y7W1M7wqJTAaFnc4PYKNBUECABWxulKXXfF0WuzJzBW22IdceBgXPa8Iv-t9YZ4EVDGqFb4L9GloZd7Vbq9TbRK_uUEez4RrHvwUfZYACxzDjzRpfnWOiF3hJN52m3t9Me4tC7lmmo69XCWBwPD2LTJuhHafYgSKt7fn9EKpHCIeFG-veWCq6iKutsZzGuqoM1mLyfMgOstRdmkBq6ySEgaY8mEWHG1_cFPtw0KYnlSySugHvb-GxXcuPXXTgH48rN9cciOnd_UtLA",
+          "thumbnail_path": "channels/iranintltv/media/10e85c9c45e4f3f0c6970c2e.jpg",
+          "thumbnail_sha256": "188ec0129d827b1d7409b953f2446066b91e14784d4f1561ed7008b246ef5671",
+          "duration_label": "0:11",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.12K",
+      "posted_at": "2026-09-08T11:03:31+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356299",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356298",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.6K",
+      "views_label": "15.8K",
       "posted_at": "2026-09-08T10:40:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356298",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.8K",
+      "views_label": "19.9K",
       "posted_at": "2026-09-08T10:30:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356297",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.9K",
+      "views_label": "22K",
       "posted_at": "2026-09-08T10:25:15+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356296",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.3K",
+      "views_label": "30.4K",
       "posted_at": "2026-09-08T10:03:14+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356295",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.3K",
+      "views_label": "29.3K",
       "posted_at": "2026-09-08T10:02:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356294",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.1K",
+      "views_label": "26.2K",
       "posted_at": "2026-09-08T10:00:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356293",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23K",
+      "views_label": "24.1K",
       "posted_at": "2026-09-08T09:56:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356291",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.1K",
+      "views_label": "27.2K",
       "posted_at": "2026-09-08T09:56:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356292",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22K",
+      "views_label": "23.1K",
       "posted_at": "2026-09-08T09:55:21+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356290",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.1K",
+      "views_label": "24.1K",
       "posted_at": "2026-09-08T09:54:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356289",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.3K",
+      "views_label": "30.3K",
       "posted_at": "2026-09-08T09:37:43+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356288",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.4K",
+      "views_label": "34.5K",
       "posted_at": "2026-09-08T09:24:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356286",
@@ -357,7 +385,7 @@
       "plain_text": "🗣روایت شما: پاسخ شهروندان به پرسش ایران‌اینترنشنال درخصوص بنزین ۱۰ هزار تومانی - سه‌شنبه ۱۷ شهریور\n\n🔹۱۰ هزار تومان برای یک لیتر بنزین شاید برای بعضی‌ها فقط یک عدد باشد، اما برای مردم یعنی یک قدم دیگر به سمت سخت‌تر شدن زندگی. وقتی قیمت یک چیز بالا می‌رود، فقط همان چیز گران نمی‌شود؛ رد گرانی‌اش به نان، کرایه، سفر و سفره مردم می‌رسد.\n\n🔹فقط بحث بنزین نیست. وقتی بنزین گران می‌شود، همه‌چیز با آن گران می‌شود؛ کرایه ماشین، اسنپ، نان، غذا، رستوران.\n\n🔹با گران شدن بنزین، حس یک مسافرت رفتن هم تمام شد. ۱۰ دقیقه با ماشین بیرون رفتن و دور زدن تمام شد. ما جوان‌ها خیلی وقت است با دلخوشی‌ها خداحافظی کرده‌ایم.\n\n🔹اولش گفتند بنزین لیتری ۸۰ هزار تومان، بعد ۱۰ هزار تومان را تصویب کردند که مردم بگویند ارزان است، این سیاست جمهوری اسلامی است.\n\n🔹مگر فقط بنزین ۱۰ هزار تومانی دغدغه مردم است؟ همین امروز روغن نباتی و برنج ۵۰ درصد گران شده، روغن نباتی پنج کیلویی که دو میلیون و ۲۰۰ هزار تومان بود، شده چهار میلیون تومان.\n\n🔹بنزین ۱۰ هزار تومانی مساوی است با شرمندگی پدرها، افسردگی جوان‌ها از فشار اقتصادی، ناامیدی بچه‌ها، فروپاشیدن زندگی‌ها و فقیرتر شدن جامعه.\n\n🔹حداقل بنزین را ۱۰۰ درصد گران کردند. اگر راست می‌گویند، حقوق یک کارمند را هم ۱۰۰ درصد بالا ببرند. کجای دنیا پایه حقوق کارمند ۱۰۰ دلار است؟ همه اجناس را با دلار گران می‌خریم.\n\n🔹اگر شرایط اقتصادی نرمالی مثل بقیه دنیا داشتیم و مصرف سوخت خودروهایمان هم در حد نرمال جهانی بود، افزایش قیمت بنزین مهم نبود.",
       "media": [],
       "reactions": [],
-      "views_label": "31.3K",
+      "views_label": "31.4K",
       "posted_at": "2026-09-08T09:22:43+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356285",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.3K",
+      "views_label": "29.3K",
       "posted_at": "2026-09-08T09:20:28+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356284",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.3K",
+      "views_label": "31.4K",
       "posted_at": "2026-09-08T09:17:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356283",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.5K",
+      "views_label": "34.5K",
       "posted_at": "2026-09-08T09:03:52+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356282",
@@ -469,7 +497,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.6K",
+      "views_label": "37.7K",
       "posted_at": "2026-09-08T08:50:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356281",
@@ -485,7 +513,7 @@
       "plain_text": "🗣روایت شما از شرایط زندگی و بحران اقتصادی- سه‌شنبه ۱۷ شهریور:\n\n🔹شغل من لوله‌کشی ساختمان است. شش ماهه بیکارم و شرمنده زن و بچه‌ام شدم. نمی‌دونم چه‌کار کنم.\n\n🔹از کرج پیام می‌دم. من یه جوون ۳۰ ساله‌ام که مجبور شدم چند دندانم رو بکشم. تا آخر عمرم به‌خاطر گرونی باید بدون دندان بمونم. یه دست دندون پروتز متحرک ایرانی ۴۰ میلیون است که من ندارم.\n\n🔹۱۰ سال قبل من و دوستام که از خانواده‌های متوسط بودیم در یه لحظه تصمیم می‌گرفتیم بریم بهترین فست‌فودی شهر، بهترین غذا رو بخوریم و به فکر پولش نباشیم، اما الان با اینکه همه‌مون کار می‌کنیم چندماهه که بیرون نرفتیم، چون یه چای توی کافه ۱۵۰ هزار تومن شده.\n\n🔹در بیمارستان کار می‌کنم، خیلی از بیمارا به‌خاطر قیمت‌ها داروهاشون رو نصفه نیمه می‌خورن، شرکت دارویی رو عوض می‌کنن، از درمان منصرف می‌شن و دچار عارضه‌های بدی می‌شن. به‌طرز اعجاب‌آوری تعداد این افراد خیلی بیشتر از قبل شده.\n\n🔹دارویی که ۲۰۰ عددش رو خرداد ماه گرفتیم ۸ میلیون، الان در شهریور ماه همون رو گرفتیم ۲۴ میلیون تومان.\n\n🔹یه بسته ۶۰ عددی مکمل ال-آرژنین ۱۰۰۰ گرفتم یک میلیون تومن، دو ماه قبل قیمت همین بسته ۶۰۰ هزار تومن بود.\n\n🔹با این مصوبه افزایش قیمت بنزین، تکلیف سهمیه بنزین ماشین‌های خارجی چی می‌شه؟ این ماشین‌ها چند ماهی است که سهمیه ندارند چون تاریخ کارت سبزشون به تاریخ میلادی است.\n\n🔹لوازم تحریر خیلی گرون شده کیف مدرسه که خوب باشه شده ۵ میلیون. جامدادی شده ۸۰۰ هزار تومن.\n\n🔹یک کیلو خیار ۱۸۰ هزار تومن، یک کیلو گوجه ۸۰ هزار تومن، یه بطری شیر ۱۵۰ هزار تومن، یه عدد نون بربری ۳۵ هزار تومن! حداقل‌ترین چیزها رو دیگه نمی‌شه خرید.",
       "media": [],
       "reactions": [],
-      "views_label": "39.8K",
+      "views_label": "40.8K",
       "posted_at": "2026-09-08T08:38:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356278",
@@ -513,7 +541,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.7K",
+      "views_label": "38.7K",
       "posted_at": "2026-09-08T08:32:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356277",
@@ -2709,34 +2737,6 @@
       "posted_at": "2026-09-07T20:02:32+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356196",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356195",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "دادگاه فدرال کانادا دولت این کشور را مکلف کرد حداکثر ظرف ۶۰ روز درباره پرونده درخواست ویزای اقامت موقت ناصر منصور شریفلو، از مدیران ارشد و متخصصان سابق صنعت هسته‌ای ایران، تصمیم‌گیری نهایی کند. این حکم پس از آن صادر شد که درخواست ویزای نامبرده به دلیل بررسی‌های امنیتی، برای بیش از ۹۰۰ روز در چرخه‌های اداری معلق مانده بود. این پرونده در حالی جریان دارد که نهادهای امنیتی کانادا هزاران درخواست مرتبط با وابستگان حکومت ایران را زیر ذره‌بین برده و صدها ویزا را باطل کرده‌اند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "دادگاه فدرال کانادا دولت این کشور را مکلف کرد حداکثر ظرف ۶۰ روز درباره پرونده درخواست ویزای اقامت موقت ناصر منصور شریفلو، از مدیران ارشد و متخصصان سابق صنعت هسته‌ای ایران، تصمیم‌گیری نهایی کند. این حکم پس از آن صادر شد که درخواست ویزای نامبرده به دلیل بررسی‌های امنیتی، برای بیش از ۹۰۰ روز در چرخه‌های اداری معلق مانده بود. این پرونده در حالی جریان دارد که نهادهای امنیتی کانادا هزاران درخواست مرتبط با وابستگان حکومت ایران را زیر ذره‌بین برده و صدها ویزا را باطل کرده‌اند.\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356195",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/fFnzHemOtIfVo8ZJnLcU68JgoWkl7LHZXagep2ZA8p38bPqvJ7UNe2aRoba8N-XCyHLKDVa30tJ1l1idRSu6S25eRV4HH43x-kumd12gtcQ5cahkc-gc-_tHIOGsZUZf-zE_v_3tCqm5Q9imWDN6xhwoy2QtwzQaxZyytcxPRF_XIZV3Y7Hy3dI8n9gHRlxzQHd_u_pHQqjUeLLlmXBG7DrXdUOfmVz6J315y3fJ4pk7r0kQ2hvmiv0o_ECBfeTscP8Tx6e4E030lsFP0CvbSm-e-3gg0fWgYhgHneSa6tyHQDJnt3c2COGnixE-t6kO8D33LAnw8pL3QlBwJJuWPw",
-          "thumbnail_path": "channels/iranintltv/media/a39733ce7da0f1f1b4e0e459.jpg",
-          "thumbnail_sha256": "d21f0e24f462771ea482ca5082921f63f1644409849fb629e84e73cd2b0a6f86",
-          "duration_label": "2:16",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "48.5K",
-      "posted_at": "2026-09-07T20:01:23+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356195",
       "reply": null
     }
   ]
