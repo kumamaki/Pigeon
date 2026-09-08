@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T13:31:43.410Z",
+  "fetched_at": "2026-09-08T13:33:42.575Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356322",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "یک کاسب با انتشار ویدیویی در رسانه‌های اجتماعی، در خصوص وضعیت کاسبی در بازار رشت می‌گوید: «برق قطع است، آب باران داخل مغازه شده و کاسبی هم کساد است. جمهوری اسلامی، این چه وضعیتی است برای ما درست کرده‌ای؟»",
+      "plain_text": "یک کاسب با انتشار ویدیویی در رسانه‌های اجتماعی، در خصوص وضعیت کاسبی در بازار رشت می‌گوید: «برق قطع است، آب باران داخل مغازه شده و کاسبی هم کساد است. جمهوری اسلامی، این چه وضعیتی است برای ما درست کرده‌ای؟»",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356322",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/l71CQjtKd-rq3HLdZxk3Qc7IxWY-22nPK4tTQNxpt3QLVyYRmu9o7VBm6rdkPF90XTmkQLdqLK-k_PYygjl1FTpe_zEYGG0iWsAkQFjx0kZOzBGo2BViIuTr5-AEHwU7xaDW91ayxQTHPh8WJCHPRVDiKVhlfSu6iyDnMddHv2youvgJW7bCfImNJb-9q2nt23z3JLNvglePvymFiwtoz4Vbms312pbBwbyWWhiMX195zRQJmEDBTNT1yUq7xKFVEMzwHfYPjbYu_GhEVS4oyYggki19ZfsA8Se3uV6T17qp1vCLvTYwy5NbggpGXQ9wsF4OoExoXv4AurEXhwnz_g",
+          "thumbnail_path": "channels/iranintltv/media/217447af63d39bf27f724d1c.jpg",
+          "thumbnail_sha256": "765ec435272b36c5e5f13a6fc5699e77b0991b1f9e530446a3fc131ae4e4e2dd",
+          "duration_label": "0:37",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1K",
+      "posted_at": "2026-09-08T13:31:58+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356322",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356321",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.07K",
+      "views_label": "3.13K",
       "posted_at": "2026-09-08T13:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356321",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.28K",
+      "views_label": "6.31K",
       "posted_at": "2026-09-08T13:25:33+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356320",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.47K",
+      "views_label": "9.53K",
       "posted_at": "2026-09-08T13:20:20+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356319",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.7K",
+      "views_label": "13.8K",
       "posted_at": "2026-09-08T13:13:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356318",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.8K",
+      "views_label": "15.9K",
       "posted_at": "2026-09-08T13:04:16+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356315",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.9K",
+      "views_label": "15.9K",
       "posted_at": "2026-09-08T13:02:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356314",
@@ -245,7 +273,7 @@
       "plain_text": "🎧نسخه صوتی اخبار نیم‌روزی | سه‌شنبه ۱۷ شهریور\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "14.9K",
+      "views_label": "15.9K",
       "posted_at": "2026-09-08T13:00:50+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356313",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.1K",
+      "views_label": "20.1K",
       "posted_at": "2026-09-08T12:52:48+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356311",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.6K",
+      "views_label": "28.6K",
       "posted_at": "2026-09-08T12:32:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356309",
@@ -469,7 +497,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.7K",
+      "views_label": "30.7K",
       "posted_at": "2026-09-08T12:00:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356305",
@@ -497,7 +525,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36K",
+      "views_label": "37K",
       "posted_at": "2026-09-08T11:43:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356304",
@@ -2721,34 +2749,6 @@
       "posted_at": "2026-09-07T23:16:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356220",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356219",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "تجمع‌های شبانه در میدان‌ها روی اعصاب مردم است!<br><br>تجمعی که برای «خودجوش» شدنش به مداح، بلندگو، دوربین تلویزیون، پذیرایی و خیابان اختصاصی نیاز دارد، دیگر خودجوش نیست؛ فن‌کلاب حکومتی است!<br><br>مسئله، حق تجمع نیست؛ تجمع‌کردن حق همه است. مسئله، تبعیض است: چرا طرفداران حکومت می‌توانند با حفاظت کامل خیابان را ببندند، اما پاسخ مردم معترض باتوم، بازداشت و گلوله است؟<br><br>مردم ایران دربارهٔ این تجمع‌های شبانه چه می‌گویند؟<br><br>کامبیز حسینی در «برنامه» به این موضوع می‌پردازد.<br><br>«یک ایران صدای شما را می‌شنود»<br>دوشنبه تا پنجشنبه ۱۱ شب تهران<br>از تلویزیون ایران اینترنشنال<br><br>تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:<br><a href=\"https://youtu.be/EOrWu7T_oHM\" target=\"_blank\" rel=\"noopener\">https://youtu.be/EOrWu7T_oHM</a><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "تجمع‌های شبانه در میدان‌ها روی اعصاب مردم است!\n\nتجمعی که برای «خودجوش» شدنش به مداح، بلندگو، دوربین تلویزیون، پذیرایی و خیابان اختصاصی نیاز دارد، دیگر خودجوش نیست؛ فن‌کلاب حکومتی است!\n\nمسئله، حق تجمع نیست؛ تجمع‌کردن حق همه است. مسئله، تبعیض است: چرا طرفداران حکومت می‌توانند با حفاظت کامل خیابان را ببندند، اما پاسخ مردم معترض باتوم، بازداشت و گلوله است؟\n\nمردم ایران دربارهٔ این تجمع‌های شبانه چه می‌گویند؟\n\nکامبیز حسینی در «برنامه» به این موضوع می‌پردازد.\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/EOrWu7T_oHM\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356219",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/pPfm3DI4tytj6lMPnlFyCDHO9Dl2SGnFo88tiKPATJE6QEe9OGwpN-YcbZsYMA0dmtP_bwIqps9Rz8A0ER6HdlNPqnPlv1Twsbc4R-6pleQuwB1In0mMdMfVPrSvsnrLbGKtjsa_kuhDGvuH904cn5T5NmAqFvMLG8s-LoqnTqlauwYDVYeWsUvWiHiybN0c4stFrOuq8be6OBeTGgU0Zf_YBKaskvwZkCwOtsKQl-dmTC4uwm2Da00jppZfB33NsITh0DPBO9fFNcUxOSbPIRFQmFijIed8sRP0OWoFUICMeTBkY_J1d3n6nCLOYRTCkSOVIqfgBH1fMho1vmxkIQ",
-          "thumbnail_path": "channels/iranintltv/media/ce530383f252bf9ecc2743d4.jpg",
-          "thumbnail_sha256": "e3f7bdbecc47449678ad8289a7eb8546911ba082d66f984c46d30960fe0cbc6e",
-          "duration_label": "10:00",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "36.5K",
-      "posted_at": "2026-09-07T23:15:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356219",
       "reply": null
     }
   ]

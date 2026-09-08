@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T13:31:41.913Z",
+  "fetched_at": "2026-09-08T13:33:41.118Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229860",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "یک سخنگوی وزارت خارجه قطر اعلام کرد که بازگشایی تنگه هرمز برای ما و برای همه کشورهای منطقه از اهمیت حیاتی و فوق‌العاده‌ای برخوردار است.<br><br>ابراهیم بن سلطان الهاشمی روز سه‌شنبه در یک نشست خبری یادآور شد که قطر به همراه چین و دیگر شرکا، برای ازسرگیری مذاکرات آمریکا و جمهوری اسلامی همکاری می‌کند.<br><br>او با اشاره به سفر نخست‌وزیر قطر به چین، این همکاری‌ها را با هدف کاهش تنش‌ در منطقه توصیف کرد.<br><br>قطر، در کنار عمان و پاکستان، طی هفته‌های اخیر تلاش بسیاری برای بازگرداندن جمهوری اسلامی به میز مذاکره انجام داده‌اند.",
+      "plain_text": "یک سخنگوی وزارت خارجه قطر اعلام کرد که بازگشایی تنگه هرمز برای ما و برای همه کشورهای منطقه از اهمیت حیاتی و فوق‌العاده‌ای برخوردار است.\n\nابراهیم بن سلطان الهاشمی روز سه‌شنبه در یک نشست خبری یادآور شد که قطر به همراه چین و دیگر شرکا، برای ازسرگیری مذاکرات آمریکا و جمهوری اسلامی همکاری می‌کند.\n\nاو با اشاره به سفر نخست‌وزیر قطر به چین، این همکاری‌ها را با هدف کاهش تنش‌ در منطقه توصیف کرد.\n\nقطر، در کنار عمان و پاکستان، طی هفته‌های اخیر تلاش بسیاری برای بازگرداندن جمهوری اسلامی به میز مذاکره انجام داده‌اند.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229860",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Mpg1UXU5naPy4R_CdIWsa4ldjq8bIGxvdQs25d8cbdOmN5Meoq-vyTVMvuABy0KaVH8J_eOxKWsHnrAHuz9a1HMmqSBX6-E4IlJeF0wP2f3j6MXh4VQi2ut1nesGTEAmu7zJnZsoys4IrrLkpyWaHHNrRDugOGJFrcRfYHR4fDdLDa4l2KRPj7AntY77rqzol5p-WntRRU9N4LGXa6ZjxDvvgjB959wM96O2u_puwz9ufhuVyww1KR87l1RvQZvIxTqSn_tkYOzdFmlOewBd0X9pl3QqQCtiJR1vmb3_vbGI8vwcJZzSDbSKuipwXhdTRZFA34cNMDGsOdDjyaP2Zw.jpg",
+          "thumbnail_path": "channels/farsivoa/media/33cd10b451483eab9ad39dc1.jpg",
+          "thumbnail_sha256": "997de2864a68a41811728ff9602350f6c498d5a86a91249e24b341e1e15acd75",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T13:32:59+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229860",
+      "reply": null
+    },
     {
       "id": "farsivoa/229859",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "478",
+      "views_label": "540",
       "posted_at": "2026-09-08T13:20:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229859",
@@ -49,7 +77,7 @@
       "plain_text": "🔺اعزام تیم ارزیاب کره‌جنوبی به منطقه برای بررسی وضعیت تنگه هرمز\n\n▪️وزارت دفاع کره‌جنوبی روز سه‌شنبه ۱۷ شهریور اعلام کرد که تیمی را برای ارزیابی وضعیت در تنگه هرمز به منطقه اعزام کرده است.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/south-korea-assessment-team-deployment-strait-of-hormuz/8195526.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "542",
+      "views_label": "604",
       "posted_at": "2026-09-08T13:18:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229858",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "859",
+      "views_label": "889",
       "posted_at": "2026-09-08T13:10:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229857",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "957",
+      "views_label": "987",
       "posted_at": "2026-09-08T13:05:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229856",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "891",
+      "views_label": "922",
       "posted_at": "2026-09-08T13:03:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229855",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.44K",
+      "views_label": "1.47K",
       "posted_at": "2026-09-08T12:39:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229853",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.7K",
+      "views_label": "1.73K",
       "posted_at": "2026-09-08T12:25:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229852",
@@ -249,7 +277,7 @@
       "plain_text": "🔺ژاپن نگرانی خود را از حملات جمهوری اسلامی به شناورها در هرمز ابراز کرد\n\n▪️توشیمیتسو موتگی، وزیر خارجه ژاپن، در گفت‌وگوی تلفنی با عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، نگرانی خود را از ادامه حملات جمهوری اسلامی به شناورهای غیرنظامی ابراز کرد و خواستار «حداکثر خویشتنداری» شد.\n\n▪️بر پایه اعلام وزارت خارجه ژاپن، در این تماس پنج خواسته توکیو از جمله کاهش تنش و از سرگیری مذاکرات، انعطاف حداکثری، توقف حمله به شناورها، بازگشت آزادی دریانوردی بدون هزینه افزوده و مهار حوثی‌ها به عراقچی منتقل شد.\n\n▪️در مقابل عراقچی از «پیشرفت قابل توجه» گفت‌وگوها با عمان برای تعیین یک مسیر موقت تردد در تنگه هرمز خبر داد. ژاپن اما می‌گوید آینده تنگه باید در جامعه بین‌المللی بررسی شود، نه دوجانبه.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/japan-expresses-concern-over-iranian-attacks-on-vessels-in-hormuz/8195515.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.93K",
+      "views_label": "1.96K",
       "posted_at": "2026-09-08T12:02:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229850",
@@ -361,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.19K",
+      "views_label": "2.22K",
       "posted_at": "2026-09-08T11:24:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229846",
@@ -417,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.5K",
+      "views_label": "2.51K",
       "posted_at": "2026-09-08T10:57:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229844",
@@ -489,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.72K",
+      "views_label": "2.75K",
       "posted_at": "2026-09-08T10:26:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229841",
@@ -2603,34 +2631,6 @@
       "posted_at": "2026-09-07T15:58:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229751",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229750",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "در یک گزارش تازه هشدار داده شده که روسیه ممکن است تا سال ۲۰۴۰ میلادی کنترل بیش از یک‌سوم اورانیوم استخراجی جهان را در اختیار داشته باشد. این موضوع، به ویژه در شرایطی که بریتانیا به دنبال گسترش انرژی هسته‌ای و کاهش وابستگی به روسیه است، می‌تواند خطری تازه برای غرب محسوب شود.",
-      "plain_text": "در یک گزارش تازه هشدار داده شده که روسیه ممکن است تا سال ۲۰۴۰ میلادی کنترل بیش از یک‌سوم اورانیوم استخراجی جهان را در اختیار داشته باشد. این موضوع، به ویژه در شرایطی که بریتانیا به دنبال گسترش انرژی هسته‌ای و کاهش وابستگی به روسیه است، می‌تواند خطری تازه برای غرب محسوب شود.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229750",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/qPW0wMzELdB5e65lZVO06fW5sbx-3pjOtQFDWZ0vrYzrGtyxsOTc33EIekx2av51ycbsVgLrepC8X3SKHGvX2fbEJiXhfp-glP65TnxP6NiWhRc1U1a8sxN8RHdH8eLL496Bi4ywLG4ASa0Gw-t1eupDuC3PryNZWQYgnbiJ2f_om4kdFk0VmdfeCwFfvU8WtQhobXdU5weljq_Z9HnL-6LBVpgmlIv56tN5SKgRy-E0IuGp6gNIZNZuOZLiwwWEmksfws7V2DqLPHm0pQKlBoZdUCR3SVhHOHV51utDIjBV71xL24cDIhpOiBjlLVpGZDNQtZ6aumc2WfS0QQMsqQ",
-          "thumbnail_path": "channels/farsivoa/media/12303db51fdcced483264f91.jpg",
-          "thumbnail_sha256": "ffdc3139d3c0a1e6b01ebb7841e102d80fe27148471aaa91b0de673c8f646d39",
-          "duration_label": "4:03",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.02K",
-      "posted_at": "2026-09-07T15:45:56+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229750",
       "reply": null
     }
   ]
