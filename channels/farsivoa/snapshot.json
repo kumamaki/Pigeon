@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T04:32:14.393Z",
+  "fetched_at": "2026-09-08T04:37:20.939Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229817",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "ائتلاف به رهبری عربستان سعودی اعلام کرد موجی از حملات حوثی‌ها بامداد سه‌شنبه ۷۳ نفر، از جمله زنان و کودکان، را زخمی کرد.<br><br>سخنگوی این ائتلاف، گفت حوثی‌ها «تأسیسات غیرنظامی و اقتصادی» را در شهرهای ابها، جازان، نجران و خمیس مشیط هدف گرفتند.<br><br>ترکی المالکی، این حملات را «تشدید خطرناک» خواند و افزود: «تشدید از سوی شبه‌نظامیان تروریست حوثی و تلاش‌های آنان برای هدف گرفتن پادشاهی، دارایی‌های ملی، شهروندان و ساکنان آن، رویکرد خصمانه و غیرمسئولانه این شبه‌نظامیان تروریست را تأیید می‌کند.»<br><br>المالکی گفت فرماندهی نیروهای مشترک ائتلاف «همه اقدام‌های عملیاتی لازم را با نهایت قاطعیت» برای بازدارندگی انجام می‌دهد.<br><br>حملات پس از آن رخ داد که حوثی‌ها عربستان را به حمله به زندانی در استان جوف یمن متهم کردند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "ائتلاف به رهبری عربستان سعودی اعلام کرد موجی از حملات حوثی‌ها بامداد سه‌شنبه ۷۳ نفر، از جمله زنان و کودکان، را زخمی کرد.\n\nسخنگوی این ائتلاف، گفت حوثی‌ها «تأسیسات غیرنظامی و اقتصادی» را در شهرهای ابها، جازان، نجران و خمیس مشیط هدف گرفتند.\n\nترکی المالکی، این حملات را «تشدید خطرناک» خواند و افزود: «تشدید از سوی شبه‌نظامیان تروریست حوثی و تلاش‌های آنان برای هدف گرفتن پادشاهی، دارایی‌های ملی، شهروندان و ساکنان آن، رویکرد خصمانه و غیرمسئولانه این شبه‌نظامیان تروریست را تأیید می‌کند.»\n\nالمالکی گفت فرماندهی نیروهای مشترک ائتلاف «همه اقدام‌های عملیاتی لازم را با نهایت قاطعیت» برای بازدارندگی انجام می‌دهد.\n\nحملات پس از آن رخ داد که حوثی‌ها عربستان را به حمله به زندانی در استان جوف یمن متهم کردند.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229817",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/V6LXkf8Y5l8FQiEj5gkUchSBXwzlgEIAG-sNqXFmGYiix8p2ccSfTj_ryPJTlJrT_gwUG1azu-FfUGqP4V4fjy1VgTG4wMgge3zcR5Wc-AcwsUUBYz2INsK0jqavuFyyGxkWOcbZ3CL1CC44KbZYopcuTCVS9t5cDhjaFyhTxTBhNsy3t4kebFAb6AZgn7Bd5JAzMaaDfvFwzoM5Ug7iDdM368iw_9gJ-jJj9Bn3KovoXHsQ8Hif5AnMSkER9a0RJybnpW2DPnf003LqM71OqVX4q6UJ2ukUnwKDADo62roJ9ZYVHSpXgVdNYcH-b28CbKmpviSwKLtjYdQu0qRPHA.jpg",
+          "thumbnail_path": "channels/farsivoa/media/40024e038ca541cda248cdab.jpg",
+          "thumbnail_sha256": "74f88a8381e9dac0adf0787f03692b7f404c6509cdb3797a00d3a9612c5c77e7",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "66",
+      "posted_at": "2026-09-08T04:36:06+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229817",
+      "reply": null
+    },
     {
       "id": "farsivoa/229816",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.8K",
+      "views_label": "2.93K",
       "posted_at": "2026-09-08T01:29:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229816",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.66K",
+      "views_label": "2.75K",
       "posted_at": "2026-09-08T01:08:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229815",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.74K",
+      "views_label": "2.8K",
       "posted_at": "2026-09-08T00:29:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229814",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.94K",
+      "views_label": "3K",
       "posted_at": "2026-09-08T00:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229813",
@@ -133,7 +161,7 @@
       "plain_text": "🔺ترامپ: قیمت نفت کاهش خواهد یافت و جمهوری اسلامی به سلاح هسته‌ای دست پیدا نمی‌کند\n\n▪️دونالد ترامپ، رئیس‌جمهوری آمریکا، دوشنبه شب در شبکه اجتماعی تروت‌سوشال نوشت وقتی در جنگ با جمهوری اسلامی ایران «پیروز شویم، قیمت نفت به سرعت کاهش خواهد یافت.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195221.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "2.89K",
+      "views_label": "2.95K",
       "posted_at": "2026-09-07T23:46:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229812",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.57K",
+      "views_label": "2.6K",
       "posted_at": "2026-09-07T23:39:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229811",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.48K",
+      "views_label": "2.51K",
       "posted_at": "2026-09-07T23:33:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229810",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.53K",
+      "views_label": "2.59K",
       "posted_at": "2026-09-07T23:15:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229809",
@@ -233,7 +261,7 @@
       "plain_text": "🔺جمهوری اسلامی رسماً قیمت بنزین را افزایش داد و نیروهای سرکوب لباس شخصی را در اطراف جایگاه‌های سوخت مستقر کرد\n\n▪️جمهوری اسلامی بامداد سه‌شنبه ۱۷ شهریور قیمت بنزین موسوم به «سوخت سهمیه جایگاه‌ها» را به‌طور رسمی افزایش داد و نیروهای سرکوب را در اطراف پمپ‌بنزین‌ها مستقر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195211.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "2.61K",
+      "views_label": "2.67K",
       "posted_at": "2026-09-07T23:06:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229808",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.49K",
+      "views_label": "2.52K",
       "posted_at": "2026-09-07T22:50:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229807",
@@ -289,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.9K",
+      "views_label": "2.93K",
       "posted_at": "2026-09-07T22:18:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229806",
@@ -317,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.96K",
+      "views_label": "2.99K",
       "posted_at": "2026-09-07T22:10:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229805",
@@ -333,7 +361,7 @@
       "plain_text": "🔺خبرنگار سی‌بی‌اس: کامران حکمتی، شهروند آمریکایی از زندان اوین آزاد شد اما همچنان ممنوع‌الخروج است\n\n▪️مارگارت برنان، خبرنگار شبکه خبری سی‌بی‌اس آمریکا، روز دوشنبه ‍‍۱۶ شهریور اعلام کرد کامران حکمتی، شهروند دوتابعیتی ایرانی-آمریکایی، سه روز پیش از زندان اوین آزاد شده است، اما همچنان اجازه خروج از ایران را ندارد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195205.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "2.99K",
+      "views_label": "3.06K",
       "posted_at": "2026-09-07T22:03:55+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229804",
@@ -349,7 +377,7 @@
       "plain_text": "🔺سنتکام مسیر ۹۴ کشتی تجاری را در جریان محاصره دریایی علیه جمهوری اسلامی تغییر داده است\n\n▪️ستاد فرماندهی مرکزی آمریکا، سنتکام، روز دوشنبه اعلام کرد نیروهای آمریکایی تاکنون مسیر ۹۴ کشتی تجاری را در چارچوب اجرای موج دوم محاصره دریایی علیه جمهوری اسلامی تغییر داده‌اند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195203.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "2.99K",
+      "views_label": "3.06K",
       "posted_at": "2026-09-07T21:49:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229803",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.9K",
+      "views_label": "2.96K",
       "posted_at": "2026-09-07T21:47:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229802",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.03K",
+      "views_label": "3.06K",
       "posted_at": "2026-09-07T21:39:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229801",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.23K",
+      "views_label": "3.26K",
       "posted_at": "2026-09-07T21:32:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229800",
@@ -489,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.3K",
+      "views_label": "4.33K",
       "posted_at": "2026-09-07T20:41:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229798",
@@ -2579,34 +2607,6 @@
       "posted_at": "2026-09-07T09:50:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229706",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229705",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "بازگشت خرید نفت چین قیمت نفت خام آفریقا، کانادا و آمریکای لاتین را بالا برده است، چون پالایشگاه‌ها به دلیل اختلال تنگه هرمز به دنبال جایگزین در نقاط دورتر می‌روند.<br><br>بر پایه گزارش بلومبرگ، نفت جِنو کنگو این هفته با قیمتی تا ۲۰ دلار بالاتر از هر بشکه نفت برنت به خریداران چینی پیشنهاد شد که از حدود ۱۵ دلار دو هفته پیش بیشتر است.<br><br>همین جهش، پالایشگاه‌های کوچک‌تر چینی را که حاشیه سود باریک‌تری دارند از بازار بیرون رانده است.<br><br>خرید چین هنوز به سطح پیش از جنگ نرسیده و به سوی ۱۰ میلیون بشکه در روز می‌رود در حالی که پیش از درگیری ۱۲ میلیون بشکه بود.<br><br>بلومبرگ نوشت این روند در چین در شرایطی صورت می‌گیرد که صادرات نفت جمهوری اسلامی به دلیل محاصره آمریکا تقریباً به‌طور کامل صفر شده است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "بازگشت خرید نفت چین قیمت نفت خام آفریقا، کانادا و آمریکای لاتین را بالا برده است، چون پالایشگاه‌ها به دلیل اختلال تنگه هرمز به دنبال جایگزین در نقاط دورتر می‌روند.\n\nبر پایه گزارش بلومبرگ، نفت جِنو کنگو این هفته با قیمتی تا ۲۰ دلار بالاتر از هر بشکه نفت برنت به خریداران چینی پیشنهاد شد که از حدود ۱۵ دلار دو هفته پیش بیشتر است.\n\nهمین جهش، پالایشگاه‌های کوچک‌تر چینی را که حاشیه سود باریک‌تری دارند از بازار بیرون رانده است.\n\nخرید چین هنوز به سطح پیش از جنگ نرسیده و به سوی ۱۰ میلیون بشکه در روز می‌رود در حالی که پیش از درگیری ۱۲ میلیون بشکه بود.\n\nبلومبرگ نوشت این روند در چین در شرایطی صورت می‌گیرد که صادرات نفت جمهوری اسلامی به دلیل محاصره آمریکا تقریباً به‌طور کامل صفر شده است.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229705",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Vu20CdCyhb23vbELaRCheuPRvSlHHlfIsEn_Do6rCjQrhxfoqbQZywNpRwTtkePvla5XMBteUxacOok67pvzWVetwNYtqDW8d5XvhCZBPLC-GckifY1lE_hhYqo_Jvz_5bMTu9q0YqVqwV70-lc3rYUgv1wBD5hxJp7_7hl0OvA1KKKJbOBYEIi8FBYvgWBq6mHLwQ_pl5LaNpymDG1h0ihp00I8hyxSFgXYxn0q5NdOj6L-xnNifS9K_EnnP2t1NnsFDHngu_IChI-sLK7MPfbkP8Mo-EOM0sK3C4e0ylE1ba1eT0yqODkCZgJETtVVdxoqANsvsy-QdZagp9oRdg.jpg",
-          "thumbnail_path": "channels/farsivoa/media/0708fa06430e165dece74b34.jpg",
-          "thumbnail_sha256": "57af60ae77dfaf24b2f1c0533d6d4c4cbc643e80c3cfe8f24b5282eb94528d65",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.77K",
-      "posted_at": "2026-09-07T09:43:29+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229705",
       "reply": null
     }
   ]
