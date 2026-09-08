@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T07:37:12.246Z",
+  "fetched_at": "2026-09-08T07:42:15.666Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -11,6 +11,34 @@
     "subscriber_count": "217K"
   },
   "posts": [
+    {
+      "id": "sahamnewsorg/147153",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/FKF1cckJAUtPCvrEDvhdUz7NZYvAf1EHIJitsyRN8VE6idlFJSlSu2K2xwDGVxKifuLkRZo545Eqoc49ZLmPoSTyOLoyCKDmEN3g4SAk_F1iRgeiTdyhFUQAMgLZ_i79FYzHGzdPVDjFbMrSBqkn52UyYzaCp3ckUiaqX6ED8F0x46VghW61EdReQFxfqL1FfFJD5tD1JPbY4-VlLtyHG_j1T88K3wFHTxO0-qIYXcQF7V695Ey_HoDkfis8UETFy0hyQ9WdEneqSKbA4wd5fYVnHLYawYY5EhbuuZ_X_366M-abZdl4zvZZQgVaE4H3IDNMUExb2Ss8l2_ckTXB3A.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/bf7f0b170836be3cfa34280a.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>نفتالی بنت: امارات حمله ۷ اکتبر را به نتانیاهو گزارش داده بود<br><br>نفتالی بنت، نخست‌وزیر پیشین اسرائیل، گفت گزارش روزنامه هاآرتص درباره دریافت هشدار شخصی نتانیاهو از رئیس امارات پیش از حمله ۱۵ مهر ۱۴۰۲ «درست است».<br><br>او در شبکه ایکس نوشت: «گزارشی که امروز صبح منتشر شد مبنی بر اینکه نتانیاهو ۱۰ روز پیش از کشتار ۷ اکتبر درباره نیت‌های سنوار هشدار گرفته بود، درست است. نتانیاهو مسئولیت شخصی و مستقیم شکستی را بر عهده دارد که به مرگ هزاران اسرائیلی در دوره او انجامید.»<br><br>رهبر حزب «با هم» گفت بی‌توجهی نتانیاهو به هشدارها «به قصور جنایی می‌رسد». او افزود: «به همین دلیل است که هر کاری می‌کند تا از تشکیل کمیسیون تحقیق دولتی که حقیقت را آشکار کند جلوگیری کند.»",
+      "plain_text": "✅نفتالی بنت: امارات حمله ۷ اکتبر را به نتانیاهو گزارش داده بود\n\nنفتالی بنت، نخست‌وزیر پیشین اسرائیل، گفت گزارش روزنامه هاآرتص درباره دریافت هشدار شخصی نتانیاهو از رئیس امارات پیش از حمله ۱۵ مهر ۱۴۰۲ «درست است».\n\nاو در شبکه ایکس نوشت: «گزارشی که امروز صبح منتشر شد مبنی بر اینکه نتانیاهو ۱۰ روز پیش از کشتار ۷ اکتبر درباره نیت‌های سنوار هشدار گرفته بود، درست است. نتانیاهو مسئولیت شخصی و مستقیم شکستی را بر عهده دارد که به مرگ هزاران اسرائیلی در دوره او انجامید.»\n\nرهبر حزب «با هم» گفت بی‌توجهی نتانیاهو به هشدارها «به قصور جنایی می‌رسد». او افزود: «به همین دلیل است که هر کاری می‌کند تا از تشکیل کمیسیون تحقیق دولتی که حقیقت را آشکار کند جلوگیری کند.»",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/147153",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/IfJRsEt-ndkMzPJUD7tYpXMzBjWZdF6XRI2pSvKwUowIvTjw-B2t4eFx4j43tP1uKjquxhvC2i4a1C5e-7KogOKRrnEdUOfeeHowWNHF79whlFjUSOe7UdqKZ7ImzygDgMHJ2Xvq5TSpVEpCbLAGRQtWqFuiC53bCFF90nERcrO4SLEjdiYkHZXafD140eGlykhirvSekGuyfanZc1gfjC8Yhh3_jzH_XesTQr0n3eVF1HmKEw9bm3R44nd4ACDuGW_JLxke8q4v61ecGMwvXbOSKlwm5qNn2k0kCDJ0-HOfKW2X5QCyNBnFpzCCMA3yMLdsfDUfwd6CR9p3a6nrIQ.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/a9567ce00ca2f7c6e0614a1e.jpg",
+          "thumbnail_sha256": "ff354a29fc5787c1dd60f49569ac8a9e6a18930208ed366071cfc2b734b40268",
+          "duration_label": null,
+          "aspect_ratio": 1.78173719376392
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T07:41:58+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/147153",
+      "reply": null
+    },
     {
       "id": "sahamnewsorg/147152",
       "author_name": "سهام نیوز",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.4K",
+      "views_label": "49.8K",
       "posted_at": "2026-09-07T23:00:09+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147152",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "46.4K",
+      "views_label": "46.6K",
       "posted_at": "2026-09-07T22:43:56+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147151",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "51.2K",
+      "views_label": "51.5K",
       "posted_at": "2026-09-07T21:57:57+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147150",
@@ -105,7 +133,7 @@
       "plain_text": "✅وزیر دفاع یمن: تصمیم برای تصرف صنعا و دیگر استان‌های تحت کنترل حوثی‌ها گرفته شده است.\n\nاو گفت: «آماده‌سازی‌ها با تمام سرعت در حال انجام است. غافلگیری‌هایی وجود دارد که فعلاً فاش نمی‌کنیم، اما در آینده‌ای نزدیک شاهد تحرکات میدانی خواهیم بود.»\n\nالصبری حوثی‌ها را مسئول آغاز جنگ دانست و گفت نبرد برای بازگرداندن دولت و جمهوری و آزادسازی تمامی خاک یمن ادامه دارد.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "48.7K",
+      "views_label": "48.9K",
       "posted_at": "2026-09-07T21:42:26+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147149",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "53.3K",
+      "views_label": "53.5K",
       "posted_at": "2026-09-07T20:54:25+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147148",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "52.7K",
+      "views_label": "52.8K",
       "posted_at": "2026-09-07T20:42:17+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147147",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50.1K",
+      "views_label": "50.3K",
       "posted_at": "2026-09-07T20:36:29+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147146",
@@ -214,7 +242,7 @@
       "plain_text": "✅نیال کریمی، پدر امیرمحمد کریمی، از جان‌باختگان اعتراضات دی‌ماه در مرودشت، روز ۱۵ شهریور به زندگی خود پایان داد. دو روز پیش هم آیدا حیدری نامزد یکی دیگر از جان‌باختگان اعتراضات دیماه به زندگی خودش پایان داد./یغما فشخامی\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "49.5K",
+      "views_label": "49.6K",
       "posted_at": "2026-09-07T20:30:48+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147145",
@@ -251,7 +279,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.8K",
+      "views_label": "49.9K",
       "posted_at": "2026-09-07T20:29:08+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147144",
@@ -279,7 +307,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50.4K",
+      "views_label": "50.5K",
       "posted_at": "2026-09-07T19:58:40+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147143",
@@ -295,7 +323,7 @@
       "plain_text": "✅چرا اخبار یمن مهمه؟\n\nچون اگه کنترل حوثی‌ها از جنوب غربی یمن که مسلط به تنگه باب المندب هست برداشته بشه کار برای صادرات نفت عربستان بدون نیاز به تنگه هرمز راحت میشه و دیگه چالشی از این بابت وجود نداره و کارت تنگه هرمز برای ایران کمرنگ میشه\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "52.5K",
+      "views_label": "52.6K",
       "posted_at": "2026-09-07T19:41:42+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147142",
@@ -320,7 +348,7 @@
       "plain_text": "✅طارق صالح، عضو شورای رهبری یمن:\nحملات زمینی و هوایی را در تمام جبهه های شمال، شرق و جنوب یمن بر علیه حوثی ها آغاز کردیم\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "52.3K",
+      "views_label": "52.4K",
       "posted_at": "2026-09-07T19:35:34+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147141",
@@ -376,7 +404,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "54.5K",
+      "views_label": "54.6K",
       "posted_at": "2026-09-07T19:17:16+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147139",
@@ -420,7 +448,7 @@
       "plain_text": "✅محمد مهاجری: آقای پزشکیان برکناری حداقل۳ وزیر ناتراز حتی در شرایط جنگی به سود کشور است.\n\nاما اگر نگرانید مجلس در رای‌اعتماد،بازی در بیاورد، برای این وزیران ضعیف، قائم‌مقام با اختیار کامل منصوب کنید.\n\nحفظ مدیران ضعیف نه اخلاق‌مداری است،نه وفاق.\nدر این روزهای سخت رودربایستی را کنار بگذارید.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "55K",
+      "views_label": "55.1K",
       "posted_at": "2026-09-07T18:37:19+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147137",
@@ -448,7 +476,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "59.2K",
+      "views_label": "59.3K",
       "posted_at": "2026-09-07T18:26:49+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147136",
@@ -476,7 +504,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "58.6K",
+      "views_label": "58.7K",
       "posted_at": "2026-09-07T17:55:32+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147135",
@@ -504,7 +532,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "56.7K",
+      "views_label": "56.8K",
       "posted_at": "2026-09-07T17:37:44+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147134",
@@ -2351,22 +2379,6 @@
       "posted_at": "2026-09-05T17:53:42+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147053",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147052",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/SOVULoyiTPdbKkdDtb14ex7CCIYiKd0E3IQ_pAwzpszpYjPlbgmGHJk-U2NgxOC3Stk9AJoczLETdelSlC93P4CeM9v2Zqfx9kWDAZFQ16u7-NJWFEx0etkWtHjEudvVUmYP6dfkQ8qZmdrl9xym7IAckh_FSqly1nCblYMFZtUD-FHaogzqWnEl2Z5WAcX3n_-LZ1YgFPm5RXpfgGC5vQxB-GXbN4qpdoxbAjxKN5uKI-E5XsX5Lc7NzLsBHn1v38of2J5VoJxrPMxWxMK6GvjEiswagBGK5KJ0Y7TLC6qKaVNHPsiMSXFUboz0VT3EkLbViiQkwWEUlrqDN1CZGg.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/0dc496d06932e4cf0e256da8.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>وزیر دفاع آمریکا: ما قادریم تمام نفتکش‌های ایرانی را در منطقه فرماندهی مرکزی و اقیانوس آرام هدف قرار دهیم.<br><br>اگر ایران به کشتی‌های ما شلیک کند، نفتکش‌های آنها را منهدم و غرق خواهیم کرد.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅وزیر دفاع آمریکا: ما قادریم تمام نفتکش‌های ایرانی را در منطقه فرماندهی مرکزی و اقیانوس آرام هدف قرار دهیم.\n\nاگر ایران به کشتی‌های ما شلیک کند، نفتکش‌های آنها را منهدم و غرق خواهیم کرد.\n\n@Sahamnewsorg",
-      "media": [],
-      "reactions": [],
-      "views_label": "59.5K",
-      "posted_at": "2026-09-05T17:52:50+00:00",
-      "edited": false,
-      "permalink": "https://t.me/sahamnewsorg/147052",
       "reply": null
     }
   ]
