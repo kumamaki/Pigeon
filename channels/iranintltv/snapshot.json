@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T20:41:54.223Z",
+  "fetched_at": "2026-09-08T20:46:54.259Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356394",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "شاهد علوی، عضو تحریریه ایران‌اینترنشنال، با اشاره به فضای امنیتی در شماری از شهرهای ایران گفت این وضعیت نشان می‌دهد حکومت نگران خارج شدن شرایط از کنترل است و می‌داند مردم درک روشنی از عوامل سیاسی وضعیت اقتصادی کنونی دارند.<br><br>او افزود با توجه به استقرار دستگاه سرکوب نمی‌توان گفت این خشم به اعتراضات گسترده منجر خواهد شد یا نه.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "شاهد علوی، عضو تحریریه ایران‌اینترنشنال، با اشاره به فضای امنیتی در شماری از شهرهای ایران گفت این وضعیت نشان می‌دهد حکومت نگران خارج شدن شرایط از کنترل است و می‌داند مردم درک روشنی از عوامل سیاسی وضعیت اقتصادی کنونی دارند.\n\nاو افزود با توجه به استقرار دستگاه سرکوب نمی‌توان گفت این خشم به اعتراضات گسترده منجر خواهد شد یا نه.\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356394",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/CbsOkXa2ccbs73mi4qqx_7qLduBQuZGow5bFo-b5IXgc4e70z2Nt6v7yIhys5wsBtRnBXlR4hc9fT_C8ftiSAzdzpG9INH9MtN5VJITdGCHpNGdadqg5_o3aj21pGeGL5NkRngWQEc5YQ_p3wWwyWhXZzqE-86HSQDyAvt6ZgN2m4QI_DEl8t96V75m2xiciX8dHz2ZfPR0L9X0POPJL8amWnxT9mKmqQRtcA7Qj6zyZ5cqsrSLfe0TzCOCOBQu9D7uDMDpwkaNpKcHpT5U_q7PICiAEc7gXchg9VVvIu5PoxbRUQvMAM-MKSPbxOxhXzuYogu3MvMVB_dcqojOyow",
+          "thumbnail_path": "channels/iranintltv/media/e93dde7abd91c93ce66a877b.jpg",
+          "thumbnail_sha256": "874f24776a16c27bb0ed6e974572536d950f1b9f70416fda2fd3e1361523789f",
+          "duration_label": "2:37",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T20:46:37+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356394",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356393",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.2K",
+      "views_label": "10.5K",
       "posted_at": "2026-09-08T20:37:50+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356393",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.6K",
+      "views_label": "17.8K",
       "posted_at": "2026-09-08T20:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356392",
@@ -77,7 +105,7 @@
       "plain_text": "🎧نسخه صوتی چشم‌انداز: آرایش جنگی در پمپ بنزین‌ها و احتمال فروپاشی دولت\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "20.9K",
+      "views_label": "23K",
       "posted_at": "2026-09-08T20:23:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356391",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.4K",
+      "views_label": "37.5K",
       "posted_at": "2026-09-08T20:08:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356390",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "42.8K",
+      "views_label": "44.9K",
       "posted_at": "2026-09-08T20:00:32+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356389",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.6K",
+      "views_label": "40.7K",
       "posted_at": "2026-09-08T19:59:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356388",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.7K",
+      "views_label": "41.8K",
       "posted_at": "2026-09-08T19:54:17+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356387",
@@ -205,7 +233,7 @@
       "plain_text": "🎧نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: آرایش نظامی در شهرهای ایران\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "37.6K",
+      "views_label": "39.7K",
       "posted_at": "2026-09-08T19:52:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356386",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.7K",
+      "views_label": "40.7K",
       "posted_at": "2026-09-08T19:50:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356385",
@@ -249,7 +277,7 @@
       "plain_text": "🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - سه‌شنبه ۱۷ شهریور\n\n🔹من توی جزیره خارک هستم، بهم اطلاع دادن، گفتن سه عدد نفت‌کش مورد اصابت قرار گرفته\n\n🔹ساعت ۲۲ و ۳۵ دقیقه سه‌شنبه، صدای دو فروند موشک یا هواپیمای جنگی در آسمان کرمانشاه\n\n🔹ملارد کرج، سه‌شنبه شب، دم پمپ‌بنزین، صدای شلیک تیر میاد؛ مردم با نیروی بسیجی درگیر شدند\n\n🔹من ۱۴ سالمه، ورزش می‌کنم. شهریه‌ی باشگاه انقدر گرون شده که بعضی وقتا آخر ماه شهریه رو می‌دم. انقدر تورم و گرونی زیاده که بعضی وقتا خودم از کارتم به خانواده پول می‌دم. چی داره به سر ملت ایران میاد؟\n\n🔹استامینوفن کدئین، یک خشاب یک میلیون تومان؛ یعنی هر دانه قرص صد هزار تومان شده\n\n🔹امروز با گران شدن بنزین کرایه وانت‌بارها ۴۰ درصد گران شد و راننده‌ها با کرایه‌های قبل بار نمی‌بردن\n\n🔹سلام مگه نگفتن دیگه برق‌ها رو قطع نمی‌کنن؟ میان‌دوآب از ساعت ۲ تا ۴ هر روز برق‌ها قطع می‌شه\n\n🔹عارف گفته ۷۰ سنت می‌خریم، ۳ سنت می‌فروشیم، ولی نمی‌گه ۱۰ درصدش وارداتیه، مابقی تولید خودمونه؛ یعنی ۹۰ درصد قیمت مفت داره به مردم ۱۰ تومن می‌فروشه. خودتی عمو",
       "media": [],
       "reactions": [],
-      "views_label": "39.7K",
+      "views_label": "40.8K",
       "posted_at": "2026-09-08T19:47:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356384",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.7K",
+      "views_label": "40.7K",
       "posted_at": "2026-09-08T19:44:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356383",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.1K",
+      "views_label": "50.2K",
       "posted_at": "2026-09-08T19:30:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356382",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47K",
+      "views_label": "48.1K",
       "posted_at": "2026-09-08T19:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356381",
@@ -361,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "48.1K",
+      "views_label": "49.1K",
       "posted_at": "2026-09-08T19:25:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356380",
@@ -389,7 +417,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47K",
+      "views_label": "48.1K",
       "posted_at": "2026-09-08T19:23:20+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356379",
@@ -417,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.1K",
+      "views_label": "48.1K",
       "posted_at": "2026-09-08T19:18:58+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356378",
@@ -445,7 +473,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.1K",
+      "views_label": "48.1K",
       "posted_at": "2026-09-08T19:14:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356377",
@@ -473,7 +501,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "53.3K",
+      "views_label": "53.4K",
       "posted_at": "2026-09-08T18:59:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356376",
@@ -501,7 +529,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "52.3K",
+      "views_label": "53.4K",
       "posted_at": "2026-09-08T18:57:35+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356375",
@@ -2721,34 +2749,6 @@
       "posted_at": "2026-09-08T10:03:14+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356295",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356294",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "مسعود پزشکیان، رییس دولت، در شبکه ایکس نوشت: «جمهوری اسلامی همواره با جنگ مخالف بوده و حفظ منافع مردم و امنیت منطقه را در پرهیز از آتش‌افروزی دانسته است.» <br><br>رییس دولت جمهوری اسلامی در ادامه افزود: «اما چنانکه تا امروز در برابر تجاوز به دفاع برخاسته، این مقاومت را تا پشیمانی کامل متجاوزان با قوت ادامه خواهد داد.»<br> <a href=\"https://t.co/xE9ykZO21a\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">iranintl.com/202609086168</a>",
-      "plain_text": "مسعود پزشکیان، رییس دولت، در شبکه ایکس نوشت: «جمهوری اسلامی همواره با جنگ مخالف بوده و حفظ منافع مردم و امنیت منطقه را در پرهیز از آتش‌افروزی دانسته است.»\n\nرییس دولت جمهوری اسلامی در ادامه افزود: «اما چنانکه تا امروز در برابر تجاوز به دفاع برخاسته، این مقاومت را تا پشیمانی کامل متجاوزان با قوت ادامه خواهد داد.»\niranintl.com/202609086168",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356294",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/X8rkby1G-_nGROfXqrLQRyqo9kUHIGuLL1MUoHb6SrbcezAoo0Ec60cfCwJV5dRXL4wz0sF8W3sy0fJdY6zjcS93v4EXGXn7GZDPR2KSA2IyQFHNFVr4QzBLdIG7T52qByC8b2g0BYBtFjpkmHKWIoykHl2GegTBYna_KceWyW-Ij5tpuTJcfU8UlmkbbTLsCXf6KNt5dAgXQCVVSYsNI7dYyODYLV4aq_Lc6yotCVr8t8ybBcMcmfawNkHvuJE2VKh1ytNyoTrbdV2NivLYmympm-6sraUvq56lzeyn8_Htbs0WcfqfZKSGmVyCVGLSLWttTxVQaWsy74E3PUqSuQ.jpg",
-          "thumbnail_path": "channels/iranintltv/media/64683aa50c22f893cf3b14b8.jpg",
-          "thumbnail_sha256": "801ab97314bf2b8e3cc390699b08a6135697a33a711f5ace2e4c70ce70c5869a",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "49.5K",
-      "posted_at": "2026-09-08T10:02:11+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356294",
       "reply": null
     }
   ]
