@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T11:31:25.614Z",
+  "fetched_at": "2026-09-08T11:36:33.994Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229847",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "نخست وزیر و وزیر امور خارجه قطر که به چین سفر کرده است، در دیداری با وزیر خارجه این کشور، درباره آزادی کشتیرانی در تنگه هرمز، بحث و تبادل نظر کرد.<br><br>بر پایه گزارش وزارت امور خارجه قطر، در این دیدار «محمد بن عبدالرحمن آل ثانی» و «وانگ یی»، درباره تحولات منطقه‌ای، از جمله آزادی کشتیرانی در تنگه هرمز، گفت‌وگو کردند.<br><br>نخست وزیر قطر در این دیدار، بار دیگر بر حمایت کامل کشورش از تمامی تلاش‌های دیپلماتیک با هدف تضمین آزادی کشتیرانی در تنگه هرمز و هموار کردن مسیر برای دستیابی به یک توافق جامع تأکید کرده است.<br><br>قطر از جمله میانجی‌هایی است که به همراه عمان و پاکستان، برای بازگردادن جمهوری اسلامی به میز مذاکره تلاش می‌کند. پیشتر سخنگوی وزارت خارجه جمهوری اسلامی از سفر یک هیئت قطری طی روز یکشنبه پانزدهم شهریورماه، به تهران و با هدف تلاش برای کاهش تنش‌ها خبر داده بود.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "نخست وزیر و وزیر امور خارجه قطر که به چین سفر کرده است، در دیداری با وزیر خارجه این کشور، درباره آزادی کشتیرانی در تنگه هرمز، بحث و تبادل نظر کرد.\n\nبر پایه گزارش وزارت امور خارجه قطر، در این دیدار «محمد بن عبدالرحمن آل ثانی» و «وانگ یی»، درباره تحولات منطقه‌ای، از جمله آزادی کشتیرانی در تنگه هرمز، گفت‌وگو کردند.\n\nنخست وزیر قطر در این دیدار، بار دیگر بر حمایت کامل کشورش از تمامی تلاش‌های دیپلماتیک با هدف تضمین آزادی کشتیرانی در تنگه هرمز و هموار کردن مسیر برای دستیابی به یک توافق جامع تأکید کرده است.\n\nقطر از جمله میانجی‌هایی است که به همراه عمان و پاکستان، برای بازگردادن جمهوری اسلامی به میز مذاکره تلاش می‌کند. پیشتر سخنگوی وزارت خارجه جمهوری اسلامی از سفر یک هیئت قطری طی روز یکشنبه پانزدهم شهریورماه، به تهران و با هدف تلاش برای کاهش تنش‌ها خبر داده بود.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229847",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/uU0Se2YTSuPnscWRQ9Ag21xOmUsQ8CpvEHRNdMvcuLENVvMIgvccGJqSR8P_Z6dLxOuUJ09Af2JmWXZcn62p6SnYtuXAEfKdrdyLw0svRTkruGtDu4Dq23RzWl26oiklf_uIWcOGNLp2mWCdnlfiSim_fh4T-Gx8Bj37a3HrX7kWxjfx6aPGRLVBhoW3YTAa4BLQOhoXtaxreNdYPzpf8ZKQqsInjBTBMETHF8wIyZbYIWYGjWApoolZyxhqZBTiuxevoPlQ2grLWZainN2XhoS6PmX4v4VXeIsa6CHLyjsGduu9eQifLJgLSLLQoVxJBeiACfT65kE-Nf4o47DqRg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/2cfd29df17ad7adb612b74da.jpg",
+          "thumbnail_sha256": "2a4c7a0630812803c20442fb1c19b0f88ec1f24a8048e4dfbd7c731916b8924f",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "127",
+      "posted_at": "2026-09-08T11:34:13+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229847",
+      "reply": null
+    },
     {
       "id": "farsivoa/229846",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "359",
+      "views_label": "546",
       "posted_at": "2026-09-08T11:24:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229846",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "896",
+      "views_label": "1.02K",
       "posted_at": "2026-09-08T11:08:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229845",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.18K",
+      "views_label": "1.31K",
       "posted_at": "2026-09-08T10:57:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229844",
@@ -105,7 +133,7 @@
       "plain_text": "🔺هشدار استادان دانشگاه مبنی بر اعتصاب از اول مهر و حاضر نشدن در کلاس‌ها\n\n▪️کانون صنفی استادان دانشگاهی ایران هشدار داد اگر قانون ترمیم حقوق اعضای هیئت علمی تا پایان شهریور به‌طور کامل اجرا نشود، از استادان می‌خواهد فعالیت‌های دانشگاهی خود را از ابتدای مهر تعلیق کنند.\n\n▪️بر پایه بیانیه این کانون، تعلیق حوزه‌های آموزشی، پژوهشی، اجرایی و مشاوره‌ای را در بر می‌گیرد و تا اجرای «کامل و بی‌قیدوشرط» قانون ادامه می‌یابد.\n\n▪️در بیانیه آمده است اعضای هیئت علمی پس از دو سال طی شدن مراحل کارشناسی و قانونی انتظار داشتند اجرای قانون بخشی از مشکلات معیشتی آنان را کاهش دهد.\n\n▪️با این حال با گذشت نزدیک به شش ماه از سال ۱۴۰۵، قانون همچنان به‌طور کامل اجرا نشده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195514.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.53K",
+      "views_label": "1.62K",
       "posted_at": "2026-09-08T10:45:08+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229843",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.58K",
+      "views_label": "1.65K",
       "posted_at": "2026-09-08T10:33:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229842",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.64K",
+      "views_label": "1.74K",
       "posted_at": "2026-09-08T10:26:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229841",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.04K",
+      "views_label": "2.13K",
       "posted_at": "2026-09-08T09:59:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229840",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.26K",
+      "views_label": "2.32K",
       "posted_at": "2026-09-08T09:41:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229839",
@@ -233,7 +261,7 @@
       "plain_text": "🔺نماینده مجلس: تغییر قیمت بنزین «التهاب‌زا» است؛ جایگاه‌ها به مشکل فنی خوردند\n\n▪️پس از افزایش قیمت بنزین آزاد از پنج هزار تومان به ۱۰ هزار تومان، رئیس کمیسیون امور داخلی مجلس شورای اسلامی گفت تغییر قیمت بنزین بدون همراهی مجلس «التهاب‌زا» است.\n\n▪️سهمیه‌های یارانه‌ای تغییر نکرده است. مالکان خودروهای شخصی همچنان ماهانه ۶۰ لیتر با نرخ ۱۵۰۰ تومان و ۵۰ لیتر با نرخ ۳۰۰۰ تومان دریافت می‌کنند. نرخ تازه زمانی اعمال می‌شود که مصرف از مجموع سهمیه‌ها بگذرد یا راننده کارت شخصی همراه نداشته باشد.\n\n▪️همزمان اجرای طرح با مشکل فنی روبه‌رو شد و در جایگاه‌های سوخت مشکلاتی ایجاد کرد. بر اساس گزارش رسانه‌ها، نمایشگرهای جایگاه‌های سوخت چهار رقمی‌اند و رقم ۱۰ هزار تومان روی آنها جا نمی‌شود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195513.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.32K",
+      "views_label": "2.38K",
       "posted_at": "2026-09-08T09:31:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229838",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.38K",
+      "views_label": "2.42K",
       "posted_at": "2026-09-08T09:17:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229837",
@@ -289,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.6K",
+      "views_label": "2.64K",
       "posted_at": "2026-09-08T09:02:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229836",
@@ -317,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.57K",
+      "views_label": "2.64K",
       "posted_at": "2026-09-08T08:52:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229835",
@@ -333,7 +361,7 @@
       "plain_text": "🔺هاکبی: ممنوعیت تجارت بریتانیا با شهرک‌های اسرائیلی واکنش آمریکا را برمی‌انگیزد\n\n▪️سفیر آمریکا در اسرائیل هشدار داد اعلام ممنوعیت تجارت بریتانیا با شهرک‌های کرانه باختری احتمالاً واکنش آمریکا را در پی دارد. مایک هاکبی به شبکه خبری بی‌بی‌سی گفت «بدون تردید» واکنشی خواهد بود، از جمله در سطح ایالت‌های منفرد آمریکا.\n\n▪️هاکبی افزود این می‌تواند «اثر اقتصادی عظیمی بر کسب‌وکارهای بریتانیایی» داشته باشد، چون برخی شرکت‌ها ممکن است از فعالیت در برخی ایالت‌ها منع شوند.\n\n▪️پیشتر رندی فاین، نماینده جمهوری‌خواه، در شبکه ایکس نوشت: «فلوریدا یکی از بزرگترین شرکای تجاری بریتانیاست. باید بدانند پروژه خودنمایانه‌شان در پشتیبانی از تروریسم مسلمانان می‌تواند میلیاردها دلار برایشان هزینه داشته باشد.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195511.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.63K",
+      "views_label": "2.69K",
       "posted_at": "2026-09-08T08:42:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229834",
@@ -361,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.53K",
+      "views_label": "2.59K",
       "posted_at": "2026-09-08T08:31:45+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229833",
@@ -377,7 +405,7 @@
       "plain_text": "🔺دو وزیر اسرائیلی خواستار اخراج سفیر بریتانیا و تحریم این کشور شدند\n\n▪️بتسلئل اسموتریچ، وزیر دارایی اسرائیل، پس از گزارش‌هایی درباره ممنوعیت تجارت بریتانیا با شهرک‌های کرانه باختری، خواستار اخراج فوری سفیر این کشور شد.\n\n▪️او شامگاه دوشنبه در شبکه ایکس نوشت: «سفیر بریتانیا را همین امشب اخراج کنید! قیمومیت بریتانیا بر سرزمین اسرائیل تمام شده است.»\n\n▪️ایتمار بن‌گویر، وزیر امنیت ملی اسرائیل نیز واکنش متفاوتی نشان داد.\n\n▪️او در شبکه ایکس و به زبان اسپانیایی نوشت: «وقت آن رسیده که دولت اسرائیل علناً به رسمیت بشناسد که جزایر مالویناس سرزمین آرژانتین است.» او از بنیامین نتانیاهو خواست حاکمیت آرژانتین را بپذیرد و «تا زمانی که اشغال ادامه دارد» بریتانیا را تحریم کند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195510.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.72K",
+      "views_label": "2.75K",
       "posted_at": "2026-09-08T08:20:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229832",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.69K",
+      "views_label": "2.72K",
       "posted_at": "2026-09-08T08:12:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229831",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.07K",
+      "views_label": "3.1K",
       "posted_at": "2026-09-08T07:57:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229830",
@@ -449,7 +477,7 @@
       "plain_text": "🔺نفتالی بنت: امارات حمله ۷ اکتبر را به نتانیاهو گزارش داده بود\n\n▪️نفتالی بنت، نخست‌وزیر پیشین اسرائیل، گفت گزارش روزنامه هاآرتص درباره دریافت هشدار شخصی نتانیاهو از رئیس امارات پیش از حمله ۱۵ مهر ۱۴۰۲ «درست است».\n\n▪️او در شبکه ایکس نوشت: «گزارشی که امروز صبح منتشر شد مبنی بر اینکه نتانیاهو ۱۰ روز پیش از کشتار ۷ اکتبر درباره نیت‌های سنوار هشدار گرفته بود، درست است. نتانیاهو مسئولیت شخصی و مستقیم شکستی را بر عهده دارد که به مرگ هزاران اسرائیلی در دوره او انجامید.»\n\n▪️رهبر حزب «با هم» گفت بی‌توجهی نتانیاهو به هشدارها «به قصور جنایی می‌رسد». او افزود: «به همین دلیل است که هر کاری می‌کند تا از تشکیل کمیسیون تحقیق دولتی که حقیقت را آشکار کند جلوگیری کند.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195509.html",
       "media": [],
       "reactions": [],
-      "views_label": "3.27K",
+      "views_label": "3.3K",
       "posted_at": "2026-09-08T07:39:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229829",
@@ -2615,34 +2643,6 @@
       "posted_at": "2026-09-07T14:17:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229738",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229737",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "مقام‌های جمهوری اسلامی می‌گویند مرز پاکستان باز است، اما رانندگان از معطلی تا ۲۵ روز و مطالبه دو میلیارد و ۳۰۰ میلیون تومان برای عبور می‌گویند. مسیری که قرار بود راه دور زدن محاصره دریایی آمریکا باشد، اکنون برای کامیون‌های ایرانی عملا قفل شده است.",
-      "plain_text": "مقام‌های جمهوری اسلامی می‌گویند مرز پاکستان باز است، اما رانندگان از معطلی تا ۲۵ روز و مطالبه دو میلیارد و ۳۰۰ میلیون تومان برای عبور می‌گویند. مسیری که قرار بود راه دور زدن محاصره دریایی آمریکا باشد، اکنون برای کامیون‌های ایرانی عملا قفل شده است.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229737",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/oPAgVewxtpotfVpLbkDmPcm-sjxqlmTxi_cVtgRijKt7Mk4V088CRgC16V5-KSolioPKPCekdM974-sokfwIFG1xBMZmoMVJ9tSwbf19jB_BuGCEe0fTf7wv4hkAlpYD8y8EiXpqqHqxdb-zd5jcxJoXd6EHb-SQj26YZS-0vgJD-Su7GqxsuEgKUGWUpCOvCZNOqpepE1IvXWUdDWaq1nlhpDKhsB2gY8RvZiUbimIi04Qa-EZW3sPfoy2N5ofiAsreQskY84oaT2M_qDv5NKoybH91ebGsqQVQaDVOC2_X8EDmSdLN3YJjwcDixSr9NadMSL2JFQBm1blhuKiPTA",
-          "thumbnail_path": "channels/farsivoa/media/20e0aefd302e3d0aebfced83.jpg",
-          "thumbnail_sha256": "c97f9c62183e38f8fbbdcfe8a244d2f2b42e36a81fa1618952a730182c96581c",
-          "duration_label": "5:37",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.42K",
-      "posted_at": "2026-09-07T14:11:24+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229737",
       "reply": null
     }
   ]
