@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T19:16:42.881Z",
+  "fetched_at": "2026-09-08T19:21:46.986Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356378",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "صدا و سیمای جمهوری اسلامی ویدیویی منتشر کرده که به گفته این رسانه‌، یک شناور زیرسطحی بدون سرنشین آمریکایی را نشان می‌دهد.<br><br>بر اساس این گزارش، نیروی دریایی سپاه پاسداران این شناور را نزدیک ورودی تنگه هرمز «توقیف کرده است». رسانه‌های حکومتی این شناور را از نوع «دایو-ال‌دی» ساخت شرکت اندوریل معرفی کردند.<br><br>در سوی دیگر، یک مقام آمریکایی گفت یک شناور زیرسطحی نظامی این کشور بیش از یک روز پیش در خاورمیانه دچار نقص فنی شده بود.<br><br>او افزود این شناور مدلی قدیمی بوده و تجهیزات سونار یا رادار طبقه‌بندی‌شده حمل نمی‌کرده است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "صدا و سیمای جمهوری اسلامی ویدیویی منتشر کرده که به گفته این رسانه‌، یک شناور زیرسطحی بدون سرنشین آمریکایی را نشان می‌دهد.\n\nبر اساس این گزارش، نیروی دریایی سپاه پاسداران این شناور را نزدیک ورودی تنگه هرمز «توقیف کرده است». رسانه‌های حکومتی این شناور را از نوع «دایو-ال‌دی» ساخت شرکت اندوریل معرفی کردند.\n\nدر سوی دیگر، یک مقام آمریکایی گفت یک شناور زیرسطحی نظامی این کشور بیش از یک روز پیش در خاورمیانه دچار نقص فنی شده بود.\n\nاو افزود این شناور مدلی قدیمی بوده و تجهیزات سونار یا رادار طبقه‌بندی‌شده حمل نمی‌کرده است.\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356378",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/hBiSV5cpPiYmfFejD6TptC9kDGEmzbKP8mCiDsvjUcNnTiKt_I6WcmQPSHUA07eArRi9ZnquyhwB0ZAqCYfmBW4JQSgbayrFMzUnoeWF9SEgkieG4CWVPTriEqVx_oSxe4RIB5h6kGrop-mewp8L0_I-xE966GU5mYoFwDX7nJWV99VQXQZYCHNcytGoJp9E5QK3VamqPYLlrEaVsi7oqsae4mj0mmxqiUaFSLGDnP13qhMoT1v9VFZr-QiTVFXaOT5UcUQ_vC-T_XnQq8MpimVonPTHKGKaiWBGrGuqBhwueJdNopgOY14cFzxhJZiroa1bRyUltqWO7_wTtoPk_A",
+          "thumbnail_path": "channels/iranintltv/media/4482d316aece89d25c62e788.jpg",
+          "thumbnail_sha256": "9ecd35f1f1e71f2c5f14d49e6c8204a8fdfd3c6f0c40eceb671bb7a42fa22fd4",
+          "duration_label": "0:35",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "5.2K",
+      "posted_at": "2026-09-08T19:18:58+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356378",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356377",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.12K",
+      "views_label": "10.4K",
       "posted_at": "2026-09-08T19:14:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356377",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.8K",
+      "views_label": "23K",
       "posted_at": "2026-09-08T18:59:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356376",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.9K",
+      "views_label": "25.1K",
       "posted_at": "2026-09-08T18:57:35+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356375",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.8K",
+      "views_label": "24K",
       "posted_at": "2026-09-08T18:55:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356374",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.8K",
+      "views_label": "23K",
       "posted_at": "2026-09-08T18:54:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356373",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.8K",
+      "views_label": "22K",
       "posted_at": "2026-09-08T18:54:32+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356372",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.1K",
+      "views_label": "26.2K",
       "posted_at": "2026-09-08T18:47:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356371",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.1K",
+      "views_label": "27.2K",
       "posted_at": "2026-09-08T18:44:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356370",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.6K",
+      "views_label": "37.7K",
       "posted_at": "2026-09-08T18:31:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356369",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.5K",
+      "views_label": "36.6K",
       "posted_at": "2026-09-08T18:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356368",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.5K",
+      "views_label": "35.6K",
       "posted_at": "2026-09-08T18:27:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356367",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.7K",
+      "views_label": "38.8K",
       "posted_at": "2026-09-08T18:19:14+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356366",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.7K",
+      "views_label": "37.8K",
       "posted_at": "2026-09-08T18:14:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356365",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.9K",
+      "views_label": "43K",
       "posted_at": "2026-09-08T18:04:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356364",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.8K",
+      "views_label": "40.9K",
       "posted_at": "2026-09-08T18:03:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356363",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "46.2K",
+      "views_label": "47.3K",
       "posted_at": "2026-09-08T17:44:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356362",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.3K",
+      "views_label": "50.4K",
       "posted_at": "2026-09-08T17:36:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356361",
@@ -509,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.3K",
+      "views_label": "50.3K",
       "posted_at": "2026-09-08T17:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356360",
@@ -537,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "52.5K",
+      "views_label": "53.5K",
       "posted_at": "2026-09-08T17:18:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356359",
@@ -2733,34 +2761,6 @@
       "posted_at": "2026-09-08T08:28:38+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356276",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356275",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "مجتبی زارعی، عضو کمیسیون امنیت ملی مجلس، در کانال تلگرامی خود نوشت در جلسه این کمیسیون با عراقچی، وزیر خارجه در پاسخ به سوالی در خصوص انتقام، گفت: «در همه‌جا از مجازات قاتلین سخن گفتم و اینجا هم می‌گویم هر عزیزی، چه نظامی و چه غیرنظامی، ترامپ را قصاص کند، دستش را می‌بوسم.»<br><a href=\"https://iranintl.com/202609080768\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609080768</a>",
-      "plain_text": "مجتبی زارعی، عضو کمیسیون امنیت ملی مجلس، در کانال تلگرامی خود نوشت در جلسه این کمیسیون با عراقچی، وزیر خارجه در پاسخ به سوالی در خصوص انتقام، گفت: «در همه‌جا از مجازات قاتلین سخن گفتم و اینجا هم می‌گویم هر عزیزی، چه نظامی و چه غیرنظامی، ترامپ را قصاص کند، دستش را می‌بوسم.»\nhttps://iranintl.com/202609080768",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356275",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/aUfLIBuQ7POX8m4_c3v5OoQzlqRxRrJ00PB7DmV5X9gpWswUWaZ_NS22VGbDSVVpU9z_Pcs571jLn-4O-l8eEo-l8fHn3K9hwrfZ39TxinJNfH36UH9VrzCSp8A7LVVxnYJftOVr0cA1TaxbRGMutHc8cl3w0r1_Vr2gfk5Dw42sREE-4vVTa13rG5g13EsdePrzilacMac_Gbxq1Av1CS25VKjBAi2gSRef60Xsx8wNhixOUKzppeQw-YE2_YHjPUN0wbFTRVtDKdxK2-KAQDmrr66kTOS3IO9JZKF2PxEpbA72iIPGt61uL1IXrAcMQYvhhXlSJmublnhUEfBOuA.jpg",
-          "thumbnail_path": "channels/iranintltv/media/5f566325147cf9fb5e4bceac.jpg",
-          "thumbnail_sha256": "b547612951b5b1b926f20e458fbae71add0d665aa07c20ae9c64dde845edddf1",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "35.6K",
-      "posted_at": "2026-09-08T08:21:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356275",
       "reply": null
     }
   ]
