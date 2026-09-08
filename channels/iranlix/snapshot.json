@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T13:01:39.415Z",
+  "fetched_at": "2026-09-08T13:06:39.238Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12715",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l_9ufMfFpJ25r_afGsqRdLe1TBpEdGtQubrLV3heTp0xaKy_3bOMj2CgWrdIc1UpDv6BDR1CUz7LUOwlbGt6cwYajWQXJCUkSLc4mDg8KVE14zTZ9LwGvkwqm71diFwCbH2nViIRdsbm6NTEHx-FPiGHK2If0glqgKIwFN6E3fpPfXG4L5B_8u0lF9SlI9JysGs-RP3ETL5mlmlmj6cRJFK1sNdtj7tP4DYND499o8XinHXPyv-COryBv7foYUzrzsqsk-AuzXwXdGL2-S-fyV30ffZpU_JFFsxZW8baXEnEFumOwn_VcgVB9V_D4tzEEogyHXtPWDrMkW0xK7JN9Q.jpg",
+      "author_photo_path": "channels/iranlix/media/cea36268eb0d26be31369b06.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AEF09F87B1.png')\"><b>🇮🇱</b></i>وزارت خاجه اسرائیل:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>در حالی که منابع و ثروت‌های ملی مستقیم به کام جریان‌های خاص و اولویت‌های غیرملی سرازیر می‌شود، مردم عادی قدرت تامین ابتدایی‌ترین نیازهای روزمره خود را ندارند.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🇮🇱وزارت خاجه اسرائیل:\n\n🔹در حالی که منابع و ثروت‌های ملی مستقیم به کام جریان‌های خاص و اولویت‌های غیرملی سرازیر می‌شود، مردم عادی قدرت تامین ابتدایی‌ترین نیازهای روزمره خود را ندارند.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/12715",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/lJYOiBj1f79Z_c-Qkzik_MxSPiD6aMmAujb0D-pYHZWgTW8aXZO_s2L6SxD8BtSEvj3sGKYTRktISC6iHDrDAr0-hDVj9vJmYskjqAgnTC1KCdYYU1xyPb64zQOd09Dh6BEAoev7VZPOYOV5Bex1NX81fwkxBqqEGI_NTvoSyJo9O_6aUzcnGZV7VKgn6VqK_k6gXJfqm0iq5nSkZKv8Zjhn2ngPK36o7WfqRtAi9Us1_CTtCS8wM1dS6nJo6if4ljIAYF3kc7ingqLA-KJB9LWN7ieNxHGWKnEDL2V68KiMHIrIWj_jvocW9uEWZoewzNH0UEVIn5Wapno8fiPlng.jpg",
+          "thumbnail_path": "channels/iranlix/media/aa17edca841173e8ec3e3553.jpg",
+          "thumbnail_sha256": "e44648397ded282e51e244e572117646096de69f397b87b77d5f682b2c639513",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [],
+      "views_label": "49",
+      "posted_at": "2026-09-08T13:03:26+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12715",
+      "reply": null
+    },
     {
       "id": "iranlix/12714",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "219",
+      "views_label": "255",
       "posted_at": "2026-09-08T12:27:25+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12714",
@@ -94,7 +122,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "365",
+      "views_label": "396",
       "posted_at": "2026-09-08T11:59:16+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12710",
@@ -122,7 +150,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "570",
+      "views_label": "595",
       "posted_at": "2026-09-08T11:13:48+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12709",
@@ -150,7 +178,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "722",
+      "views_label": "738",
       "posted_at": "2026-09-08T10:32:14+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12708",
@@ -178,7 +206,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "708",
+      "views_label": "725",
       "posted_at": "2026-09-08T10:28:29+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12707",
@@ -206,7 +234,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "709",
+      "views_label": "723",
       "posted_at": "2026-09-08T10:21:59+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12706",
@@ -234,7 +262,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "818",
+      "views_label": "827",
       "posted_at": "2026-09-08T09:40:57+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12705",
@@ -250,7 +278,7 @@
       "plain_text": "آی مردم! اگه با برادران گمنام موسی 🇮🇱 ارتباط دارید بهشون بگید : این قیچک بچه های لانچر و مانچر... جرات ندارن سمت اسرائیل حتی یک ریگ پرت کنن. ندارن آقا! مثل سوسک که از امشی میترسه، میترسن!\nولشون کنین. اینکاره نیستن، فقط 💩 تناول میکنن!\nتمام فرماندهاشونم که سقط کردین، کسی نمونده! فک کردید محسن چپ چُس (رضایی) یا اون یکی مجید قشنگ (موسوی)‌یا مجتبی جرات دارند؟\nنــــــــــــدارن، باباشونم نداره!\n\n@iranlix",
       "media": [],
       "reactions": [],
-      "views_label": "792",
+      "views_label": "798",
       "posted_at": "2026-09-08T09:35:51+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12704",
@@ -287,7 +315,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "823",
+      "views_label": "829",
       "posted_at": "2026-09-08T09:22:50+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12703",
@@ -315,7 +343,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "799",
+      "views_label": "803",
       "posted_at": "2026-09-08T09:21:25+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12702",
@@ -354,7 +382,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "790",
+      "views_label": "797",
       "posted_at": "2026-09-08T09:20:02+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12700",
@@ -382,7 +410,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "887",
+      "views_label": "891",
       "posted_at": "2026-09-08T08:53:11+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12699",
@@ -410,7 +438,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "894",
+      "views_label": "899",
       "posted_at": "2026-09-08T08:38:45+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12698",
@@ -438,7 +466,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.05K",
+      "views_label": "1.06K",
       "posted_at": "2026-09-08T06:55:10+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12697",
@@ -2933,34 +2961,6 @@
       "posted_at": "2026-09-05T20:14:52+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12606",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12605",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/P6wlknCu4KydGDASnYIJkSL42jXufROUjwRrm01v7d51p3YBEx4rkQqYs2krFRd4LHxq08mmEy2TgCu4J08n1ZSq4paFfXykL6OUFFjnmHtPmJBtBzfKlwmoLApVk-hNCwoL_o5_BhnH1XV2kRj1D9AC6GrktP5S1x_N6bbjtspXBjUWiGZM-RyGHabxIzRLAK0ahjPnDYjTX3GkA8zCiRKYeBgBZ2IZIJafC1T4hqw3d7cILAqS-xr4k_jJzzVdlQM_10wXECCBz6Ghjgv3P7yq1mMYdKuv0PT6kTc0TA6UOTJAVRnZgMZXVG41AUnWWGzcvDjcbkzyxVcxRpZqtg.jpg",
-      "author_photo_path": "channels/iranlix/media/140d7098768bcd69ed55b2fa.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>نتانیاهو، درباره ج.ا:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>اگر ما علیه ج.ا اقدام نمی‌کردیم، امروز ج.ا بمب‌های هسته‌ای داشت که برای نابودی ما طراحی شده بودند.حالا آن‌ها دوباره تلاش خواهند کرد. آن‌ها دوباره در حال تلاش هستند، و دوباره تلاش خواهند کرد تا ائتلافی را که ما شکست دادیم، بازسازی کنند.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔻نتانیاهو، درباره ج.ا:\n\n🔹اگر ما علیه ج.ا اقدام نمی‌کردیم، امروز ج.ا بمب‌های هسته‌ای داشت که برای نابودی ما طراحی شده بودند.حالا آن‌ها دوباره تلاش خواهند کرد. آن‌ها دوباره در حال تلاش هستند، و دوباره تلاش خواهند کرد تا ائتلافی را که ما شکست دادیم، بازسازی کنند.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/iranlix/12605",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/PWhZsUc6pU2Klllc2ReANv5XSmQQDip9mCGqjhuMPs0u-3s3WDSUvEsVZvYPzQdCm9c7k358si0RSfcRQWt_X12i22huFQA3tOtzU2Rpl3sMugNfXkbAWvGPRKPyl4ivqFG0aGBK5x69EWvBllwNhPE7Oqd3ozDAgQNuoGP6qwTzby3-5bzrBqaGIldWCqCNOq6REDfASha0NB3FeaF5K6lv70Kzf-mGy3XC4ld7KLOb9oV1AkrKQjrBsns-np7QMfvGSWYSRHJwHlzPjAJQpPnSjhL-AUvJFDZT61h2AsCAli03eMZpRxSV41CTCI5XMn3HJpYzvcOuZsIR9O52kw",
-          "thumbnail_path": "channels/iranlix/media/0b6ec12477f0979fd6e86830.jpg",
-          "thumbnail_sha256": "971fcc8b1143bde6b6ec5b238b2b34f9c11dd242c46dfe99e8de08b02e204d0e",
-          "duration_label": "0:25",
-          "aspect_ratio": 1.133333333333334
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.32K",
-      "posted_at": "2026-09-05T19:48:07+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12605",
       "reply": null
     }
   ]

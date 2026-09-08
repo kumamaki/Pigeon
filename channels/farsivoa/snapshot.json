@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T13:01:37.259Z",
+  "fetched_at": "2026-09-08T13:06:37.335Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,62 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229856",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "ولودیمیر زلنسکی، رئیس‌جمهوری اوکراین، گفت استیو ویتکاف و جرد کوشنر در گفت‌وگوهای آخر هفته چند «ایده شایسته» برای پایان جنگ با روسیه ارائه کردند.<br><br>او روز سه‌شنبه به خبرنگاران گفت: «درباره بسته صلحی که کوشنر از آن سخن گفت و ایده‌های تازه می‌توانم بگویم واقعاً ایده‌های بسیار شایسته و ارزشمندی وجود داشت.»<br><br>زلنسکی جزئیات بیشتری نداد و گفت کی‌یف با فرستادگان آمریکا توافق کرده در گام نخست روی آنها کار کنند.<br><br>رئیس‌جمهوری اوکراین گفت قصد دارد اواخر همین ماه با دونالد ترامپ، رئیس‌جمهوری آمریکا، دیدار کند. به گفته او، بسته پشتیبانی پدافند هوایی برای زمستان محور اصلی آن دیدار خواهد بود.<br><br>زلنسکی گفت نمایندگان اوکراین، آمریکا و اروپا به‌زودی برای آماده‌سازی نشستی سه‌جانبه دیدار می‌کنند. بر پایه گفته او، ترکیه، امارات متحده عربی، سوئیس یا کشورهای دیگر می‌توانند میزبان باشند.",
+      "plain_text": "ولودیمیر زلنسکی، رئیس‌جمهوری اوکراین، گفت استیو ویتکاف و جرد کوشنر در گفت‌وگوهای آخر هفته چند «ایده شایسته» برای پایان جنگ با روسیه ارائه کردند.\n\nاو روز سه‌شنبه به خبرنگاران گفت: «درباره بسته صلحی که کوشنر از آن سخن گفت و ایده‌های تازه می‌توانم بگویم واقعاً ایده‌های بسیار شایسته و ارزشمندی وجود داشت.»\n\nزلنسکی جزئیات بیشتری نداد و گفت کی‌یف با فرستادگان آمریکا توافق کرده در گام نخست روی آنها کار کنند.\n\nرئیس‌جمهوری اوکراین گفت قصد دارد اواخر همین ماه با دونالد ترامپ، رئیس‌جمهوری آمریکا، دیدار کند. به گفته او، بسته پشتیبانی پدافند هوایی برای زمستان محور اصلی آن دیدار خواهد بود.\n\nزلنسکی گفت نمایندگان اوکراین، آمریکا و اروپا به‌زودی برای آماده‌سازی نشستی سه‌جانبه دیدار می‌کنند. بر پایه گفته او، ترکیه، امارات متحده عربی، سوئیس یا کشورهای دیگر می‌توانند میزبان باشند.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229856",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/lmOQPrLncri9bbcddUTpeOBSx7sHdfIW0wvlpQTPFtIokOsK82BZV3qLgUtAUFHrqgHM1X8N7WFGHtVUrn3jjhxFiT9PR8URpRHn1GR6QmmwFBSn1nVn6zVgrzUdYvjZn4Uw5UNZIkP0SzbkYZ232BbBTiuknJNpHueybHJm7MmNTWxv3MUP8owwJA8DLZwc2Z7iMYlsHckpUuMvYWR1Uy9_OHU_6t8xR_i5J_o4kQ8f7E5My9WrZKpUNScHo-FcIwbmEnS30awvUCEiIDRdpTrKGv7J1N7SHf4hpOJ1TpmKYzhwDE5YwNTVt7aOy-Pa8KIkbtddXEJDsJNLdpHtlg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/a633fe8a6ed766e0094b01f8.jpg",
+          "thumbnail_sha256": "b862897b3d125d1a7720df38fe3c518bad624701e69b52d99470f1b5fbfc5a1d",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "122",
+      "posted_at": "2026-09-08T13:05:20+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229856",
+      "reply": null
+    },
+    {
+      "id": "farsivoa/229855",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "فرماندهی مرکزی ایالات متحده، سنتکام، تصویری از برخاستن یک جنگنده «ئی‌ای ۱۸جی» از عرشه ناو هواپیمابر «یواس‌اس جرج اچ دبلیو بوش» در جریان عملیات شبانه در دریای عرب منتشر کرد.<br><br>به گفته سنتکام، این ناو در اجرای محاصره دریایی رژیم ایران مشارکت دارد و نیروهای آمریکایی تا ۱۶ شهریور مسیر ۹۴ کشتی تجاری را تغییر داده، سه شناور را از کار انداخته و وارد دو شناور دیگر شده‌اند.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "فرماندهی مرکزی ایالات متحده، سنتکام، تصویری از برخاستن یک جنگنده «ئی‌ای ۱۸جی» از عرشه ناو هواپیمابر «یواس‌اس جرج اچ دبلیو بوش» در جریان عملیات شبانه در دریای عرب منتشر کرد.\n\nبه گفته سنتکام، این ناو در اجرای محاصره دریایی رژیم ایران مشارکت دارد و نیروهای آمریکایی تا ۱۶ شهریور مسیر ۹۴ کشتی تجاری را تغییر داده، سه شناور را از کار انداخته و وارد دو شناور دیگر شده‌اند.\n\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229855",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Z_TX7TZhRANqeUi3cJATIoGj3zh1Ps7hRwj0djIDUkG-4BjwSIDs0R6-xzw-t05lSuzQFxQBCq4mlAnZDyJ7yjTWBerlclJm34FcDcubpZ1aUwN2KKuV-L5hnQrgPSJR5WvqAPw86lPtxAHZmkIe8SpSi6EKjdpSnLfVOBKO6I6sha_wLSDIPr0cWQpPmjHkZbndgjNEsiWnyvfY-kAAMwmlxtVb1p4ZpRwZzVOZrU8rp2rzDOvwYX2mp_vjcyJVjcKp18cFD0osY_4nEDERwAEyQ04iix7MVacxgWscYeicDEAgHuxYbl8wSAkDVttr7in06j8pLMDwBk174e7SxQ.jpg",
+          "thumbnail_path": "channels/farsivoa/media/156ce2ed318cc8ed49dbf4b7.jpg",
+          "thumbnail_sha256": "7fd756c34363b8a63ad5dbd09d289fa03b42f4919f4fe92cfb00a75a864194d3",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "187",
+      "posted_at": "2026-09-08T13:03:44+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229855",
+      "reply": null
+    },
     {
       "id": "farsivoa/229854",
       "author_name": "Farsi VOA",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "508",
+      "views_label": "724",
       "posted_at": "2026-09-08T12:50:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229854",
@@ -61,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "857",
+      "views_label": "1.01K",
       "posted_at": "2026-09-08T12:39:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229853",
@@ -89,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.24K",
+      "views_label": "1.37K",
       "posted_at": "2026-09-08T12:25:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229852",
@@ -105,7 +161,7 @@
       "plain_text": "🔺بریتانیا لایحه تحریم‌های سخت‌تر علیه جمهوری اسلامی را منتشر کرد\n\n▪️بریتانیا روز سه‌شنبه قانونی برای اعمال تحریم‌های سخت‌تر علیه جمهوری اسلامی منتشر کرد که محدودیت‌های تجاری و اختیارات هدف قرار دادن شناورها را گسترش می‌دهد.\n\n▪️دولت بریتانیا اقدام را بخشی از تلاش گسترده‌تر برای مهار برنامه هسته‌ای تهران و «دیگر فعالیت‌های خصمانه» خواند. بر پایه اعلام دولت بریتانیا، اقدام‌ها دسترسی جمهوری اسلامی به نظام مالی این کشور را محدود می‌کند.\n\n▪️ممنوعیت تجارت به کالاها، فناوری و خدمات بیشتری گسترش می‌یابد و فرود هواپیماهای ایرانی در بریتانیا جز در موارد استثنا ممنوع می‌شود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/uk-publishes-legislation-for-tougher-sanctions-on-iran/8195516.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.66K",
+      "views_label": "1.76K",
       "posted_at": "2026-09-08T12:07:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229851",
@@ -121,7 +177,7 @@
       "plain_text": "🔺ژاپن نگرانی خود را از حملات جمهوری اسلامی به شناورها در هرمز ابراز کرد\n\n▪️توشیمیتسو موتگی، وزیر خارجه ژاپن، در گفت‌وگوی تلفنی با عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، نگرانی خود را از ادامه حملات جمهوری اسلامی به شناورهای غیرنظامی ابراز کرد و خواستار «حداکثر خویشتنداری» شد.\n\n▪️بر پایه اعلام وزارت خارجه ژاپن، در این تماس پنج خواسته توکیو از جمله کاهش تنش و از سرگیری مذاکرات، انعطاف حداکثری، توقف حمله به شناورها، بازگشت آزادی دریانوردی بدون هزینه افزوده و مهار حوثی‌ها به عراقچی منتقل شد.\n\n▪️در مقابل عراقچی از «پیشرفت قابل توجه» گفت‌وگوها با عمان برای تعیین یک مسیر موقت تردد در تنگه هرمز خبر داد. ژاپن اما می‌گوید آینده تنگه باید در جامعه بین‌المللی بررسی شود، نه دوجانبه.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/japan-expresses-concern-over-iranian-attacks-on-vessels-in-hormuz/8195515.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.57K",
+      "views_label": "1.63K",
       "posted_at": "2026-09-08T12:02:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229850",
@@ -149,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.62K",
+      "views_label": "1.68K",
       "posted_at": "2026-09-08T11:51:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229849",
@@ -177,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.72K",
+      "views_label": "1.78K",
       "posted_at": "2026-09-08T11:44:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229848",
@@ -205,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.81K",
+      "views_label": "1.9K",
       "posted_at": "2026-09-08T11:34:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229847",
@@ -233,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.93K",
+      "views_label": "1.99K",
       "posted_at": "2026-09-08T11:24:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229846",
@@ -261,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.18K",
+      "views_label": "2.22K",
       "posted_at": "2026-09-08T11:08:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229845",
@@ -289,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.28K",
+      "views_label": "2.34K",
       "posted_at": "2026-09-08T10:57:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229844",
@@ -305,7 +361,7 @@
       "plain_text": "🔺هشدار استادان دانشگاه مبنی بر اعتصاب از اول مهر و حاضر نشدن در کلاس‌ها\n\n▪️کانون صنفی استادان دانشگاهی ایران هشدار داد اگر قانون ترمیم حقوق اعضای هیئت علمی تا پایان شهریور به‌طور کامل اجرا نشود، از استادان می‌خواهد فعالیت‌های دانشگاهی خود را از ابتدای مهر تعلیق کنند.\n\n▪️بر پایه بیانیه این کانون، تعلیق حوزه‌های آموزشی، پژوهشی، اجرایی و مشاوره‌ای را در بر می‌گیرد و تا اجرای «کامل و بی‌قیدوشرط» قانون ادامه می‌یابد.\n\n▪️در بیانیه آمده است اعضای هیئت علمی پس از دو سال طی شدن مراحل کارشناسی و قانونی انتظار داشتند اجرای قانون بخشی از مشکلات معیشتی آنان را کاهش دهد.\n\n▪️با این حال با گذشت نزدیک به شش ماه از سال ۱۴۰۵، قانون همچنان به‌طور کامل اجرا نشده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195514.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.53K",
+      "views_label": "2.56K",
       "posted_at": "2026-09-08T10:45:08+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229843",
@@ -333,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.49K",
+      "views_label": "2.53K",
       "posted_at": "2026-09-08T10:33:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229842",
@@ -361,7 +417,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.56K",
+      "views_label": "2.59K",
       "posted_at": "2026-09-08T10:26:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229841",
@@ -389,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.82K",
+      "views_label": "2.85K",
       "posted_at": "2026-09-08T09:59:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229840",
@@ -417,7 +473,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.91K",
+      "views_label": "2.94K",
       "posted_at": "2026-09-08T09:41:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229839",
@@ -433,7 +489,7 @@
       "plain_text": "🔺نماینده مجلس: تغییر قیمت بنزین «التهاب‌زا» است؛ جایگاه‌ها به مشکل فنی خوردند\n\n▪️پس از افزایش قیمت بنزین آزاد از پنج هزار تومان به ۱۰ هزار تومان، رئیس کمیسیون امور داخلی مجلس شورای اسلامی گفت تغییر قیمت بنزین بدون همراهی مجلس «التهاب‌زا» است.\n\n▪️سهمیه‌های یارانه‌ای تغییر نکرده است. مالکان خودروهای شخصی همچنان ماهانه ۶۰ لیتر با نرخ ۱۵۰۰ تومان و ۵۰ لیتر با نرخ ۳۰۰۰ تومان دریافت می‌کنند. نرخ تازه زمانی اعمال می‌شود که مصرف از مجموع سهمیه‌ها بگذرد یا راننده کارت شخصی همراه نداشته باشد.\n\n▪️همزمان اجرای طرح با مشکل فنی روبه‌رو شد و در جایگاه‌های سوخت مشکلاتی ایجاد کرد. بر اساس گزارش رسانه‌ها، نمایشگرهای جایگاه‌های سوخت چهار رقمی‌اند و رقم ۱۰ هزار تومان روی آنها جا نمی‌شود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195513.html",
       "media": [],
       "reactions": [],
-      "views_label": "3K",
+      "views_label": "3.03K",
       "posted_at": "2026-09-08T09:31:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229838",
@@ -2563,62 +2619,6 @@
       "posted_at": "2026-09-07T15:34:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229747",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229746",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "دونالد ترامپ، رئیس جمهوری آمریکا، در پیامی در شبکه اجتماعی تروث سوشال، وضعیت اقتصادی حکومت ایران را «رو به فروپاشی» توصیف کرد.",
-      "plain_text": "دونالد ترامپ، رئیس جمهوری آمریکا، در پیامی در شبکه اجتماعی تروث سوشال، وضعیت اقتصادی حکومت ایران را «رو به فروپاشی» توصیف کرد.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229746",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/QBqqRxVAztQ-6H2_bYwEyQjMiR_2FMxudF4BX5cZlmO0KSJBjW6DUTOpFsWo5MJbLxq5awD7k__xFzx3Ti3axJDuvb1pQ9-YOH15opPW15USD5eqwHDYDxsuc2TSThx1jYTAEr7UXL3T2l-4elXJuDi0xmzL7vhB6vrIqZqP9DuV73QUm8DZn14O1fe4ECHkSg5WE3UfgChyiDU5VNBFTBm1mpUg35skOR7cLDe4SLquSQRcILqJ8RGiAr_R9Z4LSEn_b8q59uWSliZXW1AqYXXcqyKXr05UUc1W6GvzneJdiO_Obbo8ER_wJ0WsNfFm616ALOxEWTsH1mFD9Zs-4A",
-          "thumbnail_path": "channels/farsivoa/media/221ac650dd096973d15a55a1.jpg",
-          "thumbnail_sha256": "33d0b04976ea695c6d19ac9ca3047678aed455691652aa568e1394072dbc17ec",
-          "duration_label": "3:43",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.95K",
-      "posted_at": "2026-09-07T15:30:50+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229746",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229745",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "دوشنبه ۱۶ شهریور گروهی از بازنشستگان مخابرات در ایلام در اعتراض به رسیدگی نشدن به مطالبات و مشکلات معیشتی خود تجمع کردند و خواستار اجرای کامل آیین‌نامه اجرایی و ساماندهی وضعیت بیمه‌های تکمیلی شدند.",
-      "plain_text": "دوشنبه ۱۶ شهریور گروهی از بازنشستگان مخابرات در ایلام در اعتراض به رسیدگی نشدن به مطالبات و مشکلات معیشتی خود تجمع کردند و خواستار اجرای کامل آیین‌نامه اجرایی و ساماندهی وضعیت بیمه‌های تکمیلی شدند.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229745",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/jRD5f_hgpw_G-akpbGL0-9L9qlMoi2ZbC1uHo-NWxO3VnaAeuxRLfQi1hMGv_Z31sxh6U2IV_3nInvvZNhow0mtwWQtF_2LlJJ0QwhZUAspTRmsmCY5Kr_HZozIvNTHLMe91NdxNBilW4r0nfcRqQouGvwlKQsq6caPVOffthF6_btzQHfyW43aFeQ-N_Szxp2vjnGYmucup0Zz_ZlBmB80quosiBXsyty5Xc9U6z7COg_Qfs0CDqQgBmMGk1jzCvHmeIc2X3ZwRiS5abiX_8NiRvot78DPoFOXV4OexLxRKPXc_XtbESYwsHpppW0XKNwFGcNTbJ4Fl305r9hDV2w",
-          "thumbnail_path": "channels/farsivoa/media/56027d8cfaa2563ddf5f486d.jpg",
-          "thumbnail_sha256": "f135c449cf7080340d33b404d0d51dfe3122ebd5991dea9cc46aa1c2b9967a16",
-          "duration_label": "0:12",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.15K",
-      "posted_at": "2026-09-07T15:20:10+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229745",
       "reply": null
     }
   ]
