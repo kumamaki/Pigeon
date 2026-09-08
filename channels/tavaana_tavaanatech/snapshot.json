@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T14:26:41.073Z",
+  "fetched_at": "2026-09-08T14:31:49.815Z",
   "channel": {
     "username": "tavaana_tavaanatech",
     "title": "آموزشکده توانا",
@@ -35,7 +35,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "5"
+          "count": "6"
         },
         {
           "emoji": "🕊",
@@ -46,7 +46,7 @@
           "count": "1"
         }
       ],
-      "views_label": "298",
+      "views_label": "312",
       "posted_at": "2026-09-08T13:35:45+00:00",
       "edited": true,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105973",
@@ -80,10 +80,10 @@
         },
         {
           "emoji": "💔",
-          "count": "3"
+          "count": "4"
         }
       ],
-      "views_label": "733",
+      "views_label": "738",
       "posted_at": "2026-09-08T09:58:56+00:00",
       "edited": true,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105972",
@@ -113,7 +113,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "15"
+          "count": "16"
         },
         {
           "emoji": "🕊",
@@ -154,7 +154,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "8"
+          "count": "9"
         },
         {
           "emoji": "❤",
@@ -165,7 +165,7 @@
           "count": "2"
         }
       ],
-      "views_label": "871",
+      "views_label": "876",
       "posted_at": "2026-09-08T05:10:28+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105970",
@@ -195,7 +195,7 @@
       "reactions": [
         {
           "emoji": "💔",
-          "count": "21"
+          "count": "22"
         },
         {
           "emoji": "❤",
@@ -280,7 +280,7 @@
           "count": "26"
         }
       ],
-      "views_label": "563",
+      "views_label": "564",
       "posted_at": "2026-09-07T20:22:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105967",
@@ -317,7 +317,7 @@
           "count": "2"
         }
       ],
-      "views_label": "743",
+      "views_label": "747",
       "posted_at": "2026-09-07T20:22:49+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105966",
@@ -358,7 +358,7 @@
           "count": "2"
         }
       ],
-      "views_label": "687",
+      "views_label": "689",
       "posted_at": "2026-09-07T20:22:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105965",
@@ -399,7 +399,7 @@
           "count": "2"
         }
       ],
-      "views_label": "618",
+      "views_label": "620",
       "posted_at": "2026-09-07T20:22:15+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105964",
@@ -432,7 +432,7 @@
           "count": "20"
         }
       ],
-      "views_label": "609",
+      "views_label": "612",
       "posted_at": "2026-09-07T20:22:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105963",
@@ -469,7 +469,7 @@
           "count": "2"
         }
       ],
-      "views_label": "588",
+      "views_label": "590",
       "posted_at": "2026-09-07T20:21:58+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105962",
@@ -506,7 +506,7 @@
           "count": "1"
         }
       ],
-      "views_label": "720",
+      "views_label": "724",
       "posted_at": "2026-09-07T20:21:47+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105961",
@@ -623,9 +623,13 @@
         {
           "emoji": "❤",
           "count": "3"
+        },
+        {
+          "emoji": "👍",
+          "count": "1"
         }
       ],
-      "views_label": "1.29K",
+      "views_label": "1.3K",
       "posted_at": "2026-09-07T17:14:52+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105958",
