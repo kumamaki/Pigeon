@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T08:08:22.050Z",
+  "fetched_at": "2026-09-08T08:12:09.007Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229831",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
+      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "کمیسیون اروپا درخواست اوکراین برای خرید موشک‌های رهگیر سامانه پدافندی پاتریوت با استفاده از وام ۹۰ میلیارد یورویی اتحادیه اروپا را تأیید کرد.<br><br>بر پایه گزارش رسانه‌های اوکراین این تأیید روز دوشنبه انجام شد و کی‌یف باید پیش از تصمیم‌گیری درباره پرداخت‌های واقعی، قراردادهای خرید را برای بررسی به نهاد اجرایی اتحادیه اروپا ارائه دهد.<br><br>اوکراین بیش از دو میلیارد یورو برای خرید موشک‌ها درخواست کرده است.<br><br>کمیسیون اروپا پیش‌تر فهرستی از تسلیحات را از کی‌یف دریافت کرده بود که بخش عمده شش میلیارد یورو باقی‌مانده از بخش دفاعی وام صرف آنها می‌شود.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "کمیسیون اروپا درخواست اوکراین برای خرید موشک‌های رهگیر سامانه پدافندی پاتریوت با استفاده از وام ۹۰ میلیارد یورویی اتحادیه اروپا را تأیید کرد.\n\nبر پایه گزارش رسانه‌های اوکراین این تأیید روز دوشنبه انجام شد و کی‌یف باید پیش از تصمیم‌گیری درباره پرداخت‌های واقعی، قراردادهای خرید را برای بررسی به نهاد اجرایی اتحادیه اروپا ارائه دهد.\n\nاوکراین بیش از دو میلیارد یورو برای خرید موشک‌ها درخواست کرده است.\n\nکمیسیون اروپا پیش‌تر فهرستی از تسلیحات را از کی‌یف دریافت کرده بود که بخش عمده شش میلیارد یورو باقی‌مانده از بخش دفاعی وام صرف آنها می‌شود.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229831",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/geQo5kXO2J4majnlzkg3EbEoRAyZ7eX39WL_Wz90M6eB9vt9jJN1J98e2DmeoMA33llFebvqicIpn6msNZ_hERZyG23a3uSzVrczo76yGPMq0YWwJmNuZZGKQSG33N7Tv7hMmVk0MCzH4eCL70EDSjVYOR_HNwjWWOxwJiHNn8sEuz1wsJCx0aOAFXKwcYpqQwJMQx2PiMOIC4doHd9bzeLtidec1rxOUQdF-7RTyj8l17wTFCE7oW3iRRHAG3uE5Xm_wW7Yc5ULoJo3dXPZcuxEFBkdBwoQrustjZh2uMDnl2nQOqOL07lvwBYuPkdn4GKCLkPNTnJSeEY-hsfsaA.jpg",
+          "thumbnail_path": "channels/farsivoa/media/dfc71bb151e791485111017e.jpg",
+          "thumbnail_sha256": "69731d3bace1636e18546ad13eb0359961544db007afb4de9cc30636b2d3953c",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T08:12:07+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229831",
+      "reply": null
+    },
     {
       "id": "farsivoa/229830",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "504",
+      "views_label": "599",
       "posted_at": "2026-09-08T07:57:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229830",
@@ -49,7 +77,7 @@
       "plain_text": "🔺نفتالی بنت: امارات حمله ۷ اکتبر را به نتانیاهو گزارش داده بود\n\n▪️نفتالی بنت، نخست‌وزیر پیشین اسرائیل، گفت گزارش روزنامه هاآرتص درباره دریافت هشدار شخصی نتانیاهو از رئیس امارات پیش از حمله ۱۵ مهر ۱۴۰۲ «درست است».\n\n▪️او در شبکه ایکس نوشت: «گزارشی که امروز صبح منتشر شد مبنی بر اینکه نتانیاهو ۱۰ روز پیش از کشتار ۷ اکتبر درباره نیت‌های سنوار هشدار گرفته بود، درست است. نتانیاهو مسئولیت شخصی و مستقیم شکستی را بر عهده دارد که به مرگ هزاران اسرائیلی در دوره او انجامید.»\n\n▪️رهبر حزب «با هم» گفت بی‌توجهی نتانیاهو به هشدارها «به قصور جنایی می‌رسد». او افزود: «به همین دلیل است که هر کاری می‌کند تا از تشکیل کمیسیون تحقیق دولتی که حقیقت را آشکار کند جلوگیری کند.»\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195509.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.11K",
+      "views_label": "1.21K",
       "posted_at": "2026-09-08T07:39:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229829",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.16K",
+      "views_label": "2.2K",
       "posted_at": "2026-09-08T06:31:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229828",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.05K",
+      "views_label": "2.11K",
       "posted_at": "2026-09-08T06:22:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229827",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.03K",
+      "views_label": "2.06K",
       "posted_at": "2026-09-08T06:12:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229826",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.03K",
+      "views_label": "2.06K",
       "posted_at": "2026-09-08T06:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229825",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.06K",
+      "views_label": "2.09K",
       "posted_at": "2026-09-08T05:40:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229823",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.13K",
+      "views_label": "2.16K",
       "posted_at": "2026-09-08T05:30:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229822",
@@ -249,7 +277,7 @@
       "plain_text": "🔺پیشنهاد مصر برای چارچوب امنیتی مشترک عربی در پی حملات جمهوری اسلامی\n\n▪️وزیر امور خارجه مصر، در نشست شورای اتحادیه عرب در قاهره چارچوب امنیتی مشترکی برای کشورهای عربی پیشنهاد کرد.\n\n▪️بنابر گزارش رسانه‌های عربی، بدر عبدالعاطی گفت مصر آماده است با اتحادیه عرب و کشورهای عضو بر سر چارچوبی جامع کار کند که حوزه‌های همکاری، سازوکارهای هماهنگی و رویه‌های واکنش به بحران را تعیین کند.\n\n▪️عبدالعاطی افزود ترتیبات پیشنهادی می‌تواند بر پیمان دفاع مشترک عربی و تصمیم‌های اتحادیه عرب بنا شود، ضمن احترام به حاکمیت و استقلال تصمیم‌گیری کشورهای عضو.\n\n▪️او در همین نشست حملات جمهوری اسلامی به کشورهای عربی را محکوم کرد و همبستگی مصر را با کشورهای خلیج فارس، اردن و عراق اعلام کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195470.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.23K",
+      "views_label": "2.26K",
       "posted_at": "2026-09-08T05:21:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229821",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.27K",
+      "views_label": "2.3K",
       "posted_at": "2026-09-08T05:12:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229820",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.48K",
+      "views_label": "2.51K",
       "posted_at": "2026-09-08T04:47:11+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229818",
@@ -473,7 +501,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.43K",
+      "views_label": "4.46K",
       "posted_at": "2026-09-08T00:01:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229813",
@@ -2591,34 +2619,6 @@
       "posted_at": "2026-09-07T11:58:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229720",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229719",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/blNFX41WFLwwfetqwPbc9AIIrbEDtDL62fnbexIqXUFADWfP5APDn_Nl5fs7vqV2apezTDTHt3rdP4yWDXheCqH0TiMRIu3upAIvqp2QMyAiBYECuPu5VEcAWHcgh10FesUhnED0hY7xecBXJrVbh7RwAapWAgPjN597uiohQLxhCKcS_P6Oo16fgWYjEgZ7zuPN4YPDj3d2u7giWsbUy9TDhQhl24JRtV5hO37vrhzP43g5dXQC2RhfdrkrI9Db5L-tD0Ymx0SFVLROzfDTh-Sv-Y3reLmPVC6_Lm6ZjhNk69YdUSEkB9COXNrfSC4DYcyfJyRCK4QIzxkB9nUteQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/e83379579d7bce1290207773.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "خبرگزاری رسمی لبنان اعلام کرد که ارتش اسرائيل صبح روز دوشنبه شانزدهم شهریورماه، با انجام حملات پهپادی، «بشکه‌هایی حاوی مواد منفجره بسیار قوی» را بر فراز شهرک منصوری در جنوب این کشور رها کرده است.<br><br>تاکنون گزارشی از میزان خسارات این حملات پهپادی اعلام نشده است. همچنین ارتش اسرائيل انجام چنین حملاتی را تأیید و یا تکذیب نکرده است.<br><br>خبرگزاری رسمی لبنان ساعاتی قبل نیز طی گزارش اعلام کرده بود که جنگنده‌های اسرائیل، بامداد دوشنبه، ساختمانی را در «شهرک کفر رمان» در جنوب این کشور هدف قرار داد که منجر به کشته شدن ۱۱ نفر شده است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "خبرگزاری رسمی لبنان اعلام کرد که ارتش اسرائيل صبح روز دوشنبه شانزدهم شهریورماه، با انجام حملات پهپادی، «بشکه‌هایی حاوی مواد منفجره بسیار قوی» را بر فراز شهرک منصوری در جنوب این کشور رها کرده است.\n\nتاکنون گزارشی از میزان خسارات این حملات پهپادی اعلام نشده است. همچنین ارتش اسرائيل انجام چنین حملاتی را تأیید و یا تکذیب نکرده است.\n\nخبرگزاری رسمی لبنان ساعاتی قبل نیز طی گزارش اعلام کرده بود که جنگنده‌های اسرائیل، بامداد دوشنبه، ساختمانی را در «شهرک کفر رمان» در جنوب این کشور هدف قرار داد که منجر به کشته شدن ۱۱ نفر شده است.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229719",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/gd-wrO2YQXScMNcrH0IQs8mif7kWT-Fzm3pSM-6vdvuIAzbAWRkTJvdtodBnLv6oRbtHnCriWPfWM7JzgKJzsBU42SekIOt_T8bFF1dzqOxsKjD7aYNSA1iTKm2dqz8x6ptUXgVOD18zozsKxo66B4h23pKpXiH8BWNjD8ZYwdCxk5rbLZYf-iBdSYR90k0NoQoMJs2TfXJwfufideFhhcTY0xQgFBi9ddPZVYvJwZYj_Ni9CCsoWYwh5FHdbsK9d7Ne4jpnBl8aHQhOeVglIM8T0V6a5DImTw2KlZ5CCjzqLCE9RyY0Zia57aGLLqy0WRoN0HsxLvbZeVvpQAMl8w.jpg",
-          "thumbnail_path": "channels/farsivoa/media/6d20dcf0102306bd845d416d.jpg",
-          "thumbnail_sha256": "056f6657dda8b4012a3431460ad292d586ff150afd9713bb0648de4733a87747",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.37K",
-      "posted_at": "2026-09-07T11:52:49+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229719",
       "reply": null
     }
   ]
