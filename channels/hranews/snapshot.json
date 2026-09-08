@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T15:27:04.588Z",
+  "fetched_at": "2026-09-08T15:32:20.576Z",
   "channel": {
     "username": "hranews",
     "title": "خبرگزاری هرانا",
@@ -11,6 +11,22 @@
     "subscriber_count": "31.8K"
   },
   "posts": [
+    {
+      "id": "hranews/115492",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/iZyX_7dy9Du8-YNGCtdMYK3MP5dphPfB1zMaXCNUK8aaaARamz4Ly0CvRtoCcM3-dyXXRK5WX_Sh46_vYKlxQGctH2xTxf7JYZKDegTqeMVeBYAHxut8hrTLcwSVeUa-ZCjEG9Kz6oZ-0SQ9iKaGJN1Cj-2fIoPG4wyomntMR29iluxWEStx7DkF_1cq5ElU5tzftMAZ6xYE047jyvCHZ9Az1sy-Xq3xItrYFJkO7HPnbwf_MpvguP9NlFYRMr0nCnrYtqCi4BgxZQ__GAu9nHAo74NCj6gJ7R8-n_pBnl5RWaqcN-f80J_DUfVycgHq_htQjBCQccv9yYTz4kMK2Q.jpg",
+      "author_photo_path": "channels/hranews/media/294c867d92cda28ca3eef2ff.jpg",
+      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
+      "body_html": "محمدباقر خرازی همچنان در بازداشت به‌سر می‌برد<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji> – سخنگوی قوه قضاییه، از تداوم بازداشت محمدباقر خرازی خبر داد و اعلام کرد که پرونده این روحانی و فعال سیاسی، در دادسرای ویژه روحانیت در حال رسیدگی است.<br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-0b5784f7/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><a href=\"?q=%23%D9%85%D8%AD%D9%85%D8%AF%D8%A8%D8%A7%D9%82%D8%B1_%D8%AE%D8%B1%D8%A7%D8%B2%DB%8C\">#محمدباقر_خرازی</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "محمدباقر خرازی همچنان در بازداشت به‌سر می‌برد\n\n❗️❗️❗️❗️❗️ – سخنگوی قوه قضاییه، از تداوم بازداشت محمدباقر خرازی خبر داد و اعلام کرد که پرونده این روحانی و فعال سیاسی، در دادسرای ویژه روحانیت در حال رسیدگی است.\n\nادامه مطلب\n\n#محمدباقر_خرازی\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
+      "media": [],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-08T15:32:19+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/115492",
+      "reply": null
+    },
     {
       "id": "hranews/115491",
       "author_name": "خبرگزاری هرانا",
@@ -33,7 +49,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "112",
+      "views_label": "128",
       "posted_at": "2026-09-08T15:06:04+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115491",
@@ -61,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "178",
+      "views_label": "191",
       "posted_at": "2026-09-08T14:48:50+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115490",
@@ -77,7 +93,7 @@
       "plain_text": "همزمان با بازداشت ۷ شهروند در کهگیلویه؛ یک واحد صنفی پلمب شد\n\n❗️❗️❗️❗️❗️ – فرمانده انتظامی کهگیلویه از #بازداشت هفت شهروند در ارتباط با مدیریت صفحات و تولید محتوا در فضای مجازی خبر داد. به گفته وی، این افراد پس از بازداشت به مرجع قضایی معرفی شده‌اند و یک واحد صنفی نیز در ارتباط با این پرونده #پلمب شده است.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "220",
+      "views_label": "232",
       "posted_at": "2026-09-08T14:34:47+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115489",
@@ -105,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "269",
+      "views_label": "280",
       "posted_at": "2026-09-08T14:18:15+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115488",
@@ -133,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "435",
+      "views_label": "442",
       "posted_at": "2026-09-08T13:03:39+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115487",
@@ -161,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "475",
+      "views_label": "482",
       "posted_at": "2026-09-08T12:33:18+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115486",
@@ -189,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "469",
+      "views_label": "476",
       "posted_at": "2026-09-08T12:05:05+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115485",
@@ -217,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "454",
+      "views_label": "461",
       "posted_at": "2026-09-08T11:55:58+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115484",
@@ -245,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "447",
+      "views_label": "453",
       "posted_at": "2026-09-08T11:40:40+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115483",
@@ -273,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "558",
+      "views_label": "564",
       "posted_at": "2026-09-08T10:37:47+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115482",
@@ -301,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "572",
+      "views_label": "578",
       "posted_at": "2026-09-08T10:15:43+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115481",
@@ -329,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "585",
+      "views_label": "591",
       "posted_at": "2026-09-08T10:03:09+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115480",
@@ -357,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "636",
+      "views_label": "641",
       "posted_at": "2026-09-08T08:58:47+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115479",
@@ -385,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "736",
+      "views_label": "739",
       "posted_at": "2026-09-08T08:19:39+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115478",
@@ -413,7 +429,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "724",
+      "views_label": "728",
       "posted_at": "2026-09-08T08:01:33+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115477",
@@ -485,7 +501,7 @@
       "plain_text": "پس از تحمل ۱۱ سال حبس؛ یک زندانی از مجازات اعدام رهایی یافت\n\n❗️❗️❗️❗️❗️– یک زندانی در تهران که پیشتر از بابت اتهام قتل به #اعدام محکوم شده بود، پس از تحمل ۱۱ سال حبس، با کسب رضایت از اولیای دم، از مجازات مرگ رهایی یافت.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "896",
+      "views_label": "897",
       "posted_at": "2026-09-07T19:02:10+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115474",
@@ -501,7 +517,7 @@
       "plain_text": "یک شهروند در ارومیه بازداشت شد\n\n❗️❗️❗️❗️❗️– فرمانده هنگ مرزی ارومیه از #بازداشت یک شهروند در یکی از ایست و بازرسی‌های این هنگ خبر داد. به گفته وی، فرد بازداشت‌شده با «یکی از گروه‌های مخالف جمهوری اسلامی» ارتباط داشته است.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "878",
+      "views_label": "879",
       "posted_at": "2026-09-07T18:54:45+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115473",
@@ -2357,22 +2373,6 @@
       "posted_at": "2026-09-03T22:44:49+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115389",
-      "reply": null
-    },
-    {
-      "id": "hranews/115388",
-      "author_name": "خبرگزاری هرانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/E6XMXe3o_CzcL-0JIoxNdzrkPEPfcAWQZvY_HIUxIDF9bsEoAiAvMxcLoISkCCEXEtBPz9O0iPkSUpvqPVslQ1sA49I94tvU6WHqj71yBiKyXlmIv1FBCgPFnBRbh3z643OeUoiI-lZnEemgixRWLkK8Lbhl2HLSR11z3w3Jo1AFWH4VbKUk8iNru5vqlhWJMaFQwuOllBBgaE9sq1X2DE140-JX_dZDZ4BCWEd1anZzPSqpw6anx_L01siyZU5L7VjTOXtWbmXATB5S5_dR8L92cDh25VoAALJJySO7z5cUCfEbpHglJrQ9LZEGSBZMBHjpVA1xYemFyyq-qNIafQ.jpg",
-      "author_photo_path": "channels/hranews/media/f6db971fc4d930da7b734a27.jpg",
-      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
-      "body_html": "تجمع اعتراضی متقاضیان مسکن پرسنل ارتش در کرمانشاه<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– روز گذشته ۱۱ شهریورماه، جمعی از متقاضیان پروژه مسکن پرسنل نظامی ارتش در پردیس کرمانشاه، در محل تعاونی لشکر ۸۱ زرهی ارتش دست به <a href=\"?q=%23%D8%AA%D8%AC%D9%85%D8%B9\">#تجمع</a> اعتراضی زدند.<br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-25277035/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
-      "plain_text": "تجمع اعتراضی متقاضیان مسکن پرسنل ارتش در کرمانشاه\n\n❗️❗️❗️❗️❗️– روز گذشته ۱۱ شهریورماه، جمعی از متقاضیان پروژه مسکن پرسنل نظامی ارتش در پردیس کرمانشاه، در محل تعاونی لشکر ۸۱ زرهی ارتش دست به #تجمع اعتراضی زدند.\n\nادامه مطلب\n\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
-      "media": [],
-      "reactions": [],
-      "views_label": "1.08K",
-      "posted_at": "2026-09-03T19:36:05+00:00",
-      "edited": false,
-      "permalink": "https://t.me/hranews/115388",
       "reply": null
     }
   ]

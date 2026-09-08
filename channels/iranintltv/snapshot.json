@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T15:27:05.644Z",
+  "fetched_at": "2026-09-08T15:32:20.892Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,62 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356343",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "ویدیویی ارسالی به ایران اینترنشنال نشان می‌دهد که یک معترض، شبانه در کوچه‌های شهر تربت حیدریه در استان خراسان رضوی، شعار «جاوید شاه» را دیوارنویسی کرد.",
+      "plain_text": "ویدیویی ارسالی به ایران اینترنشنال نشان می‌دهد که یک معترض، شبانه در کوچه‌های شهر تربت حیدریه در استان خراسان رضوی، شعار «جاوید شاه» را دیوارنویسی کرد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356343",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/b0CqFRTFgdta5FmihjPy-QBNGTno-x-RZSDFgQjlf2T06W3RPhquYe1wxER5uh4XcHG9sCzhQAYUy5qvqh0vCorDpXgkAvAiss1NUNtaAyUM4DJEoetwNUCyj14xN8IzQc-bzqiki24jLEdt123b7b7Dlu7NGhdeuSV6snQe_FfbdpggMA75-ejlFIboCykFWJqo1yQFbhrCRuEd2ENdQ10co19YQ8UcRHYaeiaMeVz2BWvjq4nsxzNb_mntLgycnUWKT10dMxJLvc10kcrwbIkGF1-Y98yy0XIGD9elKN2faChDjRRTGerVcBlXp0MxniiwVh51eA16r8tnT05Gzw",
+          "thumbnail_path": "channels/iranintltv/media/8b5605a587a526bc9ee9198f.jpg",
+          "thumbnail_sha256": "75214ec02a1617d78e06f4ea77e9712629bb8ad02d01f7a0dc75fc58c802563f",
+          "duration_label": "0:25",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.13K",
+      "posted_at": "2026-09-08T15:29:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356343",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356344",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "یک کارگر ویدیویی برای ایران اینترنشنال فرستاد و حساب کرد که هزینه پنج قلم جنس برای مصرف روزانه، معادل دستمزد ۱۲ ساعت کار کردن اوست.",
+      "plain_text": "یک کارگر ویدیویی برای ایران اینترنشنال فرستاد و حساب کرد که هزینه پنج قلم جنس برای مصرف روزانه، معادل دستمزد ۱۲ ساعت کار کردن اوست.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356344",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Ge-W701q-LsiAoT1WT0CxO7a1UxFcqL6TtyNoOqTOuOuqiD677UPTEN-8osIAjheJcSUjGhmlEAgt6WFNM54VsrzkrMSzE3LAXcO56cSMpP0u0ZG9IEDfIdexemkZS-3JEUnEwGUvbmghj98evXYpga-9Y-BaTKEm-b-Ryr2G9tbW0OI3yKCVGM8SRMwUhUp_A-9BLynWcnb5Mt4MaY6uq_LcEmFgjA1kgWmXsX_1Qo85w9OlxmnLKoxmuyO5-HoDchTgr5dwwDzzyC_5C_yzWWaJahZdkusaJUc7ktsSOQJM0-FBf9URK5CnbVISrrkRJgQmR5IXwtNNkqK6MwTsQ",
+          "thumbnail_path": "channels/iranintltv/media/302c9cd99d2a6d6f7c2d596a.jpg",
+          "thumbnail_sha256": "bd3dbd96b7785beefac734ec04d75a7c8a583b87e7601ce087d379db7c38ef99",
+          "duration_label": "0:40",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.13K",
+      "posted_at": "2026-09-08T15:29:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356344",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356342",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.2K",
+      "views_label": "7.38K",
       "posted_at": "2026-09-08T15:23:43+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356342",
@@ -49,7 +105,7 @@
       "plain_text": "🎧نسخه صوتی اخبار شبانگاهی | سه‌شنبه ۱۷ شهریور\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "9.53K",
+      "views_label": "12.7K",
       "posted_at": "2026-09-08T15:14:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356341",
@@ -77,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.57K",
+      "views_label": "12.7K",
       "posted_at": "2026-09-08T15:13:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356340",
@@ -105,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.7K",
+      "views_label": "16.8K",
       "posted_at": "2026-09-08T15:07:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356339",
@@ -133,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.8K",
+      "views_label": "16.9K",
       "posted_at": "2026-09-08T15:02:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356338",
@@ -161,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.8K",
+      "views_label": "16.9K",
       "posted_at": "2026-09-08T14:59:54+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356337",
@@ -189,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.9K",
+      "views_label": "18K",
       "posted_at": "2026-09-08T14:55:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356336",
@@ -217,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.9K",
+      "views_label": "16.9K",
       "posted_at": "2026-09-08T14:54:21+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356335",
@@ -245,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.9K",
+      "views_label": "17K",
       "posted_at": "2026-09-08T14:53:33+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356334",
@@ -273,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.4K",
+      "views_label": "25.5K",
       "posted_at": "2026-09-08T14:30:20+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356333",
@@ -301,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.4K",
+      "views_label": "26.5K",
       "posted_at": "2026-09-08T14:25:52+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356332",
@@ -329,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.4K",
+      "views_label": "25.5K",
       "posted_at": "2026-09-08T14:25:40+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356331",
@@ -357,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.5K",
+      "views_label": "26.6K",
       "posted_at": "2026-09-08T14:16:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356330",
@@ -385,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.7K",
+      "views_label": "29.7K",
       "posted_at": "2026-09-08T14:06:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356329",
@@ -413,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.7K",
+      "views_label": "29.8K",
       "posted_at": "2026-09-08T14:03:29+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356328",
@@ -441,7 +497,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.7K",
+      "views_label": "29.7K",
       "posted_at": "2026-09-08T14:00:32+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356327",
@@ -469,7 +525,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.6K",
+      "views_label": "28.6K",
       "posted_at": "2026-09-08T14:00:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356326",
@@ -497,7 +553,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.7K",
+      "views_label": "29.8K",
       "posted_at": "2026-09-08T13:52:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356325",
@@ -2681,62 +2737,6 @@
       "posted_at": "2026-09-08T05:16:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356242",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356241",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "محمدرضا عارف، معاون اول پزشکیان، در دیدار با اعضای جامعه مدرسین حوزه علمیه قم، گفت: «حتی قیمت سوم بنزین با نرخ ۱۰ هزار تومان نیز فاصله زیادی با هزینه واقعی واردات دارد؛ چراکه هزینه واردات هر لیتر بنزین برای دولت بیش از ۷۰ هزار تومان است و هر کسی که هر هفته به شمال می‌رود، باید پول بنزینش را بدهد.»<br><br>او ادامه داد: «وقتی بنزین را با قیمت ۷۰ سنت وارد می‌کنیم، نمی‌توانیم آن را با قیمت ۲ یا ۳ سنت بفروشیم؛ بنزین وارداتی به‌صورت تدریجی و با اصلاح قیمت آزادسازی خواهد شد.»<br><br>عارف اضافه کرد: «استان‌های کرمان، سیستان و بلوچستان و هرمزگان طرح جدیدی برای کاهش قاچاق سوخت ارائه کردند که به تصویب رسید ولی اضافه کردن نرخ چهارم بدون تصویب و اذن ما انجام شد.»<br><a href=\"https://iranintl.com/202609085313\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609085313</a>",
-      "plain_text": "محمدرضا عارف، معاون اول پزشکیان، در دیدار با اعضای جامعه مدرسین حوزه علمیه قم، گفت: «حتی قیمت سوم بنزین با نرخ ۱۰ هزار تومان نیز فاصله زیادی با هزینه واقعی واردات دارد؛ چراکه هزینه واردات هر لیتر بنزین برای دولت بیش از ۷۰ هزار تومان است و هر کسی که هر هفته به شمال می‌رود، باید پول بنزینش را بدهد.»\n\nاو ادامه داد: «وقتی بنزین را با قیمت ۷۰ سنت وارد می‌کنیم، نمی‌توانیم آن را با قیمت ۲ یا ۳ سنت بفروشیم؛ بنزین وارداتی به‌صورت تدریجی و با اصلاح قیمت آزادسازی خواهد شد.»\n\nعارف اضافه کرد: «استان‌های کرمان، سیستان و بلوچستان و هرمزگان طرح جدیدی برای کاهش قاچاق سوخت ارائه کردند که به تصویب رسید ولی اضافه کردن نرخ چهارم بدون تصویب و اذن ما انجام شد.»\nhttps://iranintl.com/202609085313",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356241",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qtOgkCtNMif5sGI6sSNA4kYdAA599_GVuyXdfhrT7bGlPl0ZZQvmpsXWGOw_lDIjouTcDecPCBK-wm5uBQoB3-GFWM8BymItS37Z87mgs_r4JJsYGi3KmahoAHQgwF7SfSiiH4x__B4BwTkD_oYTN-X7kqRqUmsqMITddM_QS1zgLmpufdQsgTi2qNHRbkH3G3onmz2J5cY084nKZQTEZ1G-Efy8ARhW010jzIbtL40rfWG2qnZVke_RwXvkAfrBQwBJ4wFzScZ9QkdrpjYaALBrEeViqwlHtrzrlmR3XEw-eLZyQww7uuf65Dwj47Asac5huZuKwNMT2EgIg-lH-g.jpg",
-          "thumbnail_path": "channels/iranintltv/media/7365eb313ee5be5c215d74f3.jpg",
-          "thumbnail_sha256": "de2b78eec5bc6ca81d7a558b3cdf108ef4d246b04f149f194b997a5ea58f708a",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "28.4K",
-      "posted_at": "2026-09-08T05:16:07+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356241",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356240",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "رافائل گروسی، مدیرکل آژانس بین‌المللی انرژی اتمی، در نشست فصلی شورای حکام به ایران‌اینترنشنال گفت آژانس از وضعیت ذخایر اورانیوم غنی‌شده ایران اطلاعی ندارد و بازرسان همچنان به تاسیسات هسته‌ای ایران دسترسی ندارند.<br><br>گزارش احمد صمدی، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "رافائل گروسی، مدیرکل آژانس بین‌المللی انرژی اتمی، در نشست فصلی شورای حکام به ایران‌اینترنشنال گفت آژانس از وضعیت ذخایر اورانیوم غنی‌شده ایران اطلاعی ندارد و بازرسان همچنان به تاسیسات هسته‌ای ایران دسترسی ندارند.\n\nگزارش احمد صمدی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356240",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/TwbrQp05qP0sna-072Z0DNSxuthPPUuqti29ZtgbUEkaDeGLmmWHkn7IlJwty3PJE6RXAx-wUXDNWlE5Lb5twUwMnglwRxwYvASBGpg-kurHhDDQfp33TQQ_bSplZeQnn1Iv1bcPO-WwWLL34F5vBiSgHzK0U_gpfHoUikOsY-Y3pUuvp_KypZTMLaSQ7M-dJLxEVVlwAi7i64iTFDp0LT0t3Gdi1-YRwesPe71wv8Jadynbw3SNGCFL8Oak4r_p80mQNSEyCmh3jGPUHaoovP5SO-lBbdT43MY0NTPhh3-pSYfxUkDs46w3kzZPGc89nsofz0rt6covlR76UX39Hw",
-          "thumbnail_path": "channels/iranintltv/media/47e6950809956118328d5098.jpg",
-          "thumbnail_sha256": "a4708fff268134c6dcf8d5a9ac837b5bb76c4c247e6e4fe171dfca84ef0ccfe6",
-          "duration_label": "2:02",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "27.4K",
-      "posted_at": "2026-09-08T05:12:06+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356240",
       "reply": null
     }
   ]
