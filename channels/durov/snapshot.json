@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T15:41:39.369Z",
+  "fetched_at": "2026-09-08T15:47:24.590Z",
   "channel": {
     "username": "durov",
     "title": "Pavel Durov",
@@ -31,14 +31,14 @@
         },
         {
           "emoji": "💎",
-          "count": "5.54K"
+          "count": "5.55K"
         },
         {
           "emoji": "💎",
           "count": "4.85K"
         }
       ],
-      "views_label": "890K",
+      "views_label": "891K",
       "posted_at": "2026-09-06T17:40:39+00:00",
       "edited": false,
       "permalink": "https://t.me/durov/547",
