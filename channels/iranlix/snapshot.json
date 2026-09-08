@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T13:26:37.459Z",
+  "fetched_at": "2026-09-08T13:31:43.658Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12716",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/l_9ufMfFpJ25r_afGsqRdLe1TBpEdGtQubrLV3heTp0xaKy_3bOMj2CgWrdIc1UpDv6BDR1CUz7LUOwlbGt6cwYajWQXJCUkSLc4mDg8KVE14zTZ9LwGvkwqm71diFwCbH2nViIRdsbm6NTEHx-FPiGHK2If0glqgKIwFN6E3fpPfXG4L5B_8u0lF9SlI9JysGs-RP3ETL5mlmlmj6cRJFK1sNdtj7tP4DYND499o8XinHXPyv-COryBv7foYUzrzsqsk-AuzXwXdGL2-S-fyV30ffZpU_JFFsxZW8baXEnEFumOwn_VcgVB9V_D4tzEEogyHXtPWDrMkW0xK7JN9Q.jpg",
+      "author_photo_path": "channels/iranlix/media/cea36268eb0d26be31369b06.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>وال‌استریت ژورنال:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>محاصره دریایی آمریکا باعث توقف صادرات نفت خام ج.ا از طریق خلیج فارس شده و ذخایر نفت ج.ا روی نفتکش‌ها از ۹۰ میلیون بشکه به ۲۹ میلیون بشکه کاهش یافته است. پیش‌بینی می‌شود این ذخایر تا اواسط اکتبر به پایان برسد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>همچنین خریداران چینی شروع به جست‌وجوی منابع جایگزین کرده‌اند و احتمال می‌رود پرداخت‌های مالی به ج.ا تا ماه دسامبر کاهش یابد.",
+      "plain_text": "♦️وال‌استریت ژورنال:\n\n🔹محاصره دریایی آمریکا باعث توقف صادرات نفت خام ج.ا از طریق خلیج فارس شده و ذخایر نفت ج.ا روی نفتکش‌ها از ۹۰ میلیون بشکه به ۲۹ میلیون بشکه کاهش یافته است. پیش‌بینی می‌شود این ذخایر تا اواسط اکتبر به پایان برسد.\n\n🔹همچنین خریداران چینی شروع به جست‌وجوی منابع جایگزین کرده‌اند و احتمال می‌رود پرداخت‌های مالی به ج.ا تا ماه دسامبر کاهش یابد.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/12716",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/RFw6DfGnvmrDjxWAO73ayRh0F5RZfolhrrTV57m6xMKMRsl6NXpSITdvMHZHaC0m0QNEBUDXoOLV6on2qTIoOQwnMpJ9_vY-EKrJZleL2pS5mLmCjAmcddhJ4uq8h59uxUVg71_SOPrYmZAKJUe3z2AePC2-WNWX5aL3gZLIHq5FK8hHbf-3cYkRS7dN3zcjzwH5eg6RCDUqt3RbOED-lBswkFeJCqLDgYS0zw4SQLBwI_XlP45U9C5OZAgGnmbqXZcxssw6R6a62ld1KbKR-HEEUNfGHSnz7p-4KMf8gWo_j1mG6lXpngCbHAbQ0NMetDe57uo8ofV60y_x7qJNtA.jpg",
+          "thumbnail_path": "channels/iranlix/media/b29bb7de613b6997c3d85e3b.jpg",
+          "thumbnail_sha256": "bb4f88135352e97b66e0f54403e1de08beb893685b131b856f6fb0427a0e3420",
+          "duration_label": null,
+          "aspect_ratio": 1.436265709156194
+        }
+      ],
+      "reactions": [],
+      "views_label": "23",
+      "posted_at": "2026-09-08T13:30:39+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12716",
+      "reply": null
+    },
     {
       "id": "iranlix/12715",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "178",
+      "views_label": "204",
       "posted_at": "2026-09-08T13:03:26+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12715",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "348",
+      "views_label": "377",
       "posted_at": "2026-09-08T12:27:25+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12714",
@@ -122,7 +150,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "471",
+      "views_label": "490",
       "posted_at": "2026-09-08T11:59:16+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12710",
@@ -150,7 +178,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "645",
+      "views_label": "657",
       "posted_at": "2026-09-08T11:13:48+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12709",
@@ -178,7 +206,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "772",
+      "views_label": "785",
       "posted_at": "2026-09-08T10:32:14+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12708",
@@ -206,7 +234,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "755",
+      "views_label": "762",
       "posted_at": "2026-09-08T10:28:29+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12707",
@@ -234,7 +262,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "750",
+      "views_label": "758",
       "posted_at": "2026-09-08T10:21:59+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12706",
@@ -262,7 +290,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "851",
+      "views_label": "857",
       "posted_at": "2026-09-08T09:40:57+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12705",
@@ -278,7 +306,7 @@
       "plain_text": "آی مردم! اگه با برادران گمنام موسی 🇮🇱 ارتباط دارید بهشون بگید : این قیچک بچه های لانچر و مانچر... جرات ندارن سمت اسرائیل حتی یک ریگ پرت کنن. ندارن آقا! مثل سوسک که از امشی میترسه، میترسن!\nولشون کنین. اینکاره نیستن، فقط 💩 تناول میکنن!\nتمام فرماندهاشونم که سقط کردین، کسی نمونده! فک کردید محسن چپ چُس (رضایی) یا اون یکی مجید قشنگ (موسوی)‌یا مجتبی جرات دارند؟\nنــــــــــــدارن، باباشونم نداره!\n\n@iranlix",
       "media": [],
       "reactions": [],
-      "views_label": "821",
+      "views_label": "828",
       "posted_at": "2026-09-08T09:35:51+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12704",
@@ -315,7 +343,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "850",
+      "views_label": "855",
       "posted_at": "2026-09-08T09:22:50+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12703",
@@ -343,7 +371,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "824",
+      "views_label": "830",
       "posted_at": "2026-09-08T09:21:25+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12702",
@@ -382,7 +410,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "819",
+      "views_label": "825",
       "posted_at": "2026-09-08T09:20:02+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12700",
@@ -410,7 +438,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "912",
+      "views_label": "919",
       "posted_at": "2026-09-08T08:53:11+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12699",
@@ -438,7 +466,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "919",
+      "views_label": "927",
       "posted_at": "2026-09-08T08:38:45+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12698",
@@ -2933,34 +2961,6 @@
       "posted_at": "2026-09-05T20:17:29+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12607",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12606",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/P6wlknCu4KydGDASnYIJkSL42jXufROUjwRrm01v7d51p3YBEx4rkQqYs2krFRd4LHxq08mmEy2TgCu4J08n1ZSq4paFfXykL6OUFFjnmHtPmJBtBzfKlwmoLApVk-hNCwoL_o5_BhnH1XV2kRj1D9AC6GrktP5S1x_N6bbjtspXBjUWiGZM-RyGHabxIzRLAK0ahjPnDYjTX3GkA8zCiRKYeBgBZ2IZIJafC1T4hqw3d7cILAqS-xr4k_jJzzVdlQM_10wXECCBz6Ghjgv3P7yq1mMYdKuv0PT6kTc0TA6UOTJAVRnZgMZXVG41AUnWWGzcvDjcbkzyxVcxRpZqtg.jpg",
-      "author_photo_path": "channels/iranlix/media/140d7098768bcd69ed55b2fa.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i><b>قالیباف: بستن تنگه هرمز به ضرر ایران شد.</b><br><br><blockquote><b>مطمئنی به ضرر تو نشد</b>؟</blockquote><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔸قالیباف: بستن تنگه هرمز به ضرر ایران شد.\n\nمطمئنی به ضرر تو نشد؟\n\n@iranlix",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/iranlix/12606",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/rSM_DSB0maS5EQOtihov015lz9jHyuD5vAvgh3ZSFXOzU7y8IC3lJutFjMtNjriA6_aznb2k64sI0k4Yc7byVYs_tSUfsijZX3PL9xNUTu-GaHTECN-aJqaN5QIFW3WCHHb0YCXgV8DLfRsoJsChKpMuDe3mYp2bWHjGCSIznVkfqXgyD5ZMIZrBw10H-_ukDiFmc9imSO2WvJTYCs8Od4oSVRvuAb6IM1C2YHZX6dDehcfNlkk_lyrvIt1ONfLX3ZACv-R_NCD4zO2kkrqe77l43iQD5f9YogA8XbqydLSmXXl7lddkZSzog1YC2mphJjY4r28btK5nq5eqP3g8SA",
-          "thumbnail_path": "channels/iranlix/media/4543d0d488666f05b55c33b8.jpg",
-          "thumbnail_sha256": "1a7d473d2d8bf362a30b4dc68fb9704a0f9ed49ff7529c557b755df302eb4531",
-          "duration_label": "0:58",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.41K",
-      "posted_at": "2026-09-05T20:14:52+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12606",
       "reply": null
     }
   ]
