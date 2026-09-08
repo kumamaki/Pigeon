@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T21:51:46.943Z",
+  "fetched_at": "2026-09-08T21:56:51.452Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -11,6 +11,34 @@
     "subscriber_count": "217K"
   },
   "posts": [
+    {
+      "id": "sahamnewsorg/147202",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/smAW_InWz98OrCURLxT9xranMh7tpFlLWV8zSZVibheTG3rKNcOtlMDWTt5JD8IaKVnpsx9Ot66idtDLHzf9pnQYniC5FGwhRuBWsCRwCX0-Mj9l4ogp_2OpFW0-A9FLwU-A1UcUeCsCK6kk8Lzo21xN1YNrtRrAlaqGaAofukdu1m0nYvC_OEUKkWfqLcQl6GUi6IfPKF71EHtCCM9lOVBTXeyyryPb6CUPK3qxuAD5Fcji9pxUZDZ-_FOXDtLpAl-nEy9GeiVn2HK7Uy8jQlYyYtABHS0F4acebiApw4Jqs5gekS8pQMwI0M3Fiux_NuY2uT2ctGm-dm4tcnSe8g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/05b9e04486c2e24c97c8a56b.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>تصویر رسانه‌های عربی از برخورد موشک ایرانی به پایگاه آمریکایی در اردن</b><br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "plain_text": "✅تصویر رسانه‌های عربی از برخورد موشک ایرانی به پایگاه آمریکایی در اردن\n\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/sahamnewsorg/147202",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/bldU1dIQzGKEWNa8a3JmI4iS--bhSvb_HjQKNRBvymYC9Za24WC_W7PC6uuoysJGP2rmoBnDfGLbTzpdaIe9VTmBjHt5FwnYg5HiVbGn5P9SK_wIaBAkiEe940DtWoWNGzBwJZIIGfDp68iO9gm6tz76CBq_nJzHUH4eL0EJvISBDe8h5LJFufz7cQlkT4LUkNJRb6qqVZLIhXlo0okBwVLR-3irKkaenhvZr6po51P0k0J1rmjvO6DgEYo6NMC-hgwGrgzrj77IW3lYXWtLJr8HOskDG3KNFKw4UJRbEQStSRx7ZT0JfsUT7Q8y0UCLtnZeBRsWKnb1LcIn8LCveQ",
+          "thumbnail_path": "channels/sahamnewsorg/media/803d9631cc126012a558338e.jpg",
+          "thumbnail_sha256": "97f662e43b0b24f07f0d5c435c6bd6aee703d3ec92da2c22cf13daf0ce6817ce",
+          "duration_label": "0:04",
+          "aspect_ratio": 2.3529411764705883
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.08K",
+      "posted_at": "2026-09-08T21:54:33+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147202",
+      "reply": null
+    },
     {
       "id": "sahamnewsorg/147201",
       "author_name": "سهام نیوز",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.16K",
+      "views_label": "5.27K",
       "posted_at": "2026-09-08T21:45:22+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147201",
@@ -49,7 +77,7 @@
       "plain_text": "‏ ️✅حمله به پایگاه‌های موفق‌السلطی و شاهزاده حسن در اردن\n\nگفته می‌شود پایگاه‌های هوایی «موفق السلطی» در منطقه الازرق و «شاهزاده حسن» اهداف حملات موشکی تنبیهی ایران است.\n\nبر اساس گزارش‌ها، ارتش اردن به دلیل ناتوانی سامانه‌های پدافندی آمریکایی، جنگنده‌های نیروی هوایی را برای رهگیری موشک‌های بالستیک ایرانی به پرواز درآورده است.\n‎ @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "5.21K",
+      "views_label": "7.3K",
       "posted_at": "2026-09-08T21:42:43+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147200",
@@ -65,7 +93,7 @@
       "plain_text": "✅العالم: همزمان با شلیک چندین و چند موشک از نقاط مختلف ایران، صدای چند انفجار در اردن شنیده شده است.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "7.31K",
+      "views_label": "9.39K",
       "posted_at": "2026-09-08T21:35:56+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147199",
@@ -81,7 +109,7 @@
       "plain_text": "✅شلیک گسترده موشک بالستیک از شهر های اصفهان، یزد، خمین، تبریز، خرم آباد و شهر کرد\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "8.34K",
+      "views_label": "10.4K",
       "posted_at": "2026-09-08T21:33:28+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147198",
@@ -97,7 +125,7 @@
       "plain_text": "✅خبرنگار صداوسیما: دقایقی قبل نیروهای آمریکایی به یک فروند شناور تجاری در آب‌های ساحلی شهرستان جاسک حمله کرد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "12.7K",
+      "views_label": "13.7K",
       "posted_at": "2026-09-08T21:21:34+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147197",
@@ -113,7 +141,7 @@
       "plain_text": "✅آسوشیتدپرس: آمریکا و کشورهای E3 (بریتانیا، فرانسه و آلمان) رسماً قطعنامه خود علیه ایران را به شورای حکام آژانس بین‌المللی انرژی اتمی ارائه کردند.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "14.4K",
+      "views_label": "15.5K",
       "posted_at": "2026-09-08T21:15:04+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147196",
@@ -141,7 +169,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.2K",
+      "views_label": "21.2K",
       "posted_at": "2026-09-08T20:56:06+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147195",
@@ -157,7 +185,7 @@
       "plain_text": "✅العربیه: آمریکا نفتکش‌های مرتبط با سپاه پاسداران را در پاسخ به حملات به کشتی‌های جنگی آمریکا هدف قرار داده است\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "22.6K",
+      "views_label": "23.7K",
       "posted_at": "2026-09-08T20:43:00+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147194",
@@ -185,7 +213,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.5K",
+      "views_label": "23.6K",
       "posted_at": "2026-09-08T20:39:46+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147193",
@@ -201,7 +229,7 @@
       "plain_text": "✅خبرنگار صداوسیما: ارتش آمریکا به نفتکش دوم در نزدیکی آب‌های جاسک حمله کرد.\n\nخدمه هر دو نفتکش با قایق نجات در حال انتقال به سمت ساحل جاسک هستند.\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "27.6K",
+      "views_label": "28.6K",
       "posted_at": "2026-09-08T20:22:13+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147192",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.8K",
+      "views_label": "29.8K",
       "posted_at": "2026-09-08T20:19:38+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147191",
@@ -261,7 +289,7 @@
       "plain_text": "✅نیروی دریایی سپاه: تمامی نفتکش‌ها در محدودۀ کویت و بحرین تخلیه شوند\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "28.8K",
+      "views_label": "29.9K",
       "posted_at": "2026-09-08T20:07:15+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147189",
@@ -277,7 +305,7 @@
       "plain_text": "✅طباطبایی معاون ارتباطات و اطلاع‌رسانی دفتر رئیس‌جمهور :\n\nرسانه ملی به بلندگوی آن یک نفری تبدیل شده است که در شعام مخالف تفاهم‌نامه بود\n\n🔻اول اسمش سعید جلیلیه\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "31K",
+      "views_label": "32K",
       "posted_at": "2026-09-08T20:00:37+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147188",
@@ -321,7 +349,7 @@
       "plain_text": "✅قالیباف:در صورت حمله به نفتکش های ایران،\nبه شرکت های انرژی آمریکا در منطقه حمله خواهیم کرد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "34.1K",
+      "views_label": "34.2K",
       "posted_at": "2026-09-08T19:43:21+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147186",
@@ -358,7 +386,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.9K",
+      "views_label": "35K",
       "posted_at": "2026-09-08T19:38:47+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147185",
@@ -2292,22 +2320,6 @@
         "thumbnail_sha256": "b22f5d54e6ebf748eb8e4bedf7b25c7373790c9b9d051bacbad5cf0684925a49",
         "permalink": "https://t.me/sahamnewsorg/146398"
       }
-    },
-    {
-      "id": "sahamnewsorg/147101",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/642684be024870091c2036fb.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>سخنگوی دولت: نرخ کارت جایگاه سوخت از بامداد ۱۷ شهریور به ۱۰ هزار تومان افزایش خواهد یافت<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅سخنگوی دولت: نرخ کارت جایگاه سوخت از بامداد ۱۷ شهریور به ۱۰ هزار تومان افزایش خواهد یافت\n\n@Sahamnewsorg",
-      "media": [],
-      "reactions": [],
-      "views_label": "59.5K",
-      "posted_at": "2026-09-06T19:09:41+00:00",
-      "edited": false,
-      "permalink": "https://t.me/sahamnewsorg/147101",
-      "reply": null
     }
   ]
 }
