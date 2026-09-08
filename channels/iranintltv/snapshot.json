@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T08:18:48.233Z",
+  "fetched_at": "2026-09-08T08:23:10.777Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356275",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "مجتبی زارعی، عضو کمیسیون امنیت ملی مجلس، در کانال تلگرامی خود نوشت در جلسه این کمیسیون با عراقچی، وزیر خارجه در پاسخ به سوالی در خصوص انتقام، گفت: «در همه‌جا از مجازات قاتلین سخن گفتم و اینجا هم می‌گویم هر عزیزی، چه نظامی و چه غیرنظامی، ترامپ را قصاص کند، دستش را می‌بوسم.»<br><a href=\"https://iranintl.com/202609080768\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609080768</a>",
+      "plain_text": "مجتبی زارعی، عضو کمیسیون امنیت ملی مجلس، در کانال تلگرامی خود نوشت در جلسه این کمیسیون با عراقچی، وزیر خارجه در پاسخ به سوالی در خصوص انتقام، گفت: «در همه‌جا از مجازات قاتلین سخن گفتم و اینجا هم می‌گویم هر عزیزی، چه نظامی و چه غیرنظامی، ترامپ را قصاص کند، دستش را می‌بوسم.»\nhttps://iranintl.com/202609080768",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356275",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/aUfLIBuQ7POX8m4_c3v5OoQzlqRxRrJ00PB7DmV5X9gpWswUWaZ_NS22VGbDSVVpU9z_Pcs571jLn-4O-l8eEo-l8fHn3K9hwrfZ39TxinJNfH36UH9VrzCSp8A7LVVxnYJftOVr0cA1TaxbRGMutHc8cl3w0r1_Vr2gfk5Dw42sREE-4vVTa13rG5g13EsdePrzilacMac_Gbxq1Av1CS25VKjBAi2gSRef60Xsx8wNhixOUKzppeQw-YE2_YHjPUN0wbFTRVtDKdxK2-KAQDmrr66kTOS3IO9JZKF2PxEpbA72iIPGt61uL1IXrAcMQYvhhXlSJmublnhUEfBOuA.jpg",
+          "thumbnail_path": "channels/iranintltv/media/5f566325147cf9fb5e4bceac.jpg",
+          "thumbnail_sha256": "b547612951b5b1b926f20e458fbae71add0d665aa07c20ae9c64dde845edddf1",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.08K",
+      "posted_at": "2026-09-08T08:21:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356275",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356274",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.12K",
+      "views_label": "6.25K",
       "posted_at": "2026-09-08T08:14:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356274",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.12K",
+      "views_label": "6.25K",
       "posted_at": "2026-09-08T08:14:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356273",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7.37K",
+      "views_label": "9.4K",
       "posted_at": "2026-09-08T08:08:05+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356272",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.38K",
+      "views_label": "10.4K",
       "posted_at": "2026-09-08T08:06:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356271",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.5K",
+      "views_label": "14.6K",
       "posted_at": "2026-09-08T07:55:52+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356270",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.5K",
+      "views_label": "13.5K",
       "posted_at": "2026-09-08T07:55:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356269",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.6K",
+      "views_label": "14.7K",
       "posted_at": "2026-09-08T07:50:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356268",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.6K",
+      "views_label": "16.7K",
       "posted_at": "2026-09-08T07:45:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356267",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.8K",
+      "views_label": "18.8K",
       "posted_at": "2026-09-08T07:37:58+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356266",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.7K",
+      "views_label": "18.8K",
       "posted_at": "2026-09-08T07:35:16+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356265",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16.7K",
+      "views_label": "17.8K",
       "posted_at": "2026-09-08T07:34:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356264",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.8K",
+      "views_label": "19.9K",
       "posted_at": "2026-09-08T07:27:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356263",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23K",
+      "views_label": "24.1K",
       "posted_at": "2026-09-08T07:16:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356262",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.1K",
+      "views_label": "24.1K",
       "posted_at": "2026-09-08T07:09:25+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356261",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.1K",
+      "views_label": "25.1K",
       "posted_at": "2026-09-08T07:06:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356260",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23K",
+      "views_label": "23.1K",
       "posted_at": "2026-09-08T07:05:29+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356259",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.3K",
+      "views_label": "29.3K",
       "posted_at": "2026-09-08T06:45:29+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356258",
@@ -497,7 +525,7 @@
       "plain_text": "🎧نسخه صوتی اخبار بامدادی | سه‌شنبه ۱۷ شهریور\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "28.3K",
+      "views_label": "29.3K",
       "posted_at": "2026-09-08T06:36:37+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356257",
@@ -2732,34 +2760,6 @@
       "posted_at": "2026-09-07T17:04:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356174",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356173",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>کمیته انضباطی فدراسیون فوتبال رای پرونده درگیری‌های جنجالی در جریان بازی تراکتور و گل‌گهر را صادر کرد. مطابق این رای، خداداد عزیزی سرپرست تیم تراکتور ۲ میلیارد تومان جریمه و ۴ ماه از حضور در استادیوم‌های فوتبال محروم شد. همچنین امید عالیشاه، بازیکن گل‌گهر، ۵۰۰ میلیون تومان و ۴ جلسه محروم شد.<br><br>در رای کمیته انضباطی همچنین آمده است؛<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>باشگاه تراکتور تبریز بابت سر دادن شعارهای موهن و استفاده از مواد محترقه از سوی تماشاگران منتسب و عدم همخوانی تعداد بلیط فروخته شده و تعداد تماشاگر حاضر در ورزشگاه به پرداخت مبلغ ۱۰/۰۰۰/۰۰۰/۰۰۰ ریال جریمه نقدی، باشگاه گل گهر سیرجان بابت سو رفتار تیمی ناشی از ۵ اخطار به پرداخت مبلغ ۲۰۰/۰۰۰/۰۰۰ ریال جریمه نقدی شدند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>فدراسیون فوتبال اعلام کرد محرومیت خداداد عزیزی با توجه به سوابق انضباطی او تشدید شده است: «سرپرست تراکتور بابت بدرفتاری در قبال مقام غیررسمی، استفاده از الفاظ موهن و رفتار غیرورزشی، با لحاظ سوابق انضباطی و صدور پنج حکم محکومیت از زمان تصدی سمت سرپرستی تراکتور، مشمول تشدید تنبیه انضباطی شده است.»<br><br><a href=\"https://t.me/iranintltvsport\" target=\"_blank\">@iranintltvsport</a>",
-      "plain_text": "🔻کمیته انضباطی فدراسیون فوتبال رای پرونده درگیری‌های جنجالی در جریان بازی تراکتور و گل‌گهر را صادر کرد. مطابق این رای، خداداد عزیزی سرپرست تیم تراکتور ۲ میلیارد تومان جریمه و ۴ ماه از حضور در استادیوم‌های فوتبال محروم شد. همچنین امید عالیشاه، بازیکن گل‌گهر، ۵۰۰ میلیون تومان و ۴ جلسه محروم شد.\n\nدر رای کمیته انضباطی همچنین آمده است؛\n🔹باشگاه تراکتور تبریز بابت سر دادن شعارهای موهن و استفاده از مواد محترقه از سوی تماشاگران منتسب و عدم همخوانی تعداد بلیط فروخته شده و تعداد تماشاگر حاضر در ورزشگاه به پرداخت مبلغ ۱۰/۰۰۰/۰۰۰/۰۰۰ ریال جریمه نقدی، باشگاه گل گهر سیرجان بابت سو رفتار تیمی ناشی از ۵ اخطار به پرداخت مبلغ ۲۰۰/۰۰۰/۰۰۰ ریال جریمه نقدی شدند.\n\n🔹فدراسیون فوتبال اعلام کرد محرومیت خداداد عزیزی با توجه به سوابق انضباطی او تشدید شده است: «سرپرست تراکتور بابت بدرفتاری در قبال مقام غیررسمی، استفاده از الفاظ موهن و رفتار غیرورزشی، با لحاظ سوابق انضباطی و صدور پنج حکم محکومیت از زمان تصدی سمت سرپرستی تراکتور، مشمول تشدید تنبیه انضباطی شده است.»\n\n@iranintltvsport",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356173",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/pPTMtL8--Zdv7MCWbJhIJ6PzaiZDz4eR9lV1jQqRjb7W5TKqbZhsNaqU7SzVsJ4sfQB4MDF5RhIbCS6NjZp0-Nh_47HDsd6D6VUXzrV4kqrBByp5Ll39RAUzpwAzvXwCkd1M6s5h-2bMsbmKUd9Cd8pRHLLJHF1NwzzXdQkryGW5-Yeht3gMj6l1xwp_07MN4IiauinrALXeFWx4Mk_2LxMH6gIMiEgc2c9DkrKeZfPhvHbpD1MKdAVyvWwSLAQPYv80eFLLhKieJ6MCBHMrm6zfFh-jYrElYjCdYpeU1JnO0EG3JIWIcz-Ln1nsvTHvaSPrwTWX1F3-tro68MoNqQ.jpg",
-          "thumbnail_path": "channels/iranintltv/media/f5066d3cd05ca5e1868790ac.jpg",
-          "thumbnail_sha256": "9aa40227ad8d13103bfc649d6aae26fa8f9fb2e50fcd719cf8d8e395c3a397f9",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "51.6K",
-      "posted_at": "2026-09-07T17:01:55+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356173",
       "reply": null
     }
   ]
