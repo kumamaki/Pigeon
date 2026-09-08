@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T13:11:44.312Z",
+  "fetched_at": "2026-09-08T13:16:33.605Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356318",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "یک منبع مطلع به ایران‌اینترنشنال گفت نرگس حیدری، زندانی سیاسی اهل ایذه که در زندان سپیدار اهواز محبوس است، از سوی دادگاه به پنج سال حبس و یک سال مجازات تکمیلی تحت عنوان «امر به معروف» محکوم شده است.<br><br>به گفته این منبع، این مجازات تکمیلی به دلیل فعالیت‌های ورزشی نرگس حیدری بدون رعایت حجاب اجباری برای او صادر شده است.<br><br>نرگس حیدری، متولد ۱۳۶۷ و مربی فیتنس، ۲۹ دی‌ماه ۱۴۰۴ در ایذه بازداشت شد.<br><br>پیش از این نیز برادر او، نعمت حیدری، ۹ دی‌ماه ۱۴۰۴ بازداشت شده بود.<br><a href=\"https://iranintl.com/202609086176\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609086176</a>",
+      "plain_text": "یک منبع مطلع به ایران‌اینترنشنال گفت نرگس حیدری، زندانی سیاسی اهل ایذه که در زندان سپیدار اهواز محبوس است، از سوی دادگاه به پنج سال حبس و یک سال مجازات تکمیلی تحت عنوان «امر به معروف» محکوم شده است.\n\nبه گفته این منبع، این مجازات تکمیلی به دلیل فعالیت‌های ورزشی نرگس حیدری بدون رعایت حجاب اجباری برای او صادر شده است.\n\nنرگس حیدری، متولد ۱۳۶۷ و مربی فیتنس، ۲۹ دی‌ماه ۱۴۰۴ در ایذه بازداشت شد.\n\nپیش از این نیز برادر او، نعمت حیدری، ۹ دی‌ماه ۱۴۰۴ بازداشت شده بود.\nhttps://iranintl.com/202609086176",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356318",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/hjE81IPTDHXcU6A9DkdS2aUeoUOY7QHXZ7QfGgcnrS7EX1n-OcrpAuUbU8g-2x1PKfYF7CP8J_ZVXl0HrMLDbHWiMuoPOyfc0AfptqeiIfhwHNhAvT6R08ZJu0DxFX_28x5lbb6_sIKllioUwpVRkKy918fxYtWcZ33XfmkfHlWG7ZIa9_eaq9zwyrzwXM8PQ5fS8p-4vMMQRzlYgr_mnTM2nByxLUxmpaCR-sbJJvfyNyHeT9SxbemTkjlDwgEsLt4TZDUdHpLOIPPjoyFZGW-4uAtOhVSxVndYD1O9vUAHSEAarThz4HYWIe4SPbVW3pkRoMJcKTjAug4f9kfIHg.jpg",
+          "thumbnail_path": "channels/iranintltv/media/6ad7263e2e2541709b05bfc4.jpg",
+          "thumbnail_sha256": "033887e49fc2c5a84617ef5401f2e310bd165148a3e80adc4d10660ee412cb60",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "3.14K",
+      "posted_at": "2026-09-08T13:13:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356318",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356317",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.2K",
+      "views_label": "7.36K",
       "posted_at": "2026-09-08T13:07:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356317",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.28K",
+      "views_label": "8.45K",
       "posted_at": "2026-09-08T13:05:08+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356316",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.32K",
+      "views_label": "8.45K",
       "posted_at": "2026-09-08T13:04:16+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356315",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.39K",
+      "views_label": "9.51K",
       "posted_at": "2026-09-08T13:02:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356314",
@@ -133,7 +161,7 @@
       "plain_text": "🎧نسخه صوتی اخبار نیم‌روزی | سه‌شنبه ۱۷ شهریور\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "7.39K",
+      "views_label": "9.5K",
       "posted_at": "2026-09-08T13:00:50+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356313",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.48K",
+      "views_label": "10.6K",
       "posted_at": "2026-09-08T12:59:08+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356312",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.6K",
+      "views_label": "13.7K",
       "posted_at": "2026-09-08T12:52:48+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356311",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16.9K",
+      "views_label": "18K",
       "posted_at": "2026-09-08T12:44:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356310",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.2K",
+      "views_label": "23.3K",
       "posted_at": "2026-09-08T12:32:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356309",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.6K",
+      "views_label": "31.7K",
       "posted_at": "2026-09-08T12:09:44+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356308",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.5K",
+      "views_label": "28.5K",
       "posted_at": "2026-09-08T12:06:05+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356306",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.6K",
+      "views_label": "30.7K",
       "posted_at": "2026-09-08T12:06:05+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356307",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.5K",
+      "views_label": "27.5K",
       "posted_at": "2026-09-08T12:00:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356305",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.7K",
+      "views_label": "33.8K",
       "posted_at": "2026-09-08T11:43:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356304",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.7K",
+      "views_label": "31.7K",
       "posted_at": "2026-09-08T11:42:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356303",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.8K",
+      "views_label": "34.9K",
       "posted_at": "2026-09-08T11:33:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356302",
@@ -497,7 +525,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37K",
+      "views_label": "38.1K",
       "posted_at": "2026-09-08T11:19:40+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356300",
@@ -525,7 +553,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "42.3K",
+      "views_label": "43.3K",
       "posted_at": "2026-09-08T11:03:31+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356299",
@@ -2721,34 +2749,6 @@
       "posted_at": "2026-09-07T22:52:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356216",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356214",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/DdykT1bxWxciKF1Ue9Fz5SiTVffg13QNniwFIFKjZ4_hgjQzXSDer3QZ1gdDSxQGaIqEAwsMvKlmxUc1bCwHbbKyHR77TteQqOQ1pWl58Op6KeH0G1_yr5a6RtbHe6DiNRBZoN9rnExnmPGDeRt7LrLAXyFAA76a0k4RZj3arLHomEqrRkZN9uibZ3wQ1h-MGVfX9eWetAJLH5dKl83P03JobfcY6tJ0NEwVEuHFX_OzbRDkEBMWqzWjiTSSqoXedzKcfAoDLmlpmTu4rdzWHLRxSkBu0rlcaUrAfQhv07DzDDJclwVx7jSsukSh5xyOwyB_3aKqvsaKO7TjVXbt0w.jpg",
-      "author_photo_path": "channels/iranintltv/media/e9f740da1b4e0240f619af26.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "میثم مهرانی، تحلیلگر سیاسی، گفت هدف اصلی حوثی‌ها حفظ توانایی فشار بر کشتیرانی و تداوم نقش راهبردی‌شان برای جمهوری اسلامی است و اگر ناچار شوند همه ظرفیت خود را صرف دفاع زمینی کنند، ارزش عملیاتی‌شان برای تهران کاهش خواهد یافت.<br><br>او افزود جمهوری اسلامی در صورت تضعیف توان منطقه‌ای حوثی‌ها، ناچار است میان افزایش حمایت نظامی از این گروه یا پذیرش کاهش نقش آن یکی را انتخاب کند. به گفته مهرانی، با توجه به فشارهای اقتصادی و نظامی، حفظ حزب‌الله برای جمهوری اسلامی همچنان اولویتی مهم‌تر از حوثی‌ها خواهد بود.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "میثم مهرانی، تحلیلگر سیاسی، گفت هدف اصلی حوثی‌ها حفظ توانایی فشار بر کشتیرانی و تداوم نقش راهبردی‌شان برای جمهوری اسلامی است و اگر ناچار شوند همه ظرفیت خود را صرف دفاع زمینی کنند، ارزش عملیاتی‌شان برای تهران کاهش خواهد یافت.\n\nاو افزود جمهوری اسلامی در صورت تضعیف توان منطقه‌ای حوثی‌ها، ناچار است میان افزایش حمایت نظامی از این گروه یا پذیرش کاهش نقش آن یکی را انتخاب کند. به گفته مهرانی، با توجه به فشارهای اقتصادی و نظامی، حفظ حزب‌الله برای جمهوری اسلامی همچنان اولویتی مهم‌تر از حوثی‌ها خواهد بود.\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356214",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Tou9aX1Dtb2T1LxUqkhXPCVDEwqQsbruXhVrY3kTPO3sVwrya4ulVQ6VKHh5qR8UFAHyOw6pETt0_qyOjFEZIHUaQUQlbzAizzYMxP74AspSlrZr2W2mv2f9o0LDaGFOA35lJUkIGYUjaZgbQf64owMzTp7qlwdGst8t1QZKoNOtxvU8cKPE4sbHyNx47oJtIKSW64lwje-ADxr4p56OKXWnH8P7FCprjMQi2YdUMJzW3IuDP6uf7E-bZFS2K_PMtxiZYYTLh6OF7_VRIheqnj9Hh24V92jPJaw-i6Vp7pl_1PIZ_o4ca7jmkmzMvuPqxsBiMbJp732HIuzhMv0sPw",
-          "thumbnail_path": "channels/iranintltv/media/50144ac858281e1aab08c0fb.jpg",
-          "thumbnail_sha256": "0d3abbf05476030362f7340cbfa9d0e0a7df7e707f7b5fa213fbf4b4ff2e1e38",
-          "duration_label": "4:46",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "27.2K",
-      "posted_at": "2026-09-07T22:47:36+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356214",
       "reply": null
     }
   ]
