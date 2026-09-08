@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T13:33:42.575Z",
+  "fetched_at": "2026-09-08T13:36:43.775Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356323",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "علی حسین قاضی‌زاده، عضو تحریریه ایران‌اینترنشنال، درباره اظهارات منتسب به عباس عراقچی درباره انتقام از دونالد ترامپ گفت: «جمهوری اسلامی می‌خواهد موضوع انتقام را، فارغ از اینکه توان عملی کردن آن را دارد یا نه، در صدر شعارهای خود نگه دارد و با هر ابزاری آن را به افرادی که در این سیستم فعالیت می‌کنند تحمیل کند، حتی اگر با آن موافق نباشند.»<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "علی حسین قاضی‌زاده، عضو تحریریه ایران‌اینترنشنال، درباره اظهارات منتسب به عباس عراقچی درباره انتقام از دونالد ترامپ گفت: «جمهوری اسلامی می‌خواهد موضوع انتقام را، فارغ از اینکه توان عملی کردن آن را دارد یا نه، در صدر شعارهای خود نگه دارد و با هر ابزاری آن را به افرادی که در این سیستم فعالیت می‌کنند تحمیل کند، حتی اگر با آن موافق نباشند.»\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356323",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/a411EKtibfq81QJZgsfdQhvN_Kxs8lOPUHcfdXjYU-q0lStimqDxfmgRRWBq58297pS5iCEaIg3pis00LbQBsU9ACGGbfeiGYs9JsyAE-BuqFg9OjUB8vWgjUMDologTpSoCiD2bj-Tqq7QapTdgFW9briV48JhIuE-aZ08Kqopczaty1s20BBwnekufEcMs-dPRVJGQQ8kHxOsCDZuRJC4PG4yIvv1HbjEScJLdZCDVme1n0vkd9-ynK1s6osvL4ffqn-hBcFaTzNvPYKEWCa9y7AaJIQOTd0Af0nkbnFJwLrel6KC_o4pDL_nsnKCPpTKpjiTHVWObak8yIU5qnQ",
+          "thumbnail_path": "channels/iranintltv/media/b44b5935d7222e4e39f4820c.jpg",
+          "thumbnail_sha256": "176ef644fc6c5d205e9f6c797c203a7256e94fbded3541b67b963955a50407fa",
+          "duration_label": "5:13",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.1K",
+      "posted_at": "2026-09-08T13:33:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356323",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356322",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1K",
+      "views_label": "3.16K",
       "posted_at": "2026-09-08T13:31:58+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356322",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.13K",
+      "views_label": "5.26K",
       "posted_at": "2026-09-08T13:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356321",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.31K",
+      "views_label": "7.41K",
       "posted_at": "2026-09-08T13:25:33+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356320",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.53K",
+      "views_label": "10.6K",
       "posted_at": "2026-09-08T13:20:20+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356319",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.8K",
+      "views_label": "15.9K",
       "posted_at": "2026-09-08T13:13:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356318",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.9K",
+      "views_label": "17K",
       "posted_at": "2026-09-08T13:07:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356317",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.9K",
+      "views_label": "17K",
       "posted_at": "2026-09-08T13:05:08+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356316",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.9K",
+      "views_label": "16K",
       "posted_at": "2026-09-08T13:02:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356314",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17K",
+      "views_label": "18K",
       "posted_at": "2026-09-08T12:59:08+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356312",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.3K",
+      "views_label": "24.4K",
       "posted_at": "2026-09-08T12:44:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356310",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.9K",
+      "views_label": "36K",
       "posted_at": "2026-09-08T12:09:44+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356308",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.7K",
+      "views_label": "32.8K",
       "posted_at": "2026-09-08T12:06:05+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356306",
@@ -469,7 +497,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.9K",
+      "views_label": "34.9K",
       "posted_at": "2026-09-08T12:06:05+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356307",
@@ -497,7 +525,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.7K",
+      "views_label": "30.8K",
       "posted_at": "2026-09-08T12:00:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356305",
@@ -2721,34 +2749,6 @@
       "posted_at": "2026-09-07T23:17:35+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356221",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356220",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "تصاویر ماهواره‌ای بررسی‌شده از سوی ایران‌اینترنشنال نشان می‌دهد از زمان اعمال دوباره محاصره دریایی آمریکا در اواخر تیرماه، فعالیت قابل مشاهده کشتی‌ها در بنادر رجایی و خمینی به‌شدت کاهش یافته است؛ تغییری که فشار فزاینده بر واردات و صادرات ایران را نشان می‌دهد.<br><br>مجموعه تصاویر ماهواره‌ای کوپرنیک که ماه‌های پیش از جنگ را با دوره پس از اعمال محاصره مقایسه می‌کند، تغییر چشمگیری را در هر دو بندر نشان می‌دهد.<br><br>در بندر رجایی در نزدیکی بندرعباس، تصاویر پیش از جنگ حضور کشتی‌ها در چندین اسکله و فعالیت متراکم‌تر در پایانه کانتینری را نشان می‌دهد، در حالی که در تصاویر بعدی تعداد کشتی‌ها بسیار کمتر شده و بخش‌های وسیعی از بندر عمدتا غیرفعال به نظر می‌رسد.<br><br>الگوی مشابهی در بندر خمینی در جنوب‌غربی ایران، بزرگ‌ترین دروازه وارداتی کشور، دیده می‌شود؛ جایی که تصاویر ماهواره‌ای کاهش محسوس حضور کشتی‌ها و فعالیت پایانه‌ها را در مقایسه با دوره پیش از درگیری نشان می‌دهد.<br><br>بندر رجایی مهم‌ترین بندر صادراتی ایران و پس از بندر خمینی، دومین دروازه بزرگ وارداتی کشور است. این بندر همچنین بزرگ‌ترین بندر کانتینری ایران محسوب می‌شود و بر اساس آ",
-      "plain_text": "تصاویر ماهواره‌ای بررسی‌شده از سوی ایران‌اینترنشنال نشان می‌دهد از زمان اعمال دوباره محاصره دریایی آمریکا در اواخر تیرماه، فعالیت قابل مشاهده کشتی‌ها در بنادر رجایی و خمینی به‌شدت کاهش یافته است؛ تغییری که فشار فزاینده بر واردات و صادرات ایران را نشان می‌دهد.\n\nمجموعه تصاویر ماهواره‌ای کوپرنیک که ماه‌های پیش از جنگ را با دوره پس از اعمال محاصره مقایسه می‌کند، تغییر چشمگیری را در هر دو بندر نشان می‌دهد.\n\nدر بندر رجایی در نزدیکی بندرعباس، تصاویر پیش از جنگ حضور کشتی‌ها در چندین اسکله و فعالیت متراکم‌تر در پایانه کانتینری را نشان می‌دهد، در حالی که در تصاویر بعدی تعداد کشتی‌ها بسیار کمتر شده و بخش‌های وسیعی از بندر عمدتا غیرفعال به نظر می‌رسد.\n\nالگوی مشابهی در بندر خمینی در جنوب‌غربی ایران، بزرگ‌ترین دروازه وارداتی کشور، دیده می‌شود؛ جایی که تصاویر ماهواره‌ای کاهش محسوس حضور کشتی‌ها و فعالیت پایانه‌ها را در مقایسه با دوره پیش از درگیری نشان می‌دهد.\n\nبندر رجایی مهم‌ترین بندر صادراتی ایران و پس از بندر خمینی، دومین دروازه بزرگ وارداتی کشور است. این بندر همچنین بزرگ‌ترین بندر کانتینری ایران محسوب می‌شود و بر اساس آ",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356220",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ad6HL5fZQ9Th2WnrK7teDxkfURkCI12VS8Awc3AChJSFC-lML2pFCkxwa5entl8YlOyjwB8NYxabSRPwMncAFXEqIt3EpkEa6bwHa9pU-mtG1fYW3LFGRdogrmCEkEuuIDME3k9n5zspXPNL57WeL0sRiTFa_XIftGJysCA8rvOttNFJ5cLwD3xC3L5yaC0iqwjVsQCoaYkyesxvQPp0UDvM2wpwlJ_49DEOnk_l36mQzFzShBwRYjPkUCo_iT6tSgp3hBc-aVMKOauWjgmcSTjp47r_A6xsOMCndmw26nEYafjXz5FP6IT0BBv2MCxjvngP_mMtjpXOc2uMq4nVNw",
-          "thumbnail_path": "channels/iranintltv/media/d776d041c91200ee456c3fbe.jpg",
-          "thumbnail_sha256": "682d88ecefe999c9021a91d10a8ab47fe4bd2542de7df895abcb225360350f29",
-          "duration_label": "0:59",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "39.3K",
-      "posted_at": "2026-09-07T23:16:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356220",
       "reply": null
     }
   ]

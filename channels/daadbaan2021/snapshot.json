@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T13:33:38.042Z",
+  "fetched_at": "2026-09-08T13:36:39.272Z",
   "channel": {
     "username": "daadbaan2021",
     "title": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
@@ -11,6 +11,39 @@
     "subscriber_count": "5.36K"
   },
   "posts": [
+    {
+      "id": "Daadbaan2021/20238",
+      "author_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
+      "author_photo_url": "https://cdn4.telesco.pe/file/TJphKReilqQs96VzYdJZoZbGQioah1pC9qAI-fS0uM0OtstHlxf0Nz7TH8jbt69qfYBSYgqpLKMsNaHR5d52QNfHsn3lERcPaVi32BKXY_t2-yGQTxCuKcVmJHqEORqGehX8iSt6HS4Q6DLsovWph-YT6wD83ea-Byz9uJ-QUNlkc-UBLOVfN8BayeOObBQIQCSlHD2xOdU2KZin9Y298ZWOKIWDhXz3QYmEABfFMUjPM9u7hUScEN3G68gBQ2IITbyS4U4Rk0C9hzjZCcaUnWRC2bYax916ri-zPki6gJE0j6M28USDnSnV8O7HmgQGYqcYj-lcaHxWN0UHd_XP8w.jpg",
+      "author_photo_path": "channels/daadbaan2021/media/72e00c2a947c0bff413bf9cc.jpg",
+      "author_photo_sha256": "d9f13e6473a18b03005f8ceac5f07748f0719c4c9da3cfc64dc3ebd037e03afe",
+      "body_html": "‏میثم قادری ۱۸ دی در اعتراضات کرج مقابل پایگاه بسیج خیابان هشتم شاهین ویلا از ناحیه گردن هدف گلوله قرار گرفت و کشته شد. میثم قادری به تازگی عقد کرده بود.<br><br><br><br><br>او ۳۲ ساله بود و پس از ۱۱ سال عاشقی و گذراندن موانع مختلف، به‌تازگی با همسرش زیر یک سقف رفته بودند.<br><br>او در ۱۸ دی ۱۴۰۴، در شاهین‌ویلای کرج، با اصابت گلوله به گلو کشته شد.<br><br><a href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\">#دادبان</a> <a href=\"?q=%23%D9%85%DB%8C%D8%AB%D9%85_%D9%82%D8%A7%D8%AF%D8%B1%DB%8C_%D9%BE%D8%A7%DA%A9\">#میثم_قادری_پاک</a>",
+      "plain_text": "‏میثم قادری ۱۸ دی در اعتراضات کرج مقابل پایگاه بسیج خیابان هشتم شاهین ویلا از ناحیه گردن هدف گلوله قرار گرفت و کشته شد. میثم قادری به تازگی عقد کرده بود.\n\n\n\n\nاو ۳۲ ساله بود و پس از ۱۱ سال عاشقی و گذراندن موانع مختلف، به‌تازگی با همسرش زیر یک سقف رفته بودند.\n\nاو در ۱۸ دی ۱۴۰۴، در شاهین‌ویلای کرج، با اصابت گلوله به گلو کشته شد.\n\n#دادبان #میثم_قادری_پاک",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Daadbaan2021/20238",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Fy5NAcOkzTRqVd67d68qTohz4ZHJ7U9WXiab5t0UieJ59zJSGaP7hTlpGvwXBcpKPVXLX6dszDHypoZpLGXX5w0H2PCHLP9eBjOxFqSS4Td4VcAJbmyJRJtequnNLxVQzX6AUltll6O1WeC2GjunZdY_j76R1RRFw8SpTtN-1X-ib_7AX1PplZ4ZQFmxt6R-ng0vYkmDGoq-dft8uOlrOgsmPAyAelg-li26LE_M5psYZheQzb-kFE3m1bQbg0MliS2OgCCEOTPNjA7qr4EGsBKXS3zqBXjS8iX8n7uiPj07MqoO5DGij76NM3pm1K-J8tS26pxVWWnocgd9bm6C7w",
+          "thumbnail_path": "channels/daadbaan2021/media/94bb53fd91a748593c0dbf0b.jpg",
+          "thumbnail_sha256": "6253d1732933c7035eaa9a156a0fb0b3433168502fe0a31619c529b25d6a2948",
+          "duration_label": "1:03",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "1"
+        }
+      ],
+      "views_label": "8",
+      "posted_at": "2026-09-08T13:33:58+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Daadbaan2021/20238",
+      "reply": null
+    },
     {
       "id": "Daadbaan2021/20237",
       "author_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
@@ -42,7 +75,7 @@
           "count": "1"
         }
       ],
-      "views_label": "71",
+      "views_label": "74",
       "posted_at": "2026-09-08T12:28:15+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20237",
@@ -70,7 +103,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "85",
+      "views_label": "86",
       "posted_at": "2026-09-08T11:58:46+00:00",
       "edited": false,
       "permalink": "https://t.me/Daadbaan2021/20236",
@@ -103,7 +136,7 @@
           "count": "1"
         }
       ],
-      "views_label": "79",
+      "views_label": "80",
       "posted_at": "2026-09-08T11:56:05+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20235",
@@ -403,7 +436,7 @@
           "count": "1"
         }
       ],
-      "views_label": "193",
+      "views_label": "194",
       "posted_at": "2026-09-07T15:34:48+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20227",
@@ -832,7 +865,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "161",
+      "views_label": "162",
       "posted_at": "2026-09-07T09:17:17+00:00",
       "edited": false,
       "permalink": "https://t.me/Daadbaan2021/20207",
@@ -4002,39 +4035,6 @@
       "posted_at": "2026-08-30T08:42:07+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20072",
-      "reply": null
-    },
-    {
-      "id": "Daadbaan2021/20071",
-      "author_name": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
-      "author_photo_url": "https://cdn4.telesco.pe/file/NsaMC5t5US4a9b1yH4zSs3SikRHGG_UPyt8e3eoI8XXmftDiwyQ-JOD9aedPvKnTp_UV-YtiiUZH-1A3Xu_eWVCp4YDhWRgZTyB1Cp5z-kKeAO4SyQoZR4ZWaP7p75ctPG1OZRy-W5VBzK8eIUCSfETVvYBx_7SC5j06R19R4xZXDyIqQV6BHs9zO9aaTRr0NjoDTf65GBb65Ay14YG5Ejkn4wU4xqj6OrLqi0dHULOmh_lAN7Qzicsc1N4kmGGzMEO06nRttAQ5_YwDQ1LwaQYN6rSFnYvkW8qRWIt00KZa_5H_EEleE_N2f20P1X_0DEkBxuMCgSYQsmg8Bl_VgQ.jpg",
-      "author_photo_path": "channels/daadbaan2021/media/c5469ac4b4487acb26b7a495.jpg",
-      "author_photo_sha256": "d9f13e6473a18b03005f8ceac5f07748f0719c4c9da3cfc64dc3ebd037e03afe",
-      "body_html": "‏بدهی ۲۰ هزار میلیارد تومانی بیمه‌ها؛ داروخانه‌های تهران در آستانه تعطیلی<br><br>‏بیش از چهار هزار داروخانه در استان تهران با بحران شدید مالی روبه‌رو هستند و مجموع مطالبات آنها از سازمان‌های بیمه‌گر از ۲۰ هزار میلیارد تومان گذشته است. تداوم این بدهی‌ها، فعالیت بسیاری از داروخانه‌ها را با خطر توقف مواجه کرده است.<br><br>‏به گزارش خبرگزاری رسمی دولتی در ایران، تاخیر چندماهه بیمه‌ها در پرداخت مطالبات باعث شده داروخانه‌ها برای خرید دارو با کمبود نقدینگی روبه‌رو شوند. در همین حال، شرکت‌های پخش نیز به دلیل مشکلات مالی مشابه، تمایل کمتری به فروش اعتباری دارند و این وضعیت تامین دارو را دشوارتر کرده است.<br><br>‏افزایش هزینه‌های جاری، از حقوق کارکنان و اجاره تا مالیات و قبوض، فشار بیشتری بر داروخانه‌ها وارد کرده است. برخی از این مراکز برای ادامه فعالیت ناچار به دریافت وام با بهره بالا شده‌اند، در حالی که کاهش ارزش پول، اثر واقعی مطالبات معوق را نیز کمتر کرده است.<br><br>‏به گفته بهمن صبور، عضو انجمن داروسازان تهران، پرداخت مطالبات بیمه‌ای باید هرچه سریع‌تر انجام شود و ساختار تامین مالی بیمه‌ها نیز اصلاح شود. او هشدار داده است که ادامه این وضعیت نه فقط بقای داروخانه‌ها، بلکه دسترسی بیماران به دارو و امنیت دارویی کشور را با خطر جدی روبه‌رو می‌کند.<br><br>‏دادبان تاکید می‌کند، از منظر قانونی، بر اساس اصول ۲۹ و ۴۳ قانون اساسی جمهوری اسلامی، برخورداری از تامین اجتماعی، خدمات درمانی و دسترسی به نیازهای اساسی سلامت، از حقوق بنیادین شهروندان و از وظایف حکومت است. در نتیجه، ناتوانی بیمه‌ها در پوشش هزینه درمان و قطع همکاری مراکز درمانی و داروخانه‌ها با بیمه‌ها، به‌گونه‌ای که شهروندان از دسترسی موثر به دارو و درمان محروم شوند، نشان‌دهنده نقض تعهدات قانونی حکومت در تضمین حق سلامت و تامین حداقل‌های درمانی برای مردم است.<br><br><a href=\"https://t.me/Daadbaan2021\" target=\"_blank\">@Daadbaan2021</a><br><br>‏⁧ <a href=\"?q=%23%D8%AF%D8%A7%D8%AF%D8%A8%D8%A7%D9%86\">#دادبان</a>⁩ ⁧ <a href=\"?q=%23%D8%A8%D8%AD%D8%B1%D8%A7%D9%86_%D8%AF%D8%A7%D8%B1%D9%88\">#بحران_دارو</a>⁩",
-      "plain_text": "‏بدهی ۲۰ هزار میلیارد تومانی بیمه‌ها؛ داروخانه‌های تهران در آستانه تعطیلی\n\n‏بیش از چهار هزار داروخانه در استان تهران با بحران شدید مالی روبه‌رو هستند و مجموع مطالبات آنها از سازمان‌های بیمه‌گر از ۲۰ هزار میلیارد تومان گذشته است. تداوم این بدهی‌ها، فعالیت بسیاری از داروخانه‌ها را با خطر توقف مواجه کرده است.\n\n‏به گزارش خبرگزاری رسمی دولتی در ایران، تاخیر چندماهه بیمه‌ها در پرداخت مطالبات باعث شده داروخانه‌ها برای خرید دارو با کمبود نقدینگی روبه‌رو شوند. در همین حال، شرکت‌های پخش نیز به دلیل مشکلات مالی مشابه، تمایل کمتری به فروش اعتباری دارند و این وضعیت تامین دارو را دشوارتر کرده است.\n\n‏افزایش هزینه‌های جاری، از حقوق کارکنان و اجاره تا مالیات و قبوض، فشار بیشتری بر داروخانه‌ها وارد کرده است. برخی از این مراکز برای ادامه فعالیت ناچار به دریافت وام با بهره بالا شده‌اند، در حالی که کاهش ارزش پول، اثر واقعی مطالبات معوق را نیز کمتر کرده است.\n\n‏به گفته بهمن صبور، عضو انجمن داروسازان تهران، پرداخت مطالبات بیمه‌ای باید هرچه سریع‌تر انجام شود و ساختار تامین مالی بیمه‌ها نیز اصلاح شود. او هشدار داده است که ادامه این وضعیت نه فقط بقای داروخانه‌ها، بلکه دسترسی بیماران به دارو و امنیت دارویی کشور را با خطر جدی روبه‌رو می‌کند.\n\n‏دادبان تاکید می‌کند، از منظر قانونی، بر اساس اصول ۲۹ و ۴۳ قانون اساسی جمهوری اسلامی، برخورداری از تامین اجتماعی، خدمات درمانی و دسترسی به نیازهای اساسی سلامت، از حقوق بنیادین شهروندان و از وظایف حکومت است. در نتیجه، ناتوانی بیمه‌ها در پوشش هزینه درمان و قطع همکاری مراکز درمانی و داروخانه‌ها با بیمه‌ها، به‌گونه‌ای که شهروندان از دسترسی موثر به دارو و درمان محروم شوند، نشان‌دهنده نقض تعهدات قانونی حکومت در تضمین حق سلامت و تامین حداقل‌های درمانی برای مردم است.\n\n@Daadbaan2021\n\n‏⁧ #دادبان⁩ ⁧ #بحران_دارو⁩",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Daadbaan2021/20071",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/CVrwQeZRKIdcCQoMR_ojQzYsSQqVKmR93czSEoJIW2Lwm_Jd14Wn2lf1CLARPJEw6MKvHDON8ZnYwH9gc9sT1iWeb-eYkYpyWYwenLRnkShwaOjKhB7t8ttcaPgtvUif4Usfz3xIdrEh_NI0pR2zUee05t9bnW7v7Ub6PxrK1UEDPzYesPMsCrQdmVtiLbWnkOu_Sb36DIdhth-FH85yipBKJtnXBdoO9WH3rZ_r2rGnVd9__Gwc2lQElBR72_VoxBkCs7GUZoDmXTCMPVDhm10d_yThyQ9Kx94c_jqGfJ_oBWkqEPMMqNP4ldFlHQflqxe-498p3IS6k5TLSKYGjw.jpg",
-          "thumbnail_path": "channels/daadbaan2021/media/9470db3c48425b9c98035d0e.jpg",
-          "thumbnail_sha256": "2a738876d1355bd4e6b80c8f988e481cdb7f7c58fc953bc335d15c90a23973e9",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "🔥",
-          "count": "3"
-        }
-      ],
-      "views_label": "226",
-      "posted_at": "2026-08-29T18:22:25+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Daadbaan2021/20071",
       "reply": null
     }
   ]
