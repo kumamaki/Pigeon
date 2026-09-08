@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-08T19:21:46.986Z",
+  "fetched_at": "2026-09-08T19:26:40.985Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,62 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356380",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "آی۲۴نیوز به نقل از یک مقام آمریکایی اعلام کرد نیروهای ارتش ایالات متحده شامگاه سه‌شنبه ۱۷ شهریور در حال هدف قرار دادن نفتکش‌های ایرانی هستند.<br><br>رسانه‌های ایران از شنیده شدن صدای چند انفجار در اطراف جزیره خارک و شهرستان جاسک خبر داده‌اند.<br><a href=\"https://iranintl.com/202609083306\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609083306</a>",
+      "plain_text": "آی۲۴نیوز به نقل از یک مقام آمریکایی اعلام کرد نیروهای ارتش ایالات متحده شامگاه سه‌شنبه ۱۷ شهریور در حال هدف قرار دادن نفتکش‌های ایرانی هستند.\n\nرسانه‌های ایران از شنیده شدن صدای چند انفجار در اطراف جزیره خارک و شهرستان جاسک خبر داده‌اند.\nhttps://iranintl.com/202609083306",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356380",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ug4EQrl-bJ7fiA1E-4bAc7udVS0g2STIBMV-Z8PKrIkbGWk4FqItS2BssZygMXTpt1WbzG8_50OVmzgqW2OFaLN1vm99eXvMi2dwgAK5x11pNmxWMEcdZgbpIw4NyeMv1AI3Vt7NKhznn3wY3ntTgbQr-IlsArWmGIdx6rm5OAndSUo8IhKaTzMJc1EXfSm0QS2tW0T-xgCUNhG421SirEa2gP_CY9cOWmLLkMIPpvREE9_Ewa-tdY_BDqE-VxEFi3_J6h7Nx5Sn1q6zwcJKApIBn_f-yPo9Kx4Q944qwAJaa9tGcDv2RPEa5mODR2S0KNwES5j4AZkwAxIdj8ELug.jpg",
+          "thumbnail_path": "channels/iranintltv/media/ef4d72b64cf8c10638955733.jpg",
+          "thumbnail_sha256": "31efe39a631cce218dbffcf92745fb3433d306f3e62bf3b2a656d37b9417871a",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "4",
+      "posted_at": "2026-09-08T19:25:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356380",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356379",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>رسانه تابناک ویدیویی از آخرین وضعیت استادیوم آزادی منتشر کرده است که نشان می‌دهد علاوه بر جمع‌آوری کامل چمن زمین، بخش‌هایی از تونل‌های استادیوم نیز در دست بازسازی است و زمان دقیق بهره‌برداری از این ورزشگاه همچنان مشخص نیست.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>با این حال، محمدعلی ثابت‌قدم، مدیرعامل شرکت توسعه و نگهداری اماکن ورزشی، سه‌شنبه ۱۷ شهریور گفت که عملیات عمرانی ورزشگاه آزادی در مهرماه به پایان می‌رسد و بهره‌برداری اولیه از این مجموعه با ظرفیت کامل در آذرماه انجام خواهد شد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>پیش از این قرار بود استادیوم آزادی برای فصل ۱۴۰۶–۱۴۰۵ آماده شود؛ اما با وجود رسیدن بازسازی سکوها و برخی امکانات به مراحل پایانی، در اقدامی مبهم، چمن قبلی به‌طور کامل جمع‌آوری شد تا چمن جدیدی کاشته شود و همین امر روند آماده‌سازی را به درازا کشانده است.<br><br> <a href=\"https://t.me/iranintltvsport\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><u>@iranintltvsport</u></a>",
+      "plain_text": "🔻رسانه تابناک ویدیویی از آخرین وضعیت استادیوم آزادی منتشر کرده است که نشان می‌دهد علاوه بر جمع‌آوری کامل چمن زمین، بخش‌هایی از تونل‌های استادیوم نیز در دست بازسازی است و زمان دقیق بهره‌برداری از این ورزشگاه همچنان مشخص نیست.\n\n🔹با این حال، محمدعلی ثابت‌قدم، مدیرعامل شرکت توسعه و نگهداری اماکن ورزشی، سه‌شنبه ۱۷ شهریور گفت که عملیات عمرانی ورزشگاه آزادی در مهرماه به پایان می‌رسد و بهره‌برداری اولیه از این مجموعه با ظرفیت کامل در آذرماه انجام خواهد شد.\n\n🔹پیش از این قرار بود استادیوم آزادی برای فصل ۱۴۰۶–۱۴۰۵ آماده شود؛ اما با وجود رسیدن بازسازی سکوها و برخی امکانات به مراحل پایانی، در اقدامی مبهم، چمن قبلی به‌طور کامل جمع‌آوری شد تا چمن جدیدی کاشته شود و همین امر روند آماده‌سازی را به درازا کشانده است.\n\n@iranintltvsport",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356379",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/gIfQ5L79MqnoCWyQEUboYfQ30A5RYaeu2FCqV6R3VzRP_GxLn5toUOa1M4Naslqovc1Ev8llpsI7dm0yAe2LFCXtEGE5RVOq1s359-63JO6NUEKjP9WgPQviNz77sChxAaSDjLZ4yfUzT3kuwJUHdnA_BJ-V_fPLr_4-MDYFipPx2Tr0D8-lEBf5ybTu9qBpeN0wJQKTYmdDPIpjipA8V7TaHbqAYwUfkBt26bFjrQLAS49xHdjn0N4rpK1PSv59lBuxewisgd24V3FytSijDOtcCiZoHjjZB4VFYP74GWp01xWNuPBDXWo_KNZzO56wUDZ2J4580ju-P1Zly8z2Mw",
+          "thumbnail_path": "channels/iranintltv/media/31f2243813c34a02e71c96e6.jpg",
+          "thumbnail_sha256": "09bab7d156de8a1bd94be01a40d849396749aba3a48f482a33772353cfe27c0f",
+          "duration_label": "2:35",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "5.2K",
+      "posted_at": "2026-09-08T19:23:20+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356379",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356378",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.2K",
+      "views_label": "12.5K",
       "posted_at": "2026-09-08T19:18:58+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356378",
@@ -61,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.4K",
+      "views_label": "15.7K",
       "posted_at": "2026-09-08T19:14:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356377",
@@ -89,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23K",
+      "views_label": "27.1K",
       "posted_at": "2026-09-08T18:59:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356376",
@@ -117,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.1K",
+      "views_label": "28.2K",
       "posted_at": "2026-09-08T18:57:35+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356375",
@@ -145,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24K",
+      "views_label": "27.1K",
       "posted_at": "2026-09-08T18:55:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356374",
@@ -173,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23K",
+      "views_label": "25.1K",
       "posted_at": "2026-09-08T18:54:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356373",
@@ -201,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22K",
+      "views_label": "24.1K",
       "posted_at": "2026-09-08T18:54:32+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356372",
@@ -229,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.2K",
+      "views_label": "28.3K",
       "posted_at": "2026-09-08T18:47:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356371",
@@ -257,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.2K",
+      "views_label": "30.3K",
       "posted_at": "2026-09-08T18:44:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356370",
@@ -285,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.7K",
+      "views_label": "39.8K",
       "posted_at": "2026-09-08T18:31:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356369",
@@ -313,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.6K",
+      "views_label": "37.7K",
       "posted_at": "2026-09-08T18:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356368",
@@ -341,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.6K",
+      "views_label": "36.7K",
       "posted_at": "2026-09-08T18:27:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356367",
@@ -369,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.8K",
+      "views_label": "39.8K",
       "posted_at": "2026-09-08T18:19:14+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356366",
@@ -397,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.8K",
+      "views_label": "39.9K",
       "posted_at": "2026-09-08T18:14:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356365",
@@ -425,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "43K",
+      "views_label": "44K",
       "posted_at": "2026-09-08T18:04:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356364",
@@ -453,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.9K",
+      "views_label": "42K",
       "posted_at": "2026-09-08T18:03:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356363",
@@ -481,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.3K",
+      "views_label": "49.3K",
       "posted_at": "2026-09-08T17:44:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356362",
@@ -509,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50.4K",
+      "views_label": "51.4K",
       "posted_at": "2026-09-08T17:36:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356361",
@@ -2705,62 +2761,6 @@
       "posted_at": "2026-09-08T08:38:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356278",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356277",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد مراسم تولد جاویدنام محمد احمدی بر سر مزارش برگزار شده است.<br>محمد احمدی، ۲۱ ساله، شامگاه پنجشنبه ۱۸ دی‌ماه ۱۴۰۴ در نورآباد ممسنی کشته شد.",
-      "plain_text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد مراسم تولد جاویدنام محمد احمدی بر سر مزارش برگزار شده است.\nمحمد احمدی، ۲۱ ساله، شامگاه پنجشنبه ۱۸ دی‌ماه ۱۴۰۴ در نورآباد ممسنی کشته شد.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356277",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qA_A5mC0Z_kjMwD215UapqbhsfdPTo6n_q8MKjexOA30k1uZLlIozzCIJ6xAPphTvRceCyjCBJ5eQuVITyzlsWyNDywOnoDdOI8pSq6KjhpPeYKkJ6tf9o3YQSpl8U4rHuBbLG5yHxCdJc6HhCe6RvefFFF3s-7qRqmUKrG1OIFzFCI_oKOps0117ets1ac-mGvuwNxjWKb7DLpSLgeY4NS995KEFK6tKuj9dqxuJoZyzbF7i_rNsU8LNKeTGOMvgCk_KiS4qEwwzlwm9EtGWqseWRFXyIxPrh0Bg7bjTfHzaPJFsQK9i2C2ZXBwlAEOyGH6LU5nEyCaq7xk1ONp5Q",
-          "thumbnail_path": "channels/iranintltv/media/487a6949e14c0c49b16d1763.jpg",
-          "thumbnail_sha256": "d000ec39fd3e00acb2985da38cdab50833254a7cd649cb5755e7766b8916c060",
-          "duration_label": "0:30",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "39.8K",
-      "posted_at": "2026-09-08T08:32:03+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356277",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356276",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "مخاطبان ایران‌اینترنشنال با ارسال پیام‌هایی از تشدید فضای امنیتی در شهرهایی از جمله تهران، کرج، شیراز، مشهد، بیرجند، خمین و حضور گسترده نیروهای یگان ویژه، پلیس و بسیج در اطراف جایگاه‌های سوخت، هم‌زمان با افزایش نرخ سوم بنزین به ۱۰ هزار تومان، خبر می‌دهند.<br><br>جزییات بیشتر با لیلا سعادتی، عضو تحریریه ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "مخاطبان ایران‌اینترنشنال با ارسال پیام‌هایی از تشدید فضای امنیتی در شهرهایی از جمله تهران، کرج، شیراز، مشهد، بیرجند، خمین و حضور گسترده نیروهای یگان ویژه، پلیس و بسیج در اطراف جایگاه‌های سوخت، هم‌زمان با افزایش نرخ سوم بنزین به ۱۰ هزار تومان، خبر می‌دهند.\n\nجزییات بیشتر با لیلا سعادتی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356276",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Pe3-5ejp3tn6JTN_rIeU3rcvgLcdTL9B1u1GuaZebzT8WIeSus2xh9XrqCntvROaXWp0eEpPYy1xiSC6p6j6qPYuxlNl-lJbYYsoCmNO-e_iwi_7I1FlDaU_TQiwuKw6vI0CQnGk-cWNK-NaH1aEXVkTlk4E4zPql_Jk9kxHW8dptw4gZGh_UBZkK3RwkXBZj25PqdCumpNVQjUlPMY7MtyRl-Ixia0hOEPqwSVBhamQf085a2ympwfep_A_40GCYdlKyLf5N2pxlZclGePasYHs8-H3Rjao2Y-D2U3CutOsviZWE-WcWP5ssnxvWn4x8HEdSSEw5wXEeTer0BcPEw",
-          "thumbnail_path": "channels/iranintltv/media/8a97f890b008191019f10697.jpg",
-          "thumbnail_sha256": "d73c628bbfad80669f5c28b4a4dee96fec80e6084065b1621f864d8e45349c4d",
-          "duration_label": "2:22",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "37.7K",
-      "posted_at": "2026-09-08T08:28:38+00:00",
-      "edited": true,
-      "permalink": "https://t.me/IranintlTV/356276",
       "reply": null
     }
   ]
