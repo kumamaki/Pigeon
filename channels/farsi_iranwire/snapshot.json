@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T07:21:50.437Z",
+  "fetched_at": "2026-09-09T07:26:43.023Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93503",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "رانندگان اسنپ‌باکس در سمنان در اعتراض به پایین‌بودن کرایه‌ها، افزایش هزینه بنزین و میزان کمیسیون این شرکت دست از کار کشیدند. یکی از رانندگان حاضر در این اعتصاب می‌گوید: «همه ایستاده‌ایم؛ هیچ‌کس کار نمی‌کند.»<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "رانندگان اسنپ‌باکس در سمنان در اعتراض به پایین‌بودن کرایه‌ها، افزایش هزینه بنزین و میزان کمیسیون این شرکت دست از کار کشیدند. یکی از رانندگان حاضر در این اعتصاب می‌گوید: «همه ایستاده‌ایم؛ هیچ‌کس کار نمی‌کند.»\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Farsi_Iranwire/93503",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/eBRAcHmm5NboB7gvE3B3lEbz5wxcMbpTar6VI9MWy8a4c4_Q7XUmOAybmlLEUUfkEEudVdV1xOU0XqVdJwp4SztlDtOqhhQfptp4VbmsJAIjrWyuW4ep5IaBPQcwEWrpYlLUgVWPrD6TnEXLwMwDW52U3U0BZmPbCK1gVzAG__rD6bjuURjIjj5FuFx5jL6E613-g68zKWXfBfXJfL6i5fzYdW31_-HVzW1LglyO1JsfsMA2DXSaSkSXNuO_m6e10XC6I-rB-qm1TFRFR-uXAN2siZRt2wFjs5BtNUWIqX-BBezIQxqAKzqtm7qnZq3Y0-kUzRYF_DBkHNRFhKR3eQ",
+          "thumbnail_path": "channels/farsi_iranwire/media/21bffe0f871cc65920c3634f.jpg",
+          "thumbnail_sha256": "6a445366ade481ce9fe8a1c3e4e10c9895aab6decd72860d04520be68ab830c6",
+          "duration_label": "0:34",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "44",
+      "posted_at": "2026-09-09T07:25:02+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93503",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93502",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "184",
+      "views_label": "244",
       "posted_at": "2026-09-09T07:10:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93502",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "296",
+      "views_label": "368",
       "posted_at": "2026-09-09T07:01:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93501",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.71K",
+      "views_label": "1.73K",
       "posted_at": "2026-09-08T21:53:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93500",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.96K",
+      "views_label": "1.97K",
       "posted_at": "2026-09-08T20:34:18+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93499",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.98K",
+      "views_label": "1.99K",
       "posted_at": "2026-09-08T19:37:26+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93498",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.95K",
+      "views_label": "1.96K",
       "posted_at": "2026-09-08T19:04:08+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93497",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.45K",
+      "views_label": "1.46K",
       "posted_at": "2026-09-08T18:24:01+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93495",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.33K",
+      "views_label": "1.34K",
       "posted_at": "2026-09-08T15:49:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93491",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.23K",
+      "views_label": "1.24K",
       "posted_at": "2026-09-08T15:24:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93490",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.2K",
+      "views_label": "1.21K",
       "posted_at": "2026-09-08T15:08:16+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93489",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.4K",
+      "views_label": "1.41K",
       "posted_at": "2026-09-08T14:50:47+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93487",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.45K",
+      "views_label": "1.46K",
       "posted_at": "2026-09-08T12:40:34+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93486",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-05T19:56:20+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93401",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93400",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/K1ryeuKQ4KEx_W8GG_UAEgXS4WenbnqYy6I38arbtQjTENtUCZQc86aijSe5XYgmScJwV1DfLQ_4VEPN5DltoBy7THAdB-M57YdRe65wQEul8EBsDbrMRWw2zRL5OzhWguF-d-8QVWwclG6spHHFcXlsJFKgrZLGgwKhEeGbn7jfwHtI0-R8bayMDq_tttXVRSGkpMVAeAyb34TseqUs8rqvywSzheUDDm3U0EVjDW-9tmpTsswi5sMh55tZyHvVXko6rwusUIzlfc8QZNYipXbKGOAn3cz77hC389xV_7PX6pD8qx8sh7cKA0Jz_noMeNwVM5xZQ77gMTmo8209sA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/5ea6725eb75d0236588a5f92.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "حمید رسایی، نماینده تهران در مجلس شورای اسلامی، در یک تجمع شبانه حکومتی، مسعود پزشکیان، رییس‌جمهوری ایران، را به اظهار«عجز و ناتوانی» در برابر آمریکا متهم کرد و گفت آمریکایی‌ها با دعوت پزشکیان به مراسم عروسی در بندر کوهستک سیریک حمله کردند.<br>رسایی با اشاره به حملات موشکی آمریکا و کشته‌شدن شماری از مردم در مراسم در سیریک خطاب به پزشکیان گفت: «آقای پزشکیان! موشک‌های آمریکایی با کارت دعوت شما به عروسی سیریک رفتند و جشن مردم را خونین کردند.»<br>آمریکا تاکنون مسوولیت اصابت به مراسم عروسی در بندر کوهستک را نپذیرفته اما مقامات جمهوری اسلامی ارتش ایالات متحده را مسوول آن دانسته‌اند.<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "حمید رسایی، نماینده تهران در مجلس شورای اسلامی، در یک تجمع شبانه حکومتی، مسعود پزشکیان، رییس‌جمهوری ایران، را به اظهار«عجز و ناتوانی» در برابر آمریکا متهم کرد و گفت آمریکایی‌ها با دعوت پزشکیان به مراسم عروسی در بندر کوهستک سیریک حمله کردند.\nرسایی با اشاره به حملات موشکی آمریکا و کشته‌شدن شماری از مردم در مراسم در سیریک خطاب به پزشکیان گفت: «آقای پزشکیان! موشک‌های آمریکایی با کارت دعوت شما به عروسی سیریک رفتند و جشن مردم را خونین کردند.»\nآمریکا تاکنون مسوولیت اصابت به مراسم عروسی در بندر کوهستک را نپذیرفته اما مقامات جمهوری اسلامی ارتش ایالات متحده را مسوول آن دانسته‌اند.\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Farsi_Iranwire/93400",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/s1feRe04qHAcc0K5E6b2tqv38Kohg_kBSpqhdxTrIiFidgJ4MsWBohthXrd016px5EiBUZB7zJom_4oOoUSHscYH_pWDf-kozTJ4Ig6jpVdNlyFyk2ttbPvK4Y8zGyY_PxPMZZCjNi8mhJG8OjOH7t6GVqmKRdUVZ-L_CHWudMpsA4UuUBTkZmsqK60rvrkgvlmDy2Pm2DJ2oRaypi-kZieO7bGCQJjI1F6ajSIdoFkeYqdYHrrOGDyj5x5TKg-ghrshs7xkzhZfLX0y7gVY884oiVcotySUpJjjn_5wjU6nqPp4HnPGwN5a3QTV1y8mpZRTWf3vOx39pxup74rvtA",
-          "thumbnail_path": "channels/farsi_iranwire/media/9342f161b2798e422a55c47f.jpg",
-          "thumbnail_sha256": "9bc1571132e2ccf566bd7eb4fc657d6bf960705695c9597b1bc7de6a9d39eb4b",
-          "duration_label": "3:50",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.08K",
-      "posted_at": "2026-09-05T19:37:58+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93400",
       "reply": null
     }
   ]
