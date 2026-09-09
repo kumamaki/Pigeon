@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T01:52:10.131Z",
+  "fetched_at": "2026-09-09T01:56:43.090Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356425",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "در پی دور تازه درگیری‌ها میان آمریکا و جمهوری اسلامی، قیمت نفت برای چهارمین روز متوالی افزایش یافت و به نزدیکی ۱۰۰ دلار در هر بشکه رسید.<br><br>پس از اعلام آمریکا درباره انهدام پنج نفتکش مرتبط با سپاه پاسداران در واکنش به حملات موشکی ناموفق به دو ناو جنگی این کشور، بهای نفت برنت با ۱.۶ درصد افزایش به ۹۹.۴۹ دلار و نفت وست تگزاس اینترمدیت با ۱.۷۲ درصد افزایش به ۹۴.۶۳ دلار در هر بشکه رسید.<br><br>سپاه پاسداران نیز اعلام کرد یک پایگاه آمریکا در اردن را هدف حمله موشکی قرار داده است.<br><br>دان استروین، رییس مشترک بخش تحقیقات جهانی کالاها در گلدمن ساکس، گفت تشدید درگیری و افزایش حملات به کشتیرانی، احتمال جهش قیمت نفت برنت به بالای ۱۲۰ دلار را افزایش داده است.<br><br>نیویورک‌تایمز نیز گزارش داد میانگین عبور روزانه نفت از تنگه هرمز در هفت روز منتهی به ۱۲ شهریور، با وجود حفاظت ارتش آمریکا، ۶۰ درصد کمتر از پیش از جنگ بوده است.<br><br><a href=\"https://iranintl.com/202609090312\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609090312</a>",
+      "plain_text": "در پی دور تازه درگیری‌ها میان آمریکا و جمهوری اسلامی، قیمت نفت برای چهارمین روز متوالی افزایش یافت و به نزدیکی ۱۰۰ دلار در هر بشکه رسید.\n\nپس از اعلام آمریکا درباره انهدام پنج نفتکش مرتبط با سپاه پاسداران در واکنش به حملات موشکی ناموفق به دو ناو جنگی این کشور، بهای نفت برنت با ۱.۶ درصد افزایش به ۹۹.۴۹ دلار و نفت وست تگزاس اینترمدیت با ۱.۷۲ درصد افزایش به ۹۴.۶۳ دلار در هر بشکه رسید.\n\nسپاه پاسداران نیز اعلام کرد یک پایگاه آمریکا در اردن را هدف حمله موشکی قرار داده است.\n\nدان استروین، رییس مشترک بخش تحقیقات جهانی کالاها در گلدمن ساکس، گفت تشدید درگیری و افزایش حملات به کشتیرانی، احتمال جهش قیمت نفت برنت به بالای ۱۲۰ دلار را افزایش داده است.\n\nنیویورک‌تایمز نیز گزارش داد میانگین عبور روزانه نفت از تنگه هرمز در هفت روز منتهی به ۱۲ شهریور، با وجود حفاظت ارتش آمریکا، ۶۰ درصد کمتر از پیش از جنگ بوده است.\n\nhttps://iranintl.com/202609090312",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356425",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/poRM8bIELUJyS5nbX-DD5u_-fOsMljWiizt-NUoAdznU6RkW-2DmJjyulGV0uosNgZ-tbzuMD07opCcSI2ldd-Oo1BbL0DRZB0x5uEYELbjovs3TpBwUNGfwckSlNlao7_ZYuGJoebEcaQz4MmRoFHRUgp2RtCT1eQQwDVUACJ6QYsjjQucoBht5VKhy0HguET3r5IlHzK9v0PGTQzMAZtP2Bs564ryk-hBay9X08Jspv1FIqq7YrpRs3x5OgKXM6cSxzNzpBJEnG6jURzVmB4yPxM_3yQZCYx6M5cHSwX98P3HU2aGi43b_5Q15l7-KXffChQmKgIPbLwMYFUfzoA.jpg",
+          "thumbnail_path": "channels/iranintltv/media/ad6bd85a93000d5e2a1bf519.jpg",
+          "thumbnail_sha256": "7d1a559fec87f6bc5a81f7367c722a5d70855133ebf594c8c6728ca0aeb11a19",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.01K",
+      "posted_at": "2026-09-09T01:54:24+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356425",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356424",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "708",
+      "views_label": "2.37K",
       "posted_at": "2026-09-09T01:50:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356424",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.51K",
+      "views_label": "7.9K",
       "posted_at": "2026-09-09T01:25:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356423",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.7K",
+      "views_label": "14.7K",
       "posted_at": "2026-09-09T00:46:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356421",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16K",
+      "views_label": "16.7K",
       "posted_at": "2026-09-09T00:32:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356420",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16.3K",
+      "views_label": "17K",
       "posted_at": "2026-09-09T00:25:47+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356419",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16.7K",
+      "views_label": "17.4K",
       "posted_at": "2026-09-09T00:20:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356418",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.7K",
+      "views_label": "21.4K",
       "posted_at": "2026-09-08T23:55:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356417",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.7K",
+      "views_label": "20.4K",
       "posted_at": "2026-09-08T23:53:41+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356416",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.2K",
+      "views_label": "19.6K",
       "posted_at": "2026-09-08T23:52:02+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356415",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.5K",
+      "views_label": "20.2K",
       "posted_at": "2026-09-08T23:48:32+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356414",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.6K",
+      "views_label": "28K",
       "posted_at": "2026-09-08T23:13:57+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356413",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28K",
+      "views_label": "28.7K",
       "posted_at": "2026-09-08T23:12:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356412",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.8K",
+      "views_label": "33.1K",
       "posted_at": "2026-09-08T22:51:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356410",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.2K",
+      "views_label": "33.5K",
       "posted_at": "2026-09-08T22:48:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356409",
@@ -509,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.5K",
+      "views_label": "37.8K",
       "posted_at": "2026-09-08T22:34:05+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356406",
@@ -537,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38K",
+      "views_label": "38.3K",
       "posted_at": "2026-09-08T22:29:25+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356405",
@@ -565,7 +593,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.1K",
+      "views_label": "38.5K",
       "posted_at": "2026-09-08T22:26:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356404",
@@ -593,7 +621,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.5K",
+      "views_label": "39.8K",
       "posted_at": "2026-09-08T22:21:38+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356403",
@@ -621,7 +649,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.7K",
+      "views_label": "41K",
       "posted_at": "2026-09-08T22:14:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356401",
@@ -2721,34 +2749,6 @@
       "posted_at": "2026-09-08T13:38:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356324",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356323",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "علی حسین قاضی‌زاده، عضو تحریریه ایران‌اینترنشنال، درباره اظهارات منتسب به عباس عراقچی درباره انتقام از دونالد ترامپ گفت: «جمهوری اسلامی می‌خواهد موضوع انتقام را، فارغ از اینکه توان عملی کردن آن را دارد یا نه، در صدر شعارهای خود نگه دارد و با هر ابزاری آن را به افرادی که در این سیستم فعالیت می‌کنند تحمیل کند، حتی اگر با آن موافق نباشند.»<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "علی حسین قاضی‌زاده، عضو تحریریه ایران‌اینترنشنال، درباره اظهارات منتسب به عباس عراقچی درباره انتقام از دونالد ترامپ گفت: «جمهوری اسلامی می‌خواهد موضوع انتقام را، فارغ از اینکه توان عملی کردن آن را دارد یا نه، در صدر شعارهای خود نگه دارد و با هر ابزاری آن را به افرادی که در این سیستم فعالیت می‌کنند تحمیل کند، حتی اگر با آن موافق نباشند.»\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356323",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/a411EKtibfq81QJZgsfdQhvN_Kxs8lOPUHcfdXjYU-q0lStimqDxfmgRRWBq58297pS5iCEaIg3pis00LbQBsU9ACGGbfeiGYs9JsyAE-BuqFg9OjUB8vWgjUMDologTpSoCiD2bj-Tqq7QapTdgFW9briV48JhIuE-aZ08Kqopczaty1s20BBwnekufEcMs-dPRVJGQQ8kHxOsCDZuRJC4PG4yIvv1HbjEScJLdZCDVme1n0vkd9-ynK1s6osvL4ffqn-hBcFaTzNvPYKEWCa9y7AaJIQOTd0Af0nkbnFJwLrel6KC_o4pDL_nsnKCPpTKpjiTHVWObak8yIU5qnQ",
-          "thumbnail_path": "channels/iranintltv/media/b44b5935d7222e4e39f4820c.jpg",
-          "thumbnail_sha256": "176ef644fc6c5d205e9f6c797c203a7256e94fbded3541b67b963955a50407fa",
-          "duration_label": "5:13",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "35.1K",
-      "posted_at": "2026-09-08T13:33:46+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356323",
       "reply": null
     }
   ]
