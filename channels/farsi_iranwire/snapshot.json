@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T10:02:28.546Z",
+  "fetched_at": "2026-09-09T10:06:54.321Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -8,7 +8,7 @@
     "photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
     "photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
     "photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-    "subscriber_count": "47.8K"
+    "subscriber_count": "47.9K"
   },
   "posts": [
     {
@@ -33,7 +33,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "149",
+      "views_label": "184",
       "posted_at": "2026-09-09T09:48:46+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93511",
@@ -61,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "276",
+      "views_label": "311",
       "posted_at": "2026-09-09T09:35:46+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93510",
@@ -89,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "438",
+      "views_label": "461",
       "posted_at": "2026-09-09T09:12:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93509",
@@ -117,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "473",
+      "views_label": "497",
       "posted_at": "2026-09-09T09:05:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93508",
@@ -145,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "595",
+      "views_label": "611",
       "posted_at": "2026-09-09T08:47:52+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93507",
@@ -173,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "651",
+      "views_label": "671",
       "posted_at": "2026-09-09T08:35:51+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93506",
@@ -201,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "776",
+      "views_label": "794",
       "posted_at": "2026-09-09T07:58:23+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93505",
@@ -229,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "734",
+      "views_label": "750",
       "posted_at": "2026-09-09T07:50:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93504",
@@ -257,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "865",
+      "views_label": "878",
       "posted_at": "2026-09-09T07:25:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93503",
@@ -285,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "927",
+      "views_label": "935",
       "posted_at": "2026-09-09T07:10:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93502",
@@ -313,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "992",
+      "views_label": "1K",
       "posted_at": "2026-09-09T07:01:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93501",
@@ -341,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.05K",
+      "views_label": "2.06K",
       "posted_at": "2026-09-08T21:53:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93500",
@@ -369,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.19K",
+      "views_label": "2.2K",
       "posted_at": "2026-09-08T20:34:18+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93499",
@@ -537,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.48K",
+      "views_label": "1.49K",
       "posted_at": "2026-09-08T17:21:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93493",
