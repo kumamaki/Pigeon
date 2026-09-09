@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T11:11:40.741Z",
+  "fetched_at": "2026-09-09T11:16:38.673Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,62 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356482",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "مرکز عملیات تجارت دریایی بریتانیا چهارشنبه ۱۸ شهریور اعلام کرد یک نفتکش در ۲۸ مایل دریایی جنوب شرقی بندر فاو عراق با یک پرتابه ناشناس هدف قرار گرفته است.<br><br>بر اساس این گزارش، ناخدای نفتکش برخورد پرتابه با شناور را گزارش کرده است. خدمه نفتکش در سلامت هستند و تاکنون هیچ پیامد زیست‌محیطی ناشی از این حمله گزارش نشده است.<br><br>مرکز عملیات تجارت دریایی بریتانیا افزود مقام‌ها در حال بررسی این رویداد هستند و از شناورها خواست هنگام عبور از منطقه احتیاط و هرگونه فعالیت مشکوک را گزارش کنند.<br><br>پیش‌تر نیز این مرکز از هدف قرار گرفتن یک شناور در ۲۴ مایل دریایی شمال غرب بندر راشد دبی با یک پرتابه ناشناس خبر داده بود.",
+      "plain_text": "مرکز عملیات تجارت دریایی بریتانیا چهارشنبه ۱۸ شهریور اعلام کرد یک نفتکش در ۲۸ مایل دریایی جنوب شرقی بندر فاو عراق با یک پرتابه ناشناس هدف قرار گرفته است.\n\nبر اساس این گزارش، ناخدای نفتکش برخورد پرتابه با شناور را گزارش کرده است. خدمه نفتکش در سلامت هستند و تاکنون هیچ پیامد زیست‌محیطی ناشی از این حمله گزارش نشده است.\n\nمرکز عملیات تجارت دریایی بریتانیا افزود مقام‌ها در حال بررسی این رویداد هستند و از شناورها خواست هنگام عبور از منطقه احتیاط و هرگونه فعالیت مشکوک را گزارش کنند.\n\nپیش‌تر نیز این مرکز از هدف قرار گرفتن یک شناور در ۲۴ مایل دریایی شمال غرب بندر راشد دبی با یک پرتابه ناشناس خبر داده بود.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356482",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/BZAK61B_flHvNrar6l7DZS-OoMsguaxbmpoKPPIOpiOYV1Hv-zJxI-R-yoGsnSHMhNM2T7m69RhQdOGCmURsIUXjeBilgaKEG0GSMOhXeK3hqTAcC9SNZ8ifoEi03CYiISmiIV_ziY8buc0SnPWhVwRYn2zcqa6OfI9PyZkeLXsFcebnl16TVcgik9mxRcnznhmQdhUumhwX-OdcPC0btRrxhdKS0wSjzvdV4e_xScVcZr2GoV5suwMFQT74L4Z7Khxtl-ixgaNtiPSPu4R5H-RqTtEj7BnVp7UkGkqbhwjCSo9poU1UX5SdpFCvdLaxppw5TLHif3JXCGCiFV8waA.jpg",
+          "thumbnail_path": "channels/iranintltv/media/ccb7ccf15ce74e45a079d544.jpg",
+          "thumbnail_sha256": "bea6932735cbf999892456649790c33a91deded7e9bed0f782cb901fa32acd3c",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "23",
+      "posted_at": "2026-09-09T11:16:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356482",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356481",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "گزارش‌ها از عقب‌نشینی حوثی‌های مورد حمایت جمهوری اسلامی در بخشی از خطوط نبرد یمن حکایت دارد.<br><br>هم‌زمان، حملات موشکی و پهپادی حوثی‌ها به چند شهر و تاسیسات انرژی در جنوب عربستان، دست‌کم ۷۳ زخمی برجا گذاشته است.<br><br>در سوی دیگر، نیروهای دولت یمن می‌گویند در چند محور پیشروی کرده و شماری از مواضع حوثی‌ها را پس گرفته‌اند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "گزارش‌ها از عقب‌نشینی حوثی‌های مورد حمایت جمهوری اسلامی در بخشی از خطوط نبرد یمن حکایت دارد.\n\nهم‌زمان، حملات موشکی و پهپادی حوثی‌ها به چند شهر و تاسیسات انرژی در جنوب عربستان، دست‌کم ۷۳ زخمی برجا گذاشته است.\n\nدر سوی دیگر، نیروهای دولت یمن می‌گویند در چند محور پیشروی کرده و شماری از مواضع حوثی‌ها را پس گرفته‌اند.\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356481",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/PwoDpL7YL6ioEZb_E-HnF2bvmvjjH1lgbqNT6QMyiSTsiwZV2jjbKLy-laFSJR3pMEywpU7j8-y6GMlIK0kM308fqf24uihwyovlRCWuSFsuO408rukjCiDjQgOQQntV6MMB8LEAKFLDdQclDkuS4Zkel3TjgteYmMYR4h0Y2UqCaWvQRNDfTaP-ZA02IlwyfmEmrWDhi5Gc8oy9-yXSYjHtRBmnV1c7ZrKM-WlIqXB1Hb9Vjw9LZ5hoVM0d6rBdzZzYoJ0AeTtf8U0j1Uj3a3lFk_Q3ZAY7DhdFpMvLtGjfs_XkTXAiEKgfYE5EVKY6iK7qeM3Ks_LT30S7jAXEmA",
+          "thumbnail_path": "channels/iranintltv/media/693b838b8d9cd4515d6a7f27.jpg",
+          "thumbnail_sha256": "d530b0d963b061e26c23fda35cd9d4882119f7f2ced84c294cff213214902ff7",
+          "duration_label": "3:54",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.09K",
+      "posted_at": "2026-09-09T11:14:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356481",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356480",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.18K",
+      "views_label": "9.37K",
       "posted_at": "2026-09-09T11:08:54+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356480",
@@ -61,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7.35K",
+      "views_label": "11.5K",
       "posted_at": "2026-09-09T11:03:48+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356479",
@@ -89,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.5K",
+      "views_label": "13.6K",
       "posted_at": "2026-09-09T10:59:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356478",
@@ -117,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23K",
+      "views_label": "25.1K",
       "posted_at": "2026-09-09T10:39:51+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356477",
@@ -145,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.1K",
+      "views_label": "27.2K",
       "posted_at": "2026-09-09T10:31:21+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356476",
@@ -173,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.4K",
+      "views_label": "35.5K",
       "posted_at": "2026-09-09T10:10:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356475",
@@ -201,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.6K",
+      "views_label": "39.7K",
       "posted_at": "2026-09-09T09:59:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356474",
@@ -229,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.5K",
+      "views_label": "36.6K",
       "posted_at": "2026-09-09T09:57:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356473",
@@ -257,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.5K",
+      "views_label": "36.6K",
       "posted_at": "2026-09-09T09:51:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356472",
@@ -285,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.5K",
+      "views_label": "35.6K",
       "posted_at": "2026-09-09T09:49:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356471",
@@ -313,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.7K",
+      "views_label": "40.7K",
       "posted_at": "2026-09-09T09:36:00+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356470",
@@ -341,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.7K",
+      "views_label": "41.8K",
       "posted_at": "2026-09-09T09:33:12+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356469",
@@ -397,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "43.9K",
+      "views_label": "44.9K",
       "posted_at": "2026-09-09T09:18:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356467",
@@ -425,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "42.8K",
+      "views_label": "43.9K",
       "posted_at": "2026-09-09T09:10:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356466",
@@ -453,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.7K",
+      "views_label": "40.8K",
       "posted_at": "2026-09-09T09:09:21+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356465",
@@ -481,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.6K",
+      "views_label": "37.7K",
       "posted_at": "2026-09-09T09:09:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356464",
@@ -509,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.7K",
+      "views_label": "38.7K",
       "posted_at": "2026-09-09T09:06:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356463",
@@ -537,7 +593,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.7K",
+      "views_label": "38.7K",
       "posted_at": "2026-09-09T09:02:43+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356462",
@@ -2669,62 +2725,6 @@
       "posted_at": "2026-09-08T19:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356381",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356380",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "آی۲۴نیوز به نقل از یک مقام آمریکایی اعلام کرد نیروهای ارتش ایالات متحده شامگاه سه‌شنبه ۱۷ شهریور در حال هدف قرار دادن نفتکش‌های ایرانی هستند.<br><br>رسانه‌های ایران از شنیده شدن صدای چند انفجار در اطراف جزیره خارک و شهرستان جاسک خبر داده‌اند.<br><a href=\"https://iranintl.com/202609083306\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609083306</a>",
-      "plain_text": "آی۲۴نیوز به نقل از یک مقام آمریکایی اعلام کرد نیروهای ارتش ایالات متحده شامگاه سه‌شنبه ۱۷ شهریور در حال هدف قرار دادن نفتکش‌های ایرانی هستند.\n\nرسانه‌های ایران از شنیده شدن صدای چند انفجار در اطراف جزیره خارک و شهرستان جاسک خبر داده‌اند.\nhttps://iranintl.com/202609083306",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356380",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ug4EQrl-bJ7fiA1E-4bAc7udVS0g2STIBMV-Z8PKrIkbGWk4FqItS2BssZygMXTpt1WbzG8_50OVmzgqW2OFaLN1vm99eXvMi2dwgAK5x11pNmxWMEcdZgbpIw4NyeMv1AI3Vt7NKhznn3wY3ntTgbQr-IlsArWmGIdx6rm5OAndSUo8IhKaTzMJc1EXfSm0QS2tW0T-xgCUNhG421SirEa2gP_CY9cOWmLLkMIPpvREE9_Ewa-tdY_BDqE-VxEFi3_J6h7Nx5Sn1q6zwcJKApIBn_f-yPo9Kx4Q944qwAJaa9tGcDv2RPEa5mODR2S0KNwES5j4AZkwAxIdj8ELug.jpg",
-          "thumbnail_path": "channels/iranintltv/media/ef4d72b64cf8c10638955733.jpg",
-          "thumbnail_sha256": "31efe39a631cce218dbffcf92745fb3433d306f3e62bf3b2a656d37b9417871a",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "62.8K",
-      "posted_at": "2026-09-08T19:25:36+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356380",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356379",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>رسانه تابناک ویدیویی از آخرین وضعیت استادیوم آزادی منتشر کرده است که نشان می‌دهد علاوه بر جمع‌آوری کامل چمن زمین، بخش‌هایی از تونل‌های استادیوم نیز در دست بازسازی است و زمان دقیق بهره‌برداری از این ورزشگاه همچنان مشخص نیست.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>با این حال، محمدعلی ثابت‌قدم، مدیرعامل شرکت توسعه و نگهداری اماکن ورزشی، سه‌شنبه ۱۷ شهریور گفت که عملیات عمرانی ورزشگاه آزادی در مهرماه به پایان می‌رسد و بهره‌برداری اولیه از این مجموعه با ظرفیت کامل در آذرماه انجام خواهد شد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>پیش از این قرار بود استادیوم آزادی برای فصل ۱۴۰۶–۱۴۰۵ آماده شود؛ اما با وجود رسیدن بازسازی سکوها و برخی امکانات به مراحل پایانی، در اقدامی مبهم، چمن قبلی به‌طور کامل جمع‌آوری شد تا چمن جدیدی کاشته شود و همین امر روند آماده‌سازی را به درازا کشانده است.<br><br> <a href=\"https://t.me/iranintltvsport\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><u>@iranintltvsport</u></a>",
-      "plain_text": "🔻رسانه تابناک ویدیویی از آخرین وضعیت استادیوم آزادی منتشر کرده است که نشان می‌دهد علاوه بر جمع‌آوری کامل چمن زمین، بخش‌هایی از تونل‌های استادیوم نیز در دست بازسازی است و زمان دقیق بهره‌برداری از این ورزشگاه همچنان مشخص نیست.\n\n🔹با این حال، محمدعلی ثابت‌قدم، مدیرعامل شرکت توسعه و نگهداری اماکن ورزشی، سه‌شنبه ۱۷ شهریور گفت که عملیات عمرانی ورزشگاه آزادی در مهرماه به پایان می‌رسد و بهره‌برداری اولیه از این مجموعه با ظرفیت کامل در آذرماه انجام خواهد شد.\n\n🔹پیش از این قرار بود استادیوم آزادی برای فصل ۱۴۰۶–۱۴۰۵ آماده شود؛ اما با وجود رسیدن بازسازی سکوها و برخی امکانات به مراحل پایانی، در اقدامی مبهم، چمن قبلی به‌طور کامل جمع‌آوری شد تا چمن جدیدی کاشته شود و همین امر روند آماده‌سازی را به درازا کشانده است.\n\n@iranintltvsport",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356379",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/gIfQ5L79MqnoCWyQEUboYfQ30A5RYaeu2FCqV6R3VzRP_GxLn5toUOa1M4Naslqovc1Ev8llpsI7dm0yAe2LFCXtEGE5RVOq1s359-63JO6NUEKjP9WgPQviNz77sChxAaSDjLZ4yfUzT3kuwJUHdnA_BJ-V_fPLr_4-MDYFipPx2Tr0D8-lEBf5ybTu9qBpeN0wJQKTYmdDPIpjipA8V7TaHbqAYwUfkBt26bFjrQLAS49xHdjn0N4rpK1PSv59lBuxewisgd24V3FytSijDOtcCiZoHjjZB4VFYP74GWp01xWNuPBDXWo_KNZzO56wUDZ2J4580ju-P1Zly8z2Mw",
-          "thumbnail_path": "channels/iranintltv/media/31f2243813c34a02e71c96e6.jpg",
-          "thumbnail_sha256": "09bab7d156de8a1bd94be01a40d849396749aba3a48f482a33772353cfe27c0f",
-          "duration_label": "2:35",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "59.7K",
-      "posted_at": "2026-09-08T19:23:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356379",
       "reply": null
     }
   ]

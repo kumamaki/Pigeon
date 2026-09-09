@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T11:11:45.228Z",
+  "fetched_at": "2026-09-09T11:16:43.211Z",
   "channel": {
     "username": "telegram",
     "title": "Telegram News",
@@ -49,7 +49,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "914K",
+      "views_label": "915K",
       "posted_at": "2026-08-26T19:12:24+00:00",
       "edited": false,
       "permalink": "https://t.me/telegram/459",
@@ -105,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "586K",
+      "views_label": "587K",
       "posted_at": "2026-08-26T19:11:54+00:00",
       "edited": false,
       "permalink": "https://t.me/telegram/457",
