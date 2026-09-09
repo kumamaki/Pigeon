@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T07:06:47.976Z",
+  "fetched_at": "2026-09-09T07:12:03.465Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "IranintlTV/356444",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "راف چیکونی، رییس کمیته مشترک اطلاعات و امنیت پارلمان استرالیا، در گفت‌وگو با علیرضا محبی، خبرنگار ایران‌اینترنشنال، تهدیدهای سخنگوی نیروهای مسلح جمهوری اسلامی علیه کارکنان رسانه‌های فارسی‌زبان، از جمله ایران‌اینترنشنال، را غیرقابل‌قبول دانست.<br>چیکونی بر حق خبرنگاران برای فعالیت آزادانه و بدون ارعاب و خشونت تاکید کرد و اخراج سفیر جمهوری اسلامی، تحریم عوامل حکومت و قرار دادن سپاه پاسداران در فهرست حامیان دولتی تروریسم را از گزینه‌های پاسخ استرالیا برشمرد.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "راف چیکونی، رییس کمیته مشترک اطلاعات و امنیت پارلمان استرالیا، در گفت‌وگو با علیرضا محبی، خبرنگار ایران‌اینترنشنال، تهدیدهای سخنگوی نیروهای مسلح جمهوری اسلامی علیه کارکنان رسانه‌های فارسی‌زبان، از جمله ایران‌اینترنشنال، را غیرقابل‌قبول دانست.\nچیکونی بر حق خبرنگاران برای فعالیت آزادانه و بدون ارعاب و خشونت تاکید کرد و اخراج سفیر جمهوری اسلامی، تحریم عوامل حکومت و قرار دادن سپاه پاسداران در فهرست حامیان دولتی تروریسم را از گزینه‌های پاسخ استرالیا برشمرد.\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356444",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/jcWP2tM-Bb1IGnGXeQ1K16ixdaor_y6Y1tgmSDd9l0EERK-M4kXXtZRTLsXKAWy0IddcApbWIT1MtJZlATjSjkXx4mIIYvEDvOJBcGOO8AFpg45vIzVh2fAdLrqE6TdiSRTegnvczA-tdyPd_UXRnCnE7SurjCZz_xwBEhmz46hrf_8RwY4-R6Y69Ku1P5ao7FMSush5qfwKdw9BbwTXv1ggOoTwCrPd7867HIZQSNK1hKfiE4LBl_bXU-gEyBzIli9ttexLheTaU1myZXF_Bjprqh3bA5CcrFSIv3MFi5Un97LWJiWLFrzNFhDhpUMmbTjcrvMe_OMVx0uO05X-0w",
+          "thumbnail_path": "channels/iranintltv/media/c2a8ccfeae55ba5999463b17.jpg",
+          "thumbnail_sha256": "1d73a8e89bb69ff67d9f89a61d7e5d29dada61f2c4cbf6c0982fa57f0238c173",
+          "duration_label": "2:26",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.09K",
+      "posted_at": "2026-09-09T07:09:02+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356444",
+      "reply": null
+    },
+    {
       "id": "IranintlTV/356443",
       "author_name": "Iran International ایران اینترنشنال",
       "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🗣روایت شما از شرایط زندگی و بحران اقتصادی- چهارشنبه ۱۸ شهریور:\n\n🔹من بیماری سرطان خون دارم، باید پیوند مغز استخوان انجام بدم. هزینه‌اش بین ۲۵ تا ۳۰ میلیون شده. واقعا ندارم. موندم چیکار کنم. فقط باید بشینم تا بمیرم.\n\n🔹از تهران پیام می‌دم. اینجا دیگه اصلا دارو نیست. باید کلی بگردی دارو مورد نظرت رو پیدا کنی. مثلا قرص دایجستیو که یه مکمل ساده برای گوارش است هم پیدا نمی‌شه.\n\n🔹من پدرم دیابت داره و داروی متفورمین مصرف می‌کنه. الان نیست که بخواهیم تهیه کنیم. مجبور شدم به یکی از دوستانم بگم از ترکیه برام‌ بفرسته.\n\n🔹از سیستان و بلوچستان پیام می‌دم. ۱۰ ماهه که داروی حیاتی فاکتور ۱۳ مخصوص بیماران هموفیلی در کشور گیر نمیاد و موجودی داروخانه‌ها به صفر رسیده.\n\n🔹سه روزه ماشین‌ام خراب شده گوشه خیابان گذاشتمش. هزینه تعمیرات و اجناس سر به فلک زده.\n\n🔹از مشهد پیام می‌دم. پول برق هر دفعه می‌آمد ۵۰ هزار تومان، این بار آمده ۶۰۰ هزار تومان. خسته شدیم از این گرانی هر روزه همه‌چیز.\n\n🔹من یک پرستار هستم و در آریاشهر مستاجرم. دوره آخر ۳۵۰ هزار تومن قبض برقم بود، الان بالای پنج میلیون اومده.\n\n🔹ما همه قیمت‌ها رو به دلار داریم پرداخت می‌کنیم. حتی همین بنزین هم به دلار دارن حساب می‌کنن. قیمت‌ها هم روز به روز در حال افزایشه اون‌وقت من موندم چرا درآمد ما همچنان به ریاله و هیچ افزایش حقوقی نداریم.\n\n🔹چند تا دونه میوه گرفتم ۶۱۰ هزار تومان شد.",
       "media": [],
       "reactions": [],
-      "views_label": "22K",
+      "views_label": "24.1K",
       "posted_at": "2026-09-09T06:23:48+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356443",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.4K",
+      "views_label": "31.4K",
       "posted_at": "2026-09-09T06:08:36+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356442",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.3K",
+      "views_label": "30.4K",
       "posted_at": "2026-09-09T06:06:15+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356441",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.4K",
+      "views_label": "30.5K",
       "posted_at": "2026-09-09T06:01:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356440",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.3K",
+      "views_label": "28.4K",
       "posted_at": "2026-09-09T06:00:54+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356439",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.5K",
+      "views_label": "31.6K",
       "posted_at": "2026-09-09T05:51:35+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356438",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.7K",
+      "views_label": "35.8K",
       "posted_at": "2026-09-09T05:40:43+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356437",
@@ -205,7 +233,7 @@
       "plain_text": "🎧نسخه صوتی اخبار بامدادی | چهارشنبه ۱۸ شهریور\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "35.8K",
+      "views_label": "36.8K",
       "posted_at": "2026-09-09T05:31:38+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356436",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45.3K",
+      "views_label": "46.3K",
       "posted_at": "2026-09-09T05:06:49+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356435",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "46.3K",
+      "views_label": "47.4K",
       "posted_at": "2026-09-09T05:00:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356434",
@@ -289,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "44.3K",
+      "views_label": "45.3K",
       "posted_at": "2026-09-09T04:58:12+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356433",
@@ -317,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "44.2K",
+      "views_label": "44.3K",
       "posted_at": "2026-09-09T04:57:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356432",
@@ -345,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "52.7K",
+      "views_label": "53.8K",
       "posted_at": "2026-09-09T04:26:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356431",
@@ -429,7 +457,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "67.8K",
+      "views_label": "68.8K",
       "posted_at": "2026-09-09T02:48:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356428",
@@ -457,7 +485,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "69.9K",
+      "views_label": "70.9K",
       "posted_at": "2026-09-09T02:08:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356427",
@@ -513,7 +541,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "62.2K",
+      "views_label": "63.2K",
       "posted_at": "2026-09-09T01:54:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356425",
@@ -2709,34 +2737,6 @@
       "posted_at": "2026-09-08T15:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356344",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356342",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "ایران اینترنشنال به دو نامه محرمانه از وزارت نفت دست یافته که نشان می‌دهد یک چهره ارشد اطلاعات سپاه در نقش دستیار ویژه وزیر نفت، فروش نفت ایران را با تخفیفی عجیب به چهار دلال نفتی عضو شبکه فساد خود واگذار کرده که بدهی‌های سنگین میلیارد دلاری دارند.<br><br>گزارشی از مجتبا پورمحسن<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "ایران اینترنشنال به دو نامه محرمانه از وزارت نفت دست یافته که نشان می‌دهد یک چهره ارشد اطلاعات سپاه در نقش دستیار ویژه وزیر نفت، فروش نفت ایران را با تخفیفی عجیب به چهار دلال نفتی عضو شبکه فساد خود واگذار کرده که بدهی‌های سنگین میلیارد دلاری دارند.\n\nگزارشی از مجتبا پورمحسن\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356342",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/CCtU3es_y2ng8ZVT4tPFjtB2JtEvnkL5yLMmANfI9FPE0uGfcU4eJezOulMXZQL6m-XgJQnY9AwFumAECi0o8JPEl6zqhr_4WFvfxYPrZiaiVHgAEiRAVSkWhDW8_1Vvyzoxe-41Am2ifeDU_p3UXt8L1h5Ys_Gc32rhMNxG25pR0HgqNxqgqFQywWqOkyJpABBUVFZSESaf-Y851-szFmWEe09m5ppw_Xh5mYhPU8V11wcHrUUu7tPeyAS33Dex0hVL-7gpmHyQYQR_VYy7Vdd6zXlLJbmv8PbP9WAPmkpSMUsmqohfO44F-od5WPhA_QF7-0G9X6BJZU0XqH_0xQ",
-          "thumbnail_path": "channels/iranintltv/media/3dfffc9e9142b67bf4cab35e.jpg",
-          "thumbnail_sha256": "af21d89fac90edaf7970db49df923a47e37f95a930c2e1766e5c2888c1919cfa",
-          "duration_label": "10:28",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "43.4K",
-      "posted_at": "2026-09-08T15:23:43+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356342",
       "reply": null
     }
   ]
