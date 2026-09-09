@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T05:16:33.869Z",
+  "fetched_at": "2026-09-09T05:22:04.544Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229945",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "بنابر اعلام کپلر، شش شناور کالا روز سه‌شنبه از تنگه هرمز گذشتند که نشان‌دهنده کاهش از ۹ فروند روز پیش و پایین‌تر از میانگین ۱۰ روزه است.<br><br>بر پایه داده‌های اولیه شرکت ردیابی کپلر، از شش شناور، پنج فروند وارد و یک فروند خارج شدند.<br><br>ارقام اعلام شده صرفا متعلق به کشتی‌هایی است که سامانه ردیابی خود را خاموش نکرده‌اند و بنابر اعلام آمریکا، عملیات عبور از هرمز با حمایت ارتش آمریکا روزانه در جریان است.<br><br>میانگین ۱۰ روزه این تنگه حدود ۲۷ شناور است.<br><br>در تردد قابل ثبت، دو نفتکش سوئزماکس، هشت نفتکش آفراماکس و یک نفتکش غول‌پیکر نفت خام در میان عبورکنندگان بودند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "بنابر اعلام کپلر، شش شناور کالا روز سه‌شنبه از تنگه هرمز گذشتند که نشان‌دهنده کاهش از ۹ فروند روز پیش و پایین‌تر از میانگین ۱۰ روزه است.\n\nبر پایه داده‌های اولیه شرکت ردیابی کپلر، از شش شناور، پنج فروند وارد و یک فروند خارج شدند.\n\nارقام اعلام شده صرفا متعلق به کشتی‌هایی است که سامانه ردیابی خود را خاموش نکرده‌اند و بنابر اعلام آمریکا، عملیات عبور از هرمز با حمایت ارتش آمریکا روزانه در جریان است.\n\nمیانگین ۱۰ روزه این تنگه حدود ۲۷ شناور است.\n\nدر تردد قابل ثبت، دو نفتکش سوئزماکس، هشت نفتکش آفراماکس و یک نفتکش غول‌پیکر نفت خام در میان عبورکنندگان بودند.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229945",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/HLICIrlpMbSeUt_1166kCqKYFhoAPFA8Vf1xCViP8c5hXGNRlLx84rFvfHWhvTdxLi_4BjsxSe7962ren_FAJvcCP5i2u-mpgzZdEmP3zu6LDcrMfy3848iTsnz3DZUgYZG3fU-sZc5PUt4SQU1WPSNKcWSIkn_nEpnEUrdI3Wp_emced1nX4QkFvjaWwE7UW8QpYPMDupdvJdS5prSjzjT9_sRUVP3wLcb1_d4v7N9st4GkJlJ23VkG8zIzjyYegtpXMmkZ8EQicmdKA-E5X5Qb_1snblfWlShNBtB5BMkIPKye8di-1NJgYfsUXUC1kEi5f8Z_mK4bar7nMAiAGA.jpg",
+          "thumbnail_path": null,
+          "thumbnail_sha256": null,
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "96",
+      "posted_at": "2026-09-09T05:20:24+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229945",
+      "reply": null
+    },
     {
       "id": "farsivoa/229944",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "353",
+      "views_label": "642",
       "posted_at": "2026-09-09T05:11:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229944",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.12K",
+      "views_label": "4.28K",
       "posted_at": "2026-09-09T02:31:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229943",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.12K",
+      "views_label": "4.25K",
       "posted_at": "2026-09-09T02:29:15+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229942",
@@ -105,7 +133,7 @@
       "plain_text": "🔺سنتکام: جمهوری اسلامی ابزاری برای دفاع از کشتی‌هایش ندارد؛ نفتکش‌های سپاه را منهدم کردیم\n\n▪️ستاد فرماندهی مرکزی آمریکا، سه‌‌شنبه شب به وقت واشنگتن (بامداد چهارشنبه به وقت تهران) ویدیوی انهدام نفتکش ری‌یسکو، یکی از ۵ نفتکش جمهوری اسلامی را که ساعاتی قبل منهدم کرد، منتشر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195937.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.89K",
+      "views_label": "4.05K",
       "posted_at": "2026-09-09T02:25:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229941",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.49K",
+      "views_label": "3.62K",
       "posted_at": "2026-09-09T02:15:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229940",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.44K",
+      "views_label": "3.54K",
       "posted_at": "2026-09-09T02:03:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229939",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.58K",
+      "views_label": "3.68K",
       "posted_at": "2026-09-09T01:38:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229938",
@@ -205,7 +233,7 @@
       "plain_text": "🔺اردن: جمهوری اسلامی ۲۰ موشک شلیک کرد؛ ۱۸ فروند منهدم شد و دو موشک در فضای باز فرود آمد\n\n▪️در پی حمله موشکی جمهوری اسلامی به اردن که اوایل چهارشنبه ۱۸ شهریور صورت گرفت و ادعاهای منتشر شده در شبکه‌های اجتماعی که تعداد زیادی از نیروهای آمریکایی مجروح شده‌اند، رویترز به نقل از یک مقام آمریکایی این موضوع را رد کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195936.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.52K",
+      "views_label": "3.62K",
       "posted_at": "2026-09-09T01:32:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229937",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.26K",
+      "views_label": "3.32K",
       "posted_at": "2026-09-09T01:09:36+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229936",
@@ -249,7 +277,7 @@
       "plain_text": "🔺ممنوعیت روسری برای دختران زیر ۱۴ سال در مدارس اتریش اجرایی شد؛ دولت: هدف حمایت از آزادی دختران است\n\n▪️ممنوعیت استفاده از روسری برای دختران زیر ۱۴ سال در مدارس اتریش، از روز دوشنبه و هم‌زمان با نخستین روز سال تحصیلی در بخشی از این کشور اجرایی شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/austria-enforces-school-headscarf-ban/8195695.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.15K",
+      "views_label": "3.18K",
       "posted_at": "2026-09-09T01:06:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229935",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.46K",
+      "views_label": "3.52K",
       "posted_at": "2026-09-09T00:01:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229934",
@@ -293,7 +321,7 @@
       "plain_text": "🔺حمله موشکی جمهوری اسلامی به اردن در پی انهدام پنج نفکش توسط سنتکام\n\n▪️خبرگزاری آسوشیتدپرس می‌گوید جمهوری اسلامی بامداد چهارشنبه «به اهداف آمریکایی» در اردن حملات موشکی کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195722.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.63K",
+      "views_label": "3.7K",
       "posted_at": "2026-09-08T23:50:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229933",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.45K",
+      "views_label": "3.51K",
       "posted_at": "2026-09-08T23:45:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229932",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.48K",
+      "views_label": "3.54K",
       "posted_at": "2026-09-08T23:34:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229931",
@@ -365,7 +393,7 @@
       "plain_text": "🔺روبیو: جمهوری اسلامی به ازای هر تلاش برای حمله به ناوهای آمریکایی نفتکش‌هایی را از دست خواهد داد\n\n▪️مارکو روبیو، وزیر امور خارجه آمریکا، روز سه‌شنبه ۱۷ شهریور در گفت‌وگو با خبرنگاران درباره حملات اخیر به نفتکش‌های جمهوری اسلامی گفت جمهوری اسلامی همچنان تلاش می‌کند ناوهای نیروی دریایی آمریکا را هدف قرار دهد و واشنگتن در پاسخ به هرگونه حمله یا تلاش برای حمله، نفتکش‌های آن را هدف خواهد گرفت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195716.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.54K",
+      "views_label": "3.6K",
       "posted_at": "2026-09-08T23:32:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229930",
@@ -393,7 +421,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.36K",
+      "views_label": "3.42K",
       "posted_at": "2026-09-08T23:15:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229929",
@@ -421,7 +449,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.53K",
+      "views_label": "3.6K",
       "posted_at": "2026-09-08T23:05:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229928",
@@ -449,7 +477,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.71K",
+      "views_label": "3.74K",
       "posted_at": "2026-09-08T22:45:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229927",
@@ -477,7 +505,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.76K",
+      "views_label": "3.83K",
       "posted_at": "2026-09-08T22:40:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229926",
@@ -2469,34 +2497,6 @@
       "posted_at": "2026-09-08T11:08:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229845",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229844",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "تلویزیون دولتی سوریه با انتشار گزارشی اعلام کرد که نیروهای اسرائيلی وارد روستای بریقه در حومه قنیطره در جنوب‌ غربی سوریه شدند. بر اساس این گزارش، نیروهای اسرائیلی به یک خانه در این روستا وارد شده و اقدام به تفتیش آن کردند.<br><br>این حادثه روز سه‌شنبه هفدهم شهریورماه، رخ داد و منابع رسمی در سوریه جزئیات بیشتری از آن منتشر نکردند.<br><br>در همین ارتباط، آژانس خبری هاوار که اخبار سوریه را پوشش می‌دهد، اعلام کرد که یک واحد گشتی از نیروهای نظامی اسرائيلی، پس از تفتیش خانه فوق، بدون اینکه فردی را دستگیر کنند، از خانه خارج شده‌اند.<br><br>ارتش اسرائيل تاکنون این اخبار را تأیید نکرده است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "تلویزیون دولتی سوریه با انتشار گزارشی اعلام کرد که نیروهای اسرائيلی وارد روستای بریقه در حومه قنیطره در جنوب‌ غربی سوریه شدند. بر اساس این گزارش، نیروهای اسرائیلی به یک خانه در این روستا وارد شده و اقدام به تفتیش آن کردند.\n\nاین حادثه روز سه‌شنبه هفدهم شهریورماه، رخ داد و منابع رسمی در سوریه جزئیات بیشتری از آن منتشر نکردند.\n\nدر همین ارتباط، آژانس خبری هاوار که اخبار سوریه را پوشش می‌دهد، اعلام کرد که یک واحد گشتی از نیروهای نظامی اسرائيلی، پس از تفتیش خانه فوق، بدون اینکه فردی را دستگیر کنند، از خانه خارج شده‌اند.\n\nارتش اسرائيل تاکنون این اخبار را تأیید نکرده است.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229844",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/NlAL4EzPzTglJLCOC73g7Tp1MSQ2IxdlqraftHRkzS7sDdwjyCjCW7cJU0jTVMgDOk0Ak_Yn_5D7XxGX3Vc6kIetYnlHeNEqJ-xAVxCth1xlRgFPcu0FLWvkiNxidITVxL1LfYeuIz8PJldRS3YnZzXBQ-JjFlKVkk27tXhARBhOQFFPx52oyUc6TE6ruvFXLr9LvSUEMZKVy4Y1ShWbBfGtVlNi_OdVoDVT9QZstaqjA0px5vWiUeyrGGxJxWMyiQrVDeFSAe5tQrbaN6QBj0mrb7fghgE9obhNKUhkIZ1fr4f67TTodjW-no84fb2kv4BOTjx4zAwp0T8qPg26kQ.jpg",
-          "thumbnail_path": "channels/farsivoa/media/281270a2e36b658c319393cc.jpg",
-          "thumbnail_sha256": "e0566bc9903ddf29c72c55ec915ae62693e376ebd9da8cd60cc8c8985ee245e0",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.74K",
-      "posted_at": "2026-09-08T10:57:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229844",
       "reply": null
     }
   ]
