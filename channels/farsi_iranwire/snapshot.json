@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T18:53:42.524Z",
+  "fetched_at": "2026-09-09T18:56:37.748Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.8K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93532",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "سرخط خبرها، شب چهارشنبه ۱۸ شهریور در تلویزیون ایران‌وایر<br>تلویزیون ایران‌وایر را روی ⁩ماهواره «موناکوست» (ترکمن‌عالم)<br>فرکانس ۱۰۷۶۲ افقی. سیمبل ریت سی هزار تماشا کنید.<br>نسخه اس دی را نیز می‌توانید روی فرکانس ۱۰۸۴۵ عمودی . سیمبل ریت ۲۷۵۰۰<br>در خاورمیانه (ایران) و اروپا بگیرید.‌<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "سرخط خبرها، شب چهارشنبه ۱۸ شهریور در تلویزیون ایران‌وایر\nتلویزیون ایران‌وایر را روی ⁩ماهواره «موناکوست» (ترکمن‌عالم)\nفرکانس ۱۰۷۶۲ افقی. سیمبل ریت سی هزار تماشا کنید.\nنسخه اس دی را نیز می‌توانید روی فرکانس ۱۰۸۴۵ عمودی . سیمبل ریت ۲۷۵۰۰\nدر خاورمیانه (ایران) و اروپا بگیرید.‌\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Farsi_Iranwire/93532",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/pshck1b0FlPpL5iPzIwgBTZ6VhtxfrbWKzv_gg1fl4Z1lwFj0moyK0EyAx6Bnyl1JSucb5OZGuQkMEBQHOpjHUPTRf92Js_ZO6R3icSpWW5g3WuaEsAV524JnlitHXGEf0BrZWk77G3Wz985ivwFIrwPyHl3-MiFSMWVX9Q_bzX35zEFFOZiIQEAPf6-hESAaznJL4CvzpuipGdgYOhpw6uTcDS_qc5LU3EjqGv7qOTFa8R5YcYm5cIRHCCEkCyb_3ejPq2UTJpkfYX1L7bYY_Cy5TyQAwDEIuPasEiIsBfj1moqMtjWNIKi10h7lGcVpNas5L7g_2ojUDvX_53Ytg",
+          "thumbnail_path": "channels/farsi_iranwire/media/c99e49affc7adfbaa52aa33a.jpg",
+          "thumbnail_sha256": "1cbac75ebe16bf998928e22b66bccc672b2de096d03833d76c315858b219f15d",
+          "duration_label": "0:55",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "7",
+      "posted_at": "2026-09-09T18:55:55+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93532",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93531",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "370",
+      "views_label": "384",
       "posted_at": "2026-09-09T18:22:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93531",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "831",
+      "views_label": "838",
       "posted_at": "2026-09-09T16:54:42+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93530",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "894",
+      "views_label": "897",
       "posted_at": "2026-09-09T16:24:47+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93529",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.12K",
+      "views_label": "1.15K",
       "posted_at": "2026-09-09T15:14:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93528",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "899",
+      "views_label": "902",
       "posted_at": "2026-09-09T15:00:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93526",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "950",
+      "views_label": "953",
       "posted_at": "2026-09-09T14:41:21+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93525",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "823",
+      "views_label": "824",
       "posted_at": "2026-09-09T14:29:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93523",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.14K",
+      "views_label": "1.15K",
       "posted_at": "2026-09-09T13:02:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93522",
@@ -2781,34 +2809,6 @@
       "posted_at": "2026-09-07T07:16:37+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93431",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93430",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "قیمت نفت روز دوشنبه ۱۶شهریور۱۴۰۵، در پی حملات متقابل آمریکا و ایران به کشتی‌ها در تنگه هرمز و مناطق دیگر افزایش یافت؛ حملاتی که نگرانی‌ها درباره طولانی‌شدن اختلال در عرضه نفت از خاورمیانه را افزایش داده است. <br><br>خبرگزاری «رویترز» بامداد امروز گزارش داد که بهای معاملات آتی نفت برنت تا ساعت ۵:۱۲ به وقت گرینویچ با ۷۹ سنت یا ۰.۸۲ درصد افزایش به ۹۷ دلار و هفت سنت در هر بشکه رسید. نفت خام وست تگزاس اینترمدیت آمریکا نیز با ۸۰ سنت یا ۰.۸۷ درصد افزایش، ۹۲ دلار و ۲۸ سنت معامله شد.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157247\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157247</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "قیمت نفت روز دوشنبه ۱۶شهریور۱۴۰۵، در پی حملات متقابل آمریکا و ایران به کشتی‌ها در تنگه هرمز و مناطق دیگر افزایش یافت؛ حملاتی که نگرانی‌ها درباره طولانی‌شدن اختلال در عرضه نفت از خاورمیانه را افزایش داده است.\n\nخبرگزاری «رویترز» بامداد امروز گزارش داد که بهای معاملات آتی نفت برنت تا ساعت ۵:۱۲ به وقت گرینویچ با ۷۹ سنت یا ۰.۸۲ درصد افزایش به ۹۷ دلار و هفت سنت در هر بشکه رسید. نفت خام وست تگزاس اینترمدیت آمریکا نیز با ۸۰ سنت یا ۰.۸۷ درصد افزایش، ۹۲ دلار و ۲۸ سنت معامله شد.\nبخوانید: https://iranwire.com/fa/news-1/157247\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93430",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Emdq0UX6KHcMmlz29mKbzXUHgK70xqQW_xPSeb9gTi3nvFiWJFCM6JvHoVVVWMZZ7vEUiWB7IeapkIEwi0u9g9mlvuqt3xTsepkO4xcwZTHS6bSTHcfwbnDmmfOahgb_OjezfsoNKJ3GBFD39I1wW8720Pxc8tJvllS6UU5Ru7GruNLn9xR_2In42WQv5GwwaDTHENdEIbhSrX1Q9zBcyGOIDOtNfMlbZxUtkWw41Me4iMavGjG_FZs-CGKT5qmEfEQOKmQA5osXQD5wPMRScLd-hFiVJu1E-f6OgNF9QomwEZDr8vRo47YgBhPt2Z8UKTc6_wNGHzF3RBgJmTXPCA.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/539b273bcc0ff9b63329dc12.jpg",
-          "thumbnail_sha256": "54ba29d94a40bf52fcc7cbc7fbef5cb10a39f64251baa13127713ffd088e88b5",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.11K",
-      "posted_at": "2026-09-07T07:05:50+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93430",
       "reply": null
     }
   ]
