@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T05:46:32.107Z",
+  "fetched_at": "2026-09-09T05:51:54.638Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -8,9 +8,37 @@
     "photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
     "photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
     "photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-    "subscriber_count": "133K"
+    "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229947",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "پاکستان در آستانه دریافت محموله‌های ضروری گاز طبیعی مایع قرار گرفته است، پس از آنکه یک نفتکش حامل سوخت قطر از تنگه هرمز گذشت.<br><br>بر پایه داده‌های ردیابی شناور که بلومبرگ گردآوری کرده، شناور المرونه اوایل همین هفته از تنگه عبور کرد و تا پنجشنبه به پاکستان می‌رسد.<br><br>به گفته معامله‌گران آگاه، شناور دیگری با بار گاز مایع قطر نیز ظرف روزهای آینده از تنگه می‌گذرد و راهی پاکستان می‌شود.<br><br>دولت پاکستان پس از بسته شدن عملی تنگه هرمز و توقف تحویل از قطر با خاموشی‌های چرخشی دست‌وپنجه نرم می‌کند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "پاکستان در آستانه دریافت محموله‌های ضروری گاز طبیعی مایع قرار گرفته است، پس از آنکه یک نفتکش حامل سوخت قطر از تنگه هرمز گذشت.\n\nبر پایه داده‌های ردیابی شناور که بلومبرگ گردآوری کرده، شناور المرونه اوایل همین هفته از تنگه عبور کرد و تا پنجشنبه به پاکستان می‌رسد.\n\nبه گفته معامله‌گران آگاه، شناور دیگری با بار گاز مایع قطر نیز ظرف روزهای آینده از تنگه می‌گذرد و راهی پاکستان می‌شود.\n\nدولت پاکستان پس از بسته شدن عملی تنگه هرمز و توقف تحویل از قطر با خاموشی‌های چرخشی دست‌وپنجه نرم می‌کند.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229947",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ZXCkrfM87z0QhoMX0eU9nrksPi7UrwsHxyW9-2U8M52Lx_6bnLj71bXqmkub9QdmfouM_LDSw-kK0EIyHZOcl3TP0zD3CVfeoM-wY8RhF-4SLnYToNcylldnEPP1PigVbZC_UODEF_D7wcYi7iZoo07xDwxxJZfwDaV8LcYfuOOT6Xt6KMgpIQ2tbHgNwrm4OgbVLvqDcPMishDfmtHvFXiIefaMAHgR-4BjuMJoLZF09hlwQaogmLOKLdS4LHFDKEznwnmTdZ7x5rC2voZAxx_RjMoSsPLsz_0lvT_PnLHvly_LtBhh_SNEzgEbXTKcYrf0U89awWncz5JfpLUUnQ.jpg",
+          "thumbnail_path": "channels/farsivoa/media/1ec2b00c11573594160659d9.jpg",
+          "thumbnail_sha256": "788b1464dc1010cf915e3c5112909459639a60458b7e875eccbcb5262e32d961",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "223",
+      "posted_at": "2026-09-09T05:48:49+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229947",
+      "reply": null
+    },
     {
       "id": "farsivoa/229946",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "669",
+      "views_label": "924",
       "posted_at": "2026-09-09T05:31:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229946",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.14K",
+      "views_label": "1.31K",
       "posted_at": "2026-09-09T05:20:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229945",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.44K",
+      "views_label": "1.6K",
       "posted_at": "2026-09-09T05:11:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229944",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.7K",
+      "views_label": "4.76K",
       "posted_at": "2026-09-09T02:31:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229943",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.64K",
+      "views_label": "4.7K",
       "posted_at": "2026-09-09T02:29:15+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229942",
@@ -161,7 +189,7 @@
       "plain_text": "🔺سنتکام: جمهوری اسلامی ابزاری برای دفاع از کشتی‌هایش ندارد؛ نفتکش‌های سپاه را منهدم کردیم\n\n▪️ستاد فرماندهی مرکزی آمریکا، سه‌‌شنبه شب به وقت واشنگتن (بامداد چهارشنبه به وقت تهران) ویدیوی انهدام نفتکش ری‌یسکو، یکی از ۵ نفتکش جمهوری اسلامی را که ساعاتی قبل منهدم کرد، منتشر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195937.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "4.43K",
+      "views_label": "4.5K",
       "posted_at": "2026-09-09T02:25:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229941",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.91K",
+      "views_label": "3.97K",
       "posted_at": "2026-09-09T02:15:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229940",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.86K",
+      "views_label": "3.92K",
       "posted_at": "2026-09-09T02:03:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229939",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.97K",
+      "views_label": "4.03K",
       "posted_at": "2026-09-09T01:38:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229938",
@@ -261,7 +289,7 @@
       "plain_text": "🔺اردن: جمهوری اسلامی ۲۰ موشک شلیک کرد؛ ۱۸ فروند منهدم شد و دو موشک در فضای باز فرود آمد\n\n▪️در پی حمله موشکی جمهوری اسلامی به اردن که اوایل چهارشنبه ۱۸ شهریور صورت گرفت و ادعاهای منتشر شده در شبکه‌های اجتماعی که تعداد زیادی از نیروهای آمریکایی مجروح شده‌اند، رویترز به نقل از یک مقام آمریکایی این موضوع را رد کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195936.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.93K",
+      "views_label": "4K",
       "posted_at": "2026-09-09T01:32:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229937",
@@ -289,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.58K",
+      "views_label": "3.62K",
       "posted_at": "2026-09-09T01:09:36+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229936",
@@ -305,7 +333,7 @@
       "plain_text": "🔺ممنوعیت روسری برای دختران زیر ۱۴ سال در مدارس اتریش اجرایی شد؛ دولت: هدف حمایت از آزادی دختران است\n\n▪️ممنوعیت استفاده از روسری برای دختران زیر ۱۴ سال در مدارس اتریش، از روز دوشنبه و هم‌زمان با نخستین روز سال تحصیلی در بخشی از این کشور اجرایی شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/austria-enforces-school-headscarf-ban/8195695.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.43K",
+      "views_label": "3.47K",
       "posted_at": "2026-09-09T01:06:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229935",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.75K",
+      "views_label": "3.81K",
       "posted_at": "2026-09-09T00:01:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229934",
@@ -349,7 +377,7 @@
       "plain_text": "🔺حمله موشکی جمهوری اسلامی به اردن در پی انهدام پنج نفکش توسط سنتکام\n\n▪️خبرگزاری آسوشیتدپرس می‌گوید جمهوری اسلامی بامداد چهارشنبه «به اهداف آمریکایی» در اردن حملات موشکی کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195722.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.95K",
+      "views_label": "3.99K",
       "posted_at": "2026-09-08T23:50:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229933",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.76K",
+      "views_label": "3.8K",
       "posted_at": "2026-09-08T23:45:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229932",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.8K",
+      "views_label": "3.83K",
       "posted_at": "2026-09-08T23:34:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229931",
@@ -421,7 +449,7 @@
       "plain_text": "🔺روبیو: جمهوری اسلامی به ازای هر تلاش برای حمله به ناوهای آمریکایی نفتکش‌هایی را از دست خواهد داد\n\n▪️مارکو روبیو، وزیر امور خارجه آمریکا، روز سه‌شنبه ۱۷ شهریور در گفت‌وگو با خبرنگاران درباره حملات اخیر به نفتکش‌های جمهوری اسلامی گفت جمهوری اسلامی همچنان تلاش می‌کند ناوهای نیروی دریایی آمریکا را هدف قرار دهد و واشنگتن در پاسخ به هرگونه حمله یا تلاش برای حمله، نفتکش‌های آن را هدف خواهد گرفت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195716.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.82K",
+      "views_label": "3.86K",
       "posted_at": "2026-09-08T23:32:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229930",
@@ -449,7 +477,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.61K",
+      "views_label": "3.65K",
       "posted_at": "2026-09-08T23:15:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229929",
@@ -477,7 +505,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.79K",
+      "views_label": "3.85K",
       "posted_at": "2026-09-08T23:05:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229928",
@@ -2469,34 +2497,6 @@
       "posted_at": "2026-09-08T11:34:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229847",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229846",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "امانوئل مکرون، رئیس‌جمهوری فرانسه، از کمیسیون اروپا خواست ممنوعیت سراسری شبکه‌های اجتماعی برای کودکان زیر ۱۵ سال را در اتحادیه اروپا پشتیبانی کند.<br><br>بر اساس نامه او به اورزولا فون درلاین، رئیس کمیسیون اروپا، در تاریخ ۷ شهریور، مکرون نوشت: «باور دارم اکنون ضروری شده که فراتر برویم و از راه متن قانونی تازه اروپایی، ممنوعیت دسترسی کودکان زیر ۱۵ سال به بستر شبکه‌های اجتماعی را هماهنگ کنیم تا از همه کودکان در سراسر اتحادیه حفاظت شود.»<br><br>درخواست پس از آن مطرح شد که شورای قانون اساسی فرانسه تابستان امسال قانون ملی مشابهی را پیش از اجرا لغو کرد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "امانوئل مکرون، رئیس‌جمهوری فرانسه، از کمیسیون اروپا خواست ممنوعیت سراسری شبکه‌های اجتماعی برای کودکان زیر ۱۵ سال را در اتحادیه اروپا پشتیبانی کند.\n\nبر اساس نامه او به اورزولا فون درلاین، رئیس کمیسیون اروپا، در تاریخ ۷ شهریور، مکرون نوشت: «باور دارم اکنون ضروری شده که فراتر برویم و از راه متن قانونی تازه اروپایی، ممنوعیت دسترسی کودکان زیر ۱۵ سال به بستر شبکه‌های اجتماعی را هماهنگ کنیم تا از همه کودکان در سراسر اتحادیه حفاظت شود.»\n\nدرخواست پس از آن مطرح شد که شورای قانون اساسی فرانسه تابستان امسال قانون ملی مشابهی را پیش از اجرا لغو کرد.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229846",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/PaKxGyeX6ahQTzBPU3fEGpv-FBqroQkYDIaynzwp3QXYQ9KgAK-20XSO52GQOdVuReP3m93Vpa-YEEBt4gk_lsPxeQKdmaI1XIHMphmeADvsLRsUR3WVL-moi-kqY09xF49gbYIiTrkB4UNYJl2CW78qyfSFgHzzEmsg4ZFv37DojjVZ6tNhJaez5HIN8wVFnPV6tYJ0nve00zAyddWweDYlqg-QMCGMEgvxP2FOvyivfXb2DF1dLGC1Q_9s7PzQFDEsvFH0Vw4bfe84as-1oRHhN7XNRbGvLqHJ-yI8zg9-absfQYf8DVNBelAWsv8tx8XICYnn_ZV-21rJNco1fA.jpg",
-          "thumbnail_path": "channels/farsivoa/media/96ac9afca53fdda92a64a3be.jpg",
-          "thumbnail_sha256": "4de4112c8f683aab3aa7ee0c83f4b27921558bd4083b248ad6ed49c452bd02f4",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.57K",
-      "posted_at": "2026-09-08T11:24:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229846",
       "reply": null
     }
   ]
