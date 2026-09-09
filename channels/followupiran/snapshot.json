@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T03:51:36.410Z",
+  "fetched_at": "2026-09-09T03:56:37.426Z",
   "channel": {
     "username": "followupiran",
     "title": "کمیته پیگیری وضعیت بازداشت‌شدگان",
@@ -38,7 +38,7 @@
           "count": "1"
         }
       ],
-      "views_label": "807",
+      "views_label": "808",
       "posted_at": "2026-08-30T09:45:39+00:00",
       "edited": false,
       "permalink": "https://t.me/Followupiran/1242",
@@ -103,8 +103,8 @@
           "asset_url": "https://t.me/Followupiran/1240",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/VjA0M2Le1Q9tFR3DYwfdR31lt66SpyS2rg2VH2CfMepFdEiy9nMXGIcrsDx4OMsu7LMDjsOkbHPWvnXgILjXbfLaIOP16I_z8NeYPf9vOgMETrEvHBNU8gQzhc81xHq5nKk1Z0XG04x8YLKdcs6zolRLR78qxMQmy-UnN_uPs3RUNHEuEHWx8IfgeTIZTSTisw_OCMSZVjH3z5CZPTQ5-cm4crUB-SVOyPOdgZDvagQHKcjyJyuHXwtjXE2O3o8B72UVyL0CJDILGj2VmfHbrKRYhTmtvpcg3vKNufayLcYKLRV5XiyUMEvWUNr77pLwD56mgdr7t9f-JIV73f8pag.jpg",
-          "thumbnail_path": "channels/followupiran/media/7d6c5b0afa78b1f572c3e190.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/E8OsVJPAxyxvwYIoLTEARxECTpi9NKQlU2xA6GUPc4oTLKwca4HpieR4wrDCkewae2vAiKtGEHXMqXGTJw1yXhsPLokiS-Cs_aDoLFm90dCl9lTKKxLSTHgTY3gSqDostn4_XUWT05pkvpIAi5Y3syYMmOwXZk97bAu_SkvDNuu1Lb6XsydUAHc8LtxD7MJMtti02_EgVnOk1npXcAFOOqVG0Pv8-3ZFAlQK8y-owmVRd_P3Sj6lqBmgfm7rbjl7BD0w07gl0DAiFi5azEmZG7K_jWjloNvPnu8fue9rLjIGbcgc8YuF2wQmfXtL9ZxDo-eNRZ2AKc88jsUt-DGVUA.jpg",
+          "thumbnail_path": "channels/followupiran/media/9b7db475bfa86d7a56b19688.jpg",
           "thumbnail_sha256": "bc50304c466c19eedde7d78d614a44b4abaaac0aaeeec741b0782f0a547a71f8",
           "duration_label": null,
           "aspect_ratio": 0.8
