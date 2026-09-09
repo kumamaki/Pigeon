@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T06:41:44.588Z",
+  "fetched_at": "2026-09-09T06:47:16.580Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12766",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/u689_rYO5BvRoLGHUqeS748ZHihd5W8tmUKeKKLLRiCouTN2NBT332edoyj8v5k5o8rEYQ8nmcM7OaCQjQMgIVATAaycdA6ywFgN11S0cyo7c1sf-_dJslYen0uOj7OrQw465QP6ysxLlEgMPuLplxph7uoL2g3_vZ_PSHq_C_QXhwiyiKK0nhvTkvUA52QzghrG4N0CcdROanb-YIIsuM4XnLZoUENqcREbi8lr_0qLaWnTcs2vXJ2wKbXwKZXafH1NX3IXlutBl-tuBoxdGvKU-iLTBqCQSJ60KxXrOwlA7R4FjhdZXrOXbRkAURl9NQ775b6oWxhdgfydK_E5Xg.jpg",
+      "author_photo_path": "channels/iranlix/media/11a3f1a47603e8b665d47093.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>طبق گزارش رویترز اسرائیل به کنسولگری بریتانیا در شرق قدس اعلام کرده است که باید ظرف ۳۰ روز تعطیل شود.همچنین دیپلمات‌های بریتانیایی مستقر در رام‌الله و نمایندگان لندن در مرکز هماهنگی آمریکا برای غزه باید ظرف ۷ روز اسرائیل را ترک کنند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>این اقدام در واکنش به تحریم‌های بریتانیا علیه شهرک‌های اسرائیلی در کرانه باختری صورت گرفته است.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "♦️طبق گزارش رویترز اسرائیل به کنسولگری بریتانیا در شرق قدس اعلام کرده است که باید ظرف ۳۰ روز تعطیل شود.همچنین دیپلمات‌های بریتانیایی مستقر در رام‌الله و نمایندگان لندن در مرکز هماهنگی آمریکا برای غزه باید ظرف ۷ روز اسرائیل را ترک کنند.\n\n🔹این اقدام در واکنش به تحریم‌های بریتانیا علیه شهرک‌های اسرائیلی در کرانه باختری صورت گرفته است.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/12766",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/hz-Vr6VIvTmUXj3q9tKG0Jn86RDaENWPhGnHK9l1-3Rqz9CCYK03tgbxrqGmugZraWZtbxG-v_7bMIe1Ib8ro6MK6DjA6wMXLYJJH1m1Ex3xrI-C-a_oq6G3Kreycf_3O3d4yb5KLsEQBVl0kBkDoZ965Y4jogPYDzFUWZZzy6Nf4XEt7qrjmj05arbW80VaPEXM810zxTIAmCxDIhBcxjRb4O_7cBhqM1dCxSepygljin0DYf5QpBwH5SoSzIIjJ9dPU-4-i_dHgJfQaT4gCPj4HDavp14FvjmYLKp3dbYKdW3DTWZNokK0NtBsBf0gSawUtJ5MomXilwu4goApAA.jpg",
+          "thumbnail_path": "channels/iranlix/media/36219b9fdf117e98438bee2e.jpg",
+          "thumbnail_sha256": "fcd66c79cb054e5f8deadab4e17f336d4ef4b2c668562eac7efec595270c3ac0",
+          "duration_label": null,
+          "aspect_ratio": 1.335559265442404
+        }
+      ],
+      "reactions": [],
+      "views_label": "41",
+      "posted_at": "2026-09-09T06:45:13+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12766",
+      "reply": null
+    },
     {
       "id": "iranlix/12765",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "144",
+      "views_label": "192",
       "posted_at": "2026-09-09T06:30:57+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12765",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "257",
+      "views_label": "292",
       "posted_at": "2026-09-09T06:14:24+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12764",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "315",
+      "views_label": "353",
       "posted_at": "2026-09-09T06:02:49+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12763",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "454",
+      "views_label": "483",
       "posted_at": "2026-09-09T05:38:22+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12762",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "601",
+      "views_label": "619",
       "posted_at": "2026-09-09T05:00:20+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12761",
@@ -157,8 +185,8 @@
       "author_photo_url": "https://cdn4.telesco.pe/file/u689_rYO5BvRoLGHUqeS748ZHihd5W8tmUKeKKLLRiCouTN2NBT332edoyj8v5k5o8rEYQ8nmcM7OaCQjQMgIVATAaycdA6ywFgN11S0cyo7c1sf-_dJslYen0uOj7OrQw465QP6ysxLlEgMPuLplxph7uoL2g3_vZ_PSHq_C_QXhwiyiKK0nhvTkvUA52QzghrG4N0CcdROanb-YIIsuM4XnLZoUENqcREbi8lr_0qLaWnTcs2vXJ2wKbXwKZXafH1NX3IXlutBl-tuBoxdGvKU-iLTBqCQSJ60KxXrOwlA7R4FjhdZXrOXbRkAURl9NQ775b6oWxhdgfydK_E5Xg.jpg",
       "author_photo_path": "channels/iranlix/media/11a3f1a47603e8b665d47093.jpg",
       "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i><b>تانکر ترکرز نام ۵ نفتکش ج.ا هدف‌قرارگرفته توسط آمریکا را منتشر کرد</b>.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>پایگاه رصد دریایی TankerTrackers اعلام کرد پنج نفتکشی که سنتکام از انهدام آن‌ها در شامگاه ۸ سپتامبر خبر داده،عبارت‌اند از:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>CHARMINAR<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>KAVIZ<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>HORIZON<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>RIESCO<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>DERYA<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>به گفته TankerTrackers، این ۵ شناور از ماه مه ۲۰۱۹ در مجموع حدود ۴۵ میلیون بشکه نفت خام و فرآورده‌های نفتی ج.ا را صادر کرده‌اند. نفتکش «DERYA» هنگام هدف قرار گرفتن، بدون محموله بوده است.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "💢تانکر ترکرز نام ۵ نفتکش ج.ا هدف‌قرارگرفته توسط آمریکا را منتشر کرد.\n\n🔻پایگاه رصد دریایی TankerTrackers اعلام کرد پنج نفتکشی که سنتکام از انهدام آن‌ها در شامگاه ۸ سپتامبر خبر داده،عبارت‌اند از:\n\n🔹CHARMINAR\n🔹KAVIZ\n🔹HORIZON\n🔹RIESCO\n🔹DERYA\n\n🔸به گفته TankerTrackers، این ۵ شناور از ماه مه ۲۰۱۹ در مجموع حدود ۴۵ میلیون بشکه نفت خام و فرآورده‌های نفتی ج.ا را صادر کرده‌اند. نفتکش «DERYA» هنگام هدف قرار گرفتن، بدون محموله بوده است.\n\n@iranlix",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i><b>تانکر ترکرز نام ۵ نفتکش ج.ا هدف‌قرارگرفته توسط آمریکا را منتشر کرد</b>.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>پایگاه رصد دریایی TankerTrackers اعلام کرد ۵ نفتکشی که سنتکام از انهدام آن‌ها در شامگاه ۸ سپتامبر خبر داده،عبارت‌اند از:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>CHARMINAR<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>KAVIZ<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>HORIZON<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>RIESCO<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>DERYA<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>به گفته TankerTrackers، این ۵ شناور از ماه مه ۲۰۱۹ در مجموع حدود ۴۵ میلیون بشکه نفت خام و فرآورده‌های نفتی ج.ا را صادر کرده‌اند. نفتکش «DERYA» هنگام هدف قرار گرفتن، بدون محموله بوده است.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "💢تانکر ترکرز نام ۵ نفتکش ج.ا هدف‌قرارگرفته توسط آمریکا را منتشر کرد.\n\n🔻پایگاه رصد دریایی TankerTrackers اعلام کرد ۵ نفتکشی که سنتکام از انهدام آن‌ها در شامگاه ۸ سپتامبر خبر داده،عبارت‌اند از:\n\n🔹CHARMINAR\n🔹KAVIZ\n🔹HORIZON\n🔹RIESCO\n🔹DERYA\n\n🔸به گفته TankerTrackers، این ۵ شناور از ماه مه ۲۰۱۹ در مجموع حدود ۴۵ میلیون بشکه نفت خام و فرآورده‌های نفتی ج.ا را صادر کرده‌اند. نفتکش «DERYA» هنگام هدف قرار گرفتن، بدون محموله بوده است.\n\n@iranlix",
       "media": [
         {
           "kind": "photo",
@@ -173,9 +201,9 @@
         }
       ],
       "reactions": [],
-      "views_label": "629",
+      "views_label": "648",
       "posted_at": "2026-09-09T04:59:33+00:00",
-      "edited": false,
+      "edited": true,
       "permalink": "https://t.me/iranlix/12760",
       "reply": null
     },
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "661",
+      "views_label": "680",
       "posted_at": "2026-09-09T04:37:40+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12759",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.17K",
+      "views_label": "1.19K",
       "posted_at": "2026-09-08T22:42:22+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12758",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.17K",
+      "views_label": "1.18K",
       "posted_at": "2026-09-08T22:29:09+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12756",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.1K",
+      "views_label": "1.11K",
       "posted_at": "2026-09-08T22:23:55+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12755",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.06K",
+      "views_label": "1.07K",
       "posted_at": "2026-09-08T22:22:34+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12754",
@@ -411,7 +439,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.01K",
+      "views_label": "1.02K",
       "posted_at": "2026-09-08T22:10:04+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12750",
@@ -472,7 +500,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "971",
+      "views_label": "980",
       "posted_at": "2026-09-08T22:01:28+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12746",
@@ -3052,34 +3080,6 @@
       "posted_at": "2026-09-06T20:45:00+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12647",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12646",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fMVnOc1uSucjuboT6V0k7ELXy0-AF7uXhfQKrT0ABzO4YzNvYVYnhQDl9twI5SD7s_WY23CPVzE1kCYrgwBE-c0afmMRE4w0x1v9fJg2JPujS6glrH0OikU9oZB7LN90gFgqsYvcd6hcSfUWJGw9K7p7qJGl0c1YSpXmSrRkUabxYJw4-0ABlI1K019Rc4i4hddSvcxPaBcfBxscaRfeZ2IAghENZ4crQZSKfSCyu-vReE4p-qu7FL3BVKVpjlewu9IH_c86Ie703hT2oR8BPw-_W35Ebf76o_in2_h7S0lirkU8mZyQ9oCUpBRTYO2xsEYmfY7qyRK21qYFBO7xfA.jpg",
-      "author_photo_path": "channels/iranlix/media/d6f23b233b51f82bbdb3cdba.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i><b>صف بنزین در کرج بعداز اعلام  نرخ سوم که از۱۷ شهریور&nbsp; ۱۰ هزار تومان</b> <b>میشود</b>.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "💢صف بنزین در کرج بعداز اعلام نرخ سوم که از۱۷ شهریور  ۱۰ هزار تومان میشود.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/iranlix/12646",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Zp7gXvImssSB8tXoKnWVevvp41l944wiNASDqZrsfxvU5fd4r90XJCjEGclpPRa-DDNWvuq_E1Gnd0H0oSn1a3C_ujeDQxorK8moYAKIgpgX0IIxZP7nK6fUjyyLv7MUQ9YniiLL_xpirS7JVQ88Lhje6I74r3T5u9lI1zDLgsTgfm-hhydN5AUnYrTao9ojb8ovCcKuF0GMVhlpJqp6Z8b1i-d4xoUdsIOdKbd_iedCHzeKQrD93S7gfCLN1I3aqtJyWRlYn198yxXwli-DnMnuD_2grKEjEI6eAocb5tsEI2bC5LfKXMZK53VQAwHdO8g2K1vQNGUAiDwNkF51hw",
-          "thumbnail_path": "channels/iranlix/media/9a6173530598136f8518bfb6.jpg",
-          "thumbnail_sha256": "91b3d2f6fddf9250ed1910f31af3213bdf9eb7f8ae8558755cce88c7d4de2807",
-          "duration_label": "0:53",
-          "aspect_ratio": 1.1666666666666627
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.51K",
-      "posted_at": "2026-09-06T20:07:59+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12646",
       "reply": null
     }
   ]
