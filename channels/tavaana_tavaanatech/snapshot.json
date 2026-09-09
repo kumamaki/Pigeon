@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T11:57:04.637Z",
+  "fetched_at": "2026-09-09T12:01:36.663Z",
   "channel": {
     "username": "tavaana_tavaanatech",
     "title": "آموزشکده توانا",
@@ -11,6 +11,34 @@
     "subscriber_count": "48.2K"
   },
   "posts": [
+    {
+      "id": "Tavaana_TavaanaTech/105996",
+      "author_name": "آموزشکده توانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/urGbHY9qCi6PFq5K6k9No3zX-BI-eCByS3SM_XfYX6cmoYdPvmKek_5wqXnyubfKg0TIe35O6A040PKd9qq8Jmz0qYl4GCdDkP1a899NxEzm38vhN5Fn-bXbtBxcsnMyS3ddfVi0pJj2FUfTqYvBOLwkffEParfgxur34CMSD5mFTHjJIyODN2b3gynTWGQV_FgJDjxttvmvCkq1p9tw5LBCre9IkEfKHXshzzFsi6eKYP7CKfcrczkYJdxhbfIDX-GbMXyywoQmO7kP_Tb80ddUED0vCn7HZQnPJSjjNinHKWS-pCm7yBNDzBUq49jEfd3QWkcp4wV60AiKnYP9Gw.jpg",
+      "author_photo_path": "channels/tavaana_tavaanatech/media/022f179fdd20813ba93d5d9a.jpg",
+      "author_photo_sha256": "1da34fb18b56e2ecdab66fcbf698bb547c335911b3064311110da2bc2ad921e7",
+      "body_html": "<b>تجمع اعتراضی پرستاران در کرمانشاه</b><br><br>جمعی از پرستاران در کرمانشاه روز سه‌شنبه ۱۷ شهریور در اعتراض به مشکلات معیشتی و وضعیت حقوقی خود تجمع کردند.<br><br>پرستاران در این تجمع خواستار رسیدگی به مطالبات صنفی و بهبود شرایط معیشتی و شغلی خود شدند.<br><br><br><a href=\"?q=%23%D9%85%D8%B9%DB%8C%D8%B4%D8%AA\">#معیشت</a> <a href=\"?q=%23%D9%81%D9%82%D8%B1\">#فقر</a>",
+      "plain_text": "تجمع اعتراضی پرستاران در کرمانشاه\n\nجمعی از پرستاران در کرمانشاه روز سه‌شنبه ۱۷ شهریور در اعتراض به مشکلات معیشتی و وضعیت حقوقی خود تجمع کردند.\n\nپرستاران در این تجمع خواستار رسیدگی به مطالبات صنفی و بهبود شرایط معیشتی و شغلی خود شدند.\n\n\n#معیشت #فقر",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Tavaana_TavaanaTech/105996",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/oQcFNkrzTmcDE49nXQtL7dhCZoYYgulLS6pY1s5Q1iphCc4fD2aHqAX2bXGXYw7Pz27Tze2-w1YZ9SnHTzQBICqAsL6GxnrRjQ6itV10cO6OuZCwLESbUItdtSs7EG-0BrY8BsutcOzrKve9wr6fNw6KYC2Pw9_ziDWOsOyMErLq5n32E8ifqspdcQTaQQ6OTUY1Lho66-Slb-T4ExpL6HA4Sal5uPGxRGtmJqfyMX23Cb3lkEx9SECqsUcITC4yT4R_31SVAQM32899WadRaYNryCWW-wNTA29QkTSthT_YASyF1YpVWbxpDrvb28YgAhau4vULg_8JkNQ-H7QjJw",
+          "thumbnail_path": "channels/tavaana_tavaanatech/media/4b2a50e2279f4b520076e88f.jpg",
+          "thumbnail_sha256": "046427e0097e52b20c46f0d5021c16f04b2fe11823707be5938f3ba155e09f4a",
+          "duration_label": "0:15",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "16",
+      "posted_at": "2026-09-09T12:00:15+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Tavaana_TavaanaTech/105996",
+      "reply": null
+    },
     {
       "id": "Tavaana_TavaanaTech/105995",
       "author_name": "آموزشکده توانا",
@@ -42,7 +70,7 @@
           "count": "3"
         }
       ],
-      "views_label": "497",
+      "views_label": "514",
       "posted_at": "2026-09-09T10:22:08+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105995",
@@ -83,7 +111,7 @@
           "count": "2"
         }
       ],
-      "views_label": "975",
+      "views_label": "988",
       "posted_at": "2026-09-09T06:13:13+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105994",
@@ -120,7 +148,7 @@
           "count": "3"
         }
       ],
-      "views_label": "850",
+      "views_label": "856",
       "posted_at": "2026-09-09T06:01:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105993",
@@ -161,7 +189,7 @@
           "count": "2"
         }
       ],
-      "views_label": "726",
+      "views_label": "730",
       "posted_at": "2026-09-09T05:41:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105992",
@@ -202,7 +230,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.49K",
+      "views_label": "1.5K",
       "posted_at": "2026-09-08T20:46:41+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105991",
@@ -4379,43 +4407,6 @@
       "posted_at": "2026-09-03T11:53:49+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105835",
-      "reply": null
-    },
-    {
-      "id": "Tavaana_TavaanaTech/105834",
-      "author_name": "آموزشکده توانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/jpm8QfE0ljaCxgKzvShQiAiPMG_vBH7prYrx1kt2PHL2_y2ha8RUj7lliHB3MFWVNfHXirm-lBPWEZDa6Kn5XNeuVML4e-awvK7p9rYlcJILUGX40aGboiG65Tp_WcI_JpKqvwQJH9lIIfYrMd08H6y1rlS2L5POmn3SwYR8ngXAxh1hvmdwXS-xg7T06-nimjF9joGxFmg3LoyYxFJ82AgjHVNAzldxGFGnk3Lua6nNvfzE4pOrfgYA9XgOU9JTw8cQ3qFZMIIlHriCF5fYig1dHt1S5gMcNLY3PUW9MLhGF57juTWAFF3ThuFtP7p2mRM23bY3o1CWS-J1bkjm4w.jpg",
-      "author_photo_path": "channels/tavaana_tavaanatech/media/5c6a9763d0a0ce7301bad3a4.jpg",
-      "author_photo_sha256": "1da34fb18b56e2ecdab66fcbf698bb547c335911b3064311110da2bc2ad921e7",
-      "body_html": "رکوردشکنی‌های روزانه و سقوط آزاد معیشت مردم<br><br>رکوردشکنی‌های پیاپی و روزانه نرخ دلار، اقتصاد ایران را وارد مرحله‌ای مرگبار کرده است. <br>در شرایطی که دلار  از مرز ۲۲۳ هزار تومان فراتر رفته، سکه به آستانه ۲۲۵ میلیون تومان رسیده و شاخص فلاکت روی عدد بی‌سابقه ۹۶ واحد ایستاده، چرخ‌دنده‌های بحران با سرعتی ویرانگر در حال له کردن جامعه است.<br><br>این اعداد روی تابلو صرافی‌ها، برخلاف ادعای مسئولان مبنی بر «نبود مشکل ارزی»، بازتابی فوری در زندگی روزمره مردم دارند. <br><br>تورم ۱۲۸ درصدی خوراکی‌ها، صفر شدن صادرات نفت و سایه سنگین ابرتحریم‌ها، سفره‌های خالی خانوارها را روزبه‌روز کوچک‌تر کرده است. در حالی که حداقل دستمزد با مزایا به ۲۵ میلیون تومان می‌رسد، سبد معیشت سر به فلک کشیده و به ۹۰ میلیون تومان بالغ شده است؛ شکافی که مصرف لبنیات و پروتئین را به کف تاریخی دهه‌های گذشته کشانده است.<br><br>در این میان، هشدار نمایندگان مجلس درباره «سقوط طبقه متوسط» پرده از حقیقتی تلخ برمی‌دارد: فاصله نجومی میان گفتار مقامات و واقعیت عریان کف خیابان، اقشار آسیب‌پذیر، مزدبگیران و بازنشستگان را در بن‌بستی بی‌سابقه رها کرده است.<br><br><a href=\"?q=%23%D8%AF%D9%84%D8%A7%D8%B1\">#دلار</a> <a href=\"?q=%23%D9%81%D9%82%D8%B1\">#فقر</a> <a href=\"?q=%23%DA%AF%D8%B1%D8%A7%D9%86%DB%8C\">#گرانی</a> <br><a href=\"?q=%23%D9%85%D8%B9%DB%8C%D8%B4%D8%AA\">#معیشت</a>",
-      "plain_text": "رکوردشکنی‌های روزانه و سقوط آزاد معیشت مردم\n\nرکوردشکنی‌های پیاپی و روزانه نرخ دلار، اقتصاد ایران را وارد مرحله‌ای مرگبار کرده است.\nدر شرایطی که دلار از مرز ۲۲۳ هزار تومان فراتر رفته، سکه به آستانه ۲۲۵ میلیون تومان رسیده و شاخص فلاکت روی عدد بی‌سابقه ۹۶ واحد ایستاده، چرخ‌دنده‌های بحران با سرعتی ویرانگر در حال له کردن جامعه است.\n\nاین اعداد روی تابلو صرافی‌ها، برخلاف ادعای مسئولان مبنی بر «نبود مشکل ارزی»، بازتابی فوری در زندگی روزمره مردم دارند.\n\nتورم ۱۲۸ درصدی خوراکی‌ها، صفر شدن صادرات نفت و سایه سنگین ابرتحریم‌ها، سفره‌های خالی خانوارها را روزبه‌روز کوچک‌تر کرده است. در حالی که حداقل دستمزد با مزایا به ۲۵ میلیون تومان می‌رسد، سبد معیشت سر به فلک کشیده و به ۹۰ میلیون تومان بالغ شده است؛ شکافی که مصرف لبنیات و پروتئین را به کف تاریخی دهه‌های گذشته کشانده است.\n\nدر این میان، هشدار نمایندگان مجلس درباره «سقوط طبقه متوسط» پرده از حقیقتی تلخ برمی‌دارد: فاصله نجومی میان گفتار مقامات و واقعیت عریان کف خیابان، اقشار آسیب‌پذیر، مزدبگیران و بازنشستگان را در بن‌بستی بی‌سابقه رها کرده است.\n\n#دلار #فقر #گرانی\n#معیشت",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Tavaana_TavaanaTech/105834",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/NYJl7ExVJdYz6f4odYk-QgcM_wRnsqXXZ-CXbNuuqqYPEUEQAZCEOHZilQgVYgptHEuGhW8xFbcnt6O_YcfgGyLrtRz0FJWtMUs_P1pOjaV2r1eCCtkXWdsjzUWFdmK2LXZu7WsBxDVYPEUsPX413t4eP_XG-7qp_5uWqLlwf2ojnrFSWoKVm5LLSNavsRVW_WvcRyuFXEvdOC51zaEbfmsJZO3Kwc8ovQaBWt0so9O9uVze-KctslPAgL7WCyCEV1ikojgMSYJaqkh3phaVM-ea3vSBuS0jVLM7gLB28Ic7AirUnbDLZ1nqR7SUZsaZJkehASlTiDV2X-rbzwK5Dg.jpg",
-          "thumbnail_path": "channels/tavaana_tavaanatech/media/10560d2bf6d163014ce0e9ab.jpg",
-          "thumbnail_sha256": "70b28906c6f994b919ee14f8e220f3a46d03beab8d980b59a07c17a9092c610e",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "💔",
-          "count": "12"
-        },
-        {
-          "emoji": "🕊",
-          "count": "1"
-        }
-      ],
-      "views_label": "1.29K",
-      "posted_at": "2026-09-03T11:02:07+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Tavaana_TavaanaTech/105834",
       "reply": null
     }
   ]
