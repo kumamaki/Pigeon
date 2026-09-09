@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T06:12:00.630Z",
+  "fetched_at": "2026-09-09T06:18:15.793Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12764",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/u689_rYO5BvRoLGHUqeS748ZHihd5W8tmUKeKKLLRiCouTN2NBT332edoyj8v5k5o8rEYQ8nmcM7OaCQjQMgIVATAaycdA6ywFgN11S0cyo7c1sf-_dJslYen0uOj7OrQw465QP6ysxLlEgMPuLplxph7uoL2g3_vZ_PSHq_C_QXhwiyiKK0nhvTkvUA52QzghrG4N0CcdROanb-YIIsuM4XnLZoUENqcREbi8lr_0qLaWnTcs2vXJ2wKbXwKZXafH1NX3IXlutBl-tuBoxdGvKU-iLTBqCQSJ60KxXrOwlA7R4FjhdZXrOXbRkAURl9NQ775b6oWxhdgfydK_E5Xg.jpg",
+      "author_photo_path": "channels/iranlix/media/11a3f1a47603e8b665d47093.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i><b>ارتش اسرائیل و شاباک اعلام کردند در چند نقطه از نوار غزه، ۳ انبار تسلیحات حماس و جهاد اسلامی و یک سکوی پرتاب موشک را منهدم کرده‌اند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>به گفته ارتش اسرائیل، این انبارها حاوی موشک، سلاح‌های کلاشینکف و تجهیزات نظامی بوده و نیروهای حماس اخیراً از آن‌ها برای نگهبانی و تحکیم کنترل خود استفاده می‌کردند. ارتش اسرائیل تأکید کرد به مقابله با بازسازی توانمندی‌های نظامی گروه‌های مسلح در غزه ادامه خواهد داد.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔹ارتش اسرائیل و شاباک اعلام کردند در چند نقطه از نوار غزه، ۳ انبار تسلیحات حماس و جهاد اسلامی و یک سکوی پرتاب موشک را منهدم کرده‌اند.\n\n🔹به گفته ارتش اسرائیل، این انبارها حاوی موشک، سلاح‌های کلاشینکف و تجهیزات نظامی بوده و نیروهای حماس اخیراً از آن‌ها برای نگهبانی و تحکیم کنترل خود استفاده می‌کردند. ارتش اسرائیل تأکید کرد به مقابله با بازسازی توانمندی‌های نظامی گروه‌های مسلح در غزه ادامه خواهد داد.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/iranlix/12764",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/GqW7ZLk8NmjNWLE0ZbHty6TJxz1UgKSGOU6fgclPwTdDj2JOt2xqv61FztqXw1uoGR8Q7Vxi3Z_kEHCCy5Ttp1CfZzOI-dvfCQvwfissrrPMWMOFdgJDYhzPTZnw_9GghdMvw5SgeB4a69GxtLW4sJn8v6gSa8Zt9XDrBZ_o64y3poY92pyiycPvqqEJKh6gaCmMTclWOQgWRBXWf0y7LLB6nhRjC8ktNoXomtgIQZl-rezYov8bqrxMcyk4UPUykpOuVngQGUERFNKRz77y2cLqw5JtRSavXDPMgYoEiGvVUj57HuXNZvVPqSFJLGHoblQeUaHHb91hwveVBHS2SA",
+          "thumbnail_path": "channels/iranlix/media/9bed5ce1d7ebbc396784285d.jpg",
+          "thumbnail_sha256": "3dd26ee1c952f97eea0578c1b3d94741e9f50da1439a6a407f41c75f33ac7eac",
+          "duration_label": "0:24",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "59",
+      "posted_at": "2026-09-09T06:14:24+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12764",
+      "reply": null
+    },
     {
       "id": "iranlix/12763",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "100",
+      "views_label": "160",
       "posted_at": "2026-09-09T06:02:49+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12763",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "273",
+      "views_label": "318",
       "posted_at": "2026-09-09T05:38:22+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12762",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "478",
+      "views_label": "506",
       "posted_at": "2026-09-09T05:00:20+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12761",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "493",
+      "views_label": "524",
       "posted_at": "2026-09-09T04:59:33+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12760",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "569",
+      "views_label": "593",
       "posted_at": "2026-09-09T04:37:40+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12759",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.11K",
+      "views_label": "1.13K",
       "posted_at": "2026-09-08T22:42:22+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12758",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.12K",
+      "views_label": "1.13K",
       "posted_at": "2026-09-08T22:29:09+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12756",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.06K",
+      "views_label": "1.07K",
       "posted_at": "2026-09-08T22:23:55+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12755",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.02K",
+      "views_label": "1.03K",
       "posted_at": "2026-09-08T22:22:34+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12754",
@@ -316,7 +344,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.02K",
+      "views_label": "1.03K",
       "posted_at": "2026-09-08T22:14:07+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12752",
@@ -355,7 +383,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "966",
+      "views_label": "979",
       "posted_at": "2026-09-08T22:10:04+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12750",
@@ -416,7 +444,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "937",
+      "views_label": "944",
       "posted_at": "2026-09-08T22:01:28+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12746",
@@ -444,7 +472,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "976",
+      "views_label": "982",
       "posted_at": "2026-09-08T21:54:46+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12745",
@@ -3052,34 +3080,6 @@
       "posted_at": "2026-09-06T19:55:17+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12645",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12644",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fMVnOc1uSucjuboT6V0k7ELXy0-AF7uXhfQKrT0ABzO4YzNvYVYnhQDl9twI5SD7s_WY23CPVzE1kCYrgwBE-c0afmMRE4w0x1v9fJg2JPujS6glrH0OikU9oZB7LN90gFgqsYvcd6hcSfUWJGw9K7p7qJGl0c1YSpXmSrRkUabxYJw4-0ABlI1K019Rc4i4hddSvcxPaBcfBxscaRfeZ2IAghENZ4crQZSKfSCyu-vReE4p-qu7FL3BVKVpjlewu9IH_c86Ie703hT2oR8BPw-_W35Ebf76o_in2_h7S0lirkU8mZyQ9oCUpBRTYO2xsEYmfY7qyRK21qYFBO7xfA.jpg",
-      "author_photo_path": "channels/iranlix/media/d6f23b233b51f82bbdb3cdba.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>ترامپ:</b><br><br>«<b>ج.ا</b> <b>در حال فروپاشی است.</b>»<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔻ترامپ:\n\n«ج.ا در حال فروپاشی است.»\n\n@iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/12644",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/tGAaaLekRfBNCtf0lzcGkLq8c7TGBMYS2wdeGtRTiN9XO-AaijFu34fuGn0q5bmssVmhnqJD7loY8zg6SHRYQebqePvcDhL8PvdOVYiZ_lrWyf5W-0hM3zf96wsaZv77csQw99sqUINOsqbZuLo67DKcec3mgDV7UnGPf0kmHl1td_bWmAGRcFnpJxP0rQWvFf0IG5CFBtVvZO1hZTdFbSDxQt3dAU6wsit6DQKvzqJkBvRIUuO4gOLs7xdoK8sNpIF2D4Is7EBlNLLSXGjvvzIem8KG9K3luf-UgFPDoNoBCMgGoPqszCsn_BW4hPOlVDPPGw1paoGKC0Lii8bvEQ.jpg",
-          "thumbnail_path": "channels/iranlix/media/5430977f2c2cc73d1663aa43.jpg",
-          "thumbnail_sha256": "5d9930dd4af1f7c9fb7c9ce9d0661a1bc28d5cb1bbd0567ac991599507d15a7e",
-          "duration_label": null,
-          "aspect_ratio": 1.2678288431061806
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.41K",
-      "posted_at": "2026-09-06T19:53:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12644",
       "reply": null
     }
   ]

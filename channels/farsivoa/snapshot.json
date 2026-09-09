@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T06:11:58.332Z",
+  "fetched_at": "2026-09-09T06:18:12.889Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229949",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "کره جنوبی هیئتی برای ارزیابی وضعیت تنگه هرمز اعزام کرد که نشانه‌ای از جدی‌تر شدن بررسی اعزام نظامی به درخواست آمریکا است.<br><br>وزارت دفاع کره جنوبی شامگاه سه‌شنبه اعلام کرد: «هدف این هیئت سنجش شرایط سیاسی و امنیتی منطقه است. ارزیابی به‌خودی‌خود پیش‌فرض اعزام نظامی نیست.»<br><br>بر پایه گزارش خبرگزاری یونهاپ، هیئت آخر هفته گذشته راهی امارات متحده عربی شد و پس از بازگشت یافته‌هایش را به شورای امنیت ملی گزارش می‌دهد.<br><br>وزارت دفاع کره جنوبی به دلیل ملاحظات امنیتی محل استقرار هیئت را تأیید نکرد.<br><br>جمهوری اسلامی روز دوشنبه هشدار داد هرگونه مشارکت نظامی کره جنوبی در خلیج فارس «پیامدهای جدی» خواهد داشت.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "کره جنوبی هیئتی برای ارزیابی وضعیت تنگه هرمز اعزام کرد که نشانه‌ای از جدی‌تر شدن بررسی اعزام نظامی به درخواست آمریکا است.\n\nوزارت دفاع کره جنوبی شامگاه سه‌شنبه اعلام کرد: «هدف این هیئت سنجش شرایط سیاسی و امنیتی منطقه است. ارزیابی به‌خودی‌خود پیش‌فرض اعزام نظامی نیست.»\n\nبر پایه گزارش خبرگزاری یونهاپ، هیئت آخر هفته گذشته راهی امارات متحده عربی شد و پس از بازگشت یافته‌هایش را به شورای امنیت ملی گزارش می‌دهد.\n\nوزارت دفاع کره جنوبی به دلیل ملاحظات امنیتی محل استقرار هیئت را تأیید نکرد.\n\nجمهوری اسلامی روز دوشنبه هشدار داد هرگونه مشارکت نظامی کره جنوبی در خلیج فارس «پیامدهای جدی» خواهد داشت.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229949",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/SYROT6ZsOWO4wlBnkZINTDmQwD5Bco4hfO2Nok4EwkgcWI0ZshIetlQ6PlKJn_bVnOVMnBE6gQ7JUpjzPoWKZenau3erwJK5r8a8oiZb1dWPmLVXF1eBVoEMemnE1JkUqW5NW8CmxhpOheQXR2MQeqA_-ubPbzumldhd6fiDr9h3Qu6-4QK3Bfg29N34wcJR4RiBbVyEctNM734xjZrrkUZha39SlWQX_msY-2t3gS7CX7U3aE2HGIGVHxAAiOdt2pm5yK5F1r6viOWfHRGW6Yb1AV97MoQH_BVWofcRyvIUNiCkiP1EZQwiZhGMtfb5xl3o3hVzYjeRodU6f6tjbg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/81fb370d63b46beb0c1988f0.jpg",
+          "thumbnail_sha256": "a6d3aa8065fb0e70c4f99d165a941ce75aeb95a7e73f4f4d5d234fef4e973b15",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-09T06:18:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229949",
+      "reply": null
+    },
     {
       "id": "farsivoa/229948",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "387",
+      "views_label": "700",
       "posted_at": "2026-09-09T06:07:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229948",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.06K",
+      "views_label": "1.37K",
       "posted_at": "2026-09-09T05:48:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229947",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.6K",
+      "views_label": "1.82K",
       "posted_at": "2026-09-09T05:31:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229946",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.86K",
+      "views_label": "2.02K",
       "posted_at": "2026-09-09T05:20:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229945",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.05K",
+      "views_label": "2.21K",
       "posted_at": "2026-09-09T05:11:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229944",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.02K",
+      "views_label": "5.09K",
       "posted_at": "2026-09-09T02:31:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229943",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.9K",
+      "views_label": "5K",
       "posted_at": "2026-09-09T02:29:15+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229942",
@@ -217,7 +245,7 @@
       "plain_text": "🔺سنتکام: جمهوری اسلامی ابزاری برای دفاع از کشتی‌هایش ندارد؛ نفتکش‌های سپاه را منهدم کردیم\n\n▪️ستاد فرماندهی مرکزی آمریکا، سه‌‌شنبه شب به وقت واشنگتن (بامداد چهارشنبه به وقت تهران) ویدیوی انهدام نفتکش ری‌یسکو، یکی از ۵ نفتکش جمهوری اسلامی را که ساعاتی قبل منهدم کرد، منتشر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195937.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "4.7K",
+      "views_label": "4.79K",
       "posted_at": "2026-09-09T02:25:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229941",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.17K",
+      "views_label": "4.23K",
       "posted_at": "2026-09-09T02:15:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229940",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.11K",
+      "views_label": "4.18K",
       "posted_at": "2026-09-09T02:03:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229939",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.22K",
+      "views_label": "4.29K",
       "posted_at": "2026-09-09T01:38:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229938",
@@ -317,7 +345,7 @@
       "plain_text": "🔺اردن: جمهوری اسلامی ۲۰ موشک شلیک کرد؛ ۱۸ فروند منهدم شد و دو موشک در فضای باز فرود آمد\n\n▪️در پی حمله موشکی جمهوری اسلامی به اردن که اوایل چهارشنبه ۱۸ شهریور صورت گرفت و ادعاهای منتشر شده در شبکه‌های اجتماعی که تعداد زیادی از نیروهای آمریکایی مجروح شده‌اند، رویترز به نقل از یک مقام آمریکایی این موضوع را رد کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195936.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "4.19K",
+      "views_label": "4.25K",
       "posted_at": "2026-09-09T01:32:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229937",
@@ -345,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.78K",
+      "views_label": "3.81K",
       "posted_at": "2026-09-09T01:09:36+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229936",
@@ -361,7 +389,7 @@
       "plain_text": "🔺ممنوعیت روسری برای دختران زیر ۱۴ سال در مدارس اتریش اجرایی شد؛ دولت: هدف حمایت از آزادی دختران است\n\n▪️ممنوعیت استفاده از روسری برای دختران زیر ۱۴ سال در مدارس اتریش، از روز دوشنبه و هم‌زمان با نخستین روز سال تحصیلی در بخشی از این کشور اجرایی شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/austria-enforces-school-headscarf-ban/8195695.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.63K",
+      "views_label": "3.7K",
       "posted_at": "2026-09-09T01:06:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229935",
@@ -389,7 +417,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.94K",
+      "views_label": "4.01K",
       "posted_at": "2026-09-09T00:01:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229934",
@@ -405,7 +433,7 @@
       "plain_text": "🔺حمله موشکی جمهوری اسلامی به اردن در پی انهدام پنج نفکش توسط سنتکام\n\n▪️خبرگزاری آسوشیتدپرس می‌گوید جمهوری اسلامی بامداد چهارشنبه «به اهداف آمریکایی» در اردن حملات موشکی کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195722.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "4.15K",
+      "views_label": "4.18K",
       "posted_at": "2026-09-08T23:50:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229933",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.96K",
+      "views_label": "3.99K",
       "posted_at": "2026-09-08T23:45:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229932",
@@ -461,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.99K",
+      "views_label": "4.02K",
       "posted_at": "2026-09-08T23:34:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229931",
@@ -477,7 +505,7 @@
       "plain_text": "🔺روبیو: جمهوری اسلامی به ازای هر تلاش برای حمله به ناوهای آمریکایی نفتکش‌هایی را از دست خواهد داد\n\n▪️مارکو روبیو، وزیر امور خارجه آمریکا، روز سه‌شنبه ۱۷ شهریور در گفت‌وگو با خبرنگاران درباره حملات اخیر به نفتکش‌های جمهوری اسلامی گفت جمهوری اسلامی همچنان تلاش می‌کند ناوهای نیروی دریایی آمریکا را هدف قرار دهد و واشنگتن در پاسخ به هرگونه حمله یا تلاش برای حمله، نفتکش‌های آن را هدف خواهد گرفت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195716.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.98K",
+      "views_label": "4.05K",
       "posted_at": "2026-09-08T23:32:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229930",
@@ -2469,34 +2497,6 @@
       "posted_at": "2026-09-08T11:51:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229849",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229848",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "وزیر امور خارجه روسیه، گفت رهبران اروپایی از پیشنهادهای دونالد ترامپ، رئیس‌جمهوری آمریکا، برای حل درگیری اوکراین «تا حد مرگ ترسیدند» و بی‌وقفه کوشیدند تلاش‌های سازش‌جویانه واشینگتن را خنثی کنند.<br><br>بنابر گزارش شبکه دولتی روسیه آر‌تی، سرگئی لاوروف، اعضای اروپایی ناتو را متهم کرد می‌کوشند مانع بازگشت آقای ترامپ به ایده‌هایی شوند که سال گذشته در آلاسکا با ولادیمیر پوتین بررسی کرده بود.<br><br>وزیر امور خارجه روسیه به کشورهای اروپایی درباره پیامدهای رویارویی نظامی احتمالی با مسکو هشدار داد. او در عین حال موضع پوتین را تکرار کرد که روسیه قصد حمله به اروپا ندارد.<br><br>لاوروف افزود اگر کشورهای اروپایی به روسیه حمله کنند، جنگ «از اساس نوع دیگری» و «بسیار کوتاه» خواهد بود و به‌سرعت به شکست اروپا می‌انجامد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "وزیر امور خارجه روسیه، گفت رهبران اروپایی از پیشنهادهای دونالد ترامپ، رئیس‌جمهوری آمریکا، برای حل درگیری اوکراین «تا حد مرگ ترسیدند» و بی‌وقفه کوشیدند تلاش‌های سازش‌جویانه واشینگتن را خنثی کنند.\n\nبنابر گزارش شبکه دولتی روسیه آر‌تی، سرگئی لاوروف، اعضای اروپایی ناتو را متهم کرد می‌کوشند مانع بازگشت آقای ترامپ به ایده‌هایی شوند که سال گذشته در آلاسکا با ولادیمیر پوتین بررسی کرده بود.\n\nوزیر امور خارجه روسیه به کشورهای اروپایی درباره پیامدهای رویارویی نظامی احتمالی با مسکو هشدار داد. او در عین حال موضع پوتین را تکرار کرد که روسیه قصد حمله به اروپا ندارد.\n\nلاوروف افزود اگر کشورهای اروپایی به روسیه حمله کنند، جنگ «از اساس نوع دیگری» و «بسیار کوتاه» خواهد بود و به‌سرعت به شکست اروپا می‌انجامد.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229848",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/YU26uunYXegn8WeVgLH03XtV07GchWXu80mHP4I9RjjIDVKnj_ePXhxu-0yNLFj4_z25qMPRWtCdnnGGODsk49ftKDatuO8gDREjNxPT1WTOTeDn3Hz5bI0GWFAwzxu8Yp8Sd-hIpWrwb0KEZovh45XKbxNB25dTatwLeKFd6aN54_nwpICw_zUjnx4h64a1OG_Yn8Q6jqfN7EmymMU8hDpbzQynwOWshfZx2H8igeMYau2XZusj7ainSPehYPHi67xnI58O_T-E7kn_06wguUOzFs1ZLlL5nQKZm8XRDJgAGUy04BA_ScSew0vo6_2_tiysQDADZvw5NNeg3cQWuQ.jpg",
-          "thumbnail_path": "channels/farsivoa/media/75193e4168d2ce83b23b58c3.jpg",
-          "thumbnail_sha256": "718e8802b8a0bab1cc0decb560a0c816a1429e220a09d36eb32b131287cf3eb8",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.52K",
-      "posted_at": "2026-09-08T11:44:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229848",
       "reply": null
     }
   ]
