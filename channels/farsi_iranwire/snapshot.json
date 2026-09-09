@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T18:58:23.886Z",
+  "fetched_at": "2026-09-09T19:03:59.340Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,62 @@
     "subscriber_count": "47.8K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93534",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "طبق اطلاع ایران‌وایر، میلاد مروتی، کتابفروش و دانشجوی رشته حقوق اهل مهاباد، پس از ۴۳ روز بازداشت، روز چهارشنبه ۱۸ شهریور، با وثیقه پنج میلیارد تومانی از زندان مهاباد آزاد شد.<br><br><br>بیشتر بخوانید: <a href=\"https://iranwire.com/fa/news-1/157402\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157402</a><br><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "طبق اطلاع ایران‌وایر، میلاد مروتی، کتابفروش و دانشجوی رشته حقوق اهل مهاباد، پس از ۴۳ روز بازداشت، روز چهارشنبه ۱۸ شهریور، با وثیقه پنج میلیارد تومانی از زندان مهاباد آزاد شد.\n\n\nبیشتر بخوانید: https://iranwire.com/fa/news-1/157402\n\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93534",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/HCSIDEUB1W0BezUExm5GGEsDDuAjfnApgqmUu9ul1ZeJuC579c6YXy-9vH5afAIWrN32UqXnKzuS2g4NkD9rLpzrvE1c4SQZzBGmuKsVEfUVPYNbHi-8HGYL4U3oFEVJnGJYQMWSoXduRMHY-CgQ2v6-fl1PfuMxi_4GvUFMhKa33YGjgh7sBxLKSvs27YFwQTsTVGjFcNWf_yI0X6n8o86Ww8NXIhnaQoR5E-fxq3TIcIDrAAMXOjGRl7onBPNWYUXBzCRf5gelcBE_awffhGHeqHdPTfoxeigfyqOWdhrhSLj8tsJhsF17BUKoNIykpOrW-AdmMDRNScekqQeJzQ.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/c51905a93af5a2dcc6b55b59.jpg",
+          "thumbnail_sha256": "9dc2d5086628c580051d81c13ff4b131afeb42eaf077bd737cfd154bd10afc1d",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "114",
+      "posted_at": "2026-09-09T18:58:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93534",
+      "reply": null
+    },
+    {
+      "id": "Farsi_Iranwire/93533",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "نرخ سوم بنزین دو برابر شد و به ۱۰ هزار تومان رسید؛ تصمیمی که بار دیگر بحث درباره قیمت سوخت و تأثیر آن بر زندگی مردم را داغ کرده است.<br>دولت می‌گوید افزایش قیمت با هدف مدیریت مصرف و اصلاح یارانه سوخت انجام شده، اما پرسش اینجاست: افزایش قیمت بنزین چه اثری بر هزینه حمل‌ونقل، قیمت کالاها و تورم خواهد گذاشت؟<br>آیا بنزین ۱۰ هزار تومانی فقط یک تغییر در قیمت سوخت است یا می‌تواند آغاز موج تازه‌ای از افزایش هزینه‌های زندگی باشد؟<br>در گفت‌وگو با آرش حسن‌نیا، خبرنگار اقتصادی، ابعاد این تصمیم و پیامدهای آن برای اقتصاد و معیشت مردم را بررسی کرده‌ایم.<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "نرخ سوم بنزین دو برابر شد و به ۱۰ هزار تومان رسید؛ تصمیمی که بار دیگر بحث درباره قیمت سوخت و تأثیر آن بر زندگی مردم را داغ کرده است.\nدولت می‌گوید افزایش قیمت با هدف مدیریت مصرف و اصلاح یارانه سوخت انجام شده، اما پرسش اینجاست: افزایش قیمت بنزین چه اثری بر هزینه حمل‌ونقل، قیمت کالاها و تورم خواهد گذاشت؟\nآیا بنزین ۱۰ هزار تومانی فقط یک تغییر در قیمت سوخت است یا می‌تواند آغاز موج تازه‌ای از افزایش هزینه‌های زندگی باشد؟\nدر گفت‌وگو با آرش حسن‌نیا، خبرنگار اقتصادی، ابعاد این تصمیم و پیامدهای آن برای اقتصاد و معیشت مردم را بررسی کرده‌ایم.\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Farsi_Iranwire/93533",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/L_XYkhhvcjyo9tDFnTj1c-o39jdWvdNdoToBspUJnE8u2GHalv0_ESboTxMHPiIpqMThOGon1Zs7R9vULaitA38Nq0oxi7O84Lv3xVNmxb9qowRfUhmwDsJlKyGJf2SBa9B6JBh34oKW1Pc6rohJVnJ4rQti4YFMX90UP-5afzEvMAmYuXzHkX9e3IwzZELOTBU7stM0coh3yIfjiOk-AwHU9p2tTS_9LXwvC6j_BwzpQnoVfiwDFheixnr9fMYUUYRifYKg-aG1yKTWGHBIll7Qhm17iNmRWAuVGF7J2rJs2eSeNd5hQ_ri1uCir5GKDZSZEq6c5E0mxgFJYvj15g",
+          "thumbnail_path": "channels/farsi_iranwire/media/f2ce1666000bc05e09c9726b.jpg",
+          "thumbnail_sha256": "e45ad257b2f50def95378a16ce3a877f55c6626c57bd8d97844ee73a1b132370",
+          "duration_label": "2:33",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "111",
+      "posted_at": "2026-09-09T18:58:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93533",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93532",
       "author_name": "Iranwire",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39",
+      "views_label": "144",
       "posted_at": "2026-09-09T18:55:55+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93532",
@@ -61,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "412",
+      "views_label": "465",
       "posted_at": "2026-09-09T18:22:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93531",
@@ -89,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "857",
+      "views_label": "886",
       "posted_at": "2026-09-09T16:54:42+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93530",
@@ -117,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "913",
+      "views_label": "939",
       "posted_at": "2026-09-09T16:24:47+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93529",
@@ -145,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.15K",
+      "views_label": "1.17K",
       "posted_at": "2026-09-09T15:14:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93528",
@@ -173,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.03K",
+      "views_label": "1.05K",
       "posted_at": "2026-09-09T15:03:58+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93527",
@@ -201,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "911",
+      "views_label": "923",
       "posted_at": "2026-09-09T15:00:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93526",
@@ -229,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "963",
+      "views_label": "973",
       "posted_at": "2026-09-09T14:41:21+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93525",
@@ -257,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "896",
+      "views_label": "904",
       "posted_at": "2026-09-09T14:30:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93524",
@@ -285,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "830",
+      "views_label": "841",
       "posted_at": "2026-09-09T14:29:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93523",
@@ -313,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.15K",
+      "views_label": "1.16K",
       "posted_at": "2026-09-09T13:02:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93522",
@@ -341,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.16K",
+      "views_label": "1.18K",
       "posted_at": "2026-09-09T12:42:53+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93521",
@@ -369,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.06K",
+      "views_label": "1.08K",
       "posted_at": "2026-09-09T12:31:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93520",
@@ -397,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.17K",
+      "views_label": "1.18K",
       "posted_at": "2026-09-09T12:01:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93519",
@@ -425,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.17K",
+      "views_label": "1.18K",
       "posted_at": "2026-09-09T11:38:33+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93518",
@@ -453,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.13K",
+      "views_label": "1.14K",
       "posted_at": "2026-09-09T11:25:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93517",
@@ -509,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.12K",
+      "views_label": "1.13K",
       "posted_at": "2026-09-09T10:47:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93515",
@@ -2753,62 +2809,6 @@
       "posted_at": "2026-09-07T08:00:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93433",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93432",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "آمریکا، بریتانیا، فرانسه و آلمان پیش‌نویس قطعنامه‌ای را برای بررسی در نشست شورای حکام آژانس بین‌المللی انرژی اتمی تهیه کرده‌اند که خواستار ارسال قطعنامه‌های مربوط به عدم پایبندی ایران به شورای امنیت و مجمع عمومی سازمان ملل متحد است.<br><br>بر اساس متن این پیش‌نویس که رویترز نیز آن را مشاهده کرده است، شورای حکام بار دیگر از ایران می‌خواهد هرچه سریع‌تر موارد عدم پایبندی به موافقتنامه پادمان را با انجام اقداماتی که آژانس و شورا ضروری می‌دانند، برطرف کند تا مدیرکل بتواند درباره درستی و کامل‌بودن اظهارنامه‌های ایران و عدم انحراف مواد هسته‌ای تحت پادمان اطمینان لازم را ارائه دهد.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157251\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157251</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "آمریکا، بریتانیا، فرانسه و آلمان پیش‌نویس قطعنامه‌ای را برای بررسی در نشست شورای حکام آژانس بین‌المللی انرژی اتمی تهیه کرده‌اند که خواستار ارسال قطعنامه‌های مربوط به عدم پایبندی ایران به شورای امنیت و مجمع عمومی سازمان ملل متحد است.\n\nبر اساس متن این پیش‌نویس که رویترز نیز آن را مشاهده کرده است، شورای حکام بار دیگر از ایران می‌خواهد هرچه سریع‌تر موارد عدم پایبندی به موافقتنامه پادمان را با انجام اقداماتی که آژانس و شورا ضروری می‌دانند، برطرف کند تا مدیرکل بتواند درباره درستی و کامل‌بودن اظهارنامه‌های ایران و عدم انحراف مواد هسته‌ای تحت پادمان اطمینان لازم را ارائه دهد.\nبخوانید: https://iranwire.com/fa/news-1/157251\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93432",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/kQHcPULRTzJXqaQQhMBpoqLEy6TxH-1NDBmZqtqgW7DVi7vX5VfKnJaC21EUbOVUqrceaHRbToMygpwM3Vh0eE8-MIQdZaHjKA5f8mjnZPRnZJsoBgTrpWikfHiJsOqq9MV1_BFZbBZsyTfliQigmx6wqzGaNSmYb4m8zltjvQ7PTlqRRy8a6GCnpQ59yb4lJEW3ihCFAof3Xh0sk1mpPaYZl8YJxKDLeqXX3c8BOx14vi7aOlT3NKhUXV9cneaJZXr5CPOPXaBWeoxdKvKzd0P6S1upFgQxEYLFDZvweZWfMmE_Y5CrqdkqtD9ZtEr_LxUz_A2Jz0xc2_g_VPC1yg.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/4009f70bc388f66ba19e67d5.jpg",
-          "thumbnail_sha256": "641aaa1285d26226abb9e07d5ded5187df14bf6c9333848c2c548cef7549d548",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.08K",
-      "posted_at": "2026-09-07T07:43:45+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93432",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93431",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "رسانه‌های ایران، از کشته‌شدن دو عضو سپاه پاسداران در حمله مسلحانه به خودروی آن‌ها در استان سیستان و بلوچستان خبر داده‌اند. <br><br>خبرگزاری صداوسیمای جمهوری اسلامی گزارش داده که این حمله در منطقه «کورین» زاهدان رخ داده و دو نیروی کشته‌شده از اعضای قرارگاه «شهید میرحسینی»، از قرارگاه‌های نیروی زمینی سپاه پاسداران در استان سیستان و بلوچستان، بوده‌اند.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157248\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157248</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "رسانه‌های ایران، از کشته‌شدن دو عضو سپاه پاسداران در حمله مسلحانه به خودروی آن‌ها در استان سیستان و بلوچستان خبر داده‌اند.\n\nخبرگزاری صداوسیمای جمهوری اسلامی گزارش داده که این حمله در منطقه «کورین» زاهدان رخ داده و دو نیروی کشته‌شده از اعضای قرارگاه «شهید میرحسینی»، از قرارگاه‌های نیروی زمینی سپاه پاسداران در استان سیستان و بلوچستان، بوده‌اند.\nبخوانید: https://iranwire.com/fa/news-1/157248\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93431",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/d2Oc3jDcFsdSzG09nqwhjOEyBdizLB6QH8jGV8VHzBAPyAhDUHbPyPEJKpignUL6adxXxPb7KxM8MM4yPPyO349ImNqMiQTxE3pyswKJjiVVyVVBG9ln-NI3-xAfML2VsZJZJLUMqUs0KWHrwozYZ4RSi-wCEzgfDEyRBEA5Az76KEstm8lhdm-WiZkcnBV0qTuh1vgLKfCfD-XgmenOHLUOh-HRbggViNtGTTRD2cymofvYBjesebkx90j2BwV7vplnSA8jDDqT89KrPBsILS6RNAX39LB_D0MZ9jN9HbCOjKEd13TTAblomxjOnGq3gk7xxws0Ex7oA8kykqCBfQ.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/e356badfcdce730e7bdde9d4.jpg",
-          "thumbnail_sha256": "f1083ee024f61bb62ef5bb32206f7a70623eb714290b6a214e262aefb4d15ee4",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.14K",
-      "posted_at": "2026-09-07T07:16:37+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93431",
       "reply": null
     }
   ]
