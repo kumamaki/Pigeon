@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T10:41:36.972Z",
+  "fetched_at": "2026-09-09T10:47:08.603Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229970",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "مشاور رئیس امارات متحده عربی از تلاش کشورش برای تقویت همکاری دفاعی با آلمان به ویژه در حوزه مقابله با پهپادها خبر داد.<br><br>انور قرقاش پیش از سفر رسمی رئیس امارات متحده عربی به آلمان، در گفت‌وگو با رسانه‌‌های این کشور، اعلام کرد: «اکنون زمان آن رسیده که روابط دو کشور را به سطح بعدی ارتقا دهیم. به عنوان نمونه آیا می‌توانیم برای ایجاد توانمندی‌هایی در زمینه مقابله با پهپادها با یکدیگر همکاری کنیم؟»<br><br>وی یادآور شد: «جنگ‌های اوکراین و ایران نشان دادند که جهان به اندازه کافی برای مقابله با موشک‌‌ها و پهپادهای امروزی آمادگی ندارد.»<br><br>مشاور رئیس امارات اظهار امیدواری کرد که تقویت همکاری‌های دفاعی با آلمان، به ثبات و امنیت در منطقه کمک کند.<br><br>محمد بن زاید، رئیس امارات متحده عربی، قرار است پنجشنبه ۱۹ شهریور، سفر رسمی خود را به آلمان آغاز کند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "مشاور رئیس امارات متحده عربی از تلاش کشورش برای تقویت همکاری دفاعی با آلمان به ویژه در حوزه مقابله با پهپادها خبر داد.\n\nانور قرقاش پیش از سفر رسمی رئیس امارات متحده عربی به آلمان، در گفت‌وگو با رسانه‌‌های این کشور، اعلام کرد: «اکنون زمان آن رسیده که روابط دو کشور را به سطح بعدی ارتقا دهیم. به عنوان نمونه آیا می‌توانیم برای ایجاد توانمندی‌هایی در زمینه مقابله با پهپادها با یکدیگر همکاری کنیم؟»\n\nوی یادآور شد: «جنگ‌های اوکراین و ایران نشان دادند که جهان به اندازه کافی برای مقابله با موشک‌‌ها و پهپادهای امروزی آمادگی ندارد.»\n\nمشاور رئیس امارات اظهار امیدواری کرد که تقویت همکاری‌های دفاعی با آلمان، به ثبات و امنیت در منطقه کمک کند.\n\nمحمد بن زاید، رئیس امارات متحده عربی، قرار است پنجشنبه ۱۹ شهریور، سفر رسمی خود را به آلمان آغاز کند.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229970",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/kOTCZHdgqYybB7r600UgpYYSbiCvM4pA9TcoSIIXC-1wPQlVaV0v3ifSlJ95ZVUv0qE8kJpgIDA4l5r0W5pikvx85OsIiREBD_GmLeyHjzm51XuB_KEU_SxpTqMOiFzew7fEbVL3RcxDsCmVDXgkW5UahEMqNujkAsfB1GlfUimL_tdQzM7fS9B4qyO0ucQsISpgaLLwNtlyNSg4A4MuuYFr7Hvyskt9GAUAeT2k4KJbdpqGOhx61KGjYmMbfwyk5T_EJb9q9tWsLyCAI1J4tvxXLbtj2ghgHX19wI2EQ3ImlVsFlQR8Re1mWuVar_wIJo3MQ5BdS55yfUIShIVUoA.jpg",
+          "thumbnail_path": "channels/farsivoa/media/89ee2aaaeee01a3ddad05258.jpg",
+          "thumbnail_sha256": "bda573488151649be1d0fc5853c52fb0f0791718c9bbf41a8ec88e976bafcf83",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "190",
+      "posted_at": "2026-09-09T10:44:50+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229970",
+      "reply": null
+    },
     {
       "id": "farsivoa/229969",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "457",
+      "views_label": "739",
       "posted_at": "2026-09-09T10:32:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229969",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.02K",
+      "views_label": "1.18K",
       "posted_at": "2026-09-09T10:21:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229968",
@@ -77,7 +105,7 @@
       "plain_text": "🔺ژاپن پس از مخالفت با طرح جمهوری اسلامی درباره تنگه هرمز با عمان گفت‌وگو کرد\n\n▪️ژاپن و عمان نشست گفت‌وگوی حقوق بین‌الملل خود را با محوریت تنگه هرمز به‌صورت ویدئوکنفرانس برگزار کردند. این گفت‌وگو پس از آن انجام شد که ژاپن به جمهوری اسلامی اعلام کرد تعیین وضعیت تنگه هرمز به صورت دوجانبه بین ایران و عمان را قبول ندارد.\n\n▪️بر پایه اعلام وزارت امور خارجه ژاپن، دو طرف در روز سه‌شنبه دیدگاه‌های خود را درباره مسائل حقوق بین‌الملل مربوط به وضعیت پیرامون تنگه هرمز رد و بدل کردند.\n\n▪️هیئت ژاپن را کازوهیکو ناکامورا، مشاور حقوقی و مدیرکل اداره امور حقوقی بین‌المللی وزارت امور خارجه، رهبری کرد. از سوی عمان، ثانی حارث المحروقی، رئیس دفتر فلات قاره و امور دریایی، شرکت کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195984.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.34K",
+      "views_label": "1.5K",
       "posted_at": "2026-09-09T10:13:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229967",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.78K",
+      "views_label": "1.9K",
       "posted_at": "2026-09-09T09:56:59+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229966",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.01K",
+      "views_label": "2.1K",
       "posted_at": "2026-09-09T09:46:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229965",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.99K",
+      "views_label": "2.05K",
       "posted_at": "2026-09-09T09:37:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229964",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.06K",
+      "views_label": "2.15K",
       "posted_at": "2026-09-09T09:22:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229963",
@@ -205,7 +233,7 @@
       "plain_text": "🔺دلار یک رکورد تاریخی دیگر به جا گذاشت و به ۲۳۱ هزار تومان رسید\n\n▪️قیمت دلار در بازار آزاد ایران روز چهارشنبه به ۲۳۱ هزار تومان رسید که این رقم ۲۵ درصد بالاتر از قیمت یک ماه پیش و ۱۲۵ درصد بالاتر از قیمت دلار در سال گذشته است. دلار سال گذشته در چنین ایامی حدود ۱۰۲ هزار تومان معامله می‌شد.\n\n▪️دلار روز شنبه دو هفته پیش با ۲۰۶ هزار و ۴۰۰ تومان بسته شد و از پی آن هر روز رکورد تازه‌ای زد. نرخ روز یکشنبه برای ساعتی از ۲۳۰ هزار تومان گذشت، سپس با ورود بانک مرکزی به ۲۲۵ هزار تومان عقب نشست.\n\n▪️در بازار سکه، سکه امامی به ۲۴۰ میلیون تومان رسید، و سکه بهار آزادی ۲۳۶ میلیون و ۹۰ هزار تومان، نیم‌سکه ۱۲۲ میلیون و ۴۰۰ هزار تومان و ربع‌سکه ۶۶ میلیون تومان قیمت خورد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195981.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.28K",
+      "views_label": "2.38K",
       "posted_at": "2026-09-09T09:12:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229962",
@@ -221,7 +249,7 @@
       "plain_text": "🔺کانادا و فرانسه به ممنوعیت تجارت با شهرک‌های اسرائیل پیوستند\n\n▪️کانادا و فرانسه در بیانیه‌ای مشترک ممنوعیت واردات کالاهای تولیدشده در شهرک‌های اسرائیل در کرانه باختری را اعلام کردند.\n\n▪️بر پایه گزارش آسوشیتدپرس، فرانسه همزمان برای اعمال ممنوعیت سراسری در اتحادیه اروپا فشار می‌آورد.\n\n▪️با این تصمیم، فرانسه و کانادا به ایرلند، اسپانیا، نروژ، بلژیک و هلند پیوستند که پیش‌تر اقدام‌های مشابهی انجام داده بودند.\n\n▪️اد میلیبند، وزیر امور خارجه بریتانیا، نیز سه‌شنبه ممنوعیت‌هایی را در این زمینه در مجلس عوام اعلام کرد. اما اسرائیل ساعاتی بعد از رشته‌ای از اقدام‌های تلافی‌جویانه خبر داد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195979.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.48K",
+      "views_label": "2.51K",
       "posted_at": "2026-09-09T08:56:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229961",
@@ -237,7 +265,7 @@
       "plain_text": "🔺هزینه عبور نفتکش‌ها از هرمز به ۱۰ تا ۲۰ میلیون دلار رسید\n\n▪️مدیر شرکت ملی نفت امارات گفت مجموع هزینه عبور از تنگه هرمز به محدوده ۱۰ تا ۲۰ میلیون دلار رسیده و برخی فعالان بازار تصمیم گرفته‌اند اصلاً بیمه نگیرند.\n\n▪️پاول برادشاو روز چهارشنبه در کنفرانس نفت آسیا و اقیانوسیه در سنگاپور گفت جهش شدید حق بیمه ریسک جنگ و هزینه بیمه محموله عامل اصلی است.\n\n▪️حق بیمه ریسک جنگ بر پایه ارزش بدنه شناور نیز جهش کرده است. بر پایه گزارش نشریه نشنال، نرخ‌ها از یک‌چهارم درصد پیش از ۹ اسفند به سه تا ۱۰ درصد رسیده است. نفتکشی به ارزش ۱۰۰ میلیون دلار اکنون سه تا ۱۰ میلیون دلار می‌پردازد که پیش از جنگ حدود ۲۵۰ هزار دلار بود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195980.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.86K",
+      "views_label": "2.93K",
       "posted_at": "2026-09-09T08:29:30+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229960",
@@ -265,7 +293,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.82K",
+      "views_label": "2.85K",
       "posted_at": "2026-09-09T08:14:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229959",
@@ -293,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.78K",
+      "views_label": "2.81K",
       "posted_at": "2026-09-09T08:05:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229958",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.84K",
+      "views_label": "2.87K",
       "posted_at": "2026-09-09T07:55:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229957",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.88K",
+      "views_label": "2.92K",
       "posted_at": "2026-09-09T07:41:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229956",
@@ -365,7 +393,7 @@
       "plain_text": "🔺حمله پهپادی روسیه به گذرگاه مرزی اوکراین و مولداوی\n\n▪️پهپادهای روسیه شامگاه سه‌شنبه گذرگاه مرزی میان اوکراین و مولداوی را هدف قرار دادند و چندین کشته، زخمی و آتش‌سوزی بر جای گذاشتند.\n\n▪️روسیه شامگاه گذشته کی‌یف را نیز هدف گرفت. سازمان خدمات اضطراری اوکراین در تلگرام اعلام کرد حمله آتش‌سوزی ایجاد کرد اما تلفاتی نداشت.\n\n▪️بر پایه اعلام وزارت زیرساخت اوکراین، روسیه ظرف یک هفته گذشته چهار بار گذرگاه‌های مرزی جنوب این کشور را مورد حمله قرار داده است. گذرگاه تاباکی-میرنویه با مولداوی در میان اهداف بود و زیرساخت آنجا ویران شد.\n\n▪️حمله شامگاه دوشنبه به پایتخت اوکراین مرگبارتر بود. بر پایه گزارش کی‌یف ایندیپندنت، این حمله پنج کشته و ۲۹ زخمی بر جای گذاشت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195977.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.98K",
+      "views_label": "3.02K",
       "posted_at": "2026-09-09T07:28:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229955",
@@ -393,7 +421,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.06K",
+      "views_label": "3.09K",
       "posted_at": "2026-09-09T07:17:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229954",
@@ -421,7 +449,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.27K",
+      "views_label": "3.3K",
       "posted_at": "2026-09-09T07:02:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229952",
@@ -449,7 +477,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.27K",
+      "views_label": "3.31K",
       "posted_at": "2026-09-09T06:52:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229951",
@@ -477,7 +505,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.37K",
+      "views_label": "3.4K",
       "posted_at": "2026-09-09T06:36:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229950",
@@ -2469,34 +2497,6 @@
       "posted_at": "2026-09-08T15:09:26+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229869",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229868",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "حال‌وش ویدیویی از صف کیلومتری خودروها در یک جایگاه سوخت شهرستان سراوان در روز سه‌شنبه ۱۷  شهریور ۱۴۰۵ منتشر کرده است. جمهوری اسلامی بامداد سه‌شنبه ۱۷ شهریور قیمت بنزین موسوم به «سوخت سهمیه جایگاه‌ها» را به‌طور رسمی افزایش داد.",
-      "plain_text": "حال‌وش ویدیویی از صف کیلومتری خودروها در یک جایگاه سوخت شهرستان سراوان در روز سه‌شنبه ۱۷ شهریور ۱۴۰۵ منتشر کرده است. جمهوری اسلامی بامداد سه‌شنبه ۱۷ شهریور قیمت بنزین موسوم به «سوخت سهمیه جایگاه‌ها» را به‌طور رسمی افزایش داد.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229868",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/i0IVnZwNNhprRGKm0B326br2IQ8e_tlDeM-A32WlsEAKIhlKVBgnRJZQfLu9jPZxuENoOTF9P1oCGkg-pg40HEzA8UenhX6dAWJKwxHOcOBgJgPByJWhIkOeriLT949wYs9yxPpU8gODdPMNKMt8XCESuvsZ6WY64mB2MPlcrnZmU-8BZBGIUbqC0vDBalvpYmzQ1uTl3oXCVOtn8BiVOSnT8hi2tEJA0ifGTZN1CF6nqOYFjhu3DQ40bpwfSdyZ3RpkTrTumbybpIe3elQFou0Wc9lpfBuOFhGnQ7SI2onenZ6VAZdcfST-pYcTHiYz-SW4EVSHepWEBoAPjlmZKg",
-          "thumbnail_path": "channels/farsivoa/media/c91a74ceca920251e2d5794a.jpg",
-          "thumbnail_sha256": "27b9bb8db4939180d026c290090234f43ca3f7b8de8c423c1896f6a99acfa2b1",
-          "duration_label": "0:37",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.74K",
-      "posted_at": "2026-09-08T14:57:27+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229868",
       "reply": null
     }
   ]
