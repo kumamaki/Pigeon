@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T14:01:35.584Z",
+  "fetched_at": "2026-09-09T14:07:49.134Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229989",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "پس از حملات سپاه به منافع آمریکا در منطقه، نیروهای آمریکایی پنج نفتکش جمهوری اسلامی را منهدم کردند. همزمان، مقام‌های حکومت ایران تهدیدهای تازه‌ای علیه آمریکا مطرح کرده‌اند و سپاه نیز مدعی حمله به شناورها و ناوشکن‌های آمریکایی شده است؛ ادعاهایی که تأیید نشده‌اند.",
+      "plain_text": "پس از حملات سپاه به منافع آمریکا در منطقه، نیروهای آمریکایی پنج نفتکش جمهوری اسلامی را منهدم کردند. همزمان، مقام‌های حکومت ایران تهدیدهای تازه‌ای علیه آمریکا مطرح کرده‌اند و سپاه نیز مدعی حمله به شناورها و ناوشکن‌های آمریکایی شده است؛ ادعاهایی که تأیید نشده‌اند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229989",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/hWuOWUWIOJsJXLQpU9HBkqlBUzWszV70OcYEMvDYT4qq793kV5ywmPLEn8Gi11N-WaqppSFtjU_28DK6zpCdNM2KOzZh3RgU7U4eyFH47R6DAiJ5VjKRiPmpKanoJxImS86gQa32UzyAS2GE2VPW6By6aBfNDtGCyuBKtUMmBuWqUK7yiiFOZ4Od_SZR-xhleISdPEqewuH3HGRxezaGDPBtGfSUYqrW4mL5T7FeArCgyeR3EGopf1Wj53c1-zxLNZT8gAA6rJDkT8R7XAifQkdRQOYkc1BF9Uei6Ru4Wh-5A4pKUK5U6GO_6DdoVs8oGpFz1G51MrYFZhx5Thm9LQ",
+          "thumbnail_path": "channels/farsivoa/media/e8c48765aa2348517407ad89.jpg",
+          "thumbnail_sha256": "912d45d9afc9c7889a80db3b7546c36cf7b7c60cc8e6000f5aec5bd122945e00",
+          "duration_label": "2:56",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "362",
+      "posted_at": "2026-09-09T14:02:32+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229989",
+      "reply": null
+    },
     {
       "id": "farsivoa/229988",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "935",
+      "views_label": "1.26K",
       "posted_at": "2026-09-09T13:40:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229988",
@@ -49,7 +77,7 @@
       "plain_text": "🔺گزارش سی‌ان‌ان از افزایش ساخت‌وساز در تاسیسات هسته‌ای مشکوک «کوه کلنگ»\n\n▪️«مرکز مطالعات راهبردی و بین‌المللی» گزارش داد که بررسی تصاویر ماهواره‌ای شش سال گذشته حکایت از افزایش آشکار ساخت‌وساز در سایت مشکوک هسته‌ای «کوه کلنگ» در نزدیکی نطنز دارد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/increase-in-construction-pickaxe-mountain-nuclear-site/8195992.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.43K",
+      "views_label": "1.69K",
       "posted_at": "2026-09-09T13:25:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229987",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.73K",
+      "views_label": "1.86K",
       "posted_at": "2026-09-09T13:14:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229986",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.73K",
+      "views_label": "1.87K",
       "posted_at": "2026-09-09T13:07:16+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229985",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.87K",
+      "views_label": "1.98K",
       "posted_at": "2026-09-09T12:57:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229984",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.87K",
+      "views_label": "1.98K",
       "posted_at": "2026-09-09T12:48:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229982",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.01K",
+      "views_label": "2.07K",
       "posted_at": "2026-09-09T12:35:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229981",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.11K",
+      "views_label": "2.17K",
       "posted_at": "2026-09-09T12:24:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229980",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.18K",
+      "views_label": "2.24K",
       "posted_at": "2026-09-09T12:18:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229979",
@@ -277,7 +305,7 @@
       "plain_text": "🔺سنتکام ادعای سپاه مبنی بر هدف قرار دادن دو ناو جنگی آمریکا را رد کرد\n\n▪️فرماندهی مرکزی ایالات متحده آمریکا با رد ادعای روز چهارشنبه سپاه پاسداران انقلاب اسلامی درباره هدف قرار دادن دو ناوشکن فعال نیروی دریایی آمریکا در خاورمیانه تصریح کرد این ادعا کاملاً نادرست است.\n\n▪️این بیانیه می‌افزاید هیچ ناو جنگی نیروی دریایی آمریکا هدف قرار نگرفته و تمام تلاشهای سپاه پاسداران برای حمله ناکام مانده‌ است.\n\n▪️سنتکام در ادامه گفته است در همین حال، نیروهای آمریکایی تنها در هفته گذشته با موفقیت ۱۰ نفتکش ایرانی را منهدم کرده‌اند: «این نفتکش‌ها بخشی از یک شبکه چندمیلیارد دلاری موسوم به ناوگان سایه بودند که منابع مالی سپاه پاسداران را تأمین می‌کرد و جمهوری اسلامی قادر به دفاع از آنها نیست».\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195990.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.59K",
+      "views_label": "2.65K",
       "posted_at": "2026-09-09T11:59:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229978",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.54K",
+      "views_label": "2.61K",
       "posted_at": "2026-09-09T11:51:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229977",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.48K",
+      "views_label": "2.55K",
       "posted_at": "2026-09-09T11:43:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229975",
@@ -349,7 +377,7 @@
       "plain_text": "🔺آغاز مطالعات امکان‌سنجی احداث خط لوله نفتی جایگزین تنگه هرمز در عراق\n\n▪️وزارت نفت عراق از آغاز مطالعات امکان‌سنجی احداث خط لوله نفتی جایگزین تنگه هرمز در خاک این کشور به مقصد ترکیه و سوریه خبر داد.\n\n▪️صادرات نفت عراق از زمان اخلال جمهوری اسلامی در تنگه هرمز نسبت به دور مشابه پارسال ۶۷ درصد کاهش یافته، اگرچه طی چند ماه گذشته روند صعودی داشته و هم اکنون به سه میلیون بشکه در روز رسیده که دو سوم دیگر با کمک آمریکا و ناوگان امارات از تنگه هرمز می‌گذرد.\n\n▪️عراق در نظر دارد خط لوله نفتی با ظرفیت انتقال روزانه ۲ میلیون بشکه از منطقه نفتی بصره در خلیج فارس به حدیثه احداث کند که از آنجا نیز خطوط لوله جداگانه‌ای به بندر جیهان ترکیه و بندر بانیاس سوریه احداث خواهد شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195985.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.55K",
+      "views_label": "2.61K",
       "posted_at": "2026-09-09T11:35:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229974",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.52K",
+      "views_label": "2.59K",
       "posted_at": "2026-09-09T11:27:45+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229973",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.66K",
+      "views_label": "2.69K",
       "posted_at": "2026-09-09T11:18:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229972",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.89K",
+      "views_label": "2.93K",
       "posted_at": "2026-09-09T11:05:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229971",
@@ -461,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.14K",
+      "views_label": "3.18K",
       "posted_at": "2026-09-09T10:44:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229970",
@@ -489,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.18K",
+      "views_label": "3.22K",
       "posted_at": "2026-09-09T10:32:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229969",
@@ -517,7 +545,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.29K",
+      "views_label": "3.33K",
       "posted_at": "2026-09-09T10:21:43+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229968",
@@ -2493,34 +2521,6 @@
       "posted_at": "2026-09-08T17:27:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229887",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229886",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "ویدیویی منتشرشده در شبکه‌های اجتماعی لحظه فوران یک آتشفشان در اندونزی و جاری شدن مواد مذاب در دامنه آن را نشان می‌دهد. در این تصاویر، جریان گدازه در نزدیکی مناطق مسکونی دیده می‌شود.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "ویدیویی منتشرشده در شبکه‌های اجتماعی لحظه فوران یک آتشفشان در اندونزی و جاری شدن مواد مذاب در دامنه آن را نشان می‌دهد. در این تصاویر، جریان گدازه در نزدیکی مناطق مسکونی دیده می‌شود.\n\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229886",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/idjKHl3JUnilYR6pu26atl3JsyO_-HRNO3YZ3IgWGIIvq2PBqygog2Jj9B5BDIcRG5oHwEGEmyRChbSLLl68-uYrHBzVfhnBQNQbrVOko4IHwUN8mrOOo8pKaRCgZV7RbVp145uM4v_H35UHasfHf555aqC-L1TtsMu4jvL3okvcqugz39RuadWu8_HqhBiwEjttVv9tbTyi-6L23Y8pau2rx6YKsswPDa92xbpZ7x-N9HU_CpGbvXD-X8nYGEo7O8hlagJFLwpELqR2MwOZz6kDb1arFjzAHdYsPpgijrOLVFELKND_QEedWmCaSBA6CZk9Kl2lUGvRTJbMiYZCig",
-          "thumbnail_path": "channels/farsivoa/media/f33096224d49792f35f5d02c.jpg",
-          "thumbnail_sha256": "a9c7c4b9c0af2ec9a79a1ee82a49667c6ef6c2a7e5e68f3ac30aee90485cad67",
-          "duration_label": "0:15",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.52K",
-      "posted_at": "2026-09-08T17:16:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229886",
       "reply": null
     }
   ]
