@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T09:11:56.915Z",
+  "fetched_at": "2026-09-09T09:15:21.713Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "sahamnewsorg/147223",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/smAW_InWz98OrCURLxT9xranMh7tpFlLWV8zSZVibheTG3rKNcOtlMDWTt5JD8IaKVnpsx9Ot66idtDLHzf9pnQYniC5FGwhRuBWsCRwCX0-Mj9l4ogp_2OpFW0-A9FLwU-A1UcUeCsCK6kk8Lzo21xN1YNrtRrAlaqGaAofukdu1m0nYvC_OEUKkWfqLcQl6GUi6IfPKF71EHtCCM9lOVBTXeyyryPb6CUPK3qxuAD5Fcji9pxUZDZ-_FOXDtLpAl-nEy9GeiVn2HK7Uy8jQlYyYtABHS0F4acebiApw4Jqs5gekS8pQMwI0M3Fiux_NuY2uT2ctGm-dm4tcnSe8g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/05b9e04486c2e24c97c8a56b.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>سلیمی نماینده ۴ درصدی: دولت فکر کرده مجلس باید دائم در دهانش آب‌نبات بگذارد؛ به‌موقع گوشش را می‌کشیم!</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>سلیمی، عضو هیئت‌رئیسه مجلس، با انتقاد از عملکرد دولت گفت: مجلس تاکنون همکاری «بیش از اندازه‌ای» با دولت داشته، اما دولت این همراهی را بدیهی تلقی کرده است. <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>او با بیان اینکه دولت تصور می‌کند مجلس باید همچنان از آن حمایت کند، تأکید کرد: «به‌موقع گوش دولت را خواهیم کشید.»<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅سلیمی نماینده ۴ درصدی: دولت فکر کرده مجلس باید دائم در دهانش آب‌نبات بگذارد؛ به‌موقع گوشش را می‌کشیم!\n\n🔸سلیمی، عضو هیئت‌رئیسه مجلس، با انتقاد از عملکرد دولت گفت: مجلس تاکنون همکاری «بیش از اندازه‌ای» با دولت داشته، اما دولت این همراهی را بدیهی تلقی کرده است.\n\n🔸او با بیان اینکه دولت تصور می‌کند مجلس باید همچنان از آن حمایت کند، تأکید کرد: «به‌موقع گوش دولت را خواهیم کشید.»\n\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/sahamnewsorg/147223",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ZYFBrBUTIBW4Fx2T2CKkmWO-63bw62Fka_ENUnbtSy6xF0wpExiVlw8MiYdMqax1XCxb7SKhk3atKtdQScFnzwwfDDHkJY_hX0wTeWloE-JLoCQdrduPzVk9AQ2TGai8G1wi6FvR_Vv8vx7Jo-zU5PtvYquECiAP4adhA-RFCIgVP0RpBwBKaihuS2muAfM1Q_2j29VTo8f-mTRg1SKf8hG1UqtKLoq5dWyfTB9jlP9azQGV4HgmzsQTvmrzQvG_-OXDxnuHKA6ookQtmKEzfVNu4yD8Fr36d_GEIXofvKW7L6C3oTic2WdI248_Il7sqlHu1P3YZwOwXsMp0KF14A",
+          "thumbnail_path": "channels/sahamnewsorg/media/2928a78de9fb08f39006ab2e.jpg",
+          "thumbnail_sha256": "d854a26f40673eda533beb3f326078d811afd39b37ed261217a1d5e27b53730b",
+          "duration_label": "0:43",
+          "aspect_ratio": 1.3333333333333333
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.54K",
+      "posted_at": "2026-09-09T09:12:29+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147223",
+      "reply": null
+    },
+    {
       "id": "sahamnewsorg/147222",
       "author_name": "سهام نیوز",
       "author_photo_url": "https://cdn1.telesco.pe/file/smAW_InWz98OrCURLxT9xranMh7tpFlLWV8zSZVibheTG3rKNcOtlMDWTt5JD8IaKVnpsx9Ot66idtDLHzf9pnQYniC5FGwhRuBWsCRwCX0-Mj9l4ogp_2OpFW0-A9FLwU-A1UcUeCsCK6kk8Lzo21xN1YNrtRrAlaqGaAofukdu1m0nYvC_OEUKkWfqLcQl6GUi6IfPKF71EHtCCM9lOVBTXeyyryPb6CUPK3qxuAD5Fcji9pxUZDZ-_FOXDtLpAl-nEy9GeiVn2HK7Uy8jQlYyYtABHS0F4acebiApw4Jqs5gekS8pQMwI0M3Fiux_NuY2uT2ctGm-dm4tcnSe8g.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "✅دلار از ۲۳۰ هزار تومان گذشت\n\nدر پی افزایش دوباره تنش‌های نظامی در خاورمیانه، قیمت دلار در بازار آزاد ایران، از ۲۳۰ هزار تومان گذشت. در همین راستا، یورو به ۲۷۰ هزار تومان و پوند بریتانیا به ۳۱۱ هزار تومان رسید.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "9.54K",
+      "views_label": "10.2K",
       "posted_at": "2026-09-09T08:46:40+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147222",
@@ -37,7 +65,7 @@
       "plain_text": "‏✅شب سخت نفتکش های ایران\n\n✍️عبدالله باباخانی\nبا هدف قرار گرفتن ۵ نفتکش در ۸ سپتامبر و ۳ نفتکش در ۵ سپتامبر، شمار نفتکش‌های هدف‌گرفته‌شده توسط سنتکام به ۱۶ فروند رسیده است.\n\n‏از این تعداد، ۶ نفتکش متعلق به/وابسته به شرکت ملی نفتکش ایران (NITC) و ۱۰ فروند دیگر متعلق به شبکه حمل نفت ایران با مالکیت خارجی بوده‌اند.\n\n‏ایران مالکیت حدود ۴۹ نفتکش در ناوگان رسمی خود دارد؛ بنابراین آسیب یا خروج از مدار ۶ نفتکش، معادل حدود ۱۲٪ ناوگان رسمی ایران است.\n\n‏نفتکش ها مانند پالایشگاه ها از اهمیت تاسیسات زیربنایی انرژی برخوردارند و هرگونه حمله ای به آنها حمله به تاسیسات انرژی محسوب میگردد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "12.9K",
+      "views_label": "13.9K",
       "posted_at": "2026-09-09T08:34:48+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147221",
@@ -74,7 +102,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.9K",
+      "views_label": "14.8K",
       "posted_at": "2026-09-09T08:29:39+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147220",
@@ -102,7 +130,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.1K",
+      "views_label": "16K",
       "posted_at": "2026-09-09T08:22:50+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147219",
@@ -118,7 +146,7 @@
       "plain_text": "✅آمریکایی‌ها چند نفت‌کش ایرانی و کدام‌ها را زدند؟\n\nسنتکام، فرماندهی مرکزی ارتش آمریکا، می‌گوید دیشب و بامداد امروز این پنج نفت‌کش را از کار انداخته است:\n\n🔰 ام‌تی کاویز،\n🔰 ام‌تی چارمینار،\n🔰 ام‌تی هورایزن ۱،\n🔰 ام‌تی دریا؛ همگی در نزدیکی خارگ و جاسک از کار افتاده‌اند و\n🔰 ام‌تی ریسکو در دریای عمان غرق شد.\n\nسنتکام، می‌گوید این نفت‌کش‌ها را در پاسخ به حمله‌های شب‌های گذشته علیه کشتی‌های نیروی دریایی آمریکا از میان برده- و تاکید کرده ناو آمریکایی که دوشنبه‌ هدف گرفته شد با موفقیت از حمله موشکی ایران گریخت، به گشت‌زنی در آب‌های منطقه ادامه داد و هیچ‌یک از نیروهای آمریکایی در این حمله‌ها آسیب ندیدند.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "16K",
+      "views_label": "16.6K",
       "posted_at": "2026-09-09T08:18:54+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147218",
@@ -155,7 +183,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.8K",
+      "views_label": "19.4K",
       "posted_at": "2026-09-09T08:05:26+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147217",
@@ -192,7 +220,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.6K",
+      "views_label": "22.2K",
       "posted_at": "2026-09-09T07:49:12+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147216",
@@ -220,7 +248,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.5K",
+      "views_label": "22.8K",
       "posted_at": "2026-09-09T07:39:59+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147215",
@@ -236,7 +264,7 @@
       "plain_text": "✅کیفرخواست فساد در فوتبال\n\n✍️یاشار سلطانی\n‏در پرونده فساد فوتبال⁩، برای تعدادی از مدیران ارشد و چهره‌های فدراسیون فوتبال به اتهام #اختلاس⁩ کیفرخواست صادر شده است.\n\n▫️مهدی تاج⁩\n‏▫️محمدمهدی نبی\n‏▫️احسان اصولی‌صفا\n‏▫️تهمورث حیدری\n‏▫️خداداد افشاریان\n\n‏بر اساس قانون با صدور کیفرخواست همگی این افراد از حضور در فدراسیون منع و از کار منفصل می‌شوند.\n\n‏این فقط یک پرونده درباره چند مدیر فوتبالی نیست؛ پای ساختاری در میان است که سال‌ها بر فوتبال ایران حکومت کرده!\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "26.2K",
+      "views_label": "26.8K",
       "posted_at": "2026-09-09T07:18:52+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147214",
@@ -252,7 +280,7 @@
       "plain_text": "✅انتقاد فلاحت پیشه از هدف قرارگرفتن نفت کش ها\n\nشرکت ملی ⁧ نفتکش ایران⁩، بزرگترین شرکت نفتکش دنیاست . ثروت های بی بدیل کشور را آتش می زنند. آنگونه که افغان ها جوانان رشید اصفهان را برای مسابقه شکار ، ⁧گلچین⁩ می کردند.باید به این ⁧ #ایران_سوزی⁩ پایان داد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "26.5K",
+      "views_label": "27.1K",
       "posted_at": "2026-09-09T07:14:15+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147213",
@@ -268,7 +296,7 @@
       "plain_text": "✅رشد ۴۴۴۴۴ واحدی بورس تهران\n\n🔹شاخص کل بورس تهران ۴۴۴۴۴ مثبت و وارد کانال ۷.۱ میلیون واحد شد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "27.1K",
+      "views_label": "27.7K",
       "posted_at": "2026-09-09T07:04:28+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147212",
@@ -296,7 +324,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "59.8K",
+      "views_label": "60.1K",
       "posted_at": "2026-09-08T22:57:05+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147211",
@@ -312,7 +340,7 @@
       "plain_text": "✅فرماندهی مرکزی آمریکا: ایران از این نفتکش ها به عنوان بخشی از یک شبکه مخفی چند میلیارد دلاری برای تامین مالی سپاه پاسداران و عوامل ایرانی در منطقه استفاده می کند.‌‌\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "54.9K",
+      "views_label": "55.2K",
       "posted_at": "2026-09-08T22:48:49+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147210",
@@ -340,7 +368,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "54.6K",
+      "views_label": "54.9K",
       "posted_at": "2026-09-08T22:47:12+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147209",
@@ -428,7 +456,7 @@
       "plain_text": "✅سنتکام: ۵ نفتکش خام ایران را منهدم کردیم\n\nاین اقدام پس از آن صورت گرفت که سپاه پاسداران طی دو روز، یک ناو جنگی آمریکا را دو بار با موشک‌های بالستیک هدف قرار داد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "52K",
+      "views_label": "52.3K",
       "posted_at": "2026-09-08T22:21:43+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147205",
@@ -2295,22 +2323,6 @@
       "posted_at": "2026-09-07T12:16:12+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147124",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147123",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/642684be024870091c2036fb.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>امارات: گروگان تنگه هرمز نمی‌مانیم و مسیر جایگزین می‌سازیم</b><br><br><b>ممکن است دهه‌ها طول بکشد تا اعتماد میان امارات و ایران دوباره شکل بگیرد</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>قرقاش مشاور رئیس امارات مدعی شد امارات متحده عربی معطل تنگه هرمز نمی ماند و در حال توسعه مسیرهای جایگزین برای صادرات انرژی و تجارت است تا وابستگی خود را به کریدورهای کشتیرانی آسیب‌پذیر در بحبوحه درگیری مداوم با ایران کاهش دهد.<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅امارات: گروگان تنگه هرمز نمی‌مانیم و مسیر جایگزین می‌سازیم\n\nممکن است دهه‌ها طول بکشد تا اعتماد میان امارات و ایران دوباره شکل بگیرد\n\n🔹قرقاش مشاور رئیس امارات مدعی شد امارات متحده عربی معطل تنگه هرمز نمی ماند و در حال توسعه مسیرهای جایگزین برای صادرات انرژی و تجارت است تا وابستگی خود را به کریدورهای کشتیرانی آسیب‌پذیر در بحبوحه درگیری مداوم با ایران کاهش دهد.\n@Sahamnewsorg",
-      "media": [],
-      "reactions": [],
-      "views_label": "53.8K",
-      "posted_at": "2026-09-07T10:57:52+00:00",
-      "edited": false,
-      "permalink": "https://t.me/sahamnewsorg/147123",
       "reply": null
     }
   ]

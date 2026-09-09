@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T09:11:51.053Z",
+  "fetched_at": "2026-09-09T09:15:16.870Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -8,9 +8,25 @@
     "photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
     "photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
     "photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-    "subscriber_count": "132K"
+    "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229962",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>دلار یک رکورد تاریخی دیگر به جا گذاشت و به ۲۳۱ هزار تومان رسید<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>قیمت دلار در بازار آزاد ایران روز چهارشنبه به ۲۳۱ هزار تومان رسید که این رقم ۲۵ درصد بالاتر از قیمت یک ماه پیش و ۱۲۵ درصد بالاتر از قیمت دلار در سال گذشته است. دلار سال گذشته در چنین ایامی حدود ۱۰۲ هزار تومان معامله می‌شد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>دلار روز شنبه دو هفته پیش با ۲۰۶ هزار و ۴۰۰ تومان بسته شد و از پی آن هر روز رکورد تازه‌ای زد. نرخ روز یکشنبه برای ساعتی از ۲۳۰ هزار تومان گذشت، سپس با ورود بانک مرکزی به ۲۲۵ هزار تومان عقب نشست.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>در بازار سکه، سکه امامی به ۲۴۰ میلیون تومان رسید، و سکه بهار آزادی ۲۳۶ میلیون و ۹۰ هزار تومان، نیم‌سکه ۱۲۲ میلیون و ۴۰۰ هزار تومان و ربع‌سکه ۶۶ میلیون تومان قیمت خورد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8195981.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8195981.html</a>",
+      "plain_text": "🔺دلار یک رکورد تاریخی دیگر به جا گذاشت و به ۲۳۱ هزار تومان رسید\n\n▪️قیمت دلار در بازار آزاد ایران روز چهارشنبه به ۲۳۱ هزار تومان رسید که این رقم ۲۵ درصد بالاتر از قیمت یک ماه پیش و ۱۲۵ درصد بالاتر از قیمت دلار در سال گذشته است. دلار سال گذشته در چنین ایامی حدود ۱۰۲ هزار تومان معامله می‌شد.\n\n▪️دلار روز شنبه دو هفته پیش با ۲۰۶ هزار و ۴۰۰ تومان بسته شد و از پی آن هر روز رکورد تازه‌ای زد. نرخ روز یکشنبه برای ساعتی از ۲۳۰ هزار تومان گذشت، سپس با ورود بانک مرکزی به ۲۲۵ هزار تومان عقب نشست.\n\n▪️در بازار سکه، سکه امامی به ۲۴۰ میلیون تومان رسید، و سکه بهار آزادی ۲۳۶ میلیون و ۹۰ هزار تومان، نیم‌سکه ۱۲۲ میلیون و ۴۰۰ هزار تومان و ربع‌سکه ۶۶ میلیون تومان قیمت خورد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195981.html",
+      "media": [],
+      "reactions": [],
+      "views_label": "284",
+      "posted_at": "2026-09-09T09:12:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229962",
+      "reply": null
+    },
     {
       "id": "farsivoa/229961",
       "author_name": "Farsi VOA",
@@ -21,7 +37,7 @@
       "plain_text": "🔺کانادا و فرانسه به ممنوعیت تجارت با شهرک‌های اسرائیل پیوستند\n\n▪️کانادا و فرانسه در بیانیه‌ای مشترک ممنوعیت واردات کالاهای تولیدشده در شهرک‌های اسرائیل در کرانه باختری را اعلام کردند.\n\n▪️بر پایه گزارش آسوشیتدپرس، فرانسه همزمان برای اعمال ممنوعیت سراسری در اتحادیه اروپا فشار می‌آورد.\n\n▪️با این تصمیم، فرانسه و کانادا به ایرلند، اسپانیا، نروژ، بلژیک و هلند پیوستند که پیش‌تر اقدام‌های مشابهی انجام داده بودند.\n\n▪️اد میلیبند، وزیر امور خارجه بریتانیا، نیز سه‌شنبه ممنوعیت‌هایی را در این زمینه در مجلس عوام اعلام کرد. اما اسرائیل ساعاتی بعد از رشته‌ای از اقدام‌های تلافی‌جویانه خبر داد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195979.html",
       "media": [],
       "reactions": [],
-      "views_label": "693",
+      "views_label": "883",
       "posted_at": "2026-09-09T08:56:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229961",
@@ -37,7 +53,7 @@
       "plain_text": "🔺هزینه عبور نفتکش‌ها از هرمز به ۱۰ تا ۲۰ میلیون دلار رسید\n\n▪️مدیر شرکت ملی نفت امارات گفت مجموع هزینه عبور از تنگه هرمز به محدوده ۱۰ تا ۲۰ میلیون دلار رسیده و برخی فعالان بازار تصمیم گرفته‌اند اصلاً بیمه نگیرند.\n\n▪️پاول برادشاو روز چهارشنبه در کنفرانس نفت آسیا و اقیانوسیه در سنگاپور گفت جهش شدید حق بیمه ریسک جنگ و هزینه بیمه محموله عامل اصلی است.\n\n▪️حق بیمه ریسک جنگ بر پایه ارزش بدنه شناور نیز جهش کرده است. بر پایه گزارش نشریه نشنال، نرخ‌ها از یک‌چهارم درصد پیش از ۹ اسفند به سه تا ۱۰ درصد رسیده است. نفتکشی به ارزش ۱۰۰ میلیون دلار اکنون سه تا ۱۰ میلیون دلار می‌پردازد که پیش از جنگ حدود ۲۵۰ هزار دلار بود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195980.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.48K",
+      "views_label": "1.58K",
       "posted_at": "2026-09-09T08:29:30+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229960",
@@ -65,7 +81,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.73K",
+      "views_label": "1.82K",
       "posted_at": "2026-09-09T08:14:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229959",
@@ -93,7 +109,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.79K",
+      "views_label": "1.85K",
       "posted_at": "2026-09-09T08:05:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229958",
@@ -121,7 +137,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.88K",
+      "views_label": "1.94K",
       "posted_at": "2026-09-09T07:55:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229957",
@@ -149,7 +165,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.04K",
+      "views_label": "2.11K",
       "posted_at": "2026-09-09T07:41:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229956",
@@ -165,7 +181,7 @@
       "plain_text": "🔺حمله پهپادی روسیه به گذرگاه مرزی اوکراین و مولداوی\n\n▪️پهپادهای روسیه شامگاه سه‌شنبه گذرگاه مرزی میان اوکراین و مولداوی را هدف قرار دادند و چندین کشته، زخمی و آتش‌سوزی بر جای گذاشتند.\n\n▪️روسیه شامگاه گذشته کی‌یف را نیز هدف گرفت. سازمان خدمات اضطراری اوکراین در تلگرام اعلام کرد حمله آتش‌سوزی ایجاد کرد اما تلفاتی نداشت.\n\n▪️بر پایه اعلام وزارت زیرساخت اوکراین، روسیه ظرف یک هفته گذشته چهار بار گذرگاه‌های مرزی جنوب این کشور را مورد حمله قرار داده است. گذرگاه تاباکی-میرنویه با مولداوی در میان اهداف بود و زیرساخت آنجا ویران شد.\n\n▪️حمله شامگاه دوشنبه به پایتخت اوکراین مرگبارتر بود. بر پایه گزارش کی‌یف ایندیپندنت، این حمله پنج کشته و ۲۹ زخمی بر جای گذاشت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195977.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.17K",
+      "views_label": "2.24K",
       "posted_at": "2026-09-09T07:28:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229955",
@@ -193,7 +209,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.34K",
+      "views_label": "2.38K",
       "posted_at": "2026-09-09T07:17:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229954",
@@ -221,7 +237,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.59K",
+      "views_label": "2.65K",
       "posted_at": "2026-09-09T07:02:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229952",
@@ -249,7 +265,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.62K",
+      "views_label": "2.66K",
       "posted_at": "2026-09-09T06:52:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229951",
@@ -305,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.05K",
+      "views_label": "3.08K",
       "posted_at": "2026-09-09T06:18:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229949",
@@ -333,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.17K",
+      "views_label": "3.2K",
       "posted_at": "2026-09-09T06:07:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229948",
@@ -361,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.43K",
+      "views_label": "3.46K",
       "posted_at": "2026-09-09T05:48:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229947",
@@ -389,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.56K",
+      "views_label": "3.59K",
       "posted_at": "2026-09-09T05:31:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229946",
@@ -2469,34 +2485,6 @@
       "posted_at": "2026-09-08T13:45:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229861",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229860",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "یک سخنگوی وزارت خارجه قطر اعلام کرد که بازگشایی تنگه هرمز برای ما و برای همه کشورهای منطقه از اهمیت حیاتی و فوق‌العاده‌ای برخوردار است.<br><br>ابراهیم بن سلطان الهاشمی روز سه‌شنبه در یک نشست خبری یادآور شد که قطر به همراه چین و دیگر شرکا، برای ازسرگیری مذاکرات آمریکا و جمهوری اسلامی همکاری می‌کند.<br><br>او با اشاره به سفر نخست‌وزیر قطر به چین، این همکاری‌ها را با هدف کاهش تنش‌ در منطقه توصیف کرد.<br><br>قطر، در کنار عمان و پاکستان، طی هفته‌های اخیر تلاش بسیاری برای بازگرداندن جمهوری اسلامی به میز مذاکره انجام داده‌اند.",
-      "plain_text": "یک سخنگوی وزارت خارجه قطر اعلام کرد که بازگشایی تنگه هرمز برای ما و برای همه کشورهای منطقه از اهمیت حیاتی و فوق‌العاده‌ای برخوردار است.\n\nابراهیم بن سلطان الهاشمی روز سه‌شنبه در یک نشست خبری یادآور شد که قطر به همراه چین و دیگر شرکا، برای ازسرگیری مذاکرات آمریکا و جمهوری اسلامی همکاری می‌کند.\n\nاو با اشاره به سفر نخست‌وزیر قطر به چین، این همکاری‌ها را با هدف کاهش تنش‌ در منطقه توصیف کرد.\n\nقطر، در کنار عمان و پاکستان، طی هفته‌های اخیر تلاش بسیاری برای بازگرداندن جمهوری اسلامی به میز مذاکره انجام داده‌اند.",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229860",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/Mpg1UXU5naPy4R_CdIWsa4ldjq8bIGxvdQs25d8cbdOmN5Meoq-vyTVMvuABy0KaVH8J_eOxKWsHnrAHuz9a1HMmqSBX6-E4IlJeF0wP2f3j6MXh4VQi2ut1nesGTEAmu7zJnZsoys4IrrLkpyWaHHNrRDugOGJFrcRfYHR4fDdLDa4l2KRPj7AntY77rqzol5p-WntRRU9N4LGXa6ZjxDvvgjB959wM96O2u_puwz9ufhuVyww1KR87l1RvQZvIxTqSn_tkYOzdFmlOewBd0X9pl3QqQCtiJR1vmb3_vbGI8vwcJZzSDbSKuipwXhdTRZFA34cNMDGsOdDjyaP2Zw.jpg",
-          "thumbnail_path": "channels/farsivoa/media/33cd10b451483eab9ad39dc1.jpg",
-          "thumbnail_sha256": "997de2864a68a41811728ff9602350f6c498d5a86a91249e24b341e1e15acd75",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.73K",
-      "posted_at": "2026-09-08T13:32:59+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229860",
       "reply": null
     }
   ]
