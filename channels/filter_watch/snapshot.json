@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T09:56:44.449Z",
+  "fetched_at": "2026-09-09T10:02:29.624Z",
   "channel": {
     "username": "filter_watch",
     "title": "فیلتربان",
@@ -450,8 +450,8 @@
           "asset_url": "https://t.me/filter_watch/1888",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/imMs93cFInVs5KbGQwjKJ0SIbaR8c72XOuX65gwnCQDRMHSKt8dstEFXGPrawmnqOwpPSSaYDyY11Cy7Fe6mca-3Bdw13LI64wmEZfo34yAydcinZSrqgI8uakCwazUzTRMTS2vb4KvtJTUnVoCLBb6sXAqNPImvy9TRDBV6VeTg4rmXRdG3bU-NQ0kC8GK9WIYP8g3zjU56brsfmLyfsmwXkcZ6yFQ1zsnC5LOqqIKvVhSjIiwbaubm8QL8XqVpuCRu8aBYwFEmPFN5aJQKLVRkfeUcAm95QaEHMFOmhGD7xZ592HEYCrgnTOn5Uhc9Swb3bFXKrMQTJt9XmYdFdw.jpg",
-          "thumbnail_path": "channels/filter_watch/media/edfbeab9a5e61629281fd16c.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Q-9Jl5A0UZeQ9w83Wn3b7M-oBkIJs0Zzri23bLyEdFXkA1htftoBlFj6NEpgq-sgJhTf_WrJ3jQew3EbD_3yLwBXXlubShFF4ttHNJnFyHUSurB3w1-O5pyTP_mGJDY8IaFzebORUHMpzT7nD1a0NTsw916DYPXJvLDbh0e8thgrpAfOlO2RLscvUtHs5LJIU9vpfwrHIgY4sW0W2O3x5-ltqm_9IUNS-0kIvj6EWS0gUcXXP0Is14bqcbOO3Dk7Fx_xPEH4FWYEWfoBqiHp1_FwvAOO6cnJe4mThp5_FN2KHo0dmrwKUdurTj9Dv-3gvyMOMMF0uxd6ylze_4o5Ug.jpg",
+          "thumbnail_path": "channels/filter_watch/media/3ead38385ce930f8f799a5dd.jpg",
           "thumbnail_sha256": "83903fc4bf3b3a6b9cf4a07b95189daefa6e82cb9748430ead20e944b97b8dbd",
           "duration_label": null,
           "aspect_ratio": 0.8
