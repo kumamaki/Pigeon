@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T18:26:49.465Z",
+  "fetched_at": "2026-09-09T18:31:50.183Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/230025",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "خلع سلاح پ‌ک‌ک وارد فاز اجرایی شد؛ آغاز تخلیه مواضع و تحویل سلاح",
+      "plain_text": "خلع سلاح پ‌ک‌ک وارد فاز اجرایی شد؛ آغاز تخلیه مواضع و تحویل سلاح",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/230025",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/nboLYiZalAsipAh2j8cr-XRwL2qmk-QcfWbvMl0QTYqhyYWj9ip2sj-NZobuZvDNS9MzGJ3fAFxh8yixZCww5HeIjItD3U_Kpd0AgvhyYAYL47SZy8iabiBlbAFTjVeGaHdlRpBopugronu7FVffnMYZv-JYsstUNlkEEJqD7EQiDtkcFYeWe0wsuURdAlerR7yb_85Wu1d2bSVl-8EbCVGeueo1XbPRV254AB_SvVUQnE1-85QU_zMcmSyhuhooNuzR1QCHHZXmuQnSFGVu5UJJ1Ynp02lDsvV9lypypZJD9_OSdU3Og0JfZ_ufI1DycgJpd4tK3QAdMe-q_c3g8Q",
+          "thumbnail_path": "channels/farsivoa/media/dcae68891db899a5b6b985c9.jpg",
+          "thumbnail_sha256": "4cbb986714368a5b9a2b1ae8b696ff2d9797d3a450fd05a7105ef32e883dfedf",
+          "duration_label": "4:03",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "326",
+      "posted_at": "2026-09-09T18:28:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/230025",
+      "reply": null
+    },
+    {
       "id": "farsivoa/230024",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺گزارش‌ها از شنیده شدن صدای دو انفجار در نزدیکی جاسک و تنگه هرمز\n\n▪️منابع حکومتی در ایران، از جمله خبرگزاری‌های فارس و تسنیم که وابسته به سپاه هستند، شامگاه چهارشنبه ۱۸ شهریور از شنیده شدن صدای یک انفجار از سمت دریا در مناطق جنوبی شهرستان جاسک و صدای انفجاری دیگر از سمت تنگه هرمز خبر دادند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/reports-two-explosions-near-jask-hormuz/8196103.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "804",
+      "views_label": "1.13K",
       "posted_at": "2026-09-09T18:17:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230024",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.18K",
+      "views_label": "1.41K",
       "posted_at": "2026-09-09T18:08:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230023",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.5K",
+      "views_label": "1.72K",
       "posted_at": "2026-09-09T17:59:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230022",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.73K",
+      "views_label": "1.89K",
       "posted_at": "2026-09-09T17:52:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230020",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.7K",
+      "views_label": "1.86K",
       "posted_at": "2026-09-09T17:46:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230019",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.77K",
+      "views_label": "1.87K",
       "posted_at": "2026-09-09T17:41:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230018",
@@ -255,7 +283,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.93K",
+      "views_label": "2.06K",
       "posted_at": "2026-09-09T17:33:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230011",
@@ -283,7 +311,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.73K",
+      "views_label": "1.83K",
       "posted_at": "2026-09-09T17:29:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230010",
@@ -299,7 +327,7 @@
       "plain_text": "🔺ایالات متحده شبکه جنایی فراملی چینی‌زبان را به دلیل کلاهبرداری سایبری از شهروندان آمریکایی تحریم کرد\n\n▪️دولت آمریکا در چارچوب کارزار پرزیدنت دونالد ترامپ برای مقابله با جرایم سایبری و کلاهبرداری از شهروندان آمریکایی، یک سازمان جنایی فراملی و دو شرکت پشتیبان آن را تحریم کرد. همزمان وزارت دادگستری آمریکا زیرساخت‌ها و کیف‌پول‌های دیجیتال مورد استفاده این شبکه را توقیف کرد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/us-sanctions-xinbi-guarantee-cyber-scam-group/8196084.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.02K",
+      "views_label": "2.12K",
       "posted_at": "2026-09-09T17:23:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230009",
@@ -327,7 +355,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2K",
+      "views_label": "2.06K",
       "posted_at": "2026-09-09T17:15:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230008",
@@ -355,7 +383,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.19K",
+      "views_label": "2.25K",
       "posted_at": "2026-09-09T17:10:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230007",
@@ -371,7 +399,7 @@
       "plain_text": "🔴📢‌ پادکست تفسیر خبر- چهارشنبه ۱۸ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "2.31K",
+      "views_label": "2.38K",
       "posted_at": "2026-09-09T17:02:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230006",
@@ -387,7 +415,7 @@
       "plain_text": "🔺آژانس پرونده فعالیت‌های هسته‌ای گذشته سوریه را مختومه اعلام کرد\n\n▪️شورای حکام آژانس بین‌المللی انرژی اتمی روز چهارشنبه ۱۸ شهریور با تصویب قطعنامه‌ای، ضمن بستن پرونده فعالیت‌های هسته‌ای مخفی سوریه در دوران حکومت خاندان اسد، اعلام کرد که مقام‌های جدید این کشور به حل‌وفصل همه پرسش‌های باقی‌مانده کمک کرده‌اند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iaea-board-governors-syria-past-nuclear-activities/8196081.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.33K",
+      "views_label": "2.4K",
       "posted_at": "2026-09-09T16:56:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230005",
@@ -2559,34 +2587,6 @@
       "posted_at": "2026-09-08T21:10:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229917",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229916",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "روز سه‌شنبه ارزش ریال جمهوری اسلامی سقوط بیشتری پیدا کرد و هر دلار آمریکا در آستانه ۲۳۰هزار تومان قرار گرفت. این افزایش قیمت دلار در حالی است که جمهوری اسلامی قیمت بنزین «آزاد» را رسما در روز سه‌شنبه دو برابر کرد و قیمت هر لیتر آن را از ۵ هزار تومان به ۱۰ هزار تومان افزایش داد. به گزارش بن‌بست، قیمت هر دلار آمریکا روز سه‌شنبه به ۲۲۹ هزار و ۱۰۰ تومان رسید.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "روز سه‌شنبه ارزش ریال جمهوری اسلامی سقوط بیشتری پیدا کرد و هر دلار آمریکا در آستانه ۲۳۰هزار تومان قرار گرفت. این افزایش قیمت دلار در حالی است که جمهوری اسلامی قیمت بنزین «آزاد» را رسما در روز سه‌شنبه دو برابر کرد و قیمت هر لیتر آن را از ۵ هزار تومان به ۱۰ هزار تومان افزایش داد. به گزارش بن‌بست، قیمت هر دلار آمریکا روز سه‌شنبه به ۲۲۹ هزار و ۱۰۰ تومان رسید.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229916",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/I1xPjNc2sEumWRISRbXQsv9UAcaeNZJvAh93bsQHJN5D74wwWjXl6ndhTwUbLp2H7ow8Adkn5j7RDcfPiyy-V8EowIrYp31lnmsD6u7vwZErJYQSk9me5LdIcwubfJoti-oYDUiBDxx7iCeswNb584Gy78DE9-VtONYN_38IewXe43IEtrak-p2oAiDPpEMIoX2Jh4F_vFSLygSe52ITKnMIcfU7ilKDvbfTHawXqN3h28UKlKXNURVvNdS08t5CzIoLd72T3iI-DDODd-jsNeelBxRVoT5rvWUO96-lPQu2gGjYc3ot9lvcGdQ3OtPOMloFN6mPEA-wJaw1SCQhHg.jpg",
-          "thumbnail_path": "channels/farsivoa/media/5624cf80f767c724cfb42740.jpg",
-          "thumbnail_sha256": "15db3975a582061352fe33c29a39348aacdbf38bfac9cc662816f6dbc81ace4b",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.67K",
-      "posted_at": "2026-09-08T20:59:33+00:00",
-      "edited": true,
-      "permalink": "https://t.me/farsivoa/229916",
       "reply": null
     }
   ]
