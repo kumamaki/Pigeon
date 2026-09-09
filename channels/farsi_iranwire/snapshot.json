@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T21:22:19.753Z",
+  "fetched_at": "2026-09-09T21:27:15.563Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93536",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "خبرگزاری فارس، در اولین دقایق بامداد پنج‌شنبه ۱۹ شهریور ۱۴۰۵، گزارش داد صدای چندین انفجار در مناطق ساحلی قشم، سیریک و شهرستان میناب شنیده شده است. بر اساس این گزارش، استانداری هرمزگان ماهیت صداهای شنیده‌شده در قشم را از سمت دریا عنوان کرده است.<br>هم‌زمان، کانال تلگرامی وحید آنلاین به نقل از مخاطبان خود از شنیده‌شدن صدای انفجار شدید در قشم و بندرعباس خبر داد. برخی از این مخاطبان از لرزش ساختمان‌ها، در و پنجره‌ها و شیشه‌ها در پی این انفجارها خبر داده‌اند.<br>بر اساس پیام‌های منتشرشده، صداها حدود ساعت ۰۰:۲۴ تا ۰۰:۲۶ بامداد پنجشنبه ۱۹ شهریور شنیده شده و برخی مخاطبان منشا آن را سمت دریا عنوان کرده‌اند.<br><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "خبرگزاری فارس، در اولین دقایق بامداد پنج‌شنبه ۱۹ شهریور ۱۴۰۵، گزارش داد صدای چندین انفجار در مناطق ساحلی قشم، سیریک و شهرستان میناب شنیده شده است. بر اساس این گزارش، استانداری هرمزگان ماهیت صداهای شنیده‌شده در قشم را از سمت دریا عنوان کرده است.\nهم‌زمان، کانال تلگرامی وحید آنلاین به نقل از مخاطبان خود از شنیده‌شدن صدای انفجار شدید در قشم و بندرعباس خبر داد. برخی از این مخاطبان از لرزش ساختمان‌ها، در و پنجره‌ها و شیشه‌ها در پی این انفجارها خبر داده‌اند.\nبر اساس پیام‌های منتشرشده، صداها حدود ساعت ۰۰:۲۴ تا ۰۰:۲۶ بامداد پنجشنبه ۱۹ شهریور شنیده شده و برخی مخاطبان منشا آن را سمت دریا عنوان کرده‌اند.\n\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93536",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Fsydw3wNKPGTavMUXHL6bVkakVT75x7mZk4kQ-B9rtZbmoXp5PkFi-4C4uhyDJbkpIQQ7DdkWpHx_JHG5PaHcIcQ51TWKV-25XSQkCPCnR0RnjIvFhICsWqjiW1BxIrHZgw95MpDAYvAvvxOU7NHe02PpI7Y5H5ZikAFAul8HJruPklsB3vXNn-cV3pnNpX8GQkZ4vo5qBQdgBEv__DqG0FDEgw_-NgAqLtwsl6e4c7AWtNvaB86RzpqgYfUngBGZZKqt7yw2rWzE7OSruSFdfjcWIP5I64fXJZsfiqX8gcbqcSyJYP4SoPeOn6-OaolhXtHhJbqq0fzQZ1zbdJrJg.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/87654e3f5bec8413fca1d3ae.jpg",
+          "thumbnail_sha256": "68716c6d226f05ae30fef1bc59efc9a920eed74ce9bdd1ef5277e84fb5ed83d3",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "84",
+      "posted_at": "2026-09-09T21:26:05+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93536",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93535",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "780",
+      "views_label": "835",
       "posted_at": "2026-09-09T19:39:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93535",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "994",
+      "views_label": "1.03K",
       "posted_at": "2026-09-09T18:58:46+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93534",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "868",
+      "views_label": "884",
       "posted_at": "2026-09-09T18:58:43+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93533",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "804",
+      "views_label": "820",
       "posted_at": "2026-09-09T18:55:55+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93532",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "939",
+      "views_label": "946",
       "posted_at": "2026-09-09T18:22:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93531",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.2K",
+      "views_label": "1.21K",
       "posted_at": "2026-09-09T16:24:47+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93529",
@@ -2781,34 +2809,6 @@
       "posted_at": "2026-09-07T08:36:25+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93435",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93434",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "در ویدیویی که به تازگی در شبکه‌های اجتماعی منتشر شده، «پوری بنایی» بازیگر شناخته شده سینمای ایران در سال‌های پیش از انقلاب، خطاب به جوانانی که می‌خواهند ایران را ترک کنند می‌گوید: «حیف نیست این بهشتِ برین را رها کنید و بروید؟»<br>خانم بنایی در صحبت‌هایش خطاب به جوانان ایرانی که به گفته او در ماه‌های اخیر با او در مورد مهاجرت کردن از ایران مشورت یا صحبت کرده‌اند می‌گوید: «ایران مال شماست، متعلق به شماست. شما نسل جوان هستید که آینده ایران را می‌سازید. شما آن قدر خوب و مهربان هستید که باید بمایند و ایران را بسازید.»<br>او همچنین می‌گوید که می‌خواهد دوباره در آینده ایرانی که به دست ایرانیان ساخته شده، «فیلم بازی کردن» را آغاز کند.<br>پوری بنایی بازیگر شناخته شده پیش از انقلاب است که سابقه بازی در بیش از ۷۰ فیلم سینمایی را دارد. او پس از انقلاب یکی از بازیگرانی بود که از حرفه‌اش منع شد و فقط یک بار در سال ۱۳۸۷ در فیلم سینمایی «شیرین» به کارگردانی «عباس کیارستمی» مقابل دوربین رفت.<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "در ویدیویی که به تازگی در شبکه‌های اجتماعی منتشر شده، «پوری بنایی» بازیگر شناخته شده سینمای ایران در سال‌های پیش از انقلاب، خطاب به جوانانی که می‌خواهند ایران را ترک کنند می‌گوید: «حیف نیست این بهشتِ برین را رها کنید و بروید؟»\nخانم بنایی در صحبت‌هایش خطاب به جوانان ایرانی که به گفته او در ماه‌های اخیر با او در مورد مهاجرت کردن از ایران مشورت یا صحبت کرده‌اند می‌گوید: «ایران مال شماست، متعلق به شماست. شما نسل جوان هستید که آینده ایران را می‌سازید. شما آن قدر خوب و مهربان هستید که باید بمایند و ایران را بسازید.»\nاو همچنین می‌گوید که می‌خواهد دوباره در آینده ایرانی که به دست ایرانیان ساخته شده، «فیلم بازی کردن» را آغاز کند.\nپوری بنایی بازیگر شناخته شده پیش از انقلاب است که سابقه بازی در بیش از ۷۰ فیلم سینمایی را دارد. او پس از انقلاب یکی از بازیگرانی بود که از حرفه‌اش منع شد و فقط یک بار در سال ۱۳۸۷ در فیلم سینمایی «شیرین» به کارگردانی «عباس کیارستمی» مقابل دوربین رفت.\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Farsi_Iranwire/93434",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/TJWe4HbNgbXep_p9jhBK5H98u2a5eNsxKLbq8BlhH02kDVeCee8pQhAJVIBFnO-uzKgyJnKDyGaVSMM23sEikPlLMSfBKw3yp-_wmhLD5CgGnA-dzIKD6ZzjzufBmg24l3jIxoIOP-I34nUlIwE706KcSwlBVqkcTBpDnz7a08ywz38nuo3WJiImH25RbKg2omC2ydrK7U7LAy5HDJgGpXDozE1bJMtCSnreeAPRakw_yOBrGAAAQ16kiUZWOpOrsF3eDXrzwurtvO7k_g0kbZYdp0N_dbSEqUFhV0rt7KUdu9lLvngeDRjbzIYtPqcqwOFBsoxGPHWwJvgEj2Axeg",
-          "thumbnail_path": "channels/farsi_iranwire/media/79ac9f07083147436efa63d0.jpg",
-          "thumbnail_sha256": "41c79bbdd34cfedea9fa21946e677936a2dd41510e37bd3f4c47b272cc1f5aec",
-          "duration_label": "1:40",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.15K",
-      "posted_at": "2026-09-07T08:02:14+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93434",
       "reply": null
     }
   ]
