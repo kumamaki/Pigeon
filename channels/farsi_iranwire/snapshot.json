@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T14:56:28.002Z",
+  "fetched_at": "2026-09-09T15:01:46.647Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93526",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "سخنگوی قوه‌قضاییه جمهوری‌اسلامی اعلام کرده که این نهاد قضایی‌امنیتی، به مجلس پیشنهاد داده تا محدودیت انتخاب وکیل برای متهمان سیاسی که در تبصره ماده ۴۸ قانون آیین دادرسی کیفری آمده، حذف شود؛ یعنی همان تبصره‌ای که خود قوه‌قضاییه آن را ایجاد کرده و طبق آن متهمان سیاسی عقیدتی حق انتخاب وکیل تا پیش از دادگاه را ندارند. بنابر این تبصره قانونی، متهمان سیاسی عقیدتی تا پیش از ارجاع پرونده‌شان به دادگاه، صرفا می‌توانند از وکلایی بهره‌مند بشوند که مورد تایید قوه قضاییه هستند. وکلای حقوق بشری در این لیست قرار ندارند. حالا سخنگوی قوه‌قضاییه می‌گوید که به مجلس پیشنهاد داده‌اند تا این تبصره حذف شود و تمامی متهمان بتوانند از حق انتخاب وکیل برخوردار شوند. اگرچه حذف این تبصره در راستای حقوق متهمان مفید است اما «موسی برزین» حقوقدان در گفت‌وگو با «ایران‌وایر» می‌گوید که این اظهارات «صادقانه نیست.»<br>این گفت‌وگو در بخش اخبار عصر چهارشنبه ۱۸شهریور۱۴۰۵ از تلویزیون ایران‌وایر پخش شده است.<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "سخنگوی قوه‌قضاییه جمهوری‌اسلامی اعلام کرده که این نهاد قضایی‌امنیتی، به مجلس پیشنهاد داده تا محدودیت انتخاب وکیل برای متهمان سیاسی که در تبصره ماده ۴۸ قانون آیین دادرسی کیفری آمده، حذف شود؛ یعنی همان تبصره‌ای که خود قوه‌قضاییه آن را ایجاد کرده و طبق آن متهمان سیاسی عقیدتی حق انتخاب وکیل تا پیش از دادگاه را ندارند. بنابر این تبصره قانونی، متهمان سیاسی عقیدتی تا پیش از ارجاع پرونده‌شان به دادگاه، صرفا می‌توانند از وکلایی بهره‌مند بشوند که مورد تایید قوه قضاییه هستند. وکلای حقوق بشری در این لیست قرار ندارند. حالا سخنگوی قوه‌قضاییه می‌گوید که به مجلس پیشنهاد داده‌اند تا این تبصره حذف شود و تمامی متهمان بتوانند از حق انتخاب وکیل برخوردار شوند. اگرچه حذف این تبصره در راستای حقوق متهمان مفید است اما «موسی برزین» حقوقدان در گفت‌وگو با «ایران‌وایر» می‌گوید که این اظهارات «صادقانه نیست.»\nاین گفت‌وگو در بخش اخبار عصر چهارشنبه ۱۸شهریور۱۴۰۵ از تلویزیون ایران‌وایر پخش شده است.\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Farsi_Iranwire/93526",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/GCAYmT69GrTsK6bhTAHPbjpxf0IERSXegNxU1P_m4Su1qW_zf2BhQBGGkPa1GP00y97s1rV8hrPNLSVC9BttGrj3gWgDsmtjANkBzWIvknik3bJHXM4Zs7z8xJG7h3WFdH1IJVhWfZavw3qI-p3sQBQDnINYS5gP_cUNAWwhIbkb1RsQeG6XgDyTbTCVD6ThsFYZcLud5flRBCOw-TbQebFfN5DqrZEv5nx70aWZvjSgAM6eiGU_9KuutzSDI1TYDLXIMs5XGVM5RH-RrR5JGRHOwadY60k3c0kRz0tyDvWOr6Uw7EFRRdbVnkMDiRYvPyYkTW5LH4bEEM1HQ6clqg",
+          "thumbnail_path": "channels/farsi_iranwire/media/adff585d47a83cf51c07e3b9.jpg",
+          "thumbnail_sha256": "0a4873bb0d5afe433f9619b9b0c2ee3b9af4755a294d4a8b356bdad1256421a0",
+          "duration_label": "4:45",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "39",
+      "posted_at": "2026-09-09T15:00:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93526",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93525",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "195",
+      "views_label": "259",
       "posted_at": "2026-09-09T14:41:21+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93525",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "271",
+      "views_label": "321",
       "posted_at": "2026-09-09T14:30:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93524",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "241",
+      "views_label": "280",
       "posted_at": "2026-09-09T14:29:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93523",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "705",
+      "views_label": "733",
       "posted_at": "2026-09-09T13:02:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93522",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "781",
+      "views_label": "795",
       "posted_at": "2026-09-09T12:42:53+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93521",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "771",
+      "views_label": "788",
       "posted_at": "2026-09-09T12:31:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93520",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "841",
+      "views_label": "855",
       "posted_at": "2026-09-09T12:01:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93519",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "880",
+      "views_label": "892",
       "posted_at": "2026-09-09T11:38:33+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93518",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "898",
+      "views_label": "907",
       "posted_at": "2026-09-09T11:25:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93517",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "918",
+      "views_label": "932",
       "posted_at": "2026-09-09T10:58:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93516",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "881",
+      "views_label": "892",
       "posted_at": "2026-09-09T10:47:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93515",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "944",
+      "views_label": "956",
       "posted_at": "2026-09-09T10:37:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93514",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "902",
+      "views_label": "913",
       "posted_at": "2026-09-09T10:36:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93513",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "859",
+      "views_label": "871",
       "posted_at": "2026-09-09T10:34:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93512",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "994",
+      "views_label": "1K",
       "posted_at": "2026-09-09T09:48:46+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93511",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "992",
+      "views_label": "998",
       "posted_at": "2026-09-09T09:35:46+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93510",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.02K",
+      "views_label": "1.03K",
       "posted_at": "2026-09-09T09:12:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93509",
@@ -509,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.02K",
+      "views_label": "1.03K",
       "posted_at": "2026-09-09T09:05:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93508",
@@ -2781,34 +2809,6 @@
       "posted_at": "2026-09-06T18:37:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93425",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93424",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "⁨ <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> سرخط خبرها، شامگاه یکشنبه ۱۵ شهریور در تلویزیون ایران‌وایر<br>تلویزیون ایران‌وایر را روی ⁩ماهواره «موناکوست» (ترکمن‌عالم)<br>فرکانس ۱۰۷۶۲ افقی. سیمبل ریت سی هزار تماشا کنید.<br>نسخه اس دی را نیز می‌توانید روی فرکانس ۱۰۸۴۵ عمودی . سیمبل ریت ۲۷۵۰۰<br>در خاورمیانه (ایران) و اروپا بگیرید.‌<br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "⁨ 🎥 سرخط خبرها، شامگاه یکشنبه ۱۵ شهریور در تلویزیون ایران‌وایر\nتلویزیون ایران‌وایر را روی ⁩ماهواره «موناکوست» (ترکمن‌عالم)\nفرکانس ۱۰۷۶۲ افقی. سیمبل ریت سی هزار تماشا کنید.\nنسخه اس دی را نیز می‌توانید روی فرکانس ۱۰۸۴۵ عمودی . سیمبل ریت ۲۷۵۰۰\nدر خاورمیانه (ایران) و اروپا بگیرید.‌\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Farsi_Iranwire/93424",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/oSKXmQXhArqFNS1JkBOmC49RR3bNxPKnJthmO9nUtBRF6XyT215BhBtA3359TtomuTDqbuqjNl7YMyZRFJsv4IvDAb1YvuPVC-oPNN_DDP4KRMAdqEjSy6sIGVfZuwqFEMIzPW05upFj4eMZkyZhguhU_wob697B4DQgWFtLxWumAHVzipCo-y09vq8bfDdAoJ6Im35oy62HIsC8Ot1Pog30rePdITCmDJfCCvt9Kj908fte-V6JbBI5TSnjdEJhtWsIIiIQvqChqffKVNzbva_gFcAeCunapVFdv86ypEe1MZIdgzrkSGvRTwNyq8u7Q6JqA7QpCTPyKspXXb9r7w",
-          "thumbnail_path": "channels/farsi_iranwire/media/c6bd3691230ed4026a54a74f.jpg",
-          "thumbnail_sha256": "327b1d2ef6f8c9d75a3f398831ff1b6ccae8ad6793fd04ea08812eec0117861d",
-          "duration_label": "1:02",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.41K",
-      "posted_at": "2026-09-06T18:35:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93424",
       "reply": null
     }
   ]
