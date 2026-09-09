@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T00:31:36.429Z",
+  "fetched_at": "2026-09-09T00:36:41.368Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356420",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "الن برستین، بازیگر ۹۳ ساله آمریکایی و برنده اسکار، شیر طلایی افتخاری هشتادوسومین جشنواره فیلم ونیز را برای یک عمر دستاورد هنری دریافت کرد.<br>او در سخنرانی خود با اشاره به تغییر جایگاه زنان در صنعت سینما، ابراز امیدواری کرد حضور زنان در این عرصه پررنگ‌تر شود.<br><br>گزارش صدف باغبانی، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "الن برستین، بازیگر ۹۳ ساله آمریکایی و برنده اسکار، شیر طلایی افتخاری هشتادوسومین جشنواره فیلم ونیز را برای یک عمر دستاورد هنری دریافت کرد.\nاو در سخنرانی خود با اشاره به تغییر جایگاه زنان در صنعت سینما، ابراز امیدواری کرد حضور زنان در این عرصه پررنگ‌تر شود.\n\nگزارش صدف باغبانی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356420",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/N8YH9mfJUaRCVxmB51IRpaFDiphqyTp45lRJQGrA0b9RaIBeP65HJ6Bn32WUcKtqrwO-prv7NNbg75OoQzZnTA9Qx7e3oHnMbWUEJ4L10AQKQCaBV7hET8DcsfW-3ylqhu7-ckBYb2V_I6vMB6w7jwTAqYKw0vCW0q4HQB_bytp5uJ1Qm2xRuus7U4jFEBIGPGwJzVa3b3nw9PRamx_A4fwrIRB0bB_DuEyT8bZIW0EiHX2Wv2pQRREXfwfWFUvFhbBEramO0LUTyoHFR8ZwmXSxwynxHEIPRDF2bjXirglkKMX60h7plWBQZptk0zh2sGustlfBHO4ufP0d9qeHAw",
+          "thumbnail_path": "channels/iranintltv/media/3fa59ab51ab4a0567c1f1b5f.jpg",
+          "thumbnail_sha256": "4aaaec5874e9e85258208ac4c7d19f423320e9d3f0c1b3e70af2417cbf15f997",
+          "duration_label": "1:43",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.73K",
+      "posted_at": "2026-09-09T00:32:19+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356420",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356419",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.03K",
+      "views_label": "3.44K",
       "posted_at": "2026-09-09T00:25:47+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356419",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.47K",
+      "views_label": "4.84K",
       "posted_at": "2026-09-09T00:20:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356418",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.9K",
+      "views_label": "10.9K",
       "posted_at": "2026-09-08T23:55:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356417",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.86K",
+      "views_label": "10.5K",
       "posted_at": "2026-09-08T23:53:41+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356416",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.71K",
+      "views_label": "10.4K",
       "posted_at": "2026-09-08T23:52:02+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356415",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.4K",
+      "views_label": "11.1K",
       "posted_at": "2026-09-08T23:48:32+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356414",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.2K",
+      "views_label": "20.8K",
       "posted_at": "2026-09-08T23:13:57+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356413",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.6K",
+      "views_label": "21.3K",
       "posted_at": "2026-09-08T23:12:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356412",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.4K",
+      "views_label": "26.7K",
       "posted_at": "2026-09-08T22:51:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356410",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.7K",
+      "views_label": "27.1K",
       "posted_at": "2026-09-08T22:48:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356409",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.1K",
+      "views_label": "32.5K",
       "posted_at": "2026-09-08T22:34:05+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356406",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.9K",
+      "views_label": "33.2K",
       "posted_at": "2026-09-08T22:29:25+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356405",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33K",
+      "views_label": "33.4K",
       "posted_at": "2026-09-08T22:26:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356404",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.1K",
+      "views_label": "34.7K",
       "posted_at": "2026-09-08T22:21:38+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356403",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36K",
+      "views_label": "36.3K",
       "posted_at": "2026-09-08T22:14:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356401",
@@ -497,7 +525,7 @@
       "plain_text": "🎧نسخه صوتی برنامه با کامبیز حسینی | دارو نیست؛ پولش هم نیست؛ داروی شما پیدا می‌شود؟\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "34.6K",
+      "views_label": "34.9K",
       "posted_at": "2026-09-08T22:13:00+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356400",
@@ -525,7 +553,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.1K",
+      "views_label": "38.4K",
       "posted_at": "2026-09-08T22:08:44+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356399",
@@ -553,7 +581,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.1K",
+      "views_label": "47.4K",
       "posted_at": "2026-09-08T21:50:26+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356398",
@@ -609,7 +637,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "59.8K",
+      "views_label": "60.1K",
       "posted_at": "2026-09-08T21:15:39+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356396",
@@ -2721,34 +2749,6 @@
       "posted_at": "2026-09-08T13:20:20+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356319",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356318",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "یک منبع مطلع به ایران‌اینترنشنال گفت نرگس حیدری، از بازداشت‌شدگان اعتراضات دی‌ماه، از سوی دادگاه به پنج سال حبس و یک سال مجازات تکمیلی تحت عنوان «امر به معروف» محکوم شده است.<br><br>به گفته این منبع، این مجازات تکمیلی به دلیل فعالیت‌های ورزشی نرگس حیدری بدون رعایت حجاب اجباری برای او صادر شده است.<br><br>نرگس حیدری، متولد ۱۳۶۷ و مربی فیتنس، ۲۹ دی‌ماه ۱۴۰۴ در ایذه بازداشت شد.<br><br>پیش از این نیز برادر او، نعمت حیدری، ۹ دی‌ماه ۱۴۰۴ بازداشت شده بود.<br><a href=\"https://iranintl.com/202609086176\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609086176</a>",
-      "plain_text": "یک منبع مطلع به ایران‌اینترنشنال گفت نرگس حیدری، از بازداشت‌شدگان اعتراضات دی‌ماه، از سوی دادگاه به پنج سال حبس و یک سال مجازات تکمیلی تحت عنوان «امر به معروف» محکوم شده است.\n\nبه گفته این منبع، این مجازات تکمیلی به دلیل فعالیت‌های ورزشی نرگس حیدری بدون رعایت حجاب اجباری برای او صادر شده است.\n\nنرگس حیدری، متولد ۱۳۶۷ و مربی فیتنس، ۲۹ دی‌ماه ۱۴۰۴ در ایذه بازداشت شد.\n\nپیش از این نیز برادر او، نعمت حیدری، ۹ دی‌ماه ۱۴۰۴ بازداشت شده بود.\nhttps://iranintl.com/202609086176",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356318",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/hjE81IPTDHXcU6A9DkdS2aUeoUOY7QHXZ7QfGgcnrS7EX1n-OcrpAuUbU8g-2x1PKfYF7CP8J_ZVXl0HrMLDbHWiMuoPOyfc0AfptqeiIfhwHNhAvT6R08ZJu0DxFX_28x5lbb6_sIKllioUwpVRkKy918fxYtWcZ33XfmkfHlWG7ZIa9_eaq9zwyrzwXM8PQ5fS8p-4vMMQRzlYgr_mnTM2nByxLUxmpaCR-sbJJvfyNyHeT9SxbemTkjlDwgEsLt4TZDUdHpLOIPPjoyFZGW-4uAtOhVSxVndYD1O9vUAHSEAarThz4HYWIe4SPbVW3pkRoMJcKTjAug4f9kfIHg.jpg",
-          "thumbnail_path": "channels/iranintltv/media/6ad7263e2e2541709b05bfc4.jpg",
-          "thumbnail_sha256": "033887e49fc2c5a84617ef5401f2e310bd165148a3e80adc4d10660ee412cb60",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "34K",
-      "posted_at": "2026-09-08T13:13:27+00:00",
-      "edited": true,
-      "permalink": "https://t.me/IranintlTV/356318",
       "reply": null
     }
   ]
