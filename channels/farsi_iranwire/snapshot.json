@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T10:31:43.810Z",
+  "fetched_at": "2026-09-09T10:37:07.836Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -8,9 +8,93 @@
     "photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
     "photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
     "photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-    "subscriber_count": "47.9K"
+    "subscriber_count": "47.8K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93514",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "فردی با لباس نیروی انتظامی با انتقاد از شرایط اقتصادی می‌گوید: «مردم حق دارند اعتراض خود را بیان کنند. من با این لباس نیروی انتظامی ناراضی‌ام؛ وای به حال مردم.»<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "فردی با لباس نیروی انتظامی با انتقاد از شرایط اقتصادی می‌گوید: «مردم حق دارند اعتراض خود را بیان کنند. من با این لباس نیروی انتظامی ناراضی‌ام؛ وای به حال مردم.»\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Farsi_Iranwire/93514",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Vokvix9bGUX0AVeHoWG8CmpDH3gcHdwd62Ur6ER09rr8mEgVF_RkKXhECZ4O-QCrisTw7Sa0ab0muu7H0lZouOL54a4QKiz-Ri2QL90VYVxDDvfskdT5UCxejBjKtjOk2zINlOOAwrUrBEEVxP8P8RTb-tPugzpaSiArcno5LBgjcgpDfZipj_8uZjGVlKGRDB7MjvrY4XIRAr_LJdEAJOjJl8nki4ZaZaDHpfSfMIvMpV0L1J4nTKGZXyc1dWcOmNgMtO8I_htnexobhrH-46SWJRAT4BHlwtPcSPntYFLEw9gPq9zQ1kl96JOZdgCPcgh3nUQ66gDuFEsnpgac7g",
+          "thumbnail_path": "channels/farsi_iranwire/media/3ddc0dfbe9f153e6a7bbb8a6.jpg",
+          "thumbnail_sha256": "abe1aeb3270046801ccb0a396321ff3a0e51efe1af8414892a06f949de07631a",
+          "duration_label": "1:30",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-09T10:37:05+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93514",
+      "reply": null
+    },
+    {
+      "id": "Farsi_Iranwire/93513",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "تلاش‌ها برای کنار زدن «مسعود پزشکیان» از ریاست‌جمهوری وارد مرحله تازه‌ای شده است. یک نماینده مجلس می‌گوید در نشست غیرعلنی نمایندگان با «محمدباقر قالیباف»، موضوع «عدم کفایت» پزشکیان مطرح شده و یکی از نمایندگان تهران با مقایسه او با «ابوالحسن بنی‌صدر» گفته است رییس‌جمهور توانایی اداره کشور را ندارد و باید کنار برود.<br><br>بخوانید : <a href=\"https://iranwire.com/fa/news-1/157369\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157369</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "تلاش‌ها برای کنار زدن «مسعود پزشکیان» از ریاست‌جمهوری وارد مرحله تازه‌ای شده است. یک نماینده مجلس می‌گوید در نشست غیرعلنی نمایندگان با «محمدباقر قالیباف»، موضوع «عدم کفایت» پزشکیان مطرح شده و یکی از نمایندگان تهران با مقایسه او با «ابوالحسن بنی‌صدر» گفته است رییس‌جمهور توانایی اداره کشور را ندارد و باید کنار برود.\n\nبخوانید : https://iranwire.com/fa/news-1/157369\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93513",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/CMaa0yBPAR23GBKKTWV4Ir6h-a5Jpj3-y8kCdcu8cCX-wmI2h34G9-jsGl3bamkQ71pxfRFhOztxa9V-ZKccmU9yG5OfBhcALZ3_Xozb9fSh1u9cIMfbcEAeuWpeeLoGm_zCrhjKqEWfP-8bQYfHQ7tJyJT5DRbVrMAHsmPBbdg72bPKO6iUjV5-2A8tNWp11dSUYmSCv7PeJTb77To3U1FGAfQOFSyVaPsVyWyemzcsSlvFiNxpVtMkBZz0FrihomMD-yxVJJUnZUqsvqk56seMOGsISXopm9LO28ui-kYO1_xdA91vHsD-BWgZZq0S5S4WbdrLd3_vQzSTEdHfkw.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/347c2281c8c712187df60bb9.jpg",
+          "thumbnail_sha256": "3dc1c4ab2e21eaebb510de80484bf6334bcdb8355aaec2c63197f077339af728",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-09T10:36:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93513",
+      "reply": null
+    },
+    {
+      "id": "Farsi_Iranwire/93512",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "سرخط خبرها، ظهر چهارشنبه ۱۸ شهریور در تلویزیون ایران‌وایر<br>تلویزیون ایران‌وایر را روی ⁩ماهواره «موناکوست» (ترکمن‌عالم) فرکانس ۱۰۷۶۲ افقی. سیمبل ریت سی هزار تماشا کنید. نسخه اس دی را نیز می‌توانید روی فرکانس ۱۰۸۴۵ عمودی . سیمبل ریت ۲۷۵۰۰ در خاورمیانه (ایران) و اروپا بگیرید.‌<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "سرخط خبرها، ظهر چهارشنبه ۱۸ شهریور در تلویزیون ایران‌وایر\nتلویزیون ایران‌وایر را روی ⁩ماهواره «موناکوست» (ترکمن‌عالم) فرکانس ۱۰۷۶۲ افقی. سیمبل ریت سی هزار تماشا کنید. نسخه اس دی را نیز می‌توانید روی فرکانس ۱۰۸۴۵ عمودی . سیمبل ریت ۲۷۵۰۰ در خاورمیانه (ایران) و اروپا بگیرید.‌\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Farsi_Iranwire/93512",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qz8_G36Znd2hJdQ47Q1u4_429JGDltko2ncLNEDQrd4shWSehQRQJsVctPvpYza_3bNs6Ay5Otqlhx9NxWntAACNEfjBEsBGRsXJC94Dr8C64Y0SLCPLtW6SvamGLOAPryVNfzVd2sS_DO3vnPx1zSCi29R1UgqSdGW-vPXTgUILmu9LR-msZ2DKEFbj2onHOAuyF_gsJOeMOK4vmdgNZIi8_2mf36gacQwFQ5qTZnnb00zcsQRSK53pruEiZEcDQZuoenDDFwAxra6GdurceCt_FouzTSTil57uw-38wJAdjvOka6rX7RpTxDnf10paOs6mq9bPKZHXf9Ct9GKc7Q",
+          "thumbnail_path": "channels/farsi_iranwire/media/fbd7052d01b1eefa1f6d2ca1.jpg",
+          "thumbnail_sha256": "d474a2ab290820e63becc5ab69c4a78c7ce2d834785cc616931ba461ead84e5f",
+          "duration_label": "0:52",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "49",
+      "posted_at": "2026-09-09T10:34:04+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93512",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93511",
       "author_name": "Iranwire",
@@ -33,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "338",
+      "views_label": "394",
       "posted_at": "2026-09-09T09:48:46+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93511",
@@ -61,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "441",
+      "views_label": "473",
       "posted_at": "2026-09-09T09:35:46+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93510",
@@ -89,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "560",
+      "views_label": "581",
       "posted_at": "2026-09-09T09:12:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93509",
@@ -117,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "589",
+      "views_label": "608",
       "posted_at": "2026-09-09T09:05:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93508",
@@ -145,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "670",
+      "views_label": "687",
       "posted_at": "2026-09-09T08:47:52+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93507",
@@ -173,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "723",
+      "views_label": "737",
       "posted_at": "2026-09-09T08:35:51+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93506",
@@ -201,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "840",
+      "views_label": "849",
       "posted_at": "2026-09-09T07:58:23+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93505",
@@ -229,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "796",
+      "views_label": "801",
       "posted_at": "2026-09-09T07:50:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93504",
@@ -257,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "923",
+      "views_label": "932",
       "posted_at": "2026-09-09T07:25:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93503",
@@ -285,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "981",
+      "views_label": "989",
       "posted_at": "2026-09-09T07:10:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93502",
@@ -313,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.05K",
+      "views_label": "1.06K",
       "posted_at": "2026-09-09T07:01:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93501",
@@ -341,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.08K",
+      "views_label": "2.09K",
       "posted_at": "2026-09-08T21:53:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93500",
@@ -453,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.72K",
+      "views_label": "1.73K",
       "posted_at": "2026-09-08T18:31:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93496",
@@ -2713,90 +2797,6 @@
       "posted_at": "2026-09-06T10:29:21+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93412",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93411",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "دادگاه تجدیدنظر استان خراسان رضوی احکام صادر شده علیه ۱۲ شهروند بازداشت‌شده در اعتراضات دی ۱۴۰۴ در سبزوار، از جمله یک نوجوان ۱۷ ساله، را عینا تایید کرده است.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157226\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157226</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "دادگاه تجدیدنظر استان خراسان رضوی احکام صادر شده علیه ۱۲ شهروند بازداشت‌شده در اعتراضات دی ۱۴۰۴ در سبزوار، از جمله یک نوجوان ۱۷ ساله، را عینا تایید کرده است.\nبخوانید: https://iranwire.com/fa/news-1/157226\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93411",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qIeDS2rVft4WpHYEYHsRN8y7osm9_MDykb48Qo-Bja-TpVPslNKDBTzo-taCilNsxvxtZJaqMtj_jBs_OByXft_kMjRVsGM2qKS2toT-dtnyaIZbsQkOgOkzuZ736x0DRLq2cCRsoLjHNBbKYiPT-cUWr-yzRxVDStL_40Jxz0Cb64jIriXpl1zDMPi-UJU-o5K0wrQZtnnGR_QunXqFrqnKMNIHV-u7qouXEhXqJBJv-0AGu29aBnX_iRMMhJouzIarpSmV8pNCWLCpPhZ2vUXHQ4dqmkn1hH4NIQ30PiFF_O3SmGSotqby5o4VYkwaUOHHhz4oRG7LY3dNtXbWHA.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/8379002acc945092c37600a2.jpg",
-          "thumbnail_sha256": "e456799990c605ca44746a5f68d5b95a6f6a2da7e5c26aa12e08dd35a9768a73",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.64K",
-      "posted_at": "2026-09-06T09:10:48+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93411",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93410",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "پس از تخریب سنگ مزار ایلیا اجاقلو، از کشته شدگان اعتراضات دی ۱۴۰۴، پدر او عکس دو برادرش را که در جریان جنگ هشت ساله کشته شده بودند را برداشت.<br>طاهر و ناصر اجاقلو در جنگ هشت‌ساله ایران و عراق کشته شده بودند و در همان آرامستان به خاک سپرده شده‌ بودند.<br>مادر ایلیا می‌گوید: «طاهر و ناصر در راه دفاع از وطن کشته شدند، ایلیای من هم شهید وطن و جان‌فدای وطن است.»<br>ایلیا ۱۸ سال داشت، برای کنکور آماده می‌شد و می‌خواست دندانپزشکی بخواند. او شامگاه ۱۸دی۱۴۰۴ در اعتراضات زنجان با گلوله جنگی به قلبش کشته شد.<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "پس از تخریب سنگ مزار ایلیا اجاقلو، از کشته شدگان اعتراضات دی ۱۴۰۴، پدر او عکس دو برادرش را که در جریان جنگ هشت ساله کشته شده بودند را برداشت.\nطاهر و ناصر اجاقلو در جنگ هشت‌ساله ایران و عراق کشته شده بودند و در همان آرامستان به خاک سپرده شده‌ بودند.\nمادر ایلیا می‌گوید: «طاهر و ناصر در راه دفاع از وطن کشته شدند، ایلیای من هم شهید وطن و جان‌فدای وطن است.»\nایلیا ۱۸ سال داشت، برای کنکور آماده می‌شد و می‌خواست دندانپزشکی بخواند. او شامگاه ۱۸دی۱۴۰۴ در اعتراضات زنجان با گلوله جنگی به قلبش کشته شد.\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Farsi_Iranwire/93410",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/rRxKFz51ZHrp-HwWfSWdNmImaF46xE6QA1cAAWB9K2EKbzxQchdNQ8LtXUTfx69jb8UbR2KgTEzAmMHJ7ILyr9_tG8zycVwVkCSMchIipQ15CeNdRy3Api0kVudwDT1_psSN1yJeZyGn2v1wVWKpUJ9OnnvQnaQK2cIfK1vCsR-CrMIiVHajfyq7s75QSFZagQ64ZKNryI8zTM2EyWuqk74L5CpyezOCxkTfWIiDqkUEvGhGZ-fi5DmxyH6Q9FVWIi2nL7vxf7Q8XaKUhv_IZr-on39y3oQNm-gq5RrewI25C03Dbw4kqjAGUOIiaRLAv-WJ5xaPUELXPAGHFyqB_g",
-          "thumbnail_path": "channels/farsi_iranwire/media/a062f65336631b5db0bcd33b.jpg",
-          "thumbnail_sha256": "d25c321ef8fa4752ed366390d5e60d66bd79a2267da3a98d50bb04eed012b871",
-          "duration_label": "1:04",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.74K",
-      "posted_at": "2026-09-06T09:07:16+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93410",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93409",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "ایلیا اجاقلو، نوجوان ۱۸ ساله و تنها فرزند خانواده‌ای در زنجان، شامگاه ۱۸دی۱۴۰۴ در جریان اعتراضات این شهر با اصابت گلوله جنگی به قلبش کشته شد. ایلیا تازه دیپلم گرفته بود و خود را برای شرکت در کنکور آماده می‌کرد. به گفته نزدیکانش، او قصد داشت در دانشگاه دندانپزشکی بخواند.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157227\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157227</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "ایلیا اجاقلو، نوجوان ۱۸ ساله و تنها فرزند خانواده‌ای در زنجان، شامگاه ۱۸دی۱۴۰۴ در جریان اعتراضات این شهر با اصابت گلوله جنگی به قلبش کشته شد. ایلیا تازه دیپلم گرفته بود و خود را برای شرکت در کنکور آماده می‌کرد. به گفته نزدیکانش، او قصد داشت در دانشگاه دندانپزشکی بخواند.\nبخوانید: https://iranwire.com/fa/news-1/157227\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93409",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/GVxMBcO0hQytD82Sjy-Eh7ffGU75pvmwCOLUWocNA-hiDx2el_laoxOMwp2cboCrICaRdArOlMi4WOP9D8Jy5vClTG44MMvTCTMKZ_M1lc-7G0sm165aTXXdCS7LR7KKIrws8qVq9XzoJA9uBZrYEQQMP3tuxPfJzgglaJC5JcjC6ixyjTrX3tD0bbTPmoASKtRrIJ86QYfuXzHiUlmq_2eIfq6q086Q1Yg6L5kKJkFRbf4Avwni9F1PZDdKJ7lwB2Ek7uNTvB-njujza6X_z-nf9q99dudxkKGA5RNUXo1uaqzm-mQuVqHWn3wexuEuR2KcmEe-nNomeT6izpReKQ.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/189618322b5287b4d4cc260c.jpg",
-          "thumbnail_sha256": "6c5a5c3d3763aa8132106bdffce941a103f599d2bceb29f470ca2cd0b20a67fe",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.49K",
-      "posted_at": "2026-09-06T09:02:54+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93409",
       "reply": null
     }
   ]

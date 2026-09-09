@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T10:31:50.072Z",
+  "fetched_at": "2026-09-09T10:37:15.054Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -11,6 +11,22 @@
     "subscriber_count": "217K"
   },
   "posts": [
+    {
+      "id": "sahamnewsorg/147231",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/smAW_InWz98OrCURLxT9xranMh7tpFlLWV8zSZVibheTG3rKNcOtlMDWTt5JD8IaKVnpsx9Ot66idtDLHzf9pnQYniC5FGwhRuBWsCRwCX0-Mj9l4ogp_2OpFW0-A9FLwU-A1UcUeCsCK6kk8Lzo21xN1YNrtRrAlaqGaAofukdu1m0nYvC_OEUKkWfqLcQl6GUi6IfPKF71EHtCCM9lOVBTXeyyryPb6CUPK3qxuAD5Fcji9pxUZDZ-_FOXDtLpAl-nEy9GeiVn2HK7Uy8jQlYyYtABHS0F4acebiApw4Jqs5gekS8pQMwI0M3Fiux_NuY2uT2ctGm-dm4tcnSe8g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/05b9e04486c2e24c97c8a56b.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>سنتکام: ادعای سپاه درباره حمله به دو ناو آمریکایی «کاملاً نادرست» است</b><br><br>فرماندهی مرکزی ایالات متحده (سنتکام) ادعای سپاه پاسداران درباره حمله موفق به دو ناو جنگی نیروی دریایی آمریکا در خاورمیانه را رد کرد و اعلام کرد هیچ‌یک از ناوهای آمریکایی مورد اصابت قرار نگرفته‌اند.<br><br>سنتکام تأکید کرد تمامی تلاش‌های سپاه برای هدف قرار دادن شناورهای آمریکایی ناموفق بوده و ناوهای نیروی دریایی آمریکا به عملیات خود ادامه داده‌اند.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅سنتکام: ادعای سپاه درباره حمله به دو ناو آمریکایی «کاملاً نادرست» است\n\nفرماندهی مرکزی ایالات متحده (سنتکام) ادعای سپاه پاسداران درباره حمله موفق به دو ناو جنگی نیروی دریایی آمریکا در خاورمیانه را رد کرد و اعلام کرد هیچ‌یک از ناوهای آمریکایی مورد اصابت قرار نگرفته‌اند.\n\nسنتکام تأکید کرد تمامی تلاش‌های سپاه برای هدف قرار دادن شناورهای آمریکایی ناموفق بوده و ناوهای نیروی دریایی آمریکا به عملیات خود ادامه داده‌اند.\n\n@Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "320",
+      "posted_at": "2026-09-09T10:35:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/147231",
+      "reply": null
+    },
     {
       "id": "sahamnewsorg/147230",
       "author_name": "سهام نیوز",
@@ -33,7 +49,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.14K",
+      "views_label": "4.59K",
       "posted_at": "2026-09-09T10:28:25+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147230",
@@ -61,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7.39K",
+      "views_label": "9.54K",
       "posted_at": "2026-09-09T10:17:04+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147229",
@@ -77,7 +93,7 @@
       "plain_text": "✅امروز یک کشتی در شمال غربی بندر رشید در امارات متحده عربی مورد هدف قرار گرفت\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "9.23K",
+      "views_label": "11.1K",
       "posted_at": "2026-09-09T10:12:34+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147228",
@@ -105,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.85K",
+      "views_label": "11.7K",
       "posted_at": "2026-09-09T10:10:40+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147227",
@@ -133,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.3K",
+      "views_label": "13.8K",
       "posted_at": "2026-09-09T10:02:43+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147226",
@@ -161,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.7K",
+      "views_label": "20.6K",
       "posted_at": "2026-09-09T09:30:15+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147225",
@@ -177,7 +193,7 @@
       "plain_text": "✅افشاگری مرتضی زارعی،نماینده مجلس: یک نماینده و حزب «شین» دنبال کودتا علیه دولت پزشکیان بود\n\n🔸 مرتضی زارعی، نماینده مجلس، در یادداشتی در شبکه اجتماعی گفت یک نماینده و جریان سیاسی نزدیک به او با نام اختصاری «ش» در پی طراحی اقدامی علیه دولت پزشکیان بوده‌اند؛ اقدامی که او از آن با عنوان «کودتا علیه دولت مستقر» یاد کرده است.\n\n🔸 او البته به پیوست توییت خود، نوشته‌ای از حمید رسایی را پیوست کرده که عضو ارشد حزب شریان است.\n\n🔸 زارعی نوشته این طرح در جلسه اخیر مجلس با واکنش شدید نمایندگان مواجه شده و طراح آن نیز پس از طرح اطلاعاتی از سوی محمدباقر قالیباف، مورد اعتراض و «هو» شدن قرار گرفته است.\n\n🔸 او بدون نام بردن صریح از فرد مورد نظر، نوشته این نماینده پیش‌تر نیز فراخوان‌های خیابانی علیه قوه مقننه داشته و در میانه جنگ، طرحی برخلاف تدابیر رهبری ارائه کرده است.\n\n🔸 زارعی همچنین تهدید کرده در صورت ادامه «شانتاژ»، جزئیات بیشتری از جلسه و اطلاعات مطرح‌شده درباره این فرد و حزبش را منتشر خواهد کرد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "21.5K",
+      "views_label": "22.4K",
       "posted_at": "2026-09-09T09:18:19+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147224",
@@ -205,7 +221,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.5K",
+      "views_label": "22.4K",
       "posted_at": "2026-09-09T09:12:29+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147223",
@@ -221,7 +237,7 @@
       "plain_text": "✅دلار از ۲۳۰ هزار تومان گذشت\n\nدر پی افزایش دوباره تنش‌های نظامی در خاورمیانه، قیمت دلار در بازار آزاد ایران، از ۲۳۰ هزار تومان گذشت. در همین راستا، یورو به ۲۷۰ هزار تومان و پوند بریتانیا به ۳۱۱ هزار تومان رسید.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "25.8K",
+      "views_label": "26.5K",
       "posted_at": "2026-09-09T08:46:40+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147222",
@@ -237,7 +253,7 @@
       "plain_text": "‏✅شب سخت نفتکش های ایران\n\n✍️عبدالله باباخانی\nبا هدف قرار گرفتن ۵ نفتکش در ۸ سپتامبر و ۳ نفتکش در ۵ سپتامبر، شمار نفتکش‌های هدف‌گرفته‌شده توسط سنتکام به ۱۶ فروند رسیده است.\n\n‏از این تعداد، ۶ نفتکش متعلق به/وابسته به شرکت ملی نفتکش ایران (NITC) و ۱۰ فروند دیگر متعلق به شبکه حمل نفت ایران با مالکیت خارجی بوده‌اند.\n\n‏ایران مالکیت حدود ۴۹ نفتکش در ناوگان رسمی خود دارد؛ بنابراین آسیب یا خروج از مدار ۶ نفتکش، معادل حدود ۱۲٪ ناوگان رسمی ایران است.\n\n‏نفتکش ها مانند پالایشگاه ها از اهمیت تاسیسات زیربنایی انرژی برخوردارند و هرگونه حمله ای به آنها حمله به تاسیسات انرژی محسوب میگردد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "28K",
+      "views_label": "28.6K",
       "posted_at": "2026-09-09T08:34:48+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147221",
@@ -274,7 +290,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28K",
+      "views_label": "28.6K",
       "posted_at": "2026-09-09T08:29:39+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147220",
@@ -302,7 +318,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.7K",
+      "views_label": "28.3K",
       "posted_at": "2026-09-09T08:22:50+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147219",
@@ -318,7 +334,7 @@
       "plain_text": "✅آمریکایی‌ها چند نفت‌کش ایرانی و کدام‌ها را زدند؟\n\nسنتکام، فرماندهی مرکزی ارتش آمریکا، می‌گوید دیشب و بامداد امروز این پنج نفت‌کش را از کار انداخته است:\n\n🔰 ام‌تی کاویز،\n🔰 ام‌تی چارمینار،\n🔰 ام‌تی هورایزن ۱،\n🔰 ام‌تی دریا؛ همگی در نزدیکی خارگ و جاسک از کار افتاده‌اند و\n🔰 ام‌تی ریسکو در دریای عمان غرق شد.\n\nسنتکام، می‌گوید این نفت‌کش‌ها را در پاسخ به حمله‌های شب‌های گذشته علیه کشتی‌های نیروی دریایی آمریکا از میان برده- و تاکید کرده ناو آمریکایی که دوشنبه‌ هدف گرفته شد با موفقیت از حمله موشکی ایران گریخت، به گشت‌زنی در آب‌های منطقه ادامه داد و هیچ‌یک از نیروهای آمریکایی در این حمله‌ها آسیب ندیدند.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "28K",
+      "views_label": "28.6K",
       "posted_at": "2026-09-09T08:18:54+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147218",
@@ -355,7 +371,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.6K",
+      "views_label": "30.2K",
       "posted_at": "2026-09-09T08:05:26+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147217",
@@ -392,7 +408,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.4K",
+      "views_label": "32K",
       "posted_at": "2026-09-09T07:49:12+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147216",
@@ -420,7 +436,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32K",
+      "views_label": "32.6K",
       "posted_at": "2026-09-09T07:39:59+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147215",
@@ -436,7 +452,7 @@
       "plain_text": "✅کیفرخواست فساد در فوتبال\n\n✍️یاشار سلطانی\n‏در پرونده فساد فوتبال⁩، برای تعدادی از مدیران ارشد و چهره‌های فدراسیون فوتبال به اتهام #اختلاس⁩ کیفرخواست صادر شده است.\n\n▫️مهدی تاج⁩\n‏▫️محمدمهدی نبی\n‏▫️احسان اصولی‌صفا\n‏▫️تهمورث حیدری\n‏▫️خداداد افشاریان\n\n‏بر اساس قانون با صدور کیفرخواست همگی این افراد از حضور در فدراسیون منع و از کار منفصل می‌شوند.\n\n‏این فقط یک پرونده درباره چند مدیر فوتبالی نیست؛ پای ساختاری در میان است که سال‌ها بر فوتبال ایران حکومت کرده!\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "35.7K",
+      "views_label": "36.3K",
       "posted_at": "2026-09-09T07:18:52+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147214",
@@ -452,7 +468,7 @@
       "plain_text": "✅انتقاد فلاحت پیشه از هدف قرارگرفتن نفت کش ها\n\nشرکت ملی ⁧ نفتکش ایران⁩، بزرگترین شرکت نفتکش دنیاست . ثروت های بی بدیل کشور را آتش می زنند. آنگونه که افغان ها جوانان رشید اصفهان را برای مسابقه شکار ، ⁧گلچین⁩ می کردند.باید به این ⁧ #ایران_سوزی⁩ پایان داد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "35.8K",
+      "views_label": "36.4K",
       "posted_at": "2026-09-09T07:14:15+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147213",
@@ -468,7 +484,7 @@
       "plain_text": "✅رشد ۴۴۴۴۴ واحدی بورس تهران\n\n🔹شاخص کل بورس تهران ۴۴۴۴۴ مثبت و وارد کانال ۷.۱ میلیون واحد شد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "35.7K",
+      "views_label": "36K",
       "posted_at": "2026-09-09T07:04:28+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147212",
@@ -2322,34 +2338,6 @@
       "posted_at": "2026-09-07T17:14:47+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147132",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147131",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/FKF1cckJAUtPCvrEDvhdUz7NZYvAf1EHIJitsyRN8VE6idlFJSlSu2K2xwDGVxKifuLkRZo545Eqoc49ZLmPoSTyOLoyCKDmEN3g4SAk_F1iRgeiTdyhFUQAMgLZ_i79FYzHGzdPVDjFbMrSBqkn52UyYzaCp3ckUiaqX6ED8F0x46VghW61EdReQFxfqL1FfFJD5tD1JPbY4-VlLtyHG_j1T88K3wFHTxO0-qIYXcQF7V695Ey_HoDkfis8UETFy0hyQ9WdEneqSKbA4wd5fYVnHLYawYY5EhbuuZ_X_366M-abZdl4zvZZQgVaE4H3IDNMUExb2Ss8l2_ckTXB3A.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/bf7f0b170836be3cfa34280a.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>دونالد ترامپ به مقاله وال استریت ژورنال اشاره کرد که در آن ادعا شده: سران ایران خواستار پایان جنگ شدند</b><br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
-      "plain_text": "✅دونالد ترامپ به مقاله وال استریت ژورنال اشاره کرد که در آن ادعا شده: سران ایران خواستار پایان جنگ شدند\n\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/sahamnewsorg/147131",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/gCWUUOpwM6ahPaypimpYi4jUvqGJl2fGllfGftU-9L4FB-3RAxPpRbfRthKnJcaEnXAw9pN4zuhVXJGp1-ZtJ9O8jeQ8FYNH_RDMNqYawX960XZTwMko_W5lSbJTne6Hr3qACd6BUkqZxqW1jSVlPWy3lXtDb-Nxb1miR_sn8NhlRIcfCD9p6QpPU7E23lDTIYXjcQHtrQbhcrPRQe7NLN7LfCVPGlJ_aEzhUmn398jTW-DxJrL8wKTkr-9LPrJvvPl4bb7HdS5arXMKQOg-1C-9adAYag4xSYH-Q30qSPOUWsc9pvExxi5KjXRezsnFVh_LZzn3XngnS4cgdezZeA.jpg",
-          "thumbnail_path": "channels/sahamnewsorg/media/9e05671712be7922e9d76d8b.jpg",
-          "thumbnail_sha256": "48d4ae9efec22eb2ac2c0548cdd9cfa518eccb21637962754054ac5dfef9eea1",
-          "duration_label": null,
-          "aspect_ratio": 1.7897091722595078
-        }
-      ],
-      "reactions": [],
-      "views_label": "52.9K",
-      "posted_at": "2026-09-07T15:32:31+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147131",
       "reply": null
     }
   ]
