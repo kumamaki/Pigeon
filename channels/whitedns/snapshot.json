@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T08:41:45.689Z",
+  "fetched_at": "2026-09-09T08:46:55.184Z",
   "channel": {
     "username": "whitedns",
     "title": "White DNS",
@@ -35,11 +35,11 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "90"
+          "count": "104"
         },
         {
           "emoji": "❤",
-          "count": "15"
+          "count": "18"
         },
         {
           "emoji": "🤣",
@@ -58,11 +58,15 @@
           "count": "2"
         },
         {
+          "emoji": "👍",
+          "count": "1"
+        },
+        {
           "emoji": "💘",
           "count": "1"
         }
       ],
-      "views_label": "2.01K",
+      "views_label": "2.2K",
       "posted_at": "2026-09-09T08:20:51+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1740",
@@ -164,7 +168,7 @@
           "count": "1"
         }
       ],
-      "views_label": "11.9K",
+      "views_label": "12K",
       "posted_at": "2026-09-08T08:02:42+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1738",
@@ -852,7 +856,7 @@
           "count": "1"
         }
       ],
-      "views_label": "13.5K",
+      "views_label": "13.6K",
       "posted_at": "2026-09-05T17:01:47+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1723",
@@ -1080,8 +1084,8 @@
           "asset_url": "https://t.me/whitedns/1711",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn5.telesco.pe/file/MZ5AJlfYu1umk81kOc9GgW50Ab8sKMNJ24Q2hV_-W22DDHmkRliM5lx8fJHWjpB0g_jFdwTPb5_K97N3r9i7UDn3trS03QUG-kbKsCTneJwd0paDKrGR6ZgiMuAT9UfAsFXMAHaUd49GVM_0Smbprmy9tceuREFeyvDOSUPXV1t7XRhhml2B8lxNQM1PkLa94tmY27YrIEPqgMU68ejRpTU0FW8sT5-1ImMwERzmZIn6XcXmDO0P0RvKk_iYUJr7NBUCado90BMblo4InUPk0Ho9n19SrcC6KMMbpLHVSTDibZCQpl_1pgf615QWyuvbtlo9t5unTAWcQ-J7RmmygA.jpg",
-          "thumbnail_path": "channels/whitedns/media/a7438bc4a93142f2cc215ab5.jpg",
+          "thumbnail_url": "https://cdn5.telesco.pe/file/tvG3c7IDq9le5BGCEvUEZLdx_ThI3GvJ2VeUWG-rR-G9JM32i14ojADzhbOf9pS8IjURWokxrdnagZBX4t262wHmGTj040i0eS4YzRoZMUX9JoBIuDr_h_xthx0hQcZS4IOrqtBTMedHsa2XkiK_mFYVUYnWSnwXQbdTiFm8xgmoR5Jjm_kUF72Wvqu3TwxGZ2_zowFf0claW_P2CKnynE7usx7nVyKmbhQw1PscfdawP4oFXSMzV3ft4aPPYqjvTw4GG1sVqiZ6C1fAD0qmKb6aEyug404-67QR3tyGLujnXYmYA02jqjdZQ6IUr_aa4lYe-S77NAGSVlIjqPNy0g.jpg",
+          "thumbnail_path": "channels/whitedns/media/b4e90e3f9e3e785bf76853a1.jpg",
           "thumbnail_sha256": "50d51b8ad9e9fb278839f0468ec41b51db4a647099071ea3c115f87ac22f96b2",
           "duration_label": null,
           "aspect_ratio": 0.7500000000000188
@@ -1145,8 +1149,8 @@
           "asset_url": "https://t.me/whitedns/1712",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn5.telesco.pe/file/cV12CD8eK-dpOv7Fa2L-skDGe6zBInpw33tG1DrgOcFjtNjvbGbeN5WmJ_2XJcy2H0Btlci0Tmfxn-jNRzWPJVqhtivG3fZn-PIu99fD3WJ1XNtCNLfzTn7h1QYYo1m_XFUcZmhzi3DAVObGZz82v7mxl7gf1zuobWbVogIkcJfkH_-d93B0q3KdfmYt1carzGGR4gWz2hNDHDJTCkHKbUTUZrjD7EzuQ04pdnHmtUkhHetnEhxn9MBKUOrZkyJzQzLv9DbAVTCICjSvOPKS9U5oWspKhKyvrSYtY5Z_ckz6FXEBMWWi-mQwOxomRikG0_ti91Gy2-cFyBX0As8qFg.jpg",
-          "thumbnail_path": "channels/whitedns/media/de834aaf6891955f721f73a0.jpg",
+          "thumbnail_url": "https://cdn5.telesco.pe/file/NLErUndgYNPdiX49DV_fwI5e6WA5KgGZEhdheRuPr5dij6srz64sO2klI2OvfNRO_PTnIy0kTXiUHJgKz1J02w6K-h1NjOk5dorpolfCnXxS5KzLpJAK_FR1BQT6Mv9V10eTp2ZtseLdupMJpGBvezKZhOxP51VtvCeZhl7t0i6zndr3Qzgiedph6eQnKv8RNxWoFURB6ZsqPmWZRaghvVu_3mx4mjcZ47_yaq5m4b0VTLlhlVUyiopVvRX8Dp3V9AKo-9OUlN3FJ-i7ruf0kXBJeqaaVQ3JOtuPwKDGNVeB-WPj-_inBtoZmFfc9p1UJD2HF7RpJG56wtYGO2f5dw.jpg",
+          "thumbnail_path": "channels/whitedns/media/2c328b64640c4ff83a50e96a.jpg",
           "thumbnail_sha256": "83b3b63f1e063ce13515f059b47c01d533b1890806bfd56d8ce2088b2c1998a5",
           "duration_label": null,
           "aspect_ratio": 0.7500000000000188
