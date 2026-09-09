@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T13:36:46.431Z",
+  "fetched_at": "2026-09-09T13:41:34.998Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -35,7 +35,7 @@
       "reactions": [
         {
           "emoji": "😐",
-          "count": "207"
+          "count": "208"
         },
         {
           "emoji": "👍",
@@ -78,7 +78,7 @@
           "count": "1"
         }
       ],
-      "views_label": "22.2K",
+      "views_label": "22.3K",
       "posted_at": "2026-09-09T04:44:21+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2596",
@@ -116,7 +116,7 @@
         },
         {
           "emoji": "👍",
-          "count": "15"
+          "count": "16"
         },
         {
           "emoji": "🗿",
@@ -135,7 +135,7 @@
           "count": "5"
         }
       ],
-      "views_label": "14.4K",
+      "views_label": "14.5K",
       "posted_at": "2026-09-09T04:27:47+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2595",
@@ -169,7 +169,7 @@
         },
         {
           "emoji": "🔥",
-          "count": "193"
+          "count": "195"
         },
         {
           "emoji": "❤",
@@ -226,7 +226,7 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": "92"
+          "count": "93"
         },
         {
           "emoji": "👍",
@@ -299,7 +299,7 @@
       "reactions": [
         {
           "emoji": "👍",
-          "count": "229"
+          "count": "230"
         },
         {
           "emoji": "❤",
@@ -501,7 +501,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.9K",
+      "views_label": "16K",
       "posted_at": "2026-09-08T14:24:46+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2589",
@@ -521,8 +521,8 @@
           "asset_url": "https://t.me/ircfspace/2588",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/jQcx3spuCjvpy18gtd6z2IGU1N7RiIG2d3mkYyeysDNM0ilW8dw7VMeyDiQJ_yddGsC_AsQRB6HZzNeU7ehnOcggn3pmniK3jFBHCTUu9tSj9U4cEFPWmupNpUEsDaAEgYZOfoplZwq-9bZXeUE6VhSpbSGcPvffgjV7smeFeZyYPBEmOfXKanBgoqDPmbfkZx43Osxw15chUL2EWqR-Tzbr9-VN26k2etJAzJ5r-29_Z8XW_khG-ViRIr3R1Gd9DJ7c4_doqlRnfivjrWUfYKDW60ceYSKEIRVfTQOjpzqcuZ0o524VXIzcwuDufYdF6-ZlWA_X5WSlWNta6rfS-Q.jpg",
-          "thumbnail_path": "channels/ircfspace/media/24b6c6c69b4ee28e1ea2d314.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/P2cguGzuqbsF1Jx0HluWuErQ7CQ7NteXgxIHesgmWtnzDjKv1ZHrzeGZUQMxxPNbYlmBjkzB8-7lg3X0h7Ae3YWV0DraoL7NHiPwyp_iCi1yduHPVAOREKpj4BbjgmR9Qh-MfUyBmVdh9IQQXOypVvVAFRpdXDwJ4I1Ac7ZM2daaFES4YMqHAmA8z3QpX53Qck_-gHzQLnhBGSk-_WrhiWHDUUKXAIlxCqdRZ9C9rxmyrYmj8DO0nd49FuAH5_dfRQ4CZLzjjkrR1a4AofEJXLQPqOStyGyrF_PIYTXlu1wq1In30MsditzollGwZrVuxvWwGHtNXo4vraJ5DI3CdQ.jpg",
+          "thumbnail_path": "channels/ircfspace/media/de0cd89071a63693658ebf7e.jpg",
           "thumbnail_sha256": "df9dbdd4bc6eef223634e0a6e9312cee3f84d7547eee83838ffb9eb18f93ce3d",
           "duration_label": null,
           "aspect_ratio": 2
