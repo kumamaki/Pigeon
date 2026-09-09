@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T11:16:36.647Z",
+  "fetched_at": "2026-09-09T11:21:43.379Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229972",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "الجزیره به نقل از یک مقام آمریکایی، حملات موشکی جمهوری اسلامی طی بامداد چهارشنبه هجدهم شهریورماه را بی اثر توصیف کرد.<br><br>الجزیره نام این مقام را فاش نکرد، اما یادآور شد که «رگباری از موشک‌های بالستیک» شلیک شده از سوی جمهوری اسلامی به سوی نیروهای آمریکایی در اردن، هیچ تلفاتی به بار نیاورده است.<br><br>این مقام آمریکایی تاکید کرد که موشک‌های شلیک شده، در برابر سامانه‌های یکپارچه دفاع هوایی و موشکی، بی‌اثر بوده است.<br><br>پیشتر اردن اعلام کرده بود که جمهوری اسلامی در حمله خود ۲۰ موشک بالستیک شلیک کرد که از این تعداد ۱۸ فروند رهگیری شدند و دو موشک نیز در فضای باز خالی از جمعیت فرود آمد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "الجزیره به نقل از یک مقام آمریکایی، حملات موشکی جمهوری اسلامی طی بامداد چهارشنبه هجدهم شهریورماه را بی اثر توصیف کرد.\n\nالجزیره نام این مقام را فاش نکرد، اما یادآور شد که «رگباری از موشک‌های بالستیک» شلیک شده از سوی جمهوری اسلامی به سوی نیروهای آمریکایی در اردن، هیچ تلفاتی به بار نیاورده است.\n\nاین مقام آمریکایی تاکید کرد که موشک‌های شلیک شده، در برابر سامانه‌های یکپارچه دفاع هوایی و موشکی، بی‌اثر بوده است.\n\nپیشتر اردن اعلام کرده بود که جمهوری اسلامی در حمله خود ۲۰ موشک بالستیک شلیک کرد که از این تعداد ۱۸ فروند رهگیری شدند و دو موشک نیز در فضای باز خالی از جمعیت فرود آمد.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229972",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/lpEcya9H2ABb4S7tWcqffzkPOsaf9Xn0aRy6viY_m4iMj4jE2F6Rrr26yoj8BCvhoimtlr1lNz17FDcrIZolIBn9a4fTPT9HteRrfmkYcMWk5CSQSwG2kHYe_4smuqOv005Npx8ITGKwUyDoIiwFm0p1DdMLh0XIaTxkj6iqJRmnrr2k-e7yV6cjYi60FW92OXby8X2aMsl_MwQxYG_vQLeFPcKvAGqFbAgVtQ8MtBqQGi0EFi-o9iiMesukbi6jLWHaaUX6AUqIHQNqe5HQ0prBqVQ8WSbFoaQxO17gi0Va8dXhvciIOhy6-8iR5btBzVpqo-vxmnKy4qLgfHy5Sg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/8f9ecc3bd8666bd7296525d3.jpg",
+          "thumbnail_sha256": "a31962b41373251e5f37e3aff0395776c632a7dc23b21006ef03fd8b76bb4677",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "254",
+      "posted_at": "2026-09-09T11:18:00+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229972",
+      "reply": null
+    },
     {
       "id": "farsivoa/229971",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "627",
+      "views_label": "814",
       "posted_at": "2026-09-09T11:05:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229971",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.3K",
+      "views_label": "1.46K",
       "posted_at": "2026-09-09T10:44:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229970",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.59K",
+      "views_label": "1.69K",
       "posted_at": "2026-09-09T10:32:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229969",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.84K",
+      "views_label": "1.96K",
       "posted_at": "2026-09-09T10:21:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229968",
@@ -133,7 +161,7 @@
       "plain_text": "🔺ژاپن پس از مخالفت با طرح جمهوری اسلامی درباره تنگه هرمز با عمان گفت‌وگو کرد\n\n▪️ژاپن و عمان نشست گفت‌وگوی حقوق بین‌الملل خود را با محوریت تنگه هرمز به‌صورت ویدئوکنفرانس برگزار کردند. این گفت‌وگو پس از آن انجام شد که ژاپن به جمهوری اسلامی اعلام کرد تعیین وضعیت تنگه هرمز به صورت دوجانبه بین ایران و عمان را قبول ندارد.\n\n▪️بر پایه اعلام وزارت امور خارجه ژاپن، دو طرف در روز سه‌شنبه دیدگاه‌های خود را درباره مسائل حقوق بین‌الملل مربوط به وضعیت پیرامون تنگه هرمز رد و بدل کردند.\n\n▪️هیئت ژاپن را کازوهیکو ناکامورا، مشاور حقوقی و مدیرکل اداره امور حقوقی بین‌المللی وزارت امور خارجه، رهبری کرد. از سوی عمان، ثانی حارث المحروقی، رئیس دفتر فلات قاره و امور دریایی، شرکت کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195984.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.03K",
+      "views_label": "2.1K",
       "posted_at": "2026-09-09T10:13:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229967",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.31K",
+      "views_label": "2.38K",
       "posted_at": "2026-09-09T09:56:59+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229966",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.47K",
+      "views_label": "2.54K",
       "posted_at": "2026-09-09T09:46:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229965",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.43K",
+      "views_label": "2.49K",
       "posted_at": "2026-09-09T09:37:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229964",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.47K",
+      "views_label": "2.53K",
       "posted_at": "2026-09-09T09:22:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229963",
@@ -261,7 +289,7 @@
       "plain_text": "🔺دلار یک رکورد تاریخی دیگر به جا گذاشت و به ۲۳۱ هزار تومان رسید\n\n▪️قیمت دلار در بازار آزاد ایران روز چهارشنبه به ۲۳۱ هزار تومان رسید که این رقم ۲۵ درصد بالاتر از قیمت یک ماه پیش و ۱۲۵ درصد بالاتر از قیمت دلار در سال گذشته است. دلار سال گذشته در چنین ایامی حدود ۱۰۲ هزار تومان معامله می‌شد.\n\n▪️دلار روز شنبه دو هفته پیش با ۲۰۶ هزار و ۴۰۰ تومان بسته شد و از پی آن هر روز رکورد تازه‌ای زد. نرخ روز یکشنبه برای ساعتی از ۲۳۰ هزار تومان گذشت، سپس با ورود بانک مرکزی به ۲۲۵ هزار تومان عقب نشست.\n\n▪️در بازار سکه، سکه امامی به ۲۴۰ میلیون تومان رسید، و سکه بهار آزادی ۲۳۶ میلیون و ۹۰ هزار تومان، نیم‌سکه ۱۲۲ میلیون و ۴۰۰ هزار تومان و ربع‌سکه ۶۶ میلیون تومان قیمت خورد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195981.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.66K",
+      "views_label": "2.69K",
       "posted_at": "2026-09-09T09:12:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229962",
@@ -277,7 +305,7 @@
       "plain_text": "🔺کانادا و فرانسه به ممنوعیت تجارت با شهرک‌های اسرائیل پیوستند\n\n▪️کانادا و فرانسه در بیانیه‌ای مشترک ممنوعیت واردات کالاهای تولیدشده در شهرک‌های اسرائیل در کرانه باختری را اعلام کردند.\n\n▪️بر پایه گزارش آسوشیتدپرس، فرانسه همزمان برای اعمال ممنوعیت سراسری در اتحادیه اروپا فشار می‌آورد.\n\n▪️با این تصمیم، فرانسه و کانادا به ایرلند، اسپانیا، نروژ، بلژیک و هلند پیوستند که پیش‌تر اقدام‌های مشابهی انجام داده بودند.\n\n▪️اد میلیبند، وزیر امور خارجه بریتانیا، نیز سه‌شنبه ممنوعیت‌هایی را در این زمینه در مجلس عوام اعلام کرد. اما اسرائیل ساعاتی بعد از رشته‌ای از اقدام‌های تلافی‌جویانه خبر داد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195979.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.76K",
+      "views_label": "2.82K",
       "posted_at": "2026-09-09T08:56:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229961",
@@ -293,7 +321,7 @@
       "plain_text": "🔺هزینه عبور نفتکش‌ها از هرمز به ۱۰ تا ۲۰ میلیون دلار رسید\n\n▪️مدیر شرکت ملی نفت امارات گفت مجموع هزینه عبور از تنگه هرمز به محدوده ۱۰ تا ۲۰ میلیون دلار رسیده و برخی فعالان بازار تصمیم گرفته‌اند اصلاً بیمه نگیرند.\n\n▪️پاول برادشاو روز چهارشنبه در کنفرانس نفت آسیا و اقیانوسیه در سنگاپور گفت جهش شدید حق بیمه ریسک جنگ و هزینه بیمه محموله عامل اصلی است.\n\n▪️حق بیمه ریسک جنگ بر پایه ارزش بدنه شناور نیز جهش کرده است. بر پایه گزارش نشریه نشنال، نرخ‌ها از یک‌چهارم درصد پیش از ۹ اسفند به سه تا ۱۰ درصد رسیده است. نفتکشی به ارزش ۱۰۰ میلیون دلار اکنون سه تا ۱۰ میلیون دلار می‌پردازد که پیش از جنگ حدود ۲۵۰ هزار دلار بود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195980.html",
       "media": [],
       "reactions": [],
-      "views_label": "3.15K",
+      "views_label": "3.19K",
       "posted_at": "2026-09-09T08:29:30+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229960",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.04K",
+      "views_label": "3.1K",
       "posted_at": "2026-09-09T08:14:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229959",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3K",
+      "views_label": "3.04K",
       "posted_at": "2026-09-09T08:05:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229958",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.06K",
+      "views_label": "3.1K",
       "posted_at": "2026-09-09T07:55:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229957",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.07K",
+      "views_label": "3.11K",
       "posted_at": "2026-09-09T07:41:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229956",
@@ -421,7 +449,7 @@
       "plain_text": "🔺حمله پهپادی روسیه به گذرگاه مرزی اوکراین و مولداوی\n\n▪️پهپادهای روسیه شامگاه سه‌شنبه گذرگاه مرزی میان اوکراین و مولداوی را هدف قرار دادند و چندین کشته، زخمی و آتش‌سوزی بر جای گذاشتند.\n\n▪️روسیه شامگاه گذشته کی‌یف را نیز هدف گرفت. سازمان خدمات اضطراری اوکراین در تلگرام اعلام کرد حمله آتش‌سوزی ایجاد کرد اما تلفاتی نداشت.\n\n▪️بر پایه اعلام وزارت زیرساخت اوکراین، روسیه ظرف یک هفته گذشته چهار بار گذرگاه‌های مرزی جنوب این کشور را مورد حمله قرار داده است. گذرگاه تاباکی-میرنویه با مولداوی در میان اهداف بود و زیرساخت آنجا ویران شد.\n\n▪️حمله شامگاه دوشنبه به پایتخت اوکراین مرگبارتر بود. بر پایه گزارش کی‌یف ایندیپندنت، این حمله پنج کشته و ۲۹ زخمی بر جای گذاشت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195977.html",
       "media": [],
       "reactions": [],
-      "views_label": "3.17K",
+      "views_label": "3.21K",
       "posted_at": "2026-09-09T07:28:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229955",
@@ -449,7 +477,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.22K",
+      "views_label": "3.25K",
       "posted_at": "2026-09-09T07:17:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229954",
@@ -477,7 +505,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.43K",
+      "views_label": "3.46K",
       "posted_at": "2026-09-09T07:02:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229952",
@@ -2469,34 +2497,6 @@
       "posted_at": "2026-09-08T15:27:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229871",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229870",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "بارش شدید شامگاه گذشته موجب جاری شدن سیلاب و آب‌گرفتگی معابر در مناطق شمالی کشور، به ویژه گیلان و مازندران شده است. به گزارش رسانه‌های جمهوری اسلامی در برخی نقاط مازندران بیش‌از ۲۲۰ میلی‌متر بارندگی ثبت شده است و تاکنون ۷۷۲ واحد مسکونی درپی بارش‌های سیل‌آسا خسارت دیده‌اند.",
-      "plain_text": "بارش شدید شامگاه گذشته موجب جاری شدن سیلاب و آب‌گرفتگی معابر در مناطق شمالی کشور، به ویژه گیلان و مازندران شده است. به گزارش رسانه‌های جمهوری اسلامی در برخی نقاط مازندران بیش‌از ۲۲۰ میلی‌متر بارندگی ثبت شده است و تاکنون ۷۷۲ واحد مسکونی درپی بارش‌های سیل‌آسا خسارت دیده‌اند.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229870",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/GdxWdSzT857Udfbp2f0SuX7-0f5qd2AZ4jy4872buoEslrWFxozRUX0k_pI1t3l2UnhpyWU1lLp2Ivt2fisFech97BWgK8WvQ5tiEnabDAS8Wv7pHg8cJj01csD2pZKeOTuULyV377_xNc1uVC0rCzyEJ7xrdrcaWKGl2-pKaAKmeJF6DjINpjoS_B1CwmQ87QWVkJ0C8u4069bK0CQYG-F2l39iQj1ozISXj9foc5egfeLZVEt0xZ3x4lZjEe_zsk7XL3V68MGz-K--gfLZmvzVYNWTkmqQ3Dpk7n_7E5dmbCrj4IsObokPyLK7b1yaMZfq6DH7OWoDZBiNF78iEg",
-          "thumbnail_path": "channels/farsivoa/media/8cab2ee08639e7ab4066150f.jpg",
-          "thumbnail_sha256": "5d76ae960b2bd66850507779e8887466c2218858f423070bb87da3165158f903",
-          "duration_label": "0:20",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.61K",
-      "posted_at": "2026-09-08T15:25:27+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229870",
       "reply": null
     }
   ]
