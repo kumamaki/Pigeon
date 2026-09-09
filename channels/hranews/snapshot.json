@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T07:03:18.827Z",
+  "fetched_at": "2026-09-09T07:06:47.609Z",
   "channel": {
     "username": "hranews",
     "title": "خبرگزاری هرانا",
@@ -11,6 +11,34 @@
     "subscriber_count": "31.7K"
   },
   "posts": [
+    {
+      "id": "hranews/115510",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/iZyX_7dy9Du8-YNGCtdMYK3MP5dphPfB1zMaXCNUK8aaaARamz4Ly0CvRtoCcM3-dyXXRK5WX_Sh46_vYKlxQGctH2xTxf7JYZKDegTqeMVeBYAHxut8hrTLcwSVeUa-ZCjEG9Kz6oZ-0SQ9iKaGJN1Cj-2fIoPG4wyomntMR29iluxWEStx7DkF_1cq5ElU5tzftMAZ6xYE047jyvCHZ9Az1sy-Xq3xItrYFJkO7HPnbwf_MpvguP9NlFYRMr0nCnrYtqCi4BgxZQ__GAu9nHAo74NCj6gJ7R8-n_pBnl5RWaqcN-f80J_DUfVycgHq_htQjBCQccv9yYTz4kMK2Q.jpg",
+      "author_photo_path": "channels/hranews/media/294c867d92cda28ca3eef2ff.jpg",
+      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
+      "body_html": "امروز چهارشنبه ۱۸ شهریورماه، اسماعیل بخشی، <a href=\"?q=%23%D9%81%D8%B9%D8%A7%D9%84_%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%DB%8C\">#فعال_کارگری</a> و از کارگران سابق شرکت کشت و صنعت نیشکر هفت‌تپه، برای دومین روز متوالی در مقابل درب ورودی این مجتمع دست به تحصن زده و خواستار بازگشت به کار خود شد. آقای بخشی با تاکید بر لزوم پاسخگویی مسئولان دولتی و نهادهای امنیتی در خصوص علت اخراج خود، اعلام کرده است که تا زمان تحقق خواسته‌اش به تحصن ادامه خواهد داد.<br><br>اسماعیل بخشی از فعالان شناخته‌شده کارگری شرکت نیشکر هفت‌تپه است. وی در سال ۱۳۹۷، در جریان تجمع اعتراضی کارگران این شرکت مقابل فرمانداری شوش بازداشت شد. در شهریورماه ۱۳۹۸، شعبه ۲۸ دادگاه انقلاب تهران در پرونده مرتبط با اعتراضات هفت‌تپه، وی را مجموعا به ۱۴ سال حبس تعزیری و ۷۴ ضربه شلاق محکوم کرد. این حکم در مرحله تجدیدنظر به پنج سال حبس قابل اجرا کاهش یافت.<br><br><a href=\"?q=%23%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84_%D8%A8%D8%AE%D8%B4%DB%8C\">#اسماعیل_بخشی</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "امروز چهارشنبه ۱۸ شهریورماه، اسماعیل بخشی، #فعال_کارگری و از کارگران سابق شرکت کشت و صنعت نیشکر هفت‌تپه، برای دومین روز متوالی در مقابل درب ورودی این مجتمع دست به تحصن زده و خواستار بازگشت به کار خود شد. آقای بخشی با تاکید بر لزوم پاسخگویی مسئولان دولتی و نهادهای امنیتی در خصوص علت اخراج خود، اعلام کرده است که تا زمان تحقق خواسته‌اش به تحصن ادامه خواهد داد.\n\nاسماعیل بخشی از فعالان شناخته‌شده کارگری شرکت نیشکر هفت‌تپه است. وی در سال ۱۳۹۷، در جریان تجمع اعتراضی کارگران این شرکت مقابل فرمانداری شوش بازداشت شد. در شهریورماه ۱۳۹۸، شعبه ۲۸ دادگاه انقلاب تهران در پرونده مرتبط با اعتراضات هفت‌تپه، وی را مجموعا به ۱۴ سال حبس تعزیری و ۷۴ ضربه شلاق محکوم کرد. این حکم در مرحله تجدیدنظر به پنج سال حبس قابل اجرا کاهش یافت.\n\n#اسماعیل_بخشی\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/hranews/115510",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/grDVtZGb_x_iUThUzbgQ3Tx7mYqBGbYf-I6EmpTGbLEZDy_5WUoNl-UU3qt9acHjS4jDaEkwG32Zwvgf8nHnMe92_Onnnd819aetY2Yo1zPfhEgIUAPWxtp75NPh5eXB5BLpGgvgkLWtw-vmcf1-G9JnpczK95uAKqScFxR54rJOslLEjL8YujQuoVYQPWhTByjl4scz1-ivwdAFgcTcYh2-dPq8d2kXBayG8NVKZZoDDLJYPeGpOt5pINp9-0CPmqnwITc1ZlXIgUK9zTVdJktLpX9hxMlzUF7iblaS7pXFoOUmi0m1gs8CGYmSlPTCVisVbbFzrjsfFajys6pcmg",
+          "thumbnail_path": "channels/hranews/media/c4d673b8bd3f405771a62fb1.jpg",
+          "thumbnail_sha256": "78eaf291744c7e4c04f671c4612879e0c4af6b40a12c514f78b201a5fc28d727",
+          "duration_label": "1:30",
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [],
+      "views_label": "20",
+      "posted_at": "2026-09-09T07:05:49+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/115510",
+      "reply": null
+    },
     {
       "id": "hranews/115505",
       "author_name": "خبرگزاری هرانا",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "734",
+      "views_label": "735",
       "posted_at": "2026-09-08T19:54:00+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115505",
@@ -114,7 +142,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "665",
+      "views_label": "666",
       "posted_at": "2026-09-08T19:25:48+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115504",
@@ -130,7 +158,7 @@
       "plain_text": "اجرای حکم اعدام یک زندانی در مشهد/ صدور حکم اعدام برای یک متهم در تهران\n\n❗️❗️❗️❗️❗️ – حکم #اعدام یک زندانی که پیشتر از بابت اتهام قتل به اعدام محکوم شده بود، در زندان مشهد به اجرا درآمد. همچنین یک متهم به قتل در تهران، توسط دادگاه کیفری یک این استان به اعدام محکوم شد.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "576",
+      "views_label": "579",
       "posted_at": "2026-09-08T19:21:06+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115503",
@@ -158,7 +186,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "583",
+      "views_label": "584",
       "posted_at": "2026-09-08T19:08:22+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115502",
@@ -174,7 +202,7 @@
       "plain_text": "دستکم ۲ تجمع اعتراضی و یک تحصن برگزار شد\n\n❗️❗️❗️❗️❗️ – امروز سه شنبه ۱۷ شهریورماه، گروهی از پرستاران و اعضای کادر درمان در کرمانشاه با برگزاری #تجمع اعتراضی خواستار رسیدگی به مطالباتشان شدند. همزمان روز جاری، اسماعیل بخشی، فعال کارگری و از کارگران سابق شرکت کشت و صنعت نیشکر هفت‌تپه با مطالبه بازگشت به کار، در مقابل ورودی این مجتمع دست به تحصن زد. همچنین، روز گذشته، گروهی از کارگران شرکت «محور گستر نصر» در سیرجان، با مراجعه به فرمانداری و اداره تعاون، کار و رفاه اجتماعی این شهرستان، نسبت به تصمیم شرکت برای انتقال محل کارشان به پروژه‌های راه‌سازی در مهران یا جاسک اعتراض کردند.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "565",
+      "views_label": "566",
       "posted_at": "2026-09-08T19:01:41+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115501",
@@ -206,7 +234,7 @@
       "plain_text": "عدم پرداخت اضافه‌کاری و مطالبات کارکنان پتروشیمی ماهشهر\n\n❗️❗️❗️❗️❗️ – شماری از #کارکنان شرکت پژوهش و فناوری پتروشیمی ماهشهر از عدم پرداخت اضافه‌کاری خود طی ماه‌های گذشته خبر دادند. به گفته آنها، علاوه بر اضافه‌کاری، شماری از مزایا، تسهیلات و پرداخت‌های رفاهی و انگیزشی کارکنان نیز پرداخت نشده یا با تأخیر مواجه شده است.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "539",
+      "views_label": "540",
       "posted_at": "2026-09-08T18:39:44+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115499",
@@ -306,7 +334,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "706",
+      "views_label": "707",
       "posted_at": "2026-09-08T17:20:29+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115495",
@@ -322,7 +350,7 @@
       "plain_text": "برگزاری جلسه بازپرسی محسن آرمین در دادسرای تهران\n\n❗️❗️❗️❗️❗️ – جلسه بازپرسی محسن آرمین، فعال سیاسی در دادسرای عمومی و انقلاب ناحیه ۳۳ تهران برگزار شد. وی در پایان جلسه بازپرسی با قرار کفالت آزاد شد.\n\nادامه مطلب\n\n#محسن_آرمین\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "763",
+      "views_label": "764",
       "posted_at": "2026-09-08T16:43:20+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115494",
@@ -338,7 +366,7 @@
       "plain_text": "یک شهروند در پی تیراندازی بی‌ضابطه نیروهای نظامی در فاریاب کشته شد\n\n❗️❗️❗️❗️❗️ – روز گذشته، یک شهروند در شهرستان فاریاب در پی تعقیب و گریز و تیراندازی بی‌ضابطه نیروهای نظامی، جان خود را از دست داد.\n\nادامه مطلب\n\n#مجتبی_بامری\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "751",
+      "views_label": "752",
       "posted_at": "2026-09-08T16:25:21+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115493",
@@ -354,7 +382,7 @@
       "plain_text": "محمدباقر خرازی همچنان در بازداشت به‌سر می‌برد\n\n❗️❗️❗️❗️❗️ – سخنگوی قوه قضاییه، از تداوم بازداشت محمدباقر خرازی خبر داد و اعلام کرد که پرونده این روحانی و فعال سیاسی، در دادسرای ویژه روحانیت در حال رسیدگی است.\n\nادامه مطلب\n\n#محمدباقر_خرازی\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "784",
+      "views_label": "785",
       "posted_at": "2026-09-08T15:32:19+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115492",
@@ -382,7 +410,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "734",
+      "views_label": "735",
       "posted_at": "2026-09-08T15:06:04+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115491",
@@ -2330,22 +2358,6 @@
       "posted_at": "2026-09-04T19:35:21+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115407",
-      "reply": null
-    },
-    {
-      "id": "hranews/115406",
-      "author_name": "خبرگزاری هرانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/PRWg4sI99bWdJWxYOJOxcC0suFyfOOCr8ghHR8BLosWGsLKNWyPv49u2WQEOecCgUokv4Hs-6Z75M4ycDPsxD7zf6W6utXCZDlFGZAbTZI6Tv5Wvg9Vlok-4RfsGaJ66Atyt1h_mCREANbl8zTK2qAhm53eLR82BT1Sson-uR7M28SWB_pqOS0l7rCkcrjH2UCC_gA3ed5rVNYUv0QpUGcyxoDwQMr3-LAUGG4_BtRJDwM2ThUeEwu7xXCNmNyYBqbcWtnR-vQuIRvdSj0mwIwWVTDBgGpzsWH3rR0TTYWoPZvDQj7p6HD8OOB7KCPs_49cOIhjz7uRDFuFlt52yKg.jpg",
-      "author_photo_path": "channels/hranews/media/550b221295ccd3e478d3cad0.jpg",
-      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
-      "body_html": "تهران؛ یک زن متهم به اسیدپاشی به ۱۵ سال حبس محکوم شد<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– زنی در تهران که متهم است بر روی صاحبخانه خود اسید پاشیده است، توسط دادگاه کیفری این استان به تحمل ۱۵ سال حبس و پرداخت دیه محکوم شد.<br><br><a href=\"?q=%23%D8%A7%D8%B3%DB%8C%D8%AF%D9%BE%D8%A7%D8%B4%DB%8C\">#اسیدپاشی</a><br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-da655b12/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
-      "plain_text": "تهران؛ یک زن متهم به اسیدپاشی به ۱۵ سال حبس محکوم شد\n\n❗️❗️❗️❗️❗️– زنی در تهران که متهم است بر روی صاحبخانه خود اسید پاشیده است، توسط دادگاه کیفری این استان به تحمل ۱۵ سال حبس و پرداخت دیه محکوم شد.\n\n#اسیدپاشی\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
-      "media": [],
-      "reactions": [],
-      "views_label": "1.36K",
-      "posted_at": "2026-09-04T19:16:10+00:00",
-      "edited": false,
-      "permalink": "https://t.me/hranews/115406",
       "reply": null
     }
   ]
