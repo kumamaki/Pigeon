@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T21:27:19.247Z",
+  "fetched_at": "2026-09-09T21:32:08.090Z",
   "channel": {
     "username": "mamlekate",
     "title": "مملکته",
@@ -12,6 +12,56 @@
   },
   "posts": [
     {
+      "id": "mamlekate/104424",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LL1OHeH-0XwNsOk_auN3MpVZqSNrlNjDyK6RUCgcz5Kd6Yo_0cPXvkjuZnf4TDJkn5PFIKlCJfpZh51jiuwEXZku2wZPmRCEARQROwqYk_qu5JZahRXwLF3doOuNg6StXBxDmXBHx1nwTtL6_LU0PGSrR5xEJtZzDz8qSykzXr21e6bAeObK1YrdL7EMeNmwLc40T3aolJY7MYau8oAntw-j2I_3_kbObdjVO-Tn96LNIgFKKvAWpFXeR0zMWMEAO4aFMUtMmbbdlbx9Rd-aeIj4pAEILeAQRHcQh9LSBJXfy3bTuNK99T3LSuRjA2Jx_ZMNFmelVJB99auugmc_Ww.jpg",
+      "author_photo_path": "channels/mamlekate/media/8642febcf5687d03f36824f4.jpg",
+      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D8%A7%D9%BE%D9%84-%D8%A7%D8%B2-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%D8%AA%D8%A7%D8%B4%D9%88%DB%8C-%D8%AE%D9%88%D8%AF-%D8%B1%D9%88%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%DA%A9%D8%B1%D8%AF-09-09\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>اپل از نخستین گوشی تاشوی خود رونمایی کرد</b></a><br><br><br><tg-emoji emoji-id=\"5247176827016847212\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939E.png')\"><b>📞</b></i></tg-emoji> مریم عظیمی، دانشمند الگوریتم‌های زیباشناسی دوربین، داشت توی مراسم اپل در مورد ویژگی های دوربین آیفون ۱۸ توضیح میداد. ریدم تو عمامه تمام شیخا<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
+      "plain_text": "📝 اپل از نخستین گوشی تاشوی خود رونمایی کرد\n\n\n📞 مریم عظیمی، دانشمند الگوریتم‌های زیباشناسی دوربین، داشت توی مراسم اپل در مورد ویژگی های دوربین آیفون ۱۸ توضیح میداد. ریدم تو عمامه تمام شیخا\n\n@mamlekate",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/mamlekate/104425?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/JEIUC-0L6uyzttiWkUyzKQcS7kk1BSrh-xmeK7OqzTVWWVfmlELQA8cb2QvR7ImI-h2eOfbC9lRaQNAfOVjlJQnGdE6T_F-OSc2YezEkNxmBdvuZaCbj2-bh3kMrPQVIzpPpKbr36vf14OJ87njeLQH_xtz6pZwpRyjHHn0zCQYZM2VJckCkJwO784TOjuiObuy49fyiLe63fmyhd3b3Vt1ksR3GHij2RP6jEjn2AAITkeaDKIniuS93dkRKGrI9gW1YIJyvOCqtR6f3nSghNq8lv2XJ4453qkdKFIJMdvkfkeZIWb3XSFi6m74CnsYHPp82m0MofRmxHRcqgC-2jw.jpg",
+          "thumbnail_path": "channels/mamlekate/media/fe0feaa3c4af34c0564a1bbb.jpg",
+          "thumbnail_sha256": "fe350384e02ecaca5a265ca93178e36be09f5a0f2713c2f4c33c097e2f93af23",
+          "duration_label": null,
+          "aspect_ratio": 1.3333333333333
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/mamlekate/104426?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/HJuOOOPGQzeoFJCyZAVsUHxxrY_JcXg7eSZMmSrf7-ReMkjWPSh_kDIEAqyPh4xgKiv3dZAMPNGM2wUx_W0j8jfCoGyBWvvEeHNNy7WEVHJf2QlvMbza3idGplMqesS_qm8o6V4AUuotA4wRblpGmy9tq3TXTogzPK6EgrSuxH47dRxrDINB3L-LnNreJgcryQWnK4QHiiJ9AT6fMQFSUqLf8EToVONlUKkZ5wFDM93ekvOdhGR5UZ_wAR2Paq25JBTjyF_pMc5ZyhL46j1c-xMl-2K4NRDe6uRKeJQKUNEdRxtVWox_pYHY43af63hA5VBc_ufn4MMNuHEr9ylcAg.jpg",
+          "thumbnail_path": "channels/mamlekate/media/f47c0664b45d2c95a912b02a.jpg",
+          "thumbnail_sha256": "00d0ea02a856db77cf6abcea94271fc8494a86dcae7fc27023b0ceed3d02d748",
+          "duration_label": null,
+          "aspect_ratio": 0.7775
+        },
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/104424?single",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/oaG8JRMyDm2106oB0DLZh-5R0vyZVumFxutRCj9mAcV0FCSxdLA1St2p25xM5c-HPblZdk7ZlBw1heyiLdUin9gXV5Q2K3TDhjUkd0r3oaBmTKiAhY8mMNV29BqPZTNrJP8zKYBgWYOM9oUaExaGFdbJCtF0aCyQFsN5ShYhbDdht8XuVM1ovkxMdatAPQBev7351vflfz1bGjhWLqZ7OanBsiTodba4V2jRdfIGASTnQruD_69QKss1ybgXadxtC_bFld2GKNnWIixav7ZiDs6JCFPT_erOFmO31hTfqKpz_lgRwuGujeYwdfs1bzVDdtdpB_YwQzVmxz0hjDFebA",
+          "thumbnail_path": "channels/mamlekate/media/7fc70552506980507b20994f.jpg",
+          "thumbnail_sha256": "b42159038d462249a69245a5a860614c72a6f8d15ab24e0ebfce3c9812029479",
+          "duration_label": "3:06",
+          "aspect_ratio": null
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-09T21:31:54+00:00",
+      "edited": false,
+      "permalink": "https://t.me/mamlekate/104424",
+      "reply": null
+    },
+    {
       "id": "mamlekate/104423",
       "author_name": "مملکته",
       "author_photo_url": "https://cdn4.telesco.pe/file/LL1OHeH-0XwNsOk_auN3MpVZqSNrlNjDyK6RUCgcz5Kd6Yo_0cPXvkjuZnf4TDJkn5PFIKlCJfpZh51jiuwEXZku2wZPmRCEARQROwqYk_qu5JZahRXwLF3doOuNg6StXBxDmXBHx1nwTtL6_LU0PGSrR5xEJtZzDz8qSykzXr21e6bAeObK1YrdL7EMeNmwLc40T3aolJY7MYau8oAntw-j2I_3_kbObdjVO-Tn96LNIgFKKvAWpFXeR0zMWMEAO4aFMUtMmbbdlbx9Rd-aeIj4pAEILeAQRHcQh9LSBJXfy3bTuNK99T3LSuRjA2Jx_ZMNFmelVJB99auugmc_Ww.jpg",
@@ -21,7 +71,7 @@
       "plain_text": "📞 صدای انفجار شدید در قشم\n\n@mamlekate_pm",
       "media": [],
       "reactions": [],
-      "views_label": "15.9K",
+      "views_label": "18.2K",
       "posted_at": "2026-09-09T21:16:10+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104423",
@@ -54,7 +104,7 @@
           "count": "4"
         }
       ],
-      "views_label": "44.8K",
+      "views_label": "46.8K",
       "posted_at": "2026-09-09T20:22:29+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104422",
@@ -70,7 +120,7 @@
       "plain_text": "📝 شورای حکام آژانس پرونده هسته‌ای ایران را به شورای امنیت سازمان ملل ارجاع داد\n\nآژانس بر این باور است که بیش از ۲۰۰ کیلوگرم از آن اورانیوم بسیار غنی‌شده از بمباران‌ها جان سالم به در برده و در مجموعه‌ای از تونل‌ها در اصفهان و در تأسیسات نطنز نگهداری می‌شود.\n\n\n📝 شورای حکام آژانس قطعنامه ارجاع پرونده ایران به شورای امنیت را تصویب کرد\n\nشورای حکام آژانس بین‌المللی انرژی اتمی قطعنامه پیشنهادی برای ارجاع پرونده ایران به شورای امنیت را تصویب کرد. این برای نخستین بار در ۲۰ سال گذشته است که پرونده ایران به دلیل آنچه «نقض تعهداتش در زمینه منع گسترش سلاح‌های هسته‌ای» خوانده شده به شورای امنیت سازمان ملل ارجاع داده می‌شود.\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "76.7K",
+      "views_label": "78K",
       "posted_at": "2026-09-09T17:13:39+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104421",
@@ -91,7 +141,7 @@
           "count": "5"
         }
       ],
-      "views_label": "72.4K",
+      "views_label": "73.3K",
       "posted_at": "2026-09-09T17:13:09+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104420",
@@ -107,7 +157,7 @@
       "plain_text": "📝 اصابت پرتابه به نفتکشی در آب‌های عراق\n\nمقامات بندری عراق اعلام کردند روز چهارشنبه ۱۸ شهریور یک نفتکش حامل حدود ۲ میلیون بشکه سوخت مازوت این کشور در آب‌‌های قلمرویی عراق هدف حمله پهپادی قرار گرفته است.\n\nجمهوری اسلامی روز چهارشنبه اعلام کرد در واکنش به غرق شدن پنج نفتکش ایرانی توسط آمریکا، به ۱۰ کشتی در نزدیکی تنگه هرمز حمله کرده است.\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "84.9K",
+      "views_label": "85.8K",
       "posted_at": "2026-09-09T14:15:04+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104419",
@@ -123,7 +173,7 @@
       "plain_text": "📞 صبح از خونه اومدنی بیرون عوارضی تهران ساوه به سمت تهران رو کنارش خاکریز های بلند درست کردن سنگر گذاشتن توپ و تانک و نفربر آورده بودن یه ۵۰ ۶۰ تا بسیجی یا سپاهی با یونیفرم نظامی بودن جریان چیه باز مشخص نیست\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "81.5K",
+      "views_label": "82.1K",
       "posted_at": "2026-09-09T14:08:47+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104418",
@@ -139,7 +189,7 @@
       "plain_text": "📝 دلار یک رکورد تاریخی دیگر به جا گذاشت و به ۲۳۱ هزار تومان رسید\n\nقیمت دلار در بازار آزاد ایران روز چهارشنبه به ۲۳۱ هزار تومان رسید که این رقم ۲۵ درصد بالاتر از قیمت یک ماه پیش و ۱۲۵ درصد بالاتر از قیمت دلار در سال گذشته است.\n\n\n📝 نفت به ۱۰۰ دلار نزدیک شد؛ بورس‌های آسیا بی‌رمق ماندند\n\nقیمت نفت برنت روز چهارشنبه پس از آنکه آمریکا پنج نفتکش ایرانی را زد و جمهوری اسلامی پایگاهی آمریکایی در اردن را هدف قرار داد، به ۱۰۰ دلار در هر بشکه نزدیک شد.\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "98.5K",
+      "views_label": "98.8K",
       "posted_at": "2026-09-09T09:08:04+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104417",
@@ -183,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "91.2K",
+      "views_label": "91.5K",
       "posted_at": "2026-09-09T07:02:30+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104415",
@@ -199,7 +249,7 @@
       "plain_text": "📝 آمریکا و ۳ کشور اروپایی پیش‌نویس قطعنامه‌ ارجاع پرونده ایران به شورای امنیت را آماده کردند\n\nخبرگزاری آسوشیتدپرس گزارش داد که پیش نویس قطعنامه آمریکا، بریتانیا، فرانسه و آلمان برای ارجاع پرونده ایران به شورای امنیت سازمان ملل به دلیل عدم پایبندی این کشور به تعهدات منع اشاعه هسته ای آماده شده اما هنوز به آژانس بین المللی انرژی اتمی ارائه نشده است.\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "90.7K",
+      "views_label": "91K",
       "posted_at": "2026-09-09T06:42:06+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104414",
@@ -215,7 +265,7 @@
       "plain_text": "📝 سلام توو رشت جدیدا ادارات و برخی بانکها بدون حجاب کارتو انجام نمیدن.\n\nاداره مالیات و دارایی حتی اجازه ورود نمیدن. در صورتیکه که ماههای قبل بدون مشکل میومدم امروز علاوه بر شال گفتن باید مانتو بلند هم بپوشین\n\nدوباره شروع کردن\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "94K",
+      "views_label": "94.3K",
       "posted_at": "2026-09-09T05:52:38+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104413",
@@ -343,7 +393,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "96.5K",
+      "views_label": "96.8K",
       "posted_at": "2026-09-08T22:15:09+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104408",
@@ -398,7 +448,7 @@
           "count": "2"
         }
       ],
-      "views_label": "86.8K",
+      "views_label": "87.1K",
       "posted_at": "2026-09-08T22:04:45+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104405",
@@ -2733,34 +2783,6 @@
       "posted_at": "2026-09-03T12:12:21+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104299",
-      "reply": null
-    },
-    {
-      "id": "mamlekate/104298",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/haVumwLYGRrdwqftDEAH5yaIusz4oR3F-ngQ2_iCWCA47QTc0c-h5ebdX-QgY1S7V6CW9JL3UCuK89bucnTiRrtw2KcDt_RdzLUKtNMByHx3haE9dU_Lh2heBcSMR533RAwKmXCYVwf7YEKwWmSH2LVycGj8tZyzCxxEQkGjZ3hUeAiDXkFMi-877SoNr0mnYjo_oC5Bi_S9mR5Qz4Q0d_N1k7DuD9VKSj_x2JSxTiwkq9nRGv8TBW488Yn6TQRAvmXw_LZOpcTIx9RgB_3jWNoyoFB8TGcgCuqbAxNyVuKq-FnAy2rMmBkuTJcrJxLKkpYV3c3bxypNIekiXvNeTg.jpg",
-      "author_photo_path": "channels/mamlekate/media/7b110633805cb02bddf9b287.jpg",
-      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939D.png')\"><b>📝</b></i> <a href=\"https://telegra.ph/%D8%AA%D8%B4%D8%AF%DB%8C%D8%AF-%D8%AF%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%DA%86%D8%B1%D8%A7-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D8%B2-%D9%82%DB%8C%D8%A7%D9%85-%D9%85%D8%B1%D8%AF%D9%85-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B3%D8%AE%D9%86-%DA%AF%D9%81%D8%AA-09-02\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>تشدید درگیری جمهوری اسلامی و آمریکا؛ چرا ترامپ از «قیام» مردم ایران سخن گفت؟</b></a><br><br>دونالد ترامپ، رییس جمهوری آمریکا، چهارشنبه ۱۱ شهریور در پاسخ به خبرنگاری در کاخ سفید که از او درباره اظهاراتش در تروث سوشیال و پرسش از مردم ایران برای «قیام و مبارزه» علیه جمهوری اسلامی سوال کرد، گفت حکومت ایران «روزبه روز ضعیف تر می شود» و در مقطعی دیگر نخواهد توانست معترضان را به سادگی سرکوب کند.<br><br>خبرنگار از ترامپ پرسید اگر خواهان قیام مردم ایران است، آیا سازمان اطلاعات مرکزی آمریکا، سیا، را برای مسلح کردن ایرانیان خواهد فرستاد. ترامپ از پاسخ مستقیم خودداری کرد و گفت: «خیلی دوست دارم به شما بگویم، اما گفتنش مناسب نیست.»<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
-      "plain_text": "📝 تشدید درگیری جمهوری اسلامی و آمریکا؛ چرا ترامپ از «قیام» مردم ایران سخن گفت؟\n\nدونالد ترامپ، رییس جمهوری آمریکا، چهارشنبه ۱۱ شهریور در پاسخ به خبرنگاری در کاخ سفید که از او درباره اظهاراتش در تروث سوشیال و پرسش از مردم ایران برای «قیام و مبارزه» علیه جمهوری اسلامی سوال کرد، گفت حکومت ایران «روزبه روز ضعیف تر می شود» و در مقطعی دیگر نخواهد توانست معترضان را به سادگی سرکوب کند.\n\nخبرنگار از ترامپ پرسید اگر خواهان قیام مردم ایران است، آیا سازمان اطلاعات مرکزی آمریکا، سیا، را برای مسلح کردن ایرانیان خواهد فرستاد. ترامپ از پاسخ مستقیم خودداری کرد و گفت: «خیلی دوست دارم به شما بگویم، اما گفتنش مناسب نیست.»\n\n@mamlekate",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104298",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/CuDlhOHaa9Fu9PSKAE-2-FLqYxUigX25OqEbsZhFZTZITP4jimBz8sBHtm3oKr-N4CkXpyDrAXBxSlOgCQdLVAlfZPYeIzwapDpCf9TXpMo7zHJt79DcoDXV6xI3aI48GyAlpOF3zjOci2aqOBbC4K6GB5ArYPLbZFfTFyEwECPJsggQ__IDPkLYamcMPCWxYOPkrVm9_SD3dMcOFEKitk0rAREhGdRRE35Zqn9Dlo6GU1lnhygPoykbYl9Yf97AFwODWtcrhkKUhf7-WUAEGoGWCNEIh5WPzMIrkRzYva1SqfBr-ZPIA0uQBfCfdsYhE9RI706pmK3Hd21Xb-SHmA",
-          "thumbnail_path": "channels/mamlekate/media/808c029d0bd141cdbc3176ff.jpg",
-          "thumbnail_sha256": "a244c84a62d7d6ba0daa329df9fcd36f0e3a0ebe89d4286b8008dc5f36588d26",
-          "duration_label": "1:46",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "133K",
-      "posted_at": "2026-09-02T20:30:10+00:00",
-      "edited": true,
-      "permalink": "https://t.me/mamlekate/104298",
       "reply": null
     }
   ]
