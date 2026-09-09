@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T00:20:21.748Z",
+  "fetched_at": "2026-09-09T00:22:23.862Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356418",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "امیرمبارز پرستا، مدیر بخش سلامت پروژه شکوفایی ایران، با اشاره به پیام شاهزاده رضا پهلوی درباره حمایت از خانواده‌های دادخواه گفت شبکه‌های متعددی در حوزه درمان و سلامت روان در خارج از کشور ایجاد شده‌اند که به افراد نیازمند حمایت روانی در ایران خدمات ارایه می‌کنند.<br><br>او افزود حمایت تخصصی روانی از خانواده‌های دادخواه می‌تواند از طریق کادر درمان در داخل ایران و شبکه‌های تخصصی خارج از کشور انجام شود و مهم‌ترین مسئله این است که این خانواده‌ها احساس نکنند تنها هستند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "امیرمبارز پرستا، مدیر بخش سلامت پروژه شکوفایی ایران، با اشاره به پیام شاهزاده رضا پهلوی درباره حمایت از خانواده‌های دادخواه گفت شبکه‌های متعددی در حوزه درمان و سلامت روان در خارج از کشور ایجاد شده‌اند که به افراد نیازمند حمایت روانی در ایران خدمات ارایه می‌کنند.\n\nاو افزود حمایت تخصصی روانی از خانواده‌های دادخواه می‌تواند از طریق کادر درمان در داخل ایران و شبکه‌های تخصصی خارج از کشور انجام شود و مهم‌ترین مسئله این است که این خانواده‌ها احساس نکنند تنها هستند.\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356418",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/hXDjnyEucOOjy76ejziTTcNBl2wjT-0JrGoNhcE2SgwuH1_vyQyTyu_Hn6JDBkOvd_2scdt2-ZTQncEUr4VFPGGB-YkEdXUNaD7LN1Np7M3_aJTCv7ii7IHIEinGJtm8cZwCei0r9b2CnXZSnKEx-VYVKuAGTRhV2Pm8jjzl4ZX9v0KSXx3DfKaeKAVC771ueF2o6cNaqYPXZ5zKzUCqpN_Pk8F1HPGtssYa4FGynoLZAAnb7RmcNlSzg3k2CmFcwBbufATmbY4xBMF9OOawILkvxS5qxvPHZ0X-SSXHpMcGy8FEWqcvjjqiTBy84o4pYqBY0b0T4ik31gojEMl7eg",
+          "thumbnail_path": "channels/iranintltv/media/3b8859ab1c0f8f73ba21b1b1.jpg",
+          "thumbnail_sha256": "2786de3cc578ee3bde66b376154db473f79122af9ce6425320062f85caedf037",
+          "duration_label": "5:09",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "418",
+      "posted_at": "2026-09-09T00:20:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356418",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356417",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.57K",
+      "views_label": "7.88K",
       "posted_at": "2026-09-08T23:55:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356417",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7.54K",
+      "views_label": "8.15K",
       "posted_at": "2026-09-08T23:53:41+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356416",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7.79K",
+      "views_label": "8.01K",
       "posted_at": "2026-09-08T23:52:02+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356415",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.06K",
+      "views_label": "9.04K",
       "posted_at": "2026-09-08T23:48:32+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356414",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.1K",
+      "views_label": "19.2K",
       "posted_at": "2026-09-08T23:13:57+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356413",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.8K",
+      "views_label": "19.6K",
       "posted_at": "2026-09-08T23:12:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356412",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.3K",
+      "views_label": "25.4K",
       "posted_at": "2026-09-08T22:51:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356410",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.9K",
+      "views_label": "26.1K",
       "posted_at": "2026-09-08T22:48:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356409",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.8K",
+      "views_label": "31.4K",
       "posted_at": "2026-09-08T22:34:05+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356406",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.5K",
+      "views_label": "32.2K",
       "posted_at": "2026-09-08T22:29:25+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356405",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.7K",
+      "views_label": "32.4K",
       "posted_at": "2026-09-08T22:26:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356404",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.1K",
+      "views_label": "33.7K",
       "posted_at": "2026-09-08T22:21:38+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356403",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35K",
+      "views_label": "35.6K",
       "posted_at": "2026-09-08T22:14:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356401",
@@ -469,7 +497,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.1K",
+      "views_label": "37.7K",
       "posted_at": "2026-09-08T22:08:44+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356399",
@@ -497,7 +525,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "46.4K",
+      "views_label": "46.8K",
       "posted_at": "2026-09-08T21:50:26+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356398",
@@ -553,7 +581,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "59.3K",
+      "views_label": "59.4K",
       "posted_at": "2026-09-08T21:15:39+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356396",
@@ -581,7 +609,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "62.6K",
+      "views_label": "63.4K",
       "posted_at": "2026-09-08T20:59:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356395",
@@ -2721,34 +2749,6 @@
       "posted_at": "2026-09-08T13:07:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356317",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356316",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "ویدیوی منتشرشده از سوی حوثی‌های یمن در دوشنبه ۱۷ شهریور، در نزدیکی الودَیعه در مرز یمن و عربستان سعودی، دود برخاسته از کامیون‌های در حال سوختن را نشان می‌دهد. حوثی‌ها اعلام کردند: «این کامیون‌ها از عربستان سعودی وارد شده بودند و هدف حمله قرار گرفته‌اند.» <br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "ویدیوی منتشرشده از سوی حوثی‌های یمن در دوشنبه ۱۷ شهریور، در نزدیکی الودَیعه در مرز یمن و عربستان سعودی، دود برخاسته از کامیون‌های در حال سوختن را نشان می‌دهد. حوثی‌ها اعلام کردند: «این کامیون‌ها از عربستان سعودی وارد شده بودند و هدف حمله قرار گرفته‌اند.»\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356316",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/DW00hhdYC6cINHpCu6EJRcsRgwMKpM57rzrHUWkYIvk1gn4JWMU07w9p0Ydv2fqTD0qceb_2SOEwj4ToSDCZuL71_X1prcgYlZfdfV_mTBrABKHN2C4AFdMnf9U0hCTgggX__PJFKK0j9sGXT58Ijj-hUzvTZw6-2Oh8RTh8LsVQfEbW9YqH-XUSESLzQGXH3uCXoWGmp6KvZMLwx6Ce9fK_pMFTn-dA0qcfXj9_VghA-jN6HIwUVjy_TvlwFRfOrEiRpUcYMe7FP4kbC-2vmiIhfRp88n35436dqZOKmsM3mumvYg3PQT8d1qr1d-pfrkSqTpQxNDRcSF6edimC6Q",
-          "thumbnail_path": "channels/iranintltv/media/2394a97ed06fd541b469c3da.jpg",
-          "thumbnail_sha256": "567c2d7e94784819f680a94f27996b8c6f9a3048057c4b6f26c22ea4fb1cd340",
-          "duration_label": "0:53",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "30.9K",
-      "posted_at": "2026-09-08T13:05:08+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356316",
       "reply": null
     }
   ]
