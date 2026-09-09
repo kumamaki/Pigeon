@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T22:53:09.886Z",
+  "fetched_at": "2026-09-09T22:57:15.623Z",
   "channel": {
     "username": "whitedns",
     "title": "White DNS",
@@ -23,10 +23,14 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "6"
+          "count": "14"
+        },
+        {
+          "emoji": "👎",
+          "count": "3"
         }
       ],
-      "views_label": "281",
+      "views_label": "549",
       "posted_at": "2026-09-09T22:50:06+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1745",
@@ -44,7 +48,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "150"
+          "count": "152"
         },
         {
           "emoji": "❤‍🔥",
@@ -79,7 +83,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.22K",
+      "views_label": "7.34K",
       "posted_at": "2026-09-09T16:01:47+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1743",
@@ -97,11 +101,11 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "129"
+          "count": "130"
         },
         {
           "emoji": "❤",
-          "count": "55"
+          "count": "56"
         },
         {
           "emoji": "👍",
@@ -132,7 +136,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.39K",
+      "views_label": "8.46K",
       "posted_at": "2026-09-09T14:27:54+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1741",
@@ -522,7 +526,7 @@
           "count": "1"
         }
       ],
-      "views_label": "16.6K",
+      "views_label": "16.7K",
       "posted_at": "2026-09-06T11:25:09+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1735",
@@ -652,7 +656,7 @@
           "count": "1"
         }
       ],
-      "views_label": "17.2K",
+      "views_label": "17.3K",
       "posted_at": "2026-09-06T11:19:40+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1729",
@@ -877,7 +881,7 @@
           "count": "2"
         }
       ],
-      "views_label": "13.7K",
+      "views_label": "13.8K",
       "posted_at": "2026-09-06T10:11:32+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1725",

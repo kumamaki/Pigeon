@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T22:53:02.105Z",
+  "fetched_at": "2026-09-09T22:57:07.925Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/230049",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/TDaXzD1SqP9xTStg_G7suA7hMViJjPqVwnwwTLB_DUGQC4NC7-w5Wkwmk8gDPuAQByx0poZj8S94eoRffmHeRT9xrcGPzWu7C0ZMDau7-qcaqBWq40PRp5WjKogQsNBDZgrsGt_Ga26l0r3qqQ_yjcUiyBiP3YfLQ0a3HSBOFP7tHYTn8zp6o6L0n-5FRDcf0yBsa-sXpdSaMW5dbmZ7VUJUET5rQgZDA0jF59JPxCtDBv293jMYV7TZtxqTClTcuEc9cEhhDdSAYJALkWzllcM_PdRn8aHMK28mulEjt9zDtHt6hUIn5HC55jszDZm5-oSBSiobQTMHWfcmcwf0rw.jpg",
+      "author_photo_path": "channels/farsivoa/media/64e7ce62c0394704c02414ea.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "برای نخستین‌بار در ۲۰ سال گذشته شورای حکام آژانس بین‌المللی انرژی اتمی با تصویب قطعنامه‌ای، پرونده هسته‌ای جمهوری اسلامی را به شورای امنیت سازمان ملل گزارش داد. این قطعنامه با ۲۳ رأی موافق تصویب شد و اتحادیه اروپا و شماری از کشورهای همسو نیز از آن حمایت کردند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "برای نخستین‌بار در ۲۰ سال گذشته شورای حکام آژانس بین‌المللی انرژی اتمی با تصویب قطعنامه‌ای، پرونده هسته‌ای جمهوری اسلامی را به شورای امنیت سازمان ملل گزارش داد. این قطعنامه با ۲۳ رأی موافق تصویب شد و اتحادیه اروپا و شماری از کشورهای همسو نیز از آن حمایت کردند.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/230049",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/vbLaAkIDrtB5LQh6Wbr5XETbQpRHBXdRpdK4UdywcZpc5Q9IVDywGcvhwuE5mq_8DGDUZ1m5l329uWThVcUQ7gxe9cJn0hFxZdC26TFRmfJt3whsNsUXOQFJ7NAmtY7DQUhLWcShWeLg64gTJMdD7QkgfqiiSHgcztlKb9xCgyeMkUaoZVA-lHBUEo1ONJpsPbak1OBJY6eoYVVwzAhe_ecdRSrxC2wTCLIBvCofGHTOmj1UGpken51uGqb1aCfCyo0vLRqz1NZVkbwrDkcDBR_pwQF4nXGv9_tzC3fGrZcIjMrQmiieddE6md9V2kIz45rggZ3fGy2Zm_De2KrTdw",
+          "thumbnail_path": "channels/farsivoa/media/16c6de155a7531ba85824363.jpg",
+          "thumbnail_sha256": "c80d71636b0864f031ef4f09d677e854b9bbf8576cd627366098f2fa65876d6f",
+          "duration_label": "3:58",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "40",
+      "posted_at": "2026-09-09T22:56:08+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/230049",
+      "reply": null
+    },
     {
       "id": "farsivoa/230048",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "233",
+      "views_label": "371",
       "posted_at": "2026-09-09T22:47:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230048",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "432",
+      "views_label": "569",
       "posted_at": "2026-09-09T22:41:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230047",
@@ -77,7 +105,7 @@
       "plain_text": "🔺اپل از نخستین گوشی تاشوی خود به نام «آیفون دوئو» رونمایی کرد\n\n◾️شرکت آمریکایی اپل، روز چهارشنبه ۱۸ شهریور ۱۴۰۵ همزمان با معرفی گوشی‌های تلفن همراه سری ۱۸، از نخستین گوشی تاشوی خود به نام «آیفون دوئو» که مانند یک کتاب به یک صفحه نمایش عریض تبدیل می‌شود، نیز رونمایی کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/apple-unveiled-its-first-foldable-phone-named-iphone-duo/8196165.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "658",
+      "views_label": "763",
       "posted_at": "2026-09-09T22:35:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230046",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.46K",
+      "views_label": "1.54K",
       "posted_at": "2026-09-09T22:11:28+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230045",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.72K",
+      "views_label": "1.76K",
       "posted_at": "2026-09-09T21:55:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230044",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2K",
+      "views_label": "2.07K",
       "posted_at": "2026-09-09T21:43:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230043",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.35K",
+      "views_label": "2.42K",
       "posted_at": "2026-09-09T21:31:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230042",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.57K",
+      "views_label": "2.6K",
       "posted_at": "2026-09-09T21:19:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230041",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.01K",
+      "views_label": "3.04K",
       "posted_at": "2026-09-09T21:09:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230040",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.8K",
+      "views_label": "2.83K",
       "posted_at": "2026-09-09T21:03:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230039",
@@ -345,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.33K",
+      "views_label": "3.36K",
       "posted_at": "2026-09-09T20:19:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230036",
@@ -361,7 +389,7 @@
       "plain_text": "🔺یاشار سلطانی از صدور کیفرخواست به «اتهام اختلاس» برای مقامات ارشد فدراسیون فوتبال جمهوری اسلامی خبر داد\n\n◾️یاشار سلطانی، روزنامه‌نگار تحقیقی ساکن ایران، روز چهارشنبه ۱۸ شهریور اعلام کرد برای چند چهره و مقام ارشد فدراسیون فوتبال ایران در پرونده «فساد فوتبال» به اتهام اختلاس کیفرخواست صادر شده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/yashar-soltani-journalist-bribery-iran-football-federation-charge-conviction-indicetment/8196138.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.98K",
+      "views_label": "4.01K",
       "posted_at": "2026-09-09T19:56:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230035",
@@ -377,7 +405,7 @@
       "plain_text": "🔴📢‌ پادکست میدان - چهارشنبه ۱۸ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از\nنسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه\nسبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "3.44K",
+      "views_label": "3.48K",
       "posted_at": "2026-09-09T19:55:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230034",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.65K",
+      "views_label": "3.69K",
       "posted_at": "2026-09-09T19:31:19+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230032",
@@ -477,7 +505,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.57K",
+      "views_label": "3.58K",
       "posted_at": "2026-09-09T19:14:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230030",
@@ -2568,34 +2596,6 @@
       "posted_at": "2026-09-09T02:25:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229941",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229940",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "تنش در روابط اسرائیل و بریتانیا<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "تنش در روابط اسرائیل و بریتانیا\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229940",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/YBS_mXfXBozww7KSi_PQOeKJ9vgKjGxoEQ5qxYq5O7V3AK7hRLpwjANWdZr-jKXArFGc3pWXWeG2AveCvK0BG7YxWp03EmLEcbIuCjFtDBAtx_DWEmerX_sjyXahJOF5HfPPgY9o2C4F6R7ZDjjzZ_x-7MsNGp6iriwyz-FsBz90i-PWtrrgEVlmo8Q6ntt4xnygKTAXq0yh-vt3OpMIkMbGfN8lOXZviUpNoAPlUSapA4UcuSzZwYTUdJnaRcwTFvavQcWbkkRoxdf7ojVhbDOMDEcEsOsQ4LGOLGil_YwQXldHMR3KRnAAx5_EBqgDXYr-GEFALGMB57d2cndVGQ",
-          "thumbnail_path": "channels/farsivoa/media/3b77bd5f36ef71567419b679.jpg",
-          "thumbnail_sha256": "c0ff4bbb6229952a0c306e61b68b28f5621ab1b0f214d7591928ecd89b5ad241",
-          "duration_label": "4:07",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "5.05K",
-      "posted_at": "2026-09-09T02:15:39+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229940",
       "reply": null
     }
   ]
