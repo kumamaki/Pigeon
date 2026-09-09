@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T08:56:36.923Z",
+  "fetched_at": "2026-09-09T09:01:49.007Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356461",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "قیمت نفت خام برنت برای نخستین بار از دوم مرداد به ۱۰۰ دلار در هر بشکه رسید و بار دیگر وارد محدوده سه‌رقمی شد. <br><br>افزایش قیمت نفت و ارز در شرایطی رخ داده است که درگیری‌ها در خلیج فارس و منطقه ادامه دارد. شامگاه سه‌شنبه ۱۷ شهریور، آمریکا اعلام کرد پس از حملات موشکی ناموفق جمهوری اسلامی به دو ناو جنگی این کشور در خلیج فارس، پنج نفتکش مرتبط با سپاه پاسداران را منهدم کرده است.<br><a href=\"https://iranintl.com/202609093958\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609093958</a>",
+      "plain_text": "قیمت نفت خام برنت برای نخستین بار از دوم مرداد به ۱۰۰ دلار در هر بشکه رسید و بار دیگر وارد محدوده سه‌رقمی شد.\n\nافزایش قیمت نفت و ارز در شرایطی رخ داده است که درگیری‌ها در خلیج فارس و منطقه ادامه دارد. شامگاه سه‌شنبه ۱۷ شهریور، آمریکا اعلام کرد پس از حملات موشکی ناموفق جمهوری اسلامی به دو ناو جنگی این کشور در خلیج فارس، پنج نفتکش مرتبط با سپاه پاسداران را منهدم کرده است.\nhttps://iranintl.com/202609093958",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356461",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/D8H3lpO_HadwpHN6rySohCHuS_wec8vqqbWEhVO3h4gUQgQJOv3RojQGrVgu76PtdI0ZUE0GKRo7NoAKB98W6nxSzRbMxOEwJBPCNc6_QhYqiSIc1uTdlaj5jG6IX5ZRaYc1Sq4sqterUaY7suzCXrjA3PpvsrHKbflKN_gswvPmHfMuq49ElpWCINaDzP7Ep0UVeVpzuBKwoYDbM2i4CvB0SdTlA3aEFNRgZirbxO6XHBScs2P-BM-RFLrnLToyPQlxw1fnzQfT9jCss7-p0bdQvctd6zwF7Uj8Y5zBAN6ympueI8N_XRUVwo0I5xDX3qA4QRb6xPkSF4MlsqDwzQ.jpg",
+          "thumbnail_path": "channels/iranintltv/media/5a8451c680675a36f35e7ca7.jpg",
+          "thumbnail_sha256": "5348a057429f0cdad497881d18ade2b3861ff7d44397df61196f29b756c5a75e",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.03K",
+      "posted_at": "2026-09-09T09:00:30+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356461",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356460",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.5K",
+      "views_label": "15.7K",
       "posted_at": "2026-09-09T08:41:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356460",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.8K",
+      "views_label": "22.9K",
       "posted_at": "2026-09-09T08:30:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356459",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.8K",
+      "views_label": "21.9K",
       "posted_at": "2026-09-09T08:30:01+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356458",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24K",
+      "views_label": "26K",
       "posted_at": "2026-09-09T08:21:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356457",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.1K",
+      "views_label": "30.2K",
       "posted_at": "2026-09-09T08:03:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356456",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.1K",
+      "views_label": "30.2K",
       "posted_at": "2026-09-09T07:59:15+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356455",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26K",
+      "views_label": "27.1K",
       "posted_at": "2026-09-09T07:58:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356454",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.1K",
+      "views_label": "27.1K",
       "posted_at": "2026-09-09T07:56:57+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356453",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25K",
+      "views_label": "26.1K",
       "posted_at": "2026-09-09T07:52:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356452",
@@ -273,7 +301,7 @@
       "plain_text": "🗣روایت شما از شرایط زندگی و بحران اقتصادی- چهارشنبه ۱۸ شهریور:\n\n🔹سه هفته‌ست دندون‌درد دارم و با مسکن و آنتی‌بیوتیک آرومش می‌کنم چون پول ندارم برم درستش کنم. اینطوری که داره پیش می‌ره دیگه پول خرید داروها رو هم نخواهم داشت.\n\n🔹از شهرکرد پیام می‌دم. از صبح تا شب اسنپ کار می‌کنم و کارکرد یه روز کامل هزینه یک وعده غذایی برای خانواده هم نمی‌شه.\n\n🔹تمام داروخانه‌های گرگان رو گشتم، آنتی‌بیوتیک زیکات ۵۵۰ پیدا نکردم.\n\n🔹از شهریار تهران پیام می‌دم. واقعا شرایط زندگی برای قشر ضعیف خیلی بحرانی شده. همه اجناس خوراکی گرون شده. تو این وضعیت، جمهوری اسلامی با افزایش قیمت بنزین، قبر خودش رو کند.\n\n🔹شهرداری تبریز داره تو تمام محلات با بی‌رحمی کامل سگ‌ها رو با تفنگ ساچمه‌ای و به طرز وحشیانه‌ای می‌کشه. حتی توله‌های تازه به دنیا اومده رو.\n\n🔹از قیامدشت: داریم زیر فشار گرانی و تورمی که برای ما به‌وجود آوردند له می‌شیم، نه آزادی بیان داریم اعتراض کنیم، نه دادرسی داریم به دادمان برسن. لعنت بر این عدالت شما.\n\n🔹همه دار و ندارم رو یک‌جا کردم که بتونم ۵۰۰ میلیون بذارم روی پول پیش خونه‌ام. امروز صاحب‌خونه زده زیر حرفش، می‌گه این مبلغ کمه؛ باید ۲۰۰ دیگه بدی که جمعا بشه یک میلیارد. به خدا دیگه نمی‌دونم باید چه کار کنیم.\n\n🔹مردم ایران در حال نابود شدن زیر فشار اقتصادی هستن. همه افراد خونه هم سر کار می‌رن اما از پس خرج و زندگی معمولی برنمیان.\n\n🔹راننده اسنپ هستم. دیروز یک میلیون تومن کار کردم، هم‌زمان یک میلیون و ۸۰۰ هزار تومن دادم هزینه تعمیر بالابر شیشه ماشین.",
       "media": [],
       "reactions": [],
-      "views_label": "26.1K",
+      "views_label": "27.2K",
       "posted_at": "2026-09-09T07:50:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356451",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.2K",
+      "views_label": "29.3K",
       "posted_at": "2026-09-09T07:39:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356450",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.3K",
+      "views_label": "31.3K",
       "posted_at": "2026-09-09T07:34:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356449",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.3K",
+      "views_label": "30.3K",
       "posted_at": "2026-09-09T07:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356448",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.2K",
+      "views_label": "30.3K",
       "posted_at": "2026-09-09T07:28:08+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356447",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.3K",
+      "views_label": "30.3K",
       "posted_at": "2026-09-09T07:25:11+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356446",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.3K",
+      "views_label": "30.4K",
       "posted_at": "2026-09-09T07:23:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356445",
@@ -485,7 +513,7 @@
       "plain_text": "🗣روایت شما از شرایط زندگی و بحران اقتصادی- چهارشنبه ۱۸ شهریور:\n\n🔹من بیماری سرطان خون دارم، باید پیوند مغز استخوان انجام بدم. هزینه‌اش بین ۲۵ تا ۳۰ میلیون شده. واقعا ندارم. موندم چیکار کنم. فقط باید بشینم تا بمیرم.\n\n🔹از تهران پیام می‌دم. اینجا دیگه اصلا دارو نیست. باید کلی بگردی دارو مورد نظرت رو پیدا کنی. مثلا قرص دایجستیو که یه مکمل ساده برای گوارش است هم پیدا نمی‌شه.\n\n🔹من پدرم دیابت داره و داروی متفورمین مصرف می‌کنه. الان نیست که بخواهیم تهیه کنیم. مجبور شدم به یکی از دوستانم بگم از ترکیه برام‌ بفرسته.\n\n🔹از سیستان و بلوچستان پیام می‌دم. ۱۰ ماهه که داروی حیاتی فاکتور ۱۳ مخصوص بیماران هموفیلی در کشور گیر نمیاد و موجودی داروخانه‌ها به صفر رسیده.\n\n🔹سه روزه ماشین‌ام خراب شده گوشه خیابان گذاشتمش. هزینه تعمیرات و اجناس سر به فلک زده.\n\n🔹از مشهد پیام می‌دم. پول برق هر دفعه می‌آمد ۵۰ هزار تومان، این بار آمده ۶۰۰ هزار تومان. خسته شدیم از این گرانی هر روزه همه‌چیز.\n\n🔹من یک پرستار هستم و در آریاشهر مستاجرم. دوره آخر ۳۵۰ هزار تومن قبض برقم بود، الان بالای پنج میلیون اومده.\n\n🔹ما همه قیمت‌ها رو به دلار داریم پرداخت می‌کنیم. حتی همین بنزین هم به دلار دارن حساب می‌کنن. قیمت‌ها هم روز به روز در حال افزایشه اون‌وقت من موندم چرا درآمد ما همچنان به ریاله و هیچ افزایش حقوقی نداریم.\n\n🔹چند تا دونه میوه گرفتم ۶۱۰ هزار تومان شد.",
       "media": [],
       "reactions": [],
-      "views_label": "49.1K",
+      "views_label": "49.2K",
       "posted_at": "2026-09-09T06:23:48+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356443",
@@ -2697,34 +2725,6 @@
       "posted_at": "2026-09-08T17:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356360",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356359",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "بارش رگباری و سیل‌آسا بامداد سه‌شنبه ۱۷ شهریور در شهرها و روستاهای شمال ایران به آبگرفتگی معابر عمومی و خیابان‌ها انجامید و آب در برخی مسیرها جاری شد. شدت بارندگی در بخش‌هایی از این مناطق بیشتر بود و در برخی نقاط اختلال در رفت‌وآمد گزارش شد. افزایش حجم روان‌آب‌ها و بالا آمدن سطح رودخانه‌ها و مسیل‌ها نیز نگرانی درباره احتمال بروز خسارت در نقاط مستعد را افزایش داده است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "بارش رگباری و سیل‌آسا بامداد سه‌شنبه ۱۷ شهریور در شهرها و روستاهای شمال ایران به آبگرفتگی معابر عمومی و خیابان‌ها انجامید و آب در برخی مسیرها جاری شد. شدت بارندگی در بخش‌هایی از این مناطق بیشتر بود و در برخی نقاط اختلال در رفت‌وآمد گزارش شد. افزایش حجم روان‌آب‌ها و بالا آمدن سطح رودخانه‌ها و مسیل‌ها نیز نگرانی درباره احتمال بروز خسارت در نقاط مستعد را افزایش داده است.\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356359",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qBhfcolmd4HrJTLTMmO2Tae93GYCfqsUtsL69yBofKAOGnYT6tnTZfOHOi8xf0gYTKxyZUlPfW9YSCsKddLAQJrvivmI26BfMLAU83dKTwKTBJjwqAReQjUof3a4IEfP3Wcww34h7OIddLQYLV8KvBQfFM6AkTmA-QQcJATVFpAjIjC97wL0_9TpkedevffEt3qfsGPenr9SBKEhqhvK-2aU0fswjHyortmW40F396ymknugUbfaoXBP6Hgr1Asu7rWdYB1Te3IfsPyocZtW1C59foW0jDp-jpstNNf6zfRI6rWeUQkOpI4SgaWD6lbTALIGsaJ36sApPcP9fShnOw",
-          "thumbnail_path": "channels/iranintltv/media/d568853b1806000c758ee616.jpg",
-          "thumbnail_sha256": "6a0ee300deeb552fb90ce41c729b28d044d85318e7e6841f7266b5d8261a2ec0",
-          "duration_label": "2:07",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "53.5K",
-      "posted_at": "2026-09-08T17:18:42+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356359",
       "reply": null
     }
   ]

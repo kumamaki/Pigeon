@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T08:56:41.930Z",
+  "fetched_at": "2026-09-09T09:01:54.720Z",
   "channel": {
     "username": "whitedns",
     "title": "White DNS",
@@ -25,17 +25,17 @@
           "asset_url": "https://t.me/whitedns/1740",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn5.telesco.pe/file/urGGYUe5pSDi-Ndbu-kWGkD9CLgG1I7_Ao9z0n5w6o8yTu7XRDi5k_KTNTtHYP3CVCiLc9dUy2TgIFOdjQbezkVwMGl3uidtR4KnW5e0Xj5crkK3zjXaea-kQDhh_ojTfDTIcNhbT7GhokDPpSp3DLgTidVvA_mftUWcmggxCMwYdlcEwizTC9NNWTJ9h2XGyqH0kEdvFz6sLgdKMKbhgrUFYmdm7AG5vIX-Zi0zdI2Zwy4hYw4F6-NifpPNp-YGY--Qvduh99z-qz0a3dCIylDMlYxm6QJi7o2pf1AWyZTj3Gg9-P7_EWTb5uqpjK2jFum38Fpt5I1VyxEB-y5ZRw.jpg",
-          "thumbnail_path": "channels/whitedns/media/6f710d28b33acc111e4cb81a.jpg",
-          "thumbnail_sha256": "46b457165c73867a15cb3f9d7ac5d1f26d37bcdda9eb07c1433ac6a0eaa93e42",
+          "thumbnail_url": "https://cdn5.telesco.pe/file/aiYYynkCR2hWRpxuUzbANVihlI_dTRmFWj9ntZ0I8b6ZnSBnhr1dX3r2Ktum7mhf0bVwY3a6fFDXEAJFSFjZ_Sa5Dki3Dni93vdd37nHPupcSQDCKaU-8it3snG2_c0dc3H_Oqv-QcXmnSpugpqEWuuNJ8Mi9raEO8ZD1H349CpUsH7SygnQ8pK0cT_EYP-BsFKoXzU-7hblDC-ZFMGuHAgOIPAPPUic7iYruhNKibPFYFuSGpn_ntfGdoIJ44hXujaIfh8BAGG8IxXlP_KKJn02QajIJwfzOq-ij1sKrzoqTwQcwSCAmrOjYpYKDVNnLYry6fOCLqDLlkEdN9uHoQ.jpg",
+          "thumbnail_path": "channels/whitedns/media/38ea00e3f0268694ddbb75c7.jpg",
+          "thumbnail_sha256": "cafc0280ffebb7d4b0a569510146aee12f0e1f32dd93d334583d768f1f0fc473",
           "duration_label": null,
-          "aspect_ratio": 0.7500000000000188
+          "aspect_ratio": 1.8867924528301887
         }
       ],
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "123"
+          "count": "136"
         },
         {
           "emoji": "❤",
@@ -50,12 +50,12 @@
           "count": "3"
         },
         {
-          "emoji": "🍓",
+          "emoji": "😍",
           "count": "3"
         },
         {
-          "emoji": "😍",
-          "count": "2"
+          "emoji": "🍓",
+          "count": "3"
         },
         {
           "emoji": "❤‍🔥",
@@ -70,9 +70,9 @@
           "count": "1"
         }
       ],
-      "views_label": "2.64K",
+      "views_label": "2.8K",
       "posted_at": "2026-09-09T08:20:51+00:00",
-      "edited": false,
+      "edited": true,
       "permalink": "https://t.me/whitedns/1740",
       "reply": null
     },
@@ -172,7 +172,7 @@
           "count": "1"
         }
       ],
-      "views_label": "12K",
+      "views_label": "12.1K",
       "posted_at": "2026-09-08T08:02:42+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1738",
@@ -752,7 +752,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "181"
+          "count": "183"
         },
         {
           "emoji": "👍",

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T08:56:34.028Z",
+  "fetched_at": "2026-09-09T09:01:45.388Z",
   "channel": {
     "username": "durov",
     "title": "Pavel Durov",
@@ -76,7 +76,7 @@
         },
         {
           "emoji": "💎",
-          "count": "7.7K"
+          "count": "7.71K"
         },
         {
           "emoji": "💎",
@@ -149,7 +149,7 @@
           "count": "10.7K"
         }
       ],
-      "views_label": "2.91M",
+      "views_label": "2.92M",
       "posted_at": "2026-08-24T21:21:51+00:00",
       "edited": true,
       "permalink": "https://t.me/durov/544",
@@ -425,8 +425,8 @@
           "asset_path": null,
           "asset_sha256": null,
           "thumbnail_url": "https://cdn4.telesco.pe/file/hKwMj6rnCluMB8x8LBlTA3Ldvnuqs17XT6DbUxBBJQ9XeqeLUYtzIw0l4uvMN6Qzs2VfVKRW6RGC-ajEdDxbPXYCSg3NLtYsnO4XXSb4iurXNT2yX_g62SlVjoZcFhl_P6K1PCVg5QOWGIuQAw9vzixCHGqgL6ETk9F3dDW22jTHmx-w2Tcs4Qc_k2x9XbqSEtPqMec4kYczGr-C29LAIa6vsy3KwiUwCWQYlT1-0SbwWEq6kzw8wtGasF3b4attGhxCNlMeAjg9sFa5EcK6Vlr7hUzoMO5seLFFRj7KXTp4O5fkjvODBmxW2qdvUMbaFmltwlbv1a_D5AB9eUYwjg.jpg",
-          "thumbnail_path": null,
-          "thumbnail_sha256": null,
+          "thumbnail_path": "channels/durov/media/08bb70bce52123f428607f48.jpg",
+          "thumbnail_sha256": "83fefe76376686d6796da1f861b10f28a8acf8d9f9bb95967c1592a959db5c58",
           "duration_label": null,
           "aspect_ratio": 1.5267175572519085
         }
