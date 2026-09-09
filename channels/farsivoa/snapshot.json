@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T17:56:35.788Z",
+  "fetched_at": "2026-09-09T18:01:38.126Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/230022",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "صف‌های طولانی بنزین در سیستان و بلوچستان ادامه دارد؛ همزمان پیک‌های اسنپ‌باکس در سمنان اعتصاب کرده‌اند و اسماعیل بخشی در هفت‌تپه تحصن کرده است. گروهی از زنان نیز با حضور بر مزار نیلوفر مجاوری، خشونت علیه او را محکوم کردند",
+      "plain_text": "صف‌های طولانی بنزین در سیستان و بلوچستان ادامه دارد؛ همزمان پیک‌های اسنپ‌باکس در سمنان اعتصاب کرده‌اند و اسماعیل بخشی در هفت‌تپه تحصن کرده است. گروهی از زنان نیز با حضور بر مزار نیلوفر مجاوری، خشونت علیه او را محکوم کردند",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/230022",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/RjRFVIPshiGdcuSY9Ko01O5ysqRA8zNL8Y3yJriwkVr4aTELGL4pj2bObPyG66eEF4Bmw9fGgrhpHAS7bRXYoguZg0pybNXxBbaiR-bt_VQrMB1Boi-hL-NTHSR399QSn3iJXZWdOzLUyqCZ9vV_8gE8uRjQoo7QUgg52JI3WemvRvHfQjc1jhcbHfPtl_FEY4vZqgtLZ2HYOK623EgcDJQ07zrqJ5hYj21tpdRp7vI0Syr919l18S_WtLPWlOAfXiujQPM81B7pKcq4Pdybjw8uN7L3g1fXiJjzFOHIhb7EJ5lD0zCjaF3xjO6KokJdaMZxuQbXxRyqbST1HtdC6Q",
+          "thumbnail_path": "channels/farsivoa/media/6fbf2d9851ec81913e2a33bc.jpg",
+          "thumbnail_sha256": "f2f74e449b626027e3f363e6cbdb7ba52f0c6ac2c461aa3614abc4124f7c6caf",
+          "duration_label": "3:12",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "224",
+      "posted_at": "2026-09-09T17:59:09+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/230022",
+      "reply": null
+    },
     {
       "id": "farsivoa/230020",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "353",
+      "views_label": "641",
       "posted_at": "2026-09-09T17:52:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230020",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "577",
+      "views_label": "864",
       "posted_at": "2026-09-09T17:46:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230019",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "869",
+      "views_label": "1.06K",
       "posted_at": "2026-09-09T17:41:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230018",
@@ -183,7 +211,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.2K",
+      "views_label": "1.38K",
       "posted_at": "2026-09-09T17:33:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230011",
@@ -211,7 +239,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.13K",
+      "views_label": "1.25K",
       "posted_at": "2026-09-09T17:29:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230010",
@@ -227,7 +255,7 @@
       "plain_text": "🔺ایالات متحده شبکه جنایی فراملی چینی‌زبان را به دلیل کلاهبرداری سایبری از شهروندان آمریکایی تحریم کرد\n\n▪️دولت آمریکا در چارچوب کارزار پرزیدنت دونالد ترامپ برای مقابله با جرایم سایبری و کلاهبرداری از شهروندان آمریکایی، یک سازمان جنایی فراملی و دو شرکت پشتیبان آن را تحریم کرد. همزمان وزارت دادگستری آمریکا زیرساخت‌ها و کیف‌پول‌های دیجیتال مورد استفاده این شبکه را توقیف کرد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/us-sanctions-xinbi-guarantee-cyber-scam-group/8196084.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.48K",
+      "views_label": "1.6K",
       "posted_at": "2026-09-09T17:23:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230009",
@@ -255,7 +283,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.52K",
+      "views_label": "1.61K",
       "posted_at": "2026-09-09T17:15:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230008",
@@ -283,7 +311,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.68K",
+      "views_label": "1.8K",
       "posted_at": "2026-09-09T17:10:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230007",
@@ -299,7 +327,7 @@
       "plain_text": "🔴📢‌ پادکست تفسیر خبر- چهارشنبه ۱۸ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "1.83K",
+      "views_label": "1.96K",
       "posted_at": "2026-09-09T17:02:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230006",
@@ -315,7 +343,7 @@
       "plain_text": "🔺آژانس پرونده فعالیت‌های هسته‌ای گذشته سوریه را مختومه اعلام کرد\n\n▪️شورای حکام آژانس بین‌المللی انرژی اتمی روز چهارشنبه ۱۸ شهریور با تصویب قطعنامه‌ای، ضمن بستن پرونده فعالیت‌های هسته‌ای مخفی سوریه در دوران حکومت خاندان اسد، اعلام کرد که مقام‌های جدید این کشور به حل‌وفصل همه پرسش‌های باقی‌مانده کمک کرده‌اند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iaea-board-governors-syria-past-nuclear-activities/8196081.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.95K",
+      "views_label": "2.05K",
       "posted_at": "2026-09-09T16:56:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230005",
@@ -343,7 +371,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.89K",
+      "views_label": "1.98K",
       "posted_at": "2026-09-09T16:54:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230004",
@@ -371,7 +399,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.92K",
+      "views_label": "1.98K",
       "posted_at": "2026-09-09T16:49:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230003",
@@ -399,7 +427,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.28K",
+      "views_label": "2.34K",
       "posted_at": "2026-09-09T16:36:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230002",
@@ -2571,34 +2599,6 @@
       "posted_at": "2026-09-08T20:36:36+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229914",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229913",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "معصومه طاهرخانی، تحلیلگر اقتصادی: با تداوم نقدینگی، دلار ۳۴۰ هزار تومانی، حداقل چشم‌انداز امسال است<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "معصومه طاهرخانی، تحلیلگر اقتصادی: با تداوم نقدینگی، دلار ۳۴۰ هزار تومانی، حداقل چشم‌انداز امسال است\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229913",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/OPS7QsFJiLcAyqr9Mno1Dtz27PEdMwZv282IisysGny753Rc0NyfFEw7LMVeuJWtveCvn_eTi89H6eQ27HgVPfZLaJftABrNuKj5hJfL0urBsI5id89YI9KEIIWuCTRyh0Q6IwlXtHeNZ5-9tNW_9GWEPL6aMysB3Jt8Khx427CVmVqbsQ7N8H-Bute6-CATYNpkk2pq5wobfVjrHJziyUcpyynSZpo02UrGodnc74LX8VvwPHIQdgcC_A-aNDkq8YUcQ0a9jkbgA0nuaSjhyCJmZTGmMVh1O4XW3ALSF-jcaQJwjKwzngm7eN1Beg5dTUYz7cPLVyjVXv8NRY_4rA",
-          "thumbnail_path": "channels/farsivoa/media/dd6ea1e91598960d37566ce8.jpg",
-          "thumbnail_sha256": "042a6eb3dad0a3089c0851ee27ef21c30902828c32fe477ae8e734501e22a445",
-          "duration_label": "3:06",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.5K",
-      "posted_at": "2026-09-08T20:32:52+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229913",
       "reply": null
     }
   ]
