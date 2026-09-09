@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T11:06:42.919Z",
+  "fetched_at": "2026-09-09T11:11:41.254Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12776",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/u689_rYO5BvRoLGHUqeS748ZHihd5W8tmUKeKKLLRiCouTN2NBT332edoyj8v5k5o8rEYQ8nmcM7OaCQjQMgIVATAaycdA6ywFgN11S0cyo7c1sf-_dJslYen0uOj7OrQw465QP6ysxLlEgMPuLplxph7uoL2g3_vZ_PSHq_C_QXhwiyiKK0nhvTkvUA52QzghrG4N0CcdROanb-YIIsuM4XnLZoUENqcREbi8lr_0qLaWnTcs2vXJ2wKbXwKZXafH1NX3IXlutBl-tuBoxdGvKU-iLTBqCQSJ60KxXrOwlA7R4FjhdZXrOXbRkAURl9NQ775b6oWxhdgfydK_E5Xg.jpg",
+      "author_photo_path": "channels/iranlix/media/11a3f1a47603e8b665d47093.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>سازمان UKMTO گزارش داد که یک کشتی تجاری، حدوداً 24 مایل دریایی شمال غربی بندر راشد در امارات متحده عربی، بامداد امروز مورد حمله قرار گرفت و احتمالاً آب به داخل آن نفوذ کرده است. این حمله توسط یک پرتابه نامشخص انجام شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i>طبق گزارشات خبرگزاری ها عربی یک تانکر نفت در سواحل دبی، امارات متحده عربی، مورد حمله پهپادهای ج.ا قرار گرفته است.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "♦️سازمان UKMTO گزارش داد که یک کشتی تجاری، حدوداً 24 مایل دریایی شمال غربی بندر راشد در امارات متحده عربی، بامداد امروز مورد حمله قرار گرفت و احتمالاً آب به داخل آن نفوذ کرده است. این حمله توسط یک پرتابه نامشخص انجام شده است.\n\n💢طبق گزارشات خبرگزاری ها عربی یک تانکر نفت در سواحل دبی، امارات متحده عربی، مورد حمله پهپادهای ج.ا قرار گرفته است.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/12776",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/MT1V9YYwQ1wTXhYbQ1_8mJbczV3CsDRD8dS7dkMb34Gs86g9TWwhsDA848-VvtHWmVDMR-iudfquJmOLdDDLKp5ZmuW3sOwdUTxZzFD7fS14onsmPHnvsAkoQUIQX_CiZwHeZyt8wX5hKBmkEp9BO1BWibWJ6aRFU15Cbe0ftJQug_ho2BKIsfClgS01QVp8cQZs0qtawe9XSnKR0f0vPAhWE2n5Tqi5b13M0bgksmGvXMiqCtAbDbV7ZGbZX8hTvi8w1f1MlCqmpmDQ95O59rgYipFlkV9wQp-8SxxAZE1v4EObKQO7V9phF3L1VQmiiEnrMEmGEjKHAGhS_rJBAg.jpg",
+          "thumbnail_path": "channels/iranlix/media/4ab67e2e19a447bbf7b24c08.jpg",
+          "thumbnail_sha256": "64c755a34e9e0a9463b7c79153a3a92e7db2a8c24a18a31e7a3836b68fff9c56",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "47",
+      "posted_at": "2026-09-09T11:09:26+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12776",
+      "reply": null
+    },
     {
       "id": "iranlix/12775",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "331",
+      "views_label": "363",
       "posted_at": "2026-09-09T10:32:13+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12775",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "587",
+      "views_label": "612",
       "posted_at": "2026-09-09T09:39:37+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12774",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "687",
+      "views_label": "706",
       "posted_at": "2026-09-09T09:06:37+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12773",
@@ -128,7 +156,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "714",
+      "views_label": "723",
       "posted_at": "2026-09-09T08:48:44+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12771",
@@ -156,7 +184,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "713",
+      "views_label": "723",
       "posted_at": "2026-09-09T08:31:16+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12770",
@@ -184,7 +212,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "698",
+      "views_label": "709",
       "posted_at": "2026-09-09T08:18:56+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12769",
@@ -212,7 +240,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "712",
+      "views_label": "721",
       "posted_at": "2026-09-09T08:13:54+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12768",
@@ -240,7 +268,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "814",
+      "views_label": "820",
       "posted_at": "2026-09-09T07:21:17+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12767",
@@ -268,7 +296,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "889",
+      "views_label": "894",
       "posted_at": "2026-09-09T06:45:13+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12766",
@@ -296,7 +324,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "884",
+      "views_label": "888",
       "posted_at": "2026-09-09T06:30:57+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12765",
@@ -324,7 +352,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "935",
+      "views_label": "940",
       "posted_at": "2026-09-09T06:14:24+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12764",
@@ -352,7 +380,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "912",
+      "views_label": "917",
       "posted_at": "2026-09-09T06:02:49+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12763",
@@ -380,7 +408,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "968",
+      "views_label": "973",
       "posted_at": "2026-09-09T05:38:22+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12762",
@@ -408,7 +436,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "981",
+      "views_label": "985",
       "posted_at": "2026-09-09T05:00:20+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12761",
@@ -464,7 +492,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.06K",
+      "views_label": "1.07K",
       "posted_at": "2026-09-09T04:37:40+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12759",
@@ -3024,34 +3052,6 @@
         "thumbnail_sha256": "b502ff92c66d880c6ffb5501c0c0e21c4c6134fa05b009711f4209eb8984c9e9",
         "permalink": "https://t.me/iranlix/12654"
       }
-    },
-    {
-      "id": "iranlix/12657",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fMVnOc1uSucjuboT6V0k7ELXy0-AF7uXhfQKrT0ABzO4YzNvYVYnhQDl9twI5SD7s_WY23CPVzE1kCYrgwBE-c0afmMRE4w0x1v9fJg2JPujS6glrH0OikU9oZB7LN90gFgqsYvcd6hcSfUWJGw9K7p7qJGl0c1YSpXmSrRkUabxYJw4-0ABlI1K019Rc4i4hddSvcxPaBcfBxscaRfeZ2IAghENZ4crQZSKfSCyu-vReE4p-qu7FL3BVKVpjlewu9IH_c86Ie703hT2oR8BPw-_W35Ebf76o_in2_h7S0lirkU8mZyQ9oCUpBRTYO2xsEYmfY7qyRK21qYFBO7xfA.jpg",
-      "author_photo_path": "channels/iranlix/media/d6f23b233b51f82bbdb3cdba.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>طبق گزارش خبرگزاری رویترز، حجم قابل ثبت حمل‌ونقل کالا از طریق تنگه هرمز به شدت کاهش یافته است اطلاعات شرکت کپلر نشان می‌دهد که در طول ۱۰ روز گذشته، به طور متوسط ۱۰ کشتی حامل کالا در روز از این مسیر عبور کرده‌اند که کمترین میزان از ماه مه تاکنون است.فقط ۲ کشتی در روز شنبه و ۶ کشتی در روز یکشنبه از این تنگه عبور کردند.</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i><b>همچنین</b> <b>بنابر گزارش‌ها تردد کشتی‌ها و خروج نفت از تنگه هرمز با حمایت ارتش آمریکا و خاموش کردن سیستم ردیابی و رادارها همچنان در حال انجام است.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "♦️طبق گزارش خبرگزاری رویترز، حجم قابل ثبت حمل‌ونقل کالا از طریق تنگه هرمز به شدت کاهش یافته است اطلاعات شرکت کپلر نشان می‌دهد که در طول ۱۰ روز گذشته، به طور متوسط ۱۰ کشتی حامل کالا در روز از این مسیر عبور کرده‌اند که کمترین میزان از ماه مه تاکنون است.فقط ۲ کشتی در روز شنبه و ۶ کشتی در روز یکشنبه از این تنگه عبور کردند.\n\n🔹همچنین بنابر گزارش‌ها تردد کشتی‌ها و خروج نفت از تنگه هرمز با حمایت ارتش آمریکا و خاموش کردن سیستم ردیابی و رادارها همچنان در حال انجام است.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/12657",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/QumAoyOueJ5p07zFzB6CWCRgV_RKYN-oIuyo8hx5eJ443n7IHGlrVbfy47-Rr1teV47skA5H2hosJ_Ho2vh6xY5s3cN85kM54toQv1MBuD9ierDOdU6hRvli6ZKZCMzkuyeyvTwMgUkezcMNjzepiVPNBOSmn6aqPgHolXqrFzhNNZ-vQYWMn7o0ML6yMrbZE3FfFHCv06JzzS23fDMszWtsD_erm81PVjJUJUR4cm--8islVz_RqntfgFvlrquefK0U_vO8rtm0IhOkUaf-pT2d43Ux19yK9SA8gGqbY3lO5M5m8HqcEcKh59aiUIsGHkpYhde_WeHhjTEPudeDIw.jpg",
-          "thumbnail_path": "channels/iranlix/media/707d27c7d5a22aee014fe067.jpg",
-          "thumbnail_sha256": "1b0e981ba3d4778b9a685339e673b2983649efdbe585e4781a0adeb583dd4016",
-          "duration_label": null,
-          "aspect_ratio": 0.9262500000000097
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.14K",
-      "posted_at": "2026-09-07T05:43:41+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12657",
-      "reply": null
     }
   ]
 }
