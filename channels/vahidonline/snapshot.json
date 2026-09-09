@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T12:21:40.828Z",
+  "fetched_at": "2026-09-09T12:27:05.522Z",
   "channel": {
     "username": "vahidonline",
     "title": "Vahid Online وحید آنلاین",
@@ -33,7 +33,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "239K",
+      "views_label": "240K",
       "posted_at": "2026-09-09T04:54:51+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78291",
@@ -105,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "321K",
+      "views_label": "322K",
       "posted_at": "2026-09-08T22:57:21+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78288",
@@ -133,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "304K",
+      "views_label": "305K",
       "posted_at": "2026-09-08T22:49:32+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78287",
@@ -161,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "311K",
+      "views_label": "312K",
       "posted_at": "2026-09-08T22:23:12+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78286",
@@ -245,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "335K",
+      "views_label": "336K",
       "posted_at": "2026-09-08T20:06:34+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78283",
@@ -301,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "298K",
+      "views_label": "299K",
       "posted_at": "2026-09-08T19:26:50+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78281",
@@ -373,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "281K",
+      "views_label": "282K",
       "posted_at": "2026-09-08T19:10:11+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78278",
@@ -468,7 +468,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "301K",
+      "views_label": "302K",
       "posted_at": "2026-09-08T15:06:33+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78274",
@@ -488,8 +488,8 @@
           "asset_url": "https://t.me/VahidOnline/78268?single",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/KOpGa5ul3cYV3OWvvUKJOupYgjJlkNzkHTmmFX7w3hkhMt4K8B8kSj879D67icY4S6yRkVjM9HoM70JN8KYMxg3_MvDhwqH76PD8X-XuIJ1PdA9dJbDbXV2UWEzDegSZ-h-jpJS8T0CKDoOspKwFi7u_rXix3JUCV7s5vbRLdBV7OjKcaDW27w4W9IkbmWE7RFEma_vOkDY_e_OD4yAPgGMBtoRmMOQ1YawGApMp7xzGt1v7hzxOMSOFx0ErrKvo1RdY6q7XsKzfKzVQovOfCAZkcHoPdOhRhrDUnJbr0CYS5LdGh1aBPyFKKYmiC4ZyypElnI_N-d4eC7pk8E196g.jpg",
-          "thumbnail_path": "channels/vahidonline/media/e9edaf8f11ac7f730aa3bad3.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/IBjF4sgQWtKMcYeeyIphQyjdjrz17izzpGU-azA-iRsjZnlBVfUAZPGtGzGeKEUtV3DxjKxVrAgV5VJaUNj-1NeoISVhZkCLcac51AwmBp71ly7ClboJWqtM3rneXxkF0hRDUjLrncM76vGZXyiYUcgMVIPml9lqcw_3qopk8Z7j4kVZN8k0eb3jTj5TiE2sUzMKruU6uTj-trbVAmKYRCbEh0qrV2Vh_ChuEdc18V5UoC6uJHzRwc0BwXHyUMrVSreqhUN3HNwJAYpKIePBl1WcAHGw2MVnLWMNIKQDFvFEue6zdVyO1AOA2S-pTb8N27VYXm1TgCta1qkwZA9mRA.jpg",
+          "thumbnail_path": "channels/vahidonline/media/b051a5b8c0171aed69515c36.jpg",
           "thumbnail_sha256": "65aca77868dae2959fd65babf2c6499d1c173ef62fc56e694dc42231b1897524",
           "duration_label": null,
           "aspect_ratio": 0.79875
@@ -499,8 +499,8 @@
           "asset_url": "https://t.me/VahidOnline/78269?single",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/j8WymiYBW8LYWFkXX8M6hP_69vxy6CMaTISFPqYQP84zpqdX8x5S1G6r6mlfz2DdnbzsxLQwvy3JNCwsCZroqrXJ5BY-ofGzSXduRP0pFKW6CL5FD7m-62bWgJ6SqxOcl26_7G2P3K9QkgglTEaf5nLJv3XBnab3srTYNtvLgeKsdxOMj99v02dbyhArAKLHYpfqAswFhBkv7Wj11TevXA3jX4q7b7nZ1tWNqeGsNpMEtM3TUHcnQnTl945oUv0iUefWR8SY21vAKPrSar6nTKAUPs2QPH8bJkh5w1OKkFSYjrC-e26h36T2T9aa6s7RLGKVIedlCkt3yE-npbsUJA.jpg",
-          "thumbnail_path": "channels/vahidonline/media/208275e6b9484bdbfb3a122c.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/hZ0b0aSkCr1aBKghNuDPcgTQM5I7BUFqTyltEkwvyAZTQtW68F6d43PCbIpBlQYLXsdJQOaOLguqhXkjnBps4d734Ltpgh_bIbQjJOGDx9oGSTcFd9vjrqgG2qMRc8E83sMMqmTcA5bAcWhdSHSQN8j7JVHDXJXqOvyNhcHmFCmLiwnTGvn_0i-YUHVbFtZ0Z_zPJOCsjqlP47VPXSKqE1KOeuNUWd0pywdovAAE_nKdCoygmXVuZWDq7HQGdn8vkRub7bTNBp3-ZRDSVTHJ_JN7TEYXsRhRr0X8NwCG8Gj0PDLZ85PZeo5j8cu2nZz8Jr23t6v-HKdflkizSdYwMg.jpg",
+          "thumbnail_path": "channels/vahidonline/media/1a533d7d6330749768f32212.jpg",
           "thumbnail_sha256": "43cca11b719b4204a2894b86ef95f60dca8827a53f024b3bde7523b10445d6fe",
           "duration_label": null,
           "aspect_ratio": 0.8
@@ -510,8 +510,8 @@
           "asset_url": "https://t.me/VahidOnline/78270?single",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/urUEtt4GubzGTphlZQ0tL6g0ReCaRmuHfaje0ZpmKkZj7C6PFa9XVJ95XNv8ppooKWJe4VTrZjNVTCJWnolqedEnalLTdQRktpSv2n_79Z4fFnB3jcbfGh2MS0w8XZQNq7pML2chf3BSBMkgfwj4ZomUgH0zskqZmhHLrghiOpIy-iDRiP-llRv6Kl1GT0Ng4LTi1nlvY0enuP13GftlZ97caMUy5_RpsKY2EgmCdWZKqTMrqc5rAto8ZhbztQkh0XeY308zSWWM0rt15DDefRSGXoqyCASvm2JV0EstlE0qnd1Z2su0ssX7ISSNXB7vHH4Ejkc9vMpbZLe-eeOYHg.jpg",
-          "thumbnail_path": "channels/vahidonline/media/47b4186b0880e0f6f7454e32.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/S_poAtBSUFbJ7ephizAbapqwQjf2bfo_hZxOdlVPuzh6LO8KpDJKlQjKHGdX6g1C2oP6PUckJ8aAAUdHXQc2f5WS9PG9Q73PNbPkAC_KViaKrFBr76W3b77HmgY9QXNK3rorlaQLiK76npXB1VTk1TMxsf9gowxhVG3Btc4fCY_SFL-hUTkpfklJNJABJeLxPztfefs1JpqnAmkna_mJbs1nCAiJqsXb00-Zb-1sgWLnpmaqzt0-LN0NHdiwoa21ZYNLoH11rewkYlH-MskWBOom8Q5m74HD73lEitDDaE9aoQMqUgHd6Z5m_YdNQf7OHIIj2JBRD8sXzysNxTdA1w.jpg",
+          "thumbnail_path": "channels/vahidonline/media/a48498b496cd0ff8505da955.jpg",
           "thumbnail_sha256": "f1fbff7b920e7ba9791fa7c601389a544ac883d1f35ff65e2710808e2df9dec9",
           "duration_label": null,
           "aspect_ratio": 0.8
@@ -521,8 +521,8 @@
           "asset_url": "https://t.me/VahidOnline/78271?single",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/MrXz2c4TvaVZ04ANemWaQv5-WkS-S8NSUKwCbnHlIiiixuulsQ7mIbQS6vhETYhvbTmgUwX1drM37XBmefeEpRwXxPVIGC0tqzwz44-zjef4JJViMY4Ph1JkcC2wCzmp-KT9u8BYakakGFg3v3ctcoNXIZIDz66F51fEB_OXgN8s7SCkq2baP9yuhuVucne6WXzxFRfh-boAW3JR8S52tZszbQPg7snc3fGBNfCA3L7QSuFR74F6diGkjkCt_Yljl_bkZSG_TstnYp0gZkxbFrykwoQBrDIfBkUu6F1G6Z_otrllYyZk09p0ttgnXkhMhmRvXdgKh4SCvzjQjYJmHw.jpg",
-          "thumbnail_path": "channels/vahidonline/media/012e0d790a00462268785e59.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/BVwDdQ4v7Sxfa40fH5pafXIJfg-s99mqbEK-HUpEfjaR_v6meq1LKWAn6hwibeXE4Dr18bVce4yJxt5NdJ84seTHkfVktZNniFMQvLD_q9ZoYlzA4IzbRiSwyzlv6tCp3EmX0MHMLPqakMY48uc0FXuV8nbUd6FYehusfuqsUZH9OLA1nVd35KNUqNMPsMRqjdfHZz3fktcqsW6dtfIbGntxMHPp5QZhYa9jii2V341yUFQg2fQCFtpo-ifTtDrR-VQ8uXdhTq_oAkODW6CvjcNmrG3GZtiHYZD-529-L5Xpqq7ajmtpuH_f0L9raDLQkhAWGaE8B0ZMAnijKes7qw.jpg",
+          "thumbnail_path": "channels/vahidonline/media/f3f9cc2be7f4a50bed7bdc35.jpg",
           "thumbnail_sha256": "f9ff5859710cdd051db1d0e396ff58a93141e77d609d41470f6a8f7613575159",
           "duration_label": null,
           "aspect_ratio": 0.695
@@ -532,8 +532,8 @@
           "asset_url": "https://t.me/VahidOnline/78273?single",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/f_3Ftf-zrwkhV7tXR9kcNF9qcIGyW_MvvaUrhCKXcJUB21CbscHIrgD8_AoBizWMMjBDuQRBmQlcwt2PNafJrYyKLG1yQUCpV0LnrDLxyVdsEPFi1OUL9553hguLL_qg6IYdCS5DugY3Q2C94MG7eMZ0514ShrMgR70IxaH96Hvl7NTuEgNrpVwOQhuEm6zQaWnSZbr6qUBeRFVwCUUxAW8IkOKCg_d12c8r1bXDNH7cAHVQVy5y9TCa3oUCbF77OHCKvVjW8Z8keiNHlVCgDlNd5NeYpWlIy4l8d1lo2WOPigeXdTfoECB9Nx-bJn39b8GL70PqODozB3342lNrCw.jpg",
-          "thumbnail_path": "channels/vahidonline/media/95fe960eb172cd3ee5224de7.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Vskz4MGHhE6CeXO2scRK3rTeICizSKqCWhqwIjnHtATOtzVxZwwX-ZGyae4kw_m4DQc24AI_Iw5mszvUg8zlD6BBgomURVw_bolJv4pW5ufrrb5N1iGHBILixddceWePTlTSlqYZ-bOe8mMT9d1wmnZ9m8Ksauw1xzHoWzdStIlT-7hMENI2veX6mr2RX3PFWRGCuWKtftGfCuxJVkNzg3gWowdj0NkISt41DBeU7BV_qd8oFjuy2AZXnODwqDX2tc9IIlhlqbhZYAYBgRbO2kt1DUP7pZj8wFeVRxvqtmEGZajcdddrbWCFM5B6cLvEqfzoPQQcXifkeRU73Z4GVg.jpg",
+          "thumbnail_path": "channels/vahidonline/media/09540945c51f08c5d26aea4c.jpg",
           "thumbnail_sha256": "edddc6797686d1cbd32fe68fe5444afd1c8f803275d357e8eddd9e2da0a8ba4b",
           "duration_label": null,
           "aspect_ratio": 1.4545454545455
@@ -543,8 +543,8 @@
           "asset_url": "https://t.me/VahidOnline/78272?single",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/QoVeSvThG0VZbAnGTBhQIFtDr3WEflyCS-xAnxCRhnKE2gCAdfJX5KtPEnvr_g7EXQCdKt_ojwBbwbOiOH0fFzNOEXEvsBuEGZJeQBdCxe7SWjT5LLXb8eO7tDjbdzeu-Q5LrPedJDfpQ47VBkhL10k7fWeJe6wMuPdU6JzPgLmFhbljEAB2rAJGDammUriGDQazalEzmx0RZYePhPXlEpjoV-lDKJ4BzRRmXeYLK45xItrDSntwqigIfet4BvxfNAGUCxWt3pKFcFYdbHxRcF1cDEznUwgH8cSQb6Dy9IWFIpsADf01Lv70NaZS_UAozznNE0O_7zTqqyx5sQ3txg",
-          "thumbnail_path": "channels/vahidonline/media/2d08647813f3698d8d694277.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/JBOAyFVETYyKnxwKpUlDaNSl6KACjBIS4aB1X_WrKABxAjxlkVAq2CKVSS0DTAPc9bH7PYsWJwZ4uXjZXKkMH0_a3cienxiFdkxo5yt_91lfDxfk4GLrUYRFxwk6mb0euuiO3j3VULn-XbaLC8noeCRKTOB-a5VVSQ59w_WRYjryd2wqWP_93Vtv2bN0-MmsQbGriWGRhN6Wl4ntLpR-_BALYiPbh5j-9EDqt-efQ79skQtB6rCoiCC0KqCJEdBibfGdygjPr-m120cx_wAuZUil2T2esafu8hJRQJMp81CUnvM8oBPwg50OjIZoIBz2mZRz7y_5KkUJWDWNqrkKaw",
+          "thumbnail_path": "channels/vahidonline/media/f713ee62ce25889f6b4fcc08.jpg",
           "thumbnail_sha256": "5cfbff6d4634ca6309d7a771ba4f46201b40991a1e6f5059b12c46abfe33bd2f",
           "duration_label": "1:00",
           "aspect_ratio": null

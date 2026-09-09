@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T12:21:32.147Z",
+  "fetched_at": "2026-09-09T12:26:56.272Z",
   "channel": {
     "username": "durov",
     "title": "Pavel Durov",
@@ -23,7 +23,7 @@
       "reactions": [
         {
           "emoji": "⭐",
-          "count": "6.47K"
+          "count": "6.56K"
         },
         {
           "emoji": "💎",
@@ -38,7 +38,7 @@
           "count": "5.1K"
         }
       ],
-      "views_label": "956K",
+      "views_label": "957K",
       "posted_at": "2026-09-06T17:40:39+00:00",
       "edited": false,
       "permalink": "https://t.me/durov/547",
@@ -109,7 +109,7 @@
         },
         {
           "emoji": "💎",
-          "count": "11.5K"
+          "count": "11.6K"
         },
         {
           "emoji": "💎",
@@ -379,8 +379,8 @@
           "asset_url": "https://t.me/durov/537",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/fdIUPgsUsB1sZqac3gf98t3gCFOLAWYKF1MkhmEOKGcv0e2-fc_ZpkuGTrGBqCQZZiIo3GM40G4FgvgymUgCp5j4vAYlVca8ls_XYFM6qOKqqfxuTf-gEedq4VTUDymnXqIHeBRZFKOS6VcNgex3wEnOrARrKUspBgZgBuEEtsMn_9vuMqaNSspNKlJdWaRDxz2g_jOnQLkHAKOF5L6xf_owUHr4DZ_qz083ktmDBZoUflJi_RCXsq3F9wtO0VWyKbfT4vyRHA_1EXvdxIDhAVqbTLn3RIK4tRSjZ10NxHK9LnVRwM1RSMbgUf-v2Hes1E5e3Z6x_ebhugRLq8Gh5g.jpg",
-          "thumbnail_path": "channels/durov/media/3f9cacdc4c1920339ba1956f.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/SmFrphxxphnQiMV2hazuYznVq5cP07hCObJ9WadafZQkjBofJ45jAvtGXvZUppLtYzcBGUtNOaG_vgTABZSojN6qzHcymCxBDqBm_I560pcTPAb5jFp_omxSpnQfegBQS-IKzgCLENQUg6VHXMx70MO9DrMyHhzx5qk86a3sIXCRfvI549OIo6CGN-_-Y-V2Il3aa93Zb-dKk0FBF18ikX2VFpbrIazbsG9quHvBJXuLsFM2wvQNYhIHoRyvX1B0gJIXbmdQWMl-VLdB854aABAt6I08XJMHxt04R_UTceI5kiTCcSLZ05KfnnK-padEo5CJMucpAr39DzydRS4Ulw.jpg",
+          "thumbnail_path": "channels/durov/media/180d88d20926862e3ed2e844.jpg",
           "thumbnail_sha256": "67c188c51ab01028c1970f03292f7da0230ba57a62358b4d60d272e6ab09d2de",
           "duration_label": null,
           "aspect_ratio": 1.8691588785046729
@@ -643,7 +643,7 @@
         },
         {
           "emoji": "💎",
-          "count": "1.61K"
+          "count": "1.62K"
         }
       ],
       "views_label": "5.62M",
@@ -721,7 +721,7 @@
         },
         {
           "emoji": "💎",
-          "count": "949"
+          "count": "950"
         }
       ],
       "views_label": "9.51M",
