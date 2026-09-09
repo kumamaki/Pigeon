@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T09:46:42.976Z",
+  "fetched_at": "2026-09-09T09:51:45.571Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229965",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "دبیرکل سازمان ملل، حملات رو به تشدید اسرائیل به جنوب لبنان را محکوم کرد و خواستار توقف فوری خصومت‌ها و خروج نیروهای اسرائیل از خاک لبنان شد.<br><br>آنتونیو گوترش گفت از افزایش تلفات غیرنظامی و از آوارگی ناشی از دستورهای تخلیه «عمیقاً نگران» است.<br><br>او افزود گزارش‌های حملات اسرائیل به بیمارستان‌ها، کادر درمان و نهادهای عمومی و نیز محدودیت دسترسی بشردوستانه، او را «هراسان» کرده است.<br><br>او از همه طرف‌ها خواست حاکمیت و تمامیت ارضی لبنان و تعهدات خود ذیل قطعنامه ۱۷۰۱ شورای امنیت را رعایت کنند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "دبیرکل سازمان ملل، حملات رو به تشدید اسرائیل به جنوب لبنان را محکوم کرد و خواستار توقف فوری خصومت‌ها و خروج نیروهای اسرائیل از خاک لبنان شد.\n\nآنتونیو گوترش گفت از افزایش تلفات غیرنظامی و از آوارگی ناشی از دستورهای تخلیه «عمیقاً نگران» است.\n\nاو افزود گزارش‌های حملات اسرائیل به بیمارستان‌ها، کادر درمان و نهادهای عمومی و نیز محدودیت دسترسی بشردوستانه، او را «هراسان» کرده است.\n\nاو از همه طرف‌ها خواست حاکمیت و تمامیت ارضی لبنان و تعهدات خود ذیل قطعنامه ۱۷۰۱ شورای امنیت را رعایت کنند.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229965",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/mlwGsrfdKu_WQ3rUd-ugA7I2qjkS3rsTssh725rq3cmQkjA0k_yFHinRmwnAd6I76BmG8ERH1FtmiFfB5FekQVPvjdaUlKHqN0_mmWP_rRPxPXTIlGDCEo2TMlT4mCXOvI6i78IO-Obr_28hpA923IJ8uIBOi2Oyqd0mGVJaqXQllmbOV6mw18yBpH7tsZSzX_OJf4kbi91IOlOoc2WGBIpDmX9qpS_Gu1u0KkUvdtIGxfHVySCxOec9Vyw3N9AoijkQf2wbKhjEl2DGu5YizSkE-3_U60nJqtBPPfeQgi5w1vUxwCc4VZERemW8Tr_HGWmm2aQa4I5mRwF0gTj3Cw.jpg",
+          "thumbnail_path": "channels/farsivoa/media/80d9a02eb269c4354b8137a6.jpg",
+          "thumbnail_sha256": "b3c861597789d3b4400af59416f65ee18e640044aa88cf805a0052c225f8ceea",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "312",
+      "posted_at": "2026-09-09T09:46:56+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229965",
+      "reply": null
+    },
     {
       "id": "farsivoa/229964",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "506",
+      "views_label": "723",
       "posted_at": "2026-09-09T09:37:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229964",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.01K",
+      "views_label": "1.16K",
       "posted_at": "2026-09-09T09:22:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229963",
@@ -77,7 +105,7 @@
       "plain_text": "🔺دلار یک رکورد تاریخی دیگر به جا گذاشت و به ۲۳۱ هزار تومان رسید\n\n▪️قیمت دلار در بازار آزاد ایران روز چهارشنبه به ۲۳۱ هزار تومان رسید که این رقم ۲۵ درصد بالاتر از قیمت یک ماه پیش و ۱۲۵ درصد بالاتر از قیمت دلار در سال گذشته است. دلار سال گذشته در چنین ایامی حدود ۱۰۲ هزار تومان معامله می‌شد.\n\n▪️دلار روز شنبه دو هفته پیش با ۲۰۶ هزار و ۴۰۰ تومان بسته شد و از پی آن هر روز رکورد تازه‌ای زد. نرخ روز یکشنبه برای ساعتی از ۲۳۰ هزار تومان گذشت، سپس با ورود بانک مرکزی به ۲۲۵ هزار تومان عقب نشست.\n\n▪️در بازار سکه، سکه امامی به ۲۴۰ میلیون تومان رسید، و سکه بهار آزادی ۲۳۶ میلیون و ۹۰ هزار تومان، نیم‌سکه ۱۲۲ میلیون و ۴۰۰ هزار تومان و ربع‌سکه ۶۶ میلیون تومان قیمت خورد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195981.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.36K",
+      "views_label": "1.49K",
       "posted_at": "2026-09-09T09:12:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229962",
@@ -93,7 +121,7 @@
       "plain_text": "🔺کانادا و فرانسه به ممنوعیت تجارت با شهرک‌های اسرائیل پیوستند\n\n▪️کانادا و فرانسه در بیانیه‌ای مشترک ممنوعیت واردات کالاهای تولیدشده در شهرک‌های اسرائیل در کرانه باختری را اعلام کردند.\n\n▪️بر پایه گزارش آسوشیتدپرس، فرانسه همزمان برای اعمال ممنوعیت سراسری در اتحادیه اروپا فشار می‌آورد.\n\n▪️با این تصمیم، فرانسه و کانادا به ایرلند، اسپانیا، نروژ، بلژیک و هلند پیوستند که پیش‌تر اقدام‌های مشابهی انجام داده بودند.\n\n▪️اد میلیبند، وزیر امور خارجه بریتانیا، نیز سه‌شنبه ممنوعیت‌هایی را در این زمینه در مجلس عوام اعلام کرد. اما اسرائیل ساعاتی بعد از رشته‌ای از اقدام‌های تلافی‌جویانه خبر داد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195979.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.65K",
+      "views_label": "1.75K",
       "posted_at": "2026-09-09T08:56:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229961",
@@ -109,7 +137,7 @@
       "plain_text": "🔺هزینه عبور نفتکش‌ها از هرمز به ۱۰ تا ۲۰ میلیون دلار رسید\n\n▪️مدیر شرکت ملی نفت امارات گفت مجموع هزینه عبور از تنگه هرمز به محدوده ۱۰ تا ۲۰ میلیون دلار رسیده و برخی فعالان بازار تصمیم گرفته‌اند اصلاً بیمه نگیرند.\n\n▪️پاول برادشاو روز چهارشنبه در کنفرانس نفت آسیا و اقیانوسیه در سنگاپور گفت جهش شدید حق بیمه ریسک جنگ و هزینه بیمه محموله عامل اصلی است.\n\n▪️حق بیمه ریسک جنگ بر پایه ارزش بدنه شناور نیز جهش کرده است. بر پایه گزارش نشریه نشنال، نرخ‌ها از یک‌چهارم درصد پیش از ۹ اسفند به سه تا ۱۰ درصد رسیده است. نفتکشی به ارزش ۱۰۰ میلیون دلار اکنون سه تا ۱۰ میلیون دلار می‌پردازد که پیش از جنگ حدود ۲۵۰ هزار دلار بود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195980.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.19K",
+      "views_label": "2.25K",
       "posted_at": "2026-09-09T08:29:30+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229960",
@@ -137,7 +165,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.27K",
+      "views_label": "2.33K",
       "posted_at": "2026-09-09T08:14:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229959",
@@ -165,7 +193,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.27K",
+      "views_label": "2.3K",
       "posted_at": "2026-09-09T08:05:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229958",
@@ -193,7 +221,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.32K",
+      "views_label": "2.36K",
       "posted_at": "2026-09-09T07:55:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229957",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.43K",
+      "views_label": "2.49K",
       "posted_at": "2026-09-09T07:41:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229956",
@@ -237,7 +265,7 @@
       "plain_text": "🔺حمله پهپادی روسیه به گذرگاه مرزی اوکراین و مولداوی\n\n▪️پهپادهای روسیه شامگاه سه‌شنبه گذرگاه مرزی میان اوکراین و مولداوی را هدف قرار دادند و چندین کشته، زخمی و آتش‌سوزی بر جای گذاشتند.\n\n▪️روسیه شامگاه گذشته کی‌یف را نیز هدف گرفت. سازمان خدمات اضطراری اوکراین در تلگرام اعلام کرد حمله آتش‌سوزی ایجاد کرد اما تلفاتی نداشت.\n\n▪️بر پایه اعلام وزارت زیرساخت اوکراین، روسیه ظرف یک هفته گذشته چهار بار گذرگاه‌های مرزی جنوب این کشور را مورد حمله قرار داده است. گذرگاه تاباکی-میرنویه با مولداوی در میان اهداف بود و زیرساخت آنجا ویران شد.\n\n▪️حمله شامگاه دوشنبه به پایتخت اوکراین مرگبارتر بود. بر پایه گزارش کی‌یف ایندیپندنت، این حمله پنج کشته و ۲۹ زخمی بر جای گذاشت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195977.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.56K",
+      "views_label": "2.6K",
       "posted_at": "2026-09-09T07:28:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229955",
@@ -265,7 +293,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.67K",
+      "views_label": "2.7K",
       "posted_at": "2026-09-09T07:17:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229954",
@@ -293,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.91K",
+      "views_label": "2.95K",
       "posted_at": "2026-09-09T07:02:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229952",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.92K",
+      "views_label": "2.98K",
       "posted_at": "2026-09-09T06:52:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229951",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.05K",
+      "views_label": "3.08K",
       "posted_at": "2026-09-09T06:36:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229950",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.31K",
+      "views_label": "3.34K",
       "posted_at": "2026-09-09T06:18:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229949",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.42K",
+      "views_label": "3.45K",
       "posted_at": "2026-09-09T06:07:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229948",
@@ -461,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.75K",
+      "views_label": "3.79K",
       "posted_at": "2026-09-09T05:31:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229946",
@@ -489,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.76K",
+      "views_label": "3.79K",
       "posted_at": "2026-09-09T05:20:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229945",
@@ -2469,34 +2497,6 @@
       "posted_at": "2026-09-08T14:20:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229864",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229863",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "حساب کاربری ارتش دفاعی اسرائیل به زبان فارسی، از فعال شدن دوباره گشت دریایی «اسکادران ۱۹۳» خبر داد. پس از بازگشایی در ۲۰۲۶، بالگردهای جدید (اس‌اچ۶۰‌اف) به این یگان عملیاتی و نظامی ارتش اسرائیل که به آن «مدافعان غرب» نیز می‌گویند، ملحق شد. این بالگرد نظامی چندمنظوره ساخت آمریکا و زیرمجموعه بالگردهای بلک‌هاوک است.",
-      "plain_text": "حساب کاربری ارتش دفاعی اسرائیل به زبان فارسی، از فعال شدن دوباره گشت دریایی «اسکادران ۱۹۳» خبر داد. پس از بازگشایی در ۲۰۲۶، بالگردهای جدید (اس‌اچ۶۰‌اف) به این یگان عملیاتی و نظامی ارتش اسرائیل که به آن «مدافعان غرب» نیز می‌گویند، ملحق شد. این بالگرد نظامی چندمنظوره ساخت آمریکا و زیرمجموعه بالگردهای بلک‌هاوک است.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229863",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/IBs4FMbYcGzsr8CpJ-o4nvxzS4oJsY0MRciGE4bg8cp8WuFjlqy9ncv-_eT5iBTKgj8Xouv0j8yYBDf5-ZjODjUbTOYqxu5vjfdIUUt38WtHD_WCBjvrt2neKhbJB5lYW-YQ09jRr3qD8RC51-BSGiltjrJ9SKK-g2Eo-Rd59fE7Rx-sZLuqghYRqtEyhwtxv4ktDo7tPvgvVmmbh1y6WjIxze0SezWf5-2iDU1IUMTyByIQPoPXZjkJRNQV9V3q0qRMRb696JJ6OFcl8OFlhvQn1qflFD4quJbedAN6mBkU7FkT_R6gatKOM1n7SPxz3_L_d1CWzo2cAAda2lPPWw",
-          "thumbnail_path": "channels/farsivoa/media/0c148e9b31ff3b0cdab1ef1b.jpg",
-          "thumbnail_sha256": "efab009120fa6d5a764df40d5ff667fedbefde626d38c1d742c41d7825589909",
-          "duration_label": "0:46",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.89K",
-      "posted_at": "2026-09-08T14:07:56+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229863",
       "reply": null
     }
   ]
