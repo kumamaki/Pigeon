@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T17:51:30.498Z",
+  "fetched_at": "2026-09-09T17:56:35.788Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/230020",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "نخست وزیر اسرائیل روز چهارشنبه ۱۸ شهریور، در آستانه فرا رسیدن سال نوی عبری، در پیامی تصویری از یک پایگاه نظامی مشرف به سوریه بر بلندای کوه‌های هرمون گفت کار اصلی اسرائیل شکست دادن «رژیم تروریستی ایران» است، و اسرائیل به انجام آن کار متعهد و به آن هدف نزدیک است و آن را «انجام خواهیم داد.»",
+      "plain_text": "نخست وزیر اسرائیل روز چهارشنبه ۱۸ شهریور، در آستانه فرا رسیدن سال نوی عبری، در پیامی تصویری از یک پایگاه نظامی مشرف به سوریه بر بلندای کوه‌های هرمون گفت کار اصلی اسرائیل شکست دادن «رژیم تروریستی ایران» است، و اسرائیل به انجام آن کار متعهد و به آن هدف نزدیک است و آن را «انجام خواهیم داد.»",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/230020",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/D8mklwsH6U8NpMt_WBNPojEJVrCtFOoBM9_OzXbVbIzHCD7CzW93A4IQ_OZaOtao76ktD1LHpTsbo_dl7RgsW1jNy221VlBrz6P2DqtUwQ8S1K0Fjk44gENr0Org-DXRn4mZGwNUBif_6DYBIXZ1TbKZZTySrvfQY61kkVrafufcsIEsWScEAbQMPIZyHGcMYAKMpHijLnqQxeC52lGuwDSD4t6_5zzlQrUhhlPnHrui26fCcOzn5OFDpZXb5ceZUshwZ0WeVwry9Hvxne8D3t3r9n2vpLVKtu8rmpPeILCF3H1TWKTfI8vfEYnD0N7LM3_YRBcGeJYmAMYVSkJWnA",
+          "thumbnail_path": "channels/farsivoa/media/cd204d9f5e5e75ad76236b89.jpg",
+          "thumbnail_sha256": "c059bd6695767b2762203c80fc835f2dd4edee84f981e60d274af12983b8ae5d",
+          "duration_label": "0:48",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "353",
+      "posted_at": "2026-09-09T17:52:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/230020",
+      "reply": null
+    },
     {
       "id": "farsivoa/230019",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "254",
+      "views_label": "577",
       "posted_at": "2026-09-09T17:46:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230019",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "613",
+      "views_label": "869",
       "posted_at": "2026-09-09T17:41:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230018",
@@ -155,7 +183,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1K",
+      "views_label": "1.2K",
       "posted_at": "2026-09-09T17:33:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230011",
@@ -183,7 +211,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "998",
+      "views_label": "1.13K",
       "posted_at": "2026-09-09T17:29:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230010",
@@ -199,7 +227,7 @@
       "plain_text": "🔺ایالات متحده شبکه جنایی فراملی چینی‌زبان را به دلیل کلاهبرداری سایبری از شهروندان آمریکایی تحریم کرد\n\n▪️دولت آمریکا در چارچوب کارزار پرزیدنت دونالد ترامپ برای مقابله با جرایم سایبری و کلاهبرداری از شهروندان آمریکایی، یک سازمان جنایی فراملی و دو شرکت پشتیبان آن را تحریم کرد. همزمان وزارت دادگستری آمریکا زیرساخت‌ها و کیف‌پول‌های دیجیتال مورد استفاده این شبکه را توقیف کرد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/us-sanctions-xinbi-guarantee-cyber-scam-group/8196084.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.32K",
+      "views_label": "1.48K",
       "posted_at": "2026-09-09T17:23:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230009",
@@ -227,7 +255,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.39K",
+      "views_label": "1.52K",
       "posted_at": "2026-09-09T17:15:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230008",
@@ -255,7 +283,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.58K",
+      "views_label": "1.68K",
       "posted_at": "2026-09-09T17:10:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230007",
@@ -271,7 +299,7 @@
       "plain_text": "🔴📢‌ پادکست تفسیر خبر- چهارشنبه ۱۸ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "1.74K",
+      "views_label": "1.83K",
       "posted_at": "2026-09-09T17:02:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230006",
@@ -287,7 +315,7 @@
       "plain_text": "🔺آژانس پرونده فعالیت‌های هسته‌ای گذشته سوریه را مختومه اعلام کرد\n\n▪️شورای حکام آژانس بین‌المللی انرژی اتمی روز چهارشنبه ۱۸ شهریور با تصویب قطعنامه‌ای، ضمن بستن پرونده فعالیت‌های هسته‌ای مخفی سوریه در دوران حکومت خاندان اسد، اعلام کرد که مقام‌های جدید این کشور به حل‌وفصل همه پرسش‌های باقی‌مانده کمک کرده‌اند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iaea-board-governors-syria-past-nuclear-activities/8196081.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.86K",
+      "views_label": "1.95K",
       "posted_at": "2026-09-09T16:56:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230005",
@@ -315,7 +343,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.82K",
+      "views_label": "1.89K",
       "posted_at": "2026-09-09T16:54:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230004",
@@ -343,7 +371,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.85K",
+      "views_label": "1.92K",
       "posted_at": "2026-09-09T16:49:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230003",
@@ -371,7 +399,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.21K",
+      "views_label": "2.28K",
       "posted_at": "2026-09-09T16:36:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230002",
@@ -399,7 +427,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.27K",
+      "views_label": "2.31K",
       "posted_at": "2026-09-09T16:34:50+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/230001",
@@ -2571,34 +2599,6 @@
       "posted_at": "2026-09-08T20:32:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229913",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229912",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "همزمان با تحریم‌های جدید آمریکا؛ دونالد ترامپ می‌گوید جمهوری اسلامی خیلی خوب تنبیە شدە است<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "همزمان با تحریم‌های جدید آمریکا؛ دونالد ترامپ می‌گوید جمهوری اسلامی خیلی خوب تنبیە شدە است\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229912",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/hcBh4m_Z5yqbIUH8c4rRmcShMYGhLnmw4Ca1ba5EsReVPbUk6uz3dFcnSQF7x7B42f0vKU224YnUnK4njobbI_7HOa7SwZQPVZgwDlhp3-q1hn_n1Iu7G64hmQV7jre3m4NyjbgmUFRtSFT169wNL6b3hWUsGDWSnzrKy-yGnBu36cQhoYhESaeJ6vvVgNjz5nd8xl02jGYX3b1tKQi1wW52d_UhBuAKkt0qjaucKyQJs8jxBp2ub6TT1hd0RZuQpnJ0DAwt9DWEtPOJfmQwmgrkVY0QFkdsragaPfUv5W8ifRgaBymzhrpEOqEzMsHWQYm7-z8lNVCR1xn197jXxQ",
-          "thumbnail_path": "channels/farsivoa/media/339cbb8012814e9cf3cadbd1.jpg",
-          "thumbnail_sha256": "6007ac2be75644d93704dcd6bc4be19a1ad12ed7f5a632eb8e2aec0e503cb981",
-          "duration_label": "5:33",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.95K",
-      "posted_at": "2026-09-08T20:16:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229912",
       "reply": null
     }
   ]
