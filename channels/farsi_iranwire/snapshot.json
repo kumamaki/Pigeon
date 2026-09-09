@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T09:31:49.444Z",
+  "fetched_at": "2026-09-09T09:36:41.144Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.8K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93510",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "«ماموستا محمد نزهتی»، روحانی اهل سنت و امام جماعت منطقه چیانه در شهرستان پیرانشهر، در یک حمله مسلحانه کشته شد. سپاه پاسداران او را از روحانیون همکار با بسیج معرفی کرده و مدعی شده است که گروه‌های کرد مخالف جمهوری اسلامی در این حمله دست داشته‌اند؛ ادعایی که تاکنون به‌طور مستقل تایید نشده است.<br><br>بخوانید : <a href=\"https://iranwire.com/fa/news-1/157367\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157367</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "«ماموستا محمد نزهتی»، روحانی اهل سنت و امام جماعت منطقه چیانه در شهرستان پیرانشهر، در یک حمله مسلحانه کشته شد. سپاه پاسداران او را از روحانیون همکار با بسیج معرفی کرده و مدعی شده است که گروه‌های کرد مخالف جمهوری اسلامی در این حمله دست داشته‌اند؛ ادعایی که تاکنون به‌طور مستقل تایید نشده است.\n\nبخوانید : https://iranwire.com/fa/news-1/157367\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93510",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/p-pZbRfGY0PJiG0tMJfD9DqOuWyaWTbw4OPAo5l0v5MxJ-19Hu915x8QAtBmVExnqU_a25rt7Byi56wxfZoBorz9kTJnTNk4tVudhkj1wqn3-HWGTzuhP8iP-lK89Bc2r7OBft5MzIHRE1PnsEgf28n2UltaUaMEakc8zxRgtqU2OfuPS8FUXd2-8NvdO4VXocMSYr1ou3_Za3N47I-rbqrWspekzeexlkNOOTu7bZZ8afhQXKlRP8JUmyAwSNSd6ux2s-PaGaw9lZTbJddgBpO5pJa_707fewx7g5qn6b9YH1cAeY6mQzDl-xYXjuY5CC3LGtmo5WxttZfLCURn0g.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/4ba2056f55ece0f746e021d0.jpg",
+          "thumbnail_sha256": "59d9756d3d0bac2db582463a3f0fdca2e05dc6ed1475c710a9db4d3a03451571",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-09T09:35:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93510",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93509",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "239",
+      "views_label": "275",
       "posted_at": "2026-09-09T09:12:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93509",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "290",
+      "views_label": "325",
       "posted_at": "2026-09-09T09:05:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93508",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "454",
+      "views_label": "475",
       "posted_at": "2026-09-09T08:47:52+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93507",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "545",
+      "views_label": "561",
       "posted_at": "2026-09-09T08:35:51+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93506",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "688",
+      "views_label": "700",
       "posted_at": "2026-09-09T07:58:23+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93505",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "645",
+      "views_label": "652",
       "posted_at": "2026-09-09T07:50:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93504",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "777",
+      "views_label": "789",
       "posted_at": "2026-09-09T07:25:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93503",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "849",
+      "views_label": "862",
       "posted_at": "2026-09-09T07:10:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93502",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "914",
+      "views_label": "924",
       "posted_at": "2026-09-09T07:01:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93501",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.1K",
+      "views_label": "2.11K",
       "posted_at": "2026-09-08T19:04:08+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93497",
@@ -537,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.42K",
+      "views_label": "1.43K",
       "posted_at": "2026-09-08T15:49:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93491",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-06T08:34:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93408",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93407",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/K1ryeuKQ4KEx_W8GG_UAEgXS4WenbnqYy6I38arbtQjTENtUCZQc86aijSe5XYgmScJwV1DfLQ_4VEPN5DltoBy7THAdB-M57YdRe65wQEul8EBsDbrMRWw2zRL5OzhWguF-d-8QVWwclG6spHHFcXlsJFKgrZLGgwKhEeGbn7jfwHtI0-R8bayMDq_tttXVRSGkpMVAeAyb34TseqUs8rqvywSzheUDDm3U0EVjDW-9tmpTsswi5sMh55tZyHvVXko6rwusUIzlfc8QZNYipXbKGOAn3cz77hC389xV_7PX6pD8qx8sh7cKA0Jz_noMeNwVM5xZQ77gMTmo8209sA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/5ea6725eb75d0236588a5f92.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "روزنامه وال‌استریت‌ژورنال گزارش داده است که با وجود تحریم‌های گسترده آمریکا، سالانه میلیاردها دلار مرتبط با جمهوری اسلامی از طریق حساب‌های تسویه در بانک‌های آمریکایی جابه‌جا می‌شود.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157208\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157208</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "روزنامه وال‌استریت‌ژورنال گزارش داده است که با وجود تحریم‌های گسترده آمریکا، سالانه میلیاردها دلار مرتبط با جمهوری اسلامی از طریق حساب‌های تسویه در بانک‌های آمریکایی جابه‌جا می‌شود.\nبخوانید: https://iranwire.com/fa/news-1/157208\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93407",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/BQchiKTD-PzYPDNTirp4QqiOJ6d7wKV_sL106FBHgvStTYkXkVERKzN9wjbDp7RPUakTqi9x4yzH7NO9ZgcgBC5OCfrp52HRuJueqD5ctvmmrtWXDb6_U-P_Wj8gV5XdPUp_GLvRj95hA8zyu_a2kTA3hQD1raem-W5N_vFwAHWmkIgLbnILQ1yP3LsecLPMTZ04SO_mP_hr5sr5Q4iHPJemrnwIemVvr_BpEhRq1DI_OgT9XRZFQjavvEZ1YWR_jiXTWJSBHz2TIL9Pg9l14LjDi0H7SKFP88RfSXgRP65kwUXin6OkxZ83UYcbeBPXOAmr88lPfI-qE_a9TPCFGA.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/8aa0e1cecbde9b2b74815973.jpg",
-          "thumbnail_sha256": "227c2687195bd6b7d24b20bf0e73062deee907fc9a1ef82d4991c975b646bf66",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.43K",
-      "posted_at": "2026-09-06T07:38:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93407",
       "reply": null
     }
   ]

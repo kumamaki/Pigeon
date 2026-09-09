@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T09:31:51.579Z",
+  "fetched_at": "2026-09-09T09:36:44.486Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,62 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356470",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "سرخط خبرهای چهارشنبه ۱۸ شهریور<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "سرخط خبرهای چهارشنبه ۱۸ شهریور\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356470",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/YWucDE5hyTCPMqZxu5YiHQpSzJ-ZaNxgXWA6tAgHn_gOc1Sq5Eqe433ax8_CJ9Dq7I47vnleQkCoIbBEjCY9ePqwGrDtL2oKMrc6byOhY5TDFnTbsDQOzxZHqWq48rm_MM2UyftAhKXujWhi4zTWP_TbZ-ABikAB0BEuRPmI8YiTowoGChuOOLlYZSw4yk6MeCW3nzMlK_ironuWHHz7PqRUc-wQ5cRf6pOGduPycEiWKogmQUR2fA_A36oO0jNvBS-nk__KYh4b01agWCLVcZjSVMwTKwRfK80dz2etAm6DaWA4Gt_Z9UT1WwscQfUv0mIbOSxj5iiYFEw2AeA-3Q",
+          "thumbnail_path": "channels/iranintltv/media/ed6b00af0b5e7d5eec89d673.jpg",
+          "thumbnail_sha256": "93a228ae52bfebfed9b71017a687943f2857ad4c6d10009b9c96b22e01e4f754",
+          "duration_label": "1:42",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "25",
+      "posted_at": "2026-09-09T09:36:00+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356470",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356469",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "مراسم خاکسپاری رسمی هارالد پنجم، پادشاه پیشین نروژ، امروز در اسلو برگزار شد. اعضای خانواده‌های سلطنتی و مقام‌های بلندپایه از کشورهای مختلف در این مراسم حضور داشتند و انتظار می‌رود ده‌ها هزار نفر در مسیر تشییع و مرکز اسلو حضور داشته باشند.<br><br>گزارش مهران عباسیان، خبرنگار ایران‌اینترنشنال، و گفت‌وگوی او با محمود فرهمند، نماینده پارلمان نروژ<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "مراسم خاکسپاری رسمی هارالد پنجم، پادشاه پیشین نروژ، امروز در اسلو برگزار شد. اعضای خانواده‌های سلطنتی و مقام‌های بلندپایه از کشورهای مختلف در این مراسم حضور داشتند و انتظار می‌رود ده‌ها هزار نفر در مسیر تشییع و مرکز اسلو حضور داشته باشند.\n\nگزارش مهران عباسیان، خبرنگار ایران‌اینترنشنال، و گفت‌وگوی او با محمود فرهمند، نماینده پارلمان نروژ\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356469",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/raPb8-Z2F8G-_fFBKaRruPg3r-xoKvAdUuP2BpOEgwKXCaq_IRPc4d2irERpaGLry5ez__GW7DA16-huGt6B1ApQR7artaPElNKGabv9qBgqYVAyLHT9xiIUUZYYb8d5CcEqrWUWv1c24eix3H0ABxPql3ICWlweUrEGqAVDrwUn66GNySZRxSDYkOAG1vpHFJ3p7hFjCGMgy3lCkv-hc2JoPRio0IMx06GfCjhqiNF36y9FQ6o5U4WznaZJ9cHNehnkI54gIb7MjlVc3rekWDnEPK-itzBN_4UqFzTYc5NCVMlYuDqwlsh6SEEfBQw4JiQ8f0dAWoGyLsxzI2kL_w",
+          "thumbnail_path": "channels/iranintltv/media/671b67c1a8fe85bc05c8438f.jpg",
+          "thumbnail_sha256": "82d49de280d175dc0327625566d748535146204ac31f7390920d3ad9d47da98c",
+          "duration_label": "6:35",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "3.15K",
+      "posted_at": "2026-09-09T09:33:12+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356469",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356468",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.07K",
+      "views_label": "6.26K",
       "posted_at": "2026-09-09T09:30:02+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356468",
@@ -61,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.4K",
+      "views_label": "14.6K",
       "posted_at": "2026-09-09T09:18:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356467",
@@ -89,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16.7K",
+      "views_label": "18.8K",
       "posted_at": "2026-09-09T09:10:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356466",
@@ -117,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.6K",
+      "views_label": "17.7K",
       "posted_at": "2026-09-09T09:09:21+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356465",
@@ -145,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.6K",
+      "views_label": "15.6K",
       "posted_at": "2026-09-09T09:09:11+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356464",
@@ -173,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.6K",
+      "views_label": "16.7K",
       "posted_at": "2026-09-09T09:06:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356463",
@@ -201,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.7K",
+      "views_label": "17.7K",
       "posted_at": "2026-09-09T09:02:43+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356462",
@@ -229,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.8K",
+      "views_label": "18.8K",
       "posted_at": "2026-09-09T09:00:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356461",
@@ -257,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.2K",
+      "views_label": "29.2K",
       "posted_at": "2026-09-09T08:41:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356460",
@@ -285,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.4K",
+      "views_label": "33.4K",
       "posted_at": "2026-09-09T08:30:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356459",
@@ -313,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.3K",
+      "views_label": "32.4K",
       "posted_at": "2026-09-09T08:30:01+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356458",
@@ -341,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.4K",
+      "views_label": "35.5K",
       "posted_at": "2026-09-09T08:21:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356457",
@@ -369,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.5K",
+      "views_label": "37.6K",
       "posted_at": "2026-09-09T08:03:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356456",
@@ -397,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.5K",
+      "views_label": "37.5K",
       "posted_at": "2026-09-09T07:59:15+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356455",
@@ -453,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.4K",
+      "views_label": "33.5K",
       "posted_at": "2026-09-09T07:56:57+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356453",
@@ -481,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.4K",
+      "views_label": "32.4K",
       "posted_at": "2026-09-09T07:52:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356452",
@@ -497,7 +553,7 @@
       "plain_text": "🗣روایت شما از شرایط زندگی و بحران اقتصادی- چهارشنبه ۱۸ شهریور:\n\n🔹سه هفته‌ست دندون‌درد دارم و با مسکن و آنتی‌بیوتیک آرومش می‌کنم چون پول ندارم برم درستش کنم. اینطوری که داره پیش می‌ره دیگه پول خرید داروها رو هم نخواهم داشت.\n\n🔹از شهرکرد پیام می‌دم. از صبح تا شب اسنپ کار می‌کنم و کارکرد یه روز کامل هزینه یک وعده غذایی برای خانواده هم نمی‌شه.\n\n🔹تمام داروخانه‌های گرگان رو گشتم، آنتی‌بیوتیک زیکات ۵۵۰ پیدا نکردم.\n\n🔹از شهریار تهران پیام می‌دم. واقعا شرایط زندگی برای قشر ضعیف خیلی بحرانی شده. همه اجناس خوراکی گرون شده. تو این وضعیت، جمهوری اسلامی با افزایش قیمت بنزین، قبر خودش رو کند.\n\n🔹شهرداری تبریز داره تو تمام محلات با بی‌رحمی کامل سگ‌ها رو با تفنگ ساچمه‌ای و به طرز وحشیانه‌ای می‌کشه. حتی توله‌های تازه به دنیا اومده رو.\n\n🔹از قیامدشت: داریم زیر فشار گرانی و تورمی که برای ما به‌وجود آوردند له می‌شیم، نه آزادی بیان داریم اعتراض کنیم، نه دادرسی داریم به دادمان برسن. لعنت بر این عدالت شما.\n\n🔹همه دار و ندارم رو یک‌جا کردم که بتونم ۵۰۰ میلیون بذارم روی پول پیش خونه‌ام. امروز صاحب‌خونه زده زیر حرفش، می‌گه این مبلغ کمه؛ باید ۲۰۰ دیگه بدی که جمعا بشه یک میلیارد. به خدا دیگه نمی‌دونم باید چه کار کنیم.\n\n🔹مردم ایران در حال نابود شدن زیر فشار اقتصادی هستن. همه افراد خونه هم سر کار می‌رن اما از پس خرج و زندگی معمولی برنمیان.\n\n🔹راننده اسنپ هستم. دیروز یک میلیون تومن کار کردم، هم‌زمان یک میلیون و ۸۰۰ هزار تومن دادم هزینه تعمیر بالابر شیشه ماشین.",
       "media": [],
       "reactions": [],
-      "views_label": "33.4K",
+      "views_label": "34.5K",
       "posted_at": "2026-09-09T07:50:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356451",
@@ -2669,62 +2725,6 @@
       "posted_at": "2026-09-08T18:31:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356369",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356368",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "ویدیوهای رسیده به ایران اینترنشنال از تشکیل صف‌های طولانی بنزین در اتوبان همت تهران، بجنورد و نیشابور حکایت دارد. به‌گفته شهروندان، نگرانی از افزایش قیمت بنزین و کمبود سوخت از دلایل شکل‌گیری این صف‌هاست.",
-      "plain_text": "ویدیوهای رسیده به ایران اینترنشنال از تشکیل صف‌های طولانی بنزین در اتوبان همت تهران، بجنورد و نیشابور حکایت دارد. به‌گفته شهروندان، نگرانی از افزایش قیمت بنزین و کمبود سوخت از دلایل شکل‌گیری این صف‌هاست.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356368",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/jhZzFNSiiFnxKBHJGwx00E5tOPDFQpiY_3udF_X5yDLkO1mD3qk8wZbTVPGlIUlMhbTlDvUYH0Qgd9WYOoMkx7ciCyyeYwA5B_EqbPmltMKA8vxK7TRrJ0tIQG1g6fdVLtNCokcfxjGSha5FA7ao3j86UppjjvVRZMhJ4SSjFLXh8fEgv5sTOLzFCAI4c5Gh1SchC5vNhiKbNJ0VJI-lva1WVU6vItDpfkmM-FeBQqobG9dEkR3-sNLbiVL2o8Yx4YeHIpmf9kh1HvOHc8v8iq7AGYdMFJniD7rfTG6ENJdJbueg3wbZo4t11F-FNsbiltxCFksV61Ow-pRg85mOmA",
-          "thumbnail_path": "channels/iranintltv/media/795a16dce7e3be127b61b7c3.jpg",
-          "thumbnail_sha256": "ff5aeade0832164730ece9169d1067ec78d2ac0fd22efbf6cf988221de048e94",
-          "duration_label": "0:53",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "46.1K",
-      "posted_at": "2026-09-08T18:29:46+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356368",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356367",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "خبرگزاری رویترز شامگاه سه‌شنبه ۱۷ شهریور به نقل از یک مقام آمریکایی گزارش داد یک زهپاد (زیردریایی هدایت‌پذیر از راه دور) ارتش آمریکا هنگام بررسی آب‌های منطقه در حمایت از عملیات مرتبط با جنگ ایران، دچار نقص فنی شده است.<br><br>این مقام آمریکایی افزود زهپادی که دچار نقص فنی شد، مدلی قدیمی‌تر بوده و هیچ تجهیزات محرمانه سونار یا راداری حمل نمی‌کرده است.<br><br>نیروی دریایی سپاه پاسداران عصر سه‌شنبه اعلام کرده بود «یکی از مدرن‌ترین زیردریایی‌های هوشمند و بدون سرنشین ارتش آمریکا» را در ورودی تنگه هرمز به کنترل درآورده است.",
-      "plain_text": "خبرگزاری رویترز شامگاه سه‌شنبه ۱۷ شهریور به نقل از یک مقام آمریکایی گزارش داد یک زهپاد (زیردریایی هدایت‌پذیر از راه دور) ارتش آمریکا هنگام بررسی آب‌های منطقه در حمایت از عملیات مرتبط با جنگ ایران، دچار نقص فنی شده است.\n\nاین مقام آمریکایی افزود زهپادی که دچار نقص فنی شد، مدلی قدیمی‌تر بوده و هیچ تجهیزات محرمانه سونار یا راداری حمل نمی‌کرده است.\n\nنیروی دریایی سپاه پاسداران عصر سه‌شنبه اعلام کرده بود «یکی از مدرن‌ترین زیردریایی‌های هوشمند و بدون سرنشین ارتش آمریکا» را در ورودی تنگه هرمز به کنترل درآورده است.",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356367",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Liq4-PZ4f1t0nIRI1LoeGBc0vHK1aEuPUvXOvUo1FLBgNjQL6-yt9ewGVCOPSkP5DksmPuxQmAigJlnguudcd6j7552IiwSc4H3OXHiH9xjcbnS7Rq2O00Ql6uPIGkgEXN8-Dy_BmCybVd2tT1qpp_OYfb-SmuZXnhA6hdoHxfkKJZ5vOzFRRM5ukZEaDlOZGQmJRn5Y6Hvii48YUAdQYnqjDyLlOTFRhIpk3feu3571O7wbrtmQ_pniazr-Iip1xE7Zun43Y-I2L99iRKNzJKXbhQQbacsCb6RBGgJ5PD2hb-J-k01w4VsIY97IcAtVxVYGsYtX2iTClJolHWxgWQ.jpg",
-          "thumbnail_path": "channels/iranintltv/media/ebaae34f843e1555d2ff3b0f.jpg",
-          "thumbnail_sha256": "18ab7f760eab0733e2e44228e11b301dbcef50abcec59f7f800c6a4a5d98f7ba",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "44K",
-      "posted_at": "2026-09-08T18:27:42+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356367",
       "reply": null
     }
   ]
