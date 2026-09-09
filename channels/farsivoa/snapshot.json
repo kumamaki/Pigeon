@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T01:32:12.171Z",
+  "fetched_at": "2026-09-09T01:34:11.569Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,22 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229937",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>اردن: جمهوری اسلامی ۲۰ موشک شلیک کرد؛ ۱۸ فروند منهدم شد و دو موشک در فضای باز فرود آمد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>در پی حمله موشکی جمهوری اسلامی به اردن که اوایل چهارشنبه ۱۸ شهریور صورت گرفت و ادعاهای منتشر شده در شبکه‌های اجتماعی که تعداد زیادی از نیروهای آمریکایی مجروح شده‌اند، رویترز به نقل از یک مقام آمریکایی این موضوع را رد کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8195936.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8195936.html</a><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "🔺اردن: جمهوری اسلامی ۲۰ موشک شلیک کرد؛ ۱۸ فروند منهدم شد و دو موشک در فضای باز فرود آمد\n\n▪️در پی حمله موشکی جمهوری اسلامی به اردن که اوایل چهارشنبه ۱۸ شهریور صورت گرفت و ادعاهای منتشر شده در شبکه‌های اجتماعی که تعداد زیادی از نیروهای آمریکایی مجروح شده‌اند، رویترز به نقل از یک مقام آمریکایی این موضوع را رد کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195936.html\n@FarsiVOA",
+      "media": [],
+      "reactions": [],
+      "views_label": "71",
+      "posted_at": "2026-09-09T01:32:32+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229937",
+      "reply": null
+    },
     {
       "id": "farsivoa/229936",
       "author_name": "Farsi VOA",
@@ -33,7 +49,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "503",
+      "views_label": "565",
       "posted_at": "2026-09-09T01:09:36+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229936",
@@ -49,7 +65,7 @@
       "plain_text": "🔺ممنوعیت روسری برای دختران زیر ۱۴ سال در مدارس اتریش اجرایی شد؛ دولت: هدف حمایت از آزادی دختران است\n\n▪️ممنوعیت استفاده از روسری برای دختران زیر ۱۴ سال در مدارس اتریش، از روز دوشنبه و هم‌زمان با نخستین روز سال تحصیلی در بخشی از این کشور اجرایی شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/austria-enforces-school-headscarf-ban/8195695.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "544",
+      "views_label": "610",
       "posted_at": "2026-09-09T01:06:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229935",
@@ -77,7 +93,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.34K",
+      "views_label": "1.37K",
       "posted_at": "2026-09-09T00:01:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229934",
@@ -121,7 +137,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.46K",
+      "views_label": "1.47K",
       "posted_at": "2026-09-08T23:45:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229932",
@@ -165,7 +181,7 @@
       "plain_text": "🔺روبیو: جمهوری اسلامی به ازای هر تلاش برای حمله به ناوهای آمریکایی نفتکش‌هایی را از دست خواهد داد\n\n▪️مارکو روبیو، وزیر امور خارجه آمریکا، روز سه‌شنبه ۱۷ شهریور در گفت‌وگو با خبرنگاران درباره حملات اخیر به نفتکش‌های جمهوری اسلامی گفت جمهوری اسلامی همچنان تلاش می‌کند ناوهای نیروی دریایی آمریکا را هدف قرار دهد و واشنگتن در پاسخ به هرگونه حمله یا تلاش برای حمله، نفتکش‌های آن را هدف خواهد گرفت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195716.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.57K",
+      "views_label": "1.6K",
       "posted_at": "2026-09-08T23:32:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229930",
@@ -249,7 +265,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.05K",
+      "views_label": "2.08K",
       "posted_at": "2026-09-08T22:45:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229927",
@@ -349,7 +365,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.35K",
+      "views_label": "2.38K",
       "posted_at": "2026-09-08T22:15:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229923",
@@ -393,7 +409,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.55K",
+      "views_label": "2.58K",
       "posted_at": "2026-09-08T22:02:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229921",
@@ -421,7 +437,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.95K",
+      "views_label": "2.98K",
       "posted_at": "2026-09-08T21:45:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229920",
@@ -2469,34 +2485,6 @@
       "posted_at": "2026-09-08T09:17:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229837",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229836",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "لحظه هدف قرار گرفتن مواضع حزب الله در جنوب لبنان هنگام پخش زنده رسانه وابسته به این سازمان؛<br><br>ویدیوی منتشر شده لحظه حمله هوایی ارتش اسرائیل به مواضع حزب‌الله در جنوب لبنان را نشان می‌دهد.<br><br>شدت حمله باعث قطع پخش زنده و ارتباط خبرنگار شبکه المنار، رسانه وابسته به این سازمان تروریستی، شد. بر اساس گزارش‌ها خبرنگار مجروح شده است.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "لحظه هدف قرار گرفتن مواضع حزب الله در جنوب لبنان هنگام پخش زنده رسانه وابسته به این سازمان؛\n\nویدیوی منتشر شده لحظه حمله هوایی ارتش اسرائیل به مواضع حزب‌الله در جنوب لبنان را نشان می‌دهد.\n\nشدت حمله باعث قطع پخش زنده و ارتباط خبرنگار شبکه المنار، رسانه وابسته به این سازمان تروریستی، شد. بر اساس گزارش‌ها خبرنگار مجروح شده است.\n\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229836",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/MAhSnxQYLSnk-CgPNYj77tLEL81iAoPKy64yswNFzypFtfyRWiRFTIeTqL1RSHBeGi6n3Y23hF4RRYu_Pi0IY0h6Eoo3gHEGD67ue-N9oc4rgN3da0WCPQCf59sYljKUdpuDhQY360ImLbNk6LFdMkLgijQvM2vUXPxhuxKJKqq7DbhcwVYAFP-U1MfxDag0VkGgCpR3xaleS0tUlgYIQB45lNUoCdmTWq152Vrf68ogqzuxX_MmNzvyy9eQa-jbcJ2xRi2i3voWVdDvvbMFJBsaXcDCXRB26CQpDKUYJfSnA0tCFQEcaPzFGjikNi6JSrcU7g2vVFAs3V4ZHLD2Yw",
-          "thumbnail_path": "channels/farsivoa/media/9c4158b0371ad47ff9a11174.jpg",
-          "thumbnail_sha256": "a6ab695123de387c2df5eef258e3cfcd2b1cdf2dadbb1d4120fc0d3c392a5e98",
-          "duration_label": "0:09",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.16K",
-      "posted_at": "2026-09-08T09:02:40+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229836",
       "reply": null
     }
   ]
