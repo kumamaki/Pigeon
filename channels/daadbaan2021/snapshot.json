@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T11:36:57.566Z",
+  "fetched_at": "2026-09-09T11:41:41.351Z",
   "channel": {
     "username": "daadbaan2021",
     "title": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
@@ -38,7 +38,7 @@
           "count": "1"
         }
       ],
-      "views_label": "79",
+      "views_label": "81",
       "posted_at": "2026-09-09T10:06:15+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20247",
@@ -75,7 +75,7 @@
           "count": "1"
         }
       ],
-      "views_label": "107",
+      "views_label": "108",
       "posted_at": "2026-09-09T09:04:21+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20246",
@@ -112,7 +112,7 @@
           "count": "2"
         }
       ],
-      "views_label": "115",
+      "views_label": "116",
       "posted_at": "2026-09-09T08:07:20+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20245",
@@ -145,7 +145,7 @@
           "count": "1"
         }
       ],
-      "views_label": "124",
+      "views_label": "125",
       "posted_at": "2026-09-09T07:24:35+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20244",
@@ -443,9 +443,9 @@
           "asset_url": "https://t.me/Daadbaan2021/20235",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/mLW83O8cDgNXJ-t2PEuLiIC-z0F2FU98MvUwtBqc9UvhNnoGF5f5MWJpoIHUzOrpJS-dinP6N8Wkj3WLnB3PY_B__CikHzfJ9uHG7IOGnUWLCuz5xx_gXPgy6oLmHppJoXnm7JcZXQb-uJ8fD3bxN0zZAzY8YlA386YXfBTX6BjA6ot99PmR9ghJLNF0BwWwXcD4Bwg9lMZlQYUXUbm-eUXVkmvYMeUDs1WXfAHHtu-P8tKZAy2hE8-IYDNJGhkRrV_6-_DscNjEM-6vj6VevgT-ODwHGGjeXSHsDlHJpdi18ypzT5fqgEDQQS3oVGTF08jKh5uaDKtlGEkHcPEJMQ.jpg",
-          "thumbnail_path": "channels/daadbaan2021/media/d750838fc200a2e5883202ff.jpg",
-          "thumbnail_sha256": "b12ef3dc5bc61b2b7be64cecf4610a3731edf1172d57a33cab81ff260acef623",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/paTcpBMg4cx15L4GKvmpkk0EKiU-vqNltXCqyQ063_Kk4gR1CuemU0bRK3nLEd5yhar7PObcvljaWg_O_knqUENlARi_kVPiqdJM6ujBWRvFgmlTRSD6sgDDHCbkF_41RvOqM4InGhQmEEqEXJ5tSnGxZe2dpcNmIuxZnJ0n3ww73yZn6_GzNn2jZL3XGUQ9db_Bi2yhxh6UaCzoEwsWRLSy-PSZhqexikbkG9TKxPBWCLLiOVQci9sNcEqm1AfkL6rErd5aqEJX1BiuS3pwhczrBy-TocpXXEUV9bQkNDPhCvqBllSbowPy_5xJrO3MG9bOcSsQONhzVnF8SxSo7A.jpg",
+          "thumbnail_path": null,
+          "thumbnail_sha256": null,
           "duration_label": null,
           "aspect_ratio": 0.8
         }
