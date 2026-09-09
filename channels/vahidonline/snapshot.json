@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T15:36:39.496Z",
+  "fetched_at": "2026-09-09T15:41:37.763Z",
   "channel": {
     "username": "vahidonline",
     "title": "Vahid Online وحید آنلاین",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.41M"
   },
   "posts": [
+    {
+      "id": "VahidOnline/78301",
+      "author_name": "Vahid Online وحید آنلاین",
+      "author_photo_url": "https://cdn1.telesco.pe/file/FSujOieSMhRjMJZS2RCZ-CRNlCLup0zzbCFvm9tU16T94gge8bKhuzH_61BXXhFNOMv82XEebzeTP_e4GrjnbxHDrUjJdcOBtZ1sZE3d0o8xR1A2ZNvryQIAXJnEKde_We6_hpry_uzb49_5p3F3oioMuWF2uVXjlVbNRZ0dkbOFgHxa1DTJRWQpzLEFSHjiEwOev7SNvwHzsHozQ2QDloqbFLzIy3cEiDs9NR34wIVa1qVv8fh_PhrjjQL-tmSxTrsI4AFM7KtUNXMOxA3Usz7N_9LgAgzTz5afNtabdvQEQ7hoRJ9kHpAbjBEpM1KbwkCboFLFcqpGPU1PiB7mCA.jpg",
+      "author_photo_path": "channels/vahidonline/media/5defb725374dbf5a2b462a7f.jpg",
+      "author_photo_sha256": "bee60885437a832f3ac114c2547b44918ce852f80d43a07bead701fc17ad1bc8",
+      "body_html": "عکس دریافتی با شرح: 'شناور آمریکایی در تنگه هرمز، سمت جزیره سلامه خصب عمان، چهارشنبه ۱۸ شهریور'<br><a href=\"https://x.com/Vahid/status/2097711221168337238\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Vahid</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
+      "plain_text": "عکس دریافتی با شرح: 'شناور آمریکایی در تنگه هرمز، سمت جزیره سلامه خصب عمان، چهارشنبه ۱۸ شهریور'\nVahid\n\n📡 @VahidOnline",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/VahidOnline/78301",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/bQdR-r8YOXWSR_OCj50nck3ECxyLssK-G9kBsguEGVf-BDHxkxKrTI7bEXhEwZnfvJlGxCCEjXG4eDRiK5wrge_6EyEAl7fqcNGYN22rN0N4ArJ6dDxzjn2uvDqDG8rddZyu03Auv_-woNfXBzBrVimDfzv2XXiL2Ot_s-Y4t-RfB--68ghJAYPToylgPtzKbyn6XBV89t1_mRa45YhZHDHdAt8_nztavGHSqWOnNpqhveOa6sBg3Pt9fxV3h2w86aToTC60y0QDo8xODJv05wXnmt3WnNIJyTksyQVhjZdC2nsoqUUlhG7v71wMSujNqi1hDM0swL-kYNceD8caMg.jpg",
+          "thumbnail_path": "channels/vahidonline/media/a209da1bba85f7a797630408.jpg",
+          "thumbnail_sha256": "7d7a947ecc559c69dfed84d44ba50bba5304016168facfa66a830056298ccc34",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "8.66K",
+      "posted_at": "2026-09-09T15:38:57+00:00",
+      "edited": true,
+      "permalink": "https://t.me/VahidOnline/78301",
+      "reply": null
+    },
     {
       "id": "VahidOnline/78300",
       "author_name": "Vahid Online وحید آنلاین",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "84.4K",
+      "views_label": "90.5K",
       "posted_at": "2026-09-09T14:37:25+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78300",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "151K",
+      "views_label": "155K",
       "posted_at": "2026-09-09T13:06:00+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78299",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "153K",
+      "views_label": "155K",
       "posted_at": "2026-09-09T12:51:38+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78298",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "143K",
+      "views_label": "146K",
       "posted_at": "2026-09-09T12:50:48+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78297",
@@ -156,7 +184,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "133K",
+      "views_label": "135K",
       "posted_at": "2026-09-09T12:49:40+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78295",
@@ -184,7 +212,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "135K",
+      "views_label": "137K",
       "posted_at": "2026-09-09T12:46:52+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78294",
@@ -212,7 +240,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "147K",
+      "views_label": "150K",
       "posted_at": "2026-09-09T12:41:54+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78293",
@@ -240,7 +268,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "150K",
+      "views_label": "153K",
       "posted_at": "2026-09-09T12:39:10+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78292",
@@ -268,7 +296,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "286K",
+      "views_label": "288K",
       "posted_at": "2026-09-09T04:54:51+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78291",
@@ -312,7 +340,7 @@
       "plain_text": "پیام‌های دریافتی:\nساعت 4.19 دقیقه صبح بندرکنگان الان صدای انفجار اومد\nدر و پنجره ها شدید لرزید\n\nسلام صدای انفجار نزدیکای بندر دیر\n\nصدای انفجار شدید.بندر دیر.\nساعت ۴/۲۰ بامداد.\n\n📡 @VahidOnline",
       "media": [],
       "reactions": [],
-      "views_label": "317K",
+      "views_label": "319K",
       "posted_at": "2026-09-09T01:02:27+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78289",
@@ -396,7 +424,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "327K",
+      "views_label": "328K",
       "posted_at": "2026-09-08T22:23:12+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78286",
@@ -452,7 +480,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "353K",
+      "views_label": "354K",
       "posted_at": "2026-09-08T20:37:55+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78284",
@@ -480,7 +508,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "345K",
+      "views_label": "346K",
       "posted_at": "2026-09-08T20:06:34+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78283",
@@ -508,7 +536,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "343K",
+      "views_label": "344K",
       "posted_at": "2026-09-08T19:27:01+00:00",
       "edited": true,
       "permalink": "https://t.me/VahidOnline/78282",
@@ -2926,34 +2954,6 @@
       "posted_at": "2026-09-01T22:23:41+00:00",
       "edited": false,
       "permalink": "https://t.me/VahidOnline/78176",
-      "reply": null
-    },
-    {
-      "id": "VahidOnline/78175",
-      "author_name": "Vahid Online وحید آنلاین",
-      "author_photo_url": "https://cdn1.telesco.pe/file/YRdTuY16HyF68KehJrxu5IWJK9oRmacNY1SO4Rpv2r2OGJ-222xhS8gaY43q091UEAzW8UfqvQg3OLdGA9iDB8trf_Faxlc8IiYPAtzjd4arA1F_jaQJDjt7WM4nX2D4sZ-MszH79yA0l5QaAIbpYKTjexMOqnFqmDgpeJBlPXOyrBvZprszzKF4jZJeNDoW5mAww-z60tCj4J-y8ZHkuf4MGXyN2hMNpjo3hh0dDdndRmYFjU97YC5g9akF9DiXo8o34HN08DIfKhoY_o3jDLkaEqVhrRoDTEXk4cSgFAqT5VJXBiq9d2G4F8xoqo0T7nKFeLmhY4MIYOShkBXCNw.jpg",
-      "author_photo_path": "channels/vahidonline/media/ca1091948933677f532057b2.jpg",
-      "author_photo_sha256": "bee60885437a832f3ac114c2547b44918ce852f80d43a07bead701fc17ad1bc8",
-      "body_html": "هم‌زمان ویدیوی دریافتی از شهرستانی در استان ایلام<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
-      "plain_text": "هم‌زمان ویدیوی دریافتی از شهرستانی در استان ایلام\n\n📡 @VahidOnline",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/VahidOnline/78175",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/ad8yR_mDEtEnDn7uEUpuQnnt1Kls2FwKkYMuzHO8cqCheZEmmSrqMN5166Uj9BYx98X8hC1TluUN9Gl_FAFWUcrPhVu7xq5S4JVujar3mby6UK6Qd-jo4w4oRrN-IDMFr3O9QP8J-bMd6lMB3KJIYrSxUWIvxOiJv3fiennVoKuH8JbGL9RrG8rs0tClzYcUHeliykg9dQb6GgQ4bfd-_LWDgGOx-zoQIq2WbObtbukVljtoEELW0AfKTWqG4NGUUTJWal2LLNcDF6mCrVjudZJmdoTVO8rPXj7PDz516bSezWAy4qs4reRen5gC7VEOlt2VNTjwPIM9hz3__7KtbA",
-          "thumbnail_path": "channels/vahidonline/media/224aac984b393b35542fcad9.jpg",
-          "thumbnail_sha256": "3ee397a11488e478bf07ae5f43c25f3951cecb5f3377b79abdfb73ac73896417",
-          "duration_label": "0:06",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "368K",
-      "posted_at": "2026-09-01T22:19:19+00:00",
-      "edited": false,
-      "permalink": "https://t.me/VahidOnline/78175",
       "reply": null
     }
   ]
