@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T08:46:45.162Z",
+  "fetched_at": "2026-09-09T08:51:42.295Z",
   "channel": {
     "username": "daadbaan2021",
     "title": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
@@ -36,9 +36,13 @@
         {
           "emoji": "❤",
           "count": "2"
+        },
+        {
+          "emoji": "🕊",
+          "count": "1"
         }
       ],
-      "views_label": "35",
+      "views_label": "40",
       "posted_at": "2026-09-09T08:07:20+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20245",
@@ -66,7 +70,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "54",
+      "views_label": "58",
       "posted_at": "2026-09-09T07:24:35+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20244",
@@ -94,7 +98,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "153",
+      "views_label": "156",
       "posted_at": "2026-09-08T22:31:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Daadbaan2021/20243",
@@ -135,7 +139,7 @@
           "count": "1"
         }
       ],
-      "views_label": "167",
+      "views_label": "169",
       "posted_at": "2026-09-08T19:06:16+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20242",
@@ -771,8 +775,8 @@
           "asset_url": "https://t.me/Daadbaan2021/20212?single",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Epj_fVq-iceKoKNaVrmYE8Qfg_n5CcqpYgwUdeJS5K93i6j6ap9PdPPl_FaEeJ04pStu1ZozMXdPR5-FSai1iM1SwlzZ7Coq8K401oInttEDUncI4R2p71O4xDXBxYscakdH1d2rNDBF1AUDYG1QeFK-qeBgrWfLi1cXWfcgiMW-ob0mRvTXlPtsvlHpzbaHd064fr7F8g27ijJXzZ1pqPH6xRLbBG4TbK0_EoY3FE-ReQI5ktzUuwR0k6U5PAaXrxL0-2flYTkuBE2Io2-Zdet5GsbFLbgzNKE48NQkiyvybN5BUb7BNXWPP4ivoR30fXbddS4MCxr_p6lbyuvZ1Q.jpg",
-          "thumbnail_path": "channels/daadbaan2021/media/3a3096c8e28f5b1d662533cd.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qcoomRu49k6Vpz_uSkabOSY0jmz1X31KlymBHjtHDK71BmFTD1H5alKbvOdxoPdYe1oayHUf791FTql4mmI1d-_baPIR3heIRxu9a3SxG63snXw5tYWRF6PGX6JmziIbB-joLgqiwRRww5plkhu_0n1kFPz1erjOPVK0CCQZ0BhKO2o1SDY8_wutAOPMcc06BrB8EG9YdVzLREnn1QAlooogQrUMSoNdsVyhZp3LnSdEMyrEe7GUKhLB-icmBRvtcJCzprmXpgOiiqDfgfg6PTy94fYihQSXXD_TOIspvAUZhMAI6d00FMvuKvFcsxgAjebYVBV5krQiAWa1O6B2AQ.jpg",
+          "thumbnail_path": "channels/daadbaan2021/media/052156edebcbfc9de4545115.jpg",
           "thumbnail_sha256": "0274011d57ba4e4d62132987a2f130f918e6d5d27cc80e05560662a986ed3574",
           "duration_label": null,
           "aspect_ratio": 0.79875
@@ -782,8 +786,8 @@
           "asset_url": "https://t.me/Daadbaan2021/20214?single",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qeZjCB_jP6vLiQfck0SqKfqfIjQ03YDlkH32C09I10Bt4YX0pKSCyxSAYVPwU8sSH4s5u_JTgeTbLm0DQNEO4QdwYE546vPsEYKOJ-1GSW6Q39E8adfOA9S2-tPMxEemYBCPZOaZLHdYqDA5BP4DKbGO_1jJZZzux8n-tzQLyHugZgHm1GkdL6Wyypf9PUf5AVMZo-zxDu2noC-P6zEraMfgmFYeMY7ixBCn2ctttJ549WuPlKwG9wOFK1xNOB3a6vOmLYYE3ah6iIudSZhrrsHiWNLrY4OkjPer1MCcKmiMdIPiPbH0qyCaBUrwJFK61jda4f_UYRyF4ULuY55XgQ.jpg",
-          "thumbnail_path": "channels/daadbaan2021/media/b126c598a6bbce752bdd09f0.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/bxnlKiEYkFFLVcjxRW56tSESQGQejiDmvi9_pcjKGOuTnzfdhnCd6AUiOyHS7OzTxmEZTu8aLSH2DZ9JronhTA3YBwJw9RpJFaEEd1J8qBGfHHuMNHxY2ILaJOOu3NkgDthpiwSXDhRdF_2l-fPJsIlBAc9ogQIj9_WdImZYRM5chsIjrPOA2xsj_P2ZU__hQYthTmr_HGNY5KAeAJb169fNqW_BNWMUXOoan-Jvq3zJVUepViuMmxqrgyIEybW3N0LlJ5oK0qY6_J86cT1got9nw8jhJleZzIgzmKgVw2x8hyNQAbtj2Ob0UBqYLVzxyJJ66EMa6y1YA5Dtmhuyww.jpg",
+          "thumbnail_path": "channels/daadbaan2021/media/197b30bdba4268d7b659a50c.jpg",
           "thumbnail_sha256": "0fb2625877c2a23c9776a27ef1c505e93f3d9fa11d3ad36f25906741821bb96c",
           "duration_label": null,
           "aspect_ratio": 0.79875
@@ -793,8 +797,8 @@
           "asset_url": "https://t.me/Daadbaan2021/20216?single",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/mf6tOoNRAMtAOLGso00BbHUbr5qcUK2lUftoiIhCj5I6qp14NfnSZ0haeocL3n3OSFLRbpG3pPYlkbm3eEZBWthioz3fAre7sCl6zGssdGIUvti9Q46eb7jje6A5imHGRqQOIW6Xvp0AX1zH0v3oO57VWGNaA8VAiS2Nvd3kStuQvNgCfPJcjrpeyw3gB5nbwtAbr8BVb_bu7EwFBHdMpuYSGWIJRL3_8h7W7s9k4nQ5xyfzZNW7uXrXzm6BOMn9XI0bJkLhsDxr_52PJ-9oxo_0E9jSD4JKLFxQrwCyvBS-BCZvamz2gxzl8L5B2P9kSGkWEDfWiptZbCiuxxh7yA.jpg",
-          "thumbnail_path": "channels/daadbaan2021/media/d3510980a21697678495f5fb.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Y8d2CG2iD0BcOCKBPT6jYLaEJHlzwiF8RwEubvkQdil0M9V-OywsB18PaPC2e0czUfww5tTL-l370YoVyu4fT8vDgy6PH3Za3J1mx8pESRmQrmGJSLBSGUTnXsK6-r78I0MV297vIS26TnuMRzAUAzQuWRXxFfmXet9n0AEXeu5p2Rp_bYnrgLo7TQxo8ofh--wh8uDcUsL2mMDb8MixzHTRy-oAE3D1f8L9PKo7QpEZx6Iy2t1HME0t8G1yBv3dwO_lX6FWvG5W8I0khKc-c39RZAcaleViUHhYVsZN66R4ZOprbLHyDAlB_j3LPAeNeVHFXTnejg_LTcQp2i6rcw.jpg",
+          "thumbnail_path": "channels/daadbaan2021/media/45611102ed33490f668c9981.jpg",
           "thumbnail_sha256": "ec893d8b7e9c76f3933032f354097223e61ba0a3efe58a3b4dd4ad904d084b76",
           "duration_label": null,
           "aspect_ratio": 0.79875
@@ -804,8 +808,8 @@
           "asset_url": "https://t.me/Daadbaan2021/20217?single",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/WUXzHbcD--PnUv4AfxSS0KZZ569k47Kts1fJ_-fX0NXIgDDmnjeMk0qTO4454vjQ6qfvOiJWRNWf0WDl_IrGAMaaIt7LW7cZS-fb7HF_wNbaBY1v5Fs2ttw9Z4456PS2zfocqTP4YtKxXLMBly7khEHP3DaaT65UWi9TagVxtIwUmhTtAG10auZwog-ekLrQzBUsyBCfVYiZW_nXcGJ8DjiVMrimSE3rVo_aDjsd1RDr5ziH4L2iewkCVxR7U22gJbb8fnadOnAqsZjfRssuaX57WprgiNeuYAteuTti0VMS6DRWHAgf_K0AQGfderjYaxf1Q0mt0zJyCrSMW7fQLA.jpg",
-          "thumbnail_path": "channels/daadbaan2021/media/026c5a6f635cbf67640484e6.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/DZyG03UpRlTjnqFrIjeZ-8Z2pWWD0W_aMSZvZlStSxdSPjXXu7QXz3vl739h3d8zT7Lf1On0G0VBlO0p8abQeyEr0Du276OZpYWztxFVuqxdhzRX9SbGQRMRrm_svFVo64Rj7Hu_TQu3WUSoxd3h-EqKSj3Y9g0rPdIb7w8gcbzcM0jS9IDfgrONJN5Z9FsaO-veWBCifPPUVWKvqG2F8L5A5Ns2BNxYvCoRnNGzKVoNO-LQr5TwWAbXlbwvct7dWOn6eycxFrR5Jx_MI3ajsoixAh8ylNhp2hXglY5g3N0e1iiN4u0G9vPCT0yUkjV14ktxTSjGpl53rBUj6ngRXg.jpg",
+          "thumbnail_path": "channels/daadbaan2021/media/59395be87fe8127a8b09c5e7.jpg",
           "thumbnail_sha256": "d9caccd0d6b1e6118390ad1c6f4c554116ad59cfd6a2cb13a72a01f41b334376",
           "duration_label": null,
           "aspect_ratio": 0.79875
@@ -815,8 +819,8 @@
           "asset_url": "https://t.me/Daadbaan2021/20218?single",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/m5rmVdU8V0P-q9vI-sZTHB5t0Dkw9EQ7wsMrwHJjRXGQAVh9iN5vtn8WtNDEWRIgF3jWGrmFtj2LYuAlO5hStITIP6Jg67JEvHElV57r6bBh7Y5FCbPc-MZSKn0zbsXTXVZTo0zVwt_Z_I_7WN-l7vmpVOsMOy-3mrmPpMuyn9NdHaIwficNvxBChRWXklRiUzLAKS4XzMEVFjOwDRkY4hMWf_xQpbwVqisUrpoQroECdjaNKmXex8s7TBqLm8vkVTpkcjuWdqzyJawphj3fqq88bnLJ8dN7_WPuqYyKKatqpwg_VtbwM0CHF9kgw5cMR24Zb_B-o74Q9pdBAX-L_w.jpg",
-          "thumbnail_path": "channels/daadbaan2021/media/a8216140138c7534b6f6103f.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/S7_aUhGrGMY-6qE4PQKYvLJy-_GzB-w_RdkI8lvS4P72MLOj2R1wDG9f_jbdJPCMFAuYkC6CGAmCMIXY09idvA9Uaq3ivWwH5Jc1FyI9dflEEn6SPN-6tHX3jctd60b_5RBOyShZ7zfboF2DcC8_Dr6QV0yhClQbjTcmhvJRQ_kgPh7lFYmG7TZ6fVL_eCUSYJTR6-sunGqt2Y_mcPfYqkpvSx8g_8NW2AaWzZdUEz8VXPJWTLPzgEmteKelfD33PDVUbUQriTjtPRoxvwlUnVUzwBNTRWbVZVupMfJben3Wb_4tGgq3JPce-JtfhqAq8s4cUq9GJTvEDHxQdyqosA.jpg",
+          "thumbnail_path": "channels/daadbaan2021/media/fe4771bea8f2fb3190f2c269.jpg",
           "thumbnail_sha256": "e7eaa7514945aafe5560f0d6deca5095aee392052e1b5c1356edf2f0dd917b1f",
           "duration_label": null,
           "aspect_ratio": 0.79875
@@ -826,8 +830,8 @@
           "asset_url": "https://t.me/Daadbaan2021/20219?single",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/StFO7LuI86EhTwSq2IHy3C8o2owH3Zdg6CkE68WQokE5_8vCh7brM5uKMUa2uyzr2D_hbnk_CEoskwsr9gmbd3eVcC9RxdYGNNn6e5THJHkFOfh4yhJPko2pD9oOapns6bVKjiupwk-s-WvatGyvvvCREmZt9SNdXIUVlBCzxp0ci2OZj2V8F6yZDWY8IvGS6pPZzrGArMNhU0i1E8knxuXCntMHenPC7wXR3IRk3d7hpcORPqQQKD2E0o-4OQFTJrqD1Loh1YYoVQyfgSXKEU1-Lm7l_YdGFHuMcgitdatTVxaOy-BZ95Fue6yp33J2ZRV3z4O1b0jk7stZV0dsFg.jpg",
-          "thumbnail_path": "channels/daadbaan2021/media/b2c2e6692951cf71c3b02ed6.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/jfWpXWE5B5NUp4v8K9NbLygE4D3Yleye6ONuCvY_KWg6a8PYsXtLbYCk3VzUvPOsCSLlzu-vXF6JLWBwj8xE5uwPxKTb5mCj-TQwWQxlTRZ4SMSJ_T1-M9OhJ_BbSwTfR6APTtAhCUmGADVvR5ohHEVf3QwL5Io7Lni-NyJvbtp3NPaXkBodUwkJKqCWoZSXDxQYZfOsweDkh7O38oeiMS6BjpAKoOGoa07Aqo5_TnCWv1iTdKlqG0yCyzJyWI0RcPKCpDIoOGpqAHyHIeuNaNPgk1jWbafmD_xSBeHle0ysRoyTQ9hYUdPJyuheMk03a3GChdNdojEuSNasB-0zgA.jpg",
+          "thumbnail_path": "channels/daadbaan2021/media/b242fb50ec68cfcaf6ca3354.jpg",
           "thumbnail_sha256": "00fc7a70fdd7dc4e2c07886196765baeb2ba25bbc654c941201a8e59734ac3a2",
           "duration_label": null,
           "aspect_ratio": 0.79875
@@ -837,8 +841,8 @@
           "asset_url": "https://t.me/Daadbaan2021/20220?single",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/QBOxITvcEVYl6QNTT68oLA3fUZjDgHhmNuegoIA3FDd8yudMZKNE0efHhgO7UBTSBas_c1RfdVWv49FMBJwYqmWSO4233ylLlhGGcCE-ucFGDvkzlsV6csSWr_u-QRu4_ianntlMaYwPN_hcibqXo1cMiyC78FEPU0Gxz1FbSmtxeKo8ssb09pBIZzCteCt-gIGxDMn_Vae7Dcu4gJ7EOa84oE8BJ_0Il9zMyenr6KGswj4dRcQuTUICW2loyy1oz-z6dNVm1-VTZnBSyUNGZGC9dws03BYeiycTMsm0eR8h-NiSs_9xuwWrablgqiRp1DUB5hZkMXkS8D9dN7YsAw.jpg",
-          "thumbnail_path": "channels/daadbaan2021/media/fa8281f84db0360bdc4e51ae.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/YU_mb4PWV16Ull-Droy5rM6QMcBeRZOYsXrpoAKVuN7re2Jrhb5aImL-d3CpAFUUMmC0Y83buaSQ74wfN4UakkwyLckq2Md0r7TfJBuanT4SiMYJvrHSJI9AnOBg_vDDWJT8ImlDvp8bwvM2TV1Vr3XSQEnqL5IQ9P-HPqQsmZ6TigK2lt4YOE1mvvNIplitJ5qhyX92mXX2eUkr-uUYtlb2SQm9Fyh2h9k1ZO_HvyS13MwqmOtP2luVm3-R0jVR1z-NYrkst1y2wSaNk4rzzIc-6bMq9BctKqmc7B0wQVkbD1s1XBEcJB5Uwyyn055N7r4ybBBPe02sysw6HWjaTQ.jpg",
+          "thumbnail_path": "channels/daadbaan2021/media/7bbf61b22c01fed35fb5df67.jpg",
           "thumbnail_sha256": "a85c0febe4afaafd57d1c96fcdcb47c69f885d5a6edffb6e2aca76cdd68d03e1",
           "duration_label": null,
           "aspect_ratio": 0.79875
@@ -848,8 +852,8 @@
           "asset_url": "https://t.me/Daadbaan2021/20222?single",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/LN1upvPP-QxKNUO_Ei8q0qAhCJjslpbduuSBEueX0DmepC3n6Jy-vipfHq14_3xZxWmyxv9xW-E5GssrntFzOPzscwWmSom8D079p8DFD-2olKTayMp1QBep0ktjAzRN5ApiD2ACaG89TMPtn4oTKVVZWgXz_AIwmKnRqmuDQzO8c7PYJxVt4g4rMr7IoATE20mHC3eKk6vzE9uKhn7hRWThH87IlwGg22d83BNTfXetXLZ_jqFBfH1il8XX0kRHphvUmzelBHzTq1BHN6jOE00wYJ3c6KCGxFvr3kxLcCgw96_DXVVYdmzFvdJ0eGf4CHQ3Vl940vaXQQ8xZczQ-g.jpg",
-          "thumbnail_path": "channels/daadbaan2021/media/e39ed4a8aa8d34d46acd5b85.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/PGjVuGEuWrg5OtdVP552kaOjLDJbK7vcCfe66zWak4wuwhbw2b-xtze7337tZ5rwMCs1R8mT_h-7WjL4u_QsYHO00kjYAVK83aWN5TBywy2j2rgEtzHhkPDIDWs2AxWFwj_gei4O_YZ_nP82044NhAwOuPcZBNNcVRfJR7JlqRp8pUpoF-uxo-j8pfctrKc3ANfps4UH1yanam2OyntKbkJ-M3UHpYdbbmZUefvnRxS8BUCbdMVAiW0n30JFKv_vzw91-FlKPDnZF8sh3rqbCCBrOIKvRfGcVDYxWhJ64Wx7Vj8tL788qC3zflLN_LX2GmOpAcP0eX_5YQFsxGi8ng.jpg",
+          "thumbnail_path": "channels/daadbaan2021/media/749c68ce993e5639dcb50cd3.jpg",
           "thumbnail_sha256": "f7fe24437461d2088a0a77a93f7bd6bcd2b03b9a8f803d4f67b8845829bf521a",
           "duration_label": null,
           "aspect_ratio": 0.79875
@@ -859,8 +863,8 @@
           "asset_url": "https://t.me/Daadbaan2021/20223?single",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/EYHx_K9vyYu-Z_K50LdkKNgHiBVu-zM3i_DFtD2FNTEObzmVbHJ-KoYNNPvJhQqES7cWy0VOFRSidui0sSu8O7DyU3Y-GeW5Tvj_Z35pxUM5wxpCekPNPwfKJmtaJf6kb4HE3jg7CIs7FQuM_sE9_2Ry6wZE3SIqLDZ7VgVIP6B54lqfsMXCuU4neJQS23Mez5QF2o--BKhztshm_M9NyYyAuaMrAFshnCSSQq6m4ug5Lm3FoO_egY36ZLiM-TjfVisJF7b5SA296tKxS1r_4RZcptPS5kdxlaxA4iaC0d2gW6mid1r6TcU4XH6QmxbUKCA3Ei23J8fgcD-tze5Pvw.jpg",
-          "thumbnail_path": "channels/daadbaan2021/media/43417602939ccb49c97d0db0.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/uvYdnqTGftKIHiwfRy9W4aYQyVIT8OLkv_UsSFBw8-WwqsQIl9ikaK4XMJD-Zl1cSNtx4rFRXmwbaPF_qQqnahEcJGq-cGYeTZgfx7EXPt6YZeZnPPeFYNrxXoga_Y_oe6S7DrpelE1lLnj7AZXaISonBPvuVRR8tR1JcT3fRygcThzxa7N9SZ4JdSGhOLWCwEQr1b5qtPFn5Bl5g9OEj5S_FlbeYeElavxJPsMLXjvyfS3_i7GYoS4ShF4oGL_Jmr5bjLm_fS08Bl8TAMisU1NchdiWNGen63v9UfSTb6ttA3CTybhH8ArdW4wZgVDR1jNVzdQ1_0xwwFWiDltI3Q.jpg",
+          "thumbnail_path": "channels/daadbaan2021/media/92a91af7e98347f95e3130c5.jpg",
           "thumbnail_sha256": "8b6faec8ccf07daec10586b636351a3af14b39e812b6c98493572b516af06361",
           "duration_label": null,
           "aspect_ratio": 0.79875
@@ -870,8 +874,8 @@
           "asset_url": "https://t.me/Daadbaan2021/20224?single",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/f7w0BeYronG4AAD_t1aaWgD5jjV-Rp92AvQY4XvQgqbpeqI2zho9u1zxMk7J10c1XBGN8nbhT6vFq5UGHp1JbAS-IllHTtnZFOV-nu4OPhIZNpoJF22mc8M5S4Z2nOrF3Es-zgEX3SFl0rmPZf4Zvc9ALOe_ah-MfUgvylNIbJShoxGghbBkX6o1z4Oab7AMghUzIxd_r90Fnx9nStrzp0svsbV6esG-lybSK8LGlAVi6DCryQnuMNn3LEdqiTMCPwXjwqFkjMJr9bwL-RKzt2UEzRYGliVKXcOLV1wcRWnnkzn3qS6eNFqaWcq2gpJvvXJ_IprWuGgG_zTukc0u_w.jpg",
-          "thumbnail_path": "channels/daadbaan2021/media/f757f23f33e651999c8514f3.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/sLmFNVwgWlsldETApjWLsMf_7Axby9eJeYBkPjUbuG84uLLzzXzVujIoEZL40xu07ygoT4Do-cg6ccgK45h2V1VCfOIvlys6NwqAkqyKv-smrPO8-cqB24ErLPLF8UiGyY5J1LwZ78famzqsEhyLznS137rsPWuFr854VdkpyOz72ULkrsnF6JT64gPZpJTOQzwsxpKdIkYKy0_B3456SgTTfSynazXPjL6QsdWOeY10Rih5Qci8wtIBnPdBx_9FyAr1_Wo1-fM1iZc0OQQRcewP86r1bvCh75Cq-CokwpWUerfQtrYc77saOCi5B9-qjqTIFuJ7-GvTmeMiJe46Ew.jpg",
+          "thumbnail_path": "channels/daadbaan2021/media/b1e116a72551f05dd9d1324b.jpg",
           "thumbnail_sha256": "258af206f34807c8caa29546440f26646a0252ede1d40289f480a9618e042850",
           "duration_label": null,
           "aspect_ratio": 0.79875
