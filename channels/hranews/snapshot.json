@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T15:21:57.633Z",
+  "fetched_at": "2026-09-09T15:26:57.640Z",
   "channel": {
     "username": "hranews",
     "title": "خبرگزاری هرانا",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "hranews/115519",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/M4kOC9cWq00onbO9X-TdeZPXUsjGhv39-YhP9QvdHswyO184Qs4Xq8ACGGXFwy6GoOKxu3AbtKQm5AIkR5UZuJdKV0r_0CoH4UfGuENTeXUsmMRcEU10X0EZqcwzxcPFB9g2VSHUy0fR4-oH3xVgMDYO-yej2ksl_ewj7jfBkRb4a4SA-NLTGFSe7iJ1ExH_AX9TVGK1qf9zduaLEmJZQMwpkMqTtYmGrcsZKO9aCRkUebfEDJZOZRe41wW0xyODYqcEUy6wEBNKgbhjfwjHBTD0Ky-GMZRIoz2bVqXMzeZ2mzPhzIfsw_TnhFTepze7Aw5FDF85-Wqm29fq24fYAw.jpg",
+      "author_photo_path": "channels/hranews/media/5b6ab1f194a3debbea966877.jpg",
+      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
+      "body_html": "علیرضا محمدی، معاون سلامت اجتماعی بهزیستی استان تهران، اعلام کرد از حدود ۲۳ هزار تماس ثبت‌شده با اورژانس اجتماعی کشور طی سال گذشته در ارتباط با آسیب‌های اجتماعی، ۷۵۵۸ تماس مربوط به افکار <a href=\"?q=%23%D8%AE%D9%88%D8%AF%DA%A9%D8%B4%DB%8C\">#خودکشی</a> و اقدام به آن بوده است. به گفته وی، گروه سنی ۱۸ تا ۲۶ سال با ۲۴ درصد بیشترین سهم را داشته و تماس‌های مرتبط در میان افراد بالای ۵۰ سال نیز افزایش نسبی داشته است.<br><br>با وجود کاهش حدود ۱۳ درصدی این تماس‌ها نسبت به سال ۱۴۰۳، در مردادماه امسال حدود ۲۰۰ تماس بیشتر از مدت مشابه سال قبل ثبت شده؛ موضوعی که ضرورت تقویت خدمات پیشگیرانه، حمایتی و پیگیری مستمر افراد در معرض خطر را برجسته می‌کند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "علیرضا محمدی، معاون سلامت اجتماعی بهزیستی استان تهران، اعلام کرد از حدود ۲۳ هزار تماس ثبت‌شده با اورژانس اجتماعی کشور طی سال گذشته در ارتباط با آسیب‌های اجتماعی، ۷۵۵۸ تماس مربوط به افکار #خودکشی و اقدام به آن بوده است. به گفته وی، گروه سنی ۱۸ تا ۲۶ سال با ۲۴ درصد بیشترین سهم را داشته و تماس‌های مرتبط در میان افراد بالای ۵۰ سال نیز افزایش نسبی داشته است.\n\nبا وجود کاهش حدود ۱۳ درصدی این تماس‌ها نسبت به سال ۱۴۰۳، در مردادماه امسال حدود ۲۰۰ تماس بیشتر از مدت مشابه سال قبل ثبت شده؛ موضوعی که ضرورت تقویت خدمات پیشگیرانه، حمایتی و پیگیری مستمر افراد در معرض خطر را برجسته می‌کند.\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/hranews/115519",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Y_cD5TWP8bYh9a2s6TobgXj_JknbqnTesn3_C9grRf_eidgJxAsxKqfMqZMg0ra-doGeIKPQPwQ17PE3XnRCoNqkrq5lTNvrXSvUXPxiV5GwZHwkfQtse5skGQ_jbpYvNRd5hq-udfE9-QJYNzGAm2XoDlW-HEhMPhHkrvgIUSDd-2jrAA5lxZmfl2zjTCPpR-rW6qfghcNlP5QXj3vFvnJw66rUEtl-7sACH93rNi7xT3yidT6k7V9iqz2k9Zj__xJIv38Q83IGnMD9BkRglxYf1KckGtzLMSuFL5Sitc_nsKXRB1e6N6ftClLsjKMN2UrW9Sg-UcKyBUXzeln7Kw.jpg",
+          "thumbnail_path": "channels/hranews/media/36040c2caf1d7201e67cd6a3.jpg",
+          "thumbnail_sha256": "74101bdfecca0bcfe0ff963b2a40c2e327318c3992dd0e29fd601038744ec28d",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [],
+      "views_label": "46",
+      "posted_at": "2026-09-09T15:23:54+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/115519",
+      "reply": null
+    },
+    {
       "id": "hranews/115518",
       "author_name": "خبرگزاری هرانا",
       "author_photo_url": "https://cdn1.telesco.pe/file/M4kOC9cWq00onbO9X-TdeZPXUsjGhv39-YhP9QvdHswyO184Qs4Xq8ACGGXFwy6GoOKxu3AbtKQm5AIkR5UZuJdKV0r_0CoH4UfGuENTeXUsmMRcEU10X0EZqcwzxcPFB9g2VSHUy0fR4-oH3xVgMDYO-yej2ksl_ewj7jfBkRb4a4SA-NLTGFSe7iJ1ExH_AX9TVGK1qf9zduaLEmJZQMwpkMqTtYmGrcsZKO9aCRkUebfEDJZOZRe41wW0xyODYqcEUy6wEBNKgbhjfwjHBTD0Ky-GMZRIoz2bVqXMzeZ2mzPhzIfsw_TnhFTepze7Aw5FDF85-Wqm29fq24fYAw.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "دانشگاه خواجه نصیرالدین طوسی؛ محمدمهدی کریمی به محرومیت از تحصیل محکوم شد\n\n❗️❗️❗️❗️❗️– محمدمهدی کریمی، دانشجوی مقطع کارشناسی مهندسی هوافضا دانشگاه صنعتی خواجه نصیرالدین طوسی، توسط کمیته انضباطی این دانشگاه به دو ترم محرومیت از تحصیل محکوم شد.\n\nادامه مطلب\n\n#محمدمهدی_کریمی\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "141",
+      "views_label": "174",
       "posted_at": "2026-09-09T15:05:58+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115518",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "462",
+      "views_label": "489",
       "posted_at": "2026-09-09T13:01:18+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115517",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "639",
+      "views_label": "651",
       "posted_at": "2026-09-09T10:08:24+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115516",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "617",
+      "views_label": "626",
       "posted_at": "2026-09-09T09:30:13+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115515",
@@ -121,7 +149,7 @@
       "plain_text": "واژگونی اتوبوس حامل کارگران در راور به مصدومیت ۱۶ کارگر منجر شد\n\n❗️❗️❗️❗️❗️– شامگاه سه‌شنبه ۱۷ شهریورماه، واژگونی یک دستگاه اتوبوس حامل کارگران معدن زغال‌سنگ «همکار» در محور کوهبنان–راور، منجر به مصدومیت ۱۶ #کارگر شد.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "653",
+      "views_label": "663",
       "posted_at": "2026-09-09T08:45:53+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115514",
@@ -137,7 +165,7 @@
       "plain_text": "یک شهروند در مریوان بازداشت شد\n\n❗️❗️❗️❗️❗️– روز گذشته، خبات فدایی، شهروند ساکن مریوان، توسط نیروهای امنیتی در این شهرستان بازداشت و به مکان نامعلومی منتقل شد.\n\nادامه مطلب\n\n#خبات_فدایی\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "600",
+      "views_label": "610",
       "posted_at": "2026-09-09T08:21:22+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115513",
@@ -153,7 +181,7 @@
       "plain_text": "گزارشی از بازداشت سوران یاری در جوانرود\n\n❗️❗️❗️❗️❗️– سوران یاری، شهروند ساکن جوانرود، روز یکشنبه ۱۵ شهریورماه، توسط ماموران اداره اطلاعات در این شهرستان بازداشت و به مکان نامعلومی منتقل شد.\n\nادامه مطلب\n\n#سوران_یاری\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "602",
+      "views_label": "615",
       "posted_at": "2026-09-09T07:55:41+00:00",
       "edited": true,
       "permalink": "https://t.me/hranews/115512",
@@ -169,7 +197,7 @@
       "plain_text": "سیامک مفیدی و سروش عنایتی به کانون اصلاح و تربیت تهران منتقل شدند\n\n❗️❗️❗️❗️❗️– سیامک مفیدی، ۱۷ ساله و سروش عنایتی، ۱۶ ساله، دو نوجوان بازداشتی اهل تکاب، به کانون اصلاح و تربیت تهران منتقل شدند. این دو نوجوان با اتهاماتی از جمله «اقدام علیه امنیت ملی»، «تبلیغ علیه نظام» و «اخلال در نظم عمومی» مواجه شده‌اند.\n\nادامه مطلب\n\n#سیامک_مفیدی #سروش_عنایتی\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "644",
+      "views_label": "653",
       "posted_at": "2026-09-09T07:32:32+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115511",
@@ -197,7 +225,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "820",
+      "views_label": "829",
       "posted_at": "2026-09-09T07:05:49+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115510",
@@ -306,7 +334,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "839",
+      "views_label": "840",
       "posted_at": "2026-09-08T19:25:48+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115504",
@@ -322,7 +350,7 @@
       "plain_text": "اجرای حکم اعدام یک زندانی در مشهد/ صدور حکم اعدام برای یک متهم در تهران\n\n❗️❗️❗️❗️❗️ – حکم #اعدام یک زندانی که پیشتر از بابت اتهام قتل به اعدام محکوم شده بود، در زندان مشهد به اجرا درآمد. همچنین یک متهم به قتل در تهران، توسط دادگاه کیفری یک این استان به اعدام محکوم شد.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "756",
+      "views_label": "758",
       "posted_at": "2026-09-08T19:21:06+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115503",
@@ -350,7 +378,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "744",
+      "views_label": "745",
       "posted_at": "2026-09-08T19:08:22+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115502",
@@ -366,7 +394,7 @@
       "plain_text": "دستکم ۲ تجمع اعتراضی و یک تحصن برگزار شد\n\n❗️❗️❗️❗️❗️ – امروز سه شنبه ۱۷ شهریورماه، گروهی از پرستاران و اعضای کادر درمان در کرمانشاه با برگزاری #تجمع اعتراضی خواستار رسیدگی به مطالباتشان شدند. همزمان روز جاری، اسماعیل بخشی، فعال کارگری و از کارگران سابق شرکت کشت و صنعت نیشکر هفت‌تپه با مطالبه بازگشت به کار، در مقابل ورودی این مجتمع دست به تحصن زد. همچنین، روز گذشته، گروهی از کارگران شرکت «محور گستر نصر» در سیرجان، با مراجعه به فرمانداری و اداره تعاون، کار و رفاه اجتماعی این شهرستان، نسبت به تصمیم شرکت برای انتقال محل کارشان به پروژه‌های راه‌سازی در مهران یا جاسک اعتراض کردند.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "695",
+      "views_label": "697",
       "posted_at": "2026-09-08T19:01:41+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115501",
@@ -382,7 +410,7 @@
       "plain_text": "مرگ و مصدومیت ۳ کارگر در سایه فقدان ایمنی‌کار\n\n❗️❗️❗️❗️❗️ – در سایه فقدان ایمنی محیط و شرایط نامناسب کار، سه #کارگر در نیشابور، سوادکوه و اصفهان دچار حادثه شدند. طی این حوادث، دو کارگر جان خود را از دست دادند و یک تن دیگر مصدوم شد.\n\nادامه مطلب\n\n↘️\n@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "670",
+      "views_label": "671",
       "posted_at": "2026-09-08T18:48:24+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115500",
@@ -2318,34 +2346,6 @@
       "posted_at": "2026-09-05T17:01:17+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/115416",
-      "reply": null
-    },
-    {
-      "id": "hranews/115415",
-      "author_name": "خبرگزاری هرانا",
-      "author_photo_url": "https://cdn1.telesco.pe/file/V70wgIIyDFpgsG7sY6W9p07pWzRiwt74B9Gvxn3QUHjxf6-ey3QC5D-eVEHqmTI1ZhRgkUPaIwqfIV6_28Z8QK4HLGV9nrXKabtxAdfhNvWOv0PdOLolMfPGR_mfQxTUGM6tmHf_FkY734vVWGG2a8pxQD9xqcZwpPsgJH9AVpfPKjkegXck_6mDhRyB4Vl5jKEknm4rrznGVIObwphL_RXOM-kd2Uh3gnXXg_fNTavEb-fteB-lvBRdgZOvrUrAULRTAxPmuhWPPfJ71EYAflVKDVNRa8I1iP_SzQ_3xlPSXqarl8apIPXyEmKTsb8ixsTQFhNq-DmB4rmHD55GWQ.jpg",
-      "author_photo_path": "channels/hranews/media/a0268111c426ab2ca58fac65.jpg",
-      "author_photo_sha256": "d063f8e1e038efa3cf3c80de8b1cd6c031cc0154acab24c60aa5d3c06e4f972f",
-      "body_html": "اعتراضات دی‌ماه ۱۴۰۴؛ محکومیت ۱۲ شهروند در سبزوار به حبس و مجازات‌های تکمیلی<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– ۱۲ شهروند ساکن سبزوار از جمله یک نوجوان ۱۷ ساله که از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴ هستند، در یک پرونده مشترک توسط دادگاه انقلاب این شهرستان مجموعا به ۱۸ سال حبس تعلیقی، یک میلیارد و ۸۰۰ میلیون تومان جزای نقدی و مجازات‌های تکمیلی محکوم شدند. هویت ۱۰ تن از متهمان این پرونده، مهدی نصرآبادی، متین کوشکباغی، امیر استیری، مهدی قزی، امیر عرفان تاج‌آبادی، نازنین‌زهرا موسوی، رضا خورشید سخن‌گوی، زهرا جعفری، عرفان عابد و فاطمه بازقندی، احراز شده است. این احکام در دادگاه تجدیدنظر استان خراسان رضوی نیز تأیید شده است.<br><br>به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، ۱۲ شهروند ساکن سبزوار و از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، در یک پرونده مشترک توسط دادگاه انقلاب سبزوار محکوم شدند.<br><br>بر اساس اطلاعات دریافتی هرانا، نخست این شهروندان توسط دادگاه انقلاب سبزوار هر کدام به سه سال و شش ماه حبس تعزیری محکوم شدند که با توجه به نداشتن سابقه کیفری، در حکم صادرشده برای آنان ۱۵۰ میلیون تومان جزای نقدی، یک سال و شش ماه حبس تعلیقی، دو ماه حضور اجباری در مراسم نماز جمعه و سه ماه شرکت در کلاس‌های عقیدتی تحت نظر فردی به نام «ملکوتی» تعیین شده است. احکام صادرشده، در دادگاه تجدیدنظر استان خراسان رضوی نیز عینا تایید شده است.<br><br>هویت ۱۰ تن از متهمان این پرونده، مهدی نصرآبادی، ۲۹ ساله، متین کوشکباغی، ۲۴ ساله، امیر استیری، ۲۰ ساله، مهدی قزی، ۱۹ ساله، امیر عرفان تاج‌آبادی، ۱۹ ساله، نازنین‌زهرا موسوی، ۱۷ ساله، رضا خورشید سخن‌گوی، زهرا جعفری، عرفان عابد و فاطمه بازقندی، احراز شده است. هویت دو شهروند دیگر حاضر در این پرونده تاکنون برای هرانا احراز نشده است.<br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-ba8d2d37/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><a href=\"?q=%23%D9%85%D9%87%D8%AF%DB%8C_%D9%86%D8%B5%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C\">#مهدی_نصرآبادی</a> <a href=\"?q=%23%D9%85%D8%AA%DB%8C%D9%86_%DA%A9%D9%88%D8%B4%DA%A9%D8%A8%D8%A7%D8%BA%DB%8C\">#متین_کوشکباغی</a> <a href=\"?q=%23%D8%A7%D9%85%DB%8C%D8%B1_%D8%A7%D8%B3%D8%AA%DB%8C%D8%B1%DB%8C\">#امیر_استیری</a> <a href=\"?q=%23%D9%85%D9%87%D8%AF%DB%8C_%D9%82%D8%B2%DB%8C\">#مهدی_قزی</a> <a href=\"?q=%23%D8%A7%D9%85%DB%8C%D8%B1_%D8%B9%D8%B1%D9%81%D8%A7%D9%86_%D8%AA%D8%A7%D8%AC%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C\">#امیر_عرفان_تاج‌آبادی</a> <a href=\"?q=%23%D9%86%D8%A7%D8%B2%D9%86%DB%8C%D9%86%E2%80%8C%D8%B2%D9%87%D8%B1%D8%A7_%D9%85%D9%88%D8%B3%D9%88%DB%8C\">#نازنین‌زهرا_موسوی</a> <a href=\"?q=%23%D8%B1%D8%B6%D8%A7_%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF_%D8%B3%D8%AE%D9%86%E2%80%8C%DA%AF%D9%88%DB%8C\">#رضا_خورشید_سخن‌گوی</a> <a href=\"?q=%23%D8%B2%D9%87%D8%B1%D8%A7_%D8%AC%D8%B9%D9%81%D8%B1%DB%8C\">#زهرا_جعفری</a> <a href=\"?q=%23%D8%B9%D8%B1%D9%81%D8%A7%D9%86_%D8%B9%D8%A7%D8%A8%D8%AF\">#عرفان_عابد</a> <a href=\"?q=%23%D9%81%D8%A7%D8%B7%D9%85%D9%87_%D8%A8%D8%A7%D8%B2%D9%82%D9%86%D8%AF%DB%8C\">#فاطمه_بازقندی</a> <a href=\"?q=%23%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA%DB%B1%DB%B4%DB%B0%DB%B4\">#اعتراضات۱۴۰۴</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
-      "plain_text": "اعتراضات دی‌ماه ۱۴۰۴؛ محکومیت ۱۲ شهروند در سبزوار به حبس و مجازات‌های تکمیلی\n\n❗️❗️❗️❗️❗️– ۱۲ شهروند ساکن سبزوار از جمله یک نوجوان ۱۷ ساله که از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴ هستند، در یک پرونده مشترک توسط دادگاه انقلاب این شهرستان مجموعا به ۱۸ سال حبس تعلیقی، یک میلیارد و ۸۰۰ میلیون تومان جزای نقدی و مجازات‌های تکمیلی محکوم شدند. هویت ۱۰ تن از متهمان این پرونده، مهدی نصرآبادی، متین کوشکباغی، امیر استیری، مهدی قزی، امیر عرفان تاج‌آبادی، نازنین‌زهرا موسوی، رضا خورشید سخن‌گوی، زهرا جعفری، عرفان عابد و فاطمه بازقندی، احراز شده است. این احکام در دادگاه تجدیدنظر استان خراسان رضوی نیز تأیید شده است.\n\nبه گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، ۱۲ شهروند ساکن سبزوار و از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴، در یک پرونده مشترک توسط دادگاه انقلاب سبزوار محکوم شدند.\n\nبر اساس اطلاعات دریافتی هرانا، نخست این شهروندان توسط دادگاه انقلاب سبزوار هر کدام به سه سال و شش ماه حبس تعزیری محکوم شدند که با توجه به نداشتن سابقه کیفری، در حکم صادرشده برای آنان ۱۵۰ میلیون تومان جزای نقدی، یک سال و شش ماه حبس تعلیقی، دو ماه حضور اجباری در مراسم نماز جمعه و سه ماه شرکت در کلاس‌های عقیدتی تحت نظر فردی به نام «ملکوتی» تعیین شده است. احکام صادرشده، در دادگاه تجدیدنظر استان خراسان رضوی نیز عینا تایید شده است.\n\nهویت ۱۰ تن از متهمان این پرونده، مهدی نصرآبادی، ۲۹ ساله، متین کوشکباغی، ۲۴ ساله، امیر استیری، ۲۰ ساله، مهدی قزی، ۱۹ ساله، امیر عرفان تاج‌آبادی، ۱۹ ساله، نازنین‌زهرا موسوی، ۱۷ ساله، رضا خورشید سخن‌گوی، زهرا جعفری، عرفان عابد و فاطمه بازقندی، احراز شده است. هویت دو شهروند دیگر حاضر در این پرونده تاکنون برای هرانا احراز نشده است.\n\nادامه مطلب\n\n#مهدی_نصرآبادی #متین_کوشکباغی #امیر_استیری #مهدی_قزی #امیر_عرفان_تاج‌آبادی #نازنین‌زهرا_موسوی #رضا_خورشید_سخن‌گوی #زهرا_جعفری #عرفان_عابد #فاطمه_بازقندی #اعتراضات۱۴۰۴\n\n↘️\n@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/hranews/115415",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/N99vYGy7CwxNB76j2UzTdTgSS6lrMXOhrDsei44GFWlYrIxLkfKC_lj5DfSH6iZv7aQuJkXEXC-gBvG0hsHnlpXn9cNaizdSyRd3wXo22-_-zp_0m8DM6A_l6tS5yu5JTol_AKW6MxMD9_K8Xxj5-ETAmd9f2b6Z_plsJ8tpBV1QnQlBIvT_RRmC53uTUdJ6bgiWginhxOfYqk85EWS0QZ2MlY6jD0iMyKZlSRw8F-RNITfQco0o7mauZldHuuwRb011uloVRI-dmZ1sPeNlKbSslwzwSfkMn-8jPfyo5JOcisYrTb4_dkRsDFEnkMQxh8dYhhN9u8av-nhH083iOA.jpg",
-          "thumbnail_path": "channels/hranews/media/117f2457394ec801f20ecee7.jpg",
-          "thumbnail_sha256": "0ebb66d58e70663b2a169a269f82cdf549f2fcd33fbbdd7253b0c170006112fb",
-          "duration_label": null,
-          "aspect_ratio": 1.5009380863039399
-        }
-      ],
-      "reactions": [],
-      "views_label": "942",
-      "posted_at": "2026-09-05T15:51:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/hranews/115415",
       "reply": null
     }
   ]
