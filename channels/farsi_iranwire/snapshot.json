@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T16:51:40.225Z",
+  "fetched_at": "2026-09-09T16:56:39.601Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -8,9 +8,37 @@
     "photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
     "photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
     "photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-    "subscriber_count": "47.8K"
+    "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93530",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "شورای حکام آژانس بین‌المللی انرژی اتمی، روز چهارشنبه ۱۸ شهریور ۱۴۰۵، با تصویب قطعنامه‌ای، پرونده هسته‌ای جمهوری اسلامی را به شورای امنیت سازمان ملل ارجاع داد.<br>رویترز گزارش داد، این قطعنامه با ۲۳ رای موافق، سه رای مخالف و هشت رای ممتنع به تصویب رسید. بریتانیا، فرانسه، آلمان و آمریکا پیشنهاددهندگان قطعنامه بودند و دلیل ارجاع پرونده ایران به شورای امنیت را ادامه پایبند بودن تهران به تعهدات خود در زمینه گزارش‌دهی هسته‌ای اعلام کردند.<br><br><br>بیشتر بخوانید: <a href=\"https://iranwire.com/fa/news-1/157400\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157400</a><br><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "شورای حکام آژانس بین‌المللی انرژی اتمی، روز چهارشنبه ۱۸ شهریور ۱۴۰۵، با تصویب قطعنامه‌ای، پرونده هسته‌ای جمهوری اسلامی را به شورای امنیت سازمان ملل ارجاع داد.\nرویترز گزارش داد، این قطعنامه با ۲۳ رای موافق، سه رای مخالف و هشت رای ممتنع به تصویب رسید. بریتانیا، فرانسه، آلمان و آمریکا پیشنهاددهندگان قطعنامه بودند و دلیل ارجاع پرونده ایران به شورای امنیت را ادامه پایبند بودن تهران به تعهدات خود در زمینه گزارش‌دهی هسته‌ای اعلام کردند.\n\n\nبیشتر بخوانید: https://iranwire.com/fa/news-1/157400\n\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93530",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/SsCJWH9smiMfhsJZ_cgDZvRkAgDTOm6HyTtflZbxMotRVISKZD8Rn9kYAa1ah3F2SnQyjkCzV9o040v3ao3BylzenD9mmgSuaFjoOTr9h_ZY-TPa9_6FTHdAjtqF8_FW1kRUrHLQvrkU3Tn1iZsjSM-t_gKs9IIAFhnLFeaO2AyiskY8JOwycN56KxtcJcwi6XRkyV5EshJTygbc9wBf5B99kspw8urK1CbLOvwr2nqclnEHazLf-urf7F1OaKpYbw13XOsKBVVwFA5lup9rat0a5ndjaqypuZFTKN-OIqjg86w2I-63HcjbbbGi1dHZxjJt8ZsL8qWg_AUZG8GTIQ.jpg",
+          "thumbnail_path": null,
+          "thumbnail_sha256": null,
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "39",
+      "posted_at": "2026-09-09T16:54:42+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93530",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93529",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "249",
+      "views_label": "301",
       "posted_at": "2026-09-09T16:24:47+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93529",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "720",
+      "views_label": "736",
       "posted_at": "2026-09-09T15:14:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93528",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "662",
+      "views_label": "707",
       "posted_at": "2026-09-09T15:03:58+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93527",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "635",
+      "views_label": "643",
       "posted_at": "2026-09-09T15:00:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93526",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "707",
+      "views_label": "715",
       "posted_at": "2026-09-09T14:41:21+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93525",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "666",
+      "views_label": "674",
       "posted_at": "2026-09-09T14:30:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93524",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "616",
+      "views_label": "628",
       "posted_at": "2026-09-09T14:29:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93523",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "969",
+      "views_label": "1K",
       "posted_at": "2026-09-09T13:02:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93522",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "936",
+      "views_label": "939",
       "posted_at": "2026-09-09T12:31:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93520",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.02K",
+      "views_label": "1.03K",
       "posted_at": "2026-09-09T12:01:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93519",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.02K",
+      "views_label": "1.03K",
       "posted_at": "2026-09-09T11:25:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93517",
@@ -509,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "956",
+      "views_label": "959",
       "posted_at": "2026-09-09T10:34:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93512",
@@ -2781,34 +2809,6 @@
       "posted_at": "2026-09-07T06:28:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93429",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93428",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "کمال جعفری یزدی، فعال مدنی و زندانی سیاسی، در یادداشتی با اشاره به تشدید بحران اقتصادی، افزایش نارضایتی عمومی و ادامه تلاش‌های حکومت برای حفظ قدرت، نوشت بقایای جمهوری اسلامی باید تسلیم مردم ایران‌ شوند وگرنه در نهایت تسلیم آمریکا خواهند شد.<br>او در یادداشتی که نسخه‌ای از آن به ایران‌وایر رسیده تاکید کرده است تلاش‌هایی مانند اصلاحات، رفرم و «پوست‌اندازی» و همچنین بازگرداندن چهره‌هایی مانند محمدباقر قالیباف و محمود احمدی‌نژاد دیگر کارساز نیست و حکومت یا باید قدرت را به جمهوری‌خواهان سکولار دموکرات داخل کشور واگذار کند یا در نهایت در برابر خواست جمهوری‌خواهان آمریکا تسلیم شود.<br><br><br>بیشتر بخوانید: <a href=\"https://iranwire.com/fa/news-1/157240\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157240</a><br><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "کمال جعفری یزدی، فعال مدنی و زندانی سیاسی، در یادداشتی با اشاره به تشدید بحران اقتصادی، افزایش نارضایتی عمومی و ادامه تلاش‌های حکومت برای حفظ قدرت، نوشت بقایای جمهوری اسلامی باید تسلیم مردم ایران‌ شوند وگرنه در نهایت تسلیم آمریکا خواهند شد.\nاو در یادداشتی که نسخه‌ای از آن به ایران‌وایر رسیده تاکید کرده است تلاش‌هایی مانند اصلاحات، رفرم و «پوست‌اندازی» و همچنین بازگرداندن چهره‌هایی مانند محمدباقر قالیباف و محمود احمدی‌نژاد دیگر کارساز نیست و حکومت یا باید قدرت را به جمهوری‌خواهان سکولار دموکرات داخل کشور واگذار کند یا در نهایت در برابر خواست جمهوری‌خواهان آمریکا تسلیم شود.\n\n\nبیشتر بخوانید: https://iranwire.com/fa/news-1/157240\n\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93428",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/lbFxWuUMY3MOkKluFZPgYG3vmWNBmgjgGIG4Fj8nTKCOoT4MX9srUiqL9KZjgS6_v0PqqKy6qxQW7Ww96PGpiNHjTdlzvVOOoKMUJQAuo5-_5OUDycO6NCn5JUpK8nzcEMBWl5NzACqFsf7JYBfTmluVjqUWbD9vLr7pk0SN3tWqNhk5r7vx9y4aseIkxYNVfgr0p-Mj-e5F0ByShCNQ9GF7t4qmC_vjF5itzNqRjTvkDlTYypfnUfBsot744jIsQEnKTda8sS7ByUjRncl0sTKjwNhP8JEDsM6iPRsYKlrnqP2Ye3DgurbSmZl8GuZCcCAasBF7Zqz-MVrbidxA8g.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/46b2a5a5c5ea3ae7ba0cd256.jpg",
-          "thumbnail_sha256": "6fb1a24c9f49f5339d6a3819fd466ea7d921da1565b69be8b04a3c87b90de12b",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.86K",
-      "posted_at": "2026-09-06T19:59:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93428",
       "reply": null
     }
   ]
