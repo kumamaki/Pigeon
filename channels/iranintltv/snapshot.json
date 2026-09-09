@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T00:41:31.377Z",
+  "fetched_at": "2026-09-09T00:46:43.596Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356421",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
+      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "ریچارد گلدبرگ، تحلیلگر ارشد بنیاد دفاع از دموکراسی‌ها، در شبکه اجتماعی ایکس نوشت سپاه پاسداران در سیاست تشدید تنش، در موضع بازنده قرار دارد و هر روز این نهاد یک گام به فروپاشی نزدیک‌تر می‌شود.<br><br>او نوشت: «هر حمله، شکست آن را شتاب می‌بخشد. امروز، سپاه شاهد از بین رفتن تدریجی و نظام‌مند ناوگان نفتکش‌های خود است، در حالی که ناوگان هوایی آن نیز به دلیل تهدید تحریم‌ها با خطر زمین‌گیر شدن مواجه است.»<br><br><a href=\"https://iranintl.com/202609095816\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609095816</a>",
+      "plain_text": "ریچارد گلدبرگ، تحلیلگر ارشد بنیاد دفاع از دموکراسی‌ها، در شبکه اجتماعی ایکس نوشت سپاه پاسداران در سیاست تشدید تنش، در موضع بازنده قرار دارد و هر روز این نهاد یک گام به فروپاشی نزدیک‌تر می‌شود.\n\nاو نوشت: «هر حمله، شکست آن را شتاب می‌بخشد. امروز، سپاه شاهد از بین رفتن تدریجی و نظام‌مند ناوگان نفتکش‌های خود است، در حالی که ناوگان هوایی آن نیز به دلیل تهدید تحریم‌ها با خطر زمین‌گیر شدن مواجه است.»\n\nhttps://iranintl.com/202609095816",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356421",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/IS8ImTDjXB1trsmiRjdafz8KNY_l1bZb9OP97Xukc2cx4TvIUw50pohapM5ZP9yOHweDDQYPXu6i3MA3IqFjAxIkmPuaNjxSeRyP3OM_P4SvV1_6Hi9XDlaa6b7Fys58mk0eDynbEW50b9c-RPZBQCOtehu7BaYJ4_0mqDMCxUaxHaVt4YsjNuGdFHaeMlnGAalO9fqois6_lRw4xnVZP-2nSJfD4R1BR5YWkKch7_BUtePVtHHdi5crQrY4Xq2YP5wRXxLYv4WXPqXunpWZCLrzdnwXW22bIigBRmQ_UIeG40MrrffNXmEOtDLHmnbAC0eX_9Vqp9JlNQl2gh2l3A.jpg",
+          "thumbnail_path": "channels/iranintltv/media/1d7a7ec52ae380b0d6e8bf5a.jpg",
+          "thumbnail_sha256": "c11af8f1811c4f2f9b5ada1b51fdba0b24cf45f475b6f9c2f34753cf45f6126b",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "6",
+      "posted_at": "2026-09-09T00:46:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356421",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356420",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.08K",
+      "views_label": "4.46K",
       "posted_at": "2026-09-09T00:32:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356420",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.8K",
+      "views_label": "6.14K",
       "posted_at": "2026-09-09T00:25:47+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356419",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.86K",
+      "views_label": "6.89K",
       "posted_at": "2026-09-09T00:20:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356418",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.6K",
+      "views_label": "12.6K",
       "posted_at": "2026-09-08T23:55:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356417",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.2K",
+      "views_label": "12.2K",
       "posted_at": "2026-09-08T23:53:41+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356416",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.1K",
+      "views_label": "11.8K",
       "posted_at": "2026-09-08T23:52:02+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356415",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.7K",
+      "views_label": "12.4K",
       "posted_at": "2026-09-08T23:48:32+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356414",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.2K",
+      "views_label": "21.8K",
       "posted_at": "2026-09-08T23:13:57+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356413",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.6K",
+      "views_label": "22.3K",
       "posted_at": "2026-09-08T23:12:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356412",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.4K",
+      "views_label": "27.7K",
       "posted_at": "2026-09-08T22:51:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356410",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.7K",
+      "views_label": "28K",
       "posted_at": "2026-09-08T22:48:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356409",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.8K",
+      "views_label": "33.1K",
       "posted_at": "2026-09-08T22:34:05+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356406",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.5K",
+      "views_label": "33.9K",
       "posted_at": "2026-09-08T22:29:25+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356405",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.7K",
+      "views_label": "34.1K",
       "posted_at": "2026-09-08T22:26:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356404",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.8K",
+      "views_label": "35.1K",
       "posted_at": "2026-09-08T22:21:38+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356403",
@@ -509,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.6K",
+      "views_label": "36.9K",
       "posted_at": "2026-09-08T22:14:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356401",
@@ -525,7 +553,7 @@
       "plain_text": "🎧نسخه صوتی برنامه با کامبیز حسینی | دارو نیست؛ پولش هم نیست؛ داروی شما پیدا می‌شود؟\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "35.2K",
+      "views_label": "35.5K",
       "posted_at": "2026-09-08T22:13:00+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356400",
@@ -553,7 +581,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.7K",
+      "views_label": "39.1K",
       "posted_at": "2026-09-08T22:08:44+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356399",
@@ -2721,34 +2749,6 @@
       "posted_at": "2026-09-08T13:25:33+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356320",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356319",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "روزنامه شرق گزارش داد که بین ۳۰ تا ۴۰ درصد والدینی که در ایران طلاق می‌گیرند، دست‌کم یک فرزند دارند و هر سال شمار قابل توجهی از خانواده‌ها درگیر مناقشه بر سر حضانت می‌شوند. بر اساس این گزارش، با ثبت سالانه حدود ۲۰۰ هزار طلاق در ایران، شمار قابل توجهی از کودکان درگیر اختلافاتی می‌شوند که آنها را میان خانه والدین، کلانتری و دادگاه سرگردان می‌کند.<br><br>جزییات بیشتر در گفت‌وگو با منصوره حسینی‌یگانه، عضو تحریریه ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "روزنامه شرق گزارش داد که بین ۳۰ تا ۴۰ درصد والدینی که در ایران طلاق می‌گیرند، دست‌کم یک فرزند دارند و هر سال شمار قابل توجهی از خانواده‌ها درگیر مناقشه بر سر حضانت می‌شوند. بر اساس این گزارش، با ثبت سالانه حدود ۲۰۰ هزار طلاق در ایران، شمار قابل توجهی از کودکان درگیر اختلافاتی می‌شوند که آنها را میان خانه والدین، کلانتری و دادگاه سرگردان می‌کند.\n\nجزییات بیشتر در گفت‌وگو با منصوره حسینی‌یگانه، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356319",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/CAJgSklWGGNkBQt7lEPCkr0NUL_molmQ46e9mJ_QYSmyqD5H78EyTUTkN0mVyjL5MFMov4oIIdnrtoJxqyD7VoSeuWOxnNJgFzc5qzcfc8O40D0TvNOPVCmKvX09vSI-evL-uCgejKtSOHhoXxNjMTxNRRlQqzXhYOupqA84qB_3ZVOZM80vNDLBFFrDHz6Br_GDTJswBXPR4iNir_DUJQZA1P1x1zeyDukVRPpYCgPmsI6ulH-kjrACMRe5YX2iS4bxYvoRGI2UhzSLpLTkfEL-To5QWhLXDG7wWZhxY8_DaNdBIHu3dJmom50EQXQCnbyt6vaDENKuvG-AWzTT3g",
-          "thumbnail_path": "channels/iranintltv/media/598c52b0e1a61e42bb2d395c.jpg",
-          "thumbnail_sha256": "2a3ea66bd7c01c65d07af73e2da0e3a4df86743b47faf2ac8d7266ce12180515",
-          "duration_label": "3:37",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "30.9K",
-      "posted_at": "2026-09-08T13:20:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356319",
       "reply": null
     }
   ]
