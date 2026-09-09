@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T13:11:36.274Z",
+  "fetched_at": "2026-09-09T13:17:22.203Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -12,6 +12,22 @@
   },
   "posts": [
     {
+      "id": "sahamnewsorg/147239",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/smAW_InWz98OrCURLxT9xranMh7tpFlLWV8zSZVibheTG3rKNcOtlMDWTt5JD8IaKVnpsx9Ot66idtDLHzf9pnQYniC5FGwhRuBWsCRwCX0-Mj9l4ogp_2OpFW0-A9FLwU-A1UcUeCsCK6kk8Lzo21xN1YNrtRrAlaqGaAofukdu1m0nYvC_OEUKkWfqLcQl6GUi6IfPKF71EHtCCM9lOVBTXeyyryPb6CUPK3qxuAD5Fcji9pxUZDZ-_FOXDtLpAl-nEy9GeiVn2HK7Uy8jQlYyYtABHS0F4acebiApw4Jqs5gekS8pQMwI0M3Fiux_NuY2uT2ctGm-dm4tcnSe8g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/05b9e04486c2e24c97c8a56b.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>سی ان ان:جنگ ایران به رونق بی‌سابقه صنعت نفت برزیل منجر شد</b><br><br>ارزش صادرات نفت برزیل به چین در نیمه نخست سال بیش از دو برابر شد<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅سی ان ان:جنگ ایران به رونق بی‌سابقه صنعت نفت برزیل منجر شد\n\nارزش صادرات نفت برزیل به چین در نیمه نخست سال بیش از دو برابر شد\n\n@Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "2.8K",
+      "posted_at": "2026-09-09T13:12:55+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/147239",
+      "reply": null
+    },
+    {
       "id": "sahamnewsorg/147238",
       "author_name": "سهام نیوز",
       "author_photo_url": "https://cdn1.telesco.pe/file/smAW_InWz98OrCURLxT9xranMh7tpFlLWV8zSZVibheTG3rKNcOtlMDWTt5JD8IaKVnpsx9Ot66idtDLHzf9pnQYniC5FGwhRuBWsCRwCX0-Mj9l4ogp_2OpFW0-A9FLwU-A1UcUeCsCK6kk8Lzo21xN1YNrtRrAlaqGaAofukdu1m0nYvC_OEUKkWfqLcQl6GUi6IfPKF71EHtCCM9lOVBTXeyyryPb6CUPK3qxuAD5Fcji9pxUZDZ-_FOXDtLpAl-nEy9GeiVn2HK7Uy8jQlYyYtABHS0F4acebiApw4Jqs5gekS8pQMwI0M3Fiux_NuY2uT2ctGm-dm4tcnSe8g.jpg",
@@ -21,7 +37,7 @@
       "plain_text": "✅الجزیره به نقل از یک منبع عراقی:\n\nهدف قرار دادن نفتکش در آب‌های سرزمینی عراق، در نزدیکی بندر العمیه در بصره، رخ داده است.\n\nنفتکش هدف قرارگرفته حامل ۲ میلیون بشکه نفت عراق بوده و در منطقه بارگیری قرار داشته است.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "3.1K",
+      "views_label": "5.28K",
       "posted_at": "2026-09-09T13:06:33+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147238",
@@ -49,7 +65,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7.75K",
+      "views_label": "9.92K",
       "posted_at": "2026-09-09T12:53:14+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147237",
@@ -65,7 +81,7 @@
       "plain_text": "✅رویترز: در پی حمله به یک تانکر حامل محصولات نفتی به نام \"هرکولِس استار\" در نزدیکی دبی، یک نفر کشته و یک نفر مفقود شده است\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "8.07K",
+      "views_label": "10.2K",
       "posted_at": "2026-09-09T12:51:38+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147236",
@@ -102,7 +118,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.5K",
+      "views_label": "13K",
       "posted_at": "2026-09-09T12:42:54+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147235",
@@ -118,7 +134,7 @@
       "plain_text": "✅بیش از یک میلیارد دلار ارزش نفت کش های آتش گرفته ایران توسط امریکا\n\nایران حدود ۶۷ نفتکش فعال و ثبت‌شده دارد که بخش مهمی از ظرفیت آن را نفتکش‌های VLCC تشکیل می‌دهند؛ کشتی‌هایی عظیم با توان حمل حدود ۲ میلیون بشکه نفت خام. ساخت هر VLCC معمولاً ۲ تا ۳ سال زمان می‌برد و بسته به کارخانه و صف سفارش‌ها، ممکن است ۴ سال یا بیشتر طول بکشد. قیمت هر فروند نیز بسته به سن کشتی حدود ۱۰۰ تا ۱۸۰ میلیون دلار است؛ بنابراین هر VLCC یک دارایی بسیار گران‌قیمت و مهم محسوب می‌شود.\n\nدر حملات اخیر آمریکا هشت نفتکش هدف قرار گرفتند. از جمله M/T Downy، M/T Horizon 1 و M/T Derya که هر سه VLCC هستند؛ ارزش جایگزینی هرکدام با قیمت‌های فعلی بازار حدود ۱۸۲ میلیون دلار برآورد می‌شود، یعنی مجموعا ۵۴۶ میلیون دلار!\n\nپنج نفتکش دیگر این فهرست M/T Kylo، M/T Stark 1، M/T Charminar، M/T Kaviz، M/T Riesco در مجموع حدود ۵۰۵ میلیون دلار هزینه جایگزینی دارند.\n\nبنابراین، برای سه VLCC حدود ۵۴۶ میلیون دلار و برای نفتکش‌های کوچک‌تر حدود ۵۰۵ میلیون دلار برآورد می‌شود؛ در مجموع، هزینه جایگزینی کشتی‌های آسیب‌دیده در این فهرست حدود ۱٫۰۵ میلیارد دلار است! برای مقایسه باید گفت بودجهٔ نظامی ایران بین ۱۰ تا ۲۰ میلیارد دلار در سال تخمین زده می‌شود.\n\n‏@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "15.5K",
+      "views_label": "17.1K",
       "posted_at": "2026-09-09T12:27:46+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147234",
@@ -155,7 +171,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "14.9K",
+      "views_label": "16.4K",
       "posted_at": "2026-09-09T12:26:40+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147233",
@@ -171,7 +187,7 @@
       "plain_text": "✅اسرائیل در اعتراض به تحریمهای جدید بریتانیا علیه شهرک نشینان به کنسولگری بریتانیا در شرق اورشلیم اطلاع داده است که باید ظرف ۳۰ روز تعطیل و تخلیه شود.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "31.2K",
+      "views_label": "31.9K",
       "posted_at": "2026-09-09T10:41:47+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147232",
@@ -187,7 +203,7 @@
       "plain_text": "✅سنتکام: ادعای سپاه درباره حمله به دو ناو آمریکایی «کاملاً نادرست» است\n\nفرماندهی مرکزی ایالات متحده (سنتکام) ادعای سپاه پاسداران درباره حمله موفق به دو ناو جنگی نیروی دریایی آمریکا در خاورمیانه را رد کرد و اعلام کرد هیچ‌یک از ناوهای آمریکایی مورد اصابت قرار نگرفته‌اند.\n\nسنتکام تأکید کرد تمامی تلاش‌های سپاه برای هدف قرار دادن شناورهای آمریکایی ناموفق بوده و ناوهای نیروی دریایی آمریکا به عملیات خود ادامه داده‌اند.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "32.5K",
+      "views_label": "33.4K",
       "posted_at": "2026-09-09T10:35:57+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147231",
@@ -215,7 +231,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.3K",
+      "views_label": "34K",
       "posted_at": "2026-09-09T10:28:25+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147230",
@@ -243,7 +259,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.9K",
+      "views_label": "36.5K",
       "posted_at": "2026-09-09T10:17:04+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147229",
@@ -259,7 +275,7 @@
       "plain_text": "✅امروز یک کشتی در شمال غربی بندر رشید در امارات متحده عربی مورد هدف قرار گرفت\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "33.7K",
+      "views_label": "34.3K",
       "posted_at": "2026-09-09T10:12:34+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147228",
@@ -287,7 +303,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.6K",
+      "views_label": "35.2K",
       "posted_at": "2026-09-09T10:10:40+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147227",
@@ -315,7 +331,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.3K",
+      "views_label": "34.9K",
       "posted_at": "2026-09-09T10:02:43+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147226",
@@ -343,7 +359,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38K",
+      "views_label": "38.9K",
       "posted_at": "2026-09-09T09:30:15+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147225",
@@ -359,7 +375,7 @@
       "plain_text": "✅افشاگری مرتضی زارعی،نماینده مجلس: یک نماینده و حزب «شین» دنبال کودتا علیه دولت پزشکیان بود\n\n🔸 مرتضی زارعی، نماینده مجلس، در یادداشتی در شبکه اجتماعی گفت یک نماینده و جریان سیاسی نزدیک به او با نام اختصاری «ش» در پی طراحی اقدامی علیه دولت پزشکیان بوده‌اند؛ اقدامی که او از آن با عنوان «کودتا علیه دولت مستقر» یاد کرده است.\n\n🔸 او البته به پیوست توییت خود، نوشته‌ای از حمید رسایی را پیوست کرده که عضو ارشد حزب شریان است.\n\n🔸 زارعی نوشته این طرح در جلسه اخیر مجلس با واکنش شدید نمایندگان مواجه شده و طراح آن نیز پس از طرح اطلاعاتی از سوی محمدباقر قالیباف، مورد اعتراض و «هو» شدن قرار گرفته است.\n\n🔸 او بدون نام بردن صریح از فرد مورد نظر، نوشته این نماینده پیش‌تر نیز فراخوان‌های خیابانی علیه قوه مقننه داشته و در میانه جنگ، طرحی برخلاف تدابیر رهبری ارائه کرده است.\n\n🔸 زارعی همچنین تهدید کرده در صورت ادامه «شانتاژ»، جزئیات بیشتری از جلسه و اطلاعات مطرح‌شده درباره این فرد و حزبش را منتشر خواهد کرد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "38.6K",
+      "views_label": "38.9K",
       "posted_at": "2026-09-09T09:18:19+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147224",
@@ -387,7 +403,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.7K",
+      "views_label": "38K",
       "posted_at": "2026-09-09T09:12:29+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147223",
@@ -403,7 +419,7 @@
       "plain_text": "✅دلار از ۲۳۰ هزار تومان گذشت\n\nدر پی افزایش دوباره تنش‌های نظامی در خاورمیانه، قیمت دلار در بازار آزاد ایران، از ۲۳۰ هزار تومان گذشت. در همین راستا، یورو به ۲۷۰ هزار تومان و پوند بریتانیا به ۳۱۱ هزار تومان رسید.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "39.2K",
+      "views_label": "39.5K",
       "posted_at": "2026-09-09T08:46:40+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147222",
@@ -419,7 +435,7 @@
       "plain_text": "‏✅شب سخت نفتکش های ایران\n\n✍️عبدالله باباخانی\nبا هدف قرار گرفتن ۵ نفتکش در ۸ سپتامبر و ۳ نفتکش در ۵ سپتامبر، شمار نفتکش‌های هدف‌گرفته‌شده توسط سنتکام به ۱۶ فروند رسیده است.\n\n‏از این تعداد، ۶ نفتکش متعلق به/وابسته به شرکت ملی نفتکش ایران (NITC) و ۱۰ فروند دیگر متعلق به شبکه حمل نفت ایران با مالکیت خارجی بوده‌اند.\n\n‏ایران مالکیت حدود ۴۹ نفتکش در ناوگان رسمی خود دارد؛ بنابراین آسیب یا خروج از مدار ۶ نفتکش، معادل حدود ۱۲٪ ناوگان رسمی ایران است.\n\n‏نفتکش ها مانند پالایشگاه ها از اهمیت تاسیسات زیربنایی انرژی برخوردارند و هرگونه حمله ای به آنها حمله به تاسیسات انرژی محسوب میگردد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "41.4K",
+      "views_label": "42K",
       "posted_at": "2026-09-09T08:34:48+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147221",
@@ -456,7 +472,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "41.4K",
+      "views_label": "42K",
       "posted_at": "2026-09-09T08:29:39+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147220",
@@ -2292,34 +2308,6 @@
       "posted_at": "2026-09-07T19:25:22+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147140",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147139",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/FKF1cckJAUtPCvrEDvhdUz7NZYvAf1EHIJitsyRN8VE6idlFJSlSu2K2xwDGVxKifuLkRZo545Eqoc49ZLmPoSTyOLoyCKDmEN3g4SAk_F1iRgeiTdyhFUQAMgLZ_i79FYzHGzdPVDjFbMrSBqkn52UyYzaCp3ckUiaqX6ED8F0x46VghW61EdReQFxfqL1FfFJD5tD1JPbY4-VlLtyHG_j1T88K3wFHTxO0-qIYXcQF7V695Ey_HoDkfis8UETFy0hyQ9WdEneqSKbA4wd5fYVnHLYawYY5EhbuuZ_X_366M-abZdl4zvZZQgVaE4H3IDNMUExb2Ss8l2_ckTXB3A.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/bf7f0b170836be3cfa34280a.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>اکبر اعلمی نماینده‌ی اسبق مجلس با انتشار این ویدیو نوشت:<br><br><b>نه پشت بابک زنجانی روشن شد، نه پشت مهدی جهانگیری و نه پشت مقاماتی که پرونده‌هایشان قطورتر شده است!</b><br><br>این اظهارات <b>اسحاق جهانگیری</b>، معاون اول دولت روحانی و رئیس پیشین ستاد مبارزه با مفاسد اقتصادی، درباره پرونده فساد بابک زنجانی شنیدنی است؛ <br>او می‌گوید:<br>«نه من و نه وزیر نفت هرگز نفهمیدیم پشت بابک زنجانی به کجا گرم است!»<br><br>با این همه روشنگری‌ها، <b>بابک زنجانی امروز چنان ظاهر می‌شود که گویی امپراطوری صاحب‌نفوذ است</b>؛ با محافظانش شق‌ورق راه می‌رود، فخر می‌فروشد و به عالم و آدم رهنمود می‌دهد! <b>واقعاً کی به کیه؟!</b><br><br>البته عدالت اقتضا می‌کرد اسحاق درباره پرونده فساد برادرش مهدی نیز روشنگری کند؛ توضیحی هرچند مختصر درباره قاچاق حرفه‌ای ارز به خارج، تحصیل ده‌ها میلیارد تومان مال نامشروع، و اینکه چگونه ۷۴ ضربه شلاق به ۵۰ میلیون ریال جزای نقدی تقلیل یافت. همچنین می‌بایست توضیح دهد که فرزند یک کارگر معدن کرومیت آبدشت با اتکا به چه رانت‌هایی چنین جهشی کرده و به بانکداری، تأسیس هلدینگ گروه مالی گردشگری و انبوهی از فعالیت‌های اقتصادی و ثروت‌های کلان رسیده است.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅اکبر اعلمی نماینده‌ی اسبق مجلس با انتشار این ویدیو نوشت:\n\nنه پشت بابک زنجانی روشن شد، نه پشت مهدی جهانگیری و نه پشت مقاماتی که پرونده‌هایشان قطورتر شده است!\n\nاین اظهارات اسحاق جهانگیری، معاون اول دولت روحانی و رئیس پیشین ستاد مبارزه با مفاسد اقتصادی، درباره پرونده فساد بابک زنجانی شنیدنی است؛\nاو می‌گوید:\n«نه من و نه وزیر نفت هرگز نفهمیدیم پشت بابک زنجانی به کجا گرم است!»\n\nبا این همه روشنگری‌ها، بابک زنجانی امروز چنان ظاهر می‌شود که گویی امپراطوری صاحب‌نفوذ است؛ با محافظانش شق‌ورق راه می‌رود، فخر می‌فروشد و به عالم و آدم رهنمود می‌دهد! واقعاً کی به کیه؟!\n\nالبته عدالت اقتضا می‌کرد اسحاق درباره پرونده فساد برادرش مهدی نیز روشنگری کند؛ توضیحی هرچند مختصر درباره قاچاق حرفه‌ای ارز به خارج، تحصیل ده‌ها میلیارد تومان مال نامشروع، و اینکه چگونه ۷۴ ضربه شلاق به ۵۰ میلیون ریال جزای نقدی تقلیل یافت. همچنین می‌بایست توضیح دهد که فرزند یک کارگر معدن کرومیت آبدشت با اتکا به چه رانت‌هایی چنین جهشی کرده و به بانکداری، تأسیس هلدینگ گروه مالی گردشگری و انبوهی از فعالیت‌های اقتصادی و ثروت‌های کلان رسیده است.\n\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/sahamnewsorg/147139",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/X9_xm2gqNOp0TSQOyaSa72M6UWjKCfgU_tEkI9xsaM3QPWgNUsuX0Y1qxFt7ZoxjmgbjX0mZvg9iG8lSWoUchBVI9Mr5DXebyDHd918LJNG1dUSlvBufHnrv6DZnkUnTctXbXKTiFASljsgvFpjUGxLd_TnjYpGsxc2ywKuC3nzoNV117EzGr1Zv-1gcmrtLta2XSBZaHxhRQgtjCIS7lZpDzGuOeqdwXs9iUyKYvR-b8IMRLQegSEcGDr8B0-_d-jOYnlPpz4cqCJ12L3bD0G5PuoLH9-XuIFL24DwHu6Ywp_FJwYs6G4Y1eBFmz0wohAz9A0EvfzqmaKT6H1YNvA",
-          "thumbnail_path": "channels/sahamnewsorg/media/41b665c7ecf9595d85b1cfc4.jpg",
-          "thumbnail_sha256": "89be6089cc51f11c5084a23346efa9e0ac5943966e838ed047c951f0d17891e0",
-          "duration_label": "2:47",
-          "aspect_ratio": 1.766666666666656
-        }
-      ],
-      "reactions": [],
-      "views_label": "55.9K",
-      "posted_at": "2026-09-07T19:17:16+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147139",
       "reply": null
     }
   ]

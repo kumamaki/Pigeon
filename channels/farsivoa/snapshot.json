@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T13:11:30.915Z",
+  "fetched_at": "2026-09-09T13:17:16.846Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229986",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "<b>هشدار: حاوی محتوای مربوط به خودکشی<br><br>هیچ‌چیز مهم‌تر از جان انسان نیست. اگر به خودکشی فکر می‌کنید، برای کمک‌گرفتن با این شماره‌های ویژه تماس بگیرید:<br><br>در ایران: اورژانس اجتماعی ۱۲۳، صدای مشاور ۱۴۸۰، یا اورژانس روان‌پزشکی تهران ۴۴۵۰۸۲۰۰<br><br>در آمریکا: مرکز پیشگیری از خودکشی ۱۸۰۰۲۷۳۸۲۵۵، یا خط ملی پیشگیری از بحران و خودکشی ۹۸۸<br><br>در کانادا: شماره‌ ۹۱۱ یا ۱۸۳۳۴۵۶۴۵۶۶<br><br>در بریتانیا: ۱۱۶۱۲</b><br><b>و در افغانستان: ۱۱۹</b><br><br>لیلا مهدوی، مادر دادخواه سیاوش محمودی، از کشته‌شدگان اعتراضات ۱۴۰۱، با انتشار ویدیویی، از خانواده‌های دادخواه خواست به رغم سوگ دشوار، مقاومت کنند و گفت: «ما باید بمانیم و پیروزی ایران را ببینیم. آن روز نزدیک است.»<br><br>براساس خبرهای منتشر شده دانیال کریمی، پدر دادخواه امیرمحمد کریمی، ۱۵ شهریور و آیدا حیدری، دختر ۲۵ ساله و نامزد ابوالفضل سلیمانی الموتی، از جان‌باختگان اعتراضات دی‌ ۱۴۰۴، ۱۲ شهریور به زندگی خود پایان دادند.",
+      "plain_text": "هشدار: حاوی محتوای مربوط به خودکشی\n\nهیچ‌چیز مهم‌تر از جان انسان نیست. اگر به خودکشی فکر می‌کنید، برای کمک‌گرفتن با این شماره‌های ویژه تماس بگیرید:\n\nدر ایران: اورژانس اجتماعی ۱۲۳، صدای مشاور ۱۴۸۰، یا اورژانس روان‌پزشکی تهران ۴۴۵۰۸۲۰۰\n\nدر آمریکا: مرکز پیشگیری از خودکشی ۱۸۰۰۲۷۳۸۲۵۵، یا خط ملی پیشگیری از بحران و خودکشی ۹۸۸\n\nدر کانادا: شماره‌ ۹۱۱ یا ۱۸۳۳۴۵۶۴۵۶۶\n\nدر بریتانیا: ۱۱۶۱۲\nو در افغانستان: ۱۱۹\n\nلیلا مهدوی، مادر دادخواه سیاوش محمودی، از کشته‌شدگان اعتراضات ۱۴۰۱، با انتشار ویدیویی، از خانواده‌های دادخواه خواست به رغم سوگ دشوار، مقاومت کنند و گفت: «ما باید بمانیم و پیروزی ایران را ببینیم. آن روز نزدیک است.»\n\nبراساس خبرهای منتشر شده دانیال کریمی، پدر دادخواه امیرمحمد کریمی، ۱۵ شهریور و آیدا حیدری، دختر ۲۵ ساله و نامزد ابوالفضل سلیمانی الموتی، از جان‌باختگان اعتراضات دی‌ ۱۴۰۴، ۱۲ شهریور به زندگی خود پایان دادند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229986",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/sTavS5CbDaXiOhgXo66I4suPeHSe3YYq4u-b0bkqjArJYkuEpMSMeEDbWe9TKrVwfT0OreYDd4Vb99tceqxuq2Kw0ZxPCoAgFMo0CoyTPmviqpxbCCtbevi4nbSNNBGqAAxqVdcKnwE-YJArqGMLxP0mfXmNL6ioWSNSEWmfh2SEmioI9CG2NngPzz1UP_8vqN039SxlHpc5RrkxtTEZ664LCN7R0d9DW6ARQxCsYT-qlx85eEf-TC5ixWtqJlS_A6Y31L3I1uhwMLZ-7w8eGcuMGoqg0nym5jjx450yJbvvuETCt2uq6IQyl5A3M3GSUgEo2L0S-d605vVE7QCxwg",
+          "thumbnail_path": "channels/farsivoa/media/eddd365a9d6ab7f9e264d2be.jpg",
+          "thumbnail_sha256": "c57fa9df3f33f35d8a262b6bfb49d65d7b91819e59d45abbd012155739a84d7a",
+          "duration_label": "1:44",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "233",
+      "posted_at": "2026-09-09T13:14:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229986",
+      "reply": null
+    },
     {
       "id": "farsivoa/229985",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "290",
+      "views_label": "620",
       "posted_at": "2026-09-09T13:07:16+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229985",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "666",
+      "views_label": "926",
       "posted_at": "2026-09-09T12:57:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229984",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "921",
+      "views_label": "1.06K",
       "posted_at": "2026-09-09T12:48:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229982",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.22K",
+      "views_label": "1.35K",
       "posted_at": "2026-09-09T12:35:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229981",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.45K",
+      "views_label": "1.55K",
       "posted_at": "2026-09-09T12:24:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229980",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.55K",
+      "views_label": "1.62K",
       "posted_at": "2026-09-09T12:18:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229979",
@@ -205,7 +233,7 @@
       "plain_text": "🔺سنتکام ادعای سپاه مبنی بر هدف قرار دادن دو ناو جنگی آمریکا را رد کرد\n\n▪️فرماندهی مرکزی ایالات متحده آمریکا با رد ادعای روز چهارشنبه سپاه پاسداران انقلاب اسلامی درباره هدف قرار دادن دو ناوشکن فعال نیروی دریایی آمریکا در خاورمیانه تصریح کرد این ادعا کاملاً نادرست است.\n\n▪️این بیانیه می‌افزاید هیچ ناو جنگی نیروی دریایی آمریکا هدف قرار نگرفته و تمام تلاشهای سپاه پاسداران برای حمله ناکام مانده‌ است.\n\n▪️سنتکام در ادامه گفته است در همین حال، نیروهای آمریکایی تنها در هفته گذشته با موفقیت ۱۰ نفتکش ایرانی را منهدم کرده‌اند: «این نفتکش‌ها بخشی از یک شبکه چندمیلیارد دلاری موسوم به ناوگان سایه بودند که منابع مالی سپاه پاسداران را تأمین می‌کرد و جمهوری اسلامی قادر به دفاع از آنها نیست».\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195990.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.09K",
+      "views_label": "2.16K",
       "posted_at": "2026-09-09T11:59:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229978",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.08K",
+      "views_label": "2.15K",
       "posted_at": "2026-09-09T11:51:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229977",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.06K",
+      "views_label": "2.13K",
       "posted_at": "2026-09-09T11:43:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229975",
@@ -277,7 +305,7 @@
       "plain_text": "🔺آغاز مطالعات امکان‌سنجی احداث خط لوله نفتی جایگزین تنگه هرمز در عراق\n\n▪️وزارت نفت عراق از آغاز مطالعات امکان‌سنجی احداث خط لوله نفتی جایگزین تنگه هرمز در خاک این کشور به مقصد ترکیه و سوریه خبر داد.\n\n▪️صادرات نفت عراق از زمان اخلال جمهوری اسلامی در تنگه هرمز نسبت به دور مشابه پارسال ۶۷ درصد کاهش یافته، اگرچه طی چند ماه گذشته روند صعودی داشته و هم اکنون به سه میلیون بشکه در روز رسیده که دو سوم دیگر با کمک آمریکا و ناوگان امارات از تنگه هرمز می‌گذرد.\n\n▪️عراق در نظر دارد خط لوله نفتی با ظرفیت انتقال روزانه ۲ میلیون بشکه از منطقه نفتی بصره در خلیج فارس به حدیثه احداث کند که از آنجا نیز خطوط لوله جداگانه‌ای به بندر جیهان ترکیه و بندر بانیاس سوریه احداث خواهد شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195985.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.15K",
+      "views_label": "2.19K",
       "posted_at": "2026-09-09T11:35:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229974",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.1K",
+      "views_label": "2.16K",
       "posted_at": "2026-09-09T11:27:45+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229973",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.26K",
+      "views_label": "2.33K",
       "posted_at": "2026-09-09T11:18:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229972",
@@ -361,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.53K",
+      "views_label": "2.57K",
       "posted_at": "2026-09-09T11:05:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229971",
@@ -417,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.89K",
+      "views_label": "2.92K",
       "posted_at": "2026-09-09T10:32:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229969",
@@ -445,7 +473,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.03K",
+      "views_label": "3.06K",
       "posted_at": "2026-09-09T10:21:43+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229968",
@@ -461,7 +489,7 @@
       "plain_text": "🔺ژاپن پس از مخالفت با طرح جمهوری اسلامی درباره تنگه هرمز با عمان گفت‌وگو کرد\n\n▪️ژاپن و عمان نشست گفت‌وگوی حقوق بین‌الملل خود را با محوریت تنگه هرمز به‌صورت ویدئوکنفرانس برگزار کردند. این گفت‌وگو پس از آن انجام شد که ژاپن به جمهوری اسلامی اعلام کرد تعیین وضعیت تنگه هرمز به صورت دوجانبه بین ایران و عمان را قبول ندارد.\n\n▪️بر پایه اعلام وزارت امور خارجه ژاپن، دو طرف در روز سه‌شنبه دیدگاه‌های خود را درباره مسائل حقوق بین‌الملل مربوط به وضعیت پیرامون تنگه هرمز رد و بدل کردند.\n\n▪️هیئت ژاپن را کازوهیکو ناکامورا، مشاور حقوقی و مدیرکل اداره امور حقوقی بین‌المللی وزارت امور خارجه، رهبری کرد. از سوی عمان، ثانی حارث المحروقی، رئیس دفتر فلات قاره و امور دریایی، شرکت کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195984.html",
       "media": [],
       "reactions": [],
-      "views_label": "3.13K",
+      "views_label": "3.16K",
       "posted_at": "2026-09-09T10:13:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229967",
@@ -489,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.32K",
+      "views_label": "3.35K",
       "posted_at": "2026-09-09T09:56:59+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229966",
@@ -517,7 +545,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.44K",
+      "views_label": "3.48K",
       "posted_at": "2026-09-09T09:46:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229965",
@@ -2493,34 +2521,6 @@
       "posted_at": "2026-09-08T16:56:30+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229884",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229883",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "یک فایل صوتی از مجید آدینه، معترض اعدام شده، در شبکه‌های اجتماعی منتشر شده است. او در این پیام صوتی پیش از اعدام در زندان کرج بر بی‌گناهی خود و ساختگی بودن مدارک علیه‌ او تاکید می‌کند، حکم صادر شده را «ناحق» می‌خواند و می‌گوید: «ولی سرم بالاست، من به وطنم خیانت نکردم.»<br><br>جمهوری اسلامی مجید آدینه، از حامیان کودکان بی‌سرپرست و یکی دیگر از بازداشتی‌های اعتراضات دی‌ماه سال گذشته، را بامداد اول شهریور ۱۴۰۵ اعدام کرد.",
-      "plain_text": "یک فایل صوتی از مجید آدینه، معترض اعدام شده، در شبکه‌های اجتماعی منتشر شده است. او در این پیام صوتی پیش از اعدام در زندان کرج بر بی‌گناهی خود و ساختگی بودن مدارک علیه‌ او تاکید می‌کند، حکم صادر شده را «ناحق» می‌خواند و می‌گوید: «ولی سرم بالاست، من به وطنم خیانت نکردم.»\n\nجمهوری اسلامی مجید آدینه، از حامیان کودکان بی‌سرپرست و یکی دیگر از بازداشتی‌های اعتراضات دی‌ماه سال گذشته، را بامداد اول شهریور ۱۴۰۵ اعدام کرد.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229883",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Eqepi314I6VoCOn0Rv85V6GhaELzPheL7LNFM8ojV2wELjhVG1XncxRPCIedQPgZzdiE3NybyYBrZ4dNBxWbYkgAUhz4AczNplMdJO4y6ra-kwe5gu0Vrxj59ma8WI6jHvqwcuDBaLIi9SSA8KAUv3wJeb4ZMTNP_TPc9txXo1eLpPtIRb-JHnXsJMIrg5_fsdsTvFUSH46ZUaQL0tSIuDyjW0v4JMi-njy2yaMtKx-xSbom1vhuoAZKAknyJIvFsg4_QkbUVxU4EddEX6AsXQNW42ZvxDPHHPD6Il5dNoYl8rza3ePiegg_xiGm0cYXTd34QImk9tt5x8nKlg8dug",
-          "thumbnail_path": "channels/farsivoa/media/108a5c3331b13c8283209343.jpg",
-          "thumbnail_sha256": "621069bab1d8510bd2079db865a58bf448f4df19c4d18d726779e1c848fa6820",
-          "duration_label": "1:42",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.24K",
-      "posted_at": "2026-09-08T16:52:14+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229883",
       "reply": null
     }
   ]
