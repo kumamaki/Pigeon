@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T14:07:52.587Z",
+  "fetched_at": "2026-09-09T14:11:35.992Z",
   "channel": {
     "username": "mamlekate",
     "title": "مملکته",
@@ -12,6 +12,22 @@
   },
   "posts": [
     {
+      "id": "mamlekate/104418",
+      "author_name": "مملکته",
+      "author_photo_url": "https://cdn4.telesco.pe/file/LL1OHeH-0XwNsOk_auN3MpVZqSNrlNjDyK6RUCgcz5Kd6Yo_0cPXvkjuZnf4TDJkn5PFIKlCJfpZh51jiuwEXZku2wZPmRCEARQROwqYk_qu5JZahRXwLF3doOuNg6StXBxDmXBHx1nwTtL6_LU0PGSrR5xEJtZzDz8qSykzXr21e6bAeObK1YrdL7EMeNmwLc40T3aolJY7MYau8oAntw-j2I_3_kbObdjVO-Tn96LNIgFKKvAWpFXeR0zMWMEAO4aFMUtMmbbdlbx9Rd-aeIj4pAEILeAQRHcQh9LSBJXfy3bTuNK99T3LSuRjA2Jx_ZMNFmelVJB99auugmc_Ww.jpg",
+      "author_photo_path": "channels/mamlekate/media/8642febcf5687d03f36824f4.jpg",
+      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
+      "body_html": "<tg-emoji emoji-id=\"5247176827016847212\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F939E.png')\"><b>📞</b></i></tg-emoji> صبح از خونه اومدنی بیرون عوارضی تهران ساوه به سمت تهران رو کنارش خاکریز های بلند درست کردن سنگر گذاشتن توپ و تانک و نفربر آورده بودن یه ۵۰ ۶۰ تا بسیجی یا سپاهی با یونیفرم نظامی بودن جریان چیه باز مشخص نیست<br><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
+      "plain_text": "📞 صبح از خونه اومدنی بیرون عوارضی تهران ساوه به سمت تهران رو کنارش خاکریز های بلند درست کردن سنگر گذاشتن توپ و تانک و نفربر آورده بودن یه ۵۰ ۶۰ تا بسیجی یا سپاهی با یونیفرم نظامی بودن جریان چیه باز مشخص نیست\n\n@mamlekate",
+      "media": [],
+      "reactions": [],
+      "views_label": "3.78K",
+      "posted_at": "2026-09-09T14:08:47+00:00",
+      "edited": false,
+      "permalink": "https://t.me/mamlekate/104418",
+      "reply": null
+    },
+    {
       "id": "mamlekate/104417",
       "author_name": "مملکته",
       "author_photo_url": "https://cdn4.telesco.pe/file/LL1OHeH-0XwNsOk_auN3MpVZqSNrlNjDyK6RUCgcz5Kd6Yo_0cPXvkjuZnf4TDJkn5PFIKlCJfpZh51jiuwEXZku2wZPmRCEARQROwqYk_qu5JZahRXwLF3doOuNg6StXBxDmXBHx1nwTtL6_LU0PGSrR5xEJtZzDz8qSykzXr21e6bAeObK1YrdL7EMeNmwLc40T3aolJY7MYau8oAntw-j2I_3_kbObdjVO-Tn96LNIgFKKvAWpFXeR0zMWMEAO4aFMUtMmbbdlbx9Rd-aeIj4pAEILeAQRHcQh9LSBJXfy3bTuNK99T3LSuRjA2Jx_ZMNFmelVJB99auugmc_Ww.jpg",
@@ -21,7 +37,7 @@
       "plain_text": "📝 دلار یک رکورد تاریخی دیگر به جا گذاشت و به ۲۳۱ هزار تومان رسید\n\nقیمت دلار در بازار آزاد ایران روز چهارشنبه به ۲۳۱ هزار تومان رسید که این رقم ۲۵ درصد بالاتر از قیمت یک ماه پیش و ۱۲۵ درصد بالاتر از قیمت دلار در سال گذشته است.\n\n\n📝 نفت به ۱۰۰ دلار نزدیک شد؛ بورس‌های آسیا بی‌رمق ماندند\n\nقیمت نفت برنت روز چهارشنبه پس از آنکه آمریکا پنج نفتکش ایرانی را زد و جمهوری اسلامی پایگاهی آمریکایی در اردن را هدف قرار داد، به ۱۰۰ دلار در هر بشکه نزدیک شد.\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "61.9K",
+      "views_label": "64.1K",
       "posted_at": "2026-09-09T09:08:04+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104417",
@@ -37,7 +53,7 @@
       "plain_text": "✈️ تحریم‌های جدید آمریکا علیه ایرلاین‌ها و سازمان‌های هوانوردی یعنی چی؟\nمیعاد ملکی miadmaleki افسر سابق OFAC کامل توضیح داده :\n\nمحاصره دریایی حالا به لطف وزارت خزانه‌داری آمریکا یه نسخه هوایی هم پیدا کرده. البته از نظر حقوقی این «محاصره» حساب نمی‌شه و هیچ هواپیمایی هم وسط راه متوقف نمی‌شه، ولی از طریق سیستم مالی عملاً همون کار رو می‌کنه: پرواز به ایران، از ایران، یا به نفع ایران رو خیلی پرریسک می‌کنه.\n\nاز نظر اقتصادی، ایرلاین‌های ایرانی یکی از منابع درآمد ارزی کشورن؛ از فروش بلیت به درهم و لیر گرفته تا حمل بار و عوارض عبور از حریم هوایی.\n\nحالا آمریکا هر ۲۷ شرکت هواپیمایی باقی‌مونده ایران رو تحریم کرده، به‌اضافه شبکه‌ها و واسطه‌هایی که به ماهان‌ایر در امارات، ترکیه، بریتانیا، مالزی و قزاقستان کمک می‌کردن؛ اون هم تحت تحریم‌های سنگین مرتبط با تروریسم.\n\nیعنی از این به بعد هر بانک، شرکت اجاره‌دهنده هواپیما، شرکت خدمات فرودگاهی یا تأمین‌کننده سوختی که با این ایرلاین‌ها کار کنه، خودش با خطر تحریم‌های ثانویه آمریکا روبه‌رو می‌شه. تازه برای صنعت هوانوردی هم بازار ایران از اول کوچک و پرریسک بوده.\n\nوزارت خزانه‌داری چندتا از معافیت‌های قدیمی تحریمی رو هم که بی‌سروصدا باعث می‌شدن صنعت هوانوردی ایران هنوز به دنیا وصل بمونه، لغو کرده.\n\nشرکت‌های آمریکایی دیگه نمی‌تونن عوارضی رو که ایرلاین‌ها بابت عبور از آسمان ایران بدهکارن به ایران پرداخت کنن.\n\nمعافیت‌هایی هم که به هواپیماهای ایرانی اجازه می‌داد برای مسائل ایمنی، قطعه، سوخت یا تعمیرات اضطراری در خارج از کشور بگیرن، برداشته شده.\n\nاز طرف دیگه، ایرلاین‌های خارجی هم دیگه نمی‌تونن بدون اجازه خاص واشنگتن، با هواپیماهای بوئینگ یا حتی ایرباس‌هایی که قطعات آمریکایی دارن وارد ایران بشن.\n\nاین عملاً شامل تقریباً تمام هواپیماهای مسافربری مدرن می‌شه. در نتیجه، مسیرهای هوایی تهران به دبی، دوحه و استانبول که مهم‌ترین دروازه‌های ایران برای تجارت منطقه‌ای و دسترسی بانکی هستن، حالا در معرض قطع شدن قرار گرفتن.\n\nشرکت‌ها تا ۲۳ سپتامبر فرصت دارن فعالیت‌های مرتبطشون رو جمع کنن و کنار بکشن.\n\nSam1Kia\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "77.9K",
+      "views_label": "78.9K",
       "posted_at": "2026-09-09T07:13:45+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104416",
@@ -65,7 +81,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "70.8K",
+      "views_label": "71.4K",
       "posted_at": "2026-09-09T07:02:30+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104415",
@@ -81,7 +97,7 @@
       "plain_text": "📝 آمریکا و ۳ کشور اروپایی پیش‌نویس قطعنامه‌ ارجاع پرونده ایران به شورای امنیت را آماده کردند\n\nخبرگزاری آسوشیتدپرس گزارش داد که پیش نویس قطعنامه آمریکا، بریتانیا، فرانسه و آلمان برای ارجاع پرونده ایران به شورای امنیت سازمان ملل به دلیل عدم پایبندی این کشور به تعهدات منع اشاعه هسته ای آماده شده اما هنوز به آژانس بین المللی انرژی اتمی ارائه نشده است.\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "71.4K",
+      "views_label": "71.9K",
       "posted_at": "2026-09-09T06:42:06+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104414",
@@ -97,7 +113,7 @@
       "plain_text": "📝 سلام توو رشت جدیدا ادارات و برخی بانکها بدون حجاب کارتو انجام نمیدن.\n\nاداره مالیات و دارایی حتی اجازه ورود نمیدن. در صورتیکه که ماههای قبل بدون مشکل میومدم امروز علاوه بر شال گفتن باید مانتو بلند هم بپوشین\n\nدوباره شروع کردن\n\n@mamlekate",
       "media": [],
       "reactions": [],
-      "views_label": "77.6K",
+      "views_label": "77.9K",
       "posted_at": "2026-09-09T05:52:38+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104413",
@@ -136,7 +152,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "97.9K",
+      "views_label": "98K",
       "posted_at": "2026-09-08T22:50:44+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104411",
@@ -169,7 +185,7 @@
           "count": "1"
         }
       ],
-      "views_label": "98.2K",
+      "views_label": "98.4K",
       "posted_at": "2026-09-08T22:47:48+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104410",
@@ -197,7 +213,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "89.1K",
+      "views_label": "89.2K",
       "posted_at": "2026-09-08T22:21:29+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104409",
@@ -225,7 +241,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "88.3K",
+      "views_label": "88.4K",
       "posted_at": "2026-09-08T22:15:09+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104408",
@@ -280,7 +296,7 @@
           "count": "2"
         }
       ],
-      "views_label": "79.9K",
+      "views_label": "80.1K",
       "posted_at": "2026-09-08T22:04:45+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104405",
@@ -308,7 +324,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "80.6K",
+      "views_label": "80.7K",
       "posted_at": "2026-09-08T22:04:34+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104404",
@@ -358,7 +374,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "81.9K",
+      "views_label": "82K",
       "posted_at": "2026-09-08T21:43:23+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104401",
@@ -386,7 +402,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "82.3K",
+      "views_label": "82.4K",
       "posted_at": "2026-09-08T21:41:58+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104400",
@@ -414,7 +430,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "75.9K",
+      "views_label": "76K",
       "posted_at": "2026-09-08T21:39:43+00:00",
       "edited": true,
       "permalink": "https://t.me/mamlekate/104399",
@@ -2787,56 +2803,6 @@
       "posted_at": "2026-09-01T22:59:16+00:00",
       "edited": false,
       "permalink": "https://t.me/mamlekate/104292",
-      "reply": null
-    },
-    {
-      "id": "mamlekate/104289",
-      "author_name": "مملکته",
-      "author_photo_url": "https://cdn4.telesco.pe/file/uXgWxhmOIKtUpSzdzbEnYh2amd1wumK_Ax7hRTNdzzNZO16Li8jr2Q1ull77ov0ELbR9xkVZ8QA3MSvwQ4eLZs6p3gUb--o9upWeUp7pwuodP3zrVehPjEBtgcjw1wWl4FmGmWas6w12tD1f_p_Cfm_PJj7mtkWnZmTQ8qe7qCt0-qEdygYJEyCHDTrTSVzKXIDnyT4GR2m879-bIty3f49RupOlJnnR9PmdsTO-UVZR3jFqR1fYFjfTA3gH5nGBGeDRxW0YoOVA_fWfVmfB9ZjABJ-PowEI3puCa3RYSDtNSy8FRbPdyxZd3h4XYB8HmZN8w2DhZx6fljRWWaFfDQ.jpg",
-      "author_photo_path": "channels/mamlekate/media/d0aa31d015a12c897a84ff74.jpg",
-      "author_photo_sha256": "4704d8c725f61e72c13a22534baf97aeb1dcb92719e7e97f71ac5e3828607310",
-      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">ویدئویی از محل اصابت موشک به یک دکل مخابراتی در مجاورت با یک منزل مسکونی در سیریک<br><br>در این ویدئو، بخش‌هایی از منزل مسکونی قابل مشاهده است که تخریب شده و شهروندان جهت امدادرسانی در محل حضور دارند. همچنین اسکلت دکل مخابراتی نیز مشاهده می‌شود. <br><br> شامگاه سه‌شنبه دهم شهریور ماه ۱۴۰۵، در جریان حمله هوایی آمریکا به بندرکوهستک، یک دکل مخابراتی که در مجاورت یک منزل مسکونی قرار داشته، هدف حمله قرار گرفته است. در زمان حمله، مراسم عروسی در این منزل در حال برگزاری بوده و در پی اصابت، تاکنون دست‌کم چهار نفر کشته شدند که یکی از آنها کودک است و ده‌ها نفر دیگر نیز مجروح شده‌اند.<br><br>این منزل مسکونی متعلق به علی و عباس ملاحی بوده و شماری از شهروندان برای برگزاری مراسم عروسی در آن حضور داشته‌اند.<br><br><a href=\"https://x.com/balochistanhrdn/status/2094893268098040214\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">balochistanhrdn</a><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a></div>",
-      "plain_text": "ویدئویی از محل اصابت موشک به یک دکل مخابراتی در مجاورت با یک منزل مسکونی در سیریک\n\nدر این ویدئو، بخش‌هایی از منزل مسکونی قابل مشاهده است که تخریب شده و شهروندان جهت امدادرسانی در محل حضور دارند. همچنین اسکلت دکل مخابراتی نیز مشاهده می‌شود.\n\nشامگاه سه‌شنبه دهم شهریور ماه ۱۴۰۵، در جریان حمله هوایی آمریکا به بندرکوهستک، یک دکل مخابراتی که در مجاورت یک منزل مسکونی قرار داشته، هدف حمله قرار گرفته است. در زمان حمله، مراسم عروسی در این منزل در حال برگزاری بوده و در پی اصابت، تاکنون دست‌کم چهار نفر کشته شدند که یکی از آنها کودک است و ده‌ها نفر دیگر نیز مجروح شده‌اند.\n\nاین منزل مسکونی متعلق به علی و عباس ملاحی بوده و شماری از شهروندان برای برگزاری مراسم عروسی در آن حضور داشته‌اند.\n\nbalochistanhrdn\n@mamlekate",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/mamlekate/104290?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/RVyAeR83L4IWh8DHHcoJZStonwwFXqYJAvPSsi0uOrU7rDzzLJa9jVb_GDZuzQyY59147DzeatKDjo3zBbyR41M0fTHXheViUdQxrSfnvkgeNT9oilRjYvzZa8noCF6xaygCgvReDNB1rlPwUOIZOwypibsoHF-1ha_xMv6WVbBas6Lc0d-Xz6z3kjZhNzqNACiyDDbzuzdIVqtQ8zZBXruyii5PLx-M2fCMY4uW_SXko4wE_-gXOaPrwlsmeou2I6ZttZ12c-WzBFsoHV03Fb_XujBvdhmAnHVZnK1tJOTI54NylfdVNLv2U3OjeCvCx0yCJ8FruW7wZL_-YEtzfg.jpg",
-          "thumbnail_path": "channels/mamlekate/media/b9bc7ed04fd010c9c5ffe69a.jpg",
-          "thumbnail_sha256": "65ceee6e4d67d92560206554310f40156f249348944c5404926119238311618d",
-          "duration_label": null,
-          "aspect_ratio": 0.75
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/mamlekate/104291?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/pvSxadoOKq6LKFUHP4r3dzxMUEUXmT30HWsPz_8rFJj0dakta32L_Qe5k8AatQcRinnZOpXgyY70S_DT1jkxG8eOg9o4qtAccPMNOiBGg9mkhy3ZTMmcfhAOd4AbccO0CA8A7TBfCpdZvYuplDfEpz9Oh9LqsuOawxRIv_nUlMeZ6rtW_368dwqaz-IAGiWjDSFGEs2_VkcqFIB84d1czpyDN5aCijNWkUhEPJ_8J_1I2V63ki3f3IiHTRIGFW3_Yup3PimRl5FrufGodNSbXI-cHT2GLDybikgsilTrHU7f8TEnNmsgHwsyjHf_Y4daOmrZXCjI4WJdGx2Aaw-hOQ.jpg",
-          "thumbnail_path": "channels/mamlekate/media/896e4917567b712ec6c3b016.jpg",
-          "thumbnail_sha256": "5ae92bd862b4066ba24388e0f4a69870faa912768b7e7643d5db90dc6945b491",
-          "duration_label": null,
-          "aspect_ratio": 0.75
-        },
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/mamlekate/104289?single",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/EK8QiymWcR-KcGgl4judAJ0fWPISQqVU1vv-QDZnpAQyS8-R6refMpeHs91r2kpBAyAImo3nuua4SgjRDLBPcoQs4wExq52sgqIZmTnQbkXVuBf28aie6yLRtpOXXYBZVvwub6afAqiDTgyOWgZFcv19mxNX3kGXgwFevftPpzEvlED52rVTQRwUUF16LmiO_whTAJbxcSZ3V2YoL1_3-dU9RwFslNLKdBekpyvn6EDofHZjFRVM0M0Q6yQSq3Jk5tTNeyPDgek8i1Bk2bHnOlSR4FCEC8U7yGZU8y4UiBfVpIdQed6n8iYyjcHl_ZpvLm8QCwVFq8L7-pOJWYQ3sA",
-          "thumbnail_path": "channels/mamlekate/media/b0480f791ce90436d1a0ed85.jpg",
-          "thumbnail_sha256": "d7fa526546c47dd69405be87ea82da0d359c2e3df7fb4d8ab6c58e86207bfba5",
-          "duration_label": "0:05",
-          "aspect_ratio": null
-        }
-      ],
-      "reactions": [],
-      "views_label": "138K",
-      "posted_at": "2026-09-01T22:57:25+00:00",
-      "edited": false,
-      "permalink": "https://t.me/mamlekate/104289",
       "reply": null
     }
   ]
