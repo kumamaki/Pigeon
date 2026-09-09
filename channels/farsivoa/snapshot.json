@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T14:36:31.480Z",
+  "fetched_at": "2026-09-09T14:41:36.340Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229991",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "ویدیویی از بی‌قراری مادر حامد دلدار، از کشته‌شدگان دی ماه ۱۴۰۴، در شبکه‌های اجتماعی منتشر شده که در شب بارانی دلتنگ پسرش است.<br><br>حامد دلدار، ۳۲ ساله، ۱۸ دی ۱۴۰۴، با شلیک گلوله ماموران حکومتی در رشت کشته شد.",
+      "plain_text": "ویدیویی از بی‌قراری مادر حامد دلدار، از کشته‌شدگان دی ماه ۱۴۰۴، در شبکه‌های اجتماعی منتشر شده که در شب بارانی دلتنگ پسرش است.\n\nحامد دلدار، ۳۲ ساله، ۱۸ دی ۱۴۰۴، با شلیک گلوله ماموران حکومتی در رشت کشته شد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229991",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/P_93-x3IV68KjTp9tmxqax_varhCv_HoQ6AUlX3aLg2lSyQymzii9giNJJRP6sHICUWZEXQ9L9e-zJCWCKKHFRIwBY1JaZfrpww-8xy7N9aP0tRRZzfxE4ej0Gmrpufz1PQN-fZxFbahdO9YqLYmhnUShkI3DKySyUSIelbDmzCnK6zRjtP0bbTjdTnKRFv8Cj8_SEDlrRVJOElbLDcWhcU9V7ZikLw2kCbOjVeAq4_zR3JQUD6-tJIbdow4Wqm8bD5EshGI_837TfplGKaJuPcL2Mo6-6GULpEO8KyJmuZl2lx5ljxCfUSAk71WkEfszgTFqMgG-ySnwvxbYHoVcA",
+          "thumbnail_path": "channels/farsivoa/media/4d3113084243dbd2df15fed7.jpg",
+          "thumbnail_sha256": "808396c30d015e250676449ba401e77e651db8ad35d6baddd224e9b9c04428fd",
+          "duration_label": "1:00",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "229",
+      "posted_at": "2026-09-09T14:37:12+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229991",
+      "reply": null
+    },
     {
       "id": "farsivoa/229990",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "587",
+      "views_label": "778",
       "posted_at": "2026-09-09T14:23:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229990",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.37K",
+      "views_label": "1.53K",
       "posted_at": "2026-09-09T14:02:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229989",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.04K",
+      "views_label": "2.17K",
       "posted_at": "2026-09-09T13:40:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229988",
@@ -105,7 +133,7 @@
       "plain_text": "🔺گزارش سی‌ان‌ان از افزایش ساخت‌وساز در تاسیسات هسته‌ای مشکوک «کوه کلنگ»\n\n▪️«مرکز مطالعات راهبردی و بین‌المللی» گزارش داد که بررسی تصاویر ماهواره‌ای شش سال گذشته حکایت از افزایش آشکار ساخت‌وساز در سایت مشکوک هسته‌ای «کوه کلنگ» در نزدیکی نطنز دارد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/increase-in-construction-pickaxe-mountain-nuclear-site/8195992.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.34K",
+      "views_label": "2.43K",
       "posted_at": "2026-09-09T13:25:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229987",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.38K",
+      "views_label": "2.45K",
       "posted_at": "2026-09-09T13:14:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229986",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.26K",
+      "views_label": "2.3K",
       "posted_at": "2026-09-09T13:07:16+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229985",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.31K",
+      "views_label": "2.37K",
       "posted_at": "2026-09-09T12:57:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229984",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.27K",
+      "views_label": "2.34K",
       "posted_at": "2026-09-09T12:48:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229982",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.37K",
+      "views_label": "2.4K",
       "posted_at": "2026-09-09T12:35:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229981",
@@ -289,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.41K",
+      "views_label": "2.44K",
       "posted_at": "2026-09-09T12:24:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229980",
@@ -317,7 +345,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.48K",
+      "views_label": "2.51K",
       "posted_at": "2026-09-09T12:18:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229979",
@@ -333,7 +361,7 @@
       "plain_text": "🔺سنتکام ادعای سپاه مبنی بر هدف قرار دادن دو ناو جنگی آمریکا را رد کرد\n\n▪️فرماندهی مرکزی ایالات متحده آمریکا با رد ادعای روز چهارشنبه سپاه پاسداران انقلاب اسلامی درباره هدف قرار دادن دو ناوشکن فعال نیروی دریایی آمریکا در خاورمیانه تصریح کرد این ادعا کاملاً نادرست است.\n\n▪️این بیانیه می‌افزاید هیچ ناو جنگی نیروی دریایی آمریکا هدف قرار نگرفته و تمام تلاشهای سپاه پاسداران برای حمله ناکام مانده‌ است.\n\n▪️سنتکام در ادامه گفته است در همین حال، نیروهای آمریکایی تنها در هفته گذشته با موفقیت ۱۰ نفتکش ایرانی را منهدم کرده‌اند: «این نفتکش‌ها بخشی از یک شبکه چندمیلیارد دلاری موسوم به ناوگان سایه بودند که منابع مالی سپاه پاسداران را تأمین می‌کرد و جمهوری اسلامی قادر به دفاع از آنها نیست».\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195990.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.85K",
+      "views_label": "2.88K",
       "posted_at": "2026-09-09T11:59:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229978",
@@ -361,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.78K",
+      "views_label": "2.81K",
       "posted_at": "2026-09-09T11:51:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229977",
@@ -389,7 +417,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.71K",
+      "views_label": "2.74K",
       "posted_at": "2026-09-09T11:43:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229975",
@@ -405,7 +433,7 @@
       "plain_text": "🔺آغاز مطالعات امکان‌سنجی احداث خط لوله نفتی جایگزین تنگه هرمز در عراق\n\n▪️وزارت نفت عراق از آغاز مطالعات امکان‌سنجی احداث خط لوله نفتی جایگزین تنگه هرمز در خاک این کشور به مقصد ترکیه و سوریه خبر داد.\n\n▪️صادرات نفت عراق از زمان اخلال جمهوری اسلامی در تنگه هرمز نسبت به دور مشابه پارسال ۶۷ درصد کاهش یافته، اگرچه طی چند ماه گذشته روند صعودی داشته و هم اکنون به سه میلیون بشکه در روز رسیده که دو سوم دیگر با کمک آمریکا و ناوگان امارات از تنگه هرمز می‌گذرد.\n\n▪️عراق در نظر دارد خط لوله نفتی با ظرفیت انتقال روزانه ۲ میلیون بشکه از منطقه نفتی بصره در خلیج فارس به حدیثه احداث کند که از آنجا نیز خطوط لوله جداگانه‌ای به بندر جیهان ترکیه و بندر بانیاس سوریه احداث خواهد شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195985.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.78K",
+      "views_label": "2.81K",
       "posted_at": "2026-09-09T11:35:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229974",
@@ -2493,34 +2521,6 @@
       "posted_at": "2026-09-08T17:50:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229889",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229888",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "هاشمیان: پیشروی نیروهای دولت قانونی یمن در تعز، البیضا، مآرب و جوف می‌تواند موازنه را علیه حوثی‌ها تغییر دهد",
-      "plain_text": "هاشمیان: پیشروی نیروهای دولت قانونی یمن در تعز، البیضا، مآرب و جوف می‌تواند موازنه را علیه حوثی‌ها تغییر دهد",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229888",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/QgvpNBCl_y8Q9cGmR6TgBY9UEL6FoXBV-P1YWyTrUtWhRt8-vTgATgLMkA6BihllFVcCrv7uyEjYD9XZnhvHbkE_iRX0wCsdsy_B584zyVNmbGjclZrSAjaMg1HZ_sYH75PSyr_1paL0bltJuBsF83y9FZ3TwThF68Mu46wsLtwNg3LCaqRq-sJ6cw_HP5ZBUEHVSrO6M4ShnMCNVqXaAOxag41eeNpkV7FkwIMEtX9Pqc25elrG6VPM7nBAypZ4Ys07Vzx5l_0x6yyO27W3GUiBql9WIijQVmiaSnDmJXyHSWg2EMdUnBCu8qs5CyJZ3fUovNIrdDDrCVU2pQTapw",
-          "thumbnail_path": "channels/farsivoa/media/4301dae7a9778c713177bf88.jpg",
-          "thumbnail_sha256": "0fe27a0a30020b48878566dcfa8b3d52eb6f1ac99b7fe4249edf25cf4220a4ae",
-          "duration_label": "5:04",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.23K",
-      "posted_at": "2026-09-08T17:37:42+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229888",
       "reply": null
     }
   ]

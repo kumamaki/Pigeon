@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T14:36:30.437Z",
+  "fetched_at": "2026-09-09T14:41:35.373Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93525",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "بنیامین نتانیاهو، نخست‌وزیر اسراییل، روز چهارشنبه ۱۸ شهریور ۱۴۰۵، در جریان بازدید از کوه هرمون در خاک سوریه گفت جمهوری اسلامی به شکست نزدیک شده است. او همچنین پیش‌بینی کرد که «کل محور» جمهوری اسلامی در نهایت فرو خواهد پاشید.<br>نخست‌وزیر اسراییل گفت: «ماموریت اصلی، شکست رژیم تروریستی در ایران است. ما بسیار به آن نزدیک هستیم. می‌دانیم که کل این محور در نهایت فرو خواهد پاشید.»<br>او افزود: «ما متعهد به انجام این کار هستیم و آن را انجام خواهیم داد.»<br><br><br>بیشتر بخوانید: <a href=\"https://iranwire.com/fa/news-1/157388\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157388</a><br><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "بنیامین نتانیاهو، نخست‌وزیر اسراییل، روز چهارشنبه ۱۸ شهریور ۱۴۰۵، در جریان بازدید از کوه هرمون در خاک سوریه گفت جمهوری اسلامی به شکست نزدیک شده است. او همچنین پیش‌بینی کرد که «کل محور» جمهوری اسلامی در نهایت فرو خواهد پاشید.\nنخست‌وزیر اسراییل گفت: «ماموریت اصلی، شکست رژیم تروریستی در ایران است. ما بسیار به آن نزدیک هستیم. می‌دانیم که کل این محور در نهایت فرو خواهد پاشید.»\nاو افزود: «ما متعهد به انجام این کار هستیم و آن را انجام خواهیم داد.»\n\n\nبیشتر بخوانید: https://iranwire.com/fa/news-1/157388\n\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93525",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/dwzY_nYUs0RNe-75du3Np8er7sQOqdSRDJnpb3lVQ_pik2I4HPB1oW5v89Zvw4vycTjqiPcz63F-THLiFR2m7F-7HTUrD__GuDMyoeOaE8zwUFdp623uU-Gqnk52eX5zQv4jXeJhwEM4AX6jTG86o5NjerEz63usaM3j1krUTZusS6DLh3AihCW8dyXUJTN4R6KCowaiGHrmjPGynTBNmMTDjiSS1-iuDKUEt0yLc-CmSwdkdvFapnzOG3o-BiTYtz4J7h1ANMyW6bfex3q3jWaOKN2_HcznNqTz4xbRnswFCqjha_vCP1zLr9MbySSjkA1_Z8n2YiFZdlSBAJUJjA.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/a7ed7421e3fd750c6fd6008d.jpg",
+          "thumbnail_sha256": "ae6584760141e7ebed01fb3a3b500fa61838b4c170300730856206adcb803e9c",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-09T14:41:21+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93525",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93524",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "94",
+      "views_label": "125",
       "posted_at": "2026-09-09T14:30:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93524",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "93",
+      "views_label": "127",
       "posted_at": "2026-09-09T14:29:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93523",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "611",
+      "views_label": "633",
       "posted_at": "2026-09-09T13:02:50+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93522",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "713",
+      "views_label": "729",
       "posted_at": "2026-09-09T12:42:53+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93521",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "715",
+      "views_label": "731",
       "posted_at": "2026-09-09T12:31:56+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93520",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "790",
+      "views_label": "803",
       "posted_at": "2026-09-09T12:01:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93519",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "834",
+      "views_label": "849",
       "posted_at": "2026-09-09T11:38:33+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93518",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "859",
+      "views_label": "873",
       "posted_at": "2026-09-09T11:25:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93517",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "877",
+      "views_label": "889",
       "posted_at": "2026-09-09T10:58:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93516",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "848",
+      "views_label": "859",
       "posted_at": "2026-09-09T10:47:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93515",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "914",
+      "views_label": "921",
       "posted_at": "2026-09-09T10:37:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93514",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "868",
+      "views_label": "875",
       "posted_at": "2026-09-09T10:36:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93513",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "830",
+      "views_label": "838",
       "posted_at": "2026-09-09T10:34:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93512",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "961",
+      "views_label": "968",
       "posted_at": "2026-09-09T09:48:46+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93511",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "967",
+      "views_label": "973",
       "posted_at": "2026-09-09T09:35:46+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93510",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1K",
+      "views_label": "1.01K",
       "posted_at": "2026-09-09T09:12:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93509",
@@ -537,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.1K",
+      "views_label": "1.11K",
       "posted_at": "2026-09-09T08:35:51+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93506",
@@ -2781,34 +2809,6 @@
       "posted_at": "2026-09-06T18:35:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93424",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93423",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "وضعیت جسمی ترانه رحیمی، زندانی محکوم به اعدام در اصفهان، وخیم گزارش شده و او با مشکلات جدی حرکتی روبه‌رو است؛ به‌طوری که بخش زیادی از توان راه رفتن خود را از دست داده است. <br>مهدی محمودیان، زندانی سیاسی سابق، روز یکشنبه ۱۵ شهریور ۱۴۰۵، با انتشار این خبر نوشت با وجود تاکید پزشک بر ضرورت اعزام فوری او به بیمارستان و انجام عمل جراحی، با انتقال این زندانی به مراکز درمانی مخالفت شده است.<br>بر اساس این گزارش، رییس بخش بهیاری زندان در پاسخ به درخواست اعزام ترانه رحیمی گفته است: «اگر قرار است اعدام شود، با پای فلج اعدام شود.»<br><br><br>بیشتر بخوانید: <a href=\"https://iranwire.com/fa/news-1/157238\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157238</a><br><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "وضعیت جسمی ترانه رحیمی، زندانی محکوم به اعدام در اصفهان، وخیم گزارش شده و او با مشکلات جدی حرکتی روبه‌رو است؛ به‌طوری که بخش زیادی از توان راه رفتن خود را از دست داده است.\nمهدی محمودیان، زندانی سیاسی سابق، روز یکشنبه ۱۵ شهریور ۱۴۰۵، با انتشار این خبر نوشت با وجود تاکید پزشک بر ضرورت اعزام فوری او به بیمارستان و انجام عمل جراحی، با انتقال این زندانی به مراکز درمانی مخالفت شده است.\nبر اساس این گزارش، رییس بخش بهیاری زندان در پاسخ به درخواست اعزام ترانه رحیمی گفته است: «اگر قرار است اعدام شود، با پای فلج اعدام شود.»\n\n\nبیشتر بخوانید: https://iranwire.com/fa/news-1/157238\n\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93423",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/GOK0IymOGBZT-pDiT7CfALIimCRMP-gScgNa9weET2jQy9XZlneTwBo50UjeEbelSLdEvEWHFenBN9b9gIwFmVSFGXTc-qLnl7bxcK6TcPXsNTic-8BeLFc5Y0VDSYx0ahfUGFxWI6hGeRcWJWNP-o-2UZcu1HsBL7dhmM3ZKP6DOXhXJSakSqu2tFKExWCJoK4XPfcqMq33LhSVVL2OJxAWFo_FeMaRuY5fMsIRTemA1BhUYptwq8VEdJ1AoMw60i3UQuliT4cNdtTOO4qUQujFT24QPOmNhZ5jhgJC7rYinNW8t6xB5v-ZrKRwAS2EG1rT9nn3k9LwU1iH3TJPoA.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/80e08212276c2e39202cd6a7.jpg",
-          "thumbnail_sha256": "1fee1f3e1b320e1d13e9565a5585f7eda04eb1afa8ef7189688b23d1ecfca23d",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.51K",
-      "posted_at": "2026-09-06T18:27:38+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93423",
       "reply": null
     }
   ]
