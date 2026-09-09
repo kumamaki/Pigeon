@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T08:22:02.523Z",
+  "fetched_at": "2026-09-09T08:28:20.759Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "sahamnewsorg/147219",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/smAW_InWz98OrCURLxT9xranMh7tpFlLWV8zSZVibheTG3rKNcOtlMDWTt5JD8IaKVnpsx9Ot66idtDLHzf9pnQYniC5FGwhRuBWsCRwCX0-Mj9l4ogp_2OpFW0-A9FLwU-A1UcUeCsCK6kk8Lzo21xN1YNrtRrAlaqGaAofukdu1m0nYvC_OEUKkWfqLcQl6GUi6IfPKF71EHtCCM9lOVBTXeyyryPb6CUPK3qxuAD5Fcji9pxUZDZ-_FOXDtLpAl-nEy9GeiVn2HK7Uy8jQlYyYtABHS0F4acebiApw4Jqs5gekS8pQMwI0M3Fiux_NuY2uT2ctGm-dm4tcnSe8g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/05b9e04486c2e24c97c8a56b.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>تصویر جالب از رعد و برق در رشت<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅تصویر جالب از رعد و برق در رشت\n\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/147219",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/HfAuPLPKC0GHa2Ue2JM2I-1Jp6rUYSmc1DIC-yBwCgxSLOlDyeRSAwPZceBN1uHVAiU0ukS1G_62u4inM-xy04x56jMziXHTOXoM5m7H1VIlf_byHFHC2OTFYsH-Fkt5v2_Y6ABp0aDNkYlXXuT4FAeTRPO7f6w0rZ87EuUqOoeD-2Z0FjsgARLBCZK4_XcPAhiCPYhp_-pfRwZH1NaYNJt4DVofjF7hh6DNBmGeIRR5LKz6D6-paKQkdIeJEU-fxc2p7J_Vw8YGF1QlgGU7jLBU1yDVXXpkpfIZblyBZsGKWH3ToYV_q_DnlVlG_DB6iQqhg5RKA8A-hPaiedJyIQ.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/7812c227fb47f29b926abaf6.jpg",
+          "thumbnail_sha256": "19f2debd78990a75f3ba4cc47334fbea81e5f5adee584a91683f7791ba7419c5",
+          "duration_label": null,
+          "aspect_ratio": 1.0012515644555695
+        }
+      ],
+      "reactions": [],
+      "views_label": "3.08K",
+      "posted_at": "2026-09-09T08:22:50+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147219",
+      "reply": null
+    },
+    {
       "id": "sahamnewsorg/147218",
       "author_name": "سهام نیوز",
       "author_photo_url": "https://cdn1.telesco.pe/file/smAW_InWz98OrCURLxT9xranMh7tpFlLWV8zSZVibheTG3rKNcOtlMDWTt5JD8IaKVnpsx9Ot66idtDLHzf9pnQYniC5FGwhRuBWsCRwCX0-Mj9l4ogp_2OpFW0-A9FLwU-A1UcUeCsCK6kk8Lzo21xN1YNrtRrAlaqGaAofukdu1m0nYvC_OEUKkWfqLcQl6GUi6IfPKF71EHtCCM9lOVBTXeyyryPb6CUPK3qxuAD5Fcji9pxUZDZ-_FOXDtLpAl-nEy9GeiVn2HK7Uy8jQlYyYtABHS0F4acebiApw4Jqs5gekS8pQMwI0M3Fiux_NuY2uT2ctGm-dm4tcnSe8g.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "✅آمریکایی‌ها چند نفت‌کش ایرانی و کدام‌ها را زدند؟\n\nسنتکام، فرماندهی مرکزی ارتش آمریکا، می‌گوید دیشب و بامداد امروز این پنج نفت‌کش را از کار انداخته است:\n\n🔰 ام‌تی کاویز،\n🔰 ام‌تی چارمینار،\n🔰 ام‌تی هورایزن ۱،\n🔰 ام‌تی دریا؛ همگی در نزدیکی خارگ و جاسک از کار افتاده‌اند و\n🔰 ام‌تی ریسکو در دریای عمان غرق شد.\n\nسنتکام، می‌گوید این نفت‌کش‌ها را در پاسخ به حمله‌های شب‌های گذشته علیه کشتی‌های نیروی دریایی آمریکا از میان برده- و تاکید کرده ناو آمریکایی که دوشنبه‌ هدف گرفته شد با موفقیت از حمله موشکی ایران گریخت، به گشت‌زنی در آب‌های منطقه ادامه داد و هیچ‌یک از نیروهای آمریکایی در این حمله‌ها آسیب ندیدند.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "2.16K",
+      "views_label": "4.62K",
       "posted_at": "2026-09-09T08:18:54+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147218",
@@ -58,7 +86,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7.71K",
+      "views_label": "9.86K",
       "posted_at": "2026-09-09T08:05:26+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147217",
@@ -95,7 +123,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.7K",
+      "views_label": "13.6K",
       "posted_at": "2026-09-09T07:49:12+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147216",
@@ -123,7 +151,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.9K",
+      "views_label": "15.1K",
       "posted_at": "2026-09-09T07:39:59+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147215",
@@ -139,7 +167,7 @@
       "plain_text": "✅کیفرخواست فساد در فوتبال\n\n✍️یاشار سلطانی\n‏در پرونده فساد فوتبال⁩، برای تعدادی از مدیران ارشد و چهره‌های فدراسیون فوتبال به اتهام #اختلاس⁩ کیفرخواست صادر شده است.\n\n▫️مهدی تاج⁩\n‏▫️محمدمهدی نبی\n‏▫️احسان اصولی‌صفا\n‏▫️تهمورث حیدری\n‏▫️خداداد افشاریان\n\n‏بر اساس قانون با صدور کیفرخواست همگی این افراد از حضور در فدراسیون منع و از کار منفصل می‌شوند.\n\n‏این فقط یک پرونده درباره چند مدیر فوتبالی نیست؛ پای ساختاری در میان است که سال‌ها بر فوتبال ایران حکومت کرده!\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "17.9K",
+      "views_label": "19.4K",
       "posted_at": "2026-09-09T07:18:52+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147214",
@@ -155,7 +183,7 @@
       "plain_text": "✅انتقاد فلاحت پیشه از هدف قرارگرفتن نفت کش ها\n\nشرکت ملی ⁧ نفتکش ایران⁩، بزرگترین شرکت نفتکش دنیاست . ثروت های بی بدیل کشور را آتش می زنند. آنگونه که افغان ها جوانان رشید اصفهان را برای مسابقه شکار ، ⁧گلچین⁩ می کردند.باید به این ⁧ #ایران_سوزی⁩ پایان داد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "18.8K",
+      "views_label": "20.1K",
       "posted_at": "2026-09-09T07:14:15+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147213",
@@ -171,7 +199,7 @@
       "plain_text": "✅رشد ۴۴۴۴۴ واحدی بورس تهران\n\n🔹شاخص کل بورس تهران ۴۴۴۴۴ مثبت و وارد کانال ۷.۱ میلیون واحد شد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "20K",
+      "views_label": "21.2K",
       "posted_at": "2026-09-09T07:04:28+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147212",
@@ -199,7 +227,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "57K",
+      "views_label": "57.6K",
       "posted_at": "2026-09-08T22:57:05+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147211",
@@ -215,7 +243,7 @@
       "plain_text": "✅فرماندهی مرکزی آمریکا: ایران از این نفتکش ها به عنوان بخشی از یک شبکه مخفی چند میلیارد دلاری برای تامین مالی سپاه پاسداران و عوامل ایرانی در منطقه استفاده می کند.‌‌\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "52.7K",
+      "views_label": "53K",
       "posted_at": "2026-09-08T22:48:49+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147210",
@@ -243,7 +271,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "52.5K",
+      "views_label": "53.1K",
       "posted_at": "2026-09-08T22:47:12+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147209",
@@ -271,7 +299,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "53.5K",
+      "views_label": "53.8K",
       "posted_at": "2026-09-08T22:43:52+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147208",
@@ -287,7 +315,7 @@
       "plain_text": "✅سپاه : آشیانه تعمیر و نگهداری، آماده سازی و محل استقرار جنگنده های F-۳۵ ،F-۱۶ ،F-۱۵ و شلتر جنگنده ها مورد هدف قرارگرفت\n@Sahamnewsorg ‏ ️",
       "media": [],
       "reactions": [],
-      "views_label": "50.5K",
+      "views_label": "50.8K",
       "posted_at": "2026-09-08T22:41:39+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147207",
@@ -315,7 +343,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "51.4K",
+      "views_label": "51.7K",
       "posted_at": "2026-09-08T22:29:39+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147206",
@@ -331,7 +359,7 @@
       "plain_text": "✅سنتکام: ۵ نفتکش خام ایران را منهدم کردیم\n\nاین اقدام پس از آن صورت گرفت که سپاه پاسداران طی دو روز، یک ناو جنگی آمریکا را دو بار با موشک‌های بالستیک هدف قرار داد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "50.1K",
+      "views_label": "50.4K",
       "posted_at": "2026-09-08T22:21:43+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147205",
@@ -356,7 +384,7 @@
       "plain_text": "✅ روبیو وزیر امور خارجه آمریکا: هر بار که ایران سعی می‌کند کشتی‌های نیروی دریایی آمریکا را هدف قرار دهد، نفتکش‌ها را از دست خواهد داد.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "49.6K",
+      "views_label": "49.9K",
       "posted_at": "2026-09-08T22:18:03+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147204",
@@ -372,7 +400,7 @@
       "plain_text": "✅شنیده‌شدن صدای چند انفجار در بحرین\n\n🔹رسانه عربی «صابرین‌نیوز» بامداد چهارشنبه گزارش داد که در پی موشک‌های ایرانی، انفجارهایی در بحرین رخ داده است.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "50.2K",
+      "views_label": "50.5K",
       "posted_at": "2026-09-08T22:01:46+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147203",
@@ -400,7 +428,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.9K",
+      "views_label": "50.2K",
       "posted_at": "2026-09-08T21:54:33+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147202",
@@ -428,7 +456,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50.5K",
+      "views_label": "50.8K",
       "posted_at": "2026-09-08T21:45:22+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147201",
@@ -444,7 +472,7 @@
       "plain_text": "‏ ️✅حمله به پایگاه‌های موفق‌السلطی و شاهزاده حسن در اردن\n\nگفته می‌شود پایگاه‌های هوایی «موفق السلطی» در منطقه الازرق و «شاهزاده حسن» اهداف حملات موشکی تنبیهی ایران است.\n\nبر اساس گزارش‌ها، ارتش اردن به دلیل ناتوانی سامانه‌های پدافندی آمریکایی، جنگنده‌های نیروی هوایی را برای رهگیری موشک‌های بالستیک ایرانی به پرواز درآورده است.\n‎ @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "49.7K",
+      "views_label": "50K",
       "posted_at": "2026-09-08T21:42:43+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147200",
@@ -2285,34 +2313,6 @@
       "posted_at": "2026-09-07T09:36:17+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147119",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147118",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/EM03eOZxNzl6ZSl7susqSFwxgG90h-RLByVUvx7gLdDtpOIp5LdNdwzp0aVMkOvjhq5AiSrxRA4tK2r93JkXW9Ojap-6jiruwCIek3DK7v09i76H5DEd3sRXZrB4wvVHuVAvdkwyWTJ-d9BU6ajxxoqeUPjUw5c8tBktRJcbQMa4uc1QIMpACA-6j0mhGNwyNYHNlRBWsZ2EFFExoRy1Z15jM-O5TdJYKAKheBU8kHZVTp90xs1cUKBkMkLPe4lffQYF9XWUBfW2rYDF2XP2IaUrXc8BGHjLmbDRMR4av8fhmRZzesol0376Xe1M4FNqR5b3V0axxAcR5ZvliRB65g.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/642684be024870091c2036fb.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>بی‌حجابی خطرناک‌تر از استهلاک اموال مردم</b><br><br>یک راننده ترانزیت با انتشار ویدیویی از فاسد شدن ۱۲۰ تن زردآلو در چندین تریلی به دلیل معطلی و عدم ترخیص در گمرک خبر داد.<br><br>او با انتقاد از اولویت‌های نظارتی می‌گوید در حالی که به پوشیدن شلوارک رانندگان گیر می‌دهند، تناژ بالایی از میوه که مردم توان خرید آن را ندارند زیر آفتاب گندیده و دور ریخته می‌شود.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅بی‌حجابی خطرناک‌تر از استهلاک اموال مردم\n\nیک راننده ترانزیت با انتشار ویدیویی از فاسد شدن ۱۲۰ تن زردآلو در چندین تریلی به دلیل معطلی و عدم ترخیص در گمرک خبر داد.\n\nاو با انتقاد از اولویت‌های نظارتی می‌گوید در حالی که به پوشیدن شلوارک رانندگان گیر می‌دهند، تناژ بالایی از میوه که مردم توان خرید آن را ندارند زیر آفتاب گندیده و دور ریخته می‌شود.\n\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/sahamnewsorg/147118",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/QWxK82T-feshUFf-YfzVZopu44HThSJSIIY1aBJBLdrVeVzzCy2Tajd84uvI22MtLkwzxyQhuTG0CCcNdALVS8ygrrtvbbcxzCiVZs7HNU7vO1_9lW-PMOoSLHOLzdbW5rYr-YtsX8ACqVpimrVrybsII6zSvtG18UIj32LXcXNJcEJ3neYJTPOir4Qwho99nLqwicC5nrcl-o45dg1aigKj3lJrYoeM877zsMuV3V6ZhavxpEg7URi8t8MPQjKay_PgUaO5BSn-z6zPXzEqIXApoIu_O8bwcdODcm4mAAaMTqahjeYfMcrEsS7X3W_gKRALcblwqIYA36eUWQm5aA",
-          "thumbnail_path": "channels/sahamnewsorg/media/9a6cd88815b34d5d047692c5.jpg",
-          "thumbnail_sha256": "b729014a2e5f84c944a1b01b0e7ef6016c7d8d6bbe8c15780285fcb38081deb6",
-          "duration_label": "1:10",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "56.5K",
-      "posted_at": "2026-09-07T09:23:31+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147118",
       "reply": null
     }
   ]
