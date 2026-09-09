@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T21:07:36.926Z",
+  "fetched_at": "2026-09-09T21:12:15.279Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -35,7 +35,7 @@
       "reactions": [
         {
           "emoji": "😐",
-          "count": "234"
+          "count": "235"
         },
         {
           "emoji": "👍",
