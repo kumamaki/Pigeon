@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T22:08:21.030Z",
+  "fetched_at": "2026-09-09T22:13:07.260Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/230045",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/TDaXzD1SqP9xTStg_G7suA7hMViJjPqVwnwwTLB_DUGQC4NC7-w5Wkwmk8gDPuAQByx0poZj8S94eoRffmHeRT9xrcGPzWu7C0ZMDau7-qcaqBWq40PRp5WjKogQsNBDZgrsGt_Ga26l0r3qqQ_yjcUiyBiP3YfLQ0a3HSBOFP7tHYTn8zp6o6L0n-5FRDcf0yBsa-sXpdSaMW5dbmZ7VUJUET5rQgZDA0jF59JPxCtDBv293jMYV7TZtxqTClTcuEc9cEhhDdSAYJALkWzllcM_PdRn8aHMK28mulEjt9zDtHt6hUIn5HC55jszDZm5-oSBSiobQTMHWfcmcwf0rw.jpg",
+      "author_photo_path": "channels/farsivoa/media/64e7ce62c0394704c02414ea.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "حساب کاربری دونالد ترامپ، رئیس‌جمهوری آمریکا در شبکه اجتماعی ایکس، ویدیویی را روز چهارشنبه ۱۸ شهریور منتشر کرد که در بخشی از آن سخنان پیشین رئيس‌جمهوری آمریکا به گوش می‌رسد که به «مردم بزرگ پرافتخار ایران» می‌گوید «ساعت آزادی شما نزدیک است.»<br><br>در بخشی از این ویدیو، آقای ترامپ با اشاره به عملیات «خشم حماسی» به ایرانی‌ها می‌گوید «وقتی کارمان تمام شد حکومت خود را به دست بگیرید.»<br><br>رئیس‌جمهوری آمریکا این سخنان را در اوایل عملیات خشم حماسی که به کشته شدن علی خامنه‌ای، رهبر جمهوری اسلامی منجر شد بیان کرد.<br><br>عملیات خشم حماسی آمریکا، با مشارکت اسرائيل، چند هفته پس از آن آغاز شد که نیروهای سرکوب جمهوری اسلامی، به دستور علی خامنه‌ای، ده‌ها هزار ایرانی معترض را در شهرهای مختلف ایران در دی‌ماه کشتند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8196175.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8196175.html</a>",
+      "plain_text": "حساب کاربری دونالد ترامپ، رئیس‌جمهوری آمریکا در شبکه اجتماعی ایکس، ویدیویی را روز چهارشنبه ۱۸ شهریور منتشر کرد که در بخشی از آن سخنان پیشین رئيس‌جمهوری آمریکا به گوش می‌رسد که به «مردم بزرگ پرافتخار ایران» می‌گوید «ساعت آزادی شما نزدیک است.»\n\nدر بخشی از این ویدیو، آقای ترامپ با اشاره به عملیات «خشم حماسی» به ایرانی‌ها می‌گوید «وقتی کارمان تمام شد حکومت خود را به دست بگیرید.»\n\nرئیس‌جمهوری آمریکا این سخنان را در اوایل عملیات خشم حماسی که به کشته شدن علی خامنه‌ای، رهبر جمهوری اسلامی منجر شد بیان کرد.\n\nعملیات خشم حماسی آمریکا، با مشارکت اسرائيل، چند هفته پس از آن آغاز شد که نیروهای سرکوب جمهوری اسلامی، به دستور علی خامنه‌ای، ده‌ها هزار ایرانی معترض را در شهرهای مختلف ایران در دی‌ماه کشتند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8196175.html",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/230045",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/HLrcA3N5zryhVr6eBPKcBONRFaM3b-a9ed-6eo_MTJvD3_037L56pltHpsIr9z02YYehnXaHuiwoF2TWJ0HijXoJHWt1amC_946Aclj2tesC_jlmRXXiLjeq6kW6Tcx4ILymY44LXQnKucj4RtBbFQSV9UCMb9WiInOZxqZGnW45L0zFBEjuEjlaUSx4OIHPigTkGVMg2xZhwG4HkWJgQOR_P7xBsHjwPX5tXUEa0o4vIMwYTMcj8OsJj6nWbQWALk5rwmVobLaXoFAxPfzxn64oBAy2UMJZtNDwhhbmbh0qna-BXKqnRNBsz71m6aIZKyc8HWs0SvtSwTKPbKJZTQ",
+          "thumbnail_path": "channels/farsivoa/media/2e43796ac9e9b230e856ade0.jpg",
+          "thumbnail_sha256": "40355aa9bba4aec92a36abcf3e33e4906133bdff66a2e09a6e0ab976c637e545",
+          "duration_label": "1:00",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "102",
+      "posted_at": "2026-09-09T22:11:28+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/230045",
+      "reply": null
+    },
     {
       "id": "farsivoa/230044",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "493",
+      "views_label": "656",
       "posted_at": "2026-09-09T21:55:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230044",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1K",
+      "views_label": "1.13K",
       "posted_at": "2026-09-09T21:43:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230043",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.51K",
+      "views_label": "1.64K",
       "posted_at": "2026-09-09T21:31:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230042",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.83K",
+      "views_label": "1.9K",
       "posted_at": "2026-09-09T21:19:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230041",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.34K",
+      "views_label": "2.44K",
       "posted_at": "2026-09-09T21:09:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230040",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.32K",
+      "views_label": "2.38K",
       "posted_at": "2026-09-09T21:03:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230039",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.98K",
+      "views_label": "3.04K",
       "posted_at": "2026-09-09T20:40:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230038",
@@ -217,7 +245,7 @@
       "plain_text": "🔺کشته‌شدن یکی معترضان تحت تعقیب در استان ایلام در جریان درگیری با ماموران؛ وخامت شرایط زندانیان در اوین و ارومیه\n\n◾️کانون حقوق بشر ایران با انتشار گزارش‌هایی نسبت به وضعیت زندانیان زندان‌های اوین و ارومیه ابراز نگرانی کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/ongoing-human-rights-violations-in-iranfrom-the-killing-of-a-protester-in-a-grenade-explosion-to-inhumane-conditions-in-prisons/8196155.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.26K",
+      "views_label": "3.29K",
       "posted_at": "2026-09-09T20:30:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230037",
@@ -261,7 +289,7 @@
       "plain_text": "🔺یاشار سلطانی از صدور کیفرخواست به «اتهام اختلاس» برای مقامات ارشد فدراسیون فوتبال جمهوری اسلامی خبر داد\n\n◾️یاشار سلطانی، روزنامه‌نگار تحقیقی ساکن ایران، روز چهارشنبه ۱۸ شهریور اعلام کرد برای چند چهره و مقام ارشد فدراسیون فوتبال ایران در پرونده «فساد فوتبال» به اتهام اختلاس کیفرخواست صادر شده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/yashar-soltani-journalist-bribery-iran-football-federation-charge-conviction-indicetment/8196138.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.68K",
+      "views_label": "3.71K",
       "posted_at": "2026-09-09T19:56:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230035",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.04K",
+      "views_label": "3.07K",
       "posted_at": "2026-09-09T19:47:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230033",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.39K",
+      "views_label": "3.42K",
       "posted_at": "2026-09-09T19:31:19+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230032",
@@ -349,7 +377,7 @@
       "plain_text": "🔺وضعیت حقوق بشر ایران در کانون توجه شصت‌وسومین نشست شورای حقوق بشر سازمان ملل\n\n◾️شورای حقوق بشر سازمان ملل متحد در شصت‌وسومین نشست خود وضعیت حقوق بشر در ایران و نقض این حقوق توسط جمهوری اسلامی را مورد بحث و بررسی قرار داد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/un-human-rights-council-concerned-about-iran/8196029.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.44K",
+      "views_label": "3.48K",
       "posted_at": "2026-09-09T19:29:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230031",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.37K",
+      "views_label": "3.41K",
       "posted_at": "2026-09-09T19:14:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230030",
@@ -393,7 +421,7 @@
       "plain_text": "‼️با پوزش فراوان از خوانندگان صدای آمریکا، ویدئویی را که به نقل از شبکه‌های اجتماعی با عنوان لحظه فوران یک آتشفشان در اندونزی منتشر کرده‌ بودیم، ساخته هوش مصنوعی است. قطعا از تکرار چنین اشتباهاتی جلوگیری خواهیم کرد.",
       "media": [],
       "reactions": [],
-      "views_label": "3.79K",
+      "views_label": "3.82K",
       "posted_at": "2026-09-09T19:07:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230029",
@@ -446,7 +474,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.54K",
+      "views_label": "3.57K",
       "posted_at": "2026-09-09T19:00:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230027",
@@ -474,7 +502,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.02K",
+      "views_label": "4.06K",
       "posted_at": "2026-09-09T18:43:28+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230026",
@@ -2568,34 +2596,6 @@
       "posted_at": "2026-09-09T01:32:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229937",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229936",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "دونالد ترامپ، رئیس‌جمهوری آمریکا، در واکنش به نتایج اخیر انتخابات در آلمان، از عملکرد حزب پوپولیست این کشور تمجید کرد. آقای ترامپ در پیامی نوشت: «...حزب پوپولیست در آلمان واقعاً شب بزرگی داشت.» او درباره مردم آلمان «بالاخره از قوانین و مقررات مهاجرتی کاملاً افتضاحی که آسیب زیادی به آلمان وارد کرده، خسته شدند.» آقای ترامپ افزود: «آنها در حال اوج‌گیری هستند و دیگر نمی‌خواهند این وضعیت را تحمل کنند!» دونالد ترامپ در پایان پیام خود نیز به اختصار نوشت «آلمان را دوباره با عظمت کنیم.»<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "دونالد ترامپ، رئیس‌جمهوری آمریکا، در واکنش به نتایج اخیر انتخابات در آلمان، از عملکرد حزب پوپولیست این کشور تمجید کرد. آقای ترامپ در پیامی نوشت: «...حزب پوپولیست در آلمان واقعاً شب بزرگی داشت.» او درباره مردم آلمان «بالاخره از قوانین و مقررات مهاجرتی کاملاً افتضاحی که آسیب زیادی به آلمان وارد کرده، خسته شدند.» آقای ترامپ افزود: «آنها در حال اوج‌گیری هستند و دیگر نمی‌خواهند این وضعیت را تحمل کنند!» دونالد ترامپ در پایان پیام خود نیز به اختصار نوشت «آلمان را دوباره با عظمت کنیم.»\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229936",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/AGPyHbL68geqplV5XV5ZU_iCOy_8cm87bC4cJ2B-WGlSBdcXgE9J1fLcnGcAWJxHTiPVMvx2S7PekbLFliBS_0Y5JSZGKPZI3I-kBL19SPuhGr_zpCV6LYzIYWcp9xgBnl1l34PxdEWSGZMy5J9JK7nNBVBfAqR4NyiGYEnam5oBNci975eMVZYjY73uJKK2G966eZMlbMsdD4PU6_zdvVGjR-Yr0lt0JeoboZRCkTwO946ZID2V9VES8pwcWOHsf9zGSPCowFXSMfU_CCN0xMXs_7YsGSXzsyWKBUj7Hwyp2xSyoz3YeKPu0YKhKMHnhs4-lqK83iHIujA90U5Fww.jpg",
-          "thumbnail_path": "channels/farsivoa/media/e0b9a648ddedee734a3769a1.jpg",
-          "thumbnail_sha256": "128bb31b91a3bb54473d4e849bcaf58ba59a9a250a537dd51d567667a99f793f",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "4.36K",
-      "posted_at": "2026-09-09T01:09:36+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229936",
       "reply": null
     }
   ]
