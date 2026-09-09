@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T16:21:49.229Z",
+  "fetched_at": "2026-09-09T16:26:30.516Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,62 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/230000",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "بابک دربیکی، تحلیلگر سیاسی در میدان: در ایران نهادهای نظامی-امنیتی خودشان صاحبان دارائی‌های اقتصادی هستند، یعنی فاصله‌ای میان بازیگر سیاسی و بازیگر اقتصادی وجود ندارد. در نتیجه ما با یک سرمایه‌داری نهادی روبرو هستیم.",
+      "plain_text": "بابک دربیکی، تحلیلگر سیاسی در میدان: در ایران نهادهای نظامی-امنیتی خودشان صاحبان دارائی‌های اقتصادی هستند، یعنی فاصله‌ای میان بازیگر سیاسی و بازیگر اقتصادی وجود ندارد. در نتیجه ما با یک سرمایه‌داری نهادی روبرو هستیم.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/230000",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/jLY5v_YUWIEezKRUfwQ82c1cIp1WfCQgcqUD6bZK-IDcSyu-9t4kzZrqXqbCGh6oz4cdJ2kqMDTs7af7Px3_1xKsHzKZJPVhkcXIDcimD2szgUhyhObS4JB04QrQaHGpv7zn5xHV-tX2PGbMIn0Ha9smpYpNEDjpyXG0oFon5pGvzZsbLJGGBGWCUOudE-Tb32ExdXUBD-KJViEGq1gqYwkJ4JVzCGiGJ7dBKt9_pPcbTweVy01JWgkaACWe95Dz79_SLUoQmQ_n17rYwYf3Rur7hkc2AR1aX0InU5bHZA3SusjQIX9wBDx82hI0jolMqTrZaFfzQabKLy-uA5HnZg",
+          "thumbnail_path": "channels/farsivoa/media/f465426bdf41bd6e50ce7a1c.jpg",
+          "thumbnail_sha256": "80a900c3732f865486a91f7d3ebcf1f40bb9538f6a23d49ef29e8e2be15a38e9",
+          "duration_label": "1:20",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "62",
+      "posted_at": "2026-09-09T16:25:32+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/230000",
+      "reply": null
+    },
+    {
+      "id": "farsivoa/229999",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "در گفت‌وگو با رضا تقی‌زاده از حملات آمریکا به نفتکش‌های مرتبط با سپاه پاسداران، راهبرد جدید بازدارندگی واشینگتن و تحولات خلیج فارس گفتیم. تقی‌زاده تأکید کرد موازنه قدرت در خلیج فارس به زیان جمهوری اسلامی تغییر کرده است.",
+      "plain_text": "در گفت‌وگو با رضا تقی‌زاده از حملات آمریکا به نفتکش‌های مرتبط با سپاه پاسداران، راهبرد جدید بازدارندگی واشینگتن و تحولات خلیج فارس گفتیم. تقی‌زاده تأکید کرد موازنه قدرت در خلیج فارس به زیان جمهوری اسلامی تغییر کرده است.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229999",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/lGDu_D9SoWZJkVPbOIwMdPgY393F9RtWgSWYxIYB1GKU_2F0ntrAsDOUNsBM3BBQK368Caf3KlTzyRMDL3fyw0U1P_TbbIWRbnOmx_dVNFnJ4PdYrljnMWIsvOWpWfFOp5UW5ujLpie9QSM4_is2e98LogLPr3f3ZSqNjOWv2w0rySP6EnH1FvdVmwJ5mKiTLgtJ_sYNmHDwqWZTJxoNt6W5X9PXySIA2dDjtIk2832sUnuUiSzQOU8nk65J_WHAjOMfXfEekouMfX25O9WntttAc3Es7M8nKW_e2iMVMa8HqZ5fALUg-WDKn2XD3zFKUTZ5-99uLtkh-UPgl9H75g",
+          "thumbnail_path": "channels/farsivoa/media/c4b7b8a066e90ac41735496c.jpg",
+          "thumbnail_sha256": "6c49e0c96eb78f799d69d37a32efcea81fe9839503bd34ba27e94c7859e453e5",
+          "duration_label": "3:27",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "158",
+      "posted_at": "2026-09-09T16:23:55+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229999",
+      "reply": null
+    },
     {
       "id": "farsivoa/229998",
       "author_name": "Farsi VOA",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "441",
+      "views_label": "661",
       "posted_at": "2026-09-09T16:13:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229998",
@@ -49,7 +105,7 @@
       "plain_text": "🔺نتانیاهو: کار اصلی ما شکست دادن «رژیم تروریستی جمهوری اسلامی» است و بسیار به آن نزدیک هستیم\n\n▪️نخست وزیر اسرائیل روز چهارشنبه ۱۸ شهریور در پیامی تصویری از یک پایگاه نظامی مشرف به سوریه بر بلندای کوه‌های هرمون گفت کار اصلی اسرائیل شکست دادن «رژیم تروریستی ایران» است، و اسرائیل به انجام آن کار متعهد و به آن هدف نزدیک است و آن را «انجام خواهیم داد.»\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/netanyahu-says-israel-will-defeat-iranian-regime/8196031.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "943",
+      "views_label": "1.1K",
       "posted_at": "2026-09-09T16:06:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229997",
@@ -77,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "884",
+      "views_label": "1.01K",
       "posted_at": "2026-09-09T16:04:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229996",
@@ -105,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.4K",
+      "views_label": "1.53K",
       "posted_at": "2026-09-09T15:49:45+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229995",
@@ -121,7 +177,7 @@
       "plain_text": "🔺پرزیدنت ترامپ مصاحبه‌ای درباره تاثیر فشار اقتصادی بر رژیم ایران را بازنشر کرد\n\n▪️دونالد ترامپ، رئیس جمهوری آمریکا، روز چهارشنبه ۱۸ شهریور مصاحبه فاکس نیوز با فیل فلین، تحلیلگر و معامله‌گر بازار نفت، درباره فشارهای اقتصادی بر جمهوری اسلامی و چشم‌انداز بقای حکومت ایران را در تروت سوشال بازنشر کرد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/president-trump-posted-interview-on-iran-economic-pressure/8196026.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.64K",
+      "views_label": "1.7K",
       "posted_at": "2026-09-09T15:43:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229994",
@@ -149,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.85K",
+      "views_label": "1.92K",
       "posted_at": "2026-09-09T15:31:16+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229993",
@@ -165,7 +221,7 @@
       "plain_text": "🔺دیدار وزیر خارجه آمریکا با مقامات اکوادور در جریان سفری با هدف تقویت روابط امنیتی و اقتصادی\n\n▪️مارکو روبیو، وزیر امور خارجه آمریکا، روز چهارشنبه ۱۸ شهریور در شهر کیتو با دانیل نوبوا، رئیس‌جمهوری اکوادور، دیدار می‌کند. این دیدار بخشی از یک سفر دوره‌ای به سه کشور آمریکای لاتین کلمبیا، اکوادور، و پرو است که با هدف تقویت روابط امنیتی و اقتصادی انجام می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/marco-rubio-trip-to-three-latin-american-countries/8196022.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.07K",
+      "views_label": "2.14K",
       "posted_at": "2026-09-09T15:22:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229992",
@@ -193,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.62K",
+      "views_label": "2.68K",
       "posted_at": "2026-09-09T14:37:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229991",
@@ -221,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.88K",
+      "views_label": "2.91K",
       "posted_at": "2026-09-09T14:23:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229990",
@@ -249,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.2K",
+      "views_label": "3.26K",
       "posted_at": "2026-09-09T14:02:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229989",
@@ -277,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.54K",
+      "views_label": "3.57K",
       "posted_at": "2026-09-09T13:40:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229988",
@@ -293,7 +349,7 @@
       "plain_text": "🔺گزارش سی‌ان‌ان از افزایش ساخت‌وساز در تاسیسات هسته‌ای مشکوک «کوه کلنگ»\n\n▪️«مرکز مطالعات راهبردی و بین‌المللی» گزارش داد که بررسی تصاویر ماهواره‌ای شش سال گذشته حکایت از افزایش آشکار ساخت‌وساز در سایت مشکوک هسته‌ای «کوه کلنگ» در نزدیکی نطنز دارد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/increase-in-construction-pickaxe-mountain-nuclear-site/8195992.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "3.59K",
+      "views_label": "3.65K",
       "posted_at": "2026-09-09T13:25:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229987",
@@ -321,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.38K",
+      "views_label": "3.44K",
       "posted_at": "2026-09-09T13:14:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229986",
@@ -349,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.18K",
+      "views_label": "3.21K",
       "posted_at": "2026-09-09T13:07:16+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229985",
@@ -377,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.16K",
+      "views_label": "3.19K",
       "posted_at": "2026-09-09T12:57:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229984",
@@ -421,7 +477,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.09K",
+      "views_label": "3.12K",
       "posted_at": "2026-09-09T12:48:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229982",
@@ -449,7 +505,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.07K",
+      "views_label": "3.1K",
       "posted_at": "2026-09-09T12:35:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229981",
@@ -477,7 +533,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.02K",
+      "views_label": "3.05K",
       "posted_at": "2026-09-09T12:24:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229980",
@@ -2441,62 +2497,6 @@
       "posted_at": "2026-09-08T18:52:45+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229899",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229898",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "بنزین ۱۰هزار تومانی؛ ثبت شناسه و اعمال محدودیت در کارت جایگاه",
-      "plain_text": "بنزین ۱۰هزار تومانی؛ ثبت شناسه و اعمال محدودیت در کارت جایگاه",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229898",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/VBMXdDTtT-FvEsDn_yRo2h--NofU8-h-Be0_Y7w8LoQNq7sHI27zEXPqiRpKuy4sNbC8n_6pl5bJAtCr1VMqzA5IMue4JFYdhg1Aaovrl66gqzd3zSOJb2z2EXUoN19nnCIXgJEbNrb4s-IK-1rCAwvblMQV3lvVBwvO399PeuuzpRSt8oaV7IBWKCJC4FKJgIsIqmvsHX2hAmPzo5jGhOiit77aPDuB5OFaYHVsjzNhPNWWczQSl4jjtFbwsB8_YVtWz25FAVRJlcq2WDPW5QY_LcFbKyYnq6dK6zzZ3HX32_HfGfc8DGiC66BBF86xXGAWAPhgTlGd2IwcXukiMQ",
-          "thumbnail_path": "channels/farsivoa/media/b802ff033a9657e60694934a.jpg",
-          "thumbnail_sha256": "10a20da818dd74bf07026447f330315ae41835ad3dfa99798cad17a9046616e0",
-          "duration_label": "5:14",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.63K",
-      "posted_at": "2026-09-08T18:45:52+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229898",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229897",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "تکمیل کابینه عراق زیر سایه هشدارهای آمریکا؛ وزارتخانەهای دفاع و کشور همچنان بلاتکلیف",
-      "plain_text": "تکمیل کابینه عراق زیر سایه هشدارهای آمریکا؛ وزارتخانەهای دفاع و کشور همچنان بلاتکلیف",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229897",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/A-TA5B7iYe_1GfE_XpCLLmLE58F7tOvAtgGs1fxqp1O9FAKCY0Ip-NFypjtTHJY2c4PWRg6gohXXeGX1_-dOS50AHeMfP9kypIlSqlO7FOAPnJm_dcVUBAET7Tv1AXpXjfj6ifxxjcw8t62AkjR7DcH3Sf-AHNaSM_pLdhdn7A5rTxaVyPRU7AEamsTcjiZz6uAhUQ6B1OGAK79J8O3qyQ9W-j2KruPxQYAOJkI0Rp4psogTxYhIe0g6UqVpEwizSzw-BaI89XYBOaocTEVFdZL1YxLJ6zjIFBvfFEw5eC0Wv007fGGv6goP7Efh0Y9qN9FE3sUglWVlrCxp9N4xZw",
-          "thumbnail_path": "channels/farsivoa/media/8ebbdcfbcf67c0a62927b44d.jpg",
-          "thumbnail_sha256": "b86101590946e46379fbf88ffde0f508e5e7edc1704c4697f1c9821013f053f7",
-          "duration_label": "3:56",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.67K",
-      "posted_at": "2026-09-08T18:32:03+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229897",
       "reply": null
     }
   ]

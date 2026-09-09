@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T16:21:52.205Z",
+  "fetched_at": "2026-09-09T16:26:33.688Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -35,7 +35,7 @@
       "reactions": [
         {
           "emoji": "😐",
-          "count": "217"
+          "count": "218"
         },
         {
           "emoji": "👍",
@@ -78,7 +78,7 @@
           "count": "1"
         }
       ],
-      "views_label": "24.3K",
+      "views_label": "24.4K",
       "posted_at": "2026-09-09T04:44:21+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2596",
@@ -169,7 +169,7 @@
         },
         {
           "emoji": "🔥",
-          "count": "208"
+          "count": "209"
         },
         {
           "emoji": "❤",
@@ -216,8 +216,8 @@
           "asset_url": "https://t.me/ircfspace/2593",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/T9Nmq2xXLcTsK2dJdRQkhhjxMTtL1XK_H2ewadCvl6fV68LxXw56IMzkI5WvFsAhKtUeL98T3PIUKgL72lq0RoiNucAI7rq4ZNsghFNPz0jCCoeTzoE0cWNfvVu5rZwUOHzpy2b1ih0Ob0Bhc15ycktLOcEIlulSla21uP38fwV8viheOyzDVWqfdc100GK2PprQAen9p6d5e2xDwTWbD077E5sPp0sBbheIVFB-fOV5z8ByCifExXqMhqOmwrFhnPDHk79Uf1EY6GthPlqjNAtAllgHsJL_B7YUnFMT_izgTlFcoQTEPVtbygY9UeYxBZJIdo3tDidwsmLLZuTFhg.jpg",
-          "thumbnail_path": "channels/ircfspace/media/a7c9c43ec70b58e882339f39.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/XirKbP5Su3LwceUBfQC6YO740vL_sVfcWUYs_kQ3saPI506yaTmp3OOkrsFoJIIGchUWnJZxXVOzfZ1-VJV6fbeCCr781AslSR5OiFC2QVt6IwbyPMmmTbU28cS2mOGUyPWmWCz7nl5pVrVjx5fJa_vM4vArI9u7WHXi9zHjHWdbQcl4nhS00q3hcPeoWo624L30m0T805vfxvyezoXUGILZ_sPJ2lp8g8ULxqQMIrI4CgC9F2a1ajAMigGt1X_o8C1-iey2CvtqCai2ZO-Upr-d5Zk9mGC_5-YV0ZHM7DjArQ3OasthMXzuR8gWm-SGGnY2DAUH3FcLeM8mixmE3w.jpg",
+          "thumbnail_path": "channels/ircfspace/media/cc9a476a9513caafeb1e3b2f.jpg",
           "thumbnail_sha256": "2e7efa4699e4d6665bde2930ef52075d7c7532744a3b5a7df51c94c6c93d2ff9",
           "duration_label": null,
           "aspect_ratio": 1.5748031496062993
@@ -592,7 +592,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "457"
+          "count": "458"
         },
         {
           "emoji": "🤡",
@@ -1036,7 +1036,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "612"
+          "count": "613"
         },
         {
           "emoji": "😱",
