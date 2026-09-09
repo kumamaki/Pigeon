@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T15:16:40.855Z",
+  "fetched_at": "2026-09-09T15:21:58.401Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,78 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356514",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "ارتش آمریکا در حمله‌ای شبانه پنج نفتکش ایرانی را هدف قرار داد تا حدود&nbsp;۱۲ درصد ناوگان نفتکش‌های ایرانی در عرض تنها یک هفته از بین برود.&nbsp;ساعاتی بعد سخنگوی پاسداران شش شرط تازه جمهوری اسلامی برای پایان جنگ را مطرح کرد که پذیرشش از طرف ترامپ است.<br><br>گزارشی از مجتبا پورمحسن<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "ارتش آمریکا در حمله‌ای شبانه پنج نفتکش ایرانی را هدف قرار داد تا حدود ۱۲ درصد ناوگان نفتکش‌های ایرانی در عرض تنها یک هفته از بین برود. ساعاتی بعد سخنگوی پاسداران شش شرط تازه جمهوری اسلامی برای پایان جنگ را مطرح کرد که پذیرشش از طرف ترامپ است.\n\nگزارشی از مجتبا پورمحسن\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356514",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/DolDhcD7dHDPfuIowp2hEN-snfBahLkKtudEbE0P06fy_do0aNgHhwoJ_dpPr3M23Mljg-GRakI-kYcjYuo-WDI4KOMBHepBG7vw5N8_fwy18Li3GYN9hokUyhOLHvkPCBZGNgABwF854uP_RFn_IHvMF5aMZ2VJC_6qXgrsDQm8efJGm6r-nXYiXenMvOb1vrFg1wspAMFOsWvNAjM-KAOBwlMY_6jb8dEvGUuIr--o0yHH_XbFP-46GlsHOAMGChqpYcHpwAGKFSHd9ErycZGopFdrJMlJNDjG7Ewm2Ix-zRdAzQ-3HKJFKTDK8QgNii8KKuaM4Xcq8hvWTRPwZQ",
+          "thumbnail_path": "channels/iranintltv/media/3eff4340662c55c0b80f95e6.jpg",
+          "thumbnail_sha256": "9303c538315fa85b268669bc2e87b1ec22a3165abb133708c84e38af1ca754aa",
+          "duration_label": "8:46",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-09T15:21:53+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356514",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356513",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "مقام‌های بندری عراق اعلام کردند نفتکش «نیو آندروس» با پرچم پاناما با حدود دو میلیون بشکه نفت کوره، چهارشنبه ۱۸ شهریور در آب‌های عراق هدف حمله پهپادی قرار گرفت و دچار آتش‌سوزی شد. به گفته آن‌ها، در میان ۲۲ خدمه کشتی تلفاتی گزارش نشده است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "مقام‌های بندری عراق اعلام کردند نفتکش «نیو آندروس» با پرچم پاناما با حدود دو میلیون بشکه نفت کوره، چهارشنبه ۱۸ شهریور در آب‌های عراق هدف حمله پهپادی قرار گرفت و دچار آتش‌سوزی شد. به گفته آن‌ها، در میان ۲۲ خدمه کشتی تلفاتی گزارش نشده است.\n@iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356513",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Oposf7-jubmswsJxiBRlEgEW8vAXNbI9fy25mdxkpEYCJJdvfNxO8y0tBc3cBdO-ElFLnmt90tit2t0SPOT6qHveb4q3911R68E_ANMjTwREQ3AZV1MXu0eROueZJ72LFgb2JHO3zTelE2kMiesbwe2vf6nXiqkl2RuTf20UUcNANyttdG3wa7dWs1Y2Th7HGq4Zq6_9IebNWlb08S7vhKBjwT9wfZWIQ_AIvA1ka7F9574eY0fiFomu3Hy9vzcXyDydrMvyxjgR1wYSckv1m7pdYP_twxrWYvPrng89j0KzxfYp8YbbONp3L41IInwVa0LpsGizAsvuyU14tgik8A",
+          "thumbnail_path": "channels/iranintltv/media/2097231a5fb6ff1dcecf6542.jpg",
+          "thumbnail_sha256": "81f74b4f13d722e69712cd22f9830792b012bcd7918b70eba6ff49f09e7940ad",
+          "duration_label": "0:57",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.08K",
+      "posted_at": "2026-09-09T15:20:14+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356513",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356512",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA7.png')\"><b>🎧</b></i>نسخه صوتی اخبار شبانگاهی | چهارشنبه ۱۸ شهریور<br><a href=\"https://t.me/iranintlTV\" target=\"_blank\">@iranintlTV</a>",
+      "plain_text": "🎧نسخه صوتی اخبار شبانگاهی | چهارشنبه ۱۸ شهریور\n@iranintlTV",
+      "media": [],
+      "reactions": [],
+      "views_label": "4.24K",
+      "posted_at": "2026-09-09T15:17:22+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356512",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356511",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.58K",
+      "views_label": "12.8K",
       "posted_at": "2026-09-09T15:03:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356511",
@@ -61,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18K",
+      "views_label": "21.2K",
       "posted_at": "2026-09-09T14:49:40+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356510",
@@ -89,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.5K",
+      "views_label": "27.6K",
       "posted_at": "2026-09-09T14:32:17+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356509",
@@ -117,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.4K",
+      "views_label": "26.5K",
       "posted_at": "2026-09-09T14:29:47+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356508",
@@ -145,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.3K",
+      "views_label": "23.4K",
       "posted_at": "2026-09-09T14:27:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356507",
@@ -173,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.6K",
+      "views_label": "28.7K",
       "posted_at": "2026-09-09T14:15:02+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356506",
@@ -201,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.7K",
+      "views_label": "31.8K",
       "posted_at": "2026-09-09T14:06:28+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356505",
@@ -229,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.7K",
+      "views_label": "31.8K",
       "posted_at": "2026-09-09T14:05:26+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356504",
@@ -257,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.7K",
+      "views_label": "29.8K",
       "posted_at": "2026-09-09T14:01:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356503",
@@ -285,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33K",
+      "views_label": "34.1K",
       "posted_at": "2026-09-09T13:51:14+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356502",
@@ -313,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.1K",
+      "views_label": "36.1K",
       "posted_at": "2026-09-09T13:41:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356501",
@@ -341,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.2K",
+      "views_label": "37.2K",
       "posted_at": "2026-09-09T13:36:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356500",
@@ -369,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.2K",
+      "views_label": "37.2K",
       "posted_at": "2026-09-09T13:34:49+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356499",
@@ -397,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.3K",
+      "views_label": "39.3K",
       "posted_at": "2026-09-09T13:24:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356498",
@@ -425,7 +497,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.2K",
+      "views_label": "37.3K",
       "posted_at": "2026-09-09T13:24:12+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356497",
@@ -453,7 +525,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.3K",
+      "views_label": "39.3K",
       "posted_at": "2026-09-09T13:12:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356496",
@@ -481,7 +553,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "41.4K",
+      "views_label": "42.5K",
       "posted_at": "2026-09-09T13:04:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356495",
@@ -2665,90 +2737,6 @@
       "posted_at": "2026-09-08T23:52:02+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356415",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356414",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "شرکت تانکر ترکرز، که نفتکش‌ها را در آب‌های بین‌المللی ردیابی می‌کند، در مورد پنج نفتکش جمهوری اسلامی که سه‌شنبه هدف حملات ارتش آمریکا قرار گرفتند، نوشت: «این نفتکش‌ها در مجموع از ماه مه ۲۰۱۹، ۴۵ میلیون بشکه نفت خام و فرآورده‌های نفتی ایران را صادر کرده‌اند.»<br><br><a href=\"https://iranintl.com/202609084279\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609084279</a>",
-      "plain_text": "شرکت تانکر ترکرز، که نفتکش‌ها را در آب‌های بین‌المللی ردیابی می‌کند، در مورد پنج نفتکش جمهوری اسلامی که سه‌شنبه هدف حملات ارتش آمریکا قرار گرفتند، نوشت: «این نفتکش‌ها در مجموع از ماه مه ۲۰۱۹، ۴۵ میلیون بشکه نفت خام و فرآورده‌های نفتی ایران را صادر کرده‌اند.»\n\nhttps://iranintl.com/202609084279",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356414",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/WfXsl9GQLgh3s2qx5QPNyGxJSpfqGOzREqZHM8k60sDSIoem4yhC29UNKpnZ8OT3TpFfjmkOnMjchEnLWPuWtS0Oq5TGXf16pXofPeC8IzdmVLTlepQtmq2mBgFA1MSOucqBsITGuaQpXouZEK7dHWf7x8h-S5HMTfZv1XC--cCDJ70it1jH-JLpQnw6KJJPhyEhMB3pDT_AWCzq9eP4qD56wysMb1GtlR4vKsFwmB0GrOVXUWkqZ5biUvljhmL0tCZFA3zp447u2OzdkC7VLFsqw1llhUEq3V9hlWyW6zqX4Ku6n6ArgfUDUk-MiEZSwCiEFHekrS8791HyybSkZQ.jpg",
-          "thumbnail_path": "channels/iranintltv/media/4c4a5226e2f954134fbde62f.jpg",
-          "thumbnail_sha256": "7b444c31699fe749f03adacd0427590e58173226af1cee9229a28204506b357b",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "48.3K",
-      "posted_at": "2026-09-08T23:48:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356414",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356413",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "علیرضا نامور حقیقی، تحلیلگر سیاسی، با اشاره به حملات جمهوری اسلامی به ناوهای آمریکایی و تشدید تنش‌ها در منطقه گفت هدف تهران شکستن تحریم‌ها و افزایش فشار بر دولت دونالد ترامپ است تا در نهایت آمریکا را وادار به خروج از منطقه کند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "علیرضا نامور حقیقی، تحلیلگر سیاسی، با اشاره به حملات جمهوری اسلامی به ناوهای آمریکایی و تشدید تنش‌ها در منطقه گفت هدف تهران شکستن تحریم‌ها و افزایش فشار بر دولت دونالد ترامپ است تا در نهایت آمریکا را وادار به خروج از منطقه کند.\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356413",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Q3quyNVT01zDd0CjCsZksoYaohtHjBQ8k8oB65DThacp_FBHTbuxCYsilgdlnc-cboqjcwR4K9uKroUAkEf7CfNhZ3jW115KVUfN4Ru5f71myrDnJUpziWXDZhGHENuVqqiQnTcEetYva8NHDPHjzemiOyd2cxn-sVWZyR1LHEtPUWYqKfCkTKYm1l41vGo0aZ_mBbOJvq_co8qCAue6WJsTwX-1WQmH_GtvITZI8zjLRtF81QwDEef_yTSUKtFLPPDxW2Poros3p5wbTH9ea_J8XeQTScVGkyp5aSaoskmwbxLh0E8reSVcQQdKDWCYShGZqj2htZ4Lt41Lr2iDMw",
-          "thumbnail_path": "channels/iranintltv/media/597cad62cb8d99a193e9f65d.jpg",
-          "thumbnail_sha256": "ebc22bbd34a91b4407800b2a59b44fcba4a5bcc031f7a0f4c72bb13693e50e07",
-          "duration_label": "5:24",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "52.5K",
-      "posted_at": "2026-09-08T23:13:57+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356413",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356412",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "نیروهای دولت یمن سه‌شنبه دامنه پیشروی خود علیه حوثی‌ها را در چند جبهه گسترش دادند و اعلام کردند کنترل منطقه الیتمه در استان الجوف را به دست گرفته‌اند.<br><br>هم‌زمان، عملیات گسترده نیروهای دولتی در استان البیضا آغاز شده است و درگیری‌ها در ساحل غربی و غرب تعز نیز ادامه دارد.<br><br>نیروهای دولت یمن می‌گویند پس از مهار حملات زمینی چند روز اخیر حوثی‌ها، اکنون ضدحمله را آغاز کرده و ابتکار عمل را در چند محور به دست گرفته‌اند.<br><br>پیشروی در الیتمه یک روز پس از بازپس‌گیری منطقه اللبنات در جنوب این منطقه اعلام شده است.<br><br><a href=\"https://iranintl.com/202609087273\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609087273</a>",
-      "plain_text": "نیروهای دولت یمن سه‌شنبه دامنه پیشروی خود علیه حوثی‌ها را در چند جبهه گسترش دادند و اعلام کردند کنترل منطقه الیتمه در استان الجوف را به دست گرفته‌اند.\n\nهم‌زمان، عملیات گسترده نیروهای دولتی در استان البیضا آغاز شده است و درگیری‌ها در ساحل غربی و غرب تعز نیز ادامه دارد.\n\nنیروهای دولت یمن می‌گویند پس از مهار حملات زمینی چند روز اخیر حوثی‌ها، اکنون ضدحمله را آغاز کرده و ابتکار عمل را در چند محور به دست گرفته‌اند.\n\nپیشروی در الیتمه یک روز پس از بازپس‌گیری منطقه اللبنات در جنوب این منطقه اعلام شده است.\n\nhttps://iranintl.com/202609087273",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356412",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qowwV-2uFdGoZpIBNuRjjlQ6fbZDPs9Z28776Mp3n6ZvzbnOCBH1DjZrXebbzpTK4QWIvbHE7JECy1FpuBrggI-3exHQpO4RKK7XyxoVV6bvNWGbQ-3EGXRn_IzMwqBlxFchIzJHDZI2Sw97exXYg5B15h8KWPKlIAld61X-HVM7Btt5oDphGLeJ9xMv4-8zZDoCSYBu72CzEyX9LXpxAqq-KLmajclOTVP4Lf7_mzQKusKkwjvj03Sl366y7xUZTfHpleuhmX2PeiJID8OEldQPXaH1BrPm5Uf1WOPKSMpiuB3UiaL2pBPiUQXN6Me0QyHVa0AX4D7VKIy3QgZ7GQ.jpg",
-          "thumbnail_path": "channels/iranintltv/media/154d30a4a6f18e1b858dee61.jpg",
-          "thumbnail_sha256": "625231cfd727690b1ad7f1956ed5967ec0f40cc8aa091dee5d0f1c5563309122",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "52.9K",
-      "posted_at": "2026-09-08T23:12:17+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356412",
       "reply": null
     }
   ]
