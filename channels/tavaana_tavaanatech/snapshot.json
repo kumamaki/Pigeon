@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T08:07:47.361Z",
+  "fetched_at": "2026-09-09T08:12:51.260Z",
   "channel": {
     "username": "tavaana_tavaanatech",
     "title": "آموزشکده توانا",
@@ -35,14 +35,18 @@
       "reactions": [
         {
           "emoji": "🕊",
-          "count": "3"
+          "count": "4"
+        },
+        {
+          "emoji": "❤",
+          "count": "1"
         },
         {
           "emoji": "💔",
           "count": "1"
         }
       ],
-      "views_label": "483",
+      "views_label": "490",
       "posted_at": "2026-09-09T06:13:13+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105994",
@@ -75,7 +79,7 @@
           "count": "5"
         }
       ],
-      "views_label": "493",
+      "views_label": "500",
       "posted_at": "2026-09-09T06:01:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105993",
@@ -116,7 +120,7 @@
           "count": "1"
         }
       ],
-      "views_label": "479",
+      "views_label": "486",
       "posted_at": "2026-09-09T05:41:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105992",
@@ -157,7 +161,7 @@
           "count": "1"
         }
       ],
-      "views_label": "1.33K",
+      "views_label": "1.34K",
       "posted_at": "2026-09-08T20:46:41+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105991",
@@ -231,7 +235,7 @@
           "count": "3"
         }
       ],
-      "views_label": "981",
+      "views_label": "982",
       "posted_at": "2026-09-08T15:58:38+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105989",
@@ -434,7 +438,7 @@
           "count": "1"
         }
       ],
-      "views_label": "725",
+      "views_label": "726",
       "posted_at": "2026-09-08T14:40:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Tavaana_TavaanaTech/105976",
