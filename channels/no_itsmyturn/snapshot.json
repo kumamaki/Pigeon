@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T07:31:42.064Z",
+  "fetched_at": "2026-09-09T07:36:43.767Z",
   "channel": {
     "username": "no_itsmyturn",
     "title": "Aleph (no_itsmyturn)",
@@ -41,8 +41,8 @@
           "asset_url": "https://t.me/no_itsmyturn/110848",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/L_TOL5_FtgXEQJPhWkyxz3jy0fkJBvBGi2xTwoienrYyFJbSQRUp5Yxkjrbu5j1pkTOw436gMwpMGpvFGtRa5myh_cJH0dFafxkCPxUsyUd6RUI3vUcSH1g1xVFLRvBtMdlUlgyLjOeTwXapBkBpGuLRt1h0yOR5ZWcJR_Kt9H3fSSzvEDq_F72dJ9lnynnlPUt6bJyJHyym1kQKh-Y5Z6RIXV-FuM2e99WhlfxLpb9JmXMO4VbY-SM5aDpwscT-_jKRIJuAyUq9KnfJ4kTuW6pj48R2CtMU8koL4jcF3f3uV8y3Q24qNkuZfbIjs05VrGMaPlAjSCloVIloFcqd0w.jpg",
-          "thumbnail_path": "channels/no_itsmyturn/media/6704dae07c3b9def7ab72c7f.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/evhX2DXoaqOFVi49tRz461B6OsuujgmkawHoeGsMEXr4PAgChkdiZwz5UrpDg1lj8ch_Ya9jkfzuXygdcM_6D4bFikvj4Qk2hVJu9vjQSTeLOJMRvQCX-Jc4Y-Lqv6ZShRUukdvPjHOQs507P3QbYxjVRPjgF9Bt970qEZrxNrKxvihPeYcKMS5XTUlWL-qDaRrljSO04lylqfFVsjH2X_kKzE7sMIHiHPw2iF5ybeFxEfEsV_xf-gErKZ1rggNgrOr9v6qXvvuJHgt6c0wPTiJZznjB-aQFGKOXgHe1alL1-OydejLw93a2yjyZhOCdMYP30E_bg14S69m7vMAMeQ.jpg",
+          "thumbnail_path": "channels/no_itsmyturn/media/0a58b2ebfa3522dcd9981609.jpg",
           "thumbnail_sha256": "5bb97a16effaa83bd49a21269df8da21ec32725d1a85069d9f18a4b1563bc243",
           "duration_label": null,
           "aspect_ratio": 10.526315789473685
@@ -149,8 +149,8 @@
         "post_id": "110845",
         "author_name": "Aleph (no_itsmyturn)",
         "preview_text": "Reported image of the vehicle transporting Maurice Selim, the Defense Minister of Lebanon 🇱🇧. This incident occurred less than 24 hours following the death of a Hezbollah militant in Kahaleh, where their ammunition truck had overturned, sparking clashes…",
-        "thumbnail_url": "https://cdn4.telesco.pe/file/MGsZNkkUvdpjER0j0odeD44MKh-fEdNrV7vRg5XSdf96Gfw3jd7p7z_YP5-OFj2oiONmWvAyQ6juzTKzGqye44Z8jxxedwmHVL7U0iZSuuXGs2Ox1-zQnWPZ2g9wSSkeWpfjxp8YAbstPvi-C_hDw2Z6O37Plaz5iSOzmw1Zyg8bR4VbmT8cBxAuQZk8o8mZivdCdTaYZ2vS7yqd3FYt6T5dmF5A1p75OlDs6KHLnwXHRt80JqOQYgc7NoPot_hTTlrm6EPo81wN1FGyf4BK5SUfvq_dQFJe7VBcaYWPlkx16xLI0TquJLE2kavFEjEHar3NQ67J27g3XWJMDCG0fA.jpg",
-        "thumbnail_path": "channels/no_itsmyturn/media/63ebc5ab371e3e6f2f8f0bfa.jpg",
+        "thumbnail_url": "https://cdn4.telesco.pe/file/LTzqmJZnmxWyh-2DEd3ZoKdIlFwSj0CrCmLxpWOcqloFLlO9__Sq2_mb4gr9KGUwKC8-PAIHF2eyaoEndHnnX7yz-Ty_Rha-f88Zm-cW6j_HGS9At6TGanwsqoUaYignqVYuSYyoCDUbl_tIm44QEH91Kcuu55JkIR-5ytAQZyU42JZxK_4G_aUeZsSun15eM9ItOSXrrJZOSIq_OE4dPGv5DXcFbnij6mXF3F4JJYo6VKSK3-bi_r6dysBR2RulwDlOAnlzHijDfV60V8-cmN5BUo84sN1_vZDpLOhipZEAZPqTHboMH4V1vqKhDs5Q8Z-oNm9vo6Az1qLmxm4hkQ.jpg",
+        "thumbnail_path": "channels/no_itsmyturn/media/96e1a611f3e68c2716553716.jpg",
         "thumbnail_sha256": "28b39c920ad7bb3ec33bc2ed4254d10be7beb8ec7b0b703a60d8eb6c922be911",
         "permalink": "https://t.me/no_itsmyturn/110845"
       }
@@ -566,8 +566,8 @@
           "asset_url": "https://t.me/no_itsmyturn/110830",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/FS445chkEyouEfoK_aEGuHXG5sNc-LxvJpEv-GhI6WdEnBbr8B1wrm5eWMlHodFRPBiiYi3tJnH1dXqcrtkIAx4blNqKuN1INDa6RVnUSiIOT5ioiyezND4NMVj5kcbGQCeJhSAmL6N8dV2typ1XLIz8kRZZaGGkK2zBrb880zqkMZV6OjoJVjqWe8XUjSm8s3QMgrYS3YuB0secEo9R_YW35A_VT_nYCxHx8kxvTe2gqSU5Mdpnw769TC46pz_zFwMPc2fDC-B5fiAXdJMdx3HvGg79ki4oKvkG_2IUMLn4Gjt3pqNF_nnQPdxs1W09uwuklAkDlYjeUEN3X54vQQ",
-          "thumbnail_path": "channels/no_itsmyturn/media/dcfa579462e70bc026cc91c0.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/tCPUz5PuKpCI9fTkBjUqSTFODDxmw9udXlm4ccvWzTtv1fpE0VDVL0QF974GK2NbSMbF8ZxU2szGsinlLekSSS9WXtXBG5ZjhedOB2Pn2FLjzEzMGiJGK-MousNGevyBt4b6XVaHfMI2kP9LAQh5cHrS2pllsTtmVY9y928eAhGoYohcY349OUdJYbI_6QuRQM8HKXiHrOPyAot4uCgfP_7SWV4w-OBVB8-zEgUOpbtwgZYZJK-O4bbLHwZFN9qIYZIeCCdYSeI7VDWjyduuRGQ5krL-bh6O_Rs4qVzqdrVxSZFoltHZ7yk7LlTxkm33g3xyuMW06tDZ6rqK7lNsoA",
+          "thumbnail_path": "channels/no_itsmyturn/media/02b120db0c25d139817125f0.jpg",
           "thumbnail_sha256": "24c1823937bbe64498265807988e53666c72f7490d567a2c02c8e7dde706934e",
           "duration_label": "0:28",
           "aspect_ratio": 0.7500000000000188
