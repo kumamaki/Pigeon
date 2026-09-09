@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T22:47:10.620Z",
+  "fetched_at": "2026-09-09T22:53:07.690Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -11,6 +11,43 @@
     "subscriber_count": "217K"
   },
   "posts": [
+    {
+      "id": "sahamnewsorg/147261",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/Zoy8RFbVnnaOpXDYanUjc5P5TFWbyANk5oxWrUqjD9t-XDEhYDSx_1Ve3cWAyXPB_rL8HAYVvMR3KiZC4wqiAPfDfFJXxSLfdh0H6MrVA7mvZNB7JhQO0cBZP2cxnI0_0tF6osIdEI0vW5E18v6kdPLgdAz7mpOwa5RbBSgPMvq0NCGBNNMENMbIyGkPypZ3k2MPnh7Ml6iQcolcq1icALbTDCDR2b8fBXBOiJ7uzCs7QMep5OcHU_kpfHfu772WEdytKOUTB9bCvI0qRv5ldOne98_8jcVQrqffy8o-4OQJVba0WO-Nv2mUfdVZY7QlpqFezRIxeCSU_Qd7J2-ewg.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/495ecc8ee04d25aeb2362aae.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>عقل منفصل ⁧ <a href=\"?q=%23%D8%B1%D9%87%D8%A8%D8%B1_%D9%85%D9%88%D8%B1%D9%88%D8%AB%DB%8C\">#رهبر_موروثی</a> ⁩ می‌گه:«فعلا به خاطر جنگ‌ به مسئله‌ی ⁧ حجاب ⁩ وارد نمی‌شیم، بعد از جنگ پوست‌تون رو می‌کنیم!!!»<br>‏ تو جنگ هم دست از ⁧ تهدید مردم ⁩ برنمیدارن این شارلاتانا<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅عقل منفصل ⁧ #رهبر_موروثی ⁩ می‌گه:«فعلا به خاطر جنگ‌ به مسئله‌ی ⁧ حجاب ⁩ وارد نمی‌شیم، بعد از جنگ پوست‌تون رو می‌کنیم!!!»\n‏ تو جنگ هم دست از ⁧ تهدید مردم ⁩ برنمیدارن این شارلاتانا\n\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/147261",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/iNBSZQzijimMVoEBHVKpw_rFoXm3-5-iRke_ZXs3Tsj4fqzZ0oKjXPfqHWk5ZF8QXrzzAk1xvBec7plY9iylBOZlHJiulxWuqh4AuERCgKUge8CRWapShVNI0MKJwyzAyOOfpaDTYIEYQBwMRJ1bAZnq-XZrkvd_hAPSVYBwxWJ9mLIbruwZbo5UnD22-XHqQlZUbLcjMCO3u2Fgb4qJ9TNFl7a4OMp7ZslbZXWqug7eEas6ME4PvFkdgcQh81dwOnfCSPOUtH_UFwN0venB2a7F462Y6wuTBYWrdnNIjv2-SSd6FZEUxxNn2L7BdANmDzjZOPrkRxYkRMLVxUaS5w.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/f177675c6ab48d0f31de2698.jpg",
+          "thumbnail_sha256": "145fe5de4c81628f3845ffe33f1d1ffb2fdb2a49ac25fa2b685f5a6f979e5aca",
+          "duration_label": null,
+          "aspect_ratio": 0.892500000000007
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.43K",
+      "posted_at": "2026-09-09T22:47:27+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147261",
+      "reply": {
+        "channel_username": "sahamnewsorg",
+        "post_id": "147217",
+        "author_name": "سهام نیوز",
+        "preview_text": "✅حدادعادل خط و نشان کشید به دلیل شرایط جنگ، فعلا نمی‌توانیم آن‌طور که باید وارد مسأله حجاب شویم الان کارمان از سال ۶۰ که وارد شدیم سخت تر است 🔻بدبختی همین جاست که افراد فرصت طلبی مانند حدادعادل که با نظام گذشته همکاری می کردند بعد از انقلاب در برخی از مراکز…",
+        "thumbnail_url": "https://cdn4.telesco.pe/file/TmXWhNPUymb0nJqvqnF00GKs-TXntssmhpMvBwxfxtd31gZ7qGB0Mh7vMW9NUthEIaeJs2H90iQkCl-uj1IHl95Zg8JgXbLtAQHlDNbhLSu4c4N8A0ae8vfZMxintbLWJxeUlCZUGme9-Q9eBbUeqfPf-6fr3wB3yEfd_vdaOyQaZyR0aZ5JbTY4WrCOj2oV8xX4NtWh8hFlU-ocHu_9OsCeZz4HpGtWX1fS4spaVnbrUc7iqSBkzI9kb8zHV_ZK1T6wuA3Kc5vhinh0tZnVx3ikWhuaLH_jGfhAktiPr1xGTVfcgWVpo925sxGPdL1kaCXFFdIt0gKiyE3zzPImjQ",
+        "thumbnail_path": "channels/sahamnewsorg/media/5198a12fbc39fa94c00c58d7.jpg",
+        "thumbnail_sha256": "65470a1a32fa4d3c831951a5746fef36973fc149a7818bcb6021f78673150dcb",
+        "permalink": "https://t.me/sahamnewsorg/147217"
+      }
+    },
     {
       "id": "sahamnewsorg/147260",
       "author_name": "سهام نیوز",
@@ -33,7 +70,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.4K",
+      "views_label": "2.54K",
       "posted_at": "2026-09-09T22:41:53+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147260",
@@ -61,7 +98,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.68K",
+      "views_label": "10.4K",
       "posted_at": "2026-09-09T22:00:24+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147259",
@@ -89,7 +126,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.4K",
+      "views_label": "11K",
       "posted_at": "2026-09-09T21:57:34+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147258",
@@ -117,7 +154,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "23.6K",
+      "views_label": "24K",
       "posted_at": "2026-09-09T20:46:58+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147257",
@@ -133,7 +170,7 @@
       "plain_text": "✅انفجار نارنجک در مهران؛ یک کشته و ۲ مأمور زخمی شدند\n\n🔸 فرماندار مهران از انفجار یک قبضه نارنجک هنگام انتقال متهم امنیتی در شهرک اسلامیه خبر داد که بر اثر آن متهم کشته و ۲ ضابط قضایی مصدوم شدند.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "23.5K",
+      "views_label": "23.8K",
       "posted_at": "2026-09-09T20:45:17+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147256",
@@ -149,7 +186,7 @@
       "plain_text": "✅وزیر خارجه آمریکا: اقتصاد ایران را خفه خواهیم کرد\n\nایران بهای حمله به کشتی‌های جنگی ما را خواهد پرداخت\n\n🔸 وزیر امور خارجه آمریکا در تازه‌ترین اظهارات خود درباره ایران گفت که به باور او، هیچ کشور یا نهادی در حال حاضر از تهران حمایت نظامی نمی‌کند.\n\n🔸 او همچنین مدعی شد که ایران همچنان به سمت کشتی‌های جنگی آمریکا شلیک می‌کند و گفت تهران با از دست دادن نفتکش‌های خود، بهای این اقدامات را خواهد پرداخت.\n\n🔸 وزیر خارجه آمریکا در ادامه با تأکید بر تداوم فشارهای اقتصادی علیه تهران گفت: «ما به خفه کردن اقتصادی ایران ادامه خواهیم داد.»\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "24.3K",
+      "views_label": "24.7K",
       "posted_at": "2026-09-09T20:41:31+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147255",
@@ -165,7 +202,7 @@
       "plain_text": "✅حمله به هواپیمای حامل زلنسکی\n\nهواپیمای حامل رئیس‌ جمهور اوکراین که برای مراسم تشییع جنازه پادشاه نروژ به اسلو می‌رفت، هنگام برخاستن از مولداوی در آستانه هدف قرار گرفتن توسط یک پهپاد بود.\n\nرویترز جزئیات دیگری از این حادثه را هنوز منتشر نکرده است.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "25.1K",
+      "views_label": "25.4K",
       "posted_at": "2026-09-09T20:38:22+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147254",
@@ -181,7 +218,7 @@
       "plain_text": "✅قطعنامه آمریکا و اروپا علیه برنامه هسته‌ ای ایران در شورای حکام تصویب شد\n\nاین قطعنامه با ۲۳ رأی موافق، ۸ رأی ممتنع و ۳ رأی مخالف به تصویب رسید/ایرنا\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "54.1K",
+      "views_label": "54.3K",
       "posted_at": "2026-09-09T16:34:25+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147253",
@@ -209,7 +246,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "57.4K",
+      "views_label": "57.6K",
       "posted_at": "2026-09-09T16:18:14+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147252",
@@ -225,7 +262,7 @@
       "plain_text": "✅وزیر میراث فرهنگی: چین مانع حضور گردشگرانش در ایران شده\nحرف چینی‌ها این است که منتظر بازگشت امنیت به ایران هستیم.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "52.6K",
+      "views_label": "52.8K",
       "posted_at": "2026-09-09T15:59:25+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147251",
@@ -253,7 +290,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "54K",
+      "views_label": "54.1K",
       "posted_at": "2026-09-09T15:31:38+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147250",
@@ -269,7 +306,7 @@
       "plain_text": "✅روزنامه جروزالم پست: اسرائیل در حال حاضر خود را برای یک حمله چندجانبه از سوی ایران در روزهای آینده، همزمان با سال نو یهودی که برگزار می‌شود، آماده می‌کند.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "52K",
+      "views_label": "52.1K",
       "posted_at": "2026-09-09T15:22:15+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147249",
@@ -297,7 +334,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "54.1K",
+      "views_label": "54.2K",
       "posted_at": "2026-09-09T14:43:49+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147248",
@@ -334,7 +371,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50.6K",
+      "views_label": "50.7K",
       "posted_at": "2026-09-09T14:35:53+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147247",
@@ -362,7 +399,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.7K",
+      "views_label": "49.8K",
       "posted_at": "2026-09-09T14:31:37+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147246",
@@ -399,7 +436,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "57.6K",
+      "views_label": "57.7K",
       "posted_at": "2026-09-09T14:28:11+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147245",
@@ -415,7 +452,7 @@
       "plain_text": "✅نماینده مجلس: خودروی چینی را دو برابر قیمت به مردم فروختیم\n\nمجتبی یوسفی:خودروی بی‌کیفیت چینی در هر ۱۰۰ کیلومتر ۱۰ تا ۱۲ لیتر بنزین مصرف می‌کند و دو برابر قیمت به مردم فروخته شده است.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "47K",
+      "views_label": "47.1K",
       "posted_at": "2026-09-09T14:27:54+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147244",
@@ -443,7 +480,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "48.7K",
+      "views_label": "48.9K",
       "posted_at": "2026-09-09T14:20:49+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147243",
@@ -471,7 +508,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "51.3K",
+      "views_label": "51.4K",
       "posted_at": "2026-09-09T13:50:30+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147242",
@@ -2283,22 +2320,6 @@
       "posted_at": "2026-09-08T09:12:30+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147162",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147161",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/FKF1cckJAUtPCvrEDvhdUz7NZYvAf1EHIJitsyRN8VE6idlFJSlSu2K2xwDGVxKifuLkRZo545Eqoc49ZLmPoSTyOLoyCKDmEN3g4SAk_F1iRgeiTdyhFUQAMgLZ_i79FYzHGzdPVDjFbMrSBqkn52UyYzaCp3ckUiaqX6ED8F0x46VghW61EdReQFxfqL1FfFJD5tD1JPbY4-VlLtyHG_j1T88K3wFHTxO0-qIYXcQF7V695Ey_HoDkfis8UETFy0hyQ9WdEneqSKbA4wd5fYVnHLYawYY5EhbuuZ_X_366M-abZdl4zvZZQgVaE4H3IDNMUExb2Ss8l2_ckTXB3A.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/bf7f0b170836be3cfa34280a.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>ابن الرضا سرپرست وزارت دفاع: توان زدن ناو‌های محاصره‌کننده آمریکایی را داریم؛ ان‌شاءالله نتایجش را می‌بینید</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>حداد عادل ۲۰ سال پیش وعده داد ایران رو تبدیل به ژاپن اسلامی خواهیم کرد حالا معلوم شده دامادش می خواد ایران رو تبدیل به هیروشیمای ژاپن در زمان جنگ جهانی دوم کند<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅ابن الرضا سرپرست وزارت دفاع: توان زدن ناو‌های محاصره‌کننده آمریکایی را داریم؛ ان‌شاءالله نتایجش را می‌بینید\n\n🔻حداد عادل ۲۰ سال پیش وعده داد ایران رو تبدیل به ژاپن اسلامی خواهیم کرد حالا معلوم شده دامادش می خواد ایران رو تبدیل به هیروشیمای ژاپن در زمان جنگ جهانی دوم کند\n\n@Sahamnewsorg",
-      "media": [],
-      "reactions": [],
-      "views_label": "50.8K",
-      "posted_at": "2026-09-08T09:09:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/sahamnewsorg/147161",
       "reply": null
     }
   ]

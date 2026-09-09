@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T22:47:12.840Z",
+  "fetched_at": "2026-09-09T22:53:09.886Z",
   "channel": {
     "username": "whitedns",
     "title": "White DNS",
@@ -11,6 +11,27 @@
     "subscriber_count": "108K"
   },
   "posts": [
+    {
+      "id": "whitedns/1745",
+      "author_name": "White DNS",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kugO4Sx9plmhqi_-U-v-pyvm0O8ysmN1hjV1Pf1mn1zIMmeV25QCSgG4lwLSpMwRUn4a12xT832nMUWAbXgQjEIdZsgiyfJASqGM2kcdMTsij_lnaiXmVWJpvaIYDPE8zkfL01WMZHGEnaLlJLI1ol0Mv1AVnSZO9stZzAXAzPZkudfSRFD8shojnGBfgD13bA2dCfBHVz47aL2zimDQcBc70YJICVC-6HrI_O_zTlYldgrWqmSRr-ZbD4pQZ4xkcCypMtGdOIbMm1Q9odjpsTGt6EjzTDoRRoCcbEnzliIlHu1I1TLuqfofh23y4jzhtBtNfsUeKG_63cw-2xFszg.jpg",
+      "author_photo_path": "channels/whitedns/media/ff211cfb3efe0f7033a6ff49.jpg",
+      "author_photo_sha256": "333c4e41d2bf79dd691d47900c56c348640a2318a91227017dc547fbda818224",
+      "body_html": "با WhiteAesther به Tor و Psiphon وصل شو! <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i><br><br><a href=\"https://youtu.be/WiybhJ7ylps\" target=\"_blank\" rel=\"noopener\">https://youtu.be/WiybhJ7ylps</a><br><br>آخرین نسخه WhiteAesther <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA68B.png')\"><b>🦋</b></i><br><br><a href=\"https://github.com/WhiteDNS/WhiteAesther\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">WhiteAesther Windows</a><br><br><a href=\"https://github.com/WhiteDNS/WhiteAestherMobile\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">WhiteAesther Android</a>",
+      "plain_text": "با WhiteAesther به Tor و Psiphon وصل شو! 🔥\n\nhttps://youtu.be/WiybhJ7ylps\n\nآخرین نسخه WhiteAesther 🦋\n\nWhiteAesther Windows\n\nWhiteAesther Android",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": "6"
+        }
+      ],
+      "views_label": "281",
+      "posted_at": "2026-09-09T22:50:06+00:00",
+      "edited": false,
+      "permalink": "https://t.me/whitedns/1745",
+      "reply": null
+    },
     {
       "id": "whitedns/1743",
       "author_name": "White DNS",
@@ -23,7 +44,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "148"
+          "count": "150"
         },
         {
           "emoji": "❤‍🔥",
@@ -31,7 +52,7 @@
         },
         {
           "emoji": "👍",
-          "count": "3"
+          "count": "4"
         },
         {
           "emoji": "🤩",
@@ -58,7 +79,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.1K",
+      "views_label": "7.22K",
       "posted_at": "2026-09-09T16:01:47+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1743",
@@ -80,7 +101,7 @@
         },
         {
           "emoji": "❤",
-          "count": "54"
+          "count": "55"
         },
         {
           "emoji": "👍",
@@ -111,7 +132,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.29K",
+      "views_label": "8.39K",
       "posted_at": "2026-09-09T14:27:54+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1741",
@@ -145,7 +166,7 @@
         },
         {
           "emoji": "❤",
-          "count": "63"
+          "count": "64"
         },
         {
           "emoji": "🤣",
@@ -184,7 +205,7 @@
           "count": "1"
         }
       ],
-      "views_label": "10.6K",
+      "views_label": "10.7K",
       "posted_at": "2026-09-09T08:20:51+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1740",
@@ -294,7 +315,7 @@
           "count": "1"
         }
       ],
-      "views_label": "14.5K",
+      "views_label": "14.6K",
       "posted_at": "2026-09-08T08:02:42+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1738",
@@ -566,7 +587,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.8K",
+      "views_label": "15.9K",
       "posted_at": "2026-09-06T11:19:46+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1734",
@@ -631,7 +652,7 @@
           "count": "1"
         }
       ],
-      "views_label": "17.1K",
+      "views_label": "17.2K",
       "posted_at": "2026-09-06T11:19:40+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1729",
@@ -5463,63 +5484,6 @@
       "posted_at": "2026-08-25T04:30:23+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1597",
-      "reply": null
-    },
-    {
-      "id": "whitedns/1596",
-      "author_name": "White DNS",
-      "author_photo_url": "https://cdn4.telesco.pe/file/O1zsqJ255LgT5Ukaqz2IiLG9dLLRVkK-wHpqoR5pDCXa-2jggB5HlxRacDti_5DVcFGFthg1zS-lmH-0G8IoXA4_Nlqllx_Nd-NK7vO2l2PwN-pjDuzq1huhgFKavqLAv8Jnw5Gh4pZbIn5OjFdxyqSj5Q2EVokhCMsjR8P6feDQaaWE1nLJ1agdMZK8WmBwLHCTJSiYth59eTAWYVtrSIvtJzp3pabqKxL_sMi3j5X3tFIcWabnkn15COdkzGaWIpqag2iN9EA6S8kkKagGF869jr_0KfLgA8fZcqKneap8KFTmbKLSvTDMx2pNN12Z8VgsxAcVOsgAwyl87ksrnw.jpg",
-      "author_photo_path": "channels/whitedns/media/e949376a516faa9033438252.jpg",
-      "author_photo_sha256": "333c4e41d2bf79dd691d47900c56c348640a2318a91227017dc547fbda818224",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B9.png')\"><b>📹</b></i></b>  <b>آموزش اپلیکیشن WhiteVPN کامپیوتر و استفاده اپ داخل <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8D8F.png')\"><b>🍏</b></i> آیفون برای کاربران IOS <br></b><br><a href=\"https://youtu.be/tm0ls3r4ppw\" target=\"_blank\" rel=\"noopener\">https://youtu.be/tm0ls3r4ppw</a>",
-      "plain_text": "📹 آموزش اپلیکیشن WhiteVPN کامپیوتر و استفاده اپ داخل 🍏 آیفون برای کاربران IOS\n\nhttps://youtu.be/tm0ls3r4ppw",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "❤",
-          "count": "134"
-        },
-        {
-          "emoji": "👍",
-          "count": "6"
-        },
-        {
-          "emoji": "👏",
-          "count": "3"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "1"
-        },
-        {
-          "emoji": "🔥",
-          "count": "1"
-        },
-        {
-          "emoji": "🥰",
-          "count": "1"
-        },
-        {
-          "emoji": "🥱",
-          "count": "1"
-        },
-        {
-          "emoji": "🥴",
-          "count": "1"
-        },
-        {
-          "emoji": "😨",
-          "count": "1"
-        },
-        {
-          "emoji": "💊",
-          "count": "1"
-        }
-      ],
-      "views_label": "13.8K",
-      "posted_at": "2026-08-24T22:10:12+00:00",
-      "edited": false,
-      "permalink": "https://t.me/whitedns/1596",
       "reply": null
     }
   ]
