@@ -1,19 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-09T19:07:08.989Z",
-  "succeeded": 20,
-  "failed": [
-    {
-      "username": "bbcpersian",
-      "error": "fetch failed"
-    },
-    {
-      "username": "durov",
-      "error": "fetch failed"
-    },
-    {
-      "username": "farsi_iranwire",
-      "error": "fetch failed"
-    }
-  ]
+  "generated_at": "2026-09-09T19:12:39.628Z",
+  "succeeded": 23,
+  "failed": []
 }
