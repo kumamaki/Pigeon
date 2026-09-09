@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T07:53:37.328Z",
+  "fetched_at": "2026-09-09T07:56:38.072Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229957",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "مدیرکل دفتر خدمات تخصصی و فوق تخصصی سازمان بیمه سلامت ایران گفت از ابتدای سال تاکنون چند بار افزایش قیمت دارو انجام شده است.<br><br>مریم آزادی گفت همه این موارد از سوی دبیرخانه شورای عالی بیمه سلامت به سازمان‌های بیمه‌گر پایه اعلام می‌شود و آخرین افزایش نیز در روزهای اخیر در سامانه‌های بیمه سلامت اعمال شد.<br><br>اظهارات او در حالی مطرح می‌شود که سیدمحمد جمالیان، عضو کمیسیون بهداشت مجلس شورای اسلامی، روز دوشنبه گفت برخی داروخانه‌ها دیگر توان تهیه دارو ندارند.<br><br>احمد آریایی‌نژاد، عضو دیگر همین کمیسیون، گفت شماری از بیماران به دلیل گرانی دارو درمان خود را به تعویق انداخته یا رها کرده‌اند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "مدیرکل دفتر خدمات تخصصی و فوق تخصصی سازمان بیمه سلامت ایران گفت از ابتدای سال تاکنون چند بار افزایش قیمت دارو انجام شده است.\n\nمریم آزادی گفت همه این موارد از سوی دبیرخانه شورای عالی بیمه سلامت به سازمان‌های بیمه‌گر پایه اعلام می‌شود و آخرین افزایش نیز در روزهای اخیر در سامانه‌های بیمه سلامت اعمال شد.\n\nاظهارات او در حالی مطرح می‌شود که سیدمحمد جمالیان، عضو کمیسیون بهداشت مجلس شورای اسلامی، روز دوشنبه گفت برخی داروخانه‌ها دیگر توان تهیه دارو ندارند.\n\nاحمد آریایی‌نژاد، عضو دیگر همین کمیسیون، گفت شماری از بیماران به دلیل گرانی دارو درمان خود را به تعویق انداخته یا رها کرده‌اند.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229957",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/To5wSwgcApxg0m2m17gyPIypxqZZ3L726gzDq9j_6hjZl8RpB6rSroaSlTx2JONPed0CywJrkmuPWCeCkzJvoFIYTpTiRax_XB3PHYUTlE9F0JX-Bf-mY-UtiT0UsxnHzh6UZQJYH593btE319qJFx4CLIICa-4KHx3RQo7ojL716wZ51lFOOsgeMt6WXdT0-kN651cukjKlNNoPBQcji5B--Qabe17t0yj2Bw2W3qGZ81yuMlKx0jJI8yQKaE1uj2H1k6zh8P-LAYJGbKNemZjQgcZjtM3qJrM7kaJtpfqpi7LaG57Zgu8toF3Pljb31prOyktGv0F-sItjYx_Gtw.jpg",
+          "thumbnail_path": "channels/farsivoa/media/dd7a7e7544c60436731c0e9c.jpg",
+          "thumbnail_sha256": "6c1788e2d8f3d5004432eba9cd3acc270f9ff5abc34973358f9157363f2a8165",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "124",
+      "posted_at": "2026-09-09T07:55:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229957",
+      "reply": null
+    },
     {
       "id": "farsivoa/229956",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "635",
+      "views_label": "726",
       "posted_at": "2026-09-09T07:41:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229956",
@@ -49,7 +77,7 @@
       "plain_text": "🔺حمله پهپادی روسیه به گذرگاه مرزی اوکراین و مولداوی\n\n▪️پهپادهای روسیه شامگاه سه‌شنبه گذرگاه مرزی میان اوکراین و مولداوی را هدف قرار دادند و چندین کشته، زخمی و آتش‌سوزی بر جای گذاشتند.\n\n▪️روسیه شامگاه گذشته کی‌یف را نیز هدف گرفت. سازمان خدمات اضطراری اوکراین در تلگرام اعلام کرد حمله آتش‌سوزی ایجاد کرد اما تلفاتی نداشت.\n\n▪️بر پایه اعلام وزارت زیرساخت اوکراین، روسیه ظرف یک هفته گذشته چهار بار گذرگاه‌های مرزی جنوب این کشور را مورد حمله قرار داده است. گذرگاه تاباکی-میرنویه با مولداوی در میان اهداف بود و زیرساخت آنجا ویران شد.\n\n▪️حمله شامگاه دوشنبه به پایتخت اوکراین مرگبارتر بود. بر پایه گزارش کی‌یف ایندیپندنت، این حمله پنج کشته و ۲۹ زخمی بر جای گذاشت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195977.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.05K",
+      "views_label": "1.14K",
       "posted_at": "2026-09-09T07:28:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229955",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.31K",
+      "views_label": "1.37K",
       "posted_at": "2026-09-09T07:17:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229954",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.75K",
+      "views_label": "1.78K",
       "posted_at": "2026-09-09T07:02:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229952",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.84K",
+      "views_label": "1.88K",
       "posted_at": "2026-09-09T06:52:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229951",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.04K",
+      "views_label": "2.07K",
       "posted_at": "2026-09-09T06:36:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229950",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.39K",
+      "views_label": "2.42K",
       "posted_at": "2026-09-09T06:18:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229949",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.58K",
+      "views_label": "2.61K",
       "posted_at": "2026-09-09T06:07:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229948",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.87K",
+      "views_label": "2.9K",
       "posted_at": "2026-09-09T05:48:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229947",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.06K",
+      "views_label": "3.09K",
       "posted_at": "2026-09-09T05:31:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229946",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.1K",
+      "views_label": "3.13K",
       "posted_at": "2026-09-09T05:20:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229945",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.67K",
+      "views_label": "5.7K",
       "posted_at": "2026-09-09T02:29:15+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229942",
@@ -401,7 +429,7 @@
       "plain_text": "🔺سنتکام: جمهوری اسلامی ابزاری برای دفاع از کشتی‌هایش ندارد؛ نفتکش‌های سپاه را منهدم کردیم\n\n▪️ستاد فرماندهی مرکزی آمریکا، سه‌‌شنبه شب به وقت واشنگتن (بامداد چهارشنبه به وقت تهران) ویدیوی انهدام نفتکش ری‌یسکو، یکی از ۵ نفتکش جمهوری اسلامی را که ساعاتی قبل منهدم کرد، منتشر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195937.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "5.43K",
+      "views_label": "5.46K",
       "posted_at": "2026-09-09T02:25:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229941",
@@ -2481,34 +2509,6 @@
       "posted_at": "2026-09-08T13:05:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229856",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229855",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "فرماندهی مرکزی ایالات متحده، سنتکام، تصویری از برخاستن یک جنگنده «ئی‌ای ۱۸جی» از عرشه ناو هواپیمابر «یواس‌اس جرج اچ دبلیو بوش» در جریان عملیات شبانه در دریای عرب منتشر کرد.<br><br>به گفته سنتکام، این ناو در اجرای محاصره دریایی رژیم ایران مشارکت دارد و نیروهای آمریکایی تا ۱۶ شهریور مسیر ۹۴ کشتی تجاری را تغییر داده، سه شناور را از کار انداخته و وارد دو شناور دیگر شده‌اند.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "فرماندهی مرکزی ایالات متحده، سنتکام، تصویری از برخاستن یک جنگنده «ئی‌ای ۱۸جی» از عرشه ناو هواپیمابر «یواس‌اس جرج اچ دبلیو بوش» در جریان عملیات شبانه در دریای عرب منتشر کرد.\n\nبه گفته سنتکام، این ناو در اجرای محاصره دریایی رژیم ایران مشارکت دارد و نیروهای آمریکایی تا ۱۶ شهریور مسیر ۹۴ کشتی تجاری را تغییر داده، سه شناور را از کار انداخته و وارد دو شناور دیگر شده‌اند.\n\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229855",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/Z_TX7TZhRANqeUi3cJATIoGj3zh1Ps7hRwj0djIDUkG-4BjwSIDs0R6-xzw-t05lSuzQFxQBCq4mlAnZDyJ7yjTWBerlclJm34FcDcubpZ1aUwN2KKuV-L5hnQrgPSJR5WvqAPw86lPtxAHZmkIe8SpSi6EKjdpSnLfVOBKO6I6sha_wLSDIPr0cWQpPmjHkZbndgjNEsiWnyvfY-kAAMwmlxtVb1p4ZpRwZzVOZrU8rp2rzDOvwYX2mp_vjcyJVjcKp18cFD0osY_4nEDERwAEyQ04iix7MVacxgWscYeicDEAgHuxYbl8wSAkDVttr7in06j8pLMDwBk174e7SxQ.jpg",
-          "thumbnail_path": "channels/farsivoa/media/156ce2ed318cc8ed49dbf4b7.jpg",
-          "thumbnail_sha256": "7fd756c34363b8a63ad5dbd09d289fa03b42f4919f4fe92cfb00a75a864194d3",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.25K",
-      "posted_at": "2026-09-08T13:03:44+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229855",
       "reply": null
     }
   ]

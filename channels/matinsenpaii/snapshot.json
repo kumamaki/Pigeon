@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T07:53:41.543Z",
+  "fetched_at": "2026-09-09T07:56:41.638Z",
   "channel": {
     "username": "matinsenpaii",
     "title": "Matin SenPai",
@@ -22,27 +22,31 @@
       "media": [],
       "reactions": [
         {
+          "emoji": "⭐",
+          "count": "1"
+        },
+        {
           "emoji": "❤",
-          "count": "162"
+          "count": "198"
         },
         {
           "emoji": "💔",
-          "count": "10"
-        },
-        {
-          "emoji": "🆒",
-          "count": "6"
+          "count": "11"
         },
         {
           "emoji": "🦄",
-          "count": "6"
+          "count": "9"
+        },
+        {
+          "emoji": "🆒",
+          "count": "7"
         },
         {
           "emoji": "😁",
-          "count": "2"
+          "count": "3"
         }
       ],
-      "views_label": "2.33K",
+      "views_label": "2.96K",
       "posted_at": "2026-09-09T07:47:50+00:00",
       "edited": false,
       "permalink": "https://t.me/MatinSenPaii/5211",
@@ -64,11 +68,11 @@
         },
         {
           "emoji": "💔",
-          "count": "595"
+          "count": "600"
         },
         {
           "emoji": "😁",
-          "count": "195"
+          "count": "199"
         },
         {
           "emoji": "❤",
@@ -76,22 +80,22 @@
         },
         {
           "emoji": "👍",
-          "count": "10"
+          "count": "11"
         },
         {
           "emoji": "💯",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "🦄",
-          "count": "6"
+          "count": "7"
         },
         {
           "emoji": "🆒",
           "count": "4"
         }
       ],
-      "views_label": "26.4K",
+      "views_label": "26.7K",
       "posted_at": "2026-09-06T20:42:30+00:00",
       "edited": false,
       "permalink": "https://t.me/MatinSenPaii/5210",
@@ -596,7 +600,7 @@
           "count": "4"
         }
       ],
-      "views_label": "27.4K",
+      "views_label": "27.7K",
       "posted_at": "2026-09-05T12:48:10+00:00",
       "edited": false,
       "permalink": "https://t.me/MatinSenPaii/5199",
@@ -650,7 +654,7 @@
           "count": "1"
         }
       ],
-      "views_label": "28.7K",
+      "views_label": "29K",
       "posted_at": "2026-09-05T12:46:50+00:00",
       "edited": false,
       "permalink": "https://t.me/MatinSenPaii/5198",
