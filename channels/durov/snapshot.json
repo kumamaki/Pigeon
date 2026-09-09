@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T04:21:39.934Z",
+  "fetched_at": "2026-09-09T04:26:37.745Z",
   "channel": {
     "username": "durov",
     "title": "Pavel Durov",
@@ -568,8 +568,8 @@
           "asset_url": "https://t.me/durov/532",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/vA5ZrKCbu8ndKUFtVTXk0Y74wpXl9oPB5Xv19MuvindaTBvLUm40__5xOwXjUpQP-vIcstYB60ig72cgo9LpW6HW1ulNPVXZYFy57K-EGarY3VKGzVD-Rrt0RcDCpeH29DxmPE9zHgA1KEXQTRxd7oWqlAvhuV9aPHwF2aWpIjBdp4VAuBlpuCSETkGuvrRYQVY9Brpt1PfDLXCzZrs0oFLjq8Tp5JaUonJfdLBj97MilXx1sN2Qud73j1-LmJUY-ud74FP5BoBNWgzf2eM-noCNwAVLNHNpGz3_vzrLwM5XqPMgSD6FbBVyBrCJIG1Ss_8iQcDRnaF7CwP8exZVfA",
-          "thumbnail_path": "channels/durov/media/e1432947035d5ab0b2fcc822.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ZNJkF0LXHpCGR7pksGHeSl7fMSLZPqKuqsPvEpmN8YkgYYbteWpvMVJd9L8H250QLlE4nvKtAMQ2TNq4wpfO10yks52gJodZsrtAknjDIni9MS3m-NLHLw-h2u6uDfQfncjCS49FM7Rv0t9HpE1mROI0YK8l-jgRXsBcEDB-KCxCjeDKzhpinMu5Kjavx6TZwB_wfF_69YLkY44YfqijaczauovtIqvI9QSNJT3VOYvzHSg70APt_aBws5STF-YTH6yoGVsOHsjwGUi4uxrxl71FawecovGo_whk1z201OqznSbxTWrhykVhur_7ZqcUrPOBry6fpHhZ1lzeDD6mDA",
+          "thumbnail_path": "channels/durov/media/70138e3950b039e7c476dbd9.jpg",
           "thumbnail_sha256": "c2b0204e3c9dc687288c6ef2960f38a248584015b78efc881d814f015ef79a0f",
           "duration_label": null,
           "aspect_ratio": 1
