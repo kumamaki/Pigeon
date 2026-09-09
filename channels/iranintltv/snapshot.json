@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T20:01:36.009Z",
+  "fetched_at": "2026-09-09T20:06:32.731Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "IranintlTV/356551",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "یک شهروند با انتشار ویدیویی در رسانه‌های اجتماعی می‌گوید: «من سال گذشته با فروختن طلاهایی که داشتم کاسبی راه انداختم اما تا امروز حتی سرمایه اولیه من هم برنگشته است.»",
+      "plain_text": "یک شهروند با انتشار ویدیویی در رسانه‌های اجتماعی می‌گوید: «من سال گذشته با فروختن طلاهایی که داشتم کاسبی راه انداختم اما تا امروز حتی سرمایه اولیه من هم برنگشته است.»",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356551",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/KvJKoLQOG4QqXRg7EJ7CN_XW2RJzh2RK4o8NIyGtPMZDv_Ti3d85J0IUEEt-xZrrOtJUABHBXn9ebx_P5nlD-NSXhiW2bhiBGrR5gNSzcrwCXiZi7SwqZVRdbM-6SDLEHyRd48pmY7JHTsWA57ODxUy2qyDmo4LcdUW299sXictQm3rE1-c0ulvyWgnuNUAw4ELYvFcMO0S9Q5FMwxhjFAVv5Q2QYtwaSrqgNzrWNv0e1sfXinzMVnyQgeG0k9j4oOnyEV_LDpx8aubl7F4INQzr-cIK0CIVeoSgENSLkCQny3DxvsFp5rxF_uI2UouUYuNeeYZ24zwpT83z8jcesg",
+          "thumbnail_path": "channels/iranintltv/media/78c0e49b8ac557c08129b845.jpg",
+          "thumbnail_sha256": "728d0c94e1c458c51517cd3a15ffc9e082b4bffcee3e4e516f3d8c36a73e5c98",
+          "duration_label": "0:36",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "3.11K",
+      "posted_at": "2026-09-09T20:03:51+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356551",
+      "reply": null
+    },
+    {
       "id": "IranintlTV/356550",
       "author_name": "Iran International ایران اینترنشنال",
       "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🎧نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: صف‌کشی جامعه جهانی علیه جمهوری‌اسلامی\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "6.28K",
+      "views_label": "10.5K",
       "posted_at": "2026-09-09T19:55:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356550",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.7K",
+      "views_label": "17.8K",
       "posted_at": "2026-09-09T19:48:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356549",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22K",
+      "views_label": "25.2K",
       "posted_at": "2026-09-09T19:34:14+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356548",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.5K",
+      "views_label": "35.7K",
       "posted_at": "2026-09-09T19:20:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356547",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.5K",
+      "views_label": "34.6K",
       "posted_at": "2026-09-09T19:16:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356546",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.6K",
+      "views_label": "34.7K",
       "posted_at": "2026-09-09T19:14:18+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356545",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.8K",
+      "views_label": "38.9K",
       "posted_at": "2026-09-09T19:01:33+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356544",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.9K",
+      "views_label": "43K",
       "posted_at": "2026-09-09T18:55:31+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356543",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45.2K",
+      "views_label": "47.2K",
       "posted_at": "2026-09-09T18:41:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356542",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50.4K",
+      "views_label": "51.4K",
       "posted_at": "2026-09-09T18:30:38+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356541",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50.4K",
+      "views_label": "51.5K",
       "posted_at": "2026-09-09T18:23:43+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356540",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "53.6K",
+      "views_label": "54.7K",
       "posted_at": "2026-09-09T18:07:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356539",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50.5K",
+      "views_label": "51.5K",
       "posted_at": "2026-09-09T18:06:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356538",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.5K",
+      "views_label": "50.5K",
       "posted_at": "2026-09-09T18:04:41+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356537",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.5K",
+      "views_label": "50.5K",
       "posted_at": "2026-09-09T18:02:17+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356536",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "56.9K",
+      "views_label": "57.9K",
       "posted_at": "2026-09-09T17:42:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356535",
@@ -469,7 +497,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "58.9K",
+      "views_label": "59K",
       "posted_at": "2026-09-09T17:33:44+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356534",
@@ -497,7 +525,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "57.8K",
+      "views_label": "57.9K",
       "posted_at": "2026-09-09T17:33:32+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356533",
@@ -513,7 +541,7 @@
       "plain_text": "کشتار دی ماه و مساله کیسه‌های حمل جسد\n\nرضا حاجی‌حسینی- از کشتار دی ماه ۱۴۰۴ چه تصاویری در حافظه جمعی ایرانیان باقی مانده است؟ برای بسیاری، ردیف کیسه‌های حمل جسد که خانواده‌ها میانشان می‌گشتند تا شاید پیکر پدر، مادر، فرزند، خواهر، برادر یا دوست و رفیق گمشده خود را پیدا کنند.\nهشت ماه از کشتار معترضان در جریان انقلاب ملی ایرانیان می‌گذرد اما تصاویر کشتار و سرکوب همچنان زنده‌اند و به ذهن و روان بازماندگان و عموم شهروندان برمی‌گردند. \nهشت ماه است کیسه‌های حمل جسد وارد زندگی روزمره مردم شده‌اند. این کیسه‌ها تا پیش از آن بیشتر به‌عنوان عناصری تصویری در سینما و تلویزیون دیده می‌شدند یا هنگام وقوع بلایای طبیعی و حوادث غیرمترقبه، مورد توجه قرار می‌گرفتند.\nدر تصاویر شاخص سرکوب‌ها در اعتراضات ۱۳۸۸، آبان خونین ۱۳۹۸ و جنبش «زن، زندگی، آزادی» ۱۴۰۱ نیز مرگ اغلب با خود پیکر دیده می‌شود؛ بدنی افتاده در خیابان، روی تخت بیمارستان یا پیچیده در کفن.\nدر دی ‌ماه، بدن بی‌جان معترض پشت یک زیپ و پوشش سیاه پنهان می‌شود. چهره‌ها از قاب کنار می‌روند و ردیف کیسه‌ها باقی می‌ماند.\n\n(ادامه این مطلب را در اینجا بخوانید)\nhttps://www.iranintl.com/202609094235",
       "media": [],
       "reactions": [],
-      "views_label": "65.3K",
+      "views_label": "66.3K",
       "posted_at": "2026-09-09T17:05:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356532",
@@ -2709,22 +2737,6 @@
       "posted_at": "2026-09-09T07:52:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356452",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356451",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')\"><b>🗣</b></i><b>روایت شما از شرایط زندگی و بحران اقتصادی- چهارشنبه ۱۸ شهریور:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>سه هفته‌ست دندون‌درد دارم و با مسکن و آنتی‌بیوتیک آرومش می‌کنم چون پول ندارم برم درستش کنم. اینطوری که داره پیش می‌ره دیگه پول خرید داروها رو هم نخواهم داشت.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>از شهرکرد پیام می‌دم. از صبح تا شب اسنپ کار می‌کنم و کارکرد یه روز کامل هزینه یک وعده غذایی برای خانواده هم نمی‌شه.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>تمام داروخانه‌های گرگان رو گشتم، آنتی‌بیوتیک زیکات ۵۵۰ پیدا نکردم.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>از شهریار تهران پیام می‌دم. واقعا شرایط زندگی برای قشر ضعیف خیلی بحرانی شده. همه اجناس خوراکی گرون شده. تو این وضعیت، جمهوری اسلامی با افزایش قیمت بنزین، قبر خودش رو کند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>شهرداری تبریز داره تو تمام محلات با بی‌رحمی کامل سگ‌ها رو با تفنگ ساچمه‌ای و به طرز وحشیانه‌ای می‌کشه. حتی توله‌های تازه به دنیا اومده رو.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>از قیامدشت: داریم زیر فشار گرانی و تورمی که برای ما به‌وجود آوردند له می‌شیم، نه آزادی بیان داریم اعتراض کنیم، نه دادرسی داریم به دادمان برسن. لعنت بر این عدالت شما.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>همه دار و ندارم رو یک‌جا کردم که بتونم ۵۰۰ میلیون بذارم روی پول پیش خونه‌ام. امروز صاحب‌خونه زده زیر حرفش، می‌گه این مبلغ کمه؛ باید ۲۰۰ دیگه بدی که جمعا بشه یک میلیارد. به خدا دیگه نمی‌دونم باید چه کار کنیم.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>مردم ایران در حال نابود شدن زیر فشار اقتصادی هستن. همه افراد خونه هم سر کار می‌رن اما از پس خرج و زندگی معمولی برنمیان.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>راننده اسنپ هستم. دیروز یک میلیون تومن کار کردم، هم‌زمان یک میلیون و ۸۰۰ هزار تومن دادم هزینه تعمیر بالابر شیشه ماشین.",
-      "plain_text": "🗣روایت شما از شرایط زندگی و بحران اقتصادی- چهارشنبه ۱۸ شهریور:\n\n🔹سه هفته‌ست دندون‌درد دارم و با مسکن و آنتی‌بیوتیک آرومش می‌کنم چون پول ندارم برم درستش کنم. اینطوری که داره پیش می‌ره دیگه پول خرید داروها رو هم نخواهم داشت.\n\n🔹از شهرکرد پیام می‌دم. از صبح تا شب اسنپ کار می‌کنم و کارکرد یه روز کامل هزینه یک وعده غذایی برای خانواده هم نمی‌شه.\n\n🔹تمام داروخانه‌های گرگان رو گشتم، آنتی‌بیوتیک زیکات ۵۵۰ پیدا نکردم.\n\n🔹از شهریار تهران پیام می‌دم. واقعا شرایط زندگی برای قشر ضعیف خیلی بحرانی شده. همه اجناس خوراکی گرون شده. تو این وضعیت، جمهوری اسلامی با افزایش قیمت بنزین، قبر خودش رو کند.\n\n🔹شهرداری تبریز داره تو تمام محلات با بی‌رحمی کامل سگ‌ها رو با تفنگ ساچمه‌ای و به طرز وحشیانه‌ای می‌کشه. حتی توله‌های تازه به دنیا اومده رو.\n\n🔹از قیامدشت: داریم زیر فشار گرانی و تورمی که برای ما به‌وجود آوردند له می‌شیم، نه آزادی بیان داریم اعتراض کنیم، نه دادرسی داریم به دادمان برسن. لعنت بر این عدالت شما.\n\n🔹همه دار و ندارم رو یک‌جا کردم که بتونم ۵۰۰ میلیون بذارم روی پول پیش خونه‌ام. امروز صاحب‌خونه زده زیر حرفش، می‌گه این مبلغ کمه؛ باید ۲۰۰ دیگه بدی که جمعا بشه یک میلیارد. به خدا دیگه نمی‌دونم باید چه کار کنیم.\n\n🔹مردم ایران در حال نابود شدن زیر فشار اقتصادی هستن. همه افراد خونه هم سر کار می‌رن اما از پس خرج و زندگی معمولی برنمیان.\n\n🔹راننده اسنپ هستم. دیروز یک میلیون تومن کار کردم، هم‌زمان یک میلیون و ۸۰۰ هزار تومن دادم هزینه تعمیر بالابر شیشه ماشین.",
-      "media": [],
-      "reactions": [],
-      "views_label": "35.5K",
-      "posted_at": "2026-09-09T07:50:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356451",
       "reply": null
     }
   ]
