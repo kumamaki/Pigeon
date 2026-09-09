@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T09:21:35.372Z",
+  "fetched_at": "2026-09-09T09:26:40.874Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229963",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "مسئول سیاست خارجی اتحادیه اروپا گفت گسترش شهرک‌های اسرائیل در کرانه باختری چشم‌انداز راه‌حل دو کشوری را «تضعیف می‌کند».<br><br>کایا کالاس سه‌شنبه در شبکه ایکس نوشت: «بریتانیا و ۱۱ کشور دیگر امروز پشتیبانی خود را از تحریم‌های تجاری علیه شهرک‌های غیرقانونی اسرائیل در کرانه باختری اعلام کردند. همه کشورهای عضو اتحادیه اروپا توافق دارند که شهرک‌های اسرائیل در کرانه باختری بر پایه حقوق بین‌الملل غیرقانونی‌اند.»<br><br>کالاس افزود اتحادیه اروپا بزرگ‌ترین کمک‌کننده بشردوستانه به غزه و کرانه باختری باقی مانده است.<br><br>او گفت: «به‌طور قاطع به پشتیبانی از صلحی جامع، عادلانه و پایدار بر پایه راه‌حل دو کشوری متعهد می‌مانیم؛ دو کشوری که در کنار هم و در مرزهای امن و به‌رسمیت‌شناخته‌شده در صلح زندگی کنند.»<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "مسئول سیاست خارجی اتحادیه اروپا گفت گسترش شهرک‌های اسرائیل در کرانه باختری چشم‌انداز راه‌حل دو کشوری را «تضعیف می‌کند».\n\nکایا کالاس سه‌شنبه در شبکه ایکس نوشت: «بریتانیا و ۱۱ کشور دیگر امروز پشتیبانی خود را از تحریم‌های تجاری علیه شهرک‌های غیرقانونی اسرائیل در کرانه باختری اعلام کردند. همه کشورهای عضو اتحادیه اروپا توافق دارند که شهرک‌های اسرائیل در کرانه باختری بر پایه حقوق بین‌الملل غیرقانونی‌اند.»\n\nکالاس افزود اتحادیه اروپا بزرگ‌ترین کمک‌کننده بشردوستانه به غزه و کرانه باختری باقی مانده است.\n\nاو گفت: «به‌طور قاطع به پشتیبانی از صلحی جامع، عادلانه و پایدار بر پایه راه‌حل دو کشوری متعهد می‌مانیم؛ دو کشوری که در کنار هم و در مرزهای امن و به‌رسمیت‌شناخته‌شده در صلح زندگی کنند.»\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229963",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/XOBa-fT9wcBl7cnpxs2umEAfvjd660rssfQ9NK-R5lht3TBQdE64Y4-8ChcDPlsqyC8uqWibLKuK8k5nt3QjCKz4RDK-eZYEHES3Djhj8iSq_mAR85MCcLcqJharzZUw0WeXiVBSxMchoQOmLis0TazF-nQin4MDv-GGxbcsF3mikmTd2wT2eWQhvjmFrGeXp1kGbcRd1MMJhhYZRe_Tv2xklXzDFX3mHl6OVWWX-yCfMVQFz4CtNn5N2gACc8pC9DkalA2XbJpRvIeEzf24DBryidIERJx5hmbr7JyjttopsGVfE_dOsJgVWe8C-J0C0lopnVDVSuOwhIgHr-UVDA.jpg",
+          "thumbnail_path": "channels/farsivoa/media/00928c91d43a03883806dd12.jpg",
+          "thumbnail_sha256": "cf5e7db49ff14c818ef11878a270e32dc224a3050c9115d6d2df166d486b1dea",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "252",
+      "posted_at": "2026-09-09T09:22:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229963",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229962",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺دلار یک رکورد تاریخی دیگر به جا گذاشت و به ۲۳۱ هزار تومان رسید\n\n▪️قیمت دلار در بازار آزاد ایران روز چهارشنبه به ۲۳۱ هزار تومان رسید که این رقم ۲۵ درصد بالاتر از قیمت یک ماه پیش و ۱۲۵ درصد بالاتر از قیمت دلار در سال گذشته است. دلار سال گذشته در چنین ایامی حدود ۱۰۲ هزار تومان معامله می‌شد.\n\n▪️دلار روز شنبه دو هفته پیش با ۲۰۶ هزار و ۴۰۰ تومان بسته شد و از پی آن هر روز رکورد تازه‌ای زد. نرخ روز یکشنبه برای ساعتی از ۲۳۰ هزار تومان گذشت، سپس با ورود بانک مرکزی به ۲۲۵ هزار تومان عقب نشست.\n\n▪️در بازار سکه، سکه امامی به ۲۴۰ میلیون تومان رسید، و سکه بهار آزادی ۲۳۶ میلیون و ۹۰ هزار تومان، نیم‌سکه ۱۲۲ میلیون و ۴۰۰ هزار تومان و ربع‌سکه ۶۶ میلیون تومان قیمت خورد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195981.html",
       "media": [],
       "reactions": [],
-      "views_label": "603",
+      "views_label": "794",
       "posted_at": "2026-09-09T09:12:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229962",
@@ -37,7 +65,7 @@
       "plain_text": "🔺کانادا و فرانسه به ممنوعیت تجارت با شهرک‌های اسرائیل پیوستند\n\n▪️کانادا و فرانسه در بیانیه‌ای مشترک ممنوعیت واردات کالاهای تولیدشده در شهرک‌های اسرائیل در کرانه باختری را اعلام کردند.\n\n▪️بر پایه گزارش آسوشیتدپرس، فرانسه همزمان برای اعمال ممنوعیت سراسری در اتحادیه اروپا فشار می‌آورد.\n\n▪️با این تصمیم، فرانسه و کانادا به ایرلند، اسپانیا، نروژ، بلژیک و هلند پیوستند که پیش‌تر اقدام‌های مشابهی انجام داده بودند.\n\n▪️اد میلیبند، وزیر امور خارجه بریتانیا، نیز سه‌شنبه ممنوعیت‌هایی را در این زمینه در مجلس عوام اعلام کرد. اما اسرائیل ساعاتی بعد از رشته‌ای از اقدام‌های تلافی‌جویانه خبر داد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195979.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.11K",
+      "views_label": "1.24K",
       "posted_at": "2026-09-09T08:56:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229961",
@@ -53,7 +81,7 @@
       "plain_text": "🔺هزینه عبور نفتکش‌ها از هرمز به ۱۰ تا ۲۰ میلیون دلار رسید\n\n▪️مدیر شرکت ملی نفت امارات گفت مجموع هزینه عبور از تنگه هرمز به محدوده ۱۰ تا ۲۰ میلیون دلار رسیده و برخی فعالان بازار تصمیم گرفته‌اند اصلاً بیمه نگیرند.\n\n▪️پاول برادشاو روز چهارشنبه در کنفرانس نفت آسیا و اقیانوسیه در سنگاپور گفت جهش شدید حق بیمه ریسک جنگ و هزینه بیمه محموله عامل اصلی است.\n\n▪️حق بیمه ریسک جنگ بر پایه ارزش بدنه شناور نیز جهش کرده است. بر پایه گزارش نشریه نشنال، نرخ‌ها از یک‌چهارم درصد پیش از ۹ اسفند به سه تا ۱۰ درصد رسیده است. نفتکشی به ارزش ۱۰۰ میلیون دلار اکنون سه تا ۱۰ میلیون دلار می‌پردازد که پیش از جنگ حدود ۲۵۰ هزار دلار بود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195980.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.74K",
+      "views_label": "1.87K",
       "posted_at": "2026-09-09T08:29:30+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229960",
@@ -81,7 +109,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.95K",
+      "views_label": "2.02K",
       "posted_at": "2026-09-09T08:14:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229959",
@@ -109,7 +137,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.95K",
+      "views_label": "2.04K",
       "posted_at": "2026-09-09T08:05:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229958",
@@ -137,7 +165,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.04K",
+      "views_label": "2.07K",
       "posted_at": "2026-09-09T07:55:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229957",
@@ -165,7 +193,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.17K",
+      "views_label": "2.24K",
       "posted_at": "2026-09-09T07:41:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229956",
@@ -181,7 +209,7 @@
       "plain_text": "🔺حمله پهپادی روسیه به گذرگاه مرزی اوکراین و مولداوی\n\n▪️پهپادهای روسیه شامگاه سه‌شنبه گذرگاه مرزی میان اوکراین و مولداوی را هدف قرار دادند و چندین کشته، زخمی و آتش‌سوزی بر جای گذاشتند.\n\n▪️روسیه شامگاه گذشته کی‌یف را نیز هدف گرفت. سازمان خدمات اضطراری اوکراین در تلگرام اعلام کرد حمله آتش‌سوزی ایجاد کرد اما تلفاتی نداشت.\n\n▪️بر پایه اعلام وزارت زیرساخت اوکراین، روسیه ظرف یک هفته گذشته چهار بار گذرگاه‌های مرزی جنوب این کشور را مورد حمله قرار داده است. گذرگاه تاباکی-میرنویه با مولداوی در میان اهداف بود و زیرساخت آنجا ویران شد.\n\n▪️حمله شامگاه دوشنبه به پایتخت اوکراین مرگبارتر بود. بر پایه گزارش کی‌یف ایندیپندنت، این حمله پنج کشته و ۲۹ زخمی بر جای گذاشت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195977.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.34K",
+      "views_label": "2.37K",
       "posted_at": "2026-09-09T07:28:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229955",
@@ -209,7 +237,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.44K",
+      "views_label": "2.51K",
       "posted_at": "2026-09-09T07:17:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229954",
@@ -237,7 +265,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.68K",
+      "views_label": "2.75K",
       "posted_at": "2026-09-09T07:02:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229952",
@@ -265,7 +293,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.72K",
+      "views_label": "2.76K",
       "posted_at": "2026-09-09T06:52:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229951",
@@ -293,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.85K",
+      "views_label": "2.89K",
       "posted_at": "2026-09-09T06:36:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229950",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.14K",
+      "views_label": "3.18K",
       "posted_at": "2026-09-09T06:18:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229949",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.26K",
+      "views_label": "3.29K",
       "posted_at": "2026-09-09T06:07:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229948",
@@ -377,7 +405,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.49K",
+      "views_label": "3.52K",
       "posted_at": "2026-09-09T05:48:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229947",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.62K",
+      "views_label": "3.65K",
       "posted_at": "2026-09-09T05:31:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229946",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.63K",
+      "views_label": "3.66K",
       "posted_at": "2026-09-09T05:20:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229945",
@@ -461,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.94K",
+      "views_label": "4K",
       "posted_at": "2026-09-09T05:11:43+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229944",
@@ -489,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.1K",
+      "views_label": "6.13K",
       "posted_at": "2026-09-09T02:31:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229943",
@@ -2469,22 +2497,6 @@
       "posted_at": "2026-09-08T14:00:38+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229862",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229861",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>بریتانیا موسسه «القرض‌الحسن» را تحریم کرد؛ تشدید فشار بر جمهوری اسلامی با تحریم بازوی مالی حزب‌الله<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>بریتانیا روز سه‌شنبه ۱۷ شهریور ۱۴۰۵ تحریم‌هایی را علیه موسسه «القرض‌الحسن»، مؤسسه مالی وابسته به حزب‌الله لبنان، اعلام کرد؛ اقدامی که در ادامه فشارهای آمریکا و متحدانش برای محدود کردن منابع مالی این گروه مورد حمایت جمهوری اسلامی انجام می‌شود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/britain-sanctions-hezbollah-linked-institution/8195533.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/britain-sanctions-hezbollah-linked-institution/8195533.html/?nocach=1</a>",
-      "plain_text": "🔺بریتانیا موسسه «القرض‌الحسن» را تحریم کرد؛ تشدید فشار بر جمهوری اسلامی با تحریم بازوی مالی حزب‌الله\n\n▪️بریتانیا روز سه‌شنبه ۱۷ شهریور ۱۴۰۵ تحریم‌هایی را علیه موسسه «القرض‌الحسن»، مؤسسه مالی وابسته به حزب‌الله لبنان، اعلام کرد؛ اقدامی که در ادامه فشارهای آمریکا و متحدانش برای محدود کردن منابع مالی این گروه مورد حمایت جمهوری اسلامی انجام می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/britain-sanctions-hezbollah-linked-institution/8195533.html/?nocach=1",
-      "media": [],
-      "reactions": [],
-      "views_label": "2.72K",
-      "posted_at": "2026-09-08T13:45:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229861",
       "reply": null
     }
   ]
