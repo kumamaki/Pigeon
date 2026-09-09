@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T15:06:56.361Z",
+  "fetched_at": "2026-09-09T15:11:46.665Z",
   "channel": {
     "username": "telegram",
     "title": "Telegram News",
@@ -8,7 +8,7 @@
     "photo_url": "https://cdn1.telesco.pe/file/lOSnAb1I7ejcOo-Ehh5crgpWqu0MhGpoIGZUKyVGefjTt0NW8SWEZ87JVgZ9khPjmW0MWDxLEyIiU9D9MuBkEIJeoRZYDjALlfdvyL2FBxJnTbX47FZ4TJWDwta7-Z_rarotGZyby-0UgoGNgkzw6jBTXI4ffB24G79lQ4w5Y1mMNdq-8Q1urFM2b2SjnsSnwkcxYXLs72_MZRzuNhZPRqiS828_WGBmN4S_qf1BK7vd6ufdqQeySOAKGvAdD5gQeRuHLWZrItqeK6WZ_HmMl8Gmw9j17ag0Ts94VWyvqP8GN-em5C2syDZDN-z-s-ol06aHU4jIAxnL70ptYVPiLQ.jpg",
     "photo_path": "channels/telegram/media/fb2c81fabf15a65eba402dce.jpg",
     "photo_sha256": "baecc3508c6838397382402292fbe1331e2c405a6f5f71b17d03b1466aa7ce37",
-    "subscriber_count": "9.6M"
+    "subscriber_count": "9.59M"
   },
   "posts": [
     {
@@ -517,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.4M",
+      "views_label": "1.41M",
       "posted_at": "2026-05-14T16:08:31+00:00",
       "edited": false,
       "permalink": "https://t.me/telegram/441",

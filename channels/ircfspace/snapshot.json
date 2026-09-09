@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T15:06:52.170Z",
+  "fetched_at": "2026-09-09T15:11:43.317Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -35,7 +35,7 @@
       "reactions": [
         {
           "emoji": "😐",
-          "count": "211"
+          "count": "212"
         },
         {
           "emoji": "👍",
@@ -169,7 +169,7 @@
         },
         {
           "emoji": "🔥",
-          "count": "204"
+          "count": "205"
         },
         {
           "emoji": "❤",
@@ -289,8 +289,8 @@
           "asset_url": "https://t.me/ircfspace/2592",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/sH6HU801uPsgVcLhQrR0i5wjIwZzvA5FOByfJNRkp7rHXop93OaA9wdNkPoIeR03NpPvo4U5m63buhWmNXVZ1OgDchJzV-uX9i1vsTCEMNN_0ElOG-OpgkBYZxeJmAffdQe5vr_J5Mv5hns3Nc2wiPGSpMc9SaHcDnBaEatL5nsa89X5qeSI_4qT97WuatcqldzhE6nzq6jqIvKeXzH2fZcL00zATxiKnX9BiW6VO49IeZW5cVtmW300ETezJlmyoOV6iYLHufLp4adwd4dbPjUxJD4LHO47y_dAPxqFTigTbz0ciQU-YI_v1gas4P9cFUZeDQeqi324rnjnQRI6EQ.jpg",
-          "thumbnail_path": "channels/ircfspace/media/fee172360e7f3cedcc60deee.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/ILs1kB9hZavBb3pXxB_N27SuwKkqemlHictn1vMRqtQavKsPPQcmmFs-IFThQV3yDCtCrQDzXpdcyczHWiZ_WNI1FcEgHbtZNA4VrjbnBXeiV6EA7U_P9fl8b1ZawLumkRnCupI0Fvldxv4cCUv7xNgQA0C6l8ucKIEo9Va95epZTgiwh9PQSf9bUNQaJ4C3UsvlhZCTWQecEKf1G-WYTC03p9eYhBufD7ffaI4QgWE3IsNYxPnYNp47N-KH-AcaAes21jzg-LV1LLjUlmgauyLV43LJk-1z_PJiWP8JOHAg5ZB39X-M_CpXCxH93z1X_UeycRQTmFtKJJ3YFtTImg.jpg",
+          "thumbnail_path": "channels/ircfspace/media/e45982ffe30917c1aa3d4575.jpg",
           "thumbnail_sha256": "6eb64bb062cb06ec7e65ebe7ec65bf7a79c3b3e8a8ae15927b22aa2f4f37e8f3",
           "duration_label": null,
           "aspect_ratio": 1
@@ -395,7 +395,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.3K",
+      "views_label": "15.4K",
       "posted_at": "2026-09-08T15:13:29+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2591",
