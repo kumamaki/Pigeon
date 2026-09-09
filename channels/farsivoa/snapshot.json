@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T17:36:32.325Z",
+  "fetched_at": "2026-09-09T17:41:51.725Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/230018",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "بابک دربیکی، تحلیلگر سیاسی در میدان: بهترین تصویری که از «حکمرانی شخصی‌سازی شده» می‌توان مثال زد، وقتی است که مجرم خود را طلب‌کار دولت می‌داند.",
+      "plain_text": "بابک دربیکی، تحلیلگر سیاسی در میدان: بهترین تصویری که از «حکمرانی شخصی‌سازی شده» می‌توان مثال زد، وقتی است که مجرم خود را طلب‌کار دولت می‌داند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/230018",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/O47D5DxI3DAv0MCWMKUGg0RBh2UKVZKcm0iST969zbhy-mgon6fFlhmJp3WLtFTLHBk1qt9GHD2xQuc6UAlpIDsnhq5h5emA5KX4aV5OgfWSYf1xNsMBNLsH2J_lpTFN25TpA7DGkJZfgib8TDz_i9wNrmt6wj0xw76T8SYRUslZ99krK_qV4E_fst7J3yst6gxmS95CWH4g-_gIW98gdMEX1XXuESdRHR5kv_nNa2cT3lxqPZ8qpezKCUdhurT8vgP1rZBCNQQi25G2oHKCpyay_XAkqBJhkAJabFEbbL7XsvmB8YEUrdiwev1HmM2ABd_5vdvJ1-B6-AKP2fZq3w",
+          "thumbnail_path": "channels/farsivoa/media/c7388927e8c636d1e24b64c9.jpg",
+          "thumbnail_sha256": "80a900c3732f865486a91f7d3ebcf1f40bb9538f6a23d49ef29e8e2be15a38e9",
+          "duration_label": "1:20",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-09T17:41:25+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/230018",
+      "reply": null
+    },
     {
       "id": "farsivoa/230011",
       "author_name": "Farsi VOA",
@@ -99,7 +127,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "229",
+      "views_label": "528",
       "posted_at": "2026-09-09T17:33:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230011",
@@ -127,7 +155,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "418",
+      "views_label": "652",
       "posted_at": "2026-09-09T17:29:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230010",
@@ -143,7 +171,7 @@
       "plain_text": "🔺ایالات متحده شبکه جنایی فراملی چینی‌زبان را به دلیل کلاهبرداری سایبری از شهروندان آمریکایی تحریم کرد\n\n▪️دولت آمریکا در چارچوب کارزار پرزیدنت دونالد ترامپ برای مقابله با جرایم سایبری و کلاهبرداری از شهروندان آمریکایی، یک سازمان جنایی فراملی و دو شرکت پشتیبان آن را تحریم کرد. همزمان وزارت دادگستری آمریکا زیرساخت‌ها و کیف‌پول‌های دیجیتال مورد استفاده این شبکه را توقیف کرد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/us-sanctions-xinbi-guarantee-cyber-scam-group/8196084.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "839",
+      "views_label": "1.04K",
       "posted_at": "2026-09-09T17:23:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230009",
@@ -171,7 +199,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.04K",
+      "views_label": "1.17K",
       "posted_at": "2026-09-09T17:15:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230008",
@@ -199,7 +227,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.23K",
+      "views_label": "1.36K",
       "posted_at": "2026-09-09T17:10:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230007",
@@ -215,7 +243,7 @@
       "plain_text": "🔴📢‌ پادکست تفسیر خبر- چهارشنبه ۱۸ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "1.42K",
+      "views_label": "1.55K",
       "posted_at": "2026-09-09T17:02:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230006",
@@ -231,7 +259,7 @@
       "plain_text": "🔺آژانس پرونده فعالیت‌های هسته‌ای گذشته سوریه را مختومه اعلام کرد\n\n▪️شورای حکام آژانس بین‌المللی انرژی اتمی روز چهارشنبه ۱۸ شهریور با تصویب قطعنامه‌ای، ضمن بستن پرونده فعالیت‌های هسته‌ای مخفی سوریه در دوران حکومت خاندان اسد، اعلام کرد که مقام‌های جدید این کشور به حل‌وفصل همه پرسش‌های باقی‌مانده کمک کرده‌اند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iaea-board-governors-syria-past-nuclear-activities/8196081.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.59K",
+      "views_label": "1.69K",
       "posted_at": "2026-09-09T16:56:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230005",
@@ -259,7 +287,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.53K",
+      "views_label": "1.63K",
       "posted_at": "2026-09-09T16:54:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230004",
@@ -287,7 +315,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.6K",
+      "views_label": "1.7K",
       "posted_at": "2026-09-09T16:49:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230003",
@@ -315,7 +343,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.99K",
+      "views_label": "2.08K",
       "posted_at": "2026-09-09T16:36:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230002",
@@ -343,7 +371,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.05K",
+      "views_label": "2.11K",
       "posted_at": "2026-09-09T16:34:50+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/230001",
@@ -371,7 +399,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.01K",
+      "views_label": "2.07K",
       "posted_at": "2026-09-09T16:25:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230000",
@@ -399,7 +427,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2K",
+      "views_label": "2.1K",
       "posted_at": "2026-09-09T16:23:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229999",
@@ -2571,34 +2599,6 @@
       "posted_at": "2026-09-08T20:06:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229911",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229910",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "وضعیت میدانی یمن؛ پیشروی نیروهای دولت در چند جبهه و تشدید درگیری با حوثی‌ها<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "وضعیت میدانی یمن؛ پیشروی نیروهای دولت در چند جبهه و تشدید درگیری با حوثی‌ها\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229910",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/ZGJx1GSVMdtN0SV-VbfYgcGZ3r_bCH5zv8pvVmn8saIk0TSjaDY7ywinTZngKX0CneYuBzZG96OyY9b8WVnXNgeQFfUeIVxZkDGEMfJQazz1q3IYTeUzkXg2ywxt7qdbKCxHLE3ZO3LRfojHjWkntwP4k2gcPE1shFsc2Y4_JRAHKgYwbzl5lD_6x-mSEDe04JNNc6fYVgpccWySTdxqy4noS3WwXQHn4urMwmYsF4TwDyKenWnfE7Oot07mBsW97HB5mvg6teVVe_jtgcrrW-lpkeip9I4qp_Ycng7u5vFweX8E35dvqwSWQY0Q8ap_z4ksPUrRwPGhFo1OjJX7HA",
-          "thumbnail_path": "channels/farsivoa/media/11a8419b5de8f0f66b82712f.jpg",
-          "thumbnail_sha256": "6356d2b6b648b167ba91ad04bce2f2b690ebeb27ba286e28a95c176218e02f21",
-          "duration_label": "4:19",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "4.12K",
-      "posted_at": "2026-09-08T19:59:06+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229910",
       "reply": null
     }
   ]
