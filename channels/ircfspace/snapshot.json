@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T19:22:22.741Z",
+  "fetched_at": "2026-09-09T19:26:43.145Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -8,7 +8,7 @@
     "photo_url": "https://cdn1.telesco.pe/file/tapQR63Rw-mPTjwrC-ZAVAQqLszxhv9N8zQO_qrXFd8P_pKCCMRzPAjqCzsREwKOF4z7jMhl-72DwBllgoksBoJXjWpVDpaLTAq1LP5AV5OcbUQUK0a4Tp8vkYQXIiPyu3KU96x_jv0hZXnF_uMJpziXekQScOPm7fVNjbElZqegRxxkJ-ctOeklnLuqfO3vQvAkzHoOUrh7lcTe5de6CShMCQsoYxYfUjgUcGNcyz3qa2JQ6PoqqAbca5TygjPD79HoMoKh8Wvzouv6NuXsime7g0tElORVXuzwQl1-Eynm9CdwypQsbPAg2A9FwtUEiAHGqkTaxorT5fwLhO6_Fg.jpg",
     "photo_path": "channels/ircfspace/media/bc138b94bb5bd848fbf9ac1a.jpg",
     "photo_sha256": "158f2dc02d1e6a05c082153b128dee184884a3f1159a3f635b1a111432f7eabc",
-    "subscriber_count": "96.4K"
+    "subscriber_count": "96.3K"
   },
   "posts": [
     {
@@ -196,7 +196,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.4K",
+      "views_label": "15.5K",
       "posted_at": "2026-09-09T04:19:14+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2594",
@@ -425,7 +425,7 @@
       "reactions": [
         {
           "emoji": "😐",
-          "count": "241"
+          "count": "242"
         },
         {
           "emoji": "😁",
@@ -448,7 +448,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.6K",
+      "views_label": "15.7K",
       "posted_at": "2026-09-08T14:41:39+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2590",
@@ -478,7 +478,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "507"
+          "count": "508"
         },
         {
           "emoji": "🤡",
@@ -562,7 +562,7 @@
           "count": "1"
         }
       ],
-      "views_label": "16.8K",
+      "views_label": "16.9K",
       "posted_at": "2026-09-08T13:52:25+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2588",
@@ -596,7 +596,7 @@
         },
         {
           "emoji": "🤡",
-          "count": "145"
+          "count": "146"
         },
         {
           "emoji": "😐",
@@ -779,7 +779,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "107"
+          "count": "108"
         },
         {
           "emoji": "👍",
