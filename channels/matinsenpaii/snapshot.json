@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T00:22:26.367Z",
+  "fetched_at": "2026-09-09T00:26:47.420Z",
   "channel": {
     "username": "matinsenpaii",
     "title": "Matin SenPai",
@@ -72,7 +72,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "203"
+          "count": "204"
         },
         {
           "emoji": "👍",
@@ -121,7 +121,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "242"
+          "count": "243"
         },
         {
           "emoji": "😁",
@@ -686,6 +686,10 @@
         {
           "emoji": "❤",
           "count": "217"
+        },
+        {
+          "emoji": "🦄",
+          "count": "11"
         },
         {
           "emoji": "😁",
