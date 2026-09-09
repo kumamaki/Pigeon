@@ -1,12 +1,12 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T04:06:38.950Z",
+  "fetched_at": "2026-09-09T04:11:36.202Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
     "description_html": "رسانه خبری پیشرو برای ایرانیان<br>خبررسانی حرفه‌ای، بی‌پروا و با تکیه بر روایت‌ شهروندان<br><br>ارسال امن گزارش‌ شما:<br><a href=\"https://t.me/intlmedia_bot\" target=\"_blank\">@intlmedia_bot</a><br>وب‌سایت ما:<br><a href=\"http://iranintl.com/\" target=\"_blank\" rel=\"noopener\">iranintl.com</a>",
-    "photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-    "photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+    "photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
     "photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
     "subscriber_count": "1.37M"
   },
@@ -14,8 +14,8 @@
     {
       "id": "IranintlTV/356430",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "وال‌استریت‌ژورنال گزارش داد جیکوب کاکسون، پژوهشگر ۲۷ ساله آنتروپیک، به‌دلیل نگرانی از رقابت شرکت‌های فناوری برای ساخت مدل‌های هوش مصنوعی خودبهبوددهنده، این صنعت را ترک می‌کند.<br><br>کاکسون گفت نمی‌خواهد در توسعه سیستم‌هایی مشارکت کند که قادر به بهبود خود هستند و ممکن است از کنترل انسان خارج شوند. او هشدار داد رقابت میان شرکت‌های آمریکایی و چینی می‌تواند به کوتاه آمدن در زمینه ایمنی منجر شود.<br><br>کاکسون که اوایل امسال اوپن‌ای‌آی را برای پیوستن به آنتروپیک ترک کرده بود، گفت تلاش‌های این شرکت در زمینه ایمنی را جدی می‌داند، اما معتقد است بدون مداخله دولت یا کاهش هماهنگ سرعت توسعه، هیچ شرکتی نمی‌تواند هوش مصنوعی عمومی را مسوولانه توسعه دهد.<br><br>هم‌زمان، بیش از هزار پژوهشگر هوش مصنوعی خواستار هماهنگی جهانی برای ایجاد سازوکاری برای کاهش سرعت توسعه مدل‌های خودبهبوددهنده شده‌اند. شماری از پژوهشگران نیز درباره خطر حملات سایبری و خارج شدن مدل‌های پیشرفته از کنترل هشدار داده‌اند.<br><br><a href=\"https://iranintl.com/202609093167\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609093167</a>",
       "plain_text": "وال‌استریت‌ژورنال گزارش داد جیکوب کاکسون، پژوهشگر ۲۷ ساله آنتروپیک، به‌دلیل نگرانی از رقابت شرکت‌های فناوری برای ساخت مدل‌های هوش مصنوعی خودبهبوددهنده، این صنعت را ترک می‌کند.\n\nکاکسون گفت نمی‌خواهد در توسعه سیستم‌هایی مشارکت کند که قادر به بهبود خود هستند و ممکن است از کنترل انسان خارج شوند. او هشدار داد رقابت میان شرکت‌های آمریکایی و چینی می‌تواند به کوتاه آمدن در زمینه ایمنی منجر شود.\n\nکاکسون که اوایل امسال اوپن‌ای‌آی را برای پیوستن به آنتروپیک ترک کرده بود، گفت تلاش‌های این شرکت در زمینه ایمنی را جدی می‌داند، اما معتقد است بدون مداخله دولت یا کاهش هماهنگ سرعت توسعه، هیچ شرکتی نمی‌تواند هوش مصنوعی عمومی را مسوولانه توسعه دهد.\n\nهم‌زمان، بیش از هزار پژوهشگر هوش مصنوعی خواستار هماهنگی جهانی برای ایجاد سازوکاری برای کاهش سرعت توسعه مدل‌های خودبهبوددهنده شده‌اند. شماری از پژوهشگران نیز درباره خطر حملات سایبری و خارج شدن مدل‌های پیشرفته از کنترل هشدار داده‌اند.\n\nhttps://iranintl.com/202609093167",
@@ -33,7 +33,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.8K",
+      "views_label": "16K",
       "posted_at": "2026-09-09T03:44:05+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356430",
@@ -42,8 +42,8 @@
     {
       "id": "IranintlTV/356429",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "حملات اسرائیل به جنوب لبنان و ارتفاعات راهبردی علی‌الطاهر، پرسش‌هایی درباره تعهد جمهوری اسلامی به تضمین تمامیت ارضی لبنان در تفاهم‌نامه اسلام‌آباد ایجاد کرده است. ارتش اسرائیل سوم سپتامبر اعلام کرد بر این ارتفاعات «کنترل عملیاتی» یافته، اما حزب‌الله این ادعا را به‌طور کامل تایید یا رد نکرده است.<br>علی‌الطاهر، در نزدیکی نبطیه، از مواضع راهبردی حزب‌الله به شمار می‌رود. گزارش‌ها حاکی از آن است که هدف اسرائیل انهدام زیرساخت‌های نظامی و قطع ارتباط خطوط مقدم حزب‌الله با عقبه عملیاتی آن است.<br>جمهوری اسلامی که لبنان را در بند نخست تفاهم‌نامه اسلام‌آباد گنجانده بود، حملات اسرائیل را نقض این توافق می‌داند، اما تاکنون در واکنش به تحولات علی‌الطاهر اقدام نظامی مستقیمی انجام نداده است.<br>رویترز گزارش داده بود تهران از طریق عمان درباره حمله گسترده به علی‌الطاهر به آمریکا هشدار داده است. هم‌زمان، محسن رضایی، دبیر شورای عالی امنیت ملی، تلویحا از تصرف برخی مناطق به دست اسرائیل خبر داد و از اعلام یک «محدوده ممنوعه» در خارج از تنگه هرمز سخن گفت؛ نشانه‌ای از تمرکز تهران بر خلیج فارس به جای گشودن جبهه‌ای تازه در لبنان.<br><br>https://irani",
       "plain_text": "حملات اسرائیل به جنوب لبنان و ارتفاعات راهبردی علی‌الطاهر، پرسش‌هایی درباره تعهد جمهوری اسلامی به تضمین تمامیت ارضی لبنان در تفاهم‌نامه اسلام‌آباد ایجاد کرده است. ارتش اسرائیل سوم سپتامبر اعلام کرد بر این ارتفاعات «کنترل عملیاتی» یافته، اما حزب‌الله این ادعا را به‌طور کامل تایید یا رد نکرده است.\nعلی‌الطاهر، در نزدیکی نبطیه، از مواضع راهبردی حزب‌الله به شمار می‌رود. گزارش‌ها حاکی از آن است که هدف اسرائیل انهدام زیرساخت‌های نظامی و قطع ارتباط خطوط مقدم حزب‌الله با عقبه عملیاتی آن است.\nجمهوری اسلامی که لبنان را در بند نخست تفاهم‌نامه اسلام‌آباد گنجانده بود، حملات اسرائیل را نقض این توافق می‌داند، اما تاکنون در واکنش به تحولات علی‌الطاهر اقدام نظامی مستقیمی انجام نداده است.\nرویترز گزارش داده بود تهران از طریق عمان درباره حمله گسترده به علی‌الطاهر به آمریکا هشدار داده است. هم‌زمان، محسن رضایی، دبیر شورای عالی امنیت ملی، تلویحا از تصرف برخی مناطق به دست اسرائیل خبر داد و از اعلام یک «محدوده ممنوعه» در خارج از تنگه هرمز سخن گفت؛ نشانه‌ای از تمرکز تهران بر خلیج فارس به جای گشودن جبهه‌ای تازه در لبنان.\n\nhttps://irani",
@@ -61,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.5K",
+      "views_label": "27.6K",
       "posted_at": "2026-09-09T03:14:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356429",
@@ -70,8 +70,8 @@
     {
       "id": "IranintlTV/356428",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "گروهی از زنان به همراه خانواده نیلوفر مجاوری، که هفته گذشته در پی شکنجه و تجاوز به دست یک مرد جان باخت، در آرامستان زرگتن پیرانشهر بر مزار او حاضر شدند و با گذاشتن گل‌های سرخ و روشن کردن شمع، خشونت و قتل هولناک نیلوفر را محکوم کردند.<br><br>نیلوفر مجاور، زن جوانی از منطقه پیرانشهر و اشنویه، ۱۰ روز پس از خروج از خانه با جراحات شدید به مرکز درمانی منتقل شد و پس از اعلام مرگ مغزی جان باخت. خانواده او مردی ۴۱ ساله را مسوول این اتفاق می‌دانند و می‌گویند نیلوفر در این مدت با خشونت شدید جسمی و جنسی روبه‌رو شده است. با این حال، گزارش‌های منتشرشده به سند پزشکی یا نظر رسمی پزشکی قانونی درباره این ادعاها اشاره نکرده‌اند و پلیس و دستگاه قضایی همچنان در حال بررسی علت جراحات و نقش افراد مرتبط با پرونده‌اند.<br><br>کردپا گزارش داده است مظنون پرونده تا زمان انتشار گزارش بازداشت نشده و متواری بوده و خانواده پس از بستری شدن نیلوفر از او شکایت کرده‌اند. رکنا نیز به نقل از دادستان اشنویه نوشت عملیات برای شناسایی محل حضور و بازداشت فرد موردنظر ادامه دارد. پس از تشخیص مرگ مغزی نیلوفر، خانواده او با اهدای دو کلیه‌اش موافقت کرد.<br>https://iranin",
       "plain_text": "گروهی از زنان به همراه خانواده نیلوفر مجاوری، که هفته گذشته در پی شکنجه و تجاوز به دست یک مرد جان باخت، در آرامستان زرگتن پیرانشهر بر مزار او حاضر شدند و با گذاشتن گل‌های سرخ و روشن کردن شمع، خشونت و قتل هولناک نیلوفر را محکوم کردند.\n\nنیلوفر مجاور، زن جوانی از منطقه پیرانشهر و اشنویه، ۱۰ روز پس از خروج از خانه با جراحات شدید به مرکز درمانی منتقل شد و پس از اعلام مرگ مغزی جان باخت. خانواده او مردی ۴۱ ساله را مسوول این اتفاق می‌دانند و می‌گویند نیلوفر در این مدت با خشونت شدید جسمی و جنسی روبه‌رو شده است. با این حال، گزارش‌های منتشرشده به سند پزشکی یا نظر رسمی پزشکی قانونی درباره این ادعاها اشاره نکرده‌اند و پلیس و دستگاه قضایی همچنان در حال بررسی علت جراحات و نقش افراد مرتبط با پرونده‌اند.\n\nکردپا گزارش داده است مظنون پرونده تا زمان انتشار گزارش بازداشت نشده و متواری بوده و خانواده پس از بستری شدن نیلوفر از او شکایت کرده‌اند. رکنا نیز به نقل از دادستان اشنویه نوشت عملیات برای شناسایی محل حضور و بازداشت فرد موردنظر ادامه دارد. پس از تشخیص مرگ مغزی نیلوفر، خانواده او با اهدای دو کلیه‌اش موافقت کرد.\nhttps://iranin",
@@ -89,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31K",
+      "views_label": "33.1K",
       "posted_at": "2026-09-09T02:48:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356428",
@@ -98,8 +98,8 @@
     {
       "id": "IranintlTV/356427",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "افزایش دو برابری قیمت بنزین خارج از سهمیه در ایران، با الگوی فعلی مصرف، می‌تواند کمتر از ۵۰۰ میلیون دلار درآمد اضافی سالانه برای دولت ایجاد کند، اما تاثیر محدودی بر عوامل ساختاری کمبود سوخت خواهد داشت.<br><br>قیمت بنزین خارج از سهمیه به لیتری ۱۰۰ هزار ریال افزایش یافته، در حالی که هر خودرو همچنان ماهانه ۱۱۰ لیتر بنزین یارانه‌ای دریافت می‌کند. با مصرف روزانه حدود ۱۳۴ میلیون لیتر بنزین، برآورد می‌شود حدود ۵۴ میلیون لیتر خارج از سهمیه مصرف شود.<br><br>بر این اساس، افزایش قیمت می‌تواند حدود ۴۲۸ میلیون دلار درآمد سالانه ایجاد کند. با احتساب خودروهای جدید، این رقم همچنان کمتر از ۵۰۰ میلیون دلار خواهد بود؛ معادل حدود ۱۷ درصد از ۲.۹ میلیارد دلار هزینه واردات بنزین در سال گذشته.<br><br>هم‌زمان، کاهش عرضه CNG، افزایش سالانه حدود یک میلیون خودرو و محدودیت ظرفیت پالایشگاهی بر کسری بنزین افزوده‌اند. در مقابل، برآوردها نشان می‌دهد ایران سال گذشته بیش از ۴۰ میلیارد دلار درآمد بالقوه نفتی را در پی تحریم‌ها و هزینه‌های دور زدن آنها از دست داده است.<br><br><a href=\"https://iranintl.com/202609094124\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609094124</a>",
       "plain_text": "افزایش دو برابری قیمت بنزین خارج از سهمیه در ایران، با الگوی فعلی مصرف، می‌تواند کمتر از ۵۰۰ میلیون دلار درآمد اضافی سالانه برای دولت ایجاد کند، اما تاثیر محدودی بر عوامل ساختاری کمبود سوخت خواهد داشت.\n\nقیمت بنزین خارج از سهمیه به لیتری ۱۰۰ هزار ریال افزایش یافته، در حالی که هر خودرو همچنان ماهانه ۱۱۰ لیتر بنزین یارانه‌ای دریافت می‌کند. با مصرف روزانه حدود ۱۳۴ میلیون لیتر بنزین، برآورد می‌شود حدود ۵۴ میلیون لیتر خارج از سهمیه مصرف شود.\n\nبر این اساس، افزایش قیمت می‌تواند حدود ۴۲۸ میلیون دلار درآمد سالانه ایجاد کند. با احتساب خودروهای جدید، این رقم همچنان کمتر از ۵۰۰ میلیون دلار خواهد بود؛ معادل حدود ۱۷ درصد از ۲.۹ میلیارد دلار هزینه واردات بنزین در سال گذشته.\n\nهم‌زمان، کاهش عرضه CNG، افزایش سالانه حدود یک میلیون خودرو و محدودیت ظرفیت پالایشگاهی بر کسری بنزین افزوده‌اند. در مقابل، برآوردها نشان می‌دهد ایران سال گذشته بیش از ۴۰ میلیارد دلار درآمد بالقوه نفتی را در پی تحریم‌ها و هزینه‌های دور زدن آنها از دست داده است.\n\nhttps://iranintl.com/202609094124",
@@ -117,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.4K",
+      "views_label": "39.4K",
       "posted_at": "2026-09-09T02:08:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356427",
@@ -126,8 +126,8 @@
     {
       "id": "IranintlTV/356426",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "آسوشیتدپرس گزارش داد آمریکا، بریتانیا، فرانسه و آلمان پیش‌نویس قطعنامه‌ای برای ارجاع پرونده هسته‌ای ایران به شورای امنیت سازمان ملل به‌دلیل عدم پایبندی تهران به تعهدات منع اشاعه آماده کرده‌اند.<br><br>این پیش‌نویس هنوز رسما به شورای حکام آژانس بین‌المللی انرژی اتمی ارائه نشده و مذاکرات درباره متن آن ادامه دارد. در صورت ارائه، قطعنامه هفته آینده در نشست شورای حکام در وین به رای گذاشته خواهد شد.<br><br>پیش‌نویس از رافائل گروسی، مدیرکل آژانس، می‌خواهد قطعنامه را برای شورای امنیت و مجمع عمومی سازمان ملل ارسال کند و هم‌زمان بر حمایت از راه‌حل دیپلماتیک برای برنامه هسته‌ای ایران تاکید دارد.<br><br>آسوشیتدپرس نوشت جمهوری اسلامی پس از حملات خرداد ۱۴۰۴ به بازرسان آژانس اجازه دسترسی به سایت‌های هسته‌ای آسیب‌دیده را نداده و وضعیت ۴۴۰.۹ کیلوگرم اورانیوم غنی‌شده تا سطح ۶۰ درصد نیز راستی‌آزمایی نشده است.<br><br>آژانس هشدار داده ادامه نبود دسترسی بازرسان یک «خطر اشاعه» ایجاد می‌کند که باید «با نهایت فوریت» به آن رسیدگی شود.<br><br><a href=\"https://iranintl.com/202609092245\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609092245</a>",
       "plain_text": "آسوشیتدپرس گزارش داد آمریکا، بریتانیا، فرانسه و آلمان پیش‌نویس قطعنامه‌ای برای ارجاع پرونده هسته‌ای ایران به شورای امنیت سازمان ملل به‌دلیل عدم پایبندی تهران به تعهدات منع اشاعه آماده کرده‌اند.\n\nاین پیش‌نویس هنوز رسما به شورای حکام آژانس بین‌المللی انرژی اتمی ارائه نشده و مذاکرات درباره متن آن ادامه دارد. در صورت ارائه، قطعنامه هفته آینده در نشست شورای حکام در وین به رای گذاشته خواهد شد.\n\nپیش‌نویس از رافائل گروسی، مدیرکل آژانس، می‌خواهد قطعنامه را برای شورای امنیت و مجمع عمومی سازمان ملل ارسال کند و هم‌زمان بر حمایت از راه‌حل دیپلماتیک برای برنامه هسته‌ای ایران تاکید دارد.\n\nآسوشیتدپرس نوشت جمهوری اسلامی پس از حملات خرداد ۱۴۰۴ به بازرسان آژانس اجازه دسترسی به سایت‌های هسته‌ای آسیب‌دیده را نداده و وضعیت ۴۴۰.۹ کیلوگرم اورانیوم غنی‌شده تا سطح ۶۰ درصد نیز راستی‌آزمایی نشده است.\n\nآژانس هشدار داده ادامه نبود دسترسی بازرسان یک «خطر اشاعه» ایجاد می‌کند که باید «با نهایت فوریت» به آن رسیدگی شود.\n\nhttps://iranintl.com/202609092245",
@@ -145,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.9K",
+      "views_label": "36.9K",
       "posted_at": "2026-09-09T02:02:12+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356426",
@@ -154,8 +154,8 @@
     {
       "id": "IranintlTV/356425",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "در پی دور تازه درگیری‌ها میان آمریکا و جمهوری اسلامی، قیمت نفت برای چهارمین روز متوالی افزایش یافت و به نزدیکی ۱۰۰ دلار در هر بشکه رسید.<br><br>پس از اعلام آمریکا درباره انهدام پنج نفتکش مرتبط با سپاه پاسداران در واکنش به حملات موشکی ناموفق به دو ناو جنگی این کشور، بهای نفت برنت با ۱.۶ درصد افزایش به ۹۹.۴۹ دلار و نفت وست تگزاس اینترمدیت با ۱.۷۲ درصد افزایش به ۹۴.۶۳ دلار در هر بشکه رسید.<br><br>سپاه پاسداران نیز اعلام کرد یک پایگاه آمریکا در اردن را هدف حمله موشکی قرار داده است.<br><br>دان استروین، رییس مشترک بخش تحقیقات جهانی کالاها در گلدمن ساکس، گفت تشدید درگیری و افزایش حملات به کشتیرانی، احتمال جهش قیمت نفت برنت به بالای ۱۲۰ دلار را افزایش داده است.<br><br>نیویورک‌تایمز نیز گزارش داد میانگین عبور روزانه نفت از تنگه هرمز در هفت روز منتهی به ۱۲ شهریور، با وجود حفاظت ارتش آمریکا، ۶۰ درصد کمتر از پیش از جنگ بوده است.<br><br><a href=\"https://iranintl.com/202609090312\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609090312</a>",
       "plain_text": "در پی دور تازه درگیری‌ها میان آمریکا و جمهوری اسلامی، قیمت نفت برای چهارمین روز متوالی افزایش یافت و به نزدیکی ۱۰۰ دلار در هر بشکه رسید.\n\nپس از اعلام آمریکا درباره انهدام پنج نفتکش مرتبط با سپاه پاسداران در واکنش به حملات موشکی ناموفق به دو ناو جنگی این کشور، بهای نفت برنت با ۱.۶ درصد افزایش به ۹۹.۴۹ دلار و نفت وست تگزاس اینترمدیت با ۱.۷۲ درصد افزایش به ۹۴.۶۳ دلار در هر بشکه رسید.\n\nسپاه پاسداران نیز اعلام کرد یک پایگاه آمریکا در اردن را هدف حمله موشکی قرار داده است.\n\nدان استروین، رییس مشترک بخش تحقیقات جهانی کالاها در گلدمن ساکس، گفت تشدید درگیری و افزایش حملات به کشتیرانی، احتمال جهش قیمت نفت برنت به بالای ۱۲۰ دلار را افزایش داده است.\n\nنیویورک‌تایمز نیز گزارش داد میانگین عبور روزانه نفت از تنگه هرمز در هفت روز منتهی به ۱۲ شهریور، با وجود حفاظت ارتش آمریکا، ۶۰ درصد کمتر از پیش از جنگ بوده است.\n\nhttps://iranintl.com/202609090312",
@@ -173,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.8K",
+      "views_label": "35.8K",
       "posted_at": "2026-09-09T01:54:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356425",
@@ -182,8 +182,8 @@
     {
       "id": "IranintlTV/356424",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "فرماندهی مرکزی ایالات متحده (سنتکام) با انتشار ویدیویی در شبکه اجتماعی ایکس نوشت: «نفتکش ریسکو سه‌شنبه، پس از آنکه در واکنش به تلاش‌های سپاه پاسداران برای حمله به یک ناو جنگی نیروی دریایی آمریکا به دست نیروهای سنتکام منهدم شد، در خلیج عمان غرق شد.»<br><br><a href=\"https://iranintl.com/202609091998\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609091998</a>",
       "plain_text": "فرماندهی مرکزی ایالات متحده (سنتکام) با انتشار ویدیویی در شبکه اجتماعی ایکس نوشت: «نفتکش ریسکو سه‌شنبه، پس از آنکه در واکنش به تلاش‌های سپاه پاسداران برای حمله به یک ناو جنگی نیروی دریایی آمریکا به دست نیروهای سنتکام منهدم شد، در خلیج عمان غرق شد.»\n\nhttps://iranintl.com/202609091998",
@@ -201,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33K",
+      "views_label": "34.1K",
       "posted_at": "2026-09-09T01:50:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356424",
@@ -210,8 +210,8 @@
     {
       "id": "IranintlTV/356423",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "راف چیکونی، رییس کمیته مشترک اطلاعات و امنیت پارلمان استرالیا، در گفت‌وگوی اختصاصی با ایران‌اینترنشنال، تهدید خبرنگاران رسانه‌های فارسی‌زبان از سوی سپاه پاسداران را «غیرقابل قبول» خواند و بر حق خبرنگاران برای فعالیت آزادانه و بدون ارعاب و خشونت تاکید کرد.<br><br>چیکونی گفت: «کاملا نادرست است که سپاه پاسداران خبرنگاران را صرفا به دلیل انجام کارشان تهدید کند.» او افزود خبرنگاران باید بتوانند بدون دخالت، آزار و ارعاب، رویدادهای داخل ایران را گزارش کنند.<br><br>این سناتور استرالیایی گفت کشورهای جهان باید در کنار مردم ایران و جامعه ایرانیان خارج از کشور بایستند و از تلاش‌های آنها برای محکوم کردن اقدامات حکومت ایران حمایت کنند.<br><br>چیکونی همچنین به اقداماتی از جمله اخراج سفیر و دیپلمات‌های ارشد جمهوری اسلامی و اعمال تحریم علیه صدها فرد مرتبط با سپاه پاسداران و حکومت ایران در استرالیا اشاره کرد.<br><br>او افزود: «مردم ایران برای حمایت به دیگر کشورهای جهان چشم دوخته‌اند و می‌توانم بگویم که بسیاری از مردم استرالیا صددرصد در کنار آنها هستند.»<br><a href=\"https://iranintl.com/202609098078\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609098078</a>",
       "plain_text": "راف چیکونی، رییس کمیته مشترک اطلاعات و امنیت پارلمان استرالیا، در گفت‌وگوی اختصاصی با ایران‌اینترنشنال، تهدید خبرنگاران رسانه‌های فارسی‌زبان از سوی سپاه پاسداران را «غیرقابل قبول» خواند و بر حق خبرنگاران برای فعالیت آزادانه و بدون ارعاب و خشونت تاکید کرد.\n\nچیکونی گفت: «کاملا نادرست است که سپاه پاسداران خبرنگاران را صرفا به دلیل انجام کارشان تهدید کند.» او افزود خبرنگاران باید بتوانند بدون دخالت، آزار و ارعاب، رویدادهای داخل ایران را گزارش کنند.\n\nاین سناتور استرالیایی گفت کشورهای جهان باید در کنار مردم ایران و جامعه ایرانیان خارج از کشور بایستند و از تلاش‌های آنها برای محکوم کردن اقدامات حکومت ایران حمایت کنند.\n\nچیکونی همچنین به اقداماتی از جمله اخراج سفیر و دیپلمات‌های ارشد جمهوری اسلامی و اعمال تحریم علیه صدها فرد مرتبط با سپاه پاسداران و حکومت ایران در استرالیا اشاره کرد.\n\nاو افزود: «مردم ایران برای حمایت به دیگر کشورهای جهان چشم دوخته‌اند و می‌توانم بگویم که بسیاری از مردم استرالیا صددرصد در کنار آنها هستند.»\nhttps://iranintl.com/202609098078",
@@ -229,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.7K",
+      "views_label": "36.7K",
       "posted_at": "2026-09-09T01:25:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356423",
@@ -266,8 +266,8 @@
     {
       "id": "IranintlTV/356421",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "ریچارد گلدبرگ، تحلیلگر ارشد بنیاد دفاع از دموکراسی‌ها، در شبکه اجتماعی ایکس نوشت سپاه پاسداران در سیاست تشدید تنش، در موضع بازنده قرار دارد و هر روز این نهاد یک گام به فروپاشی نزدیک‌تر می‌شود.<br><br>او نوشت: «هر حمله، شکست آن را شتاب می‌بخشد. امروز، سپاه شاهد از بین رفتن تدریجی و نظام‌مند ناوگان نفتکش‌های خود است، در حالی که ناوگان هوایی آن نیز به دلیل تهدید تحریم‌ها با خطر زمین‌گیر شدن مواجه است.»<br><br><a href=\"https://iranintl.com/202609095816\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609095816</a>",
       "plain_text": "ریچارد گلدبرگ، تحلیلگر ارشد بنیاد دفاع از دموکراسی‌ها، در شبکه اجتماعی ایکس نوشت سپاه پاسداران در سیاست تشدید تنش، در موضع بازنده قرار دارد و هر روز این نهاد یک گام به فروپاشی نزدیک‌تر می‌شود.\n\nاو نوشت: «هر حمله، شکست آن را شتاب می‌بخشد. امروز، سپاه شاهد از بین رفتن تدریجی و نظام‌مند ناوگان نفتکش‌های خود است، در حالی که ناوگان هوایی آن نیز به دلیل تهدید تحریم‌ها با خطر زمین‌گیر شدن مواجه است.»\n\nhttps://iranintl.com/202609095816",
@@ -285,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.6K",
+      "views_label": "39.7K",
       "posted_at": "2026-09-09T00:46:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356421",
@@ -294,8 +294,8 @@
     {
       "id": "IranintlTV/356420",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "الن برستین، بازیگر ۹۳ ساله آمریکایی و برنده اسکار، شیر طلایی افتخاری هشتادوسومین جشنواره فیلم ونیز را برای یک عمر دستاورد هنری دریافت کرد.<br>او در سخنرانی خود با اشاره به تغییر جایگاه زنان در صنعت سینما، ابراز امیدواری کرد حضور زنان در این عرصه پررنگ‌تر شود.<br><br>گزارش صدف باغبانی، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
       "plain_text": "الن برستین، بازیگر ۹۳ ساله آمریکایی و برنده اسکار، شیر طلایی افتخاری هشتادوسومین جشنواره فیلم ونیز را برای یک عمر دستاورد هنری دریافت کرد.\nاو در سخنرانی خود با اشاره به تغییر جایگاه زنان در صنعت سینما، ابراز امیدواری کرد حضور زنان در این عرصه پررنگ‌تر شود.\n\nگزارش صدف باغبانی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
@@ -313,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.2K",
+      "views_label": "40.2K",
       "posted_at": "2026-09-09T00:32:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356420",
@@ -322,8 +322,8 @@
     {
       "id": "IranintlTV/356419",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "چاک شومر، رهبر اقلیت دموکرات در مجلس سنای آمریکا، در شبکه اجتماعی ایکس نوشت که دونالد ترامپ «ما را وارد جنگی بی‌پایان کرده است؛ جنگی که باعث افزایش سرسام‌آور قیمت‌ها در داخل کشور شده و هم‌زمان نیروهای نظامی ما را در خارج از کشور در معرض خطر قرار داده است.»<br><br>او تاکید کرد: «ما باید فورا به این جنگ پایان دهیم.»<br><br><a href=\"https://iranintl.com/202609097602\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609097602</a>",
       "plain_text": "چاک شومر، رهبر اقلیت دموکرات در مجلس سنای آمریکا، در شبکه اجتماعی ایکس نوشت که دونالد ترامپ «ما را وارد جنگی بی‌پایان کرده است؛ جنگی که باعث افزایش سرسام‌آور قیمت‌ها در داخل کشور شده و هم‌زمان نیروهای نظامی ما را در خارج از کشور در معرض خطر قرار داده است.»\n\nاو تاکید کرد: «ما باید فورا به این جنگ پایان دهیم.»\n\nhttps://iranintl.com/202609097602",
@@ -341,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.5K",
+      "views_label": "40.5K",
       "posted_at": "2026-09-09T00:25:47+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356419",
@@ -350,8 +350,8 @@
     {
       "id": "IranintlTV/356418",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "امیرمبارز پرستا، مدیر بخش سلامت پروژه شکوفایی ایران، با اشاره به پیام شاهزاده رضا پهلوی درباره حمایت از خانواده‌های دادخواه گفت شبکه‌های متعددی در حوزه درمان و سلامت روان در خارج از کشور ایجاد شده‌اند که به افراد نیازمند حمایت روانی در ایران خدمات ارایه می‌کنند.<br><br>او افزود حمایت تخصصی روانی از خانواده‌های دادخواه می‌تواند از طریق کادر درمان در داخل ایران و شبکه‌های تخصصی خارج از کشور انجام شود و مهم‌ترین مسئله این است که این خانواده‌ها احساس نکنند تنها هستند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
       "plain_text": "امیرمبارز پرستا، مدیر بخش سلامت پروژه شکوفایی ایران، با اشاره به پیام شاهزاده رضا پهلوی درباره حمایت از خانواده‌های دادخواه گفت شبکه‌های متعددی در حوزه درمان و سلامت روان در خارج از کشور ایجاد شده‌اند که به افراد نیازمند حمایت روانی در ایران خدمات ارایه می‌کنند.\n\nاو افزود حمایت تخصصی روانی از خانواده‌های دادخواه می‌تواند از طریق کادر درمان در داخل ایران و شبکه‌های تخصصی خارج از کشور انجام شود و مهم‌ترین مسئله این است که این خانواده‌ها احساس نکنند تنها هستند.\n@iranintltv",
@@ -369,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "37.9K",
+      "views_label": "39K",
       "posted_at": "2026-09-09T00:20:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356418",
@@ -378,8 +378,8 @@
     {
       "id": "IranintlTV/356417",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "دارو نیست؛ پولش هم نیست<br><br>بیمار در ایران چه می‌کند؟<br><br>داروی شما پیدا می‌شود؟<br><br>این قصه بیمارانی است که بیماری‌شان سر جایش مانده، اما دارویشان یا پیدا نمی‌شود یا دیگر توان خریدنش را ندارند.<br><br>بر اساس یک گزارش میدانی، قیمت برخی داروها طی یک سال به دو تا نزدیک پنج برابر قیمت سال گذشته رسیده و سهمی که بیمار باید از جیب خود بپردازد، به مرز ۸۰ درصد رسیده است.<br><br>نتیجه، انتخاب‌هایی دردناک است: دارو یا اجاره؟ انسولین مادر یا شیرخشک بچه؟ آزمایش یا خرید غذا؟<br><br>کم کردن یا قطع خودسرانه دارو خطرناک است؛ اما وقتی دارو نیست و پولش هم نیست، بیمار چه می‌کند؟<br><br>برای پیدا کردن کدام دارو یا دریافت کدام درمان به مشکل خورده‌اید؟ دارو پیدا نشد؟ قیمتش چند برابر شد؟ بیمه هزینه‌اش را نپرداخت؟ این وضعیت چه انتخاب اجباری‌ای به شما تحمیل کرد؟<br><br>«یک ایران صدای شما را می‌شنود»<br><br>دوشنبه تا پنجشنبه، ۱۱ شب تهران<br><br>از تلویزیون ایران‌اینترنشنال<br><br>تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:<br><br><a href=\"https://youtu.be/DQcaNf1bkFo\" target=\"_blank\" rel=\"noopener\">https://youtu.be/DQcaNf1bkFo</a><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
       "plain_text": "دارو نیست؛ پولش هم نیست\n\nبیمار در ایران چه می‌کند؟\n\nداروی شما پیدا می‌شود؟\n\nاین قصه بیمارانی است که بیماری‌شان سر جایش مانده، اما دارویشان یا پیدا نمی‌شود یا دیگر توان خریدنش را ندارند.\n\nبر اساس یک گزارش میدانی، قیمت برخی داروها طی یک سال به دو تا نزدیک پنج برابر قیمت سال گذشته رسیده و سهمی که بیمار باید از جیب خود بپردازد، به مرز ۸۰ درصد رسیده است.\n\nنتیجه، انتخاب‌هایی دردناک است: دارو یا اجاره؟ انسولین مادر یا شیرخشک بچه؟ آزمایش یا خرید غذا؟\n\nکم کردن یا قطع خودسرانه دارو خطرناک است؛ اما وقتی دارو نیست و پولش هم نیست، بیمار چه می‌کند؟\n\nبرای پیدا کردن کدام دارو یا دریافت کدام درمان به مشکل خورده‌اید؟ دارو پیدا نشد؟ قیمتش چند برابر شد؟ بیمه هزینه‌اش را نپرداخت؟ این وضعیت چه انتخاب اجباری‌ای به شما تحمیل کرد؟\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه، ۱۱ شب تهران\n\nاز تلویزیون ایران‌اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/DQcaNf1bkFo\n@iranintltv",
@@ -397,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "41.5K",
+      "views_label": "42.5K",
       "posted_at": "2026-09-08T23:55:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356417",
@@ -406,8 +406,8 @@
     {
       "id": "IranintlTV/356416",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "سخنگوی ارتش اردن اعلام کرد که این کشور در ساعات گذشته هدف حمله موشکی از خاک ایران قرار گرفته است.<br><br>او گفت که سامانه‌های پدافند هوایی اردن با ۲۰ موشک بالستیک که به سمت خاک این کشور شلیک شده بودند، مقابله کردند و افزود: «۱۸ فروند از این موشک‌ها با موفقیت رهگیری و منهدم شدند و دو موشک نیز در مناطق خالی از سکنه سقوط کردند.»<br><br>این سخنگو تاکید کرد که ارتش اردن بر اساس رویه‌های عملیاتی، با این تهدید مقابله کرد تا از حریم هوایی کشور و امنیت شهروندان محافظت شود.<br><br>او اشاره کرد عملیات رصد، پیگیری و ارزیابی همچنان ادامه دارد و بر اساس ارزیابی‌های میدانی، در پی این حمله هیچ تلفات جانی گزارش نشده است.<br><br><a href=\"https://iranintl.com/202609088202\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609088202</a>",
       "plain_text": "سخنگوی ارتش اردن اعلام کرد که این کشور در ساعات گذشته هدف حمله موشکی از خاک ایران قرار گرفته است.\n\nاو گفت که سامانه‌های پدافند هوایی اردن با ۲۰ موشک بالستیک که به سمت خاک این کشور شلیک شده بودند، مقابله کردند و افزود: «۱۸ فروند از این موشک‌ها با موفقیت رهگیری و منهدم شدند و دو موشک نیز در مناطق خالی از سکنه سقوط کردند.»\n\nاین سخنگو تاکید کرد که ارتش اردن بر اساس رویه‌های عملیاتی، با این تهدید مقابله کرد تا از حریم هوایی کشور و امنیت شهروندان محافظت شود.\n\nاو اشاره کرد عملیات رصد، پیگیری و ارزیابی همچنان ادامه دارد و بر اساس ارزیابی‌های میدانی، در پی این حمله هیچ تلفات جانی گزارش نشده است.\n\nhttps://iranintl.com/202609088202",
@@ -425,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.1K",
+      "views_label": "40.2K",
       "posted_at": "2026-09-08T23:53:41+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356416",
@@ -434,8 +434,8 @@
     {
       "id": "IranintlTV/356415",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "جمشید برزگر، روزنامه‌نگار و تحلیلگر سیاسی، با اشاره به افزایش قیمت بنزین گفت این افزایش تنها بر هزینه سوخت تاثیر نمی‌گذارد و به افزایش قیمت کالاها و خدمات و تشدید فشار اقتصادی بر مردم منجر خواهد شد.<br><br>او افزود جمهوری اسلامی چشم‌اندازی برای جبران ناترازی بنزین ندارد و نگرانی از اعتراضات گسترده مانع از افزایش بیشتر قیمت بنزین شده است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
       "plain_text": "جمشید برزگر، روزنامه‌نگار و تحلیلگر سیاسی، با اشاره به افزایش قیمت بنزین گفت این افزایش تنها بر هزینه سوخت تاثیر نمی‌گذارد و به افزایش قیمت کالاها و خدمات و تشدید فشار اقتصادی بر مردم منجر خواهد شد.\n\nاو افزود جمهوری اسلامی چشم‌اندازی برای جبران ناترازی بنزین ندارد و نگرانی از اعتراضات گسترده مانع از افزایش بیشتر قیمت بنزین شده است.\n@iranintltv",
@@ -453,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.4K",
+      "views_label": "39.4K",
       "posted_at": "2026-09-08T23:52:02+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356415",
@@ -462,8 +462,8 @@
     {
       "id": "IranintlTV/356414",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "شرکت تانکر ترکرز، که نفتکش‌ها را در آب‌های بین‌المللی ردیابی می‌کند، در مورد پنج نفتکش جمهوری اسلامی که سه‌شنبه هدف حملات ارتش آمریکا قرار گرفتند، نوشت: «این نفتکش‌ها در مجموع از ماه مه ۲۰۱۹، ۴۵ میلیون بشکه نفت خام و فرآورده‌های نفتی ایران را صادر کرده‌اند.»<br><br><a href=\"https://iranintl.com/202609084279\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609084279</a>",
       "plain_text": "شرکت تانکر ترکرز، که نفتکش‌ها را در آب‌های بین‌المللی ردیابی می‌کند، در مورد پنج نفتکش جمهوری اسلامی که سه‌شنبه هدف حملات ارتش آمریکا قرار گرفتند، نوشت: «این نفتکش‌ها در مجموع از ماه مه ۲۰۱۹، ۴۵ میلیون بشکه نفت خام و فرآورده‌های نفتی ایران را صادر کرده‌اند.»\n\nhttps://iranintl.com/202609084279",
@@ -481,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39K",
+      "views_label": "40K",
       "posted_at": "2026-09-08T23:48:32+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356414",
@@ -490,8 +490,8 @@
     {
       "id": "IranintlTV/356413",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "علیرضا نامور حقیقی، تحلیلگر سیاسی، با اشاره به حملات جمهوری اسلامی به ناوهای آمریکایی و تشدید تنش‌ها در منطقه گفت هدف تهران شکستن تحریم‌ها و افزایش فشار بر دولت دونالد ترامپ است تا در نهایت آمریکا را وادار به خروج از منطقه کند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
       "plain_text": "علیرضا نامور حقیقی، تحلیلگر سیاسی، با اشاره به حملات جمهوری اسلامی به ناوهای آمریکایی و تشدید تنش‌ها در منطقه گفت هدف تهران شکستن تحریم‌ها و افزایش فشار بر دولت دونالد ترامپ است تا در نهایت آمریکا را وادار به خروج از منطقه کند.\n@iranintltv",
@@ -509,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45.2K",
+      "views_label": "46.2K",
       "posted_at": "2026-09-08T23:13:57+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356413",
@@ -518,8 +518,8 @@
     {
       "id": "IranintlTV/356412",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "نیروهای دولت یمن سه‌شنبه دامنه پیشروی خود علیه حوثی‌ها را در چند جبهه گسترش دادند و اعلام کردند کنترل منطقه الیتمه در استان الجوف را به دست گرفته‌اند.<br><br>هم‌زمان، عملیات گسترده نیروهای دولتی در استان البیضا آغاز شده است و درگیری‌ها در ساحل غربی و غرب تعز نیز ادامه دارد.<br><br>نیروهای دولت یمن می‌گویند پس از مهار حملات زمینی چند روز اخیر حوثی‌ها، اکنون ضدحمله را آغاز کرده و ابتکار عمل را در چند محور به دست گرفته‌اند.<br><br>پیشروی در الیتمه یک روز پس از بازپس‌گیری منطقه اللبنات در جنوب این منطقه اعلام شده است.<br><br><a href=\"https://iranintl.com/202609087273\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609087273</a>",
       "plain_text": "نیروهای دولت یمن سه‌شنبه دامنه پیشروی خود علیه حوثی‌ها را در چند جبهه گسترش دادند و اعلام کردند کنترل منطقه الیتمه در استان الجوف را به دست گرفته‌اند.\n\nهم‌زمان، عملیات گسترده نیروهای دولتی در استان البیضا آغاز شده است و درگیری‌ها در ساحل غربی و غرب تعز نیز ادامه دارد.\n\nنیروهای دولت یمن می‌گویند پس از مهار حملات زمینی چند روز اخیر حوثی‌ها، اکنون ضدحمله را آغاز کرده و ابتکار عمل را در چند محور به دست گرفته‌اند.\n\nپیشروی در الیتمه یک روز پس از بازپس‌گیری منطقه اللبنات در جنوب این منطقه اعلام شده است.\n\nhttps://iranintl.com/202609087273",
@@ -537,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "45.6K",
+      "views_label": "46.6K",
       "posted_at": "2026-09-08T23:12:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356412",
@@ -574,8 +574,8 @@
     {
       "id": "IranintlTV/356410",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "فرماندهی مرکزی ارتش آمریکا (سنتکام) روز سه‌شنبه ۱۷ شهریور پنج نفتکش حامل نفت خام ایران را منهدم کرد. این اقدام پس از آن انجام شد که سپاه پاسداران طی دو روز گذشته دو بار یک ناو جنگی نیروی دریایی آمریکا را با موشک‌های بالستیک هدف قرار داد. ناو آمریکایی این حملات را ناکام گذاشت و به گشت‌زنی در آب‌های منطقه ادامه داد و هیچ‌یک از نیروهای آمریکایی آسیب ندیدند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
       "plain_text": "فرماندهی مرکزی ارتش آمریکا (سنتکام) روز سه‌شنبه ۱۷ شهریور پنج نفتکش حامل نفت خام ایران را منهدم کرد. این اقدام پس از آن انجام شد که سپاه پاسداران طی دو روز گذشته دو بار یک ناو جنگی نیروی دریایی آمریکا را با موشک‌های بالستیک هدف قرار داد. ناو آمریکایی این حملات را ناکام گذاشت و به گشت‌زنی در آب‌های منطقه ادامه داد و هیچ‌یک از نیروهای آمریکایی آسیب ندیدند.\n@iranintltv",
@@ -593,7 +593,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "48.7K",
+      "views_label": "49.7K",
       "posted_at": "2026-09-08T22:51:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356410",
@@ -602,8 +602,8 @@
     {
       "id": "IranintlTV/356409",
       "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
       "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
       "body_html": "فرماندهی مرکزی ایالات متحده (سنتکام) اعلام کرد نیروهای آمریکایی سه‌شنبه پنج نفتکش حامل نفت خام ایران را منهدم کردند. به گفته سنتکام، این اقدام پس از دو تلاش سپاه پاسداران طی دو روز برای هدف قرار دادن یک ناو جنگی نیروی دریایی آمریکا با موشک‌های بالستیک انجام شد.<br><br>سنتکام گفت این حملات به ناو و سرنشینان آن آسیبی وارد نکرد و ناو به گشت‌زنی در منطقه ادامه داد.<br><br>بر اساس بیانیه سنتکام، نفتکش‌های «کاویز»، «چارمینار»، «هورایزن ۱» و «ریسکو» در خلیج عمان و نفتکش «دریا» در نزدیکی جزیره خارک هدف قرار گرفتند. نیروهای آمریکایی پیش از حمله به خدمه دستور دادند شناورها را ترک کنند.<br><br>سنتکام گفت جمهوری اسلامی از این نفتکش‌ها در شبکه‌ای «چند میلیارد دلاری» برای تامین مالی سپاه پاسداران و نیروهای نیابتی آن استفاده می‌کرد.<br><br>این فرماندهی همچنین اعلام کرد شنبه سه نفتکش دیگر را پس از تلاش سپاه پاسداران برای هدف قرار دادن یک ناو هواپیمابر و یک ناوشکن آمریکایی منهدم کرده است.<br><br><a href=\"https://iranintl.com/202609081750\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609081750</a>",
       "plain_text": "فرماندهی مرکزی ایالات متحده (سنتکام) اعلام کرد نیروهای آمریکایی سه‌شنبه پنج نفتکش حامل نفت خام ایران را منهدم کردند. به گفته سنتکام، این اقدام پس از دو تلاش سپاه پاسداران طی دو روز برای هدف قرار دادن یک ناو جنگی نیروی دریایی آمریکا با موشک‌های بالستیک انجام شد.\n\nسنتکام گفت این حملات به ناو و سرنشینان آن آسیبی وارد نکرد و ناو به گشت‌زنی در منطقه ادامه داد.\n\nبر اساس بیانیه سنتکام، نفتکش‌های «کاویز»، «چارمینار»، «هورایزن ۱» و «ریسکو» در خلیج عمان و نفتکش «دریا» در نزدیکی جزیره خارک هدف قرار گرفتند. نیروهای آمریکایی پیش از حمله به خدمه دستور دادند شناورها را ترک کنند.\n\nسنتکام گفت جمهوری اسلامی از این نفتکش‌ها در شبکه‌ای «چند میلیارد دلاری» برای تامین مالی سپاه پاسداران و نیروهای نیابتی آن استفاده می‌کرد.\n\nاین فرماندهی همچنین اعلام کرد شنبه سه نفتکش دیگر را پس از تلاش سپاه پاسداران برای هدف قرار دادن یک ناو هواپیمابر و یک ناوشکن آمریکایی منهدم کرده است.\n\nhttps://iranintl.com/202609081750",
@@ -621,7 +621,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "48.7K",
+      "views_label": "49.7K",
       "posted_at": "2026-09-08T22:48:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356409",
