@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T07:36:39.026Z",
+  "fetched_at": "2026-09-09T07:41:36.891Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229956",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "سه انبار تسلیحاتی در نوار غزه منهدم شدند؛<br><br>ارتش اسرائیل از انهدام سه انبار تسلیحاتی و یک گودال پرتاب راکت در نوار غزه خبر داد.<br><br>در اطلاعیه ارتش اسرائيل آماده است که این نیرو با همکاری سازمان اطلاعات داخلی اسرائيل، شاباک، روز چهارشنبه هجدهم شهریورماه، به ‌صورت هدفمند در سراسر نوار غزه عملیات انجام داده و سه انبار تسلیحاتی متعلق به «سازمان‌های تروریستی» حماس و جهاد اسلامی فلسطین را منهدم کرده است.<br><br>ارتش اسرائيل می‌گوید، یک گودال پرتاب راکت که در طول جنگ از آن به سوی خاک اسرائیل راکت شلیک شده بود نیز منهدم کرده است.<br><br>بر اساس گزارش ارتش اسرائيل، در انبارهای منهدم شده، ده‌ها سلاح و تجهیزات نظامی ذخیره شده بود که نیروهای حماس از آن استفاده می‌کردند.<br><br>ارتش اسرائیل اعلام کرد که به اقدام قاطع برای کاهش توانمندی‌های سازمان‌های تروریستی در نوار غزه ادامه خواهد داد.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "سه انبار تسلیحاتی در نوار غزه منهدم شدند؛\n\nارتش اسرائیل از انهدام سه انبار تسلیحاتی و یک گودال پرتاب راکت در نوار غزه خبر داد.\n\nدر اطلاعیه ارتش اسرائيل آماده است که این نیرو با همکاری سازمان اطلاعات داخلی اسرائيل، شاباک، روز چهارشنبه هجدهم شهریورماه، به ‌صورت هدفمند در سراسر نوار غزه عملیات انجام داده و سه انبار تسلیحاتی متعلق به «سازمان‌های تروریستی» حماس و جهاد اسلامی فلسطین را منهدم کرده است.\n\nارتش اسرائيل می‌گوید، یک گودال پرتاب راکت که در طول جنگ از آن به سوی خاک اسرائیل راکت شلیک شده بود نیز منهدم کرده است.\n\nبر اساس گزارش ارتش اسرائيل، در انبارهای منهدم شده، ده‌ها سلاح و تجهیزات نظامی ذخیره شده بود که نیروهای حماس از آن استفاده می‌کردند.\n\nارتش اسرائیل اعلام کرد که به اقدام قاطع برای کاهش توانمندی‌های سازمان‌های تروریستی در نوار غزه ادامه خواهد داد.\n\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229956",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/SwKfkhNGroHTNbZS2WUlYS3WOIvjOekOUGOkfXefjG4FFOeHNMLUBAVDugHZmg2fsVDTxnvCCv8tQ1DbJX3IPSdBYDJqRL2--GUV14Bph5HPNIuVjjzvrIAM-BzLJdJ56ObbCSSln_c4oC6UyF3wDQn2IYAiHuwxnxpIikB-bG-Ogf4g021BMGYmX2pKSCc4i1Y0j2l2f3erFyA9itjoEPhme5tSEFGcNEQigimkCrdQQhfIdYJctQ3JXzh17_MjgxTaut7VNo3ut8FQUH0Qq8khRxuszu4XoHhipba8yTvflgzebLYu4C9kS-FryiQiVZYAqtz5EstZiYwVYtVu5Q",
+          "thumbnail_path": "channels/farsivoa/media/5f9ee8c24a9746788756bf2f.jpg",
+          "thumbnail_sha256": "62692199da2fe7998bb159cc95dcf28c9f8be7f903495d083551aa377be7ebd4",
+          "duration_label": "0:24",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-09T07:41:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229956",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229955",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺حمله پهپادی روسیه به گذرگاه مرزی اوکراین و مولداوی\n\n▪️پهپادهای روسیه شامگاه سه‌شنبه گذرگاه مرزی میان اوکراین و مولداوی را هدف قرار دادند و چندین کشته، زخمی و آتش‌سوزی بر جای گذاشتند.\n\n▪️روسیه شامگاه گذشته کی‌یف را نیز هدف گرفت. سازمان خدمات اضطراری اوکراین در تلگرام اعلام کرد حمله آتش‌سوزی ایجاد کرد اما تلفاتی نداشت.\n\n▪️بر پایه اعلام وزارت زیرساخت اوکراین، روسیه ظرف یک هفته گذشته چهار بار گذرگاه‌های مرزی جنوب این کشور را مورد حمله قرار داده است. گذرگاه تاباکی-میرنویه با مولداوی در میان اهداف بود و زیرساخت آنجا ویران شد.\n\n▪️حمله شامگاه دوشنبه به پایتخت اوکراین مرگبارتر بود. بر پایه گزارش کی‌یف ایندیپندنت، این حمله پنج کشته و ۲۹ زخمی بر جای گذاشت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195977.html",
       "media": [],
       "reactions": [],
-      "views_label": "450",
+      "views_label": "610",
       "posted_at": "2026-09-09T07:28:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229955",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "868",
+      "views_label": "995",
       "posted_at": "2026-09-09T07:17:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229954",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.37K",
+      "views_label": "1.47K",
       "posted_at": "2026-09-09T07:02:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229952",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.56K",
+      "views_label": "1.62K",
       "posted_at": "2026-09-09T06:52:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229951",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.82K",
+      "views_label": "1.88K",
       "posted_at": "2026-09-09T06:36:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229950",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.17K",
+      "views_label": "2.24K",
       "posted_at": "2026-09-09T06:18:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229949",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.38K",
+      "views_label": "2.45K",
       "posted_at": "2026-09-09T06:07:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229948",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.71K",
+      "views_label": "2.77K",
       "posted_at": "2026-09-09T05:48:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229947",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.93K",
+      "views_label": "2.97K",
       "posted_at": "2026-09-09T05:31:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229946",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.97K",
+      "views_label": "3K",
       "posted_at": "2026-09-09T05:20:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229945",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.22K",
+      "views_label": "3.29K",
       "posted_at": "2026-09-09T05:11:43+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229944",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.69K",
+      "views_label": "5.72K",
       "posted_at": "2026-09-09T02:31:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229943",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.57K",
+      "views_label": "5.6K",
       "posted_at": "2026-09-09T02:29:15+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229942",
@@ -373,7 +401,7 @@
       "plain_text": "🔺سنتکام: جمهوری اسلامی ابزاری برای دفاع از کشتی‌هایش ندارد؛ نفتکش‌های سپاه را منهدم کردیم\n\n▪️ستاد فرماندهی مرکزی آمریکا، سه‌‌شنبه شب به وقت واشنگتن (بامداد چهارشنبه به وقت تهران) ویدیوی انهدام نفتکش ری‌یسکو، یکی از ۵ نفتکش جمهوری اسلامی را که ساعاتی قبل منهدم کرد، منتشر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195937.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "5.36K",
+      "views_label": "5.37K",
       "posted_at": "2026-09-09T02:25:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229941",
@@ -401,7 +429,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.77K",
+      "views_label": "4.81K",
       "posted_at": "2026-09-09T02:15:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229940",
@@ -429,7 +457,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.72K",
+      "views_label": "4.75K",
       "posted_at": "2026-09-09T02:03:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229939",
@@ -457,7 +485,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.8K",
+      "views_label": "4.83K",
       "posted_at": "2026-09-09T01:38:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229938",
@@ -501,7 +529,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.29K",
+      "views_label": "4.32K",
       "posted_at": "2026-09-09T01:09:36+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229936",
@@ -2481,34 +2509,6 @@
       "posted_at": "2026-09-08T13:03:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229855",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229854",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "رئیس‌جمهوری لبنان، با تروریستی خواندن حملات حوثی‌ها علیه چند شهر عربستان سعودی و هدف قرار دادن اماکن غیرنظامی این کشور، این حملات را به شدت محکوم کرد.<br><br>جوزف عون، اعلام کرد نگران تشدید خطرناک تنش و تهدید مستقیم امنیت عربستان سعودی و شهروندان غیرنظامی هستیم و بر ایستادگی کامل لبنان در کنار عربستان سعودی، جهت تامین امنیت و ثبات منطقه تأکید کرد.<br><br>حوثی‌ها که از سوی جمهوری اسلامی حمایت می‌شوند، از سوی چندین کشور از جمله آمریکا، اسرائيل و عربستان سعودی در فهرست گروه‌های تروریستی قرار دارند.",
-      "plain_text": "رئیس‌جمهوری لبنان، با تروریستی خواندن حملات حوثی‌ها علیه چند شهر عربستان سعودی و هدف قرار دادن اماکن غیرنظامی این کشور، این حملات را به شدت محکوم کرد.\n\nجوزف عون، اعلام کرد نگران تشدید خطرناک تنش و تهدید مستقیم امنیت عربستان سعودی و شهروندان غیرنظامی هستیم و بر ایستادگی کامل لبنان در کنار عربستان سعودی، جهت تامین امنیت و ثبات منطقه تأکید کرد.\n\nحوثی‌ها که از سوی جمهوری اسلامی حمایت می‌شوند، از سوی چندین کشور از جمله آمریکا، اسرائيل و عربستان سعودی در فهرست گروه‌های تروریستی قرار دارند.",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229854",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/kAaY4AUM4tVH3-9-p-tvbaFGJIuudjvl08l0U7zWfkehuowO29Y7CbMCD9vGYPXhLJIuZmAfaZ6AVgnFiRrDadGc3cj_j7Q-tYBJXXvUSLLnyIhDt8lAIf4kH_L3TiQ6X1EZl8Qi9EwbVoPnN7MfL3SDdDK_9MJdgD9yC9Vo0cUMTfjcuXHo7FS3kxmP_TmH-4CZBM8MRUNryBs3buVEBxUXB_3YPV4C0v2Gc3dCgMO3ELowgeWkivVGxPe7wK-FOJTebibcoVH_Tuy8UvkLIn3hdlWZQRdhFdxpmMORqNvN5Oh3y0q-8zcK8waokCpViX2CBDVcCLPQr04JIYF63w.jpg",
-          "thumbnail_path": "channels/farsivoa/media/acb04593f480fb424d47b6bc.jpg",
-          "thumbnail_sha256": "49d2849dfe9bb416f14fb1286aa67fb6812ebce352b3f68dd5100a8ca5c31d27",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.44K",
-      "posted_at": "2026-09-08T12:50:47+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229854",
       "reply": null
     }
   ]
