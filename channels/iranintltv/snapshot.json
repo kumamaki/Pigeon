@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T08:36:44.933Z",
+  "fetched_at": "2026-09-09T08:41:39.901Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356460",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "محمدباقر قالیباف، رییس مجلس، چهارشنبه ۱۸ شهریور با انتشار تصویری در کانال تلگرامی خود، پیت هگست، وزیر جنگ آمریکا را خطاب قرار داد و نوشت: «هدف بعدی، دارایی‌های انرژی شما در منطقه است.»<br><a href=\"https://iranintl.com/202609093783\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609093783</a>",
+      "plain_text": "محمدباقر قالیباف، رییس مجلس، چهارشنبه ۱۸ شهریور با انتشار تصویری در کانال تلگرامی خود، پیت هگست، وزیر جنگ آمریکا را خطاب قرار داد و نوشت: «هدف بعدی، دارایی‌های انرژی شما در منطقه است.»\nhttps://iranintl.com/202609093783",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356460",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/JWdOeCFRvPCZg7WDVLBnBtqw1SnhMrSPVz2OGtFjPbETGWIr8AUA6k_DraAlGJX9b59vKLnRL_7Y0t5EIiLPxL4GV03ckg4zIGFS9KmnMvxgP6w7rpmN1HEqbgjulQzaJD1l0tFQW-KDzJ9P-QyD-l6C6_2bcRfJ8paSmIsJKNFVMO3tCXTn38uceCLuBtfUfNIIUpYgRdk1AX6eLbfLy7bonxx2aDqm--9FpVxVbYsMaV0QPaGnHYmlHauKSz6_emfNDz4b_t5XWAVFnpawXaXoc6OuEicJpXKG48f9_D119EsmiPa2i9SWDNV3BRDeW5MqtgEpCUKfcl2FhXY3KQ.jpg",
+          "thumbnail_path": "channels/iranintltv/media/208d23a976f134b18a03d7a7.jpg",
+          "thumbnail_sha256": "6282891a8ba8388609def162e2b7673cae2455da190d6aaa52142a829e401dba",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "42",
+      "posted_at": "2026-09-09T08:41:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356460",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356459",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.25K",
+      "views_label": "9.41K",
       "posted_at": "2026-09-09T08:30:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356459",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7.3K",
+      "views_label": "10.4K",
       "posted_at": "2026-09-09T08:30:01+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356458",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.5K",
+      "views_label": "15.6K",
       "posted_at": "2026-09-09T08:21:04+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356457",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.9K",
+      "views_label": "22.9K",
       "posted_at": "2026-09-09T08:03:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356456",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.9K",
+      "views_label": "24K",
       "posted_at": "2026-09-09T07:59:15+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356455",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.8K",
+      "views_label": "21.9K",
       "posted_at": "2026-09-09T07:58:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356454",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.8K",
+      "views_label": "20.9K",
       "posted_at": "2026-09-09T07:56:57+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356453",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "19.8K",
+      "views_label": "20.9K",
       "posted_at": "2026-09-09T07:52:59+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356452",
@@ -245,7 +273,7 @@
       "plain_text": "🗣روایت شما از شرایط زندگی و بحران اقتصادی- چهارشنبه ۱۸ شهریور:\n\n🔹سه هفته‌ست دندون‌درد دارم و با مسکن و آنتی‌بیوتیک آرومش می‌کنم چون پول ندارم برم درستش کنم. اینطوری که داره پیش می‌ره دیگه پول خرید داروها رو هم نخواهم داشت.\n\n🔹از شهرکرد پیام می‌دم. از صبح تا شب اسنپ کار می‌کنم و کارکرد یه روز کامل هزینه یک وعده غذایی برای خانواده هم نمی‌شه.\n\n🔹تمام داروخانه‌های گرگان رو گشتم، آنتی‌بیوتیک زیکات ۵۵۰ پیدا نکردم.\n\n🔹از شهریار تهران پیام می‌دم. واقعا شرایط زندگی برای قشر ضعیف خیلی بحرانی شده. همه اجناس خوراکی گرون شده. تو این وضعیت، جمهوری اسلامی با افزایش قیمت بنزین، قبر خودش رو کند.\n\n🔹شهرداری تبریز داره تو تمام محلات با بی‌رحمی کامل سگ‌ها رو با تفنگ ساچمه‌ای و به طرز وحشیانه‌ای می‌کشه. حتی توله‌های تازه به دنیا اومده رو.\n\n🔹از قیامدشت: داریم زیر فشار گرانی و تورمی که برای ما به‌وجود آوردند له می‌شیم، نه آزادی بیان داریم اعتراض کنیم، نه دادرسی داریم به دادمان برسن. لعنت بر این عدالت شما.\n\n🔹همه دار و ندارم رو یک‌جا کردم که بتونم ۵۰۰ میلیون بذارم روی پول پیش خونه‌ام. امروز صاحب‌خونه زده زیر حرفش، می‌گه این مبلغ کمه؛ باید ۲۰۰ دیگه بدی که جمعا بشه یک میلیارد. به خدا دیگه نمی‌دونم باید چه کار کنیم.\n\n🔹مردم ایران در حال نابود شدن زیر فشار اقتصادی هستن. همه افراد خونه هم سر کار می‌رن اما از پس خرج و زندگی معمولی برنمیان.\n\n🔹راننده اسنپ هستم. دیروز یک میلیون تومن کار کردم، هم‌زمان یک میلیون و ۸۰۰ هزار تومن دادم هزینه تعمیر بالابر شیشه ماشین.",
       "media": [],
       "reactions": [],
-      "views_label": "20.9K",
+      "views_label": "23K",
       "posted_at": "2026-09-09T07:50:13+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356451",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.1K",
+      "views_label": "26.1K",
       "posted_at": "2026-09-09T07:39:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356450",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.1K",
+      "views_label": "27.2K",
       "posted_at": "2026-09-09T07:34:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356449",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.1K",
+      "views_label": "26.2K",
       "posted_at": "2026-09-09T07:29:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356448",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.1K",
+      "views_label": "27.2K",
       "posted_at": "2026-09-09T07:25:11+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356446",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.2K",
+      "views_label": "27.2K",
       "posted_at": "2026-09-09T07:23:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356445",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.4K",
+      "views_label": "32.4K",
       "posted_at": "2026-09-09T07:09:02+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356444",
@@ -457,7 +485,7 @@
       "plain_text": "🗣روایت شما از شرایط زندگی و بحران اقتصادی- چهارشنبه ۱۸ شهریور:\n\n🔹من بیماری سرطان خون دارم، باید پیوند مغز استخوان انجام بدم. هزینه‌اش بین ۲۵ تا ۳۰ میلیون شده. واقعا ندارم. موندم چیکار کنم. فقط باید بشینم تا بمیرم.\n\n🔹از تهران پیام می‌دم. اینجا دیگه اصلا دارو نیست. باید کلی بگردی دارو مورد نظرت رو پیدا کنی. مثلا قرص دایجستیو که یه مکمل ساده برای گوارش است هم پیدا نمی‌شه.\n\n🔹من پدرم دیابت داره و داروی متفورمین مصرف می‌کنه. الان نیست که بخواهیم تهیه کنیم. مجبور شدم به یکی از دوستانم بگم از ترکیه برام‌ بفرسته.\n\n🔹از سیستان و بلوچستان پیام می‌دم. ۱۰ ماهه که داروی حیاتی فاکتور ۱۳ مخصوص بیماران هموفیلی در کشور گیر نمیاد و موجودی داروخانه‌ها به صفر رسیده.\n\n🔹سه روزه ماشین‌ام خراب شده گوشه خیابان گذاشتمش. هزینه تعمیرات و اجناس سر به فلک زده.\n\n🔹از مشهد پیام می‌دم. پول برق هر دفعه می‌آمد ۵۰ هزار تومان، این بار آمده ۶۰۰ هزار تومان. خسته شدیم از این گرانی هر روزه همه‌چیز.\n\n🔹من یک پرستار هستم و در آریاشهر مستاجرم. دوره آخر ۳۵۰ هزار تومن قبض برقم بود، الان بالای پنج میلیون اومده.\n\n🔹ما همه قیمت‌ها رو به دلار داریم پرداخت می‌کنیم. حتی همین بنزین هم به دلار دارن حساب می‌کنن. قیمت‌ها هم روز به روز در حال افزایشه اون‌وقت من موندم چرا درآمد ما همچنان به ریاله و هیچ افزایش حقوقی نداریم.\n\n🔹چند تا دونه میوه گرفتم ۶۱۰ هزار تومان شد.",
       "media": [],
       "reactions": [],
-      "views_label": "46K",
+      "views_label": "47.1K",
       "posted_at": "2026-09-09T06:23:48+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356443",
@@ -513,7 +541,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.1K",
+      "views_label": "48.2K",
       "posted_at": "2026-09-09T06:06:15+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356441",
@@ -2697,34 +2725,6 @@
       "posted_at": "2026-09-08T17:18:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356359",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356358",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "دفاع مدنی عربستان سعودی اعلام کرد سامانه هشدار در جازان و ابها فعال شده است. این نهاد همچنین اعلام کرد سامانه هشدار در نجران نیز فعال شده است.<br><br>دفاع مدنی عربستان سعودی تا لحظه انتشار این گزارش جزئیات بیشتری اعلام نکرده است.<br><a href=\"https://iranintl.com/202609083486\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609083486</a>",
-      "plain_text": "دفاع مدنی عربستان سعودی اعلام کرد سامانه هشدار در جازان و ابها فعال شده است. این نهاد همچنین اعلام کرد سامانه هشدار در نجران نیز فعال شده است.\n\nدفاع مدنی عربستان سعودی تا لحظه انتشار این گزارش جزئیات بیشتری اعلام نکرده است.\nhttps://iranintl.com/202609083486",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356358",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/cqGQ-tkDRPn9OO-sk7-vNguwDZIhwgPB0X7g-7M52fqx8Qh9ManBpZiMRqKDZvOnIDTWtK48jdQHav0mtUgmGvRx4fStwgoEZVi-vXPUrxMq8SvcV00QXlHaeNsjTniNLPSnycumnabx5pTgzYpQ_rh72MAgUz_wu0rkk06_zrEmrBwnUu3ldRKFExYWMNiO5EV2Pviw_fY8x6P8SxS8s_fxBa4-9CIx9Y1leBKOn5rOk_6jOemeZB_G_wUJlcwgKV6PoaeTeQVzuUi1UdOKcTKFeO4uDIuXl1fanrTLe_zfYzMvLwdlLQYz6LzaKH-pXQW37EBTyYWYhQTvVylN2g.jpg",
-          "thumbnail_path": "channels/iranintltv/media/38dc7a51c572e646a2892825.jpg",
-          "thumbnail_sha256": "e17fa7dbca08c097435fc8c70ff4325904b9d93242b9ca8a8ec7a7644ae11220",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "53.6K",
-      "posted_at": "2026-09-08T17:10:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356358",
       "reply": null
     }
   ]
