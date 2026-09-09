@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T09:01:52.454Z",
+  "fetched_at": "2026-09-09T09:06:50.398Z",
   "channel": {
     "username": "radiofarda",
     "title": "RadioFarda",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "radiofarda/161277",
+      "author_name": "RadioFarda",
+      "author_photo_url": "https://cdn4.telesco.pe/file/aULxXnPrnZByUEOrOZIfA2Pj0OK6JsUfoI9HtPofwB_CFlk4iKCWRSsx8xxxtW5q7lx2YBHb2NgBWPtQ0TTDJD8VCpWrT2ySlqAwIH6NCehe__5xAVPGTNlMmCxNM-wLdpoV9TGdqhxBFLAPoabp1ON4Geyl_OP-CL3cKhFx6C_udt-euYS-nCYSZD1zIZkLvuQ-0jxGNDnAWgBPXMEXBRUWNvgINC_30Ooz1voyFuMRNcQmQy38caf-mfwGvcmA4-hTzNLCYLiXKSIEk9n5tdT-ixZ16jeyL6WecaIK4S3APKsJH4st8e59qTmNhsOKBPxBaz6IoW5pmSUFMH0DCg.jpg",
+      "author_photo_path": "channels/radiofarda/media/6174784b69c24bc99bbcd934.jpg",
+      "author_photo_sha256": "64a87e11935de46ba38795762d4ad6a44f86bb30956e5a113f67aa844db27246",
+      "body_html": "",
+      "plain_text": "",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/radiofarda/161277",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/b1yRtDMgT01AR8EkSSQoThi3aNS7x7I-soV0llzOVCDG3m5QE2uGi7955KaELA1aVJD7kUWrS5BPgt8XyycNXVqWVYaL-v1UKsUeaKT1uP1UiEi295E6RGC6sKl0wRS3JQrUWO9k1y0h6Jqa5vjVrkhMdBR581gF7rOhZzCaggdABfDl_3pZ4WTu1C8_retpShs3GWwWCkvYTh243YjATCw0shSih8E68VR8NSvZEfnEuH_Yu_x8qh2KXIa7U2VB-NrtV3TvTnajAuEdL5-rV2vHR9OJqjkUNc8yWv0YBjIqy2MIUmTuRycYWPvLBd4Cgki8AtGx2yT1VEXm03VAVQ.jpg",
+          "thumbnail_path": "channels/radiofarda/media/ef3b539de4a17fd51b877629.jpg",
+          "thumbnail_sha256": "74d06b6e058ac8fcc84e3552af6260d4b286c009c7327cf4a74a9d5014a71d73",
+          "duration_label": null,
+          "aspect_ratio": 1.5009380863039399
+        }
+      ],
+      "reactions": [],
+      "views_label": "3",
+      "posted_at": "2026-09-09T09:05:50+00:00",
+      "edited": false,
+      "permalink": "https://t.me/radiofarda/161277",
+      "reply": null
+    },
+    {
       "id": "radiofarda/161276",
       "author_name": "RadioFarda",
       "author_photo_url": "https://cdn4.telesco.pe/file/aULxXnPrnZByUEOrOZIfA2Pj0OK6JsUfoI9HtPofwB_CFlk4iKCWRSsx8xxxtW5q7lx2YBHb2NgBWPtQ0TTDJD8VCpWrT2ySlqAwIH6NCehe__5xAVPGTNlMmCxNM-wLdpoV9TGdqhxBFLAPoabp1ON4Geyl_OP-CL3cKhFx6C_udt-euYS-nCYSZD1zIZkLvuQ-0jxGNDnAWgBPXMEXBRUWNvgINC_30Ooz1voyFuMRNcQmQy38caf-mfwGvcmA4-hTzNLCYLiXKSIEk9n5tdT-ixZ16jeyL6WecaIK4S3APKsJH4st8e59qTmNhsOKBPxBaz6IoW5pmSUFMH0DCg.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "اسرائیل کنسولگری بریتانیا در اورشلیم را تعطیل کرد\n\n🔸خبرگزاری رویترز به نقل از یک مقام اسرائیل گزارش داد که این کشور به کنسولگری بریتانیا در اورشلیم اطلاع داده که باید طی ۳۰ روز آینده تعطیل شود و دیپلمات‌های مستقر در آن اعتبارنامه خود را از دست می‌دهند.\n\n🔸همچنین اسرائیل به نمایندگان بریتانیایی حاضر در هیئت صلح غزه به رهبری ایالات متحده و دیپلمات‌های بریتانیایی مستقر در رام‌الله دستور داده است ظرف مدت هفت روز آنجا را ترک کنند.\n\n🔸بریتانیا روز سه‌شنبه با انتقاد از افزایش خشونت شهرک‌نشین‌های یهودی در کرانه باختری، از ممنوعیت تجارت کالاهای تولیدشده در این شهرک‌ها خبر داد و اعلام کرد این اقدام با هماهنگی فرانسه و کانادا انجام می‌شود.\n\n🔸همزمان با بریتانیا، فرانسه و کانادا نیز اعلام کردند واردات کالا از شهرک‌های اسرائیلی را ممنوع خواهند کرد.\n\n🔸اد میلیبند، وزیر خارجه بریتانیا در یک سخنرانی در پارلمان این کشور با انتقاد از خشونت شهرک‌نشین‌ها، از آنچه «پاکسازی قومی» توسط آنها نامید انتقاد کرد.\n\n🔸روز سه‌شنبه ۱۷ شهریور، ۱۲ کشور از جمله بریتانیا، دانمارک، فنلاند، ایسلند، ایرلند، نروژ، لهستان، پرتغال، اسپانیا و سوئد اعلام کردند در پی افزایش حملات شهرک‌نشینان یهودی‌نشین به روستاهای فلسطینی، تحریم‌هایی را علیه تجارت با این شهرک‌ها در کرانه باختری اعمال خواهند کرد.\n\n🔸فرانسه و سوئد نیز که از اقدام بریتانیا حمایت کرده‌اند، در اورشلیم کنسولگری‌هایی دارند که نزد تشکیلات خودگردان فلسطینی به رسمیت شناخته شده‌اند.\n\n@RadioFarda",
       "media": [],
       "reactions": [],
-      "views_label": "984",
+      "views_label": "1.14K",
       "posted_at": "2026-09-09T08:36:56+00:00",
       "edited": false,
       "permalink": "https://t.me/radiofarda/161276",
@@ -37,7 +65,7 @@
       "plain_text": "هشدار پاکستان به حوثی‌ها: حمله به عربستان، پیمان دفاعی مکه را فعال می‌کند\n\n🔸به‌دنبال حملات اخیر حوثی‌های تحت حمایت حکومت ایران در یمن به عربستان سعودی، پاکستان هشدار داد پیمان دفاعی این کشور با ریاض، ممکن است وارد مرحله اجرایی شود.\n\n🔸پاکستان، عربستان سعودی و ترکیه به‌تازگی روابط راهبردی دیرینه خود را با امضای «ائتلاف دفاعی مکه» رسمی کرده‌اند؛ چارچوب امنیتی سه‌جانبه‌ای که توافقی دفاعی با هدف تقویت بازدارندگی جمعی، افزایش همکاری نظامی و ارتقای ثبات منطقه‌ای توصیف می‌شود.\n\n🔸این هشدار پس از آن مطرح شد که حوثی‌های یمن شهرها و زیرساخت‌های اقتصادی در جنوب عربستان سعودی را هدف قرار دادند و بر اساس اعلام ریاض، دست‌کم ۷۳ غیرنظامی زخمی شدند.\n\n🔸پاکستان حملات حوثی‌ها به ابها، خمیس مشیط، جازان و نجران را محکوم کرد و آنها را «نقض آشکار حاکمیت و تمامیت ارضی عربستان سعودی» خواند.\n\n🔸خواجه آصف، وزیر دفاع پاکستان، در یک برنامه تلویزیونی داخلی در واکنش به این حملات، گفت: «در این مورد نباید هیچ تردیدی وجود داشته باشد. ما به مفاد و شرایط این پیمان متعهد هستیم و ان‌شاءالله در صورت نیاز به تعهدات خود عمل خواهیم کرد.»\n\n🔸آصف توضیح داد که این توافق در صورت وقوع تجاوز، کمک متقابل میان اعضا را پیش‌بینی کرده است.\n\n🔸وزیر دفاع پاکستان در عین حال ابراز امیدواری کرد که اوضاع عادی شود و تنش‌ها کاهش یابد، اما به حوثی‌ها هشدار داد که باید درک کنند تلاش برای کشاندن درگیری به خارج از یمن می‌تواند پیامدهایی برای آنها داشته باشد.\n\n🔸آصف، حوثی‌ها را «بازیگران غیردولتی» توصیف کرد و گفت در سراسر جهان اسلام، از جمله در یمن، نسبت به ایران «همدلی و علاقه وجود دارد و در این مورد تردیدی نیست»، «اما اگر از بازیگران غیردولتی برای سوءاستفاده از یک اختلاف دوجانبه استفاده شود، فکر می‌کنم آنها این کار را به ضرر خودشان انجام خواهند داد».\n\n🔸او گفت این توافق می‌تواند به‌عنوان یک عامل بازدارنده نیز عمل کند و لزوماً به این معنا نیست که پاکستان و متحدانش در برابر هر تجاوزی، به همان شکل پاسخ خواهند داد.\n\n🔸حوثی‌های تحت حمایت جمهوری اسلامی برای اولین‌بار نیست که تأسیسات انرژی عربستان سعودی را هدف قرار می‌دهند.\n\n🔸این گروه در تابستان سال جاری نیز اعلام کرد که دو نفتکش سعودی را هدف قرار داده است؛ اقدامی که آن را بخشی از محاصره دریایی علیه عربستان توصیف کرد.\n\n🔸حوثی‌ها مناطقی را در نزدیکی تنگه باب‌المندب در کنترل خود دارند؛ یکی از مسیرهای مهم کشتیرانی جهان که دریای سرخ را به خلیج عدن متصل می‌کند. این موقعیت به این گروه امکان می‌دهد ترافیک حیاتی دریایی را تهدید کند.\n\n🔸این حملات پس از افزایش تنش‌ها میان حوثی‌ها و ریاض انجام شد. پس از آنکه حوثی‌ها تهدید به انجام حملات بیشتر کردند، ائتلاف به رهبری عربستان که از دولت رسمی یمن حمایت می‌کند، وعده داد با هرگونه تلاش برای هدف قرار دادن عربستان، شهروندان یا دارایی‌های ملی این کشور، با «قاطعیت و قدرتی بی‌سابقه» مقابله کند.\n\n🔸 گزارش کامل را در وب‌سایت رادیوفردا بخوانید.\n\n@RadioFarda",
       "media": [],
       "reactions": [],
-      "views_label": "2.84K",
+      "views_label": "2.93K",
       "posted_at": "2026-09-09T07:12:00+00:00",
       "edited": false,
       "permalink": "https://t.me/radiofarda/161275",
@@ -65,7 +93,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.18K",
+      "views_label": "3.24K",
       "posted_at": "2026-09-09T06:45:56+00:00",
       "edited": false,
       "permalink": "https://t.me/radiofarda/161274",
@@ -93,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.56K",
+      "views_label": "3.63K",
       "posted_at": "2026-09-09T05:59:07+00:00",
       "edited": false,
       "permalink": "https://t.me/radiofarda/161273",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.58K",
+      "views_label": "3.65K",
       "posted_at": "2026-09-09T05:49:56+00:00",
       "edited": false,
       "permalink": "https://t.me/radiofarda/161272",
@@ -137,7 +165,7 @@
       "plain_text": "📻بشنوید: صبح‌نگار با رادیوفردا، ۱۸ شهریور ۱۴۰۵\n\n@RadioFarda",
       "media": [],
       "reactions": [],
-      "views_label": "4.42K",
+      "views_label": "4.46K",
       "posted_at": "2026-09-09T04:45:40+00:00",
       "edited": false,
       "permalink": "https://t.me/radiofarda/161271",
@@ -153,7 +181,7 @@
       "plain_text": "📻بشنوید: سرخط خبرهای رادیوفردا، ۱۸ شهریور ۱۴۰۵\n\n@RadioFarda",
       "media": [],
       "reactions": [],
-      "views_label": "4.63K",
+      "views_label": "4.69K",
       "posted_at": "2026-09-09T04:29:56+00:00",
       "edited": false,
       "permalink": "https://t.me/radiofarda/161270",
@@ -225,7 +253,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.51K",
+      "views_label": "6.54K",
       "posted_at": "2026-09-08T19:05:02+00:00",
       "edited": false,
       "permalink": "https://t.me/radiofarda/161267",
@@ -253,7 +281,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.98K",
+      "views_label": "6.01K",
       "posted_at": "2026-09-08T18:57:02+00:00",
       "edited": false,
       "permalink": "https://t.me/radiofarda/161266",
@@ -301,7 +329,7 @@
       "plain_text": "آمریکا می‌گوید «تمامی شرکت‌های هواپیمایی تحریم‌نشده» ایران را تحریم کرده است\n\n🔸وزارت خزانه‌داری ایالات متحده روز سه‌شنبه ۱۷ شهریور اعلام کرد «تمام خطوط هوایی باقی‌مانده ایران» را که تاکنون مشمول تحریم نشده بودند، تحریم کرده است.\n\n🔸این وزارتخانه در تازه‌ترین اقدام خود، ۳۶ فرد و نهاد را به دلیل حمایت از صنعت هوانوردی ایران هدف تحریم قرار داده است؛ صنعتی که به گفته واشینگتن، حکومت ایران از آن برای جابه‌جایی سلاح، نیرو و محموله‌های غیرقانونی استفاده می‌کند.\n\n🔸این فهرست شامل ۲۷ شرکت هواپیمایی ایرانی و همچنین شرکت‌هایی مستقر در کشورهایی از جمله امارات متحده عربی، ترکیه، مالزی و قزاقستان است.\n\n🔸در فهرست شرکت‌های هواپیمایی ایرانی تحریم‌شده نام‌هایی مانند قشم ایر، کیش ایر، تابان، زاگرس، آسمان و ایران ایرتور دیده می‌شود.\n\n🔸یک مقام وزارت خزانه‌داری آمریکا در گفت‌وگو با خبرنگاران اعلام کرد: «در واقع، ما در حال خارج کردن کل بخش هوانوردی اقتصاد ایران از بازار هستیم.»\n\n🔸اسکات بسنت، وزیر خزانه‌داری آمریکا، نیز در بیانیه‌ای گفت: «در چارچوب عملیات طرد اقتصادی، ما وعده داده بودیم که برای کسانی که راه‌های حیاتی تأمین مالی رژیم ایران را فراهم می‌کنند، پیامدهای شدیدی در نظر خواهیم گرفت. امروز به این وعده عمل کردیم و شرکت‌هایی را که همچنان از ماهان‌ایر حمایت می‌کنند تحریم کردیم.»\n\n🔸او به «هر کسی که با خطوط هوایی باقی‌مانده ایران تجارت می‌کند» هشدار داد: «شما در معرض خطر قطع شدن از نظام مالی جهانی قرار دارید.»\n\n🔸گزارش کامل را در وب‌سایت رادیوفردا بخوانید.\n\n@RadioFarda",
       "media": [],
       "reactions": [],
-      "views_label": "7.95K",
+      "views_label": "7.98K",
       "posted_at": "2026-09-08T15:18:33+00:00",
       "edited": false,
       "permalink": "https://t.me/radiofarda/161263",
@@ -393,7 +421,7 @@
       "plain_text": "گفت‌وگو با بستگان ترانه و رومینا رحیمی: آن‌ها شکنجه شده‌اند؛ اتهامات واهی است\n\n🔸نزدیکان ترانه و رومینا رحیمی در گفت‌وگو با رادیوفردا، اتهامات منتسب به این دو خواهر دوقلو را رد کرده و گفتند که آن‌ها زیر شکنجه مجبور به اعترافاتی شده‌اند که هیچ نسبتی با آن‌ها ندارد. مسعود نورمحمدی،‌ پسرخاله ترانه و رومینا رحیمی، به رادیوفردا گفت که هیچ مدرک و سندی در پرونده علیه ترانه و رومینا وجود ندارد و همه اتهامات واهی است. ترانه و رومینا رحیمی دو تن از ۱۶ متهم پرونده میدان شهدای اصفهان هستند و در حال حاضر در زندان دولت‌آباد اصفهان محبوس‌اند. آن‌ها با اتهام‌هایی از جمله «محاربه، معاونت در محاربه، تخریب اموال عمومی در حکم محاربه، اجتماع و تبانی و تبلیغ علیه نظام»، در ارتباط با اعتراضات دی‌ماه ۱۴۰۴، به اعدام و ۲۵ سال زندان محکوم شده‌اند. مسعود نورمحمدی می‌گوید که وضعیت جسمانی این دو بازداشتی اعتراضات دی، در زندان اصفهان وخیم است.\n\n@RadioFarda",
       "media": [],
       "reactions": [],
-      "views_label": "5.49K",
+      "views_label": "5.52K",
       "posted_at": "2026-09-08T12:49:14+00:00",
       "edited": false,
       "permalink": "https://t.me/radiofarda/161258",
@@ -2121,34 +2149,6 @@
       "posted_at": "2026-09-05T15:32:38+00:00",
       "edited": false,
       "permalink": "https://t.me/radiofarda/161178",
-      "reply": null
-    },
-    {
-      "id": "radiofarda/161177",
-      "author_name": "RadioFarda",
-      "author_photo_url": "https://cdn4.telesco.pe/file/XbpzeY89ujU3xQv5BE_1wgVwoCDd6hu88yBvHEVrGYnMrR6x0dePgaYqiiAjrCXzyAx4Vh2trFx-vv0nOOBkT0htEV_3lALuqJNATqj1aQtik4gE-OxtNBPT4EWp8mqP4EK0Slo7rUSzFbJX4JD66mJW1vMWcd-w-DaInNyDLu__8nQDPCgLY0GVGYVDz4SELWkZY1af9LkdPAh9cFmRrjqrDMu90DWdU-9zsUfuG1fxBO7DjX0-SqCGTc3g8EfWc-GYcNjLdNaipgxTQdbEiE46fh-evyOhamc6IJ7k1FxNr97VTJRToCwTMvj7rhcNph4RBI9OP_tNyl5FEKDpHQ.jpg",
-      "author_photo_path": "channels/radiofarda/media/0e702e342a0755eb5e3151a2.jpg",
-      "author_photo_sha256": "64a87e11935de46ba38795762d4ad6a44f86bb30956e5a113f67aa844db27246",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>مجمع عمومی سازمان ملل متحد روز جمعه ۱۳ شهریور قطعنامه‌ای را تصویب کرد که خواستار گسترش استفاده از نقشه‌هایی است که مساحت کشورها و قاره‌ها را متناسب با اندازهٔ واقعی آن‌ها نشان می‌دهند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>این قطعنامه با حمایت ۱۶۴ کشور تصویب شد. ایالات متحده تنها کشور مخالف بود و شش کشور نیز رأی ممتنع دادند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>نقشهٔ تازه بر پایهٔ تصویرسازی موسوم به «زمین هم‌اندازه» تهیه شده و قرار است جایگزین تصویرسازی «مرکاتور» شود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>قطعنامه الزام‌آور نیست و استفاده از تصویرسازی مشهور «مرکاتور» را ممنوع نمی‌کند، اما دولت‌ها، نظام‌های آموزشی، سازمان‌های بین‌المللی و شرکت‌های فناوری را به استفادهٔ بیشتر از نقشه‌های «هم‌مساحت» تشویق می‌کند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>گزارش کامل را در <a href=\"https://smarturl.click/y8plLJ\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">و‌ب‌سایت رادیوفردا</a> بخوانید.<br><br><a href=\"https://t.me/RadioFarda\" target=\"_blank\">@RadioFarda</a>",
-      "plain_text": "🔸مجمع عمومی سازمان ملل متحد روز جمعه ۱۳ شهریور قطعنامه‌ای را تصویب کرد که خواستار گسترش استفاده از نقشه‌هایی است که مساحت کشورها و قاره‌ها را متناسب با اندازهٔ واقعی آن‌ها نشان می‌دهند.\n\n🔸این قطعنامه با حمایت ۱۶۴ کشور تصویب شد. ایالات متحده تنها کشور مخالف بود و شش کشور نیز رأی ممتنع دادند.\n\n🔸نقشهٔ تازه بر پایهٔ تصویرسازی موسوم به «زمین هم‌اندازه» تهیه شده و قرار است جایگزین تصویرسازی «مرکاتور» شود.\n\n🔸قطعنامه الزام‌آور نیست و استفاده از تصویرسازی مشهور «مرکاتور» را ممنوع نمی‌کند، اما دولت‌ها، نظام‌های آموزشی، سازمان‌های بین‌المللی و شرکت‌های فناوری را به استفادهٔ بیشتر از نقشه‌های «هم‌مساحت» تشویق می‌کند.\n\n🔸گزارش کامل را در و‌ب‌سایت رادیوفردا بخوانید.\n\n@RadioFarda",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/radiofarda/161177",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/BWAx2qff9cC1LNOrMfts2h3vMVx7ugsPwbN1P0bArsCN4rEH7nLctP6-nB9biMxfmbByeCaOm9RneQppUFxXAU1lA3Zwf0m-Btg6zlHxHkEX_P1jgFXG-3H_TEa2n1lRpcLW-9z117e4B21v93YPsG2z_HX9hr0ia-KBLcD7wZyAEXuZqceZyU_wZYttiMjSvA7NW8xKZfZV-S_2CFiYdx1zX8WGhpwZ34BzqagpaoT7A2VBM7sJXGQQAFRi5vZtXYNb7VPdiApFowMDbPITXeQeH55pJmsUig30sFNvyoDraiiiU7BGp3rCdEeNL7ANv_q5axZXtZ-x19Aizll8Bw",
-          "thumbnail_path": "channels/radiofarda/media/78e55724dfafde6378a0a176.jpg",
-          "thumbnail_sha256": "bb947aea218e404eb01a655348311acd1cb695503a40e8228f2045edd9835e6c",
-          "duration_label": "2:19",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "6.27K",
-      "posted_at": "2026-09-05T15:27:57+00:00",
-      "edited": false,
-      "permalink": "https://t.me/radiofarda/161177",
       "reply": null
     }
   ]
