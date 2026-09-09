@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T12:01:38.608Z",
+  "fetched_at": "2026-09-09T12:06:39.244Z",
   "channel": {
     "username": "whitedns",
     "title": "White DNS",
@@ -35,7 +35,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "308"
+          "count": "311"
         },
         {
           "emoji": "❤",
@@ -70,7 +70,7 @@
           "count": "1"
         }
       ],
-      "views_label": "6.19K",
+      "views_label": "6.24K",
       "posted_at": "2026-09-09T08:20:51+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1740",

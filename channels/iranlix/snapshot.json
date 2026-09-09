@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T12:01:32.777Z",
+  "fetched_at": "2026-09-09T12:06:34.300Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12778",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/u689_rYO5BvRoLGHUqeS748ZHihd5W8tmUKeKKLLRiCouTN2NBT332edoyj8v5k5o8rEYQ8nmcM7OaCQjQMgIVATAaycdA6ywFgN11S0cyo7c1sf-_dJslYen0uOj7OrQw465QP6ysxLlEgMPuLplxph7uoL2g3_vZ_PSHq_C_QXhwiyiKK0nhvTkvUA52QzghrG4N0CcdROanb-YIIsuM4XnLZoUENqcREbi8lr_0qLaWnTcs2vXJ2wKbXwKZXafH1NX3IXlutBl-tuBoxdGvKU-iLTBqCQSJ60KxXrOwlA7R4FjhdZXrOXbRkAURl9NQ775b6oWxhdgfydK_E5Xg.jpg",
+      "author_photo_path": "channels/iranlix/media/11a3f1a47603e8b665d47093.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>سی‌ان‌ان به نقل از منابع آگاه:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i>«تلاش‌های آمریکا برای تدوین برنامه‌هایی برای حملات قاطع علیه تأسیسات هسته‌ای زیرزمینی ج.ا ادامه دارد.این تأسیسات زیرزمینی احتمالاً به عنوان پناهگاهی امن برای برنامه هسته‌ای ج.ا طراحی شده بود</b>.»<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "🔻سی‌ان‌ان به نقل از منابع آگاه:\n\n♦️«تلاش‌های آمریکا برای تدوین برنامه‌هایی برای حملات قاطع علیه تأسیسات هسته‌ای زیرزمینی ج.ا ادامه دارد.این تأسیسات زیرزمینی احتمالاً به عنوان پناهگاهی امن برای برنامه هسته‌ای ج.ا طراحی شده بود.»\n\n@iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/12778",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/BSm3-tGcmUMSVkAUHpQzWiUKBkhy7fHhWj4DpFFp8N_a8c41VXoNiRWALXc6aZ83rrRpQoMyT1jaWcFO22acF0E-4uWfuIY0ZjCft7UZRzo4LJJQrk7zlaG_6wpTq3RdPtS0oIZg6BwNn3jzfo9LoWbJ-ATo5O5zZ3j4Iu5J3k4t_An3Rrdfhc3Sr5-GgLcFE9mxURaBKXsMG2-jMcHVWko7OElof1l-YU_CZ_PnzdszvROF6RLufzRvBM48_Zt-_IcJMWvUVzwKTQ8QChNJT1M_V4jPzM2pBY8Zyu-J4zGbOxqhGEeojbi_f5sUdiU1sR8WVU6-7d1am7rkgebenQ.jpg",
+          "thumbnail_path": "channels/iranlix/media/483c500604b4ce29d464df1b.jpg",
+          "thumbnail_sha256": "c3348f0cd923e3ca0ac5aadb38210a6e4d92b1db63ae524980142e8864047170",
+          "duration_label": null,
+          "aspect_ratio": 1.3333333333333333
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-09T12:05:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12778",
+      "reply": null
+    },
     {
       "id": "iranlix/12777",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "149",
+      "views_label": "189",
       "posted_at": "2026-09-09T11:46:24+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12777",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "383",
+      "views_label": "410",
       "posted_at": "2026-09-09T11:09:26+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12776",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "596",
+      "views_label": "614",
       "posted_at": "2026-09-09T10:32:13+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12775",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "764",
+      "views_label": "777",
       "posted_at": "2026-09-09T09:39:37+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12774",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "823",
+      "views_label": "833",
       "posted_at": "2026-09-09T09:06:37+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12773",
@@ -184,7 +212,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "812",
+      "views_label": "822",
       "posted_at": "2026-09-09T08:48:44+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12771",
@@ -212,7 +240,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "806",
+      "views_label": "819",
       "posted_at": "2026-09-09T08:31:16+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12770",
@@ -240,7 +268,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "779",
+      "views_label": "785",
       "posted_at": "2026-09-09T08:18:56+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12769",
@@ -268,7 +296,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "791",
+      "views_label": "798",
       "posted_at": "2026-09-09T08:13:54+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12768",
@@ -296,7 +324,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "875",
+      "views_label": "881",
       "posted_at": "2026-09-09T07:21:17+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12767",
@@ -324,7 +352,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "946",
+      "views_label": "954",
       "posted_at": "2026-09-09T06:45:13+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12766",
@@ -352,7 +380,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "937",
+      "views_label": "942",
       "posted_at": "2026-09-09T06:30:57+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12765",
@@ -380,7 +408,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "991",
+      "views_label": "995",
       "posted_at": "2026-09-09T06:14:24+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12764",
@@ -408,7 +436,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "962",
+      "views_label": "965",
       "posted_at": "2026-09-09T06:02:49+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12763",
@@ -3014,34 +3042,6 @@
       "posted_at": "2026-09-07T07:42:48+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12660",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12659",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fMVnOc1uSucjuboT6V0k7ELXy0-AF7uXhfQKrT0ABzO4YzNvYVYnhQDl9twI5SD7s_WY23CPVzE1kCYrgwBE-c0afmMRE4w0x1v9fJg2JPujS6glrH0OikU9oZB7LN90gFgqsYvcd6hcSfUWJGw9K7p7qJGl0c1YSpXmSrRkUabxYJw4-0ABlI1K019Rc4i4hddSvcxPaBcfBxscaRfeZ2IAghENZ4crQZSKfSCyu-vReE4p-qu7FL3BVKVpjlewu9IH_c86Ie703hT2oR8BPw-_W35Ebf76o_in2_h7S0lirkU8mZyQ9oCUpBRTYO2xsEYmfY7qyRK21qYFBO7xfA.jpg",
-      "author_photo_path": "channels/iranlix/media/d6f23b233b51f82bbdb3cdba.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>هم‌زمان با افزایش قیمت بنزین در ایران؛ نتانیاهو از کاهش قیمت سوخت در اسرائیل خبر داد<br></b><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>در حالی که قیمت بنزین در ایران به ۱۰ هزار تومان در لیتر افزایش یافته، قیمت بنزین در اسرائیل از امروز ۰٫۵ شِکِل کاهش یافت و به ۷٫۷۵ شِکِل در هر لیتر رسید.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>نتانیاهو اعلام کرد این کاهش قیمت با هدف کاهش فشار هزینه‌های سوخت بر شهروندان اسرائیلی انجام شده است.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "♦️هم‌زمان با افزایش قیمت بنزین در ایران؛ نتانیاهو از کاهش قیمت سوخت در اسرائیل خبر داد\n\n🔹در حالی که قیمت بنزین در ایران به ۱۰ هزار تومان در لیتر افزایش یافته، قیمت بنزین در اسرائیل از امروز ۰٫۵ شِکِل کاهش یافت و به ۷٫۷۵ شِکِل در هر لیتر رسید.\n\n🔹نتانیاهو اعلام کرد این کاهش قیمت با هدف کاهش فشار هزینه‌های سوخت بر شهروندان اسرائیلی انجام شده است.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/12659",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/InWQiaMvdYz2JvnvZEgpbgYDobxVABWCrKucfeo8ozjMpxtiT_j_ixWhwA24sXzebHqCFIOpetL6VyPPzWtW7ktawr-UI5_MJz3H9ealgXgSiYPCllj6YwHqphLJyZYAy4hSAIpNlyahwkzEA5zZWXTTgYbVDK2f6XFhBs62yGSEtpAooptGrN170baUwQRs6qkEMIoH43sZL03iN6WIvj_Ie_USP_oFzsOWy5LtludOz4v0S14TtMsx8_qACOXov7WJ8HTeigUkT7FiFMnnlsgmv6DWh5OOPVz-sCwzHCAnWGQaMaOjfzyQKxPb1c1WH-ziqhXymPdIe39QjKDYAg.jpg",
-          "thumbnail_path": "channels/iranlix/media/46e9db328a49335298f141c1.jpg",
-          "thumbnail_sha256": "d7ca105b8b6b2591ff9e228383a23d7dffcc30f0920a083b5c4f7a7f24d9b8e9",
-          "duration_label": null,
-          "aspect_ratio": 0.8724999999999947
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.07K",
-      "posted_at": "2026-09-07T06:45:15+00:00",
-      "edited": true,
-      "permalink": "https://t.me/iranlix/12659",
       "reply": null
     }
   ]

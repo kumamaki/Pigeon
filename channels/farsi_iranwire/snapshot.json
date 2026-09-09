@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T12:01:29.985Z",
+  "fetched_at": "2026-09-09T12:06:31.377Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93519",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "قیمت ارزهای خارجی در بازار آزاد ایران روز چهارشنبه ۱۸ شهریور ۱۴۰۵ رکورد تازه‌ای ثبت کرد و نرخ دلار آمریکا از ۲۳۲ هزار تومان گذشت. برخی وب‌سایت‌های اعلام قیمت ارز نرخ دلار را در معاملات ظهر چهارشنبه تا ۲۳۵ هزار و ۵۰۰ تومان نیز گزارش کردند.<br>هم‌زمان قیمت یورو از ۲۷۱ هزار تومان و پوند بریتانیا از ۳۱۵ هزار تومان فراتر رفت. این افزایش‌ها در حالی ادامه دارد که ریال طی دو هفته گذشته بیش از ۱۵ درصد ارزش خود را در برابر دلار از دست داده است.<br><br><br>بخوانید : <a href=\"https://iranwire.com/fa/news-1/157377\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157377</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "قیمت ارزهای خارجی در بازار آزاد ایران روز چهارشنبه ۱۸ شهریور ۱۴۰۵ رکورد تازه‌ای ثبت کرد و نرخ دلار آمریکا از ۲۳۲ هزار تومان گذشت. برخی وب‌سایت‌های اعلام قیمت ارز نرخ دلار را در معاملات ظهر چهارشنبه تا ۲۳۵ هزار و ۵۰۰ تومان نیز گزارش کردند.\nهم‌زمان قیمت یورو از ۲۷۱ هزار تومان و پوند بریتانیا از ۳۱۵ هزار تومان فراتر رفت. این افزایش‌ها در حالی ادامه دارد که ریال طی دو هفته گذشته بیش از ۱۵ درصد ارزش خود را در برابر دلار از دست داده است.\n\n\nبخوانید : https://iranwire.com/fa/news-1/157377\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93519",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/WDQgBZk4hYofuawCRK7hgIf8QOmSad6hhSy223lRp7R2ORFanhwig1xjsKrQW7-y7Bgsv0nqCe0FzIWSLTWK9WuDwaGCD4u_dNclT4yuPiAUvLkDbh3wLntUCcqFUl0zf0g9GsS5vny9t4R3CBUaH5mr7H9xAsRFHsuK8CQGabxNl-sfu59hzE8s4VXXfNWgqcZ4jUT97h5eYLWyHZ8D_UDsqeFRLwYaTypWnDfVsbDPhf-zcqJu6KNCNpaBz4DcQYggDH0A0pegRB3zS7IhFqYUbh-mwjGt_k2_WIjroJ-zqcGRrjha0YxFiPrJyo1ZU0dyZBEYCi8nzWVEr-sIUg.jpg",
+          "thumbnail_path": null,
+          "thumbnail_sha256": null,
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "82",
+      "posted_at": "2026-09-09T12:01:30+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93519",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93518",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "296",
+      "views_label": "336",
       "posted_at": "2026-09-09T11:38:33+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93518",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "405",
+      "views_label": "436",
       "posted_at": "2026-09-09T11:25:22+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93517",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "551",
+      "views_label": "573",
       "posted_at": "2026-09-09T10:58:30+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93516",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "575",
+      "views_label": "588",
       "posted_at": "2026-09-09T10:47:03+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93515",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "651",
+      "views_label": "664",
       "posted_at": "2026-09-09T10:37:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93514",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "612",
+      "views_label": "623",
       "posted_at": "2026-09-09T10:36:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93513",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "581",
+      "views_label": "594",
       "posted_at": "2026-09-09T10:34:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93512",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "783",
+      "views_label": "791",
       "posted_at": "2026-09-09T09:48:46+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93511",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "804",
+      "views_label": "812",
       "posted_at": "2026-09-09T09:35:46+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93510",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "853",
+      "views_label": "857",
       "posted_at": "2026-09-09T09:12:40+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93509",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "859",
+      "views_label": "865",
       "posted_at": "2026-09-09T09:05:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93508",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "915",
+      "views_label": "923",
       "posted_at": "2026-09-09T08:47:52+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93507",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "949",
+      "views_label": "954",
       "posted_at": "2026-09-09T08:35:51+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93506",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "996",
+      "views_label": "1K",
       "posted_at": "2026-09-09T07:50:24+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93504",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.12K",
+      "views_label": "1.13K",
       "posted_at": "2026-09-09T07:25:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93503",
@@ -2781,34 +2809,6 @@
       "posted_at": "2026-09-06T12:08:01+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93417",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93416",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/lJZDCX2ziMqsER65YsaYf5tpmgb_HtPsl7voC3OR6K9Wf6QkwmxB74Q7Tfh33OeHTShzhq3RYVFvF7gJlCuD5MPtT5GCkSFV72JcWVYw6UXUlOnScT35n0qF2TQVgrV-UE_oXCa7-eLrwGtzQQjI16KE183viqSiMx0nHpg18r2jr2pUXmJLg6wN6BKTrw7DjuixE6h_syawiH2DNuginkSDzV1gsBgVxbGryUM5V8iMYM7v8uJED2x1YPhqjd1EmgwuHciDwdFztLuPYhS88y-LCriaEWPNBtvLeUAbSpzdV0k585WUpwIP2g9asWrFwObwB46887uPMq_G9VU6dg.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/26bbe7d8d44beaa5be51d11c.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "یک کارگر پروژه قطار شهری اهواز پس از پنج ماه تاخیر در پرداخت حقوق و اخراج ناگهانی از کار مقابل ساختمان مرکزی شهرداری اهواز خود را به آتش کشید.<br>بیشتر: <a href=\"https://iranwire.com/fa/news-1/157231\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157231</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "یک کارگر پروژه قطار شهری اهواز پس از پنج ماه تاخیر در پرداخت حقوق و اخراج ناگهانی از کار مقابل ساختمان مرکزی شهرداری اهواز خود را به آتش کشید.\nبیشتر: https://iranwire.com/fa/news-1/157231\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93416",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qtwUAyo_QPOwQc7QmA-IUfo2lrjjBPteFiZdWWS0Ijltbx_m6go-oDF48T_7qhcUWT_oMYg15ZVuZXNRVn_xAnp92HtUxVBzUHnjClrf6XDEoV-oQod8kCihghp_mYUpqX-WarpQA3EVBEklWTVhDLiNPltjukB-xB_Fu3qQ7UFBLGftdUICNl5OEDNaHDKM-i_nrMGpZIP7aoFC6Ywu4aCQ8T33OYLOFkwfaEJAzZEMo1fOhYkz8aeKaC_Rf02Mq0Hl5bHqMCVFn6JEENMDdO2OuWa5jqBWjoKyeuS3G7bG0mwAETKsLX_UZQpLGMDwR2higFdkJp0eJH5bDZ616Q.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/e65fec63d06cf16cbf19f2f2.jpg",
-          "thumbnail_sha256": "8e4713c1c3d32bb6435759db366c7f25e38f5b860df3de7723dc0092cdedaa73",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.99K",
-      "posted_at": "2026-09-06T11:57:10+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93416",
       "reply": null
     }
   ]
