@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T19:12:29.749Z",
+  "fetched_at": "2026-09-09T19:16:36.234Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/230030",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "رویداد بزرگ اپل؛ آغاز عصر جدید با مدیریت جان ترنوس و رونمایی از نسل تازه محصولات",
+      "plain_text": "رویداد بزرگ اپل؛ آغاز عصر جدید با مدیریت جان ترنوس و رونمایی از نسل تازه محصولات",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/230030",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/jCzg20a6fVs2EPh1bc6h_ekajZRc36rKhsM5_gvEcLmbCUTr9cg1Hw8NQo6VC2X0CYOGWN7JLCSn9iEYuHd499a-P1kviCAjoOWBAuI5nuw5lLW0_42UGRuhpptacEGF8DmpdL0oBzq1V_M5hAdIre8zooMcfMDRWIVBOjlv1QJNcD4pwiiYxR57DgpUbMlerc-VT3eiIrBkvXrU20zUEGVgtM4m9iNPS1xSjc1RmFXsEfd5g0GR2-MWx3x-IZhLCElM0DKkHJtOSTAeCMpJFE1VQkRrF3IgdCX6bGcbuauEc3ZM7wTnmBfWr78QK3sjNb5qOuLUkEdvKzJHQBVDag",
+          "thumbnail_path": "channels/farsivoa/media/7fc41ea1c9c704965771d935.jpg",
+          "thumbnail_sha256": "48399c7fd5084cef64ccea4679e8521897d44faa9126b33ad98a805b7619049b",
+          "duration_label": "3:54",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "13",
+      "posted_at": "2026-09-09T19:14:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/230030",
+      "reply": null
+    },
+    {
       "id": "farsivoa/230029",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "‼️با پوزش فراوان از خوانندگان صدای آمریکا، ویدئویی را که به نقل از شبکه‌های اجتماعی با عنوان لحظه فوران یک آتشفشان در اندونزی منتشر کرده‌ بودیم، ساخته هوش مصنوعی است. قطعا از تکرار چنین اشتباهاتی جلوگیری خواهیم کرد.",
       "media": [],
       "reactions": [],
-      "views_label": "444",
+      "views_label": "763",
       "posted_at": "2026-09-09T19:07:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230029",
@@ -46,7 +74,7 @@
       "plain_text": "🔺پرزیدنت ترامپ: تنگه هرمز تحت کنترل آمریکا است؛ اشاره به شرایط بحرانی حکومت ایران\n\n◾️رئیس جمهوری آمریکا با اشاره به وضعیت بحرانی اقتصاد ایران و شرایط بسیار وخیم جمهوری اسلامی، تاکید کرد که آمریکا کنترل تنگه هرمز را در دست دارد و قیمت نفت پس از انتخابات میان‌دوره‌ای آمریکا به سرعت کاهش خواهد یافت.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/donald-trump-strait-of-hormuz-us-control-critical-situation-of-the-iranian-government-drop-in-oil-prices/8196134.html",
       "media": [],
       "reactions": [],
-      "views_label": "719",
+      "views_label": "1.04K",
       "posted_at": "2026-09-09T19:03:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230028",
@@ -74,7 +102,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "816",
+      "views_label": "830",
       "posted_at": "2026-09-09T19:00:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230027",
@@ -102,7 +130,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.57K",
+      "views_label": "1.58K",
       "posted_at": "2026-09-09T18:43:28+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230026",
@@ -174,7 +202,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.59K",
+      "views_label": "2.6K",
       "posted_at": "2026-09-09T18:08:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230023",
@@ -202,7 +230,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.74K",
+      "views_label": "2.75K",
       "posted_at": "2026-09-09T17:59:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230022",
@@ -380,7 +408,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.69K",
+      "views_label": "2.7K",
       "posted_at": "2026-09-09T17:33:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230011",
@@ -2556,34 +2584,6 @@
       "posted_at": "2026-09-08T22:15:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229922",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229921",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "قانون اساسی جمهوری اسلامی درباره همه‌پرسی جنگ و صلح چه می‌گوید؟ گفت‌وگو با پگاه بنی‌هاشمی<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "قانون اساسی جمهوری اسلامی درباره همه‌پرسی جنگ و صلح چه می‌گوید؟ گفت‌وگو با پگاه بنی‌هاشمی\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229921",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/JtMhLRuqT1IGjOm2HeazcBtolbvC2XyG9xFnDHyEQykmKufa5xeeVsh38CdHi9Y7Uy1nwPGB9bePHT4peqNkI912rn-mDeGWCpqoSvM7Bss1WRpli4DUYMRkHSPMyEE-qwf67kPeCbntNzZEHXxncRLp6Gks1lPo6omnLhl3bHL-bhGgKQ6fc2Rh1Vla5wNKiPueKdS3P5VE9Cti9JZiWz_ywYhgrsuLQ78ghUh3Fk4hoZaptJGWw_3IjADI9YOIy3R-0UM6gVzJUSUfLw9KrY-xZjtkpZd6apavCnFpjJlu3-CSzi16RyCOqFfLPBv4ums0FOWQSTs41gPZTWxH1Q",
-          "thumbnail_path": "channels/farsivoa/media/8177d1dcb20db10c95e5352b.jpg",
-          "thumbnail_sha256": "f109a7edca645b1ce0eb8813b2a16e99e4102250c564ebe7b0ee771ce6e362ea",
-          "duration_label": "2:07",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.81K",
-      "posted_at": "2026-09-08T22:02:21+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229921",
       "reply": null
     }
   ]
