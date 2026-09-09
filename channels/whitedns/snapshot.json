@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T17:26:45.102Z",
+  "fetched_at": "2026-09-09T17:31:50.001Z",
   "channel": {
     "username": "whitedns",
     "title": "White DNS",
@@ -23,7 +23,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "80"
+          "count": "81"
         },
         {
           "emoji": "❤‍🔥",
@@ -46,11 +46,15 @@
           "count": "2"
         },
         {
+          "emoji": "👍",
+          "count": "1"
+        },
+        {
           "emoji": "👎",
           "count": "1"
         }
       ],
-      "views_label": "3.72K",
+      "views_label": "3.82K",
       "posted_at": "2026-09-09T16:01:47+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1743",
@@ -99,7 +103,7 @@
           "count": "1"
         }
       ],
-      "views_label": "5.9K",
+      "views_label": "5.97K",
       "posted_at": "2026-09-09T14:27:54+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1741",
@@ -129,7 +133,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "363"
+          "count": "364"
         },
         {
           "emoji": "❤",
@@ -172,7 +176,7 @@
           "count": "1"
         }
       ],
-      "views_label": "9.41K",
+      "views_label": "9.44K",
       "posted_at": "2026-09-09T08:20:51+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1740",
@@ -511,7 +515,7 @@
         },
         {
           "emoji": "❤",
-          "count": "320"
+          "count": "321"
         },
         {
           "emoji": "👍",
@@ -692,7 +696,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15K",
+      "views_label": "15.1K",
       "posted_at": "2026-09-06T11:16:57+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1728",
@@ -844,7 +848,7 @@
           "count": "2"
         }
       ],
-      "views_label": "13.3K",
+      "views_label": "13.4K",
       "posted_at": "2026-09-06T10:11:32+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1725",
