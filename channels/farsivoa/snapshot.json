@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T21:42:14.584Z",
+  "fetched_at": "2026-09-09T21:47:03.780Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/230043",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/TDaXzD1SqP9xTStg_G7suA7hMViJjPqVwnwwTLB_DUGQC4NC7-w5Wkwmk8gDPuAQByx0poZj8S94eoRffmHeRT9xrcGPzWu7C0ZMDau7-qcaqBWq40PRp5WjKogQsNBDZgrsGt_Ga26l0r3qqQ_yjcUiyBiP3YfLQ0a3HSBOFP7tHYTn8zp6o6L0n-5FRDcf0yBsa-sXpdSaMW5dbmZ7VUJUET5rQgZDA0jF59JPxCtDBv293jMYV7TZtxqTClTcuEc9cEhhDdSAYJALkWzllcM_PdRn8aHMK28mulEjt9zDtHt6hUIn5HC55jszDZm5-oSBSiobQTMHWfcmcwf0rw.jpg",
+      "author_photo_path": "channels/farsivoa/media/64e7ce62c0394704c02414ea.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "آمریکا چگونه ادعاهای حملات جمهوری اسلامی به مواضع و نفتکش‌ها را بررسی می‌کند؟ گفت‌وگو با نیما خویی<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "آمریکا چگونه ادعاهای حملات جمهوری اسلامی به مواضع و نفتکش‌ها را بررسی می‌کند؟ گفت‌وگو با نیما خویی\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/230043",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/WBwiLFWiiEbQxUMk1kvVH9ad1oo-JFuUg1rtdozGnmWabPEvIDQ8ruqb5a_Win5DGYyn94FfCN0rNZ3xKShs9iskL4af7KnpnWwTlDXARpm3xGSIwHZ9qR_uGDhoG5yXIji2y2GumLRo7RT1bHWHF0I5zC08DETCMFQyQrlqCb0GZ0m3ealkKNviLfbdVFT62sqGTA7LWY_HXPl1CVaDbY80o0BnMz92lzC7Ln2kYux3X03zluwyqmIOsgCbWODlNaeH6tZsPCTSXG_BDBiKsmdCr1dk1bxD-EtJTfezy18ZvlWNzyV9n6yaw_fORW7guIC7OurgG8d0KQwCebl7eg",
+          "thumbnail_path": "channels/farsivoa/media/9ed8510fe64f3fe0e3350cce.jpg",
+          "thumbnail_sha256": "78554436b20e6d4cab1a32b6a53a408c78ab3894060f617c18dbaa39b2428004",
+          "duration_label": "2:05",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "287",
+      "posted_at": "2026-09-09T21:43:33+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/230043",
+      "reply": null
+    },
     {
       "id": "farsivoa/230042",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "671",
+      "views_label": "896",
       "posted_at": "2026-09-09T21:31:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230042",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.13K",
+      "views_label": "1.28K",
       "posted_at": "2026-09-09T21:19:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230041",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.76K",
+      "views_label": "1.92K",
       "posted_at": "2026-09-09T21:09:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230040",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.83K",
+      "views_label": "1.95K",
       "posted_at": "2026-09-09T21:03:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230039",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.62K",
+      "views_label": "2.71K",
       "posted_at": "2026-09-09T20:40:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230038",
@@ -161,7 +189,7 @@
       "plain_text": "🔺کشته‌شدن یکی معترضان تحت تعقیب در استان ایلام در جریان درگیری با ماموران؛ وخامت شرایط زندانیان در اوین و ارومیه\n\n◾️کانون حقوق بشر ایران با انتشار گزارش‌هایی نسبت به وضعیت زندانیان زندان‌های اوین و ارومیه ابراز نگرانی کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/ongoing-human-rights-violations-in-iranfrom-the-killing-of-a-protester-in-a-grenade-explosion-to-inhumane-conditions-in-prisons/8196155.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "2.9K",
+      "views_label": "3K",
       "posted_at": "2026-09-09T20:30:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230037",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.74K",
+      "views_label": "2.8K",
       "posted_at": "2026-09-09T20:19:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230036",
@@ -205,7 +233,7 @@
       "plain_text": "🔺یاشار سلطانی از صدور کیفرخواست به «اتهام اختلاس» برای مقامات ارشد فدراسیون فوتبال جمهوری اسلامی خبر داد\n\n◾️یاشار سلطانی، روزنامه‌نگار تحقیقی ساکن ایران، روز چهارشنبه ۱۸ شهریور اعلام کرد برای چند چهره و مقام ارشد فدراسیون فوتبال ایران در پرونده «فساد فوتبال» به اتهام اختلاس کیفرخواست صادر شده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/yashar-soltani-journalist-bribery-iran-football-federation-charge-conviction-indicetment/8196138.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.45K",
+      "views_label": "3.52K",
       "posted_at": "2026-09-09T19:56:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230035",
@@ -221,7 +249,7 @@
       "plain_text": "🔴📢‌ پادکست میدان - چهارشنبه ۱۸ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از\nنسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه\nسبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "2.96K",
+      "views_label": "3.02K",
       "posted_at": "2026-09-09T19:55:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230034",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.87K",
+      "views_label": "2.91K",
       "posted_at": "2026-09-09T19:47:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230033",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.23K",
+      "views_label": "3.26K",
       "posted_at": "2026-09-09T19:31:19+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230032",
@@ -293,7 +321,7 @@
       "plain_text": "🔺وضعیت حقوق بشر ایران در کانون توجه شصت‌وسومین نشست شورای حقوق بشر سازمان ملل\n\n◾️شورای حقوق بشر سازمان ملل متحد در شصت‌وسومین نشست خود وضعیت حقوق بشر در ایران و نقض این حقوق توسط جمهوری اسلامی را مورد بحث و بررسی قرار داد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/un-human-rights-council-concerned-about-iran/8196029.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.21K",
+      "views_label": "3.28K",
       "posted_at": "2026-09-09T19:29:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230031",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.21K",
+      "views_label": "3.24K",
       "posted_at": "2026-09-09T19:14:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230030",
@@ -337,7 +365,7 @@
       "plain_text": "‼️با پوزش فراوان از خوانندگان صدای آمریکا، ویدئویی را که به نقل از شبکه‌های اجتماعی با عنوان لحظه فوران یک آتشفشان در اندونزی منتشر کرده‌ بودیم، ساخته هوش مصنوعی است. قطعا از تکرار چنین اشتباهاتی جلوگیری خواهیم کرد.",
       "media": [],
       "reactions": [],
-      "views_label": "3.63K",
+      "views_label": "3.66K",
       "posted_at": "2026-09-09T19:07:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230029",
@@ -362,7 +390,7 @@
       "plain_text": "🔺پرزیدنت ترامپ: تنگه هرمز تحت کنترل آمریکا است؛ اشاره به شرایط بحرانی حکومت ایران\n\n◾️رئیس جمهوری آمریکا با اشاره به وضعیت بحرانی اقتصاد ایران و شرایط بسیار وخیم جمهوری اسلامی، تاکید کرد که آمریکا کنترل تنگه هرمز را در دست دارد و قیمت نفت پس از انتخابات میان‌دوره‌ای آمریکا به سرعت کاهش خواهد یافت.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/donald-trump-strait-of-hormuz-us-control-critical-situation-of-the-iranian-government-drop-in-oil-prices/8196134.html",
       "media": [],
       "reactions": [],
-      "views_label": "3.77K",
+      "views_label": "3.81K",
       "posted_at": "2026-09-09T19:03:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230028",
@@ -390,7 +418,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.41K",
+      "views_label": "3.44K",
       "posted_at": "2026-09-09T19:00:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230027",
@@ -418,7 +446,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.89K",
+      "views_label": "3.93K",
       "posted_at": "2026-09-09T18:43:28+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230026",
@@ -446,7 +474,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.24K",
+      "views_label": "4.28K",
       "posted_at": "2026-09-09T18:28:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230025",
@@ -2556,34 +2584,6 @@
       "posted_at": "2026-09-09T01:06:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229935",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229934",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "چراغ سبز اتحادیه اروپا به خرید موشک‌های پاتریوت آمریکایی برای اوکراین<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "چراغ سبز اتحادیه اروپا به خرید موشک‌های پاتریوت آمریکایی برای اوکراین\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229934",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/TLDMo-JhJYF4TXF2gcUY0k4bqMNoWDoPMQ00QLl8bY4rHmGPBLEMbGJIw5dk301e272lzykWDWlyFhgPFmlgZ8b97BUS87HP7ZDlYXzcZ3ga0AKZJ76hCgsmdYBVjxTl6Uuh641QDGsqp5hoy1KUPIcHszZrvWL0QBHdXEacrvTk3i5o8OHMIPfEKS2Na9m7UyjgwRKu1s7Ed2uSF0QCiE55Rl0qsDEt8T4DoqwNnej99HtTbFaTyvT42HO_zdKMllCQecSZO2LI7xp5fP_my1HZO15TEukgquPRqK2JjwVUoa7pntueDiOS1_ec_ZdGkCPJfJhuJB9ihKxQSN6X2Q",
-          "thumbnail_path": "channels/farsivoa/media/0becfe143c6c724f4a4766a4.jpg",
-          "thumbnail_sha256": "cc82679bdff87f51139188c508477b9292882cca299b64530084ab37e1535bf9",
-          "duration_label": "3:35",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "4.36K",
-      "posted_at": "2026-09-09T00:01:41+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229934",
       "reply": null
     }
   ]

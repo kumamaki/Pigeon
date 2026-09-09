@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T21:42:16.456Z",
+  "fetched_at": "2026-09-09T21:47:06.655Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12813",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/u689_rYO5BvRoLGHUqeS748ZHihd5W8tmUKeKKLLRiCouTN2NBT332edoyj8v5k5o8rEYQ8nmcM7OaCQjQMgIVATAaycdA6ywFgN11S0cyo7c1sf-_dJslYen0uOj7OrQw465QP6ysxLlEgMPuLplxph7uoL2g3_vZ_PSHq_C_QXhwiyiKK0nhvTkvUA52QzghrG4N0CcdROanb-YIIsuM4XnLZoUENqcREbi8lr_0qLaWnTcs2vXJ2wKbXwKZXafH1NX3IXlutBl-tuBoxdGvKU-iLTBqCQSJ60KxXrOwlA7R4FjhdZXrOXbRkAURl9NQ775b6oWxhdgfydK_E5Xg.jpg",
+      "author_photo_path": "channels/iranlix/media/11a3f1a47603e8b665d47093.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>خبرگزاری حکومتی فارس: استانداری هرمزگان اعلام کرد طبق گزارش‌ها، صداهای شنیده شده در میناب، سیریک و قشم از سمت دریا بوده است.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "♦️خبرگزاری حکومتی فارس: استانداری هرمزگان اعلام کرد طبق گزارش‌ها، صداهای شنیده شده در میناب، سیریک و قشم از سمت دریا بوده است.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/12813",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/hGzMs9Ok6D6O-WacIyzwNXRrIMQOV432xADc9L3rKNE4f7NZ6WKzVGKe3RG7HVVYTJPpapavGMNBVPadkAkQe0Ee59U3BFGz-mVoeqJ6qkxBhOJF_9uq4x8mGr85UGuT8lxxsmD0yzK9zQiFf-r02tPe5Ho-TmUdSBt8nN5Z2CWnyeTZYdE0DLtsb4xQX2CAACTgCoaHq3V89t07_XJs1vbrQGhTfahVzP7OevoGTVgYD4fNskXEGnbOqkOdKTDG7kDWJNm_bZXGs8W_tyTfPsATiVdsGY93o6QceQgbVyE9E0o-aeUlGRczsBDSfHtTCd0JHLkMsxZbZkJkgrIOCA.jpg",
+          "thumbnail_path": "channels/iranlix/media/5f2068fd599a195e3aa8b465.jpg",
+          "thumbnail_sha256": "8e0f7750ec85bd5402cca43f52815870de61f8e32aaa9b46e71f78957d61ee48",
+          "duration_label": null,
+          "aspect_ratio": 2
+        }
+      ],
+      "reactions": [],
+      "views_label": "41",
+      "posted_at": "2026-09-09T21:45:47+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12813",
+      "reply": null
+    },
     {
       "id": "iranlix/12812",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "395",
+      "views_label": "432",
       "posted_at": "2026-09-09T21:06:11+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12812",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "579",
+      "views_label": "610",
       "posted_at": "2026-09-09T20:31:30+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12811",
@@ -111,7 +139,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "575",
+      "views_label": "599",
       "posted_at": "2026-09-09T20:29:20+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12808",
@@ -139,7 +167,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "777",
+      "views_label": "794",
       "posted_at": "2026-09-09T19:59:17+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12807",
@@ -167,7 +195,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "857",
+      "views_label": "872",
       "posted_at": "2026-09-09T19:33:49+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12806",
@@ -206,7 +234,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "831",
+      "views_label": "846",
       "posted_at": "2026-09-09T19:33:08+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12804",
@@ -234,7 +262,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "919",
+      "views_label": "927",
       "posted_at": "2026-09-09T19:00:27+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12803",
@@ -262,7 +290,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "920",
+      "views_label": "929",
       "posted_at": "2026-09-09T18:59:25+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12802",
@@ -290,7 +318,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "997",
+      "views_label": "1K",
       "posted_at": "2026-09-09T18:41:04+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12801",
@@ -318,7 +346,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "927",
+      "views_label": "933",
       "posted_at": "2026-09-09T18:40:26+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12800",
@@ -374,7 +402,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.05K",
+      "views_label": "1.06K",
       "posted_at": "2026-09-09T17:05:32+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12798",
@@ -411,7 +439,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "985",
+      "views_label": "989",
       "posted_at": "2026-09-09T16:54:56+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12797",
@@ -467,7 +495,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "990",
+      "views_label": "993",
       "posted_at": "2026-09-09T16:34:41+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12795",
@@ -495,7 +523,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.04K",
+      "views_label": "1.05K",
       "posted_at": "2026-09-09T15:54:08+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12794",
@@ -3025,34 +3053,6 @@
       "posted_at": "2026-09-08T05:47:10+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12693",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12694",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/l_9ufMfFpJ25r_afGsqRdLe1TBpEdGtQubrLV3heTp0xaKy_3bOMj2CgWrdIc1UpDv6BDR1CUz7LUOwlbGt6cwYajWQXJCUkSLc4mDg8KVE14zTZ9LwGvkwqm71diFwCbH2nViIRdsbm6NTEHx-FPiGHK2If0glqgKIwFN6E3fpPfXG4L5B_8u0lF9SlI9JysGs-RP3ETL5mlmlmj6cRJFK1sNdtj7tP4DYND499o8XinHXPyv-COryBv7foYUzrzsqsk-AuzXwXdGL2-S-fyV30ffZpU_JFFsxZW8baXEnEFumOwn_VcgVB9V_D4tzEEogyHXtPWDrMkW0xK7JN9Q.jpg",
-      "author_photo_path": "channels/iranlix/media/cea36268eb0d26be31369b06.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>کریس رایت،وزیر انرژی آمریکا:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>«مأموریت حیاتی نیروی دریایی آمریکا فقط اسکورت کشتی‌ها نیست، بلکه جلوگیری از خروج نفت ج.ا و سایر محصولات صادراتی این کشور است. این موضوع برای اعمال فشار اقتصادی بر ج.ا بسیار مهم است، فشاری که یا باعث تغییر رژیم می‌شود یا سیاست‌های آن را تغییر می‌دهد. ما در یک درگیری واقعی هستیم. ج.ا مجهز به سلاح هسته‌ای نه‌تنها برای خاورمیانه، بلکه برای اقتصاد جهان نیز یک تهدید وجودی است.»<br></b><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔻کریس رایت،وزیر انرژی آمریکا:\n\n🔸«مأموریت حیاتی نیروی دریایی آمریکا فقط اسکورت کشتی‌ها نیست، بلکه جلوگیری از خروج نفت ج.ا و سایر محصولات صادراتی این کشور است. این موضوع برای اعمال فشار اقتصادی بر ج.ا بسیار مهم است، فشاری که یا باعث تغییر رژیم می‌شود یا سیاست‌های آن را تغییر می‌دهد. ما در یک درگیری واقعی هستیم. ج.ا مجهز به سلاح هسته‌ای نه‌تنها برای خاورمیانه، بلکه برای اقتصاد جهان نیز یک تهدید وجودی است.»\n\n@iranlix",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/iranlix/12694",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/oSS1Kp3CI_I_i-Kz-VhPc_Us3RpzItusKEcbeK2VWO9r-eqoAFy2F2sPFsLn7tpl12mMrwSf0anqx4N3e5Eq0oyesQe5OPRdYsQ35z00t8vvUbSEDADOR6JRcsByNYtmHmTEhKFPQjZ7XKlPBYzXcTJxhcx3pmXavXUB33OwbYwSprqd-lmhW_3m9gnfJqKhZJWNk70bmzpJE_eKALhEEKDlnV6-5lZHF-uGG6vCc4F81yRaIh66m4gn4-xkbJlWZWnl3pXmLpuq2qMmWwfZzR5nmVM4RZChdDEUT_UJKrySpMDTZt886TIC2bQijys7_j0a8V_XERp5Pwvr8N3GgQ",
-          "thumbnail_path": "channels/iranlix/media/6cc59604601e853063ff580d.jpg",
-          "thumbnail_sha256": "25f42cf8578e1c5579ef2acb1317970cbce04b62849eaf95451ee6ac4ff460e9",
-          "duration_label": "0:49",
-          "aspect_ratio": 1.8750000000000118
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.12K",
-      "posted_at": "2026-09-08T05:47:10+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12694",
       "reply": null
     }
   ]
