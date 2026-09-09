@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T05:36:43.090Z",
+  "fetched_at": "2026-09-09T05:41:43.922Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "IranintlTV/356437",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "علیرضا سلیمی، عضو هیات‌رییسه مجلس، چهارشنبه ۱۸ شهریور در گفت‌وگو با خبرگزاری خانه ملت، اعلام کرد تنها راه مقابله با اسرائیل، «مقاومت، پاسخ کوبنده و سیلی سخت» است.<br><br>عضو هیات‌رییسه مجلس با انتقاد از رویکرد دولت لبنان در برابر اسرائیل گفت: «هیچ متولی حاکمیتی در جهان نیست که در هنگام دفاع از تمامیت ارضی کشورش، از حامیان و مدافعان وطن پشتیبانی نکند، بنابراین این نکته به عنوان لکه سیاه در کارنامه سیاسی این دولت باقی خواهد ماند.» <br><br>سلیمی همچنین افزود: «جمهوری اسلامی همواره حامی قدرتمند مقاومت بوده و آنها را تنها نگذاشته است و این مسیر حمایتی نیز هرگز متوقف نخواهد شد.»<br><a href=\"https://iranintl.com/202609090729\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609090729</a>",
+      "plain_text": "علیرضا سلیمی، عضو هیات‌رییسه مجلس، چهارشنبه ۱۸ شهریور در گفت‌وگو با خبرگزاری خانه ملت، اعلام کرد تنها راه مقابله با اسرائیل، «مقاومت، پاسخ کوبنده و سیلی سخت» است.\n\nعضو هیات‌رییسه مجلس با انتقاد از رویکرد دولت لبنان در برابر اسرائیل گفت: «هیچ متولی حاکمیتی در جهان نیست که در هنگام دفاع از تمامیت ارضی کشورش، از حامیان و مدافعان وطن پشتیبانی نکند، بنابراین این نکته به عنوان لکه سیاه در کارنامه سیاسی این دولت باقی خواهد ماند.»\n\nسلیمی همچنین افزود: «جمهوری اسلامی همواره حامی قدرتمند مقاومت بوده و آنها را تنها نگذاشته است و این مسیر حمایتی نیز هرگز متوقف نخواهد شد.»\nhttps://iranintl.com/202609090729",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356437",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/smm9u6w6VYtdhVsc2nC7CALMAiabgy5nfJXEjxRlqnSRrk5vYjAmi63u09C0m1bC8ZQNZkEP-YRF3b7yo9oix9nqQGmoSSGLqixRe4CPYcZk6OKTt69Ix8idmkbT_ib3n6CAfz1Jk9UmS6dN9T8WeFKAdGi4M5GhiCdfA2AQn6MCF3-48gfnDUZrwNV-8oGbDLwQTqWS8WAl0OnzGmj7VowvP2k-X0LEILk1ZG10nl8uYjwWncU5cnjaSN4YziNIs48NVJpUC5BZpQdPbRMSsdETgp6W1E8UrCoarKKzIajRyNTAx4IEXK0n5vXtKSfx0EeHJO2JrhPbbb4zR0Mw9Q.jpg",
+          "thumbnail_path": "channels/iranintltv/media/6a1d285ee0bf106b10fd34d5.jpg",
+          "thumbnail_sha256": "43c0dae88e24d171ec0e64e4f30f95152678c1e69d9c3724c434452c89418be4",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.03K",
+      "posted_at": "2026-09-09T05:40:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356437",
+      "reply": null
+    },
+    {
       "id": "IranintlTV/356436",
       "author_name": "Iran International ایران اینترنشنال",
       "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🎧نسخه صوتی اخبار بامدادی | چهارشنبه ۱۸ شهریور\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "3.17K",
+      "views_label": "6.36K",
       "posted_at": "2026-09-09T05:31:38+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356436",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.9K",
+      "views_label": "20K",
       "posted_at": "2026-09-09T05:06:49+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356435",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.1K",
+      "views_label": "23.2K",
       "posted_at": "2026-09-09T05:00:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356434",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.1K",
+      "views_label": "23.2K",
       "posted_at": "2026-09-09T04:58:12+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356433",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.1K",
+      "views_label": "22.2K",
       "posted_at": "2026-09-09T04:57:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356432",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.7K",
+      "views_label": "34.8K",
       "posted_at": "2026-09-09T04:26:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356431",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.6K",
+      "views_label": "51.7K",
       "posted_at": "2026-09-09T03:44:05+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356430",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "54.9K",
+      "views_label": "56K",
       "posted_at": "2026-09-09T03:14:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356429",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "55.2K",
+      "views_label": "56.2K",
       "posted_at": "2026-09-09T02:48:03+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356428",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "59.4K",
+      "views_label": "60.4K",
       "posted_at": "2026-09-09T02:08:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356427",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "54.7K",
+      "views_label": "55.8K",
       "posted_at": "2026-09-09T02:02:12+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356426",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "52.6K",
+      "views_label": "52.7K",
       "posted_at": "2026-09-09T01:54:24+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356425",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "49.9K",
+      "views_label": "50.9K",
       "posted_at": "2026-09-09T01:50:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356424",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "51.4K",
+      "views_label": "52.4K",
       "posted_at": "2026-09-09T01:25:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356423",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "54.3K",
+      "views_label": "55.3K",
       "posted_at": "2026-09-09T00:46:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356421",
@@ -469,7 +497,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "53.8K",
+      "views_label": "54.9K",
       "posted_at": "2026-09-09T00:32:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356420",
@@ -497,7 +525,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "54.2K",
+      "views_label": "55.2K",
       "posted_at": "2026-09-09T00:25:47+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356419",
@@ -525,7 +553,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "52.5K",
+      "views_label": "52.6K",
       "posted_at": "2026-09-09T00:20:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356418",
@@ -553,7 +581,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "55K",
+      "views_label": "55.1K",
       "posted_at": "2026-09-08T23:55:42+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356417",
@@ -2709,34 +2737,6 @@
       "posted_at": "2026-09-08T14:55:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356336",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356335",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "روزنامه دنیای اقتصاد در گزارشی نوشت بحران تجارت خارجی ایران از دریا به مرزهای زمینی و مسیرهای مالی گسترش پیدا کرده است. هم‌زمان، رسانه‌ها از رسوب ۱۷ هزار کانتینر در بندر کراچی و توقف هزاران کامیون در مرزهای پاکستان خبر دادند.<br><br>گفت‌وگو با مهتاب قلی‌زاده، روزنامه‌نگار اقتصادی<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "روزنامه دنیای اقتصاد در گزارشی نوشت بحران تجارت خارجی ایران از دریا به مرزهای زمینی و مسیرهای مالی گسترش پیدا کرده است. هم‌زمان، رسانه‌ها از رسوب ۱۷ هزار کانتینر در بندر کراچی و توقف هزاران کامیون در مرزهای پاکستان خبر دادند.\n\nگفت‌وگو با مهتاب قلی‌زاده، روزنامه‌نگار اقتصادی\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356335",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/nlFhQdBJhQfBhhgTG0JvyUoopd81KtaPgl37J_EAExrPxFqUENCko3uL6ODce-ryt3wU7A02cttR_xMqKGpFiq7ZVKC2M8ezuFge7iKhhg051sgVzIU2uCk-jsMqa8_LYgInrcBiKIx6bwMADV1wa0N34oCobBL1vX6y8rQURz0eOi1IxUbHxIaBeJ80968t2_LAQB5BihmQkswFsz5JxcmWp-A9hS7Cchxc3nxTY3l4vE6FFCp7kd0vwdAkky6thF4kzVLYtKote8aY8izUsnT0vncCK3qQjADYkU-ckkyPisv2x_c9GrFgJDR19QmmF0M4ZO68X8C9j-KqIQTzMg",
-          "thumbnail_path": "channels/iranintltv/media/a586cfe0f2b845f6dfe8c7c9.jpg",
-          "thumbnail_sha256": "dcf46b3327d767403486d5c021b56488320cdce8bd4e3afd24d272c87c09ade0",
-          "duration_label": "4:23",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "29.7K",
-      "posted_at": "2026-09-08T14:54:21+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356335",
       "reply": null
     }
   ]
