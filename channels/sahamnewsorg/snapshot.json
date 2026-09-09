@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T14:31:32.428Z",
+  "fetched_at": "2026-09-09T14:36:37.064Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -11,6 +11,71 @@
     "subscriber_count": "217K"
   },
   "posts": [
+    {
+      "id": "sahamnewsorg/147247",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/smAW_InWz98OrCURLxT9xranMh7tpFlLWV8zSZVibheTG3rKNcOtlMDWTt5JD8IaKVnpsx9Ot66idtDLHzf9pnQYniC5FGwhRuBWsCRwCX0-Mj9l4ogp_2OpFW0-A9FLwU-A1UcUeCsCK6kk8Lzo21xN1YNrtRrAlaqGaAofukdu1m0nYvC_OEUKkWfqLcQl6GUi6IfPKF71EHtCCM9lOVBTXeyyryPb6CUPK3qxuAD5Fcji9pxUZDZ-_FOXDtLpAl-nEy9GeiVn2HK7Uy8jQlYyYtABHS0F4acebiApw4Jqs5gekS8pQMwI0M3Fiux_NuY2uT2ctGm-dm4tcnSe8g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/05b9e04486c2e24c97c8a56b.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>پنتاگون در حال بررسی احتمال انجام عملیات تفنگداران دریایی در جزایر اطراف تنگه هرمز است</b><br><br>ارم نیوز درباره بررسی سناریوی جدیدی در پنتاگون نوشت: احتمال انجام عملیات فرود یگان‌هایی از تفنگداران دریایی آمریکا در برخی جزایر راهبردی و غیرمسکونی ایران در اطراف تنگه/این جزایر به نقاط دیده‌بانی نظامی و پایگاه‌های لجستیکی مجهز و موقتی تبدیل می شوند تا حفاظت از کشتی‌ها تضمین شود/پیشتر یگان‌های تفنگداران دریایی، تمرین‌های فشرده تیراندازی با مهمات واقعی را انجام داده‌اند<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅پنتاگون در حال بررسی احتمال انجام عملیات تفنگداران دریایی در جزایر اطراف تنگه هرمز است\n\nارم نیوز درباره بررسی سناریوی جدیدی در پنتاگون نوشت: احتمال انجام عملیات فرود یگان‌هایی از تفنگداران دریایی آمریکا در برخی جزایر راهبردی و غیرمسکونی ایران در اطراف تنگه/این جزایر به نقاط دیده‌بانی نظامی و پایگاه‌های لجستیکی مجهز و موقتی تبدیل می شوند تا حفاظت از کشتی‌ها تضمین شود/پیشتر یگان‌های تفنگداران دریایی، تمرین‌های فشرده تیراندازی با مهمات واقعی را انجام داده‌اند\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/147247",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/AIDxm9RWTjfgEkxd7sCNgFMltyRgDXpUaYB7wkPHw9y0RN03SEgBjbXzVT-tIogGUu1bfICMI3TVBd1LX7Y6gu7gciJxMAqTXM6JiRVjOr-ow4MXIOgJiYdTtoqFNS7rRG-PMMvtXRh0CPI08sP06KNZX5LxrulU8zYozSSF8aUkyT_ME-H7PdoWzKrIdYhIwe8RGjA3JJpRwYNrO78_fSM3mdW59W7p-7zNFL8lSmvvLiQ-QWlfZvIemgpHuNqNScPob6hovVxRxNOxbK4Dq9PtI8gYEA8sIQneL26DwOI_mkTHVb2p_shehk9_rgPHETVlWFVtKrf4ygu7a9giGQ.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/20dc170f24b795d9435eff42.jpg",
+          "thumbnail_sha256": "16bbf2e1e6430f98fef869331f3417838450349189906d7b5878b171c413d6fe",
+          "duration_label": null,
+          "aspect_ratio": 1.6799999999999866
+        }
+      ],
+      "reactions": [],
+      "views_label": "318",
+      "posted_at": "2026-09-09T14:35:53+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147247",
+      "reply": null
+    },
+    {
+      "id": "sahamnewsorg/147246",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/smAW_InWz98OrCURLxT9xranMh7tpFlLWV8zSZVibheTG3rKNcOtlMDWTt5JD8IaKVnpsx9Ot66idtDLHzf9pnQYniC5FGwhRuBWsCRwCX0-Mj9l4ogp_2OpFW0-A9FLwU-A1UcUeCsCK6kk8Lzo21xN1YNrtRrAlaqGaAofukdu1m0nYvC_OEUKkWfqLcQl6GUi6IfPKF71EHtCCM9lOVBTXeyyryPb6CUPK3qxuAD5Fcji9pxUZDZ-_FOXDtLpAl-nEy9GeiVn2HK7Uy8jQlYyYtABHS0F4acebiApw4Jqs5gekS8pQMwI0M3Fiux_NuY2uT2ctGm-dm4tcnSe8g.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/05b9e04486c2e24c97c8a56b.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>سی‌ان‌ان: آمریکا در حال تلاش برای یافتن راهی برای حمله به سایت‌هایی مانند کوه‌کلنگ است</b><br><br>واشنگتن در حال تولید یک بمب سنگرشکن نسل جدید است که قرار است جایگزین MOP فعلی شود و احتمالاً بتواند اهدافی را که در عمق بیشتری دفن شده‌اند، مورد اصابت قرار دهد./ بخش‌هایی از وزارت دفاع آمریکا اخیراً یک «دوره فشرده برنامه‌ریزی» درباره این موضوع برگزار کرده‌اند<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅سی‌ان‌ان: آمریکا در حال تلاش برای یافتن راهی برای حمله به سایت‌هایی مانند کوه‌کلنگ است\n\nواشنگتن در حال تولید یک بمب سنگرشکن نسل جدید است که قرار است جایگزین MOP فعلی شود و احتمالاً بتواند اهدافی را که در عمق بیشتری دفن شده‌اند، مورد اصابت قرار دهد./ بخش‌هایی از وزارت دفاع آمریکا اخیراً یک «دوره فشرده برنامه‌ریزی» درباره این موضوع برگزار کرده‌اند\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/147246",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qT1xWEievdsDWosXdOk-CLyCK8Sv7ZZZYwGJYxPVP5kvbzcd2f-hgdjLapC1YdYNHry-vAsI1iSGHqezSPttgv2wzuSZa2U43Qk0LfXZ77n2YuwDNeHZnXVR12QUEUlZAfLj6AXUcEBXi7RtmmYftnhZrYJplOtuRV8AyjMWWqv7giPgoijxDc1VE-BCslVfKWhBREbXGwVzSDBwY9qIBd3MbxZcgudI9edntMmdXaqSM_zq0p4scZ4ONlJDmVIWfkTFacWVNTMfs6cTv73GEQNDiyipvAkbv7is6BJEX0ODi1y7zNjLmSTlGiUB_N5NWlEb2QNL3fmuBrMhKJJqzQ.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/0dfbd2062369a27265a75b63.jpg",
+          "thumbnail_sha256": "3cc55b53bd2aed066bd414a5339414ff62084a7287e4e326f5f648d5cf27ac38",
+          "duration_label": null,
+          "aspect_ratio": 1.7738359201773837
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.81K",
+      "posted_at": "2026-09-09T14:31:37+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147246",
+      "reply": {
+        "channel_username": "sahamnewsorg",
+        "post_id": "147243",
+        "author_name": "سهام نیوز",
+        "preview_text": "✅اینجوری که رسانه‌های آمریکا (چه مخالف ترامپ چه طرفداراش) دارن مقدمه چینی می‌کنن حمله آمریکا به تاسیسات کوه کلنگ قطعیه! @Sahamnewsorg",
+        "thumbnail_url": "https://cdn4.telesco.pe/file/oJgwO0i2wHzWeqrIwLeiwQ_1u5knRZhC3QJrF0OJfJzpC7mTapKC-YlZBSmLaiQSpIrtGZxvbeqeDFcfp-4nIw_zxfHGYLhjGH272Ut9Fkt-_8He4SlpZFRZmwxMJuzjJkSuxzoqVt6mEr8FyR_eQnwLdWeyZ2JaqjHsv68_gb_nybKJb2cGPz5mLDGeCnVKz-pKlmeiCdG3S_pwboMDW0ZMlMOg9O8081ETkBxYHcgNob-Gn3E-DksJCdNiURjLi8qNYe7YTXpghIN-UwL4x41r0b5FogTlt2LkYtUviBWG0d4HA1ib6tBX_IlbUZdJLmK5Lv_oEVR4TnK3-3W7NQ.jpg",
+        "thumbnail_path": "channels/sahamnewsorg/media/4f8b6c056739570399475936.jpg",
+        "thumbnail_sha256": "5b3baaca1ed963e6091a545505d1e909cf8f67247743bc9c9fcee47d95e8fba8",
+        "permalink": "https://t.me/sahamnewsorg/147243"
+      }
+    },
     {
       "id": "sahamnewsorg/147245",
       "author_name": "سهام نیوز",
@@ -33,7 +98,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.87K",
+      "views_label": "4.36K",
       "posted_at": "2026-09-09T14:28:11+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147245",
@@ -49,7 +114,7 @@
       "plain_text": "✅نماینده مجلس: خودروی چینی را دو برابر قیمت به مردم فروختیم\n\nمجتبی یوسفی:خودروی بی‌کیفیت چینی در هر ۱۰۰ کیلومتر ۱۰ تا ۱۲ لیتر بنزین مصرف می‌کند و دو برابر قیمت به مردم فروخته شده است.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "1.87K",
+      "views_label": "4.06K",
       "posted_at": "2026-09-09T14:27:54+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147244",
@@ -77,7 +142,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.99K",
+      "views_label": "6.54K",
       "posted_at": "2026-09-09T14:20:49+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147243",
@@ -105,7 +170,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.4K",
+      "views_label": "13.6K",
       "posted_at": "2026-09-09T13:50:30+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147242",
@@ -121,7 +186,7 @@
       "plain_text": "✅ شروط جدید ایران برای توقف جنگ اعلام شد\n\nسخنگوی سپاه گفته است اگر دشمن خواهان پایان این وضعیت است، باید؛\n\n۱- ضمن توقف کامل جنگ،\n۲- از تهدید مجدد دست بکشد،\n۳- ارتش اسرائیل از لبنان عقب‌نشینی کند،\n۴- محاصرهٔ یمن پایان یابد،\n۵- ۲۴ میلیارد دلار دارایی مسدود شدهٔ ایران آزاد شود\n۶- و از هرگونه مداخله در توان هسته‌ای و موشکی کشور دست بردارد.\n\n🔻لبنان کم بود، یمن هم اضافه شد، زندگی و رفاه ملت بزرگ ایران را گره زده‌اند به حوثی ها!\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "14K",
+      "views_label": "15.2K",
       "posted_at": "2026-09-09T13:44:17+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147241",
@@ -149,7 +214,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.2K",
+      "views_label": "16.1K",
       "posted_at": "2026-09-09T13:38:50+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147240",
@@ -165,7 +230,7 @@
       "plain_text": "✅سی ان ان:جنگ ایران به رونق بی‌سابقه صنعت نفت برزیل منجر شد\n\nارزش صادرات نفت برزیل به چین در نیمه نخست سال بیش از دو برابر شد\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "20.8K",
+      "views_label": "21.4K",
       "posted_at": "2026-09-09T13:12:55+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147239",
@@ -181,7 +246,7 @@
       "plain_text": "✅الجزیره به نقل از یک منبع عراقی:\n\nهدف قرار دادن نفتکش در آب‌های سرزمینی عراق، در نزدیکی بندر العمیه در بصره، رخ داده است.\n\nنفتکش هدف قرارگرفته حامل ۲ میلیون بشکه نفت عراق بوده و در منطقه بارگیری قرار داشته است.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "21.7K",
+      "views_label": "22.6K",
       "posted_at": "2026-09-09T13:06:33+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147238",
@@ -209,7 +274,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.8K",
+      "views_label": "25.4K",
       "posted_at": "2026-09-09T12:53:14+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147237",
@@ -225,7 +290,7 @@
       "plain_text": "✅رویترز: در پی حمله به یک تانکر حامل محصولات نفتی به نام \"هرکولِس استار\" در نزدیکی دبی، یک نفر کشته و یک نفر مفقود شده است\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "23.5K",
+      "views_label": "24.5K",
       "posted_at": "2026-09-09T12:51:38+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147236",
@@ -262,7 +327,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.1K",
+      "views_label": "26.7K",
       "posted_at": "2026-09-09T12:42:54+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147235",
@@ -278,7 +343,7 @@
       "plain_text": "✅بیش از یک میلیارد دلار ارزش نفت کش های آتش گرفته ایران توسط امریکا\n\nایران حدود ۶۷ نفتکش فعال و ثبت‌شده دارد که بخش مهمی از ظرفیت آن را نفتکش‌های VLCC تشکیل می‌دهند؛ کشتی‌هایی عظیم با توان حمل حدود ۲ میلیون بشکه نفت خام. ساخت هر VLCC معمولاً ۲ تا ۳ سال زمان می‌برد و بسته به کارخانه و صف سفارش‌ها، ممکن است ۴ سال یا بیشتر طول بکشد. قیمت هر فروند نیز بسته به سن کشتی حدود ۱۰۰ تا ۱۸۰ میلیون دلار است؛ بنابراین هر VLCC یک دارایی بسیار گران‌قیمت و مهم محسوب می‌شود.\n\nدر حملات اخیر آمریکا هشت نفتکش هدف قرار گرفتند. از جمله M/T Downy، M/T Horizon 1 و M/T Derya که هر سه VLCC هستند؛ ارزش جایگزینی هرکدام با قیمت‌های فعلی بازار حدود ۱۸۲ میلیون دلار برآورد می‌شود، یعنی مجموعا ۵۴۶ میلیون دلار!\n\nپنج نفتکش دیگر این فهرست M/T Kylo، M/T Stark 1، M/T Charminar، M/T Kaviz، M/T Riesco در مجموع حدود ۵۰۵ میلیون دلار هزینه جایگزینی دارند.\n\nبنابراین، برای سه VLCC حدود ۵۴۶ میلیون دلار و برای نفتکش‌های کوچک‌تر حدود ۵۰۵ میلیون دلار برآورد می‌شود؛ در مجموع، هزینه جایگزینی کشتی‌های آسیب‌دیده در این فهرست حدود ۱٫۰۵ میلیارد دلار است! برای مقایسه باید گفت بودجهٔ نظامی ایران بین ۱۰ تا ۲۰ میلیارد دلار در سال تخمین زده می‌شود.\n\n‏@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "28.5K",
+      "views_label": "29.2K",
       "posted_at": "2026-09-09T12:27:46+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147234",
@@ -315,7 +380,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.9K",
+      "views_label": "28.6K",
       "posted_at": "2026-09-09T12:26:40+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147233",
@@ -331,7 +396,7 @@
       "plain_text": "✅اسرائیل در اعتراض به تحریمهای جدید بریتانیا علیه شهرک نشینان به کنسولگری بریتانیا در شرق اورشلیم اطلاع داده است که باید ظرف ۳۰ روز تعطیل و تخلیه شود.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "38.1K",
+      "views_label": "38.4K",
       "posted_at": "2026-09-09T10:41:47+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147232",
@@ -347,7 +412,7 @@
       "plain_text": "✅سنتکام: ادعای سپاه درباره حمله به دو ناو آمریکایی «کاملاً نادرست» است\n\nفرماندهی مرکزی ایالات متحده (سنتکام) ادعای سپاه پاسداران درباره حمله موفق به دو ناو جنگی نیروی دریایی آمریکا در خاورمیانه را رد کرد و اعلام کرد هیچ‌یک از ناوهای آمریکایی مورد اصابت قرار نگرفته‌اند.\n\nسنتکام تأکید کرد تمامی تلاش‌های سپاه برای هدف قرار دادن شناورهای آمریکایی ناموفق بوده و ناوهای نیروی دریایی آمریکا به عملیات خود ادامه داده‌اند.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "39.3K",
+      "views_label": "39.6K",
       "posted_at": "2026-09-09T10:35:57+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147231",
@@ -375,7 +440,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.3K",
+      "views_label": "39.9K",
       "posted_at": "2026-09-09T10:28:25+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147230",
@@ -403,7 +468,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "42.4K",
+      "views_label": "42.7K",
       "posted_at": "2026-09-09T10:17:04+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147229",
@@ -419,7 +484,7 @@
       "plain_text": "✅امروز یک کشتی در شمال غربی بندر رشید در امارات متحده عربی مورد هدف قرار گرفت\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "39K",
+      "views_label": "39.3K",
       "posted_at": "2026-09-09T10:12:34+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147228",
@@ -2238,71 +2303,6 @@
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147148",
       "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147147",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/FKF1cckJAUtPCvrEDvhdUz7NZYvAf1EHIJitsyRN8VE6idlFJSlSu2K2xwDGVxKifuLkRZo545Eqoc49ZLmPoSTyOLoyCKDmEN3g4SAk_F1iRgeiTdyhFUQAMgLZ_i79FYzHGzdPVDjFbMrSBqkn52UyYzaCp3ckUiaqX6ED8F0x46VghW61EdReQFxfqL1FfFJD5tD1JPbY4-VlLtyHG_j1T88K3wFHTxO0-qIYXcQF7V695Ey_HoDkfis8UETFy0hyQ9WdEneqSKbA4wd5fYVnHLYawYY5EhbuuZ_X_366M-abZdl4zvZZQgVaE4H3IDNMUExb2Ss8l2_ckTXB3A.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/bf7f0b170836be3cfa34280a.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>نظامی که پیکرش را فساد گرفته است <br><br>این ریخت‌وپاش‌هایی که بابک زنجانی راه انداخته، حالا میشه حرفی که سال ۹۸ زد رو بهتر فهمید.<br>‏زنجانیِ متهم به فساد کلان نفتی اون موقع یعنی خرداد۹۸ بیژن زنگنه، وزیر نفت، رو تهدید کرده بود و گفته بود: «به‌زودی جای من و زنگنه عوض میشه.»<br>‏حالا زنگنه خونه‌نشینه و زنجانی یکه‌تازی می‌کنه!<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅نظامی که پیکرش را فساد گرفته است\n\nاین ریخت‌وپاش‌هایی که بابک زنجانی راه انداخته، حالا میشه حرفی که سال ۹۸ زد رو بهتر فهمید.\n‏زنجانیِ متهم به فساد کلان نفتی اون موقع یعنی خرداد۹۸ بیژن زنگنه، وزیر نفت، رو تهدید کرده بود و گفته بود: «به‌زودی جای من و زنگنه عوض میشه.»\n‏حالا زنگنه خونه‌نشینه و زنجانی یکه‌تازی می‌کنه!\n\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/sahamnewsorg/147147",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/dWEZTOgxX5dh8xdBsEl6rPRqRHEVsIJNsy9RqDTYA6Qn1f4qfDBV6KIY5NmdtZ4rjse_3Mgpf0DKH9kmy-GUFpck8il19dGouZD2HmIpCXkRdFxzSIBMPIdyHRuZYpKdRIVN7nZTMYD3sZurtNWN9ihDGO4rel17m-Wrc4jmK1QrszO9c2LlYjc2dSWKXfNnqoNKkO1iy5oIcXQsTemSFZWVtwrhXKQCk9Rb4UHXDYr9mjRJek_mUbe_mzhF5DB1MvtP9KnW9iZQbU0CXv7Jkeihnw3sc8Tx4lEgRCy9gRcIHnP8VWwLJykMGa4ZgGeUu7sVue7k-ZyCVqn6ENiV9g.jpg",
-          "thumbnail_path": "channels/sahamnewsorg/media/1ac2c2b8508875a8ebd9754f.jpg",
-          "thumbnail_sha256": "d0adfd8aea9fa620dc3637670cc78684575265f209c90c02859c18bc34abaf05",
-          "duration_label": null,
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "59.2K",
-      "posted_at": "2026-09-07T20:42:17+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147147",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147146",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/FKF1cckJAUtPCvrEDvhdUz7NZYvAf1EHIJitsyRN8VE6idlFJSlSu2K2xwDGVxKifuLkRZo545Eqoc49ZLmPoSTyOLoyCKDmEN3g4SAk_F1iRgeiTdyhFUQAMgLZ_i79FYzHGzdPVDjFbMrSBqkn52UyYzaCp3ckUiaqX6ED8F0x46VghW61EdReQFxfqL1FfFJD5tD1JPbY4-VlLtyHG_j1T88K3wFHTxO0-qIYXcQF7V695Ey_HoDkfis8UETFy0hyQ9WdEneqSKbA4wd5fYVnHLYawYY5EhbuuZ_X_366M-abZdl4zvZZQgVaE4H3IDNMUExb2Ss8l2_ckTXB3A.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/bf7f0b170836be3cfa34280a.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>از دست رفتنِ «جبهه یمن»، موضع ایران را در مقابل امارات و عربستان خصوصا در حوزه نظامی، تضعیف خواهد کرد. «انصارالله» تاکنون مانع ایفای نقشِ موثرترِ عربستان و امارات در قبالِ ایران شده است؛ نباید اشتباهِ «جبهه لبنان» _ درباره حز‌ب‌الله_ را مجددا تکرار کرد!<br>‏«حوثی‌»ها اگر کنترل جنوب غربِ یمن را از دست بدهند، «تنگه استراتژیک باب المندب» برای صادراتِ حداکثری نفت عربستان مهیاتر می‌شود و اهمیت استراتژیکِ «تنگه هرمز»، کاهش می‌یابد<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅از دست رفتنِ «جبهه یمن»، موضع ایران را در مقابل امارات و عربستان خصوصا در حوزه نظامی، تضعیف خواهد کرد. «انصارالله» تاکنون مانع ایفای نقشِ موثرترِ عربستان و امارات در قبالِ ایران شده است؛ نباید اشتباهِ «جبهه لبنان» _ درباره حز‌ب‌الله_ را مجددا تکرار کرد!\n‏«حوثی‌»ها اگر کنترل جنوب غربِ یمن را از دست بدهند، «تنگه استراتژیک باب المندب» برای صادراتِ حداکثری نفت عربستان مهیاتر می‌شود و اهمیت استراتژیکِ «تنگه هرمز»، کاهش می‌یابد\n\n@Sahamnewsorg",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/sahamnewsorg/147146",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/N6t-AcYLrJyeDMVWCq-ljukepnZXwQtRBHIZ6_niuVBEn8_APtgM_rOdPA3ebxgxBM9zt1abRUpdaIZLI2fRMmK9w4lzS0yHBeZFVtXLygajAnomfVcw112c7nNbiaq9MZmK4nPwwk36oLV1jDYh0HLjuGQQdBJHEaoQ1ahRH0wqRmvC9BCfRuk15fqq5OaenvRRLZSAJK4vIvnqaYJ6u27S462EFF-voKZpfbL_BCm6XDj3MJrZ4lDqWsbl9v_EkzWvfoSeJs1oc-rxkL8-o_LMwY2_ZV-_OjX1SV9R16Oz90-MYdi7FOh4U-ixfiQVrVja2l7KKHvQazapyPJXTQ.jpg",
-          "thumbnail_path": "channels/sahamnewsorg/media/19ad7f96993f0bf0ac189287.jpg",
-          "thumbnail_sha256": "c7447718d57941ce695a68edb8413571b7e5eefc14547ef394cdc99394c6a41c",
-          "duration_label": null,
-          "aspect_ratio": 1.2121212121212122
-        }
-      ],
-      "reactions": [],
-      "views_label": "55.8K",
-      "posted_at": "2026-09-07T20:36:29+00:00",
-      "edited": true,
-      "permalink": "https://t.me/sahamnewsorg/147146",
-      "reply": {
-        "channel_username": "sahamnewsorg",
-        "post_id": "147142",
-        "author_name": "سهام نیوز",
-        "preview_text": "✅چرا اخبار یمن مهمه؟ چون اگه کنترل حوثی‌ها از جنوب غربی یمن که مسلط به تنگه باب المندب هست برداشته بشه کار برای صادرات نفت عربستان بدون نیاز به تنگه هرمز راحت میشه و دیگه چالشی از این بابت وجود نداره و کارت تنگه هرمز برای ایران کمرنگ میشه @Sahamnewsorg",
-        "thumbnail_url": null,
-        "thumbnail_path": null,
-        "thumbnail_sha256": null,
-        "permalink": "https://t.me/sahamnewsorg/147142"
-      }
     }
   ]
 }
