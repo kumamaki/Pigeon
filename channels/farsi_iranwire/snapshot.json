@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T07:46:37.361Z",
+  "fetched_at": "2026-09-09T07:53:36.308Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.9K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93504",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "برنامه گفت‌وگومحور «روشن» با شکایت سازمان تنظیم مقررات رسانه‌های صوت و تصویر فراگیر، «ساترا»، و دستور دادگستری تهران توقیف شد؛ برنامه‌ای اینترنتی که انتشار آن به‌تازگی در پلتفرم «فیلیمو» آغاز شده بود.<br>رسانه «آوش» خبر داد که ساترا با طرح شکایت در قوه قضاییه، محتوای «روشن» را «مجرمانه، مخل امنیت و اخلاق و عفت عمومی» دانسته است. براساس این گزارش، دادگستری تهران نیز در پی این شکایت دستور «توقیف و عدم پخش» برنامه را صادر کرده است.<br><br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157358\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157358</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "برنامه گفت‌وگومحور «روشن» با شکایت سازمان تنظیم مقررات رسانه‌های صوت و تصویر فراگیر، «ساترا»، و دستور دادگستری تهران توقیف شد؛ برنامه‌ای اینترنتی که انتشار آن به‌تازگی در پلتفرم «فیلیمو» آغاز شده بود.\nرسانه «آوش» خبر داد که ساترا با طرح شکایت در قوه قضاییه، محتوای «روشن» را «مجرمانه، مخل امنیت و اخلاق و عفت عمومی» دانسته است. براساس این گزارش، دادگستری تهران نیز در پی این شکایت دستور «توقیف و عدم پخش» برنامه را صادر کرده است.\n\nبخوانید: https://iranwire.com/fa/news-1/157358\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93504",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/f96r8bu3yJy1d22Y0qpCxu2PNI953cd9V65f2WyF5xCixNg13ZpwKA-tolS8HhbLvMVrjn3Y9RC8cKzqwbavmCvwa-Iwn8A4yHW4KxsTXp-Z2uGdLe-5CBdgl4tIVaKxLvWEPPmWZE2b3lfVwZF7f-_KXxNDFEsUrmN7WBhJ0hxqwhm5zIuKj_Ma-YBKGTHxx7dIWPcyzHGS9zg0pyGWA7TAfsuQdu7HU0N0oaGe4VXr6eeofswvMCcsYiT_5uvy6D1530Sw3CV9BAhocgSYhVvQxwuR2nwuavVNcC6QEMa8xZOydoQp3kWwAsdRiUuSEoHY8gLFRzeOXdL20HcZHA.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/7a23da64461c450efed66f2d.jpg",
+          "thumbnail_sha256": "61c16b7a12241a6f1ef9bec91d4950540d0fdb51a419f784c1e4b174de3021e3",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "59",
+      "posted_at": "2026-09-09T07:50:24+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93504",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93503",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "275",
+      "views_label": "338",
       "posted_at": "2026-09-09T07:25:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93503",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "426",
+      "views_label": "473",
       "posted_at": "2026-09-09T07:10:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93502",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "501",
+      "views_label": "547",
       "posted_at": "2026-09-09T07:01:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93501",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.81K",
+      "views_label": "1.83K",
       "posted_at": "2026-09-08T21:53:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93500",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.01K",
+      "views_label": "2.02K",
       "posted_at": "2026-09-08T20:34:18+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93499",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.02K",
+      "views_label": "2.03K",
       "posted_at": "2026-09-08T19:37:26+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93498",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.99K",
+      "views_label": "2K",
       "posted_at": "2026-09-08T19:04:08+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93497",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.61K",
+      "views_label": "1.62K",
       "posted_at": "2026-09-08T18:31:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93496",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.48K",
+      "views_label": "1.49K",
       "posted_at": "2026-09-08T18:24:01+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93495",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.34K",
+      "views_label": "1.35K",
       "posted_at": "2026-09-08T18:09:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93494",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.36K",
+      "views_label": "1.37K",
       "posted_at": "2026-09-08T15:49:04+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93491",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-05T22:03:59+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93402",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93401",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/K1ryeuKQ4KEx_W8GG_UAEgXS4WenbnqYy6I38arbtQjTENtUCZQc86aijSe5XYgmScJwV1DfLQ_4VEPN5DltoBy7THAdB-M57YdRe65wQEul8EBsDbrMRWw2zRL5OzhWguF-d-8QVWwclG6spHHFcXlsJFKgrZLGgwKhEeGbn7jfwHtI0-R8bayMDq_tttXVRSGkpMVAeAyb34TseqUs8rqvywSzheUDDm3U0EVjDW-9tmpTsswi5sMh55tZyHvVXko6rwusUIzlfc8QZNYipXbKGOAn3cz77hC389xV_7PX6pD8qx8sh7cKA0Jz_noMeNwVM5xZQ77gMTmo8209sA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/5ea6725eb75d0236588a5f92.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "نیروی دریایی سپاه پاسداران انقلاب اسلامی مدعی شد، در واکنش به حمله ارتش آمریکا به سه نفتکش متعلق به جمهوری اسلامی، سه نفتکش را در مسیرهای «غیرمجاز» تنگه هرمز و سه شناور وابسته به آمریکا را در مناطق دیگر هدف قرار داده است.<br><br><br>بیشتر بخوانید: <a href=\"https://iranwire.com/fa/news-1/157201\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157201</a><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "نیروی دریایی سپاه پاسداران انقلاب اسلامی مدعی شد، در واکنش به حمله ارتش آمریکا به سه نفتکش متعلق به جمهوری اسلامی، سه نفتکش را در مسیرهای «غیرمجاز» تنگه هرمز و سه شناور وابسته به آمریکا را در مناطق دیگر هدف قرار داده است.\n\n\nبیشتر بخوانید: https://iranwire.com/fa/news-1/157201\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/93401",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/cFLMDmfRnmvY-llTU-p_VG5rbb6rOyHIZ3tIXt9Bd7JQkqpplmZ90T2CqBx8INK7-vPtgC1YABLeXR2HXP8GxQTf-3bE1BO7jY3qy7qXQd9IN2dStsYvigBHbNH8al27G79u3nXMJqwz9cuPX3A2HSUpiO96CS8JykoZdAZ90GnVI2DAc_bdvBKzZD9dDYifjkX9iwFfe_Ve2CzMulJGw3itKvE205wpxJfupYr0mb4sToxBByXat2H15Y4lOzt5kPEG8S5hkxoBidyGSJPBVoRVCSyOiUla6WrdHLNIYh7I_qgbUZEKFVKRVAsj4AQPKCzkc1zOyzcOV9SmfqNZBg.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/f2bae5967243ae215866acd4.jpg",
-          "thumbnail_sha256": "47cda581330a14e1ca41f8319fd75ea646da613725ee6b48097b6a238465c249",
-          "duration_label": null,
-          "aspect_ratio": 0.7975000000000035
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.28K",
-      "posted_at": "2026-09-05T19:56:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93401",
       "reply": null
     }
   ]
