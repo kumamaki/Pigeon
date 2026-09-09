@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T12:46:47.374Z",
+  "fetched_at": "2026-09-09T12:51:58.874Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,50 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229983",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>افزایش ساخت‌وساز در تاسیسات هسته‌ای مشکوک «کوه کلنگ»؛ مسئولان به صدای آمریکا پاسخ می‌دهند<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>«مرکز مطالعات راهبردی و بین‌المللی» گزارش داد که بررسی تصاویر ماهواره‌ای شش سال گذشته حکایت از افزایش آشکار ساخت‌وساز در سایت مشکوک هسته‌ای «کوه کلنگ» در نزدیکی نطنز دارد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/increase-in-construction-pickaxe-mountain-nuclear-site/8195992.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/increase-in-construction-pickaxe-mountain-nuclear-site/8195992.html/?nocach=1</a>",
+      "plain_text": "🔺افزایش ساخت‌وساز در تاسیسات هسته‌ای مشکوک «کوه کلنگ»؛ مسئولان به صدای آمریکا پاسخ می‌دهند\n\n▪️«مرکز مطالعات راهبردی و بین‌المللی» گزارش داد که بررسی تصاویر ماهواره‌ای شش سال گذشته حکایت از افزایش آشکار ساخت‌وساز در سایت مشکوک هسته‌ای «کوه کلنگ» در نزدیکی نطنز دارد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/increase-in-construction-pickaxe-mountain-nuclear-site/8195992.html/?nocach=1",
+      "media": [],
+      "reactions": [],
+      "views_label": "97",
+      "posted_at": "2026-09-09T12:50:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229983",
+      "reply": null
+    },
+    {
+      "id": "farsivoa/229982",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>سازمان عملیات تجارت دریایی بریتانیا اعلام کرد که گزارشی درباره حمله‌ای دیگر به یک نفتکش در نزدیکی سواحل عراق دریافت کرده است.<br><br>بر پایه گزارش این سازمان، نفتکش فوق در فاصله ۵۲ کیلومتری جنوب‌شرقی منطقه فاو در عراق، هدف اصابت یک پرتابه قرار گرفته است.<br><br>در اطلاعیه فوق زمان دقیق حملات و یا مبدا شلیک پرتابه اعلام نشده است.<br><br>در همین ارتباط، الجزیره به نقل از منابع رسانه‌ای محلی گزارش داد که این نفتکش در آب‌های سرزمینی عراق، هدف «پهپاد» قرار گرفته است.<br><br>پیشتر سازمان عملیات تجارت دریایی بریتانیا اعلام کرده بود که چند شناور تجاری در شمال خلیج فارس و خلیج عمان شامگاه سه‌شنبه ۱۷ شهریورماه، در جریان فعالیت نظامی هدف قرار گرفتند.",
+      "plain_text": "⚡️سازمان عملیات تجارت دریایی بریتانیا اعلام کرد که گزارشی درباره حمله‌ای دیگر به یک نفتکش در نزدیکی سواحل عراق دریافت کرده است.\n\nبر پایه گزارش این سازمان، نفتکش فوق در فاصله ۵۲ کیلومتری جنوب‌شرقی منطقه فاو در عراق، هدف اصابت یک پرتابه قرار گرفته است.\n\nدر اطلاعیه فوق زمان دقیق حملات و یا مبدا شلیک پرتابه اعلام نشده است.\n\nدر همین ارتباط، الجزیره به نقل از منابع رسانه‌ای محلی گزارش داد که این نفتکش در آب‌های سرزمینی عراق، هدف «پهپاد» قرار گرفته است.\n\nپیشتر سازمان عملیات تجارت دریایی بریتانیا اعلام کرده بود که چند شناور تجاری در شمال خلیج فارس و خلیج عمان شامگاه سه‌شنبه ۱۷ شهریورماه، در جریان فعالیت نظامی هدف قرار گرفتند.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229982",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/fNTPUqLz7sUkjx3oh-fR_UXP_nJmbP7IrT-_fiP5yJG9KKe6pw77VUoW0H9tX7BqPJAS7iZvAjaeEZaA4Z8mmUc-f6Zl2I1TuWzYXVERuPyfkIoyuzgr3goWFr8NUvo01507WXisKrtqsAOYtvFD6LO6gtd6ozof8YBuniGFy8iYLXdLSRbw0sZ4iFVVDW6lxxLW48biw-fyCaJe9mh51gf7rEU7crkgv2QxLW3W0GBKqJ5smYEUC4PMU0xaHNn77rTtPdpjGxUtKzy9AJPBwspLl9SnfHkKaVjqibOEg1ap4dita3JMCdoqLCcq2SHmbfMvtzOV3BOhslqnDSCVoA.jpg",
+          "thumbnail_path": "channels/farsivoa/media/dfa8801a5f6efbc440d23496.jpg",
+          "thumbnail_sha256": "967f6059f17482ce52ad9995543c12efa7ad3160fc44d1676a6dd9a4665e69dd",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "221",
+      "posted_at": "2026-09-09T12:48:52+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229982",
+      "reply": null
+    },
     {
       "id": "farsivoa/229981",
       "author_name": "Farsi VOA",
@@ -33,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "516",
+      "views_label": "739",
       "posted_at": "2026-09-09T12:35:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229981",
@@ -61,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "937",
+      "views_label": "1.07K",
       "posted_at": "2026-09-09T12:24:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229980",
@@ -89,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.13K",
+      "views_label": "1.23K",
       "posted_at": "2026-09-09T12:18:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229979",
@@ -105,7 +149,7 @@
       "plain_text": "🔺سنتکام ادعای سپاه مبنی بر هدف قرار دادن دو ناو جنگی آمریکا را رد کرد\n\n▪️فرماندهی مرکزی ایالات متحده آمریکا با رد ادعای روز چهارشنبه سپاه پاسداران انقلاب اسلامی درباره هدف قرار دادن دو ناوشکن فعال نیروی دریایی آمریکا در خاورمیانه تصریح کرد این ادعا کاملاً نادرست است.\n\n▪️این بیانیه می‌افزاید هیچ ناو جنگی نیروی دریایی آمریکا هدف قرار نگرفته و تمام تلاشهای سپاه پاسداران برای حمله ناکام مانده‌ است.\n\n▪️سنتکام در ادامه گفته است در همین حال، نیروهای آمریکایی تنها در هفته گذشته با موفقیت ۱۰ نفتکش ایرانی را منهدم کرده‌اند: «این نفتکش‌ها بخشی از یک شبکه چندمیلیارد دلاری موسوم به ناوگان سایه بودند که منابع مالی سپاه پاسداران را تأمین می‌کرد و جمهوری اسلامی قادر به دفاع از آنها نیست».\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195990.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.73K",
+      "views_label": "1.83K",
       "posted_at": "2026-09-09T11:59:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229978",
@@ -133,7 +177,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.76K",
+      "views_label": "1.83K",
       "posted_at": "2026-09-09T11:51:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229977",
@@ -161,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.79K",
+      "views_label": "1.86K",
       "posted_at": "2026-09-09T11:43:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229975",
@@ -177,7 +221,7 @@
       "plain_text": "🔺آغاز مطالعات امکان‌سنجی احداث خط لوله نفتی جایگزین تنگه هرمز در عراق\n\n▪️وزارت نفت عراق از آغاز مطالعات امکان‌سنجی احداث خط لوله نفتی جایگزین تنگه هرمز در خاک این کشور به مقصد ترکیه و سوریه خبر داد.\n\n▪️صادرات نفت عراق از زمان اخلال جمهوری اسلامی در تنگه هرمز نسبت به دور مشابه پارسال ۶۷ درصد کاهش یافته، اگرچه طی چند ماه گذشته روند صعودی داشته و هم اکنون به سه میلیون بشکه در روز رسیده که دو سوم دیگر با کمک آمریکا و ناوگان امارات از تنگه هرمز می‌گذرد.\n\n▪️عراق در نظر دارد خط لوله نفتی با ظرفیت انتقال روزانه ۲ میلیون بشکه از منطقه نفتی بصره در خلیج فارس به حدیثه احداث کند که از آنجا نیز خطوط لوله جداگانه‌ای به بندر جیهان ترکیه و بندر بانیاس سوریه احداث خواهد شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195985.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.86K",
+      "views_label": "1.92K",
       "posted_at": "2026-09-09T11:35:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229974",
@@ -205,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.87K",
+      "views_label": "1.93K",
       "posted_at": "2026-09-09T11:27:45+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229973",
@@ -233,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.03K",
+      "views_label": "2.09K",
       "posted_at": "2026-09-09T11:18:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229972",
@@ -261,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.3K",
+      "views_label": "2.37K",
       "posted_at": "2026-09-09T11:05:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229971",
@@ -289,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.62K",
+      "views_label": "2.68K",
       "posted_at": "2026-09-09T10:44:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229970",
@@ -317,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.69K",
+      "views_label": "2.76K",
       "posted_at": "2026-09-09T10:32:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229969",
@@ -345,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.87K",
+      "views_label": "2.9K",
       "posted_at": "2026-09-09T10:21:43+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229968",
@@ -361,7 +405,7 @@
       "plain_text": "🔺ژاپن پس از مخالفت با طرح جمهوری اسلامی درباره تنگه هرمز با عمان گفت‌وگو کرد\n\n▪️ژاپن و عمان نشست گفت‌وگوی حقوق بین‌الملل خود را با محوریت تنگه هرمز به‌صورت ویدئوکنفرانس برگزار کردند. این گفت‌وگو پس از آن انجام شد که ژاپن به جمهوری اسلامی اعلام کرد تعیین وضعیت تنگه هرمز به صورت دوجانبه بین ایران و عمان را قبول ندارد.\n\n▪️بر پایه اعلام وزارت امور خارجه ژاپن، دو طرف در روز سه‌شنبه دیدگاه‌های خود را درباره مسائل حقوق بین‌الملل مربوط به وضعیت پیرامون تنگه هرمز رد و بدل کردند.\n\n▪️هیئت ژاپن را کازوهیکو ناکامورا، مشاور حقوقی و مدیرکل اداره امور حقوقی بین‌المللی وزارت امور خارجه، رهبری کرد. از سوی عمان، ثانی حارث المحروقی، رئیس دفتر فلات قاره و امور دریایی، شرکت کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195984.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.96K",
+      "views_label": "3K",
       "posted_at": "2026-09-09T10:13:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229967",
@@ -389,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.18K",
+      "views_label": "3.22K",
       "posted_at": "2026-09-09T09:56:59+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229966",
@@ -417,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.31K",
+      "views_label": "3.35K",
       "posted_at": "2026-09-09T09:46:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229965",
@@ -445,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.17K",
+      "views_label": "3.21K",
       "posted_at": "2026-09-09T09:37:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229964",
@@ -473,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.12K",
+      "views_label": "3.15K",
       "posted_at": "2026-09-09T09:22:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229963",
@@ -2465,50 +2509,6 @@
       "posted_at": "2026-09-08T16:44:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229881",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229880",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>واکنش اسرائیل به اقدامات بریتانیا؛ تعطیلی کنسولگری در اورشلیم و اخراج نمایندگان از مرکز هماهنگی غزه<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>به گزارش رسانه‌های اسرائیل، گیدئون سعار، وزیر امور خارجه اسرائیل، روز سه‌شنبه ۱۷ شهریور با انتشار بیانیه‌ای اعلام کرد که اسرائیل چند اقدام دیپلماتیک را علیه بریتانیا به اجرا خواهد گذاشت.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/gideon-saar-israel-british-relations/8195571.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/gideon-saar-israel-british-relations/8195571.html/?nocach=1</a>",
-      "plain_text": "🔺واکنش اسرائیل به اقدامات بریتانیا؛ تعطیلی کنسولگری در اورشلیم و اخراج نمایندگان از مرکز هماهنگی غزه\n\n▪️به گزارش رسانه‌های اسرائیل، گیدئون سعار، وزیر امور خارجه اسرائیل، روز سه‌شنبه ۱۷ شهریور با انتشار بیانیه‌ای اعلام کرد که اسرائیل چند اقدام دیپلماتیک را علیه بریتانیا به اجرا خواهد گذاشت.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/gideon-saar-israel-british-relations/8195571.html/?nocach=1",
-      "media": [],
-      "reactions": [],
-      "views_label": "3.05K",
-      "posted_at": "2026-09-08T16:36:57+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229880",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229879",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "یک راننده اسنپ با انتشار ویدیویی به افزایش هزینه بنزین و سهمیه ۶۰ لیتری اعتراض کرده و می‌گوید با توجه به مصرف روزانه سوخت و هزینه‌هایی مانند استهلاک خودرو، لاستیک و روغن، ادامه کار برای رانندگان دشوار شده است.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "یک راننده اسنپ با انتشار ویدیویی به افزایش هزینه بنزین و سهمیه ۶۰ لیتری اعتراض کرده و می‌گوید با توجه به مصرف روزانه سوخت و هزینه‌هایی مانند استهلاک خودرو، لاستیک و روغن، ادامه کار برای رانندگان دشوار شده است.\n\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229879",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/RIgWuuWTT9Mxlwjgv3ohlpPqit37V6gDAcRP5U6mPfs1ZJxdPmVf4d1jFJySquChJpmn7oT4hxrQtoyyub8NbhRWHdB_ZtvMtD-4mEqdHA3Y76NO8xRtLgSCi8Qm2anEel3QSowRCiXOGSfLdfNA7azyTAA6w5T7pp6GpkErC5a-xrQjmlVYaik29Vz-Ym7UkUlujzWlltaqgMtmapLtq-ymcfklRdEaQ-DyeoUEZOEeJkQsLwwBWlCoJCFc1iOReEV5s0lf14upBTTWf0GrPLVoC9Y7LN48_4RhS88h24-jX6m1xyxAKjqIsU_zmmYXlsutqxiSx4DTgDw8wwigxg",
-          "thumbnail_path": "channels/farsivoa/media/1eb39a24bfbbc371110be0df.jpg",
-          "thumbnail_sha256": "0c4f277048887d7b48bf1d2c84cd1aef46ba1bfed10e1e5a1b2e840c4ff1d272",
-          "duration_label": "0:55",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.91K",
-      "posted_at": "2026-09-08T16:33:24+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229879",
       "reply": null
     }
   ]
