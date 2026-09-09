@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T16:31:43.586Z",
+  "fetched_at": "2026-09-09T16:36:40.255Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,62 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356526",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "رویترز چهارشنبه ۱۸ شهریور گزارش داد شورای حکام آژانس بین‌المللی انرژی اتمی قطعنامه‌ای را تصویب کرد که پرونده هسته‌ای جمهوری اسلامی را به دلیل نقض تعهدات مربوط به منع گسترش سلاح‌های هسته‌ای به شورای امنیت سازمان ملل ارجاع می‌دهد.<br><br>بر اساس این گزارش، تصویب این قطعنامه به معنای ارجاع پرونده جمهوری اسلامی به شورای امنیت در پی ارزیابی شورای حکام درباره عدم پایبندی تهران به تعهدات پادمانی است.<br><br>رویترز به نقل از دیپلمات‌ها خبر داد که این قطعنامه با ۲۳ رای موافق، سه رای مخالف و هشت رای ممتنع تصویب شد.<br><a href=\"https://iranintl.com/202609096736\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609096736</a>",
+      "plain_text": "رویترز چهارشنبه ۱۸ شهریور گزارش داد شورای حکام آژانس بین‌المللی انرژی اتمی قطعنامه‌ای را تصویب کرد که پرونده هسته‌ای جمهوری اسلامی را به دلیل نقض تعهدات مربوط به منع گسترش سلاح‌های هسته‌ای به شورای امنیت سازمان ملل ارجاع می‌دهد.\n\nبر اساس این گزارش، تصویب این قطعنامه به معنای ارجاع پرونده جمهوری اسلامی به شورای امنیت در پی ارزیابی شورای حکام درباره عدم پایبندی تهران به تعهدات پادمانی است.\n\nرویترز به نقل از دیپلمات‌ها خبر داد که این قطعنامه با ۲۳ رای موافق، سه رای مخالف و هشت رای ممتنع تصویب شد.\nhttps://iranintl.com/202609096736",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356526",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/tr1xA6ksVDjDIDmxi-zGlcj9jNN3s1YdBAV73WuML9VI2iB6KJwEIWTsWclnq3PNGwYH7xjI2Tu-_FQWEceKg4qJb-Gt-pOLmYktWw5FL8uZyIJX49xWajojwalo4nwely9_38OZuAZxVm4IRB6H1HbgnWPZ4m8x6RX-BygKEH6O0dB4mHKg21SIl3AyZ9RoSvpAi1TOu_n1rTXdKbj1MG88YepAekpei_ZKxMJYJ8lKLV2m79wIx8tY5AY5hgPGLgWPMskQ3tzKJ-Z2UzB7iqXdlhTPuRSJOPgu57sA19j6791nBjALSyT3A_FSx2l65pS1xvYn1aWm40DuA5q1MQ.jpg",
+          "thumbnail_path": "channels/iranintltv/media/e2161e7e52c38dfa77fc2a09.jpg",
+          "thumbnail_sha256": "e7a78ff438f65c979a60d047f5f270ec06e535dfb96a79bc94a0973a7a68fcd1",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.13K",
+      "posted_at": "2026-09-09T16:34:34+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356526",
+      "reply": null
+    },
+    {
+      "id": "IranintlTV/356525",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید: «من متخصص الکترونیک و تعمیرکار بردهای صنعتی هستم. اما چند سالی که کاری پیدا نمی‌کنم و وضعیت زندگی‌ام کاملا به هم ریخته است.»",
+      "plain_text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید: «من متخصص الکترونیک و تعمیرکار بردهای صنعتی هستم. اما چند سالی که کاری پیدا نمی‌کنم و وضعیت زندگی‌ام کاملا به هم ریخته است.»",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356525",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/QvVR7uIENN1hwbt6p_mEECTQRbAygZ5iMvxNOsCG7Pkw4t2O0UOjyrPRFf3hCGgNlbfMBMZ4N3bVrESrVSAJzizgusl-nbgMrKVA9X_nufJQBVoRReQ_HOiSp4vLKdI4CJh0jlvbo5QBJTVfZmr5ROI-TQlRYx5bfQ5ny-zKlXOPvA842nkpGlgiwAvoFGI4oFum32W5BJq5aC16UkJzFS367KSZx2RSHT7MuczXW_x9p6nKGCkxOQJY0c0igp4KWj4nGkZug6bg_utMLaZCqHh7EB4XXj8UqIBoJcKDtdsFUvgIZ0tsTi4jSM6UCz4wuPliCZfhp4JsWNUmTyTyKg",
+          "thumbnail_path": "channels/iranintltv/media/3c4ea6db4c4a24738218e931.jpg",
+          "thumbnail_sha256": "f030be289cc230f205bc6bdc03656d0cc2135fe3ce46120649189c3c93b55ec7",
+          "duration_label": "0:43",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.12K",
+      "posted_at": "2026-09-09T16:34:05+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356525",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356524",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.13K",
+      "views_label": "7.41K",
       "posted_at": "2026-09-09T16:28:51+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356524",
@@ -49,7 +105,7 @@
       "plain_text": "🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - چهارشنبه ۱۸ شهریور\n\n🔹کریم هستم، بازنشسته با سه تا دختر دم‌بخت، توان خرید نوار بهداشتی ندارم؛ از خیاطی تکه‌پارچه گرفتم برای جایگزین\n\n🔹پدر و مادرم هر دو کارمند دولتین، حقوقشون با این همه قسط برای زندگی کافی نیست؛ من و برادر ۱۷ و ۱۵ ساله‌ام هر دو هم داریم کار می‌کنیم، هم برای مدرسه آماده می‌شیم؛ نمی‌تونیم به خانوادمون کمک زیادی کنیم\n\n🔹داروی سرترالین می‌خواستم برای استرس، اما مجبور شدم پنج تا داروخانه رو بگردم تا پیدا کنم. این‌همه خرج تسلیحات می‌کنند، اما یک دارو رو نمی‌تونند تأمین کنند\n\n🔹کیف پسرانه برای پیش‌دبستانی معمولی، یک‌ونیم میلیون، بازار تهران؛ جامدادی، یک‌ونیم میلیون\n\n🔹من کارمند رسمی یکی از فرمانداری‌ها هستم، با مدرک فوق‌لیسانس و ۲۵ سال سابقه، ۳۰ میلیون تومان دریافتی دارم. این حقوق هفته اول ماه تمام می‌شود. اکثر کارمندان وزارت کشور نسبت به حقوق بسیار اندک معترض و از بی‌لیاقتی وزیر کشور و معاون توسعه وزیر خشمگین هستند\n\n🔹برای دخترم در حد لوازم‌التحریر معمولی مورد نیاز یک دانش‌آموز کلاس چهارم دبستانی خرید کردم، سه میلیون تومن. واقعاً از کجا تأمین کنیم؟ ای پرچم به دست نادان، تو از کجا خرید می‌کنی؟ لابد حقوقت از جای دیگری تأمین می‌شود\n\n🔹بعد از ۳۰ سال خدمت در مناطق گرم جنوب، بازنشسته شدم. الان برای یک وعده غذای خانواده‌ام موندم\n\n🔹سه کیلو گوشت و یک کیلو چرخ‌کرده رو ۹ میلیون و ۳۴۰ هزار تومان خریدم؛ از ترس اینکه تو خواب سکته کنم، دیشب تا صبح نخوابیدم",
       "media": [],
       "reactions": [],
-      "views_label": "9.51K",
+      "views_label": "13.7K",
       "posted_at": "2026-09-09T16:20:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356523",
@@ -77,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "15.8K",
+      "views_label": "20K",
       "posted_at": "2026-09-09T16:10:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356522",
@@ -105,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20K",
+      "views_label": "22.1K",
       "posted_at": "2026-09-09T16:04:39+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356521",
@@ -133,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20K",
+      "views_label": "21.1K",
       "posted_at": "2026-09-09T16:00:50+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356520",
@@ -161,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20K",
+      "views_label": "22.1K",
       "posted_at": "2026-09-09T15:57:47+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356519",
@@ -189,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "24.3K",
+      "views_label": "26.3K",
       "posted_at": "2026-09-09T15:46:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356518",
@@ -217,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.6K",
+      "views_label": "30.7K",
       "posted_at": "2026-09-09T15:32:52+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356517",
@@ -245,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "28.6K",
+      "views_label": "30.6K",
       "posted_at": "2026-09-09T15:30:51+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356516",
@@ -273,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.7K",
+      "views_label": "32.8K",
       "posted_at": "2026-09-09T15:24:05+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356515",
@@ -301,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.7K",
+      "views_label": "31.8K",
       "posted_at": "2026-09-09T15:21:53+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356514",
@@ -329,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.7K",
+      "views_label": "31.8K",
       "posted_at": "2026-09-09T15:20:14+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356513",
@@ -345,7 +401,7 @@
       "plain_text": "🎧نسخه صوتی اخبار شبانگاهی | چهارشنبه ۱۸ شهریور\n@iranintlTV",
       "media": [],
       "reactions": [],
-      "views_label": "29.6K",
+      "views_label": "30.7K",
       "posted_at": "2026-09-09T15:17:22+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356512",
@@ -373,7 +429,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36K",
+      "views_label": "38.1K",
       "posted_at": "2026-09-09T15:03:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356511",
@@ -401,7 +457,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.3K",
+      "views_label": "40.3K",
       "posted_at": "2026-09-09T14:49:40+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356510",
@@ -457,7 +513,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "41.4K",
+      "views_label": "42.4K",
       "posted_at": "2026-09-09T14:29:47+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356508",
@@ -485,7 +541,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38.2K",
+      "views_label": "39.3K",
       "posted_at": "2026-09-09T14:27:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356507",
@@ -2669,62 +2725,6 @@
       "posted_at": "2026-09-09T02:08:06+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356427",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356426",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "آسوشیتدپرس گزارش داد آمریکا، بریتانیا، فرانسه و آلمان پیش‌نویس قطعنامه‌ای برای ارجاع پرونده هسته‌ای ایران به شورای امنیت سازمان ملل به‌دلیل عدم پایبندی تهران به تعهدات منع اشاعه آماده کرده‌اند.<br><br>این پیش‌نویس هنوز رسما به شورای حکام آژانس بین‌المللی انرژی اتمی ارائه نشده و مذاکرات درباره متن آن ادامه دارد. در صورت ارائه، قطعنامه هفته آینده در نشست شورای حکام در وین به رای گذاشته خواهد شد.<br><br>پیش‌نویس از رافائل گروسی، مدیرکل آژانس، می‌خواهد قطعنامه را برای شورای امنیت و مجمع عمومی سازمان ملل ارسال کند و هم‌زمان بر حمایت از راه‌حل دیپلماتیک برای برنامه هسته‌ای ایران تاکید دارد.<br><br>آسوشیتدپرس نوشت جمهوری اسلامی پس از حملات خرداد ۱۴۰۴ به بازرسان آژانس اجازه دسترسی به سایت‌های هسته‌ای آسیب‌دیده را نداده و وضعیت ۴۴۰.۹ کیلوگرم اورانیوم غنی‌شده تا سطح ۶۰ درصد نیز راستی‌آزمایی نشده است.<br><br>آژانس هشدار داده ادامه نبود دسترسی بازرسان یک «خطر اشاعه» ایجاد می‌کند که باید «با نهایت فوریت» به آن رسیدگی شود.<br><br><a href=\"https://iranintl.com/202609092245\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609092245</a>",
-      "plain_text": "آسوشیتدپرس گزارش داد آمریکا، بریتانیا، فرانسه و آلمان پیش‌نویس قطعنامه‌ای برای ارجاع پرونده هسته‌ای ایران به شورای امنیت سازمان ملل به‌دلیل عدم پایبندی تهران به تعهدات منع اشاعه آماده کرده‌اند.\n\nاین پیش‌نویس هنوز رسما به شورای حکام آژانس بین‌المللی انرژی اتمی ارائه نشده و مذاکرات درباره متن آن ادامه دارد. در صورت ارائه، قطعنامه هفته آینده در نشست شورای حکام در وین به رای گذاشته خواهد شد.\n\nپیش‌نویس از رافائل گروسی، مدیرکل آژانس، می‌خواهد قطعنامه را برای شورای امنیت و مجمع عمومی سازمان ملل ارسال کند و هم‌زمان بر حمایت از راه‌حل دیپلماتیک برای برنامه هسته‌ای ایران تاکید دارد.\n\nآسوشیتدپرس نوشت جمهوری اسلامی پس از حملات خرداد ۱۴۰۴ به بازرسان آژانس اجازه دسترسی به سایت‌های هسته‌ای آسیب‌دیده را نداده و وضعیت ۴۴۰.۹ کیلوگرم اورانیوم غنی‌شده تا سطح ۶۰ درصد نیز راستی‌آزمایی نشده است.\n\nآژانس هشدار داده ادامه نبود دسترسی بازرسان یک «خطر اشاعه» ایجاد می‌کند که باید «با نهایت فوریت» به آن رسیدگی شود.\n\nhttps://iranintl.com/202609092245",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356426",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/fEW2UjK6Nt916IGqS8QYwg2Z0orwmf_peolM0STD1XCMkybsBUlJbt5STJzJgxEKWQ9pU8KFUjg3E4IRNU_G4XjrAaYmCNbArHBF4Sq3tCeNn8G7G0WJZyabV6C0xGqoKCJri-kPYtpD9HCuD70o4DYaM6HzWLW0GLkBDHaIjOnXRy2BQJwuk1zJPTDMzv8pKRIggC-6YD01oE71oqaQDIcoiDYoD8XQL4WkQeqd3GgYiMPHQqtQdd6dr1nE_SCy19AsVq_zmqryDz7xjlv15ibHA-v6FXiJAyoiCvA9k8rpgh0DYyuIAw1kosgGyEOWm7bPuRjvv3QU0dRto4thmA.jpg",
-          "thumbnail_path": "channels/iranintltv/media/63763533e9620a6231f5fc15.jpg",
-          "thumbnail_sha256": "3d926e7ffaa8d0010220e4a2be7f40639a9fc59af94fae8e70e07251018fc14b",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "66.3K",
-      "posted_at": "2026-09-09T02:02:12+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356426",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356425",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "در پی دور تازه درگیری‌ها میان آمریکا و جمهوری اسلامی، قیمت نفت برای چهارمین روز متوالی افزایش یافت و به نزدیکی ۱۰۰ دلار در هر بشکه رسید.<br><br>پس از اعلام آمریکا درباره انهدام پنج نفتکش مرتبط با سپاه پاسداران در واکنش به حملات موشکی ناموفق به دو ناو جنگی این کشور، بهای نفت برنت با ۱.۶ درصد افزایش به ۹۹.۴۹ دلار و نفت وست تگزاس اینترمدیت با ۱.۷۲ درصد افزایش به ۹۴.۶۳ دلار در هر بشکه رسید.<br><br>سپاه پاسداران نیز اعلام کرد یک پایگاه آمریکا در اردن را هدف حمله موشکی قرار داده است.<br><br>دان استروین، رییس مشترک بخش تحقیقات جهانی کالاها در گلدمن ساکس، گفت تشدید درگیری و افزایش حملات به کشتیرانی، احتمال جهش قیمت نفت برنت به بالای ۱۲۰ دلار را افزایش داده است.<br><br>نیویورک‌تایمز نیز گزارش داد میانگین عبور روزانه نفت از تنگه هرمز در هفت روز منتهی به ۱۲ شهریور، با وجود حفاظت ارتش آمریکا، ۶۰ درصد کمتر از پیش از جنگ بوده است.<br><br><a href=\"https://iranintl.com/202609090312\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609090312</a>",
-      "plain_text": "در پی دور تازه درگیری‌ها میان آمریکا و جمهوری اسلامی، قیمت نفت برای چهارمین روز متوالی افزایش یافت و به نزدیکی ۱۰۰ دلار در هر بشکه رسید.\n\nپس از اعلام آمریکا درباره انهدام پنج نفتکش مرتبط با سپاه پاسداران در واکنش به حملات موشکی ناموفق به دو ناو جنگی این کشور، بهای نفت برنت با ۱.۶ درصد افزایش به ۹۹.۴۹ دلار و نفت وست تگزاس اینترمدیت با ۱.۷۲ درصد افزایش به ۹۴.۶۳ دلار در هر بشکه رسید.\n\nسپاه پاسداران نیز اعلام کرد یک پایگاه آمریکا در اردن را هدف حمله موشکی قرار داده است.\n\nدان استروین، رییس مشترک بخش تحقیقات جهانی کالاها در گلدمن ساکس، گفت تشدید درگیری و افزایش حملات به کشتیرانی، احتمال جهش قیمت نفت برنت به بالای ۱۲۰ دلار را افزایش داده است.\n\nنیویورک‌تایمز نیز گزارش داد میانگین عبور روزانه نفت از تنگه هرمز در هفت روز منتهی به ۱۲ شهریور، با وجود حفاظت ارتش آمریکا، ۶۰ درصد کمتر از پیش از جنگ بوده است.\n\nhttps://iranintl.com/202609090312",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/356425",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/poRM8bIELUJyS5nbX-DD5u_-fOsMljWiizt-NUoAdznU6RkW-2DmJjyulGV0uosNgZ-tbzuMD07opCcSI2ldd-Oo1BbL0DRZB0x5uEYELbjovs3TpBwUNGfwckSlNlao7_ZYuGJoebEcaQz4MmRoFHRUgp2RtCT1eQQwDVUACJ6QYsjjQucoBht5VKhy0HguET3r5IlHzK9v0PGTQzMAZtP2Bs564ryk-hBay9X08Jspv1FIqq7YrpRs3x5OgKXM6cSxzNzpBJEnG6jURzVmB4yPxM_3yQZCYx6M5cHSwX98P3HU2aGi43b_5Q15l7-KXffChQmKgIPbLwMYFUfzoA.jpg",
-          "thumbnail_path": "channels/iranintltv/media/ad6bd85a93000d5e2a1bf519.jpg",
-          "thumbnail_sha256": "7d1a559fec87f6bc5a81f7367c722a5d70855133ebf594c8c6728ca0aeb11a19",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "63.2K",
-      "posted_at": "2026-09-09T01:54:24+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356425",
       "reply": null
     }
   ]

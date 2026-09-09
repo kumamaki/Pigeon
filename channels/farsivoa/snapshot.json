@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T16:31:41.820Z",
+  "fetched_at": "2026-09-09T16:36:38.418Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,62 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/230002",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "ایمان آقایاری، تحلیلگر سیاسی در میدان: وقتی هیچ نهاد و سازمانی برای شفاف‌سازی و پرسش‌گری از بخش‌های متخلف که ریشه در حاکمیت دارند وجود ندارد، جلوگیری از فساد معنی ندارد!",
+      "plain_text": "ایمان آقایاری، تحلیلگر سیاسی در میدان: وقتی هیچ نهاد و سازمانی برای شفاف‌سازی و پرسش‌گری از بخش‌های متخلف که ریشه در حاکمیت دارند وجود ندارد، جلوگیری از فساد معنی ندارد!",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/230002",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/ZSgZZtW4flnu0CS110sUdYU5Eur0IM2isQa_eXnEHXXBERLYX7ulRziX5mUzGsfqMDRteaPpfBDwEGumUDiuTi7K9STw3-g2tGJUZw-MJuLw3O9KI6Uw5cS9gi7bv9X94HWuaj2tfveeyB7EewuZh39-kfwO6zG5HDPNyjxGGzZEQ8G31FYSvokSlgbCSmSm-NMIaouWxJ0AztDbVYNLtuHFJvTHedv-rz39y24EVMUbSLvQm1qipybG6nmRTi7Sk9aF5SCpAO-ErJl97lc3qz959BKFeI-f3Eqzo_SMzf4HdmgZito8-RYcdRA_LM-FEfC-2Qd1oytahXbSep0wPA",
+          "thumbnail_path": "channels/farsivoa/media/808068e132c04bfae9e99a90.jpg",
+          "thumbnail_sha256": "1b9db3bba64cc65ee45f40aaa9e8ba7f9d0ca6dbf7b0cda988bb18a46ce2b680",
+          "duration_label": "1:43",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-09T16:36:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/230002",
+      "reply": null
+    },
+    {
+      "id": "farsivoa/230001",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>شورای حکام آژانس جمهوری اسلامی را به دلیل نقض تعهدات هسته‌ایش به شورای امنیت گزارش می‌کند.<br> <br>خبرگزاری رویترز روز چهارشنبه ۱۸ شهریور به نقل از «دیپلمات‌ها» گزارش داد که شورای حکام آژانس بین‌المللی انرژی اتمی روز قطعنامه‌ای را تصویب کرد که بر اساس آن جمهوری اسلامی به دلیل نقض تعهداتش در زمینه منع گسترش سلاح‌های هسته‌ای، به شورای امنیت سازمان ملل گزارش می‌شود.",
+      "plain_text": "⚡️شورای حکام آژانس جمهوری اسلامی را به دلیل نقض تعهدات هسته‌ایش به شورای امنیت گزارش می‌کند.\n\nخبرگزاری رویترز روز چهارشنبه ۱۸ شهریور به نقل از «دیپلمات‌ها» گزارش داد که شورای حکام آژانس بین‌المللی انرژی اتمی روز قطعنامه‌ای را تصویب کرد که بر اساس آن جمهوری اسلامی به دلیل نقض تعهداتش در زمینه منع گسترش سلاح‌های هسته‌ای، به شورای امنیت سازمان ملل گزارش می‌شود.",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/230001",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/rdAaclbTbRQ74pyWnDKzjk3MY4lkBa9KwQdlR8V63BnSOucS1CIlCuVstTT5duf5b1r7jRF5Gtm9_eDJPWunuVKDZ85rU3SM93bYY6BwALF8n09gy-TQd1KTsmRvYtbtaUgQAvmtWmx7N_Mh3cz8xldr8JofHtsnG3ydBt7Wo_o5G4cEHhQ5wTyOFKtNbeQ9aek413H54v_c0Mt8gpThx9I3jJ1THojz2t-hBNh6f-mbHh0IzosvzLlFqTdWPm-m_w-M7ZJAK3Iz5v1kyT23BvT2LOj4evHNMrOkYkO_ukCVtpfV4GBaBk74NNTQ5G0qFVwPX3Zd3a-tT3sezA_5cw.jpg",
+          "thumbnail_path": "channels/farsivoa/media/c68dff74fe058f88a9341ed3.jpg",
+          "thumbnail_sha256": "049d4a74ecc805ad20d78527dfdd2fcac303ceddae2de822011ee2a395a8730d",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "201",
+      "posted_at": "2026-09-09T16:34:50+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/230001",
+      "reply": null
+    },
     {
       "id": "farsivoa/230000",
       "author_name": "Farsi VOA",
@@ -33,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "351",
+      "views_label": "577",
       "posted_at": "2026-09-09T16:25:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230000",
@@ -61,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "414",
+      "views_label": "609",
       "posted_at": "2026-09-09T16:23:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229999",
@@ -89,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "820",
+      "views_label": "950",
       "posted_at": "2026-09-09T16:13:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229998",
@@ -105,7 +161,7 @@
       "plain_text": "🔺نتانیاهو: کار اصلی ما شکست دادن «رژیم تروریستی جمهوری اسلامی» است و بسیار به آن نزدیک هستیم\n\n▪️نخست وزیر اسرائیل روز چهارشنبه ۱۸ شهریور در پیامی تصویری از یک پایگاه نظامی مشرف به سوریه بر بلندای کوه‌های هرمون گفت کار اصلی اسرائیل شکست دادن «رژیم تروریستی ایران» است، و اسرائیل به انجام آن کار متعهد و به آن هدف نزدیک است و آن را «انجام خواهیم داد.»\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/netanyahu-says-israel-will-defeat-iranian-regime/8196031.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.2K",
+      "views_label": "1.32K",
       "posted_at": "2026-09-09T16:06:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229997",
@@ -133,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.11K",
+      "views_label": "1.2K",
       "posted_at": "2026-09-09T16:04:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229996",
@@ -161,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.59K",
+      "views_label": "1.66K",
       "posted_at": "2026-09-09T15:49:45+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229995",
@@ -177,7 +233,7 @@
       "plain_text": "🔺پرزیدنت ترامپ مصاحبه‌ای درباره تاثیر فشار اقتصادی بر رژیم ایران را بازنشر کرد\n\n▪️دونالد ترامپ، رئیس جمهوری آمریکا، روز چهارشنبه ۱۸ شهریور مصاحبه فاکس نیوز با فیل فلین، تحلیلگر و معامله‌گر بازار نفت، درباره فشارهای اقتصادی بر جمهوری اسلامی و چشم‌انداز بقای حکومت ایران را در تروت سوشال بازنشر کرد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/president-trump-posted-interview-on-iran-economic-pressure/8196026.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.77K",
+      "views_label": "1.86K",
       "posted_at": "2026-09-09T15:43:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229994",
@@ -205,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.98K",
+      "views_label": "2.04K",
       "posted_at": "2026-09-09T15:31:16+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229993",
@@ -221,7 +277,7 @@
       "plain_text": "🔺دیدار وزیر خارجه آمریکا با مقامات اکوادور در جریان سفری با هدف تقویت روابط امنیتی و اقتصادی\n\n▪️مارکو روبیو، وزیر امور خارجه آمریکا، روز چهارشنبه ۱۸ شهریور در شهر کیتو با دانیل نوبوا، رئیس‌جمهوری اکوادور، دیدار می‌کند. این دیدار بخشی از یک سفر دوره‌ای به سه کشور آمریکای لاتین کلمبیا، اکوادور، و پرو است که با هدف تقویت روابط امنیتی و اقتصادی انجام می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/marco-rubio-trip-to-three-latin-american-countries/8196022.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.2K",
+      "views_label": "2.27K",
       "posted_at": "2026-09-09T15:22:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229992",
@@ -249,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.74K",
+      "views_label": "2.78K",
       "posted_at": "2026-09-09T14:37:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229991",
@@ -277,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.97K",
+      "views_label": "3.01K",
       "posted_at": "2026-09-09T14:23:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229990",
@@ -305,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.32K",
+      "views_label": "3.35K",
       "posted_at": "2026-09-09T14:02:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229989",
@@ -333,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.6K",
+      "views_label": "3.63K",
       "posted_at": "2026-09-09T13:40:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229988",
@@ -405,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.24K",
+      "views_label": "3.27K",
       "posted_at": "2026-09-09T13:07:16+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229985",
@@ -433,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.22K",
+      "views_label": "3.25K",
       "posted_at": "2026-09-09T12:57:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229984",
@@ -477,7 +533,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.15K",
+      "views_label": "3.19K",
       "posted_at": "2026-09-09T12:48:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229982",
@@ -2441,62 +2497,6 @@
       "posted_at": "2026-09-08T19:06:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229901",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229900",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "تبعات گرانی بنزین و افزایش قیمت‌ها؛ کوچکتر شدن آرزوهای مردم",
-      "plain_text": "تبعات گرانی بنزین و افزایش قیمت‌ها؛ کوچکتر شدن آرزوهای مردم",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229900",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/udAc3qtsDU1tSKkabwOYpt4S9mi6n8l2LNzH_Ktx8wqE5TAs0iVB1pBwGfJzwC8gfQqYQlM1gp_bQMgTRXG1kmvGuEi6LA-l79_pb_y8asEFuNokB0EdurtoReepsd3xU8t3wZQcphODqOnyndLtU3pf7nn3wf0po1IKuhyThwXz2WQ0zs058IVAn09WIwhNQVufbtYJ49lErnOkzA6jlwH0YId7DAz-Xc7_Pb5NhljTE9AnDWoBePqFVXmyhnrUAI9RdZUEJMUlEsaCAgJfGPZShOjoeCQg3MX2eTU9aUlDrMc8n0qreoIPUcv8Cog5mh7LuMeVFlbVOeLGBqEy5w",
-          "thumbnail_path": "channels/farsivoa/media/464b8820597e886f34408953.jpg",
-          "thumbnail_sha256": "2a1ae4a6688d1f3529769b3820e8cd72ed9bf8848072ea31ce4cdc7bb77c7b48",
-          "duration_label": "4:29",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.48K",
-      "posted_at": "2026-09-08T18:58:36+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229900",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229899",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "گزارش‌هایی از ادامه فشار بر روزنامه‌نگاران، فعالان مدنی و دانشجویان منتشر شده است؛ از ادامه نگهداری رضا ولی‌زاده در اوین و بازنگرداندن وسایل و مدارکش، تا احکام زندان و اخراج دانشجویان و تحصن اسماعیل بخشی برای بازگشت به کار.",
-      "plain_text": "گزارش‌هایی از ادامه فشار بر روزنامه‌نگاران، فعالان مدنی و دانشجویان منتشر شده است؛ از ادامه نگهداری رضا ولی‌زاده در اوین و بازنگرداندن وسایل و مدارکش، تا احکام زندان و اخراج دانشجویان و تحصن اسماعیل بخشی برای بازگشت به کار.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229899",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/j05Y5s9ugK-XH2ZrPwE8uz4OIPoad9zpM6OvHxWCtjdJ9CrOD5Us6Ng0boTiLIOs4veGMRH48Er3cT0qGJzzy6CPQeo1Z_HUkkIfQHEsdFU8FYBqwrwLgdzVnkFxAtNJF_ZC2kD2V4MsqrLNE65csFeQMe6nQyAmuDC-lCZA3a2qdSmy5LBrnvax7FcSVPvbShwjQhEqi5bf7UMuvGkahZeE4dtoiKsmx38CKysHY2d_HTZqfFA73bxFrKavJQfT0iJp2GgyIwv-TXmzcpMyQdPL8u3mwgmfGGQ4K-q80LdwzfYbAsZzy8Y-u-V81nnpno31vxZ9Gzw6N7CR2No2kQ",
-          "thumbnail_path": "channels/farsivoa/media/ff211c12d9cea0f4dd73a31e.jpg",
-          "thumbnail_sha256": "e32ac9a211086e95f07dd3b6ae54cf1ef1ad4836e6025397562207a230a2b20f",
-          "duration_label": "2:55",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.55K",
-      "posted_at": "2026-09-08T18:52:45+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229899",
       "reply": null
     }
   ]
