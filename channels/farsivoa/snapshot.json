@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T08:12:44.861Z",
+  "fetched_at": "2026-09-09T08:16:41.995Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229959",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "خبرگزاری ملی لبنان گزارش داد توپخانه اسرائیل حومه شهرک قبریخا در شهرستان مرجعیون در جنوب لبنان را گلوله‌باران می‌کند.<br><br>این خبرگزاری اطلاعاتی درباره تلفات یا خسارت منتشر نکرده است.<br><br>نیروهای اسرائیل شامگاه سه‌شنبه نیز جنگل‌های مجاور همین شهرک را با مسلسل سنگین به گلوله بستند و دره‌های السلوقی و الحجیر را با توپخانه هدف گرفتند.<br><br>حملات در ادامه موج تشدید یک هفته گذشته در جنوب لبنان انجام می‌شود. حملات بامداد دوشنبه به شهرک کفررمان دست‌کم ۱۱ کشته بر جای گذاشت.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "خبرگزاری ملی لبنان گزارش داد توپخانه اسرائیل حومه شهرک قبریخا در شهرستان مرجعیون در جنوب لبنان را گلوله‌باران می‌کند.\n\nاین خبرگزاری اطلاعاتی درباره تلفات یا خسارت منتشر نکرده است.\n\nنیروهای اسرائیل شامگاه سه‌شنبه نیز جنگل‌های مجاور همین شهرک را با مسلسل سنگین به گلوله بستند و دره‌های السلوقی و الحجیر را با توپخانه هدف گرفتند.\n\nحملات در ادامه موج تشدید یک هفته گذشته در جنوب لبنان انجام می‌شود. حملات بامداد دوشنبه به شهرک کفررمان دست‌کم ۱۱ کشته بر جای گذاشت.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229959",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/iRerFUff1NMlNblYI3bsypiu4jtv_HfSUXswVvD-hBp9bU6QxfvzhPN1_s3WzIbamiYRv1sSo3JVSJEYKIVTHDVDPCCA6jSdQ7-wBns6jGB2zeRmHe3i4gg4nClXfRVwgdRBCOm8nXezZTJUSrOX3QOT1wGYEj3ogsDufmxAcc4OnwEYnMnTPEmQDeDn2g_F0Bn8XPTRoIQIp44GnjA0tqx6_8FNwLG3KIbkNNumD9syC75_7LqPgc2U7ftiMsBU0TC9cieElvZtnenySX9tk0u2rEWFlSkUbYnkd9ukZ7i4IhinX4ItaU1Gh_wzrTN-BLtHm937UUFd4-wCnB8EXg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/7443165086c90047ea8ebdb4.jpg",
+          "thumbnail_sha256": "0a50fa405720f9be35203ff6ce3dbce4d901ac74d72eb14d59907ebdda1e0568",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "186",
+      "posted_at": "2026-09-09T08:14:31+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229959",
+      "reply": null
+    },
     {
       "id": "farsivoa/229958",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "376",
+      "views_label": "531",
       "posted_at": "2026-09-09T08:05:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229958",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "717",
+      "views_label": "872",
       "posted_at": "2026-09-09T07:55:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229957",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.19K",
+      "views_label": "1.29K",
       "posted_at": "2026-09-09T07:41:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229956",
@@ -105,7 +133,7 @@
       "plain_text": "🔺حمله پهپادی روسیه به گذرگاه مرزی اوکراین و مولداوی\n\n▪️پهپادهای روسیه شامگاه سه‌شنبه گذرگاه مرزی میان اوکراین و مولداوی را هدف قرار دادند و چندین کشته، زخمی و آتش‌سوزی بر جای گذاشتند.\n\n▪️روسیه شامگاه گذشته کی‌یف را نیز هدف گرفت. سازمان خدمات اضطراری اوکراین در تلگرام اعلام کرد حمله آتش‌سوزی ایجاد کرد اما تلفاتی نداشت.\n\n▪️بر پایه اعلام وزارت زیرساخت اوکراین، روسیه ظرف یک هفته گذشته چهار بار گذرگاه‌های مرزی جنوب این کشور را مورد حمله قرار داده است. گذرگاه تاباکی-میرنویه با مولداوی در میان اهداف بود و زیرساخت آنجا ویران شد.\n\n▪️حمله شامگاه دوشنبه به پایتخت اوکراین مرگبارتر بود. بر پایه گزارش کی‌یف ایندیپندنت، این حمله پنج کشته و ۲۹ زخمی بر جای گذاشت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195977.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.45K",
+      "views_label": "1.54K",
       "posted_at": "2026-09-09T07:28:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229955",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.65K",
+      "views_label": "1.74K",
       "posted_at": "2026-09-09T07:17:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229954",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.02K",
+      "views_label": "2.05K",
       "posted_at": "2026-09-09T07:02:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229952",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.09K",
+      "views_label": "2.15K",
       "posted_at": "2026-09-09T06:52:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229951",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.29K",
+      "views_label": "2.32K",
       "posted_at": "2026-09-09T06:36:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229950",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.61K",
+      "views_label": "2.64K",
       "posted_at": "2026-09-09T06:18:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229949",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.76K",
+      "views_label": "2.79K",
       "posted_at": "2026-09-09T06:07:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229948",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.22K",
+      "views_label": "3.25K",
       "posted_at": "2026-09-09T05:31:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229946",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.25K",
+      "views_label": "3.28K",
       "posted_at": "2026-09-09T05:20:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229945",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.53K",
+      "views_label": "3.57K",
       "posted_at": "2026-09-09T05:11:43+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229944",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.88K",
+      "views_label": "5.91K",
       "posted_at": "2026-09-09T02:31:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229943",
@@ -441,7 +469,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.79K",
+      "views_label": "5.82K",
       "posted_at": "2026-09-09T02:29:15+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229942",
@@ -2481,34 +2509,6 @@
       "posted_at": "2026-09-08T13:18:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229858",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229857",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "نخست‌وزیر پاکستان حمله حوثی‌ها به تأسیسات غیرنظامی و انرژی در عربستان سعودی را «بزدلانه» خواند و به‌شدت محکوم کرد.<br><br>شهباز شریف در شبکه ایکس نوشت: «با شدیدترین لحن، حمله بزدلانه حوثی‌ها به تأسیسات غیرنظامی و انرژی در پادشاهی عربستان سعودی را که شمار زیادی را زخمی کرده محکوم می‌کنم.»<br><br>او افزود: «پاکستان با استواری در همبستگی با ملک سلمان، ولیعهد شاهزاده محمد بن سلمان و مردم برادر عربستان سعودی می‌ایستد.»<br><br>شریف تأکید کرد: «چنین حملات ناجوانمردانه‌ای جان بی‌گناهان و نیز صلح و امنیت منطقه‌ای را تهدید می‌کند. پشتیبانی پابرجای خود را از حاکمیت، امنیت و تمامیت ارضی پادشاهی تکرار می‌کنیم.»",
-      "plain_text": "نخست‌وزیر پاکستان حمله حوثی‌ها به تأسیسات غیرنظامی و انرژی در عربستان سعودی را «بزدلانه» خواند و به‌شدت محکوم کرد.\n\nشهباز شریف در شبکه ایکس نوشت: «با شدیدترین لحن، حمله بزدلانه حوثی‌ها به تأسیسات غیرنظامی و انرژی در پادشاهی عربستان سعودی را که شمار زیادی را زخمی کرده محکوم می‌کنم.»\n\nاو افزود: «پاکستان با استواری در همبستگی با ملک سلمان، ولیعهد شاهزاده محمد بن سلمان و مردم برادر عربستان سعودی می‌ایستد.»\n\nشریف تأکید کرد: «چنین حملات ناجوانمردانه‌ای جان بی‌گناهان و نیز صلح و امنیت منطقه‌ای را تهدید می‌کند. پشتیبانی پابرجای خود را از حاکمیت، امنیت و تمامیت ارضی پادشاهی تکرار می‌کنیم.»",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229857",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/vkTXjAWusOPIhfR4XQKyp75oUOX9XbSNocr29KFBpcnJAA-u_DaTTl4GvQ7XrhmZVAtoCx2fsqg_U0nTaW_s29ZzUI7BBe0usY7f2o1XJzwTN7yEsENoST5a7zG8Cod2b6x4W0Nhm0-q2Tq1YTLjIceoLZfI3YaUIvB-nD1uECdTM2DqzC4MOF_2Qyg8ns866zhxhRtiygVXp3bW3QIGYI5XDvCe3IHi4XjYZIO71RurokB4CQJHRSl-hZcwL9nu5lIevBJ9-CBmtOeCx-epYZrZVBlNwzJSPAnrUxycL8lZXHjNd30Cf1KBbIbR7WJDTvlA40xHghbLLK89lWztRQ.jpg",
-          "thumbnail_path": "channels/farsivoa/media/0d743b1cccc027a69a849cc0.jpg",
-          "thumbnail_sha256": "39869c2d61c8bed333feca983da25f31a7d1d6bd911ff7f0ea027f5460cb54f6",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.57K",
-      "posted_at": "2026-09-08T13:10:48+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229857",
       "reply": null
     }
   ]
