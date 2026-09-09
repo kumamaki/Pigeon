@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T15:01:49.656Z",
+  "fetched_at": "2026-09-09T15:06:51.130Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356511",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "ویدیویی رسیده نشان می‌دهد که رودخانه شمرود در محدوده دهستان مالفجان شهرستان سیاهکل طغیان کرد.",
+      "plain_text": "ویدیویی رسیده نشان می‌دهد که رودخانه شمرود در محدوده دهستان مالفجان شهرستان سیاهکل طغیان کرد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/356511",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/TI4XjIpRpF4-h7YmgWhAKQWXYR66afsNtJtvVaQEkUzsjrzAFnAravctrEVPRC9OU5pFDRvXApaG4OEh6E0apDIWQYWny1rYiVJl8SbQZiwl4nTh4WIsoNwBRK4fvGCww344H2S53LXWvv_boTR8wFIk2bRwLLq_4JKccuEwiBL6w1gkxmEUV8cCZFwoYWaB5t74J_XhyDGK3vnaItgxBfE986PT2NI3u2Cnw2FsVf7kyLWMS4l1Sbcj4TGAa1Yj4d1BdXD9lB3NhwLXIz7Qf4vrEo6IfE9KazPT7-Ae84sNXvRm1pyvucua8gy3E-jBlG22Gh3Y7yH-j2_XH4Vc1A",
+          "thumbnail_path": "channels/iranintltv/media/099133874e3ef54ff38812da.jpg",
+          "thumbnail_sha256": "7e6d330811786c1be786c22dd69153585673def02f2923bdfc3ae1d5015167e0",
+          "duration_label": "0:22",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "3.21K",
+      "posted_at": "2026-09-09T15:03:09+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356511",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356510",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.58K",
+      "views_label": "12.8K",
       "posted_at": "2026-09-09T14:49:40+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356510",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.1K",
+      "views_label": "20.3K",
       "posted_at": "2026-09-09T14:32:17+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356509",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.1K",
+      "views_label": "21.2K",
       "posted_at": "2026-09-09T14:29:47+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356508",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17K",
+      "views_label": "19.1K",
       "posted_at": "2026-09-09T14:27:27+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356507",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.3K",
+      "views_label": "24.4K",
       "posted_at": "2026-09-09T14:15:02+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356506",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "26.4K",
+      "views_label": "27.6K",
       "posted_at": "2026-09-09T14:06:28+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356505",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.5K",
+      "views_label": "27.6K",
       "posted_at": "2026-09-09T14:05:26+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356504",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "25.5K",
+      "views_label": "26.6K",
       "posted_at": "2026-09-09T14:01:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356503",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.8K",
+      "views_label": "30.8K",
       "posted_at": "2026-09-09T13:51:14+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356502",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "31.9K",
+      "views_label": "33K",
       "posted_at": "2026-09-09T13:41:23+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356501",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33K",
+      "views_label": "34.1K",
       "posted_at": "2026-09-09T13:36:45+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356500",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.9K",
+      "views_label": "34.1K",
       "posted_at": "2026-09-09T13:34:49+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356499",
@@ -369,7 +397,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.1K",
+      "views_label": "36.2K",
       "posted_at": "2026-09-09T13:24:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356498",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.1K",
+      "views_label": "35.2K",
       "posted_at": "2026-09-09T13:24:12+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356497",
@@ -425,7 +453,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "36.2K",
+      "views_label": "37.2K",
       "posted_at": "2026-09-09T13:12:09+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356496",
@@ -453,7 +481,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "39.3K",
+      "views_label": "40.4K",
       "posted_at": "2026-09-09T13:04:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356495",
@@ -481,7 +509,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.3K",
+      "views_label": "40.4K",
       "posted_at": "2026-09-09T12:57:30+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356494",
@@ -509,7 +537,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "44.6K",
+      "views_label": "45.6K",
       "posted_at": "2026-09-09T12:40:31+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356493",
@@ -537,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "44.5K",
+      "views_label": "44.6K",
       "posted_at": "2026-09-09T12:34:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356492",
@@ -2721,34 +2749,6 @@
       "posted_at": "2026-09-08T23:12:17+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356412",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356411",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/KVepqtUCIiKw_ZPNUX7JyCBLo8Gq863o2Fd10F2g8DT2Ugj_YBr0xVHBx97A6_F-ATqr5CJfHzpGaTj-_M-QpF15F1SO9RiHbx-21R6eQQ0CWGjlQqT8YynH1UwDcXbEoClAtsIKFOi9sNVTDgfq6FmMG1vxu1HaD_8A0-Dorb1vtTQkJ3V-9paf_4JfInzXd1cQUixDY4ziwsrSNgKBYUpRwgJFeCYCciGrydrdQEoO0Cth7D1QcfrN26DLUr72JgLRhA5Ue3YQ4S5d-SUb7t6s6TCeeeCBrxR8bQC8EQZvdbqtlwQ9wWO9SBGn8Dt_YawZ1XyevLfV1eQOhQRYrw.jpg",
-      "author_photo_path": "channels/iranintltv/media/760221b4ee22a71073891d5a.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "وعده خمینی تحقق یافت!<br><br>از سرقت خامه تا برنج و حبوبات<br><br>در هفته‌های اخیر، گزارش‌هایی درباره سرقت مواد غذایی منتشر شده است. بنا بر این گزارش‌ها، شماری از متهمان سابقه کیفری نداشته‌اند و برای نخستین بار، به اتهام سرقت پنیر، ماست، خامه یا روغن بازداشت شده‌اند. گزارش‌هایی نیز از قاپیدن گوشت از دست خریداران، سرقت ۱۵ تن برنج از انباری در شهرری و سرقت مسلحانه برنج و روغن از فروشگاه‌های ایرانشهر منتشر شده است.<br><br>کنار هم قرار گرفتن این خبرها، پرسشی تلخ را پیش می‌کشد: چه بر سر اقتصاد، سفره و کرامت مردم آمده است که غذا از سفره‌ها به پرونده‌های سرقت راه یافته است؟<br><br>کامبیز حسینی در «برنامه» به این موضوع می‌پردازد.<br><br>«یک ایران صدای شما را می‌شنود»<br><br>دوشنبه تا پنجشنبه، ۱۱ شب تهران<br><br>از تلویزیون ایران‌اینترنشنال<br><br>تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:<br><br><a href=\"https://youtu.be/DQcaNf1bkFo\" target=\"_blank\" rel=\"noopener\">https://youtu.be/DQcaNf1bkFo</a><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "وعده خمینی تحقق یافت!\n\nاز سرقت خامه تا برنج و حبوبات\n\nدر هفته‌های اخیر، گزارش‌هایی درباره سرقت مواد غذایی منتشر شده است. بنا بر این گزارش‌ها، شماری از متهمان سابقه کیفری نداشته‌اند و برای نخستین بار، به اتهام سرقت پنیر، ماست، خامه یا روغن بازداشت شده‌اند. گزارش‌هایی نیز از قاپیدن گوشت از دست خریداران، سرقت ۱۵ تن برنج از انباری در شهرری و سرقت مسلحانه برنج و روغن از فروشگاه‌های ایرانشهر منتشر شده است.\n\nکنار هم قرار گرفتن این خبرها، پرسشی تلخ را پیش می‌کشد: چه بر سر اقتصاد، سفره و کرامت مردم آمده است که غذا از سفره‌ها به پرونده‌های سرقت راه یافته است؟\n\nکامبیز حسینی در «برنامه» به این موضوع می‌پردازد.\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه، ۱۱ شب تهران\n\nاز تلویزیون ایران‌اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/DQcaNf1bkFo\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356411",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/brDHGgUs0Z9lMLE_kLfXA9JJ3wRT4DfPQQGNm0GwjSK8aVbVsJ7zwcMiD8o8Jril7fVoWg25SNa4IIqmNL3zCuaGk3rkFgWy64pIuhB8KfKCPx5oMO3n0mxFkmsxEAmMBw4Xd1OeQaQaIsQ0esSUiYbgQTWD3cFB0uIUqDBUWHRpXkx8vo1k3M5THHBmW3u_9YmT8fJFvbBzU6blUDzdw-tY82VP-wlzLwp8JWw0vGHtLl_7CDtregGQgs4V-gMFVlrWQObj5e9II6u3GFhV-__NOxUlMZZ15_rxH1j98YAIYPEKFZYA1UI-F0TLqoqFPqKWDzXWpZmTncU-0piXEA",
-          "thumbnail_path": "channels/iranintltv/media/365fbb69e86a3264da471000.jpg",
-          "thumbnail_sha256": "cf053fe0397e91a9aeafe544961115ee5fc922a7c6f5f986d0bfc526e1fb5eae",
-          "duration_label": "8:01",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "17.2K",
-      "posted_at": "2026-09-08T23:01:56+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356411",
       "reply": null
     }
   ]
