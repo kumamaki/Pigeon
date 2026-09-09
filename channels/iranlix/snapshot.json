@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T08:28:17.851Z",
+  "fetched_at": "2026-09-09T08:31:38.676Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12770",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/u689_rYO5BvRoLGHUqeS748ZHihd5W8tmUKeKKLLRiCouTN2NBT332edoyj8v5k5o8rEYQ8nmcM7OaCQjQMgIVATAaycdA6ywFgN11S0cyo7c1sf-_dJslYen0uOj7OrQw465QP6ysxLlEgMPuLplxph7uoL2g3_vZ_PSHq_C_QXhwiyiKK0nhvTkvUA52QzghrG4N0CcdROanb-YIIsuM4XnLZoUENqcREbi8lr_0qLaWnTcs2vXJ2wKbXwKZXafH1NX3IXlutBl-tuBoxdGvKU-iLTBqCQSJ60KxXrOwlA7R4FjhdZXrOXbRkAURl9NQ775b6oWxhdgfydK_E5Xg.jpg",
+      "author_photo_path": "channels/iranlix/media/11a3f1a47603e8b665d47093.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>سی‌ان‌ان: عربستان در حال آماده‌سازی برای پاسخ به حوثی‌هاست</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>یک منبع آگاه به CNN گفت ریاض پس از حملات گسترده حوثی‌های مورد حمایت ج.ا به تأسیسات و مناطق جنوبی عربستان، در حال آماده‌سازی برای پاسخ نظامی است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>این منبع افزود عربستان با سنتکام درباره گام‌های بعدی هماهنگ کرده و متحدان اروپایی خود را نیز در جریان برنامه‌هایش قرار داده است.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "♦️سی‌ان‌ان: عربستان در حال آماده‌سازی برای پاسخ به حوثی‌هاست\n\n🔸یک منبع آگاه به CNN گفت ریاض پس از حملات گسترده حوثی‌های مورد حمایت ج.ا به تأسیسات و مناطق جنوبی عربستان، در حال آماده‌سازی برای پاسخ نظامی است.\n\n🔸این منبع افزود عربستان با سنتکام درباره گام‌های بعدی هماهنگ کرده و متحدان اروپایی خود را نیز در جریان برنامه‌هایش قرار داده است.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/12770",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Z5UbmO7ee6Ok5yzVmNoXTZuk4XpwTvbJxCcR6GOU0zWrWBmReSqIN23OGh8ZXd-BlpQ0UvImbT-HmucqcBsyPguNY87BG2jByhxyDl0p_nvGEf3j_rscALRuLQY5vwRbN653S6NWhJ76kbf2XGPFcbel1p-rOxR0niVBRZTfuIqfBVxUuybhgzjRhmwzb1OfjCPM-3x4gCZB47jGbWBnYrIX_H9Agr78v3v7JKCR50uf0gwFE-CwpCYwLpgrky-f28WICLOS5kHnJ6xLZ2fix7NLtkO7CHEPN9cP9FGv0sElb7hzRub670Tj9kH2fGiCMTpEbiQoJhBRrFnl0Mgkrg.jpg",
+          "thumbnail_path": "channels/iranlix/media/172bb111f0b8146996669229.jpg",
+          "thumbnail_sha256": "d5666d769c88ce4abfda8b4124d20caf1e7207829faaf378c57dc6b55532fb17",
+          "duration_label": null,
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-09T08:31:16+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12770",
+      "reply": null
+    },
     {
       "id": "iranlix/12769",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "116",
+      "views_label": "138",
       "posted_at": "2026-09-09T08:18:56+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12769",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "159",
+      "views_label": "185",
       "posted_at": "2026-09-09T08:13:54+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12768",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "397",
+      "views_label": "409",
       "posted_at": "2026-09-09T07:21:17+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12767",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "576",
+      "views_label": "586",
       "posted_at": "2026-09-09T06:45:13+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12766",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "609",
+      "views_label": "617",
       "posted_at": "2026-09-09T06:30:57+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12765",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "662",
+      "views_label": "670",
       "posted_at": "2026-09-09T06:14:24+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12764",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "653",
+      "views_label": "661",
       "posted_at": "2026-09-09T06:02:49+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12763",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "742",
+      "views_label": "749",
       "posted_at": "2026-09-09T05:38:22+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12762",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "813",
+      "views_label": "815",
       "posted_at": "2026-09-09T05:00:20+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12761",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "902",
+      "views_label": "907",
       "posted_at": "2026-09-09T04:59:33+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12760",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "869",
+      "views_label": "871",
       "posted_at": "2026-09-09T04:37:40+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12759",
@@ -417,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.2K",
+      "views_label": "1.21K",
       "posted_at": "2026-09-08T22:23:55+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12755",
@@ -3052,34 +3080,6 @@
       "posted_at": "2026-09-07T03:19:38+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12651",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12650",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fMVnOc1uSucjuboT6V0k7ELXy0-AF7uXhfQKrT0ABzO4YzNvYVYnhQDl9twI5SD7s_WY23CPVzE1kCYrgwBE-c0afmMRE4w0x1v9fJg2JPujS6glrH0OikU9oZB7LN90gFgqsYvcd6hcSfUWJGw9K7p7qJGl0c1YSpXmSrRkUabxYJw4-0ABlI1K019Rc4i4hddSvcxPaBcfBxscaRfeZ2IAghENZ4crQZSKfSCyu-vReE4p-qu7FL3BVKVpjlewu9IH_c86Ie703hT2oR8BPw-_W35Ebf76o_in2_h7S0lirkU8mZyQ9oCUpBRTYO2xsEYmfY7qyRK21qYFBO7xfA.jpg",
-      "author_photo_path": "channels/iranlix/media/d6f23b233b51f82bbdb3cdba.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i><b>به گزارش رویترز، بنیامین نتانیاهو، نخست‌وزیر اسرائیل، دستور تخریب سکونتگاه‌های غیرمجاز شهرک‌نشینان در سراسر کرانه باختری را صادر کرده است.</b><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "🔹به گزارش رویترز، بنیامین نتانیاهو، نخست‌وزیر اسرائیل، دستور تخریب سکونتگاه‌های غیرمجاز شهرک‌نشینان در سراسر کرانه باختری را صادر کرده است.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/iranlix/12650",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/SwCLohsK8HkoSpU8oeN1CsNmKeRdLv_OsnBt1KoMlk0zMV1wu5JmtdIHiB5zcPD7wD_Pm-j5HUqDKv-H_IIK35w8R2iHeH5AiDDMQl04eYqcMK573Hf9nRH7IR26iXLqQVC6y4Jp_y__49lbGqYA805MvV8je-xLiOexgXNu1yKvxssR27Ob3pPYufQlIogFLqI6OAZjN6V0GFxREJJImaCWP0UMeJ11sl7Y9RbHO6sQiKEdSVsA9cWS8Hfltr4nTdgY7EkZ2gw90FwcnRiWBjzeBf3hX_6LuLBoAyFOM0g7Bko5nHc0VySlF7Kb9haoGXfGHgqCgKFU9UZNX_HfFg.jpg",
-          "thumbnail_path": "channels/iranlix/media/981694e9df359a0e02bf0acd.jpg",
-          "thumbnail_sha256": "b877348f1c39c8d14ed39864b314590ccfb729f2bcc2b22832248e174dbcd8f6",
-          "duration_label": null,
-          "aspect_ratio": 1.0188172043010706
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.33K",
-      "posted_at": "2026-09-06T22:08:12+00:00",
-      "edited": false,
-      "permalink": "https://t.me/iranlix/12650",
       "reply": null
     }
   ]
