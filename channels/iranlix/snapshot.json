@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T14:22:02.308Z",
+  "fetched_at": "2026-09-09T14:26:39.861Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -11,6 +11,34 @@
     "subscriber_count": "17.1K"
   },
   "posts": [
+    {
+      "id": "iranlix/12786",
+      "author_name": "ایرانلیکس",
+      "author_photo_url": "https://cdn4.telesco.pe/file/u689_rYO5BvRoLGHUqeS748ZHihd5W8tmUKeKKLLRiCouTN2NBT332edoyj8v5k5o8rEYQ8nmcM7OaCQjQMgIVATAaycdA6ywFgN11S0cyo7c1sf-_dJslYen0uOj7OrQw465QP6ysxLlEgMPuLplxph7uoL2g3_vZ_PSHq_C_QXhwiyiKK0nhvTkvUA52QzghrG4N0CcdROanb-YIIsuM4XnLZoUENqcREbi8lr_0qLaWnTcs2vXJ2wKbXwKZXafH1NX3IXlutBl-tuBoxdGvKU-iLTBqCQSJ60KxXrOwlA7R4FjhdZXrOXbRkAURl9NQ775b6oWxhdgfydK_E5Xg.jpg",
+      "author_photo_path": "channels/iranlix/media/11a3f1a47603e8b665d47093.jpg",
+      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i><b>آمریکا به‌دنبال استقرار تفنگداران دریایی در جزایر ایران در نزدیکی هرمز</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>طبق گزارشهای غیر رسمی آمریکا در حال بررسی استقرار تفنگداران دریایی در برخی جزایر خالی از سکنه ایران در اطراف تنگه هرمز است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>بر اساس این گزارش ها، در صورت اجرای طرح، جنگنده‌های F-35B مستقر روی ناو USS Tripoli از نیروهای آمریکایی پشتیبانی خواهند کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>هدف اعلام‌شده، ایجاد نقاط دیده‌بانی و مراکز لجستیکی برای نظارت بر تنگه هرمز و حفاظت از کشتی‌های تجاری عنوان شده است.<br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
+      "plain_text": "💢آمریکا به‌دنبال استقرار تفنگداران دریایی در جزایر ایران در نزدیکی هرمز\n\n🔸طبق گزارشهای غیر رسمی آمریکا در حال بررسی استقرار تفنگداران دریایی در برخی جزایر خالی از سکنه ایران در اطراف تنگه هرمز است.\n\n🔸بر اساس این گزارش ها، در صورت اجرای طرح، جنگنده‌های F-35B مستقر روی ناو USS Tripoli از نیروهای آمریکایی پشتیبانی خواهند کرد.\n\n🔸هدف اعلام‌شده، ایجاد نقاط دیده‌بانی و مراکز لجستیکی برای نظارت بر تنگه هرمز و حفاظت از کشتی‌های تجاری عنوان شده است.\n\n@iranlix",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/iranlix/12786",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/WJMjB9Bn3bT_wV9E4mTCmg1VmG-Vyo-X9jr67-1uAtMzW-EOjjZHDTliW2oGWgnmx9Mg6MfmQP9dF9CRNGQQW1okBs3Bxtd6Axh7Bi--l3TtwtK7lF998Nc1LQ6kjXNC8nN2MGl2dq0WYGlo4F7uw03XN-8WRgQpyZjs_2IQ-lXKykitue1Z83zHkSbJY8Rh_IuTT18IZ-H2JbH1ngVbeWR2MQHvglQDUraAnphNmzXlLjxT3vIYOcqvvjU9E4g1ajyH9kkF9MqTcTRsHdjx_A2zwrv1D1hyBDt_sdKO5tJDs0EeRkdj8Jz2iW4DYoCOpvwAw-Ud6hN4OwOilYONsg.jpg",
+          "thumbnail_path": "channels/iranlix/media/6f754ac230ac3ff260360805.jpg",
+          "thumbnail_sha256": "051c940bace0f839b287a0b779698efa9c9db625748949fb1de47ea14248e70a",
+          "duration_label": null,
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "27",
+      "posted_at": "2026-09-09T14:25:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/iranlix/12786",
+      "reply": null
+    },
     {
       "id": "iranlix/12785",
       "author_name": "ایرانلیکس",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "272",
+      "views_label": "306",
       "posted_at": "2026-09-09T13:48:58+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12785",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "539",
+      "views_label": "555",
       "posted_at": "2026-09-09T12:57:00+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12783",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "537",
+      "views_label": "557",
       "posted_at": "2026-09-09T12:55:50+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12782",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "496",
+      "views_label": "513",
       "posted_at": "2026-09-09T12:55:16+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12781",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "576",
+      "views_label": "588",
       "posted_at": "2026-09-09T12:31:07+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12780",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "593",
+      "views_label": "607",
       "posted_at": "2026-09-09T12:20:01+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12779",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "625",
+      "views_label": "636",
       "posted_at": "2026-09-09T12:05:46+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12778",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "689",
+      "views_label": "697",
       "posted_at": "2026-09-09T11:46:24+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12777",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "805",
+      "views_label": "816",
       "posted_at": "2026-09-09T11:09:26+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12776",
@@ -313,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "891",
+      "views_label": "896",
       "posted_at": "2026-09-09T10:32:13+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12775",
@@ -341,7 +369,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "974",
+      "views_label": "975",
       "posted_at": "2026-09-09T09:39:37+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12774",
@@ -408,7 +436,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "970",
+      "views_label": "972",
       "posted_at": "2026-09-09T08:48:44+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12771",
@@ -492,7 +520,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "947",
+      "views_label": "948",
       "posted_at": "2026-09-09T08:13:54+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12768",
@@ -3014,34 +3042,6 @@
       "posted_at": "2026-09-07T10:17:52+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12668",
-      "reply": null
-    },
-    {
-      "id": "iranlix/12667",
-      "author_name": "ایرانلیکس",
-      "author_photo_url": "https://cdn4.telesco.pe/file/fMVnOc1uSucjuboT6V0k7ELXy0-AF7uXhfQKrT0ABzO4YzNvYVYnhQDl9twI5SD7s_WY23CPVzE1kCYrgwBE-c0afmMRE4w0x1v9fJg2JPujS6glrH0OikU9oZB7LN90gFgqsYvcd6hcSfUWJGw9K7p7qJGl0c1YSpXmSrRkUabxYJw4-0ABlI1K019Rc4i4hddSvcxPaBcfBxscaRfeZ2IAghENZ4crQZSKfSCyu-vReE4p-qu7FL3BVKVpjlewu9IH_c86Ie703hT2oR8BPw-_W35Ebf76o_in2_h7S0lirkU8mZyQ9oCUpBRTYO2xsEYmfY7qyRK21qYFBO7xfA.jpg",
-      "author_photo_path": "channels/iranlix/media/d6f23b233b51f82bbdb3cdba.jpg",
-      "author_photo_sha256": "58714d71e5de463d1a08fb82318ed762817a3e589383c47d5438217ba2f7fa60",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A6.png')\"><b>♦️</b></i><b>ویدیوی منتسب به توقف تردد کامیون‌های ایرانی در مرز پاکستان</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>گزارش‌ها حاکی از آن است که پاکستان از ورود کامیون‌های تجاری ایران به خاک خود در مرز مشترک دو کشور جلوگیری کرده است.<br><br>این اقدام می‌تواند نشانه‌ای از آغاز موج جدید اجرای سخت‌گیرانه‌تر تحریم‌های بین‌المللی علیه ج.ا باشد.<br><br><blockquote><b>رفیقای باقر قالیباف، به دستور ارباب ترامپ ، بیلاخ بزرگی نصیب باقر کردند</b>.</blockquote><br><br><a href=\"https://t.me/iranlix\" target=\"_blank\">@iranlix</a>",
-      "plain_text": "♦️ویدیوی منتسب به توقف تردد کامیون‌های ایرانی در مرز پاکستان\n\n🔸گزارش‌ها حاکی از آن است که پاکستان از ورود کامیون‌های تجاری ایران به خاک خود در مرز مشترک دو کشور جلوگیری کرده است.\n\nاین اقدام می‌تواند نشانه‌ای از آغاز موج جدید اجرای سخت‌گیرانه‌تر تحریم‌های بین‌المللی علیه ج.ا باشد.\n\nرفیقای باقر قالیباف، به دستور ارباب ترامپ ، بیلاخ بزرگی نصیب باقر کردند.\n\n@iranlix",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/iranlix/12667",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Qb76WpqErRqdYAjPMz4IUcusS1LUeGFg1syVrAqYG7URf4oC84QWOAawjGGx_W6HIqxe9bl0CmsKz68l6rJtGUDBC6YSjOU6Cd17uMc7Zkbf-K7tW8UNh9CdhtRt8sBEsStG6zj5j6BBXdDJed65i3ERyAxXtj_DzDdBlQ_ZnZs46uscF262MzHm_iCjPc4tkaU_P7RRCMygH4BsQ_UDBFmrT9u-lX0kGbXMe8tOHOIaWLD3aS9WGDRG9A86qOkK97IossP0NRPfANEd4ZJbmtcQHknWdM5uzPlXXilb2NPUTBKDlu2wBKRtl8tJ-xAB4t49SxE9e21FoKSOKjIqvA",
-          "thumbnail_path": "channels/iranlix/media/8ab7afdcfa83d304acd3c9b0.jpg",
-          "thumbnail_sha256": "83c109d9cecd509f6ce5c023a5553ec5a3cc05710003aa270a166f2715f0285a",
-          "duration_label": "1:21",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1K",
-      "posted_at": "2026-09-07T10:06:00+00:00",
-      "edited": true,
-      "permalink": "https://t.me/iranlix/12667",
       "reply": null
     }
   ]

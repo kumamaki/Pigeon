@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T14:22:00.453Z",
+  "fetched_at": "2026-09-09T14:26:36.722Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229990",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "یک روز پس از اعلام تحریم‌های گسترده‌تر بریتانیا علیه جمهوری اسلامی، جزئیات اجرایی نشان می‌دهد محدودیت‌ها فقط به تجارت مستقیم با ایران ختم نمی‌شود و برخی معاملات از طریق کشورهای ثالث، خدمات مالی و واسطه‌گری را هم در بر می‌گیرد.",
+      "plain_text": "یک روز پس از اعلام تحریم‌های گسترده‌تر بریتانیا علیه جمهوری اسلامی، جزئیات اجرایی نشان می‌دهد محدودیت‌ها فقط به تجارت مستقیم با ایران ختم نمی‌شود و برخی معاملات از طریق کشورهای ثالث، خدمات مالی و واسطه‌گری را هم در بر می‌گیرد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229990",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/lx1CjeWSzxE1qOaulmnHZO3Z9sGrjDvO0ihzq8-VQQA1KGAWN4MIEhZnLx5fGriYmr1JC_qKL_U_rGOG68RJaFtAYPIYwv9SQwXBuQngXi1C4EQvCauT-7Fgb82ScJNHQLVOYseliKN7mCHtLSenFLDEaF1s9v-cYcmJHA_y0o0VilJ8uy9Qq-dMIoZe0yAK4ax60zdB0A8gbepAgP1-ED9u2QkPCq7D8UwN3ApMyW2vJ-CuNK50M46J-8TV-kAwyL6k5CWnDqQLhEPTmQtDGyi5BssXbQxm70lBvgoXnB1q4EB6d_FwDXEFOCCqShGvu9hBxj0emxj3N-L-dB718Q",
+          "thumbnail_path": "channels/farsivoa/media/e6a42da7960a2561440ffd15.jpg",
+          "thumbnail_sha256": "cbc2c53727a02794c3fa91562f11a1e207e0dd77bdc55259d889c949ceb875a5",
+          "duration_label": "5:43",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "193",
+      "posted_at": "2026-09-09T14:23:39+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229990",
+      "reply": null
+    },
     {
       "id": "farsivoa/229989",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "880",
+      "views_label": "1.07K",
       "posted_at": "2026-09-09T14:02:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229989",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.65K",
+      "views_label": "1.84K",
       "posted_at": "2026-09-09T13:40:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229988",
@@ -77,7 +105,7 @@
       "plain_text": "🔺گزارش سی‌ان‌ان از افزایش ساخت‌وساز در تاسیسات هسته‌ای مشکوک «کوه کلنگ»\n\n▪️«مرکز مطالعات راهبردی و بین‌المللی» گزارش داد که بررسی تصاویر ماهواره‌ای شش سال گذشته حکایت از افزایش آشکار ساخت‌وساز در سایت مشکوک هسته‌ای «کوه کلنگ» در نزدیکی نطنز دارد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/increase-in-construction-pickaxe-mountain-nuclear-site/8195992.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.04K",
+      "views_label": "2.14K",
       "posted_at": "2026-09-09T13:25:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229987",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.12K",
+      "views_label": "2.22K",
       "posted_at": "2026-09-09T13:14:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229986",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.06K",
+      "views_label": "2.13K",
       "posted_at": "2026-09-09T13:07:16+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229985",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.17K",
+      "views_label": "2.21K",
       "posted_at": "2026-09-09T12:57:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229984",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.14K",
+      "views_label": "2.17K",
       "posted_at": "2026-09-09T12:48:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229982",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.24K",
+      "views_label": "2.27K",
       "posted_at": "2026-09-09T12:35:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229981",
@@ -261,7 +289,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.31K",
+      "views_label": "2.34K",
       "posted_at": "2026-09-09T12:24:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229980",
@@ -289,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.38K",
+      "views_label": "2.41K",
       "posted_at": "2026-09-09T12:18:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229979",
@@ -305,7 +333,7 @@
       "plain_text": "🔺سنتکام ادعای سپاه مبنی بر هدف قرار دادن دو ناو جنگی آمریکا را رد کرد\n\n▪️فرماندهی مرکزی ایالات متحده آمریکا با رد ادعای روز چهارشنبه سپاه پاسداران انقلاب اسلامی درباره هدف قرار دادن دو ناوشکن فعال نیروی دریایی آمریکا در خاورمیانه تصریح کرد این ادعا کاملاً نادرست است.\n\n▪️این بیانیه می‌افزاید هیچ ناو جنگی نیروی دریایی آمریکا هدف قرار نگرفته و تمام تلاشهای سپاه پاسداران برای حمله ناکام مانده‌ است.\n\n▪️سنتکام در ادامه گفته است در همین حال، نیروهای آمریکایی تنها در هفته گذشته با موفقیت ۱۰ نفتکش ایرانی را منهدم کرده‌اند: «این نفتکش‌ها بخشی از یک شبکه چندمیلیارد دلاری موسوم به ناوگان سایه بودند که منابع مالی سپاه پاسداران را تأمین می‌کرد و جمهوری اسلامی قادر به دفاع از آنها نیست».\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195990.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.75K",
+      "views_label": "2.78K",
       "posted_at": "2026-09-09T11:59:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229978",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.68K",
+      "views_label": "2.74K",
       "posted_at": "2026-09-09T11:51:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229977",
@@ -361,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.64K",
+      "views_label": "2.68K",
       "posted_at": "2026-09-09T11:43:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229975",
@@ -377,7 +405,7 @@
       "plain_text": "🔺آغاز مطالعات امکان‌سنجی احداث خط لوله نفتی جایگزین تنگه هرمز در عراق\n\n▪️وزارت نفت عراق از آغاز مطالعات امکان‌سنجی احداث خط لوله نفتی جایگزین تنگه هرمز در خاک این کشور به مقصد ترکیه و سوریه خبر داد.\n\n▪️صادرات نفت عراق از زمان اخلال جمهوری اسلامی در تنگه هرمز نسبت به دور مشابه پارسال ۶۷ درصد کاهش یافته، اگرچه طی چند ماه گذشته روند صعودی داشته و هم اکنون به سه میلیون بشکه در روز رسیده که دو سوم دیگر با کمک آمریکا و ناوگان امارات از تنگه هرمز می‌گذرد.\n\n▪️عراق در نظر دارد خط لوله نفتی با ظرفیت انتقال روزانه ۲ میلیون بشکه از منطقه نفتی بصره در خلیج فارس به حدیثه احداث کند که از آنجا نیز خطوط لوله جداگانه‌ای به بندر جیهان ترکیه و بندر بانیاس سوریه احداث خواهد شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195985.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.71K",
+      "views_label": "2.74K",
       "posted_at": "2026-09-09T11:35:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229974",
@@ -405,7 +433,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.65K",
+      "views_label": "2.68K",
       "posted_at": "2026-09-09T11:27:45+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229973",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.79K",
+      "views_label": "2.82K",
       "posted_at": "2026-09-09T11:18:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229972",
@@ -489,7 +517,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.24K",
+      "views_label": "3.27K",
       "posted_at": "2026-09-09T10:44:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229970",
@@ -2493,34 +2521,6 @@
       "posted_at": "2026-09-08T17:37:42+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229888",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229887",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "امید معماریان تحليلگر ارشد مسايل ايران: جاسوس‌انگاری بخش بزرگی از جامعه از اساس در تناقض مطلق با کارائي یک سازمان ضد‌جاسوسی است و به لحاظ عملی هم امکان‌پذیر نیست. چنین طرحی بیشتر جنبه ایجاد ترس و ارعاب در جامعه را دارد.",
-      "plain_text": "امید معماریان تحليلگر ارشد مسايل ايران: جاسوس‌انگاری بخش بزرگی از جامعه از اساس در تناقض مطلق با کارائي یک سازمان ضد‌جاسوسی است و به لحاظ عملی هم امکان‌پذیر نیست. چنین طرحی بیشتر جنبه ایجاد ترس و ارعاب در جامعه را دارد.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229887",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/HnvG3Ki6_KeChlqdLrsjWyEbIsfaLe4YI0mfIPO-n6H5nTeuqi_8HWJx_4R4kXE6oPEzNq1r7D4AGTBwCTxqiWnE1NewluJsENMzMu8o0zqH0rF4ZtWpZO4IW9vbL1RTJDkKGKalS114buIidQXN73cfS7G0p0JunAJQrajCiV55kg_xzY6tTmcBsZ74fpsTbc27HX81XjRuvad7kTpPmLMz2sU6zaimV8J93j08IGzDRothwyW5ZVIgBgx3y9cPlwx7axdNurXQXRTS3on_U2TbvyCVL6PwT_Jg96MuY4rkDU2NvwHKVpZ1kGOeVnXK2xdHZaVeBXe-z4q6PD7p6g",
-          "thumbnail_path": "channels/farsivoa/media/876bed9eb55fae4076341a70.jpg",
-          "thumbnail_sha256": "4a7b3f00cb3afebaececc50fa13ffd1a59751b59eae8af069d91147ff1439e5e",
-          "duration_label": "1:19",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.4K",
-      "posted_at": "2026-09-08T17:27:56+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229887",
       "reply": null
     }
   ]
