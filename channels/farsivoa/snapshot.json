@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T01:06:40.977Z",
+  "fetched_at": "2026-09-09T01:11:48.768Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229936",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "دونالد ترامپ، رئیس‌جمهوری آمریکا، در واکنش به نتایج اخیر انتخابات در آلمان، از عملکرد حزب پوپولیست این کشور تمجید کرد. آقای ترامپ در پیامی نوشت: «...حزب پوپولیست در آلمان واقعاً شب بزرگی داشت.» او درباره مردم آلمان «بالاخره از قوانین و مقررات مهاجرتی کاملاً افتضاحی که آسیب زیادی به آلمان وارد کرده، خسته شدند.» آقای ترامپ افزود: «آنها در حال اوج‌گیری هستند و دیگر نمی‌خواهند این وضعیت را تحمل کنند!» دونالد ترامپ در پایان پیام خود نیز به اختصار نوشت «آلمان را دوباره با عظمت کنیم.»<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "دونالد ترامپ، رئیس‌جمهوری آمریکا، در واکنش به نتایج اخیر انتخابات در آلمان، از عملکرد حزب پوپولیست این کشور تمجید کرد. آقای ترامپ در پیامی نوشت: «...حزب پوپولیست در آلمان واقعاً شب بزرگی داشت.» او درباره مردم آلمان «بالاخره از قوانین و مقررات مهاجرتی کاملاً افتضاحی که آسیب زیادی به آلمان وارد کرده، خسته شدند.» آقای ترامپ افزود: «آنها در حال اوج‌گیری هستند و دیگر نمی‌خواهند این وضعیت را تحمل کنند!» دونالد ترامپ در پایان پیام خود نیز به اختصار نوشت «آلمان را دوباره با عظمت کنیم.»\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229936",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/AGPyHbL68geqplV5XV5ZU_iCOy_8cm87bC4cJ2B-WGlSBdcXgE9J1fLcnGcAWJxHTiPVMvx2S7PekbLFliBS_0Y5JSZGKPZI3I-kBL19SPuhGr_zpCV6LYzIYWcp9xgBnl1l34PxdEWSGZMy5J9JK7nNBVBfAqR4NyiGYEnam5oBNci975eMVZYjY73uJKK2G966eZMlbMsdD4PU6_zdvVGjR-Yr0lt0JeoboZRCkTwO946ZID2V9VES8pwcWOHsf9zGSPCowFXSMfU_CCN0xMXs_7YsGSXzsyWKBUj7Hwyp2xSyoz3YeKPu0YKhKMHnhs4-lqK83iHIujA90U5Fww.jpg",
+          "thumbnail_path": "channels/farsivoa/media/e0b9a648ddedee734a3769a1.jpg",
+          "thumbnail_sha256": "128bb31b91a3bb54473d4e849bcaf58ba59a9a250a537dd51d567667a99f793f",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "98",
+      "posted_at": "2026-09-09T01:09:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229936",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229935",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺ممنوعیت روسری برای دختران زیر ۱۴ سال در مدارس اتریش اجرایی شد؛ دولت: هدف حمایت از آزادی دختران است\n\n▪️ممنوعیت استفاده از روسری برای دختران زیر ۱۴ سال در مدارس اتریش، از روز دوشنبه و هم‌زمان با نخستین روز سال تحصیلی در بخشی از این کشور اجرایی شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/austria-enforces-school-headscarf-ban/8195695.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1",
+      "views_label": "170",
       "posted_at": "2026-09-09T01:06:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229935",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "977",
+      "views_label": "1.05K",
       "posted_at": "2026-09-09T00:01:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229934",
@@ -65,7 +93,7 @@
       "plain_text": "🔺حمله موشکی جمهوری اسلامی به اردن در پی انهدام پنج نفکش توسط سنتکام\n\n▪️خبرگزاری آسوشیتدپرس می‌گوید جمهوری اسلامی بامداد چهارشنبه «به اهداف آمریکایی» در اردن حملات موشکی کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195722.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.19K",
+      "views_label": "1.29K",
       "posted_at": "2026-09-08T23:50:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229933",
@@ -93,7 +121,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.18K",
+      "views_label": "1.24K",
       "posted_at": "2026-09-08T23:45:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229932",
@@ -121,7 +149,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.31K",
+      "views_label": "1.38K",
       "posted_at": "2026-09-08T23:34:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229931",
@@ -137,7 +165,7 @@
       "plain_text": "🔺روبیو: جمهوری اسلامی به ازای هر تلاش برای حمله به ناوهای آمریکایی نفتکش‌هایی را از دست خواهد داد\n\n▪️مارکو روبیو، وزیر امور خارجه آمریکا، روز سه‌شنبه ۱۷ شهریور در گفت‌وگو با خبرنگاران درباره حملات اخیر به نفتکش‌های جمهوری اسلامی گفت جمهوری اسلامی همچنان تلاش می‌کند ناوهای نیروی دریایی آمریکا را هدف قرار دهد و واشنگتن در پاسخ به هرگونه حمله یا تلاش برای حمله، نفتکش‌های آن را هدف خواهد گرفت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195716.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.34K",
+      "views_label": "1.41K",
       "posted_at": "2026-09-08T23:32:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229930",
@@ -165,7 +193,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.42K",
+      "views_label": "1.45K",
       "posted_at": "2026-09-08T23:15:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229929",
@@ -193,7 +221,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.57K",
+      "views_label": "1.6K",
       "posted_at": "2026-09-08T23:05:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229928",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.91K",
+      "views_label": "1.94K",
       "posted_at": "2026-09-08T22:45:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229927",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2K",
+      "views_label": "2.04K",
       "posted_at": "2026-09-08T22:40:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229926",
@@ -293,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.89K",
+      "views_label": "1.93K",
       "posted_at": "2026-09-08T22:32:19+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229924",
@@ -321,7 +349,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.22K",
+      "views_label": "2.28K",
       "posted_at": "2026-09-08T22:15:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229923",
@@ -337,7 +365,7 @@
       "plain_text": "🔺جشنواره ونیز: از «اسب وحشی ۹» تا «مراقب»\n\n▪️هشتاد و سومین دوره جشنواره جهانی فیلم ونیز به روزهای پایانی خود نزدیک می‌شود و به نظر می‌رسد مدعیان اصلی جوایز خودی نشان داده‌اند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/venice-film-festival-2026-a-bit-of-light-ali-asgari-falling-house--mohsen-gharaei-iran-movie-directors/8195648.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "2.25K",
+      "views_label": "2.28K",
       "posted_at": "2026-09-08T22:15:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229922",
@@ -365,7 +393,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.46K",
+      "views_label": "2.49K",
       "posted_at": "2026-09-08T22:02:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229921",
@@ -393,7 +421,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.86K",
+      "views_label": "2.89K",
       "posted_at": "2026-09-08T21:45:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229920",
@@ -421,7 +449,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.17K",
+      "views_label": "3.2K",
       "posted_at": "2026-09-08T21:31:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229919",
@@ -2469,34 +2497,6 @@
       "posted_at": "2026-09-08T09:02:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229836",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229835",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "نیروهای اسرائیل شامگاه گذشته دره‌های السلوقی و الحجیر را در جنوب لبنان با گلوله توپخانه هدف قرار دادند.<br><br>بر پایه گزارش خبرگزاری ملی لبنان، نیروهای اسرائیل همچنین جنگل‌های مجاور شهرک قبریخا را با مسلسل سنگین به گلوله بستند.<br><br>این دو دره، در محدوده شهرستان‌های مرجعیون، بنت جبیل و نبطیه امتداد دارند.<br><br>گلوله‌باران در ادامه موج تشدید حملات اسرائیل به جنوب لبنان انجام می‌شود. حملات بامداد دوشنبه به شهرک کفررمان دست‌کم ۱۱ کشته بر جای گذاشت.<br><br>ارتش اسرائیل روز پنجشنبه اعلام کرد کنترل عملیاتی ارتفاعات علی‌الطاهر را به دست گرفته است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "نیروهای اسرائیل شامگاه گذشته دره‌های السلوقی و الحجیر را در جنوب لبنان با گلوله توپخانه هدف قرار دادند.\n\nبر پایه گزارش خبرگزاری ملی لبنان، نیروهای اسرائیل همچنین جنگل‌های مجاور شهرک قبریخا را با مسلسل سنگین به گلوله بستند.\n\nاین دو دره، در محدوده شهرستان‌های مرجعیون، بنت جبیل و نبطیه امتداد دارند.\n\nگلوله‌باران در ادامه موج تشدید حملات اسرائیل به جنوب لبنان انجام می‌شود. حملات بامداد دوشنبه به شهرک کفررمان دست‌کم ۱۱ کشته بر جای گذاشت.\n\nارتش اسرائیل روز پنجشنبه اعلام کرد کنترل عملیاتی ارتفاعات علی‌الطاهر را به دست گرفته است.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229835",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/fi0abIqYUDBtXXlXu6dswWj_7HBp8L-oKI4CatiguS0RCFUiB3V0-wYb54Id-0d4H-qEssVsxntxFEQ_NQxp5_OkdGPWIyf8UdQD6uwd4KZ6HHrc8oiAFiNPXzr28Gjx8_oG66PsbVnsqq91mxwEbmxoGFNvlLyNOzZ-P25ZcU89W_rG27CFPt094Ww5Okula6jDgiGJoC8NYm-1zXVbSUDI4IL48mbz7mhmloV6u31qCcosgQT7HNwqfD3mZSnqlFJwpYbluNOwwEsqAUuFTgIPkrxCDMaEA0NPBH8zC4gSzgTJGkoyjsY0N_aSv4GPPU5AX9lv3lAqAPetzXBhMg.jpg",
-          "thumbnail_path": "channels/farsivoa/media/e6ccf86b9742efeaf309a162.jpg",
-          "thumbnail_sha256": "2609e9d07d96ec12186fe2140ba9792b1a9ad16963d5ea769fa0e4b464a18bdc",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.07K",
-      "posted_at": "2026-09-08T08:52:35+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229835",
       "reply": null
     }
   ]
