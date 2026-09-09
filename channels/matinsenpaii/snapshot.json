@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T22:17:03.082Z",
+  "fetched_at": "2026-09-09T22:22:10.786Z",
   "channel": {
     "username": "matinsenpaii",
     "title": "Matin SenPai",
@@ -43,7 +43,7 @@
         },
         {
           "emoji": "🦄",
-          "count": "22"
+          "count": "23"
         },
         {
           "emoji": "👍",
@@ -76,7 +76,7 @@
         },
         {
           "emoji": "💔",
-          "count": "765"
+          "count": "766"
         },
         {
           "emoji": "😁",
@@ -807,8 +807,8 @@
         "post_id": "5187",
         "author_name": "Matin SenPai",
         "preview_text": "",
-        "thumbnail_url": "https://cdn1.telesco.pe/file/kHVkzP5TSIAh7d2DgOEeJCIwolQ7-zOcESKRmXKhNDTUnEjkGw0e95PA_LEXmzJRYAXM5corLRemYISxRx4sNYpwPd3bL1k-VyaGCRuFVEVMH1rgziYf5ucgzjLsORpB8fesxqgItfol7iD_NezRipqB62a8hAdbjpaFTI3T2HuYl0dGya2VIHUe68nGvcMu0yfGpaUN0u8yJ95MJuBkKkQIiYYyqddvQbGPFlXQi6ZXpejY-E6yPtu3xF7E19mps5goKtg-oINojwRdqp315-93EJI0eZ7tzFH4d4v3nNDwX5HKl9WQyTgqE--d-bb7fQdGF8TQ8v86G5UTlnJKGQ.jpg",
-        "thumbnail_path": "channels/matinsenpaii/media/ada7b5d8178710df64bcc6d4.jpg",
+        "thumbnail_url": "https://cdn1.telesco.pe/file/ZQ0S_USjow4UQqGABBajwfDzMXUMoPexnRd8usoT8YYH1r4NyNWzLMGwe-9fzH7fNUQnaGIHQsKrR5YV8O9NwyuzbmwJDBVAVb_Rhq1h4MOElpVnscYyhPqtPNvhqHblkel8niCDMfG9Tza1T9YdBnaxMi_pzoClxAk6p3FRcl55Ur-h2H7JBDa3QzvVr2ecuEA6yZBwAhhLzbPIlkGIFjTCUWgaIXmVfbK-kfmT8X8vpwqri_pKiHWdLD1VmimRZP0s9xma-75KOL-VkRfOQ5qHxOiUe23jMSkvGM0jpfzm3cOGbWaCTAbjUx_Mj1LG7vCRZ0sjPgUz0XIFLVw29Q.jpg",
+        "thumbnail_path": "channels/matinsenpaii/media/39329b5a30d08e0ec28fa1d0.jpg",
         "thumbnail_sha256": "94a621f1b36713fc9f54ff15e0ec44af832327f7191bb8783ac1e860d6b923ef",
         "permalink": "https://t.me/matinsenpaii/5187"
       }
