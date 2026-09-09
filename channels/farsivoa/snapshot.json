@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T02:26:38.627Z",
+  "fetched_at": "2026-09-09T02:31:44.503Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,62 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229943",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "فرانسه و آلمان پس از سال‌ها اختلاف بر سر توسعه جنگنده نسل ششم، به همکاری مشترک خود پایان دادند. اکنون آلمان در حال بررسی گزینه‌های جایگزین، از جمله پیوستن به برنامه جنگنده نسل ششم بریتانیا، ایتالیا و ژاپن است<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "فرانسه و آلمان پس از سال‌ها اختلاف بر سر توسعه جنگنده نسل ششم، به همکاری مشترک خود پایان دادند. اکنون آلمان در حال بررسی گزینه‌های جایگزین، از جمله پیوستن به برنامه جنگنده نسل ششم بریتانیا، ایتالیا و ژاپن است\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229943",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/LyztQbrnScEAmqOMkPvGV7AKrB2UdL2d52qXhMgPz5aA39RWLijq9OEejpvQWcXhbRw4jWd-JxKVl8kuLPjkqiNEZWRic_XwPuNSIwTtaSSFrjaptRwnJDImieD_0vyED2Ehe9cjr5KsyHMXmUkimTwlNettcLTezd01ODX9NJ72RQ8lSkrD0ztoazjYgaD5LUoCcc2EVYep89kme0FuHeuM__8jb5FsRXPfG7XiIjpae5Ex3o8te1YjQbKJmCPbK7VzIBgYEzdZjv9RDRNBDTOCMG3oJbHDHn5iFal9QHwXzrdrJ8-7dZfT3y3t5SOTlHPOlk94o7Z1kZgNESlX6A",
+          "thumbnail_path": "channels/farsivoa/media/975308aa0f1239f176fac73b.jpg",
+          "thumbnail_sha256": "33262ab1a530fea59567dff7884ba9ee8b2a1758255bfde302fdc2260e58580c",
+          "duration_label": "4:37",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-09T02:31:29+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229943",
+      "reply": null
+    },
+    {
+      "id": "farsivoa/229942",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "ستاد فرماندهی مرکزی آمریکا بامداد چهارشنبه به وقت تهران ویدیوی لحظه انهدام نفتکش ری‌یسکو، یکی از ۵ نفتکش جمهوری اسلامی که ساعاتی قبل نیروهای آمریکایی آنها را منهدم کردند، منتشر کرد. این کشتی در دریای عمان و در واکنش به یک حمله جمهوری اسلامی به یک ناو آمریکایی منهدم شد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "ستاد فرماندهی مرکزی آمریکا بامداد چهارشنبه به وقت تهران ویدیوی لحظه انهدام نفتکش ری‌یسکو، یکی از ۵ نفتکش جمهوری اسلامی که ساعاتی قبل نیروهای آمریکایی آنها را منهدم کردند، منتشر کرد. این کشتی در دریای عمان و در واکنش به یک حمله جمهوری اسلامی به یک ناو آمریکایی منهدم شد.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229942",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/mL-HP-yGqQNbRadhMn6goEjwv4KmCKsc-MI4A_F_wDW8Hx2pUwgPUPVBlQK6XDwlJN7Tb8jAEw3uC94hycWSQ7bEWNFMWFQKg1uaIziV7VoHTOEdthM429GzmILG5doIi_Ns6sGbUMmdhxwP1RWCe3aQvKJiOdNGOUqIxq5kggUKb_jlRGqHT83927zYMQutNrKPUf96ed-F7dVkEdOz2ACk7Ej2Ux1oCt_3nmUHycPieQ_YjQwCOWFpjNaIFIEBDL4XsDm83bA3dTkL4dxl5NEJhC-nFtanBUFLBJzlUJ1thmsNwmyJRsDx-XLCUHG2IbTqSo2wT26IuD3M-XZidw",
+          "thumbnail_path": "channels/farsivoa/media/9d288e2b30c22431c5674ad7.jpg",
+          "thumbnail_sha256": "3ccdf77d2b3acefbc2812a7f4c408b1414f4c18aae550af2449c08f6e89d4ef0",
+          "duration_label": "0:38",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "136",
+      "posted_at": "2026-09-09T02:29:15+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229942",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229941",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
@@ -21,7 +77,7 @@
       "plain_text": "🔺سنتکام: جمهوری اسلامی ابزاری برای دفاع از کشتی‌هایش ندارد؛ نفتکش‌های سپاه را منهدم کردیم\n\n▪️ستاد فرماندهی مرکزی آمریکا، سه‌‌شنبه شب به وقت واشنگتن (بامداد چهارشنبه به وقت تهران) ویدیوی انهدام نفتکش ری‌یسکو، یکی از ۵ نفتکش جمهوری اسلامی را که ساعاتی قبل منهدم کرد، منتشر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195937.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "70",
+      "views_label": "300",
       "posted_at": "2026-09-09T02:25:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229941",
@@ -49,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "304",
+      "views_label": "507",
       "posted_at": "2026-09-09T02:15:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229940",
@@ -77,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "554",
+      "views_label": "723",
       "posted_at": "2026-09-09T02:03:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229939",
@@ -105,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "932",
+      "views_label": "1.1K",
       "posted_at": "2026-09-09T01:38:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229938",
@@ -121,7 +177,7 @@
       "plain_text": "🔺اردن: جمهوری اسلامی ۲۰ موشک شلیک کرد؛ ۱۸ فروند منهدم شد و دو موشک در فضای باز فرود آمد\n\n▪️در پی حمله موشکی جمهوری اسلامی به اردن که اوایل چهارشنبه ۱۸ شهریور صورت گرفت و ادعاهای منتشر شده در شبکه‌های اجتماعی که تعداد زیادی از نیروهای آمریکایی مجروح شده‌اند، رویترز به نقل از یک مقام آمریکایی این موضوع را رد کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195936.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.06K",
+      "views_label": "1.2K",
       "posted_at": "2026-09-09T01:32:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229937",
@@ -149,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.31K",
+      "views_label": "1.41K",
       "posted_at": "2026-09-09T01:09:36+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229936",
@@ -165,7 +221,7 @@
       "plain_text": "🔺ممنوعیت روسری برای دختران زیر ۱۴ سال در مدارس اتریش اجرایی شد؛ دولت: هدف حمایت از آزادی دختران است\n\n▪️ممنوعیت استفاده از روسری برای دختران زیر ۱۴ سال در مدارس اتریش، از روز دوشنبه و هم‌زمان با نخستین روز سال تحصیلی در بخشی از این کشور اجرایی شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/austria-enforces-school-headscarf-ban/8195695.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.25K",
+      "views_label": "1.35K",
       "posted_at": "2026-09-09T01:06:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229935",
@@ -193,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.84K",
+      "views_label": "1.94K",
       "posted_at": "2026-09-09T00:01:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229934",
@@ -209,7 +265,7 @@
       "plain_text": "🔺حمله موشکی جمهوری اسلامی به اردن در پی انهدام پنج نفکش توسط سنتکام\n\n▪️خبرگزاری آسوشیتدپرس می‌گوید جمهوری اسلامی بامداد چهارشنبه «به اهداف آمریکایی» در اردن حملات موشکی کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195722.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "2.05K",
+      "views_label": "2.11K",
       "posted_at": "2026-09-08T23:50:05+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229933",
@@ -237,7 +293,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.9K",
+      "views_label": "1.96K",
       "posted_at": "2026-09-08T23:45:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229932",
@@ -265,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.99K",
+      "views_label": "2.03K",
       "posted_at": "2026-09-08T23:34:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229931",
@@ -281,7 +337,7 @@
       "plain_text": "🔺روبیو: جمهوری اسلامی به ازای هر تلاش برای حمله به ناوهای آمریکایی نفتکش‌هایی را از دست خواهد داد\n\n▪️مارکو روبیو، وزیر امور خارجه آمریکا، روز سه‌شنبه ۱۷ شهریور در گفت‌وگو با خبرنگاران درباره حملات اخیر به نفتکش‌های جمهوری اسلامی گفت جمهوری اسلامی همچنان تلاش می‌کند ناوهای نیروی دریایی آمریکا را هدف قرار دهد و واشنگتن در پاسخ به هرگونه حمله یا تلاش برای حمله، نفتکش‌های آن را هدف خواهد گرفت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195716.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "2.02K",
+      "views_label": "2.05K",
       "posted_at": "2026-09-08T23:32:02+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229930",
@@ -309,7 +365,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.99K",
+      "views_label": "2.03K",
       "posted_at": "2026-09-08T23:15:37+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229929",
@@ -337,7 +393,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.11K",
+      "views_label": "2.17K",
       "posted_at": "2026-09-08T23:05:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229928",
@@ -365,7 +421,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.4K",
+      "views_label": "2.44K",
       "posted_at": "2026-09-08T22:45:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229927",
@@ -393,7 +449,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.49K",
+      "views_label": "2.53K",
       "posted_at": "2026-09-08T22:40:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229926",
@@ -409,7 +465,7 @@
       "plain_text": "🔺سنتکام: پنج نفتکش حامل نفت خام ایران منهدم شد\n\n▪️سنتکام در بیانیه‌ای گفت که نیروهای آن روز ۸ سپتامبر (۱۷ شهریور) پنج نفتکش حامل نفت خام ایران را منهدم کردند.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195713.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "2.52K",
+      "views_label": "2.55K",
       "posted_at": "2026-09-08T22:32:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229925",
@@ -437,7 +493,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.31K",
+      "views_label": "2.35K",
       "posted_at": "2026-09-08T22:32:19+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229924",
@@ -2429,62 +2485,6 @@
       "posted_at": "2026-09-08T10:45:08+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229843",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229842",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "تعرفه‌های تلافی‌جویانه کانادا بر واردات از آمریکا از بامداد سه‌شنبه اجرایی شد و جنگ تجاری دو کشور را تشدید کرد. بر پایه اعلام دولت کانادا، تعرفه‌ها بین ۱۵ تا ۵۰ درصد است و معادل نزدیک ۲۰ میلیارد دلار آمریکا، کالای آمریکایی را در بر می‌گیرد.<br><br>بیش از ۷۰۰ قلم کالا مشمول می‌شوند؛ از فولاد و آلومینیوم تا لبنیات، لوازم خانگی، ماشین‌آلات کشاورزی، کاغذ، پلاستیک و لوازم الکترونیکی. تعرفه فولاد و آلومینیوم آمریکایی دو برابر شد و به ۵۰ درصد رسید.<br><br>مارک کارنی، نخست‌وزیر کانادا، گفت: «کانادا تعرفه‌های تازه واشینگتن را دلار به دلار پاسخ می‌دهد تا از کارگران، کشاورزان، خانواده‌ها و کسب‌وکارهای کانادایی حفاظت کند.»<br><br>اتاوا همچنین بسته ۷ میلیارد و ۵۰۰ میلیون دلاری برای پشتیبانی از کسب‌وکارهای آسیب‌دیده اعلام کرد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "تعرفه‌های تلافی‌جویانه کانادا بر واردات از آمریکا از بامداد سه‌شنبه اجرایی شد و جنگ تجاری دو کشور را تشدید کرد. بر پایه اعلام دولت کانادا، تعرفه‌ها بین ۱۵ تا ۵۰ درصد است و معادل نزدیک ۲۰ میلیارد دلار آمریکا، کالای آمریکایی را در بر می‌گیرد.\n\nبیش از ۷۰۰ قلم کالا مشمول می‌شوند؛ از فولاد و آلومینیوم تا لبنیات، لوازم خانگی، ماشین‌آلات کشاورزی، کاغذ، پلاستیک و لوازم الکترونیکی. تعرفه فولاد و آلومینیوم آمریکایی دو برابر شد و به ۵۰ درصد رسید.\n\nمارک کارنی، نخست‌وزیر کانادا، گفت: «کانادا تعرفه‌های تازه واشینگتن را دلار به دلار پاسخ می‌دهد تا از کارگران، کشاورزان، خانواده‌ها و کسب‌وکارهای کانادایی حفاظت کند.»\n\nاتاوا همچنین بسته ۷ میلیارد و ۵۰۰ میلیون دلاری برای پشتیبانی از کسب‌وکارهای آسیب‌دیده اعلام کرد.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229842",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/RUv02PildTaCP6MSqhfyyTGKQyESXd_R9KPqYru0FCcxbrewcQ8FjjIMYqAAC3AFDfAB92k4rzNrZ5qbxK-RwHPFSgRD8Fr6k6gI2fje26t_u_kfz5PENn9PX5UYwunPGuec4KHDE4y9WsuYibeEBFPlUL8zCYmkbhxEpET4WimI2GGMAxhhTFa6FDX6S5MqCf9dmV0bsAiMZdE79GidsSyODwWyFkyheEiQN4rkrO7YA3Dil8cIdy1RqN6HCqWBFP-9hdaa6YVamkzExrONYZVxGBgEipxketIJNji5vnL2r1p2g9plT0VswR8rT2zeM5NwVJOrTPBqMYKHGQx_aQ.jpg",
-          "thumbnail_path": "channels/farsivoa/media/671bb5ef560291af9267f4c0.jpg",
-          "thumbnail_sha256": "d775c5b4891be7ee1bd34e1bb12165fb6773141d95870bd71d0edfaab35f15e6",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.79K",
-      "posted_at": "2026-09-08T10:33:17+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229842",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229841",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "درآمد کانال سوئز در تیرماه نسبت به سال گذشته ۴۲ درصد افزایش یافت، چون بسته شدن عملی تنگه هرمز و تهدید حوثی‌ها در جنوب دریای سرخ شناورهای بیشتری را به آبراه مصر کشاند.<br><br>بر پایه داده‌های سازمان آمار مصر، هزار و ۳۴۰ شناور در تیر ماه از کانال گذشتند که ۲۷ درصد بیشتر از تیرماه سال گذشته بود. نفتکش‌ها ۵۲۶ فروند از شناورهای عبوری تیرماه را تشکیل دادند و درآمد کانال به ۵۰۵ میلیون دلار رسید که بالاترین رقم ماهانه از آذر ۱۴۰۲ است.<br><br>اسامه ربیع، رئیس سازمان کانال سوئز، گفت درآمد امسال به ۵ میلیارد و ۸۰۰ میلیون تا ۶ میلیارد دلار می‌رسد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "درآمد کانال سوئز در تیرماه نسبت به سال گذشته ۴۲ درصد افزایش یافت، چون بسته شدن عملی تنگه هرمز و تهدید حوثی‌ها در جنوب دریای سرخ شناورهای بیشتری را به آبراه مصر کشاند.\n\nبر پایه داده‌های سازمان آمار مصر، هزار و ۳۴۰ شناور در تیر ماه از کانال گذشتند که ۲۷ درصد بیشتر از تیرماه سال گذشته بود. نفتکش‌ها ۵۲۶ فروند از شناورهای عبوری تیرماه را تشکیل دادند و درآمد کانال به ۵۰۵ میلیون دلار رسید که بالاترین رقم ماهانه از آذر ۱۴۰۲ است.\n\nاسامه ربیع، رئیس سازمان کانال سوئز، گفت درآمد امسال به ۵ میلیارد و ۸۰۰ میلیون تا ۶ میلیارد دلار می‌رسد.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229841",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/sTV6FbvBt78zF_bTrO2yQfn2tfFGycNU_kgTQKut3OUycCM0BMNtK3KeR3XjxLwjse08PrEQE3ZMXLxsSmZQkRHLDMoKRYSGYAcu-qjwdvYnWN0Y7kYCa_jriFTKXYe7EsK_-0Afnp3tnQF9ReC1vmvaPyI1t0bRQ6uMlPbxsiuX8UJmvy5592fiMyICkTOYX5Q3S9C6539qzCgQCOPl3LKhPjZxkCM-saAnOAvbJin3GlzpAXE0GB-FjCZ5FCEld5q5BymemXOoQJiZttTxBK7AhkhJ2-2llk2gEGjFJO6dyRSfKfCQdTWixIkfeAkAgpItTYmnHUM37Oa_2fNKQA.jpg",
-          "thumbnail_path": "channels/farsivoa/media/8becfdb63a0bf5a13e67b3e6.jpg",
-          "thumbnail_sha256": "4be848c890d0a9b10861026684d292c7bdc81793bcd59a3105fa0c0be307c818",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.78K",
-      "posted_at": "2026-09-08T10:26:34+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229841",
       "reply": null
     }
   ]

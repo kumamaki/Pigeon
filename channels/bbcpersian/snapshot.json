@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T02:26:35.984Z",
+  "fetched_at": "2026-09-09T02:31:42.095Z",
   "channel": {
     "username": "bbcpersian",
     "title": "BBCPersian",
@@ -11,6 +11,34 @@
     "subscriber_count": "774K"
   },
   "posts": [
+    {
+      "id": "bbcpersian/291106",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/JbJTuOedetG6CxsGJHsToMguRJawWlDShypqvwDP7T5NB-jVUJ0IzoU78LL2KHU66wXK4bjNGthBdakZp28Ya-EqWph2TVWQzN-Z_H3G4Cqu8KbXgdPSnoSl-icOMj0Ee67t7-1fzWkzJPuBaYycM_lyEXx4fUBjHcvzmyYJ_wp-xglZOy0NJPJ0pbZ8v-w4SNciUjFA7EBLbDm5rDcnCFeKlwPgRNbfLATzVd7BqkGmS-xPwez6cTWHQUld66iGu7ELoCPPbFe8DR0_4xBH0NQTq7eZFsspcoZAX5QKkLM4rk_sRyFha6rCFOVXCptGpQyCyHJ8oF7HyxLKX-OJyg.jpg",
+      "author_photo_path": "channels/bbcpersian/media/a2da86335b5d8f60b6dfa513.jpg",
+      "author_photo_sha256": "cf48535f60438757cd9b0534a23c038e85ac3e9a472bad98fdb8dd6f9211ad10",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>نخستین پل جاده‌ای میان روسیه و کره شمالی افتتاح شد؛ پلی که انتقال کالا و مسافر را از طریق مرز مشترک دو کشور بر روی رود تومن آسان‌تر می‌کند.<br><br>این اقدام نشانه‌ای دیگر از نزدیک‌تر شدن روابط دو کشور به شمار می‌رود. این پل از مرز سرزمین پریمورسکی روسیه روی رودخانه تومن به سمت کره شمالی امتداد می‌یابد و طول آن یک کیلومتر است.<br><br>این پل به افتخار یاکوف نوویچنکو، افسر اتحاد جماهیر شوروی نام‌گذاری شده است؛ تنها فرد غیرکره‌ای که عالی‌ترین نشان کره شمالی را دریافت کرده است. او این نشان را به دلیل محافظت از کیم ایل سونگ، رهبر پیشین کره شمالی، در برابر یک سوءقصد در پیونگ‌یانگ در سال ۱۹۴۶ دریافت کرد.<br><br>خبرگزاری تاس در گفت‌وگویی با نوه نوویچنکو گزارش داد که او قصد دارد خودروی پدربزرگش را از روی این پل عبور دهد و وارد کره شمالی شود.<br>ادامه مطلب<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B8.png')\"><b>📸</b></i>Reuters<br><a href=\"https://bbc.in/4cyxH75\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4cyxH75</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔻نخستین پل جاده‌ای میان روسیه و کره شمالی افتتاح شد؛ پلی که انتقال کالا و مسافر را از طریق مرز مشترک دو کشور بر روی رود تومن آسان‌تر می‌کند.\n\nاین اقدام نشانه‌ای دیگر از نزدیک‌تر شدن روابط دو کشور به شمار می‌رود. این پل از مرز سرزمین پریمورسکی روسیه روی رودخانه تومن به سمت کره شمالی امتداد می‌یابد و طول آن یک کیلومتر است.\n\nاین پل به افتخار یاکوف نوویچنکو، افسر اتحاد جماهیر شوروی نام‌گذاری شده است؛ تنها فرد غیرکره‌ای که عالی‌ترین نشان کره شمالی را دریافت کرده است. او این نشان را به دلیل محافظت از کیم ایل سونگ، رهبر پیشین کره شمالی، در برابر یک سوءقصد در پیونگ‌یانگ در سال ۱۹۴۶ دریافت کرد.\n\nخبرگزاری تاس در گفت‌وگویی با نوه نوویچنکو گزارش داد که او قصد دارد خودروی پدربزرگش را از روی این پل عبور دهد و وارد کره شمالی شود.\nادامه مطلب⬇️\n\n📸Reuters\nhttps://bbc.in/4cyxH75\n@BBCPersian",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/291106",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/VPPLf30CNYCoB0wcgxQ1bprQRDivp93lUpfI2XqaURfFLQxJDs_Jgze445tnIhpTqym_mw2GX30ORhNf4vX2c0ZccvEPQMfcxe-FJeAxUmHmcMQ2waGZgyNhKsFeiOde5N1Af6EDYattOIdRTmKO-UhXexEe-hhLvvzV0xNS-WkUclyhMAUiOX8aJJrcimftDR_CfGtu2fhB9z9n7-9tuFfx4u6hBf69HJ7yP-0VfIDHCBSwcsKcUOfHdpLWXCIXZRpYX7YXsmPQK7oURu_kowo-xy5EaEzvDTedroPGilnT4iGVpWotvHOB-ZUx2axzsCn_27nU5n8--QD3AcPHJQ.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/74f76514e67e76b81bc2e1cb.jpg",
+          "thumbnail_sha256": "d3ecb703b79a3535fe3c1491dd10d704d7d9fdd6ecc6c6bdde33b6d3f975abc6",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "714",
+      "posted_at": "2026-09-09T02:29:06+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/291106",
+      "reply": null
+    },
     {
       "id": "bbcpersian/291105",
       "author_name": "BBCPersian",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.4K",
+      "views_label": "11.5K",
       "posted_at": "2026-09-09T01:31:36+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291105",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "17.4K",
+      "views_label": "18.1K",
       "posted_at": "2026-09-09T00:24:35+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291104",
@@ -77,7 +105,7 @@
       "plain_text": "🔻ایران از حمله موشکی به اردن و بحرین خبر داد\n\nخبرگزاری نزدیک به منابع نظامی در ایران با انتشار تصاویری متعدد مدعی حمله موشکی گسترده این کشور به مواضع آمریکا در اردن خبر دادند و همچنین از هدف قرار دادن اهدافی در سواحل بحرین گزارش دادند.\n\nاین خبرگزاری‌ها با انتشار تصاویری مدعی شدند که حمله موشکی به پایگاه‌های نظامی موفق‌السلطی و شاهزاده حسن در اردن با «موفقیت» همراه بوده و تسلیحات ایرانی با عبور از سیستم‌های پدافندی به اهداف خود برخورد کرده‌اند.\n\nساعتی قبل هم برایتان اینجا گزارش کردیم که سپاه پاسداران با صدور اطلاعیه‌ای به خدمه نفتکش‌ها در بنادر بحرین و کویت هشدار داده که فورا آنها را ترک کنند چرا که مورد هدف قرار خواهند گرفت.\n\nhttps://bbc.in/4gJiClD\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "19K",
+      "views_label": "19.7K",
       "posted_at": "2026-09-08T23:50:36+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291103",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18K",
+      "views_label": "18.7K",
       "posted_at": "2026-09-08T23:44:50+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291102",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18K",
+      "views_label": "18.7K",
       "posted_at": "2026-09-08T23:26:41+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291101",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "21.5K",
+      "views_label": "22.2K",
       "posted_at": "2026-09-08T22:39:12+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291100",
@@ -177,7 +205,7 @@
       "plain_text": "🔻حوثی‌ها از حملات تلافی‌جویانه عربستان به دو استان یمن خبر دادند\n\nحوثی‌های یمن اعلام کردند که عربستان سعودی روز سه‌شنبه در واکنش به حملات این گروه به تأسیسات نفتی که منجر به مجروح شدن ده‌ها نفر شد، دست به حملات تلافی‌جویانه زده است.\n\nشبکه تلویزیونی «المسیره» متعلق به حوثی‌ها اعلام کرد که حمله عربستان استان‌های تعز و مأرب را هدف قرار داده است.\n\nمقام‌های سعودی هنوز در این باره اظهارنظر نکرده‌اند ولی پیشتر گفتند که حملات حوثی‌ها در طول شب موجب تعطیلی «موقت» تاسیسات نفتی و مجروح شدن ۷۳ نفر شد.\n\nآنها پس از حملات حوثی‌ها گفته بودند که به این حملات پاسخ خواهند داد.\n\nدبیرکل سازمان ملل متحد حملات حوثی‌ها را محکوم کرده است.\n\nhttps://bbc.in/4xiXHdT\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "28.5K",
+      "views_label": "28.8K",
       "posted_at": "2026-09-08T21:52:06+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291099",
@@ -193,7 +221,7 @@
       "plain_text": "🔻ایران از هدف قرار گرفتن یک نفتکش در سواحل جاسک خبر داد\n\nخبرگزاری‌های داخل ایران از هدف قرار گرفتن یک «شناور تجاری» در سواحل جاسک خبر دادند و همزمان مدعی شنیده شدن صدای انفجار در اردن شدند.\n\nشنیدن صدای انفجار در نزدیکی سواحل جاسک را حوالی ساعت ۱۰ شب به وقت محلی، ابتدا خبرگزاری فارس - نزدیک به سپاه پاسداران - گزارش کرده بود و اکنون خبرگزاری صدا و سیما از هدف قرار گرفتن این این نفتکش در نزدیکی آبهای این شهر ساحلی در جنوب ایران خبر داده است.\n\nخبرگزاری صداوسیما نیروهای آمریکایی را مسئول این حمله معرفی کرده است و در حالی که ابتدا از حمله به نفتکش دوم در حوالی جزیره خارگ خبر داده بود اما کمی بعد هدف قرار گرفتن نفتکش دوم را «تکذیب» کرد.\n\nhttps://bbc.in/4yiB0aE\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "29K",
+      "views_label": "29.6K",
       "posted_at": "2026-09-08T21:43:23+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291098",
@@ -221,7 +249,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.1K",
+      "views_label": "30.4K",
       "posted_at": "2026-09-08T21:35:56+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291097",
@@ -249,7 +277,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "35.5K",
+      "views_label": "35.8K",
       "posted_at": "2026-09-08T20:47:11+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291096",
@@ -265,7 +293,7 @@
       "plain_text": "📻پادکست برنامه شصت دقیقه سه‌شنبه ۱۷ شهریور ۱۴۰۵\n\nاین نسخه رادیویی برنامه شصت دقیقه تلویزیون فارسی بی‌بی‌سی است که هرشب بعد از پخش، با حجم کم از اپلیکیشن‌های پادگیر و صفحه تلگرام بی‌بی‌سی فارسی در دسترس است. با هشتگ BBCPersianRadio با ما در ارتباط باشید.\n\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "39.3K",
+      "views_label": "39.6K",
       "posted_at": "2026-09-08T20:20:25+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291095",
@@ -293,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "42K",
+      "views_label": "42.3K",
       "posted_at": "2026-09-08T20:05:04+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291094",
@@ -309,7 +337,7 @@
       "plain_text": "🔻گزارش رسانه‌های ایران از شنیده شدن صدای انفجار در جاسک\n\nرسانه‌های ایران از شنیده شدن صدای انفجار در جاسک در استان هرمزگان خبر می‌دهند.\n\nخبرگزاری فارس می‌گوید «حوالی ساعت ۲۱:۴۵ امشب، صدای انفجار در شهرستان جاسک شنیده شد.»\n\nاین خبرگزاری همچنین به نقل از منابع محلی گفته است «صدا از سمت دریا و نزدیکی منطقه سنگ سیاه به گوش رسیده و انفجار در دو مرحله و با فاصله کوتاه رخ داده است.»\n\nhttps://bbc.in/46LSn83\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "43.1K",
+      "views_label": "43.4K",
       "posted_at": "2026-09-08T19:43:13+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/291093",
@@ -325,7 +353,7 @@
       "plain_text": "🔻عراقچی به وزیر خارجه ژاپن: گفتگوهای ایران و عمان درباره تنگه هرمز پیشرفت داشته است\n\nعباس عراقچی، وزیر خارجه ایران، در یک گفتگوی تلفنی با توشیمیتسو موتگی، همتای ژاپنی خود، از «پیشرفت قابل توجه» مذاکرات ایران و عمان درباره تعیین مسیر موقت تردد کشتی‌ها در تنگه هرمز خبر داده است.\n\nاو بازگشت به وضعیت عادی در تنگه هرمز را به «بازگشت و پایبندی طرف آمریکایی به تعهدات و امضای خود در تفاهم نامه اسلام آباد» مشروط کرده است.\n\nابهام درباره بازشدن تنگه هرمز در حالیست که امروز حسن قشقاوی، سخنگوی کمیسیون امنیت ملی و سیاست خارجی مجلس شورای اسلامی، جرئیاتی درباره نحوه هزینه کرد عوارض تردد کشتی‌ها از تنگه هرمز ارائه کرده است.\n\nاو گفته است که منابع درآمدی حاصل از اعمال طرح اخذ عوارض در تنگه هرمز قرار است علاوه بر بودجه مصوب سالانه، «به معیشت مردم در قالب کالا برگ، تقویت بنیه دفاعی و زیرساختی کشور» اختصاص یابد.\n\nطرح راهبردی تنگه هرمز شامل ۹ موضوع تنگه و سه موضوع اصلاح قانون مناطق دریایی، در نیمه مرداد ماه در مجلس شورای اسلامی اعلام وصول شد و به کمیسیون امنیت ملی و سیاست خارجی ارجاع شده است.\n\nhttps://bbc.in/3Vk8RSk\n@BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "42.2K",
+      "views_label": "42.5K",
       "posted_at": "2026-09-08T19:40:44+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291092",
@@ -353,7 +381,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "47.5K",
+      "views_label": "47.8K",
       "posted_at": "2026-09-08T19:06:27+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291091",
@@ -381,7 +409,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "48.7K",
+      "views_label": "49K",
       "posted_at": "2026-09-08T18:27:34+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291090",
@@ -461,7 +489,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "48.2K",
+      "views_label": "48.5K",
       "posted_at": "2026-09-08T17:27:28+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/291086",
@@ -2312,34 +2340,6 @@
       "posted_at": "2026-09-07T05:54:58+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/290996",
-      "reply": null
-    },
-    {
-      "id": "bbcpersian/290995",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Rcx9zGv69UHGrtTVfPSpu_6MA3BWa9-TzEMakV2saM75bGdM7-C9EPn_zObD8xyEztAgGyVkr0gkzf3XqNBqTKn8DXaJtlmPDnP9IMmEJn5HRDIq0uoh5RWNxmPwN6cfXWAN3chJdbfau9xPME1lzW--0IaUt5uYTLX4YasbKmbb-44p8AKeTsbNsoccadYwzH-J7qVxfJ_-Dj3m494674xXDAR_k1wA67HV1D6RMQfI9kzQ5V9af4ldEWF5vHHqslNkvigVfmkCVHjteJ1zcIvqUiy2GAH5LiztyUnMtauIKOfhs0G74rjfmbSSLgaam_nQiulXLjg060I3oSK1KA.jpg",
-      "author_photo_path": "channels/bbcpersian/media/63160276cfca5480f4173d92.jpg",
-      "author_photo_sha256": "cf48535f60438757cd9b0534a23c038e85ac3e9a472bad98fdb8dd6f9211ad10",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F968B.png')\"><b>🖋</b></i>علی رمضانیان<br>روزنامه‌نگار اقتصادی<br><br>اقتصاد ایران پس از ماه‌ها درگیری نظامی با آمریکا و اسرائیل، هم‌زمان با فشار تحریم‌ها، اختلال در حمل‌ و نقل دریایی، کاهش واردات و صادرات کالا و در پی آن با کاهش درآمدهای ارزی روبه‌روست.<br><br>در شرایط کنونی، محدودیت در مسیرهای دریایی خلیج فارس و تنگه هرمز، یکی از مهم‌ترین گلوگاه‌های تجارت خارجی ایران را تحت تاثیر قرار داده است.<br><br>فرود عسگری، رئیس کل گمرک ایران، اعلام کرده است که از ابتدای سال ۱۴۰۵ تا ۲۵ مرداد، صادرات غیرنفتی کشور حدود ۱۵ میلیارد دلار بوده که نسبت به مدت مشابه سال قبل ۲۸.۲ درصد کاهش داشته است. واردات نیز با کاهش ۲۶.۱ درصدی به حدود ۱۷ میلیارد دلار رسیده است.<br><br>ادامه مطلب<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B8.png')\"><b>📸</b></i>Fatemeh Bahrami/Anadolu via Getty Images<br><a href=\"https://bbc.in/4A0A8t4\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4A0A8t4</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "🖋علی رمضانیان\nروزنامه‌نگار اقتصادی\n\nاقتصاد ایران پس از ماه‌ها درگیری نظامی با آمریکا و اسرائیل، هم‌زمان با فشار تحریم‌ها، اختلال در حمل‌ و نقل دریایی، کاهش واردات و صادرات کالا و در پی آن با کاهش درآمدهای ارزی روبه‌روست.\n\nدر شرایط کنونی، محدودیت در مسیرهای دریایی خلیج فارس و تنگه هرمز، یکی از مهم‌ترین گلوگاه‌های تجارت خارجی ایران را تحت تاثیر قرار داده است.\n\nفرود عسگری، رئیس کل گمرک ایران، اعلام کرده است که از ابتدای سال ۱۴۰۵ تا ۲۵ مرداد، صادرات غیرنفتی کشور حدود ۱۵ میلیارد دلار بوده که نسبت به مدت مشابه سال قبل ۲۸.۲ درصد کاهش داشته است. واردات نیز با کاهش ۲۶.۱ درصدی به حدود ۱۷ میلیارد دلار رسیده است.\n\nادامه مطلب⬇️\n📸Fatemeh Bahrami/Anadolu via Getty Images\nhttps://bbc.in/4A0A8t4\n@BBCPersian",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/290995",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/NXvpcDYlZZGVQWnrdvr_sJ2ptI8e1rq2L3dOCEb_glOHXqo8Y0SgxlBTG9osZW5mp2vFSl53pvWsfc7yuaIZrCTYKMsuYZ1rPNvvUN9-NRZAhCQP2IvS0kHvYAiOXl--VMk2QxAIOF4QBq05nxaqUZFTyMP8l95rTBQy0rtP0VGdESnBigNGwnUqePxtbGAIXRxXy1XLjCfbFHsen2CqxpPg4XjXOFYhMlUw7zM0ZhSMU8AZB6LVfhopjjSdPdr8qC9gRoHNGgvYQVbzp7Vi53cnisBblvfWU85sgZtj3MYWzkMnhuKvXQlHAdj4NAx1pzX9Q1K2nIWtoa9MoxuKfw.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/9e32025f37962cc3889c4f0e.jpg",
-          "thumbnail_sha256": "848a986131a09d0d6aecb16aa9bc266f4dc11f577c92cdec519e42a233e2861d",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "46.3K",
-      "posted_at": "2026-09-07T05:35:11+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/290995",
       "reply": null
     }
   ]
