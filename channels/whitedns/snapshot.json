@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T14:26:45.749Z",
+  "fetched_at": "2026-09-09T14:31:35.411Z",
   "channel": {
     "username": "whitedns",
     "title": "White DNS",
@@ -11,6 +11,35 @@
     "subscriber_count": "108K"
   },
   "posts": [
+    {
+      "id": "whitedns/1741",
+      "author_name": "White DNS",
+      "author_photo_url": "https://cdn4.telesco.pe/file/kugO4Sx9plmhqi_-U-v-pyvm0O8ysmN1hjV1Pf1mn1zIMmeV25QCSgG4lwLSpMwRUn4a12xT832nMUWAbXgQjEIdZsgiyfJASqGM2kcdMTsij_lnaiXmVWJpvaIYDPE8zkfL01WMZHGEnaLlJLI1ol0Mv1AVnSZO9stZzAXAzPZkudfSRFD8shojnGBfgD13bA2dCfBHVz47aL2zimDQcBc70YJICVC-6HrI_O_zTlYldgrWqmSRr-ZbD4pQZ4xkcCypMtGdOIbMm1Q9odjpsTGt6EjzTDoRRoCcbEnzliIlHu1I1TLuqfofh23y4jzhtBtNfsUeKG_63cw-2xFszg.jpg",
+      "author_photo_path": "channels/whitedns/media/ff211cfb3efe0f7033a6ff49.jpg",
+      "author_photo_sha256": "333c4e41d2bf79dd691d47900c56c348640a2318a91227017dc547fbda818224",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i> <b>وایت‌اِستر دسکتاپ نسخهٔ ۱.۸.۰ منتشر شد</b><br><code>WhiteAesther Desktop v1.8.0</code><br>حالا سه راه خروج دارید، نه یکی.<br>تا امروز ترافیک شما از مسیر کلادفلر عبور می‌کرد. این مسیر سریع است، اما معمولاً کشور خروج شما را تغییر نمی‌دهد.<br>از نسخهٔ ۱.۸.۰ دو مسیر جدید اضافه شده است:<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i> <b>اِتر</b><br><code>Aether</code><br>همان حالت قبلی و سریع‌ترین گزینه برای استفاده روزمره.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i> <b>سایفون</b><br><code>Psiphon</code><br>مسیر مناسب را پیدا می‌کند و امکان انتخاب کشور خروج را می‌دهد.<br>در حال حاضر <b>۲۵ کشور</b> در دسترس است.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA785.png')\"><b>🧅</b></i> <b>تور</b><br><code>Tor</code><br>ترافیک را از چند بازپخش عبور می‌دهد؛ مناسب‌تر برای حریم خصوصی، اما کندتر.<br>پل نیز پشتیبانی می‌شود و امکان دریافت خودکار پل وجود دارد.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i> هر سه مسیر با قابلیت‌های زیر کار می‌کنند:<br>• زنجیرهٔ خروج<br>• کل دستگاه<br>• تونل کامل<br>تنظیمات قبلی شما تغییری نکرده است. اگر چیزی را تغییر ندهید، برنامه مثل قبل کار خواهد کرد.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> <b>دانلود نسخه دسکتاپ</b><br><a href=\"https://github.com/WhiteDNS/WhiteAesther/releases/latest\" target=\"_blank\" rel=\"noopener\">https://github.com/WhiteDNS/WhiteAesther/releases/latest</a><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9396.png')\"><b>📖</b></i> <b>آموزش کامل مسیرهای خروج جدید</b><br><blockquote expandable=\"\">برای مشاهده، بخش زیر را باز کنید <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><b>۱️⃣ انتخاب راه خروج</b><br>وارد این بخش شوید:<br><b>پیشرفته ← مسیرها و پروتکل‌ها</b><br>در کارت <b>«راه خروج»</b> سه گزینه دارید.<br><b>اِتر</b><br>Aether<br>همان حالت قبلی و سریع‌ترین مسیر.<br><b>سایفون</b><br>Psiphon<br>پیدا کردن خودکار مسیر و امکان انتخاب کشور خروج.<br><b>تور</b><br>Tor<br>مناسب‌تر برای ناشناس‌ماندن، اما کندتر.<br>مسیر موردنظر را انتخاب کنید و سپس <b>اتصال</b> را بزنید.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> در حالت سایفون و تور، تنظیمات نقطهٔ پایانی و انتخاب پروتکل اثری ندارند؛ این موارد فقط مخصوص اِتر هستند.<br>━━━━━━━━━━<br><b>۲️⃣ انتخاب کشور خروج در سایفون</b><br>بعد از انتخاب سایفون، گزینه <b>«کشور خروج»</b> ظاهر می‌شود.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i> در اولین استفاده ممکن است فقط <b>«بهترین گزینه موجود»</b> نمایش داده شود.<br>این طبیعی است؛ فهرست کشورها بعد از اولین اتصال موفق دریافت می‌شود.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i> انتخاب کشور یک ترجیح است، نه تضمین.<br>بعضی کشورها ظرفیت کمتری دارند و ممکن است اتصال به آن‌ها موفق نشود.<br>اگر یک کشور متصل نشد، گزینه <b>«بهترین گزینه موجود»</b> را انتخاب کنید تا سایفون از تمام سرورهای قابل دسترس استفاده کند.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9484.png')\"><b>🔄</b></i> تغییر کشور نیازمند اتصال مجدد است.<br>━━━━━━━━━━<br><b>۳️⃣ تور و پل‌ها</b><br>بعد از انتخاب تور، بخش <b>«پل‌ها»</b> نمایش داده می‌شود.<br><b>خاموش</b><br>اتصال مستقیم به تور.<br><b>همراه برنامه</b><br>استفاده از پل‌های داخلی.<br>گزینه‌های ترابرد:<br>obfs4<br>snowflake<br>meek<br><b>چسبانده‌شده</b><br>برای وارد کردن پل شخصی.<br>در این حالت می‌توانید پل را دستی وارد کنید یا گزینه <b>«از تور پل بگیر»</b> را بزنید.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9491.png')\"><b>🔑</b></i> هنگام دریافت پل، کشوری را وارد کنید که از آن متصل هستید.<br>مثال:<br>IR<br>منظور کشور فعلی شماست، نه کشوری که می‌خواهید آی‌پی خروجی آن را داشته باشید.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> ابتدا با اِتر یا سایفون متصل شوید و بعد پل بگیرید.<br>پل‌های جدید به فهرست اضافه می‌شوند و موارد قبلی حذف نمی‌شوند.<br>━━━━━━━━━━<br><b>۴️⃣ نکته مهم درباره تور</b><br>تور فقط ترافیک زیر را عبور می‌دهد:<br>TCP<br>برنامه درخواست‌های ناسازگار را مدیریت می‌کند تا اتصال بی‌دلیل معلق نماند.<br>برای بازی، تماس تصویری و استفاده‌های حساس به تأخیر، اِتر یا سایفون انتخاب مناسب‌تری هستند.<br>━━━━━━━━━━<br><b>۵️⃣ اگر راه خروج قطع شود</b><br>اگر پردازش سایفون یا تور متوقف شود، وایت‌اِستر آن را تشخیص می‌دهد، وضعیت را <b>«خطا»</b> نشان می‌دهد و زنجیره اتصال را می‌بندد.<br>اگر گزینه <b>«اگر تونل قطع شد، ترافیک را مسدود کن»</b> فعال باشد، ترافیک بسته باقی می‌ماند تا خارج از تونل ارسال نشود.<br>برای بازگرداندن اتصال، ابتدا <b>قطع اتصال</b> را بزنید.</blockquote><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D93.png')\"><b>❓</b></i> <b>اگر سؤال یا مشکلی داشتید، در گروه وایت‌دی‌ان‌اس مطرح کنید.</b><br><a href=\"https://t.me/whitedns\" target=\"_blank\">@whitedns</a>",
+      "plain_text": "🚀 وایت‌اِستر دسکتاپ نسخهٔ ۱.۸.۰ منتشر شد\nWhiteAesther Desktop v1.8.0\nحالا سه راه خروج دارید، نه یکی.\nتا امروز ترافیک شما از مسیر کلادفلر عبور می‌کرد. این مسیر سریع است، اما معمولاً کشور خروج شما را تغییر نمی‌دهد.\nاز نسخهٔ ۱.۸.۰ دو مسیر جدید اضافه شده است:\n⚡️ اِتر\nAether\nهمان حالت قبلی و سریع‌ترین گزینه برای استفاده روزمره.\n🌐 سایفون\nPsiphon\nمسیر مناسب را پیدا می‌کند و امکان انتخاب کشور خروج را می‌دهد.\nدر حال حاضر ۲۵ کشور در دسترس است.\n🧅 تور\nTor\nترافیک را از چند بازپخش عبور می‌دهد؛ مناسب‌تر برای حریم خصوصی، اما کندتر.\nپل نیز پشتیبانی می‌شود و امکان دریافت خودکار پل وجود دارد.\n✅ هر سه مسیر با قابلیت‌های زیر کار می‌کنند:\n• زنجیرهٔ خروج\n• کل دستگاه\n• تونل کامل\nتنظیمات قبلی شما تغییری نکرده است. اگر چیزی را تغییر ندهید، برنامه مثل قبل کار خواهد کرد.\n⬇️ دانلود نسخه دسکتاپ\nhttps://github.com/WhiteDNS/WhiteAesther/releases/latest\n📖 آموزش کامل مسیرهای خروج جدید\nبرای مشاهده، بخش زیر را باز کنید 👇\n۱️⃣ انتخاب راه خروج\nوارد این بخش شوید:\nپیشرفته ← مسیرها و پروتکل‌ها\nدر کارت «راه خروج» سه گزینه دارید.\nاِتر\nAether\nهمان حالت قبلی و سریع‌ترین مسیر.\nسایفون\nPsiphon\nپیدا کردن خودکار مسیر و امکان انتخاب کشور خروج.\nتور\nTor\nمناسب‌تر برای ناشناس‌ماندن، اما کندتر.\nمسیر موردنظر را انتخاب کنید و سپس اتصال را بزنید.\n⚠️ در حالت سایفون و تور، تنظیمات نقطهٔ پایانی و انتخاب پروتکل اثری ندارند؛ این موارد فقط مخصوص اِتر هستند.\n━━━━━━━━━━\n۲️⃣ انتخاب کشور خروج در سایفون\nبعد از انتخاب سایفون، گزینه «کشور خروج» ظاهر می‌شود.\n🔸 در اولین استفاده ممکن است فقط «بهترین گزینه موجود» نمایش داده شود.\nاین طبیعی است؛ فهرست کشورها بعد از اولین اتصال موفق دریافت می‌شود.\n🔸 انتخاب کشور یک ترجیح است، نه تضمین.\nبعضی کشورها ظرفیت کمتری دارند و ممکن است اتصال به آن‌ها موفق نشود.\nاگر یک کشور متصل نشد، گزینه «بهترین گزینه موجود» را انتخاب کنید تا سایفون از تمام سرورهای قابل دسترس استفاده کند.\n🔄 تغییر کشور نیازمند اتصال مجدد است.\n━━━━━━━━━━\n۳️⃣ تور و پل‌ها\nبعد از انتخاب تور، بخش «پل‌ها» نمایش داده می‌شود.\nخاموش\nاتصال مستقیم به تور.\nهمراه برنامه\nاستفاده از پل‌های داخلی.\nگزینه‌های ترابرد:\nobfs4\nsnowflake\nmeek\nچسبانده‌شده\nبرای وارد کردن پل شخصی.\nدر این حالت می‌توانید پل را دستی وارد کنید یا گزینه «از تور پل بگیر» را بزنید.\n🔑 هنگام دریافت پل، کشوری را وارد کنید که از آن متصل هستید.\nمثال:\nIR\nمنظور کشور فعلی شماست، نه کشوری که می‌خواهید آی‌پی خروجی آن را داشته باشید.\n💡 ابتدا با اِتر یا سایفون متصل شوید و بعد پل بگیرید.\nپل‌های جدید به فهرست اضافه می‌شوند و موارد قبلی حذف نمی‌شوند.\n━━━━━━━━━━\n۴️⃣ نکته مهم درباره تور\nتور فقط ترافیک زیر را عبور می‌دهد:\nTCP\nبرنامه درخواست‌های ناسازگار را مدیریت می‌کند تا اتصال بی‌دلیل معلق نماند.\nبرای بازی، تماس تصویری و استفاده‌های حساس به تأخیر، اِتر یا سایفون انتخاب مناسب‌تری هستند.\n━━━━━━━━━━\n۵️⃣ اگر راه خروج قطع شود\nاگر پردازش سایفون یا تور متوقف شود، وایت‌اِستر آن را تشخیص می‌دهد، وضعیت را «خطا» نشان می‌دهد و زنجیره اتصال را می‌بندد.\nاگر گزینه «اگر تونل قطع شد، ترافیک را مسدود کن» فعال باشد، ترافیک بسته باقی می‌ماند تا خارج از تونل ارسال نشود.\nبرای بازگرداندن اتصال، ابتدا قطع اتصال را بزنید.\n❓ اگر سؤال یا مشکلی داشتید، در گروه وایت‌دی‌ان‌اس مطرح کنید.\n@whitedns",
+      "media": [],
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": "13"
+        },
+        {
+          "emoji": "❤",
+          "count": "2"
+        },
+        {
+          "emoji": "💘",
+          "count": "1"
+        }
+      ],
+      "views_label": "522",
+      "posted_at": "2026-09-09T14:27:54+00:00",
+      "edited": false,
+      "permalink": "https://t.me/whitedns/1741",
+      "reply": null
+    },
     {
       "id": "whitedns/1740",
       "author_name": "White DNS",
@@ -35,7 +64,7 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "345"
+          "count": "346"
         },
         {
           "emoji": "❤",
@@ -74,7 +103,7 @@
           "count": "1"
         }
       ],
-      "views_label": "7.32K",
+      "views_label": "7.5K",
       "posted_at": "2026-09-09T08:20:51+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1740",
@@ -141,7 +170,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "123"
+          "count": "124"
         },
         {
           "emoji": "❤‍🔥",
@@ -180,7 +209,7 @@
           "count": "1"
         }
       ],
-      "views_label": "13.2K",
+      "views_label": "13.3K",
       "posted_at": "2026-09-08T08:02:42+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1738",
@@ -214,7 +243,7 @@
         },
         {
           "emoji": "❤",
-          "count": "271"
+          "count": "272"
         },
         {
           "emoji": "🤩",
@@ -257,7 +286,7 @@
           "count": "1"
         }
       ],
-      "views_label": "15.2K",
+      "views_label": "15.3K",
       "posted_at": "2026-09-07T05:09:07+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1737",
@@ -387,7 +416,7 @@
           "count": "1"
         }
       ],
-      "views_label": "14.4K",
+      "views_label": "14.5K",
       "posted_at": "2026-09-06T11:25:09+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1735",
@@ -452,7 +481,7 @@
           "count": "1"
         }
       ],
-      "views_label": "13.6K",
+      "views_label": "13.7K",
       "posted_at": "2026-09-06T11:19:46+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1734",
@@ -590,7 +619,7 @@
           "count": "1"
         }
       ],
-      "views_label": "13.2K",
+      "views_label": "13.3K",
       "posted_at": "2026-09-06T11:16:57+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1728",
@@ -1210,7 +1239,7 @@
           "count": "1"
         }
       ],
-      "views_label": "8.94K",
+      "views_label": "8.95K",
       "posted_at": "2026-09-04T09:58:13+00:00",
       "edited": false,
       "permalink": "https://t.me/whitedns/1712",
@@ -5471,59 +5500,6 @@
       "posted_at": "2026-08-24T11:12:23+00:00",
       "edited": true,
       "permalink": "https://t.me/whitedns/1594",
-      "reply": null
-    },
-    {
-      "id": "whitedns/1593",
-      "author_name": "White DNS",
-      "author_photo_url": "https://cdn4.telesco.pe/file/O1zsqJ255LgT5Ukaqz2IiLG9dLLRVkK-wHpqoR5pDCXa-2jggB5HlxRacDti_5DVcFGFthg1zS-lmH-0G8IoXA4_Nlqllx_Nd-NK7vO2l2PwN-pjDuzq1huhgFKavqLAv8Jnw5Gh4pZbIn5OjFdxyqSj5Q2EVokhCMsjR8P6feDQaaWE1nLJ1agdMZK8WmBwLHCTJSiYth59eTAWYVtrSIvtJzp3pabqKxL_sMi3j5X3tFIcWabnkn15COdkzGaWIpqag2iN9EA6S8kkKagGF869jr_0KfLgA8fZcqKneap8KFTmbKLSvTDMx2pNN12Z8VgsxAcVOsgAwyl87ksrnw.jpg",
-      "author_photo_path": "channels/whitedns/media/e949376a516faa9033438252.jpg",
-      "author_photo_sha256": "333c4e41d2bf79dd691d47900c56c348640a2318a91227017dc547fbda818224",
-      "body_html": "<tg-emoji emoji-id=\"5224450179368767019\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C8E.png')\"><b>🌎</b></i></tg-emoji> <b>انتشار نسخه ۱.۶.۲ WhiteDNS برای اندروید</b>",
-      "plain_text": "🌎 انتشار نسخه ۱.۶.۲ WhiteDNS برای اندروید",
-      "media": [],
-      "reactions": [
-        {
-          "emoji": "⭐",
-          "count": "3"
-        },
-        {
-          "emoji": "❤",
-          "count": "258"
-        },
-        {
-          "emoji": "🙏",
-          "count": "9"
-        },
-        {
-          "emoji": "❤‍🔥",
-          "count": "6"
-        },
-        {
-          "emoji": "👍",
-          "count": "4"
-        },
-        {
-          "emoji": "😍",
-          "count": "3"
-        },
-        {
-          "emoji": "🔥",
-          "count": "2"
-        },
-        {
-          "emoji": "👏",
-          "count": "1"
-        },
-        {
-          "emoji": "🍾",
-          "count": "1"
-        }
-      ],
-      "views_label": "13.9K",
-      "posted_at": "2026-08-24T11:06:42+00:00",
-      "edited": true,
-      "permalink": "https://t.me/whitedns/1593",
       "reply": null
     }
   ]

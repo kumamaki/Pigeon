@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T14:26:40.183Z",
+  "fetched_at": "2026-09-09T14:31:29.700Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -43,7 +43,7 @@
         },
         {
           "emoji": "❤",
-          "count": "33"
+          "count": "34"
         },
         {
           "emoji": "🎉",
@@ -78,7 +78,7 @@
           "count": "1"
         }
       ],
-      "views_label": "22.9K",
+      "views_label": "23K",
       "posted_at": "2026-09-09T04:44:21+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2596",
@@ -108,7 +108,7 @@
       "reactions": [
         {
           "emoji": "😢",
-          "count": "161"
+          "count": "162"
         },
         {
           "emoji": "🤬",
@@ -415,8 +415,8 @@
           "asset_url": "https://t.me/ircfspace/2590",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/jvUBUfdZDSSUWPXgmylB5ZjTngLidS9ql0Szc19fAHcgi2LLtKpFiyc281ttgN8kWS6ME9hh84c57Urh1pbc1lDYbJopY2vpx1vjF4vKaQpyEIKUhxKtK1igJHR859iaYqt3cHjGxhcALLj3QbqTv7IXRm48ZLdzQmfgwbK-cuTv2PeQl4vJGLLPscQnc9aoYeI4GLWwl3Xe82Xb5rjLLfenjNE0rV-0up1GwOvhr4puM0Px0rx5jLfxGddW7sRZ9BPAoFCfeq2Msb0mPmyyzBaKnOKYji-hUq4gJkskWKGe98G1VaLWyIT-oSIH8tYAScX-bfxScBJMnjdjzYXwmQ.jpg",
-          "thumbnail_path": "channels/ircfspace/media/249c9ea3fae33436f12e888e.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/LkaZVjc7E9S65Zmlq9slfBaKCZulUV7D4q2fExLluu_4dfzWhtpvikK8lC4UCb8EpDLYIr4mbrX_CPVYrBzwLF-3PoX5-b7GQCDoiSD_oAVZ9rZSL7jpG3uUgFm74AJhw9NNqYRN_vTmOG16YOxLXFjv1DAi7lrLsrfOaUmzUw_c48v37vIBtvD_Hn2rnbUFII7WC03kU7hYeiqp6u-iieXunlZCk5wwJZ6gKB7_7dMHXk-c5bJv1b4TGJ_cXquDpsfiEzTUedNgyBVByoBPDuVOD5dDeAqovJbSk6QSe5i6Xnb7i60bLIZTEcWz7kSbik-2K6971kJNy5Na8ucGHA.jpg",
+          "thumbnail_path": "channels/ircfspace/media/32e264e2e2079a57d5a0c51f.jpg",
           "thumbnail_sha256": "8847e1810b8b75c954b240f27dcf889be1c4f7f03238ec2d811027c0ed5fe6a4",
           "duration_label": null,
           "aspect_ratio": 1.7429193899782136
