@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T15:26:55.947Z",
+  "fetched_at": "2026-09-09T15:32:04.151Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229993",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "درخواست تازه واشنگتن از بغداد برای قطع مسیرهای مالی جمهوری اسلامی",
+      "plain_text": "درخواست تازه واشنگتن از بغداد برای قطع مسیرهای مالی جمهوری اسلامی",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/229993",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/fcOVXQHp1KuqjllRWmffRj5rW5f4w9lGDxNAHECw-yIeS6TZMCgCOJ5Ahzy67GJT3Mi_fd9ffoQ8A0XtFT2sZWIM9s8kScR9WhAPxq7BtN_c33lYtZtYUh1Gs7d9Kc4SC_vNE43U8C_4ExgRO_NrHpXTRR_CsHNW_ggot2GxWMocBztfeL47CMj03-PVaqHa_qmCJzqEvJkfvgrbEn6c4CxsAZWKRyFf4Xww5eT_HwUFb5ZRlsm_-19aBcf-XmYjosgt--fSKTQ0fSjFTU4UPWTrtXVzuAh09EklQtFoWGRCwkooRd-TB0zLtInD91_CkMis6prQS9-h3Zoy9MFkdA",
+          "thumbnail_path": "channels/farsivoa/media/ed9ed06f9c7c080d6cc49924.jpg",
+          "thumbnail_sha256": "e341d1013ad0c3479fa4d1560add41962922fca522b9ef17f6af5d03e201484e",
+          "duration_label": "3:41",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "66",
+      "posted_at": "2026-09-09T15:31:16+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229993",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229992",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺دیدار وزیر خارجه آمریکا با مقامات اکوادور در جریان سفری با هدف تقویت روابط امنیتی و اقتصادی\n\n▪️مارکو روبیو، وزیر امور خارجه آمریکا، روز چهارشنبه ۱۸ شهریور در شهر کیتو با دانیل نوبوا، رئیس‌جمهوری اکوادور، دیدار می‌کند. این دیدار بخشی از یک سفر دوره‌ای به سه کشور آمریکای لاتین کلمبیا، اکوادور، و پرو است که با هدف تقویت روابط امنیتی و اقتصادی انجام می‌شود.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/marco-rubio-trip-to-three-latin-american-countries/8196022.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "256",
+      "views_label": "487",
       "posted_at": "2026-09-09T15:22:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229992",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.39K",
+      "views_label": "1.52K",
       "posted_at": "2026-09-09T14:37:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229991",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.78K",
+      "views_label": "1.91K",
       "posted_at": "2026-09-09T14:23:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229990",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.31K",
+      "views_label": "2.41K",
       "posted_at": "2026-09-09T14:02:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229989",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.76K",
+      "views_label": "2.86K",
       "posted_at": "2026-09-09T13:40:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229988",
@@ -149,7 +177,7 @@
       "plain_text": "🔺گزارش سی‌ان‌ان از افزایش ساخت‌وساز در تاسیسات هسته‌ای مشکوک «کوه کلنگ»\n\n▪️«مرکز مطالعات راهبردی و بین‌المللی» گزارش داد که بررسی تصاویر ماهواره‌ای شش سال گذشته حکایت از افزایش آشکار ساخت‌وساز در سایت مشکوک هسته‌ای «کوه کلنگ» در نزدیکی نطنز دارد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/increase-in-construction-pickaxe-mountain-nuclear-site/8195992.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.96K",
+      "views_label": "3.02K",
       "posted_at": "2026-09-09T13:25:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229987",
@@ -177,7 +205,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.85K",
+      "views_label": "2.88K",
       "posted_at": "2026-09-09T13:14:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229986",
@@ -205,7 +233,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.66K",
+      "views_label": "2.72K",
       "posted_at": "2026-09-09T13:07:16+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229985",
@@ -233,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.74K",
+      "views_label": "2.77K",
       "posted_at": "2026-09-09T12:57:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229984",
@@ -277,7 +305,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.67K",
+      "views_label": "2.7K",
       "posted_at": "2026-09-09T12:48:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229982",
@@ -305,7 +333,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.68K",
+      "views_label": "2.72K",
       "posted_at": "2026-09-09T12:35:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229981",
@@ -333,7 +361,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.69K",
+      "views_label": "2.73K",
       "posted_at": "2026-09-09T12:24:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229980",
@@ -361,7 +389,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.77K",
+      "views_label": "2.8K",
       "posted_at": "2026-09-09T12:18:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229979",
@@ -377,7 +405,7 @@
       "plain_text": "🔺سنتکام ادعای سپاه مبنی بر هدف قرار دادن دو ناو جنگی آمریکا را رد کرد\n\n▪️فرماندهی مرکزی ایالات متحده آمریکا با رد ادعای روز چهارشنبه سپاه پاسداران انقلاب اسلامی درباره هدف قرار دادن دو ناوشکن فعال نیروی دریایی آمریکا در خاورمیانه تصریح کرد این ادعا کاملاً نادرست است.\n\n▪️این بیانیه می‌افزاید هیچ ناو جنگی نیروی دریایی آمریکا هدف قرار نگرفته و تمام تلاشهای سپاه پاسداران برای حمله ناکام مانده‌ است.\n\n▪️سنتکام در ادامه گفته است در همین حال، نیروهای آمریکایی تنها در هفته گذشته با موفقیت ۱۰ نفتکش ایرانی را منهدم کرده‌اند: «این نفتکش‌ها بخشی از یک شبکه چندمیلیارد دلاری موسوم به ناوگان سایه بودند که منابع مالی سپاه پاسداران را تأمین می‌کرد و جمهوری اسلامی قادر به دفاع از آنها نیست».\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195990.html",
       "media": [],
       "reactions": [],
-      "views_label": "3.1K",
+      "views_label": "3.13K",
       "posted_at": "2026-09-09T11:59:07+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229978",
@@ -433,7 +461,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.92K",
+      "views_label": "2.96K",
       "posted_at": "2026-09-09T11:43:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229975",
@@ -449,7 +477,7 @@
       "plain_text": "🔺آغاز مطالعات امکان‌سنجی احداث خط لوله نفتی جایگزین تنگه هرمز در عراق\n\n▪️وزارت نفت عراق از آغاز مطالعات امکان‌سنجی احداث خط لوله نفتی جایگزین تنگه هرمز در خاک این کشور به مقصد ترکیه و سوریه خبر داد.\n\n▪️صادرات نفت عراق از زمان اخلال جمهوری اسلامی در تنگه هرمز نسبت به دور مشابه پارسال ۶۷ درصد کاهش یافته، اگرچه طی چند ماه گذشته روند صعودی داشته و هم اکنون به سه میلیون بشکه در روز رسیده که دو سوم دیگر با کمک آمریکا و ناوگان امارات از تنگه هرمز می‌گذرد.\n\n▪️عراق در نظر دارد خط لوله نفتی با ظرفیت انتقال روزانه ۲ میلیون بشکه از منطقه نفتی بصره در خلیج فارس به حدیثه احداث کند که از آنجا نیز خطوط لوله جداگانه‌ای به بندر جیهان ترکیه و بندر بانیاس سوریه احداث خواهد شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195985.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.99K",
+      "views_label": "3K",
       "posted_at": "2026-09-09T11:35:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229974",
@@ -477,7 +505,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.93K",
+      "views_label": "2.96K",
       "posted_at": "2026-09-09T11:27:45+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229973",
@@ -505,7 +533,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.03K",
+      "views_label": "3.06K",
       "posted_at": "2026-09-09T11:18:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229972",
@@ -2481,34 +2509,6 @@
       "posted_at": "2026-09-08T18:03:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229891",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229890",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "ویدیویی منتشرشده در شبکه‌های اجتماعی، گلایه‌های یک کارگر در ماهشهر از شرایط دشوار زندگی و مشکلات معیشتی را نشان می‌دهد.<br><br>او با ابراز خستگی و ناامیدی می‌گوید: «هرچی تلاش می‌کنیم به هیچ‌جا نمی‌رسیم… توی جوانی پیر شدیم.»<br><br>این کارگر با اشاره به فشارهای زندگی می‌پرسد: «کجا بریم، پیش کی شکایت کنیم، پیش کی حرف بزنیم؟ کی حرفامونو گوش می‌ده؟» و می‌افزاید: «هیچی زندگی نکردیم، کی می‌خوایم زندگی کنیم؟»<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "ویدیویی منتشرشده در شبکه‌های اجتماعی، گلایه‌های یک کارگر در ماهشهر از شرایط دشوار زندگی و مشکلات معیشتی را نشان می‌دهد.\n\nاو با ابراز خستگی و ناامیدی می‌گوید: «هرچی تلاش می‌کنیم به هیچ‌جا نمی‌رسیم… توی جوانی پیر شدیم.»\n\nاین کارگر با اشاره به فشارهای زندگی می‌پرسد: «کجا بریم، پیش کی شکایت کنیم، پیش کی حرف بزنیم؟ کی حرفامونو گوش می‌ده؟» و می‌افزاید: «هیچی زندگی نکردیم، کی می‌خوایم زندگی کنیم؟»\n\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229890",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/vokGC_rj1VEqQpLQG9m6_YKifCgFEWpx6tRETBXTiac84-qyLLKfAQiHG8AReqjmvo9z0wQENirAPQoKZOAXvRelwSHq-g0GbfqZFapiKtUvUxE_E8AxggpdKWRlB0mBdY9uvdEHwKXmUdrojeZtzK-p5a-mWifSsaDFu_eUK8uE6U8uqONSfO4X2ZtlpF9D-KJVHttPq9XuK08o1abtcOBBPduqFUzRajhiEgohvhOJ6kTty4DSHYVa2ZQmkNBE-7WyrqPx6nrqJfEtQslL35geIBCPS8XP3MjDcHimmjZz5H35V9AEMnU1YCgK8y13HUQmjAINTNEuyRBX91cZ_w",
-          "thumbnail_path": "channels/farsivoa/media/ffd69c874846f88c5d30c76b.jpg",
-          "thumbnail_sha256": "c35663bda3e5899b6c07a395115a8f141ca2e4cb186dfb22870895812304d52c",
-          "duration_label": "1:06",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.26K",
-      "posted_at": "2026-09-08T17:54:58+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229890",
       "reply": null
     }
   ]
