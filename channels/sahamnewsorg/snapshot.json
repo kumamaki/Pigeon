@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T22:37:46.034Z",
+  "fetched_at": "2026-09-09T22:42:12.837Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -11,6 +11,34 @@
     "subscriber_count": "217K"
   },
   "posts": [
+    {
+      "id": "sahamnewsorg/147260",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/Zoy8RFbVnnaOpXDYanUjc5P5TFWbyANk5oxWrUqjD9t-XDEhYDSx_1Ve3cWAyXPB_rL8HAYVvMR3KiZC4wqiAPfDfFJXxSLfdh0H6MrVA7mvZNB7JhQO0cBZP2cxnI0_0tF6osIdEI0vW5E18v6kdPLgdAz7mpOwa5RbBSgPMvq0NCGBNNMENMbIyGkPypZ3k2MPnh7Ml6iQcolcq1icALbTDCDR2b8fBXBOiJ7uzCs7QMep5OcHU_kpfHfu772WEdytKOUTB9bCvI0qRv5ldOne98_8jcVQrqffy8o-4OQJVba0WO-Nv2mUfdVZY7QlpqFezRIxeCSU_Qd7J2-ewg.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/495ecc8ee04d25aeb2362aae.jpg",
+      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>ارجاعِ پرونده هسته‌ای ایران به شورای امنیت سازمان ملل» با «چراغِ سبزِ شورای حکامِ آژانس بین المللی انرژی اتمی» به دنبال مشروع‌سازی یک اقدامِ خاصِ آمریکا _احتمالا در حوزه ی هسته‌ای_ علیه ایران است!<br>‏<br>کفِ این اقدام احتمالا «حمله به تاسیسات کوه کلنگ» است؛ البته « ایران» پیش‌تر به واسطه‌ها اعلام کرده بود که واکنش‌ش در مقابله با حمله به کوهِ کلنگ چیست.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅ارجاعِ پرونده هسته‌ای ایران به شورای امنیت سازمان ملل» با «چراغِ سبزِ شورای حکامِ آژانس بین المللی انرژی اتمی» به دنبال مشروع‌سازی یک اقدامِ خاصِ آمریکا _احتمالا در حوزه ی هسته‌ای_ علیه ایران است!\n‏\nکفِ این اقدام احتمالا «حمله به تاسیسات کوه کلنگ» است؛ البته « ایران» پیش‌تر به واسطه‌ها اعلام کرده بود که واکنش‌ش در مقابله با حمله به کوهِ کلنگ چیست.\n\n@Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/147260",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/LSKm_gtsTQKjJqr0ZaKQ08BWp0gVvNqaUvIxq4q0nTk4REOdNyZY9l5vbQiF4446nMgTGP9GuYfmiVkJkLUH-c7hWxUDW3hQQazCX_UqShD1tzeGq5Rkyg0pZGSLjf0mGrPLkUupqlsr9e09uF2n1VJwC9tqhqHO5gI30NQXG-GvNjJxd6sh6DsoYP8QTH5wWFq3PfL3j-nuj2oeZFTIpK3tN-Z91k8lTjceiMeithbExdPFYx34K5yzDXvgDGxryoDew2IjMjfgzP5f7ULJNiiZ8ad2usMIknBvRyFrDMEmdMBV8RHFnfdlghAtE0mqxNxpdmqGvPrEYXNqCv9z_w.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/3e2f768fee8118807f8a482f.jpg",
+          "thumbnail_sha256": "db1a41d5a0554648bc6d27d0708ad5dd49c91a499e4db415ecf2191521a181aa",
+          "duration_label": null,
+          "aspect_ratio": 1.4388489208633093
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-09T22:41:53+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/147260",
+      "reply": null
+    },
     {
       "id": "sahamnewsorg/147259",
       "author_name": "سهام نیوز",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.5K",
+      "views_label": "8.99K",
       "posted_at": "2026-09-09T22:00:24+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147259",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.3K",
+      "views_label": "9.74K",
       "posted_at": "2026-09-09T21:57:34+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147258",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "22.9K",
+      "views_label": "23.2K",
       "posted_at": "2026-09-09T20:46:58+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147257",
@@ -105,7 +133,7 @@
       "plain_text": "✅انفجار نارنجک در مهران؛ یک کشته و ۲ مأمور زخمی شدند\n\n🔸 فرماندار مهران از انفجار یک قبضه نارنجک هنگام انتقال متهم امنیتی در شهرک اسلامیه خبر داد که بر اثر آن متهم کشته و ۲ ضابط قضایی مصدوم شدند.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "22.9K",
+      "views_label": "23.2K",
       "posted_at": "2026-09-09T20:45:17+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147256",
@@ -121,7 +149,7 @@
       "plain_text": "✅وزیر خارجه آمریکا: اقتصاد ایران را خفه خواهیم کرد\n\nایران بهای حمله به کشتی‌های جنگی ما را خواهد پرداخت\n\n🔸 وزیر امور خارجه آمریکا در تازه‌ترین اظهارات خود درباره ایران گفت که به باور او، هیچ کشور یا نهادی در حال حاضر از تهران حمایت نظامی نمی‌کند.\n\n🔸 او همچنین مدعی شد که ایران همچنان به سمت کشتی‌های جنگی آمریکا شلیک می‌کند و گفت تهران با از دست دادن نفتکش‌های خود، بهای این اقدامات را خواهد پرداخت.\n\n🔸 وزیر خارجه آمریکا در ادامه با تأکید بر تداوم فشارهای اقتصادی علیه تهران گفت: «ما به خفه کردن اقتصادی ایران ادامه خواهیم داد.»\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "23.7K",
+      "views_label": "24.1K",
       "posted_at": "2026-09-09T20:41:31+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147255",
@@ -137,7 +165,7 @@
       "plain_text": "✅حمله به هواپیمای حامل زلنسکی\n\nهواپیمای حامل رئیس‌ جمهور اوکراین که برای مراسم تشییع جنازه پادشاه نروژ به اسلو می‌رفت، هنگام برخاستن از مولداوی در آستانه هدف قرار گرفتن توسط یک پهپاد بود.\n\nرویترز جزئیات دیگری از این حادثه را هنوز منتشر نکرده است.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "24.3K",
+      "views_label": "24.8K",
       "posted_at": "2026-09-09T20:38:22+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147254",
@@ -153,7 +181,7 @@
       "plain_text": "✅قطعنامه آمریکا و اروپا علیه برنامه هسته‌ ای ایران در شورای حکام تصویب شد\n\nاین قطعنامه با ۲۳ رأی موافق، ۸ رأی ممتنع و ۳ رأی مخالف به تصویب رسید/ایرنا\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "53.8K",
+      "views_label": "53.9K",
       "posted_at": "2026-09-09T16:34:25+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147253",
@@ -181,7 +209,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "57.1K",
+      "views_label": "57.3K",
       "posted_at": "2026-09-09T16:18:14+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147252",
@@ -197,7 +225,7 @@
       "plain_text": "✅وزیر میراث فرهنگی: چین مانع حضور گردشگرانش در ایران شده\nحرف چینی‌ها این است که منتظر بازگشت امنیت به ایران هستیم.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "52.4K",
+      "views_label": "52.5K",
       "posted_at": "2026-09-09T15:59:25+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147251",
@@ -225,7 +253,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "53.6K",
+      "views_label": "53.8K",
       "posted_at": "2026-09-09T15:31:38+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147250",
@@ -306,7 +334,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "50.1K",
+      "views_label": "50.5K",
       "posted_at": "2026-09-09T14:35:53+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147247",
@@ -371,7 +399,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "57.3K",
+      "views_label": "57.5K",
       "posted_at": "2026-09-09T14:28:11+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147245",
@@ -387,7 +415,7 @@
       "plain_text": "✅نماینده مجلس: خودروی چینی را دو برابر قیمت به مردم فروختیم\n\nمجتبی یوسفی:خودروی بی‌کیفیت چینی در هر ۱۰۰ کیلومتر ۱۰ تا ۱۲ لیتر بنزین مصرف می‌کند و دو برابر قیمت به مردم فروخته شده است.\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "46.8K",
+      "views_label": "46.9K",
       "posted_at": "2026-09-09T14:27:54+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147244",
@@ -415,7 +443,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "48.3K",
+      "views_label": "48.6K",
       "posted_at": "2026-09-09T14:20:49+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147243",
@@ -443,7 +471,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "51.1K",
+      "views_label": "51.2K",
       "posted_at": "2026-09-09T13:50:30+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147242",
@@ -459,7 +487,7 @@
       "plain_text": "✅ شروط جدید ایران برای توقف جنگ اعلام شد\n\nسخنگوی سپاه گفته است اگر دشمن خواهان پایان این وضعیت است، باید؛\n\n۱- ضمن توقف کامل جنگ،\n۲- از تهدید مجدد دست بکشد،\n۳- ارتش اسرائیل از لبنان عقب‌نشینی کند،\n۴- محاصرهٔ یمن پایان یابد،\n۵- ۲۴ میلیارد دلار دارایی مسدود شدهٔ ایران آزاد شود\n۶- و از هرگونه مداخله در توان هسته‌ای و موشکی کشور دست بردارد.\n\n🔻لبنان کم بود، یمن هم اضافه شد، زندگی و رفاه ملت بزرگ ایران را گره زده‌اند به حوثی ها!\n\n@Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "49.6K",
+      "views_label": "49.7K",
       "posted_at": "2026-09-09T13:44:17+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/147241",
@@ -2271,22 +2299,6 @@
       "posted_at": "2026-09-08T09:09:32+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/147161",
-      "reply": null
-    },
-    {
-      "id": "sahamnewsorg/147160",
-      "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/FKF1cckJAUtPCvrEDvhdUz7NZYvAf1EHIJitsyRN8VE6idlFJSlSu2K2xwDGVxKifuLkRZo545Eqoc49ZLmPoSTyOLoyCKDmEN3g4SAk_F1iRgeiTdyhFUQAMgLZ_i79FYzHGzdPVDjFbMrSBqkn52UyYzaCp3ckUiaqX6ED8F0x46VghW61EdReQFxfqL1FfFJD5tD1JPbY4-VlLtyHG_j1T88K3wFHTxO0-qIYXcQF7V695Ey_HoDkfis8UETFy0hyQ9WdEneqSKbA4wd5fYVnHLYawYY5EhbuuZ_X_366M-abZdl4zvZZQgVaE4H3IDNMUExb2Ss8l2_ckTXB3A.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/bf7f0b170836be3cfa34280a.jpg",
-      "author_photo_sha256": "c1531cc0b75ad7351c08c6d310be2b9ac446bd100e0b69bacbca8736e307d198",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>عارف معاون اول رئیس جمهور : </b><br><br>قیمت واقعی بنزین ۷۰ تا ۸۰ هزار تومان است ولی دولت اعتقادی به رفتار ناگهانی ندارد. <br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
-      "plain_text": "✅عارف معاون اول رئیس جمهور :\n\nقیمت واقعی بنزین ۷۰ تا ۸۰ هزار تومان است ولی دولت اعتقادی به رفتار ناگهانی ندارد.\n@Sahamnewsorg",
-      "media": [],
-      "reactions": [],
-      "views_label": "50.4K",
-      "posted_at": "2026-09-08T08:53:46+00:00",
-      "edited": false,
-      "permalink": "https://t.me/sahamnewsorg/147160",
       "reply": null
     }
   ]

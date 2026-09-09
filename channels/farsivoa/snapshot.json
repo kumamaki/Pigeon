@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T22:37:40.401Z",
+  "fetched_at": "2026-09-09T22:42:07.414Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/230047",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/TDaXzD1SqP9xTStg_G7suA7hMViJjPqVwnwwTLB_DUGQC4NC7-w5Wkwmk8gDPuAQByx0poZj8S94eoRffmHeRT9xrcGPzWu7C0ZMDau7-qcaqBWq40PRp5WjKogQsNBDZgrsGt_Ga26l0r3qqQ_yjcUiyBiP3YfLQ0a3HSBOFP7tHYTn8zp6o6L0n-5FRDcf0yBsa-sXpdSaMW5dbmZ7VUJUET5rQgZDA0jF59JPxCtDBv293jMYV7TZtxqTClTcuEc9cEhhDdSAYJALkWzllcM_PdRn8aHMK28mulEjt9zDtHt6hUIn5HC55jszDZm5-oSBSiobQTMHWfcmcwf0rw.jpg",
+      "author_photo_path": "channels/farsivoa/media/64e7ce62c0394704c02414ea.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "رویارویی سیاسی در دالاس؛ دموکرات‌ها با نشست خبری و انتقاد به استقبال کنوانسیون جمهوری‌خواهان رفتند<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "رویارویی سیاسی در دالاس؛ دموکرات‌ها با نشست خبری و انتقاد به استقبال کنوانسیون جمهوری‌خواهان رفتند\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/230047",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/XBdjYY3ImLKdMrT7vBx0r0tWZv9hxGBOo41Sk-Y8sBbilrCcoTeDszHcVdGiWdw3ahawDeqO6ltc16ROkQechmznFkT3TbHiDFRNCyMJ3p00Cluwo2Xq_LHzku5SrpoX6QibCZ6KfVLqe8JswE627eG9nANbSfVJyYTfdTQY_C3B_TGBs7dHMxt3LaNJCos3BLzt6xsOzPM0uISEotEwqU2yw1s0OIuBLjP3wZdhz7-Q7qamrV501s4_6vlZP5GuHUNtLxoFooSX5RBfAEP0OI3owElNeIUaSm3w91fste-6vt4X2BUUjfLA46wjlTN-3dMEhs4-zeI5gv6jPPujgg",
+          "thumbnail_path": "channels/farsivoa/media/7bbbb6ffecc6da90ad1c7752.jpg",
+          "thumbnail_sha256": "08f5b05f174991ebb96c1c141fbee0983a49a8b089faa02d7f05723e4ae54309",
+          "duration_label": "4:52",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-09T22:41:56+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/230047",
+      "reply": null
+    },
+    {
       "id": "farsivoa/230046",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/TDaXzD1SqP9xTStg_G7suA7hMViJjPqVwnwwTLB_DUGQC4NC7-w5Wkwmk8gDPuAQByx0poZj8S94eoRffmHeRT9xrcGPzWu7C0ZMDau7-qcaqBWq40PRp5WjKogQsNBDZgrsGt_Ga26l0r3qqQ_yjcUiyBiP3YfLQ0a3HSBOFP7tHYTn8zp6o6L0n-5FRDcf0yBsa-sXpdSaMW5dbmZ7VUJUET5rQgZDA0jF59JPxCtDBv293jMYV7TZtxqTClTcuEc9cEhhDdSAYJALkWzllcM_PdRn8aHMK28mulEjt9zDtHt6hUIn5HC55jszDZm5-oSBSiobQTMHWfcmcwf0rw.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺اپل از نخستین گوشی تاشوی خود به نام «آیفون دوئو» رونمایی کرد\n\n◾️شرکت آمریکایی اپل، روز چهارشنبه ۱۸ شهریور ۱۴۰۵ همزمان با معرفی گوشی‌های تلفن همراه سری ۱۸، از نخستین گوشی تاشوی خود به نام «آیفون دوئو» که مانند یک کتاب به یک صفحه نمایش عریض تبدیل می‌شود، نیز رونمایی کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/apple-unveiled-its-first-foldable-phone-named-iphone-duo/8196165.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "65",
+      "views_label": "262",
       "posted_at": "2026-09-09T22:35:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230046",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.1K",
+      "views_label": "1.23K",
       "posted_at": "2026-09-09T22:11:28+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230045",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.43K",
+      "views_label": "1.56K",
       "posted_at": "2026-09-09T21:55:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230044",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.77K",
+      "views_label": "1.87K",
       "posted_at": "2026-09-09T21:43:33+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230043",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.15K",
+      "views_label": "2.25K",
       "posted_at": "2026-09-09T21:31:13+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230042",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.38K",
+      "views_label": "2.44K",
       "posted_at": "2026-09-09T21:19:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230041",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.84K",
+      "views_label": "2.88K",
       "posted_at": "2026-09-09T21:09:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230040",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.67K",
+      "views_label": "2.7K",
       "posted_at": "2026-09-09T21:03:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230039",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.27K",
+      "views_label": "3.3K",
       "posted_at": "2026-09-09T20:40:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230038",
@@ -261,7 +289,7 @@
       "plain_text": "🔺کشته‌شدن یکی معترضان تحت تعقیب در استان ایلام در جریان درگیری با ماموران؛ وخامت شرایط زندانیان در اوین و ارومیه\n\n◾️کانون حقوق بشر ایران با انتشار گزارش‌هایی نسبت به وضعیت زندانیان زندان‌های اوین و ارومیه ابراز نگرانی کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/ongoing-human-rights-violations-in-iranfrom-the-killing-of-a-protester-in-a-grenade-explosion-to-inhumane-conditions-in-prisons/8196155.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.52K",
+      "views_label": "3.55K",
       "posted_at": "2026-09-09T20:30:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230037",
@@ -289,7 +317,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.23K",
+      "views_label": "3.26K",
       "posted_at": "2026-09-09T20:19:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230036",
@@ -305,7 +333,7 @@
       "plain_text": "🔺یاشار سلطانی از صدور کیفرخواست به «اتهام اختلاس» برای مقامات ارشد فدراسیون فوتبال جمهوری اسلامی خبر داد\n\n◾️یاشار سلطانی، روزنامه‌نگار تحقیقی ساکن ایران، روز چهارشنبه ۱۸ شهریور اعلام کرد برای چند چهره و مقام ارشد فدراسیون فوتبال ایران در پرونده «فساد فوتبال» به اتهام اختلاس کیفرخواست صادر شده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/yashar-soltani-journalist-bribery-iran-football-federation-charge-conviction-indicetment/8196138.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.87K",
+      "views_label": "3.91K",
       "posted_at": "2026-09-09T19:56:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230035",
@@ -321,7 +349,7 @@
       "plain_text": "🔴📢‌ پادکست میدان - چهارشنبه ۱۸ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از\nنسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه\nسبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "3.34K",
+      "views_label": "3.38K",
       "posted_at": "2026-09-09T19:55:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230034",
@@ -349,7 +377,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.23K",
+      "views_label": "3.26K",
       "posted_at": "2026-09-09T19:47:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230033",
@@ -393,7 +421,7 @@
       "plain_text": "🔺وضعیت حقوق بشر ایران در کانون توجه شصت‌وسومین نشست شورای حقوق بشر سازمان ملل\n\n◾️شورای حقوق بشر سازمان ملل متحد در شصت‌وسومین نشست خود وضعیت حقوق بشر در ایران و نقض این حقوق توسط جمهوری اسلامی را مورد بحث و بررسی قرار داد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/un-human-rights-council-concerned-about-iran/8196029.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "3.61K",
+      "views_label": "3.64K",
       "posted_at": "2026-09-09T19:29:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230031",
@@ -421,7 +449,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.51K",
+      "views_label": "3.54K",
       "posted_at": "2026-09-09T19:14:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230030",
@@ -437,7 +465,7 @@
       "plain_text": "‼️با پوزش فراوان از خوانندگان صدای آمریکا، ویدئویی را که به نقل از شبکه‌های اجتماعی با عنوان لحظه فوران یک آتشفشان در اندونزی منتشر کرده‌ بودیم، ساخته هوش مصنوعی است. قطعا از تکرار چنین اشتباهاتی جلوگیری خواهیم کرد.",
       "media": [],
       "reactions": [],
-      "views_label": "3.93K",
+      "views_label": "3.96K",
       "posted_at": "2026-09-09T19:07:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230029",
@@ -2568,34 +2596,6 @@
       "posted_at": "2026-09-09T02:03:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229939",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229938",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "آغاز هشتاد و یکمین دوره مجمع عمومی سازمان ملل متحد در نیویورک<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "آغاز هشتاد و یکمین دوره مجمع عمومی سازمان ملل متحد در نیویورک\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229938",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/YBMAa9pfPPo0juUSv_wjH-nZ91xaE71j1nrvOiEus3RCD0iQ3-V84qxD5FtHzZ5FDDOlScnBiZCEAFmRFzxcy0SXNZzG0-4CM0BR20t8KtFPIW-VKszEDwU2LhW597ow6ry7erAlVWCTsn9ObCMvJ6fObFIo9wOxkfzPTEeVeOeiMXpRNHOmUzgBTHaNZPNGSbwDc9-6LyAqrHSmnosfLQSxBYXjzLqwW4sYYveZBzxaDhqtRAJ0iBQsdROjIh-IM2seSO-H2F7qkp02jKcvFckFfWk8qaoVttaCaPXnGWEB_63FNsoOudaYoo4hqieKEjOysdAXWiK-V24urbEhZw",
-          "thumbnail_path": "channels/farsivoa/media/4fa7c36c934667febcfb0fd9.jpg",
-          "thumbnail_sha256": "e30583798bbb837748734c451597615a5e964b2f636a62b26dc3623879da0202",
-          "duration_label": "3:42",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "4.96K",
-      "posted_at": "2026-09-09T01:38:18+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229938",
       "reply": null
     }
   ]
