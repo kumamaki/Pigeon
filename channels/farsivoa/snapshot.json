@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T07:16:31.043Z",
+  "fetched_at": "2026-09-09T07:21:51.221Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229954",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "آژانس بین‌المللی انرژی اتمی اعلام کرد کره شمالی تأسیسات غنی‌سازی اورانیوم تازه‌ای در مجتمع هسته‌ای یونگ‌بیون ساخته که می‌تواند تا ۲۸ آبشار سانتریفیوژ را در خود جای دهد.<br><br>بر پایه گزارش آژانس، پیونگ‌یانگ بهره‌برداری از بخش الحاقی گسترش‌یافته در سایت غنی‌سازی کانگسون را نیز آغاز کرده است.<br><br>رافائل گروسی، مدیرکل آژانس، گفت گسترش تولید مواد هسته‌ای در سطح تسلیحاتی «مایه نگرانی جدی» است.<br><br>کره شمالی صلاحیت آژانس در این زمینه را بارها رد کرده است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "آژانس بین‌المللی انرژی اتمی اعلام کرد کره شمالی تأسیسات غنی‌سازی اورانیوم تازه‌ای در مجتمع هسته‌ای یونگ‌بیون ساخته که می‌تواند تا ۲۸ آبشار سانتریفیوژ را در خود جای دهد.\n\nبر پایه گزارش آژانس، پیونگ‌یانگ بهره‌برداری از بخش الحاقی گسترش‌یافته در سایت غنی‌سازی کانگسون را نیز آغاز کرده است.\n\nرافائل گروسی، مدیرکل آژانس، گفت گسترش تولید مواد هسته‌ای در سطح تسلیحاتی «مایه نگرانی جدی» است.\n\nکره شمالی صلاحیت آژانس در این زمینه را بارها رد کرده است.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229954",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/t0DQrYO_dO0wF-k9IQmQw7A6clf8y2qKbpcH8n2T21DLZVT2YGuyzgLu4Snqty1DZ-nnxYY63fZYdO4DqPp6-qn5545TZ1Zvw10t46jvugcwN9Y5H6Ml7h_iQOmEiHukygfuK57A7EnDJG3bL458hV_NS-YYWlgpqx8uB6bG0ZTh1riFXgD1jZplrRrVQTxTlQQ-CzV0RQ3QKspCscvqjmluYaQCFtEpPu35rxvJgk6y7-46XGydrzUNjh7gS-nBDzCit-gnmBSiNO1XeEBdOSxlHLSGfPGKnnB3azQSYO01aJ8nBTflL-JrrwnS-KgEWb4OxUOUAu_j-Kmp6UA8xw.jpg",
+          "thumbnail_path": "channels/farsivoa/media/4310f8b892ec8e7c8e93381f.jpg",
+          "thumbnail_sha256": "b18cb8af57983caf6572c3a8d975f8deae81c12639e62e31185cc378cbd660f7",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "291",
+      "posted_at": "2026-09-09T07:17:09+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229954",
+      "reply": null
+    },
     {
       "id": "farsivoa/229952",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "696",
+      "views_label": "948",
       "posted_at": "2026-09-09T07:02:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229952",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.01K",
+      "views_label": "1.2K",
       "posted_at": "2026-09-09T06:52:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229951",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.4K",
+      "views_label": "1.53K",
       "posted_at": "2026-09-09T06:36:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229950",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.88K",
+      "views_label": "1.94K",
       "posted_at": "2026-09-09T06:18:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229949",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.09K",
+      "views_label": "2.18K",
       "posted_at": "2026-09-09T06:07:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229948",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.45K",
+      "views_label": "2.51K",
       "posted_at": "2026-09-09T05:48:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229947",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.7K",
+      "views_label": "2.77K",
       "posted_at": "2026-09-09T05:31:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229946",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.77K",
+      "views_label": "2.84K",
       "posted_at": "2026-09-09T05:20:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229945",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3K",
+      "views_label": "3.09K",
       "posted_at": "2026-09-09T05:11:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229944",
@@ -285,7 +313,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.56K",
+      "views_label": "5.59K",
       "posted_at": "2026-09-09T02:31:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229943",
@@ -329,7 +357,7 @@
       "plain_text": "🔺سنتکام: جمهوری اسلامی ابزاری برای دفاع از کشتی‌هایش ندارد؛ نفتکش‌های سپاه را منهدم کردیم\n\n▪️ستاد فرماندهی مرکزی آمریکا، سه‌‌شنبه شب به وقت واشنگتن (بامداد چهارشنبه به وقت تهران) ویدیوی انهدام نفتکش ری‌یسکو، یکی از ۵ نفتکش جمهوری اسلامی را که ساعاتی قبل منهدم کرد، منتشر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195937.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "5.23K",
+      "views_label": "5.27K",
       "posted_at": "2026-09-09T02:25:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229941",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.64K",
+      "views_label": "4.7K",
       "posted_at": "2026-09-09T02:15:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229940",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.62K",
+      "views_label": "4.65K",
       "posted_at": "2026-09-09T02:03:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229939",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.67K",
+      "views_label": "4.73K",
       "posted_at": "2026-09-09T01:38:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229938",
@@ -429,7 +457,7 @@
       "plain_text": "🔺اردن: جمهوری اسلامی ۲۰ موشک شلیک کرد؛ ۱۸ فروند منهدم شد و دو موشک در فضای باز فرود آمد\n\n▪️در پی حمله موشکی جمهوری اسلامی به اردن که اوایل چهارشنبه ۱۸ شهریور صورت گرفت و ادعاهای منتشر شده در شبکه‌های اجتماعی که تعداد زیادی از نیروهای آمریکایی مجروح شده‌اند، رویترز به نقل از یک مقام آمریکایی این موضوع را رد کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195936.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "4.67K",
+      "views_label": "4.73K",
       "posted_at": "2026-09-09T01:32:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229937",
@@ -457,7 +485,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.19K",
+      "views_label": "4.25K",
       "posted_at": "2026-09-09T01:09:36+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229936",
@@ -473,7 +501,7 @@
       "plain_text": "🔺ممنوعیت روسری برای دختران زیر ۱۴ سال در مدارس اتریش اجرایی شد؛ دولت: هدف حمایت از آزادی دختران است\n\n▪️ممنوعیت استفاده از روسری برای دختران زیر ۱۴ سال در مدارس اتریش، از روز دوشنبه و هم‌زمان با نخستین روز سال تحصیلی در بخشی از این کشور اجرایی شد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/austria-enforces-school-headscarf-ban/8195695.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "4.05K",
+      "views_label": "4.08K",
       "posted_at": "2026-09-09T01:06:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229935",
@@ -501,7 +529,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.29K",
+      "views_label": "4.32K",
       "posted_at": "2026-09-09T00:01:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229934",
@@ -2493,34 +2521,6 @@
       "posted_at": "2026-09-08T12:39:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229853",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229852",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "سه‌شنبه ۱۷ شهریور ۱۴۰۵، گروهی از پرستاران در کرمانشاه در اعتراض به وضعیت معیشتی با شعار «می‌گیم حقوق نداریم، می‌رید پلیس میارید» تجمع کردند.",
-      "plain_text": "سه‌شنبه ۱۷ شهریور ۱۴۰۵، گروهی از پرستاران در کرمانشاه در اعتراض به وضعیت معیشتی با شعار «می‌گیم حقوق نداریم، می‌رید پلیس میارید» تجمع کردند.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229852",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Uk08kKfN4cJ1XOCTw-jkN9sIquLyrZ6aM6r0a5Seuwp6nP-lLg4BjtwNnSudzKduKgaJ3hf83sWrhDc31KvbiyFFTZ_3ke5ZziUY3iXUjpAmcuk3az8KJMqkFCAWwMGsislU78qINtQPVfhBXtAfX-ryX2qBLt_L_2x1XXvG1zlgxtRdct90xQv1CzUBwI_fk1Qc_VH8x7LdylDUn03cTrOEBLK29EWUmllUDU7PHSJ5kVXV7NrSD7_DykKqW7BlP94XEJcO9dcbsaUXJbK8S6n4dJQRv8fEEFym-tiVPdxvfFbXKpSqNHIcMHnA7xpB0eqD7fsJ0UuefmxKClHBpA",
-          "thumbnail_path": "channels/farsivoa/media/08690cb8aaf6e980ce00c001.jpg",
-          "thumbnail_sha256": "c566540957d299e4734a2cc485dce34210dc5cd367bf93d6c68b7e1bbd451f09",
-          "duration_label": "0:07",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.63K",
-      "posted_at": "2026-09-08T12:25:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229852",
       "reply": null
     }
   ]
