@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T06:31:49.686Z",
+  "fetched_at": "2026-09-09T06:36:40.194Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -8,9 +8,37 @@
     "photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
     "photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
     "photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-    "subscriber_count": "133K"
+    "subscriber_count": "132K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229950",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "عراق همزمان با بررسی ظرفیت اعضا از سوی اوپک و متحدانش برای تعیین میزان تولید سال آینده، خواستار افزایش سهمیه تولید نفت خود شد.<br><br>خبرگزاری بلومبرگ چهارشنبه به نقل از افراد آگاه گزارش داد بغداد از اوپک پلاس می‌خواهد اهداف تولید را بر پایه مبنای شش میلیون بشکه در روز محاسبه کند.<br><br>اوپک پلاس در نشست یکشنبه سیاست تولید خود را برای مهرماه بدون تغییر نگه داشت و اعلام کرد پیش از تصمیم درباره گام‌های بعدی باید بر سر سهمیه‌های تازه به توافق برسد.<br><br>شرکت دیگولیر اند مک‌ناتن مستقر در تگزاس بررسی ظرفیت را برای بیشتر اعضا انجام می‌دهد و انتظار می‌رود گزارشش اواخر شهریورماه ارائه شود.<br><br>صادرات نفت عراق در مردادماه به حدود ۲ میلیون و ۳۴۰ هزار بشکه در روز بازگشت.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "عراق همزمان با بررسی ظرفیت اعضا از سوی اوپک و متحدانش برای تعیین میزان تولید سال آینده، خواستار افزایش سهمیه تولید نفت خود شد.\n\nخبرگزاری بلومبرگ چهارشنبه به نقل از افراد آگاه گزارش داد بغداد از اوپک پلاس می‌خواهد اهداف تولید را بر پایه مبنای شش میلیون بشکه در روز محاسبه کند.\n\nاوپک پلاس در نشست یکشنبه سیاست تولید خود را برای مهرماه بدون تغییر نگه داشت و اعلام کرد پیش از تصمیم درباره گام‌های بعدی باید بر سر سهمیه‌های تازه به توافق برسد.\n\nشرکت دیگولیر اند مک‌ناتن مستقر در تگزاس بررسی ظرفیت را برای بیشتر اعضا انجام می‌دهد و انتظار می‌رود گزارشش اواخر شهریورماه ارائه شود.\n\nصادرات نفت عراق در مردادماه به حدود ۲ میلیون و ۳۴۰ هزار بشکه در روز بازگشت.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229950",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/lYrLcQ5FzUirBd13fceMHmNj8UFdFII6ZBBB9fW171X4qkVxXVm4MGCxRC7fupsemyrhjGnk2NDKCd_acozs3SPRT_Oa2pnOqGq_XLYcNWCZE_zsKpUNN1QaP5__rTFK0yhW7W5wTL5vstvFOLg8Zx2BV_QMYcc4F9oj5GE0OO6Hvki-KvDyOCxnVEkDz0bozgnVklrVIkNc-CoKYoV-2kIcTJ890lzuI7bFIisJEYypkXZPaB6qWspsOpel0OyHqMqEQpnOO_ZFQNzkMzVVq6Pck24RkmfOcUrwdo9r1MflBtvIpFljZnrwPinAhzSJa7kMlgm8drFWrp6uoHmh3w.jpg",
+          "thumbnail_path": "channels/farsivoa/media/7bd0d8de54132d5525b601a5.jpg",
+          "thumbnail_sha256": "3c9ae096732e12b99a4ee778aab77b52ab689e2919511ab6596041b1c214a420",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "3",
+      "posted_at": "2026-09-09T06:36:20+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229950",
+      "reply": null
+    },
     {
       "id": "farsivoa/229949",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "702",
+      "views_label": "891",
       "posted_at": "2026-09-09T06:18:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229949",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.23K",
+      "views_label": "1.36K",
       "posted_at": "2026-09-09T06:07:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229948",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.75K",
+      "views_label": "1.85K",
       "posted_at": "2026-09-09T05:48:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229947",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.1K",
+      "views_label": "2.2K",
       "posted_at": "2026-09-09T05:31:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229946",
@@ -145,7 +173,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.24K",
+      "views_label": "2.3K",
       "posted_at": "2026-09-09T05:20:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229945",
@@ -173,7 +201,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.43K",
+      "views_label": "2.49K",
       "posted_at": "2026-09-09T05:11:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229944",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.24K",
+      "views_label": "5.28K",
       "posted_at": "2026-09-09T02:31:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229943",
@@ -229,7 +257,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.12K",
+      "views_label": "5.16K",
       "posted_at": "2026-09-09T02:29:15+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229942",
@@ -245,7 +273,7 @@
       "plain_text": "🔺سنتکام: جمهوری اسلامی ابزاری برای دفاع از کشتی‌هایش ندارد؛ نفتکش‌های سپاه را منهدم کردیم\n\n▪️ستاد فرماندهی مرکزی آمریکا، سه‌‌شنبه شب به وقت واشنگتن (بامداد چهارشنبه به وقت تهران) ویدیوی انهدام نفتکش ری‌یسکو، یکی از ۵ نفتکش جمهوری اسلامی را که ساعاتی قبل منهدم کرد، منتشر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195937.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "4.92K",
+      "views_label": "4.95K",
       "posted_at": "2026-09-09T02:25:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229941",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.36K",
+      "views_label": "4.39K",
       "posted_at": "2026-09-09T02:15:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229940",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.3K",
+      "views_label": "4.34K",
       "posted_at": "2026-09-09T02:03:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229939",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.39K",
+      "views_label": "4.42K",
       "posted_at": "2026-09-09T01:38:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229938",
@@ -373,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.94K",
+      "views_label": "3.97K",
       "posted_at": "2026-09-09T01:09:36+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229936",
@@ -417,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.07K",
+      "views_label": "4.1K",
       "posted_at": "2026-09-09T00:01:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229934",
@@ -2469,34 +2497,6 @@
       "posted_at": "2026-09-08T12:02:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229850",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229849",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "وزیر امور خارجه مجارستان خبر داد که تصمیم اخراج ۱۰ نفر از اعضای هیئت روسیه در مجارستان، به سفارت روسیه در بوداپست اعلام شده است.<br><br>آنتیا اوربان در شبکه اجتماعی ایکس نوشت بنا بر ارزیابی مقامات مجارستانی، این افراد به فعالیت‌هایی مبادرت داشتند که طبق کنوانسیون وین برای دیپلمات‌‌ها غیرقابل‌قبول است.<br><br>او افزود از مقام‌های مسئول خواسته است که موضوع را به سفارت روسیه اطلاع داده و از افراد موردنظر خواسته شود تا خاک مجارستان را ترک کنند.<br><br>وزیر خارجه مجارستان تأکید کرد که این تصمیم از امنیت و حاکمیت مجارستان محافظت می‌کند و به معنی قطع روابط دیپلماتیک با روسیه نیست.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "وزیر امور خارجه مجارستان خبر داد که تصمیم اخراج ۱۰ نفر از اعضای هیئت روسیه در مجارستان، به سفارت روسیه در بوداپست اعلام شده است.\n\nآنتیا اوربان در شبکه اجتماعی ایکس نوشت بنا بر ارزیابی مقامات مجارستانی، این افراد به فعالیت‌هایی مبادرت داشتند که طبق کنوانسیون وین برای دیپلمات‌‌ها غیرقابل‌قبول است.\n\nاو افزود از مقام‌های مسئول خواسته است که موضوع را به سفارت روسیه اطلاع داده و از افراد موردنظر خواسته شود تا خاک مجارستان را ترک کنند.\n\nوزیر خارجه مجارستان تأکید کرد که این تصمیم از امنیت و حاکمیت مجارستان محافظت می‌کند و به معنی قطع روابط دیپلماتیک با روسیه نیست.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229849",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/iY0v02100YnqocO6rnAMxWEfAIl46UdXXJ_Q3H6VCkgsv7Lai4lEjQLiJx6aXZe1IRAuAqSeMjEtampm9pM5aXZ3osYfwqc4ap9CXT8lIfiphYr_0ssNmTb0_kCKhpOyfr3satnTZQS_aSmiefIRneIM8bMEcrTjJmq9leJYMcAmLF-yzNLNFY6n-XOQdQ4jPxIULUiXTxvLozfel4oHZLDYE0_7ExgvPMMjGSaun8vBAMiqGgWobPnOC40PKR53YpySVo0naBU8ggzTQ_p0Yftvaq5VQglUG_SX_NvHUiKAG8wT9luG9ccCBIRFCajaCsAXuzPZsP8W06aQWhFZvg.jpg",
-          "thumbnail_path": "channels/farsivoa/media/98c5a5e5b1d550a38f3f022f.jpg",
-          "thumbnail_sha256": "cae2d3a7e143e50bf5d05de4359169144f86a81d7148e9d5545236b8d9137acb",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.52K",
-      "posted_at": "2026-09-08T11:51:57+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229849",
       "reply": null
     }
   ]
