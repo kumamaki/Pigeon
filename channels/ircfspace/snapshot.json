@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T04:26:41.859Z",
+  "fetched_at": "2026-09-09T04:31:57.678Z",
   "channel": {
     "username": "ircfspace",
     "title": "IRCF | اینترنت آزاد برای همه",
@@ -11,6 +11,51 @@
     "subscriber_count": "96.3K"
   },
   "posts": [
+    {
+      "id": "ircfspace/2595",
+      "author_name": "IRCF | اینترنت آزاد برای همه",
+      "author_photo_url": "https://cdn1.telesco.pe/file/abLHLQ7tS_nDGF3NFbVmkGjDtyFJW1V8wjsn4TqehlMr_1n9wbuY-pQe4t_LU-awIpU_iXAUwiUTlak7XpKxPB_Pjk4xy89evH9dFDrLu_DDcd7TWkkugJ_O6RWzCClfClo2_Dlu-PmHY84W6wmglGcNHFrStOFr6nCvhfNQzVp86hpyIZ4TjldkacU3pS_EFIiwfU8CMdlKx_po7G7r1lneXuAGVHsFJbDBnrDcairvY3muUGEXE5SqAvpvmlER9xcdPavXgY-6nf7E5emLcOGU5bLiZkPa9HYU14gvgj3IFcMCJ_L4XKKHHzZdOmL4Bvb6_i4J3SoJizSlVwR25w.jpg",
+      "author_photo_path": "channels/ircfspace/media/9896fd5a699e8e4a76272c7a.jpg",
+      "author_photo_sha256": "158f2dc02d1e6a05c082153b128dee184884a3f1159a3f635b1a111432f7eabc",
+      "body_html": "شبکه پایدار است، یعنی به همون آشغال‌نت قبل از قطع فیبر نوری در ارمنستان برگشتیم!<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴡᴇʙꜱɪᴛᴇ</a> • <a href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴠᴘɴʜᴜʙ</a> • <a href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
+      "plain_text": "شبکه پایدار است، یعنی به همون آشغال‌نت قبل از قطع فیبر نوری در ارمنستان برگشتیم!\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/ircfspace/2595",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/HaE-44o5k-9z1CQ2E74fclaaStlmvtWRb1u7FghH_tVIeS1KFghLbT8tw-8WHHi2dTXACf0dz1OwWsp3xAyAWi_u52Y4SF_K0VJaMPE4KWTa9M-nF40GanNlrDthsmJ7lf8ISt5fjZrrsHnspmtGAjjnl3escL4GQXviNpF78QLDDy05aCx1G9-wdyFcLmVMZxgOiYAXLBWn4EWyyTdjYLjC2MzKPgRox_y-vg17s26zzgkVVBJyFiu4CuHhjhPWTJ_nduP5_KFXmx3IsoZKDJ1b1fyYfoNxOdwhFFXngrQE7xyEjhzxG1Q2AlGkjCnabsCX9NkgFDpzGsru8YSFhg.jpg",
+          "thumbnail_path": "channels/ircfspace/media/395efd6f9af6d60ed1dea38a.jpg",
+          "thumbnail_sha256": "e14268bcf67455c2fb4c7385bc2971ce136b4c175b211551ece8c71a40f6bebe",
+          "duration_label": null,
+          "aspect_ratio": 1.2512479201331184
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": "😢",
+          "count": "11"
+        },
+        {
+          "emoji": "🗿",
+          "count": "5"
+        },
+        {
+          "emoji": "🥴",
+          "count": "2"
+        },
+        {
+          "emoji": "🤬",
+          "count": "1"
+        }
+      ],
+      "views_label": "564",
+      "posted_at": "2026-09-09T04:27:47+00:00",
+      "edited": true,
+      "permalink": "https://t.me/ircfspace/2595",
+      "reply": null
+    },
     {
       "id": "ircfspace/2594",
       "author_name": "IRCF | اینترنت آزاد برای همه",
@@ -35,14 +80,18 @@
       "reactions": [
         {
           "emoji": "🔥",
-          "count": "10"
+          "count": "18"
         },
         {
           "emoji": "👏",
           "count": "4"
+        },
+        {
+          "emoji": "👎",
+          "count": "1"
         }
       ],
-      "views_label": "977",
+      "views_label": "1.48K",
       "posted_at": "2026-09-09T04:19:14+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2594",
@@ -111,7 +160,7 @@
           "count": "1"
         }
       ],
-      "views_label": "11.3K",
+      "views_label": "11.6K",
       "posted_at": "2026-09-08T16:40:39+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2593",
@@ -184,7 +233,7 @@
           "count": "1"
         }
       ],
-      "views_label": "12.6K",
+      "views_label": "12.8K",
       "posted_at": "2026-09-08T15:23:45+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2592",
@@ -218,7 +267,7 @@
         },
         {
           "emoji": "👍",
-          "count": "174"
+          "count": "176"
         },
         {
           "emoji": "😱",
@@ -237,7 +286,7 @@
           "count": "1"
         }
       ],
-      "views_label": "12.2K",
+      "views_label": "12.3K",
       "posted_at": "2026-09-08T15:13:29+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2591",
@@ -267,7 +316,7 @@
       "reactions": [
         {
           "emoji": "😐",
-          "count": "210"
+          "count": "212"
         },
         {
           "emoji": "😁",
@@ -290,7 +339,7 @@
           "count": "1"
         }
       ],
-      "views_label": "12.8K",
+      "views_label": "12.9K",
       "posted_at": "2026-09-08T14:41:39+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2590",
@@ -320,7 +369,7 @@
       "reactions": [
         {
           "emoji": "🤬",
-          "count": "447"
+          "count": "449"
         },
         {
           "emoji": "🤡",
@@ -343,7 +392,7 @@
           "count": "1"
         }
       ],
-      "views_label": "13.4K",
+      "views_label": "13.5K",
       "posted_at": "2026-09-08T14:24:46+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2589",
@@ -377,7 +426,7 @@
         },
         {
           "emoji": "❤",
-          "count": "274"
+          "count": "275"
         },
         {
           "emoji": "👏",
@@ -404,7 +453,7 @@
           "count": "1"
         }
       ],
-      "views_label": "14.1K",
+      "views_label": "14.2K",
       "posted_at": "2026-09-08T13:52:25+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2588",
@@ -530,7 +579,7 @@
           "count": "2"
         }
       ],
-      "views_label": "20.7K",
+      "views_label": "20.8K",
       "posted_at": "2026-09-07T05:41:19+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2586",
@@ -681,7 +730,7 @@
           "count": "1"
         }
       ],
-      "views_label": "17.4K",
+      "views_label": "17.5K",
       "posted_at": "2026-09-07T05:10:20+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2583",
@@ -750,7 +799,7 @@
           "count": "1"
         }
       ],
-      "views_label": "21.1K",
+      "views_label": "21.2K",
       "posted_at": "2026-09-06T04:09:39+00:00",
       "edited": false,
       "permalink": "https://t.me/ircfspace/2582",
@@ -5688,59 +5737,6 @@
       "posted_at": "2026-07-15T04:44:57+00:00",
       "edited": true,
       "permalink": "https://t.me/ircfspace/2495",
-      "reply": null
-    },
-    {
-      "id": "ircfspace/2494",
-      "author_name": "IRCF | اینترنت آزاد برای همه",
-      "author_photo_url": "https://cdn1.telesco.pe/file/Fj-Hpr7boKY6KtNi71hpFjqS64nhbl70h49seur4t-Jbq5lwIy4B-baLNYhAjXiUQzFKj0RYs8yxIyT45S8xhDwRNzbR-fNgFr8BlaFqjkpI7MhsSgtOFjpi2fmaJbMWjLsJysMdOLoTUvQ5qRcKYw69f_8pEo2SSEqTB9H1xv-1vP5KcSto7SjlRZxMULtHdeGojGGcKae18Zcyv3l95CbhWU6JOXD_R4o3y2K1z4ng879RxGjzywehJr66Tj1mvsrqM4GtmMonFeUblF3x5FBKwQ7-83abX5pJDsyraVt2MQPTfU7VOpBmFavcj7fGO2iAOv7b7uf9BDUwOKpRgw.jpg",
-      "author_photo_path": "channels/ircfspace/media/8a5a984a4a165ec9165e6b9e.jpg",
-      "author_photo_sha256": "158f2dc02d1e6a05c082153b128dee184884a3f1159a3f635b1a111432f7eabc",
-      "body_html": "مایکروسافت در بروزرسانی امنیتی جولای، بزرگترین بسته اصلاحات امنیتی تاریخ خودش رو منتشر کرد؛ بسته‌ای که ۶۲۲ آسیب‌پذیری منحصربه‌فرد رو در Windows، Office، SharePoint، SQL Server، Exchange، Defender و سایر محصولات این شرکت برطرف می‌کنه.<br>اهمیت این بروزرسانی صرفاً در تعداد خیره‌کننده آسیب‌پذیری‌ها نیست؛ دست‌کم دو Zero-Day Vulnerability پیش از انتشار Patchها، عملاً در حملات سایبری مورد Exploit قرار گرفته بودن.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/C2A9.png')\"><b>©</b></i> PingChannel<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴡᴇʙꜱɪᴛᴇ</a> • <a href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ᴠᴘɴʜᴜʙ</a> • <a href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
-      "plain_text": "مایکروسافت در بروزرسانی امنیتی جولای، بزرگترین بسته اصلاحات امنیتی تاریخ خودش رو منتشر کرد؛ بسته‌ای که ۶۲۲ آسیب‌پذیری منحصربه‌فرد رو در Windows، Office، SharePoint، SQL Server، Exchange، Defender و سایر محصولات این شرکت برطرف می‌کنه.\nاهمیت این بروزرسانی صرفاً در تعداد خیره‌کننده آسیب‌پذیری‌ها نیست؛ دست‌کم دو Zero-Day Vulnerability پیش از انتشار Patchها، عملاً در حملات سایبری مورد Exploit قرار گرفته بودن.\n\n© PingChannel\n\n🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/ircfspace/2494",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/nwu4WfpnVM2VD-LTpBx0cZTEtPO2ImKBXT-aAcYVnFnCeQ0H72MMQe4n6UqEmuMc61ypkPycLZSabUaG8Q0641aGzidcEhjYnx_gK8cPaJCRCzleuKONMP82cTS95ZbYFvBytCLSmkisLogXCRGec3xnMSWEoqrMJc8ZuA_4Ss_c4gGnMLh0X-No5jjwinj49aRvW6Mp0Fn4NH4WBh4xSKVqvgDogVcexfYKPRufjtUl5Pd4fSsSFMa2Df-t6pbQ8DzVju9f1xbBnEGK_FCtzzx5AOmvU2nqQ3TRqU1F6od4S4qP6pjcrBZE6BVH15QldlN7OG4WMfqqhMOIdJMlkg.jpg",
-          "thumbnail_path": "channels/ircfspace/media/837dd844582746297887e905.jpg",
-          "thumbnail_sha256": "8ae3463186ebe3d68855414e60032a08a5cee81b389cfb78049970a6b675d319",
-          "duration_label": null,
-          "aspect_ratio": 1.48975791433892
-        }
-      ],
-      "reactions": [
-        {
-          "emoji": "👍",
-          "count": "124"
-        },
-        {
-          "emoji": "❤",
-          "count": "32"
-        },
-        {
-          "emoji": "🥴",
-          "count": "7"
-        },
-        {
-          "emoji": "😱",
-          "count": "5"
-        },
-        {
-          "emoji": "😐",
-          "count": "2"
-        },
-        {
-          "emoji": "👎",
-          "count": "1"
-        }
-      ],
-      "views_label": "32.3K",
-      "posted_at": "2026-07-15T04:04:57+00:00",
-      "edited": false,
-      "permalink": "https://t.me/ircfspace/2494",
       "reply": null
     }
   ]
