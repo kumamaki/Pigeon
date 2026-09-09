@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T08:01:52.293Z",
+  "fetched_at": "2026-09-09T08:07:40.211Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/229958",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "شاخص قیمت تولیدکننده در چین طی ماه گذشته به ۳.۸ درصد اوج گرفته که نشان می‌دهد قیمت تمام‌شده محصولات برای بنگاه‌های تولیدی و صنعتی این کشور افزایش یافته است.<br><br>مرکز آمار چین با انتشار این گزارش تصریح کرده که قیمت فلزات غیرآهنی در بخش ذوب و فرآوری نسبت به سال گذشته نزدیک ۲۱ درصد افزایش یافته و پس از آن، فرآوری نفت، زغال‌سنگ و سوخت با ۱۱ درصد و استخراج نفت و گاز با ۱۰.۵ درصد رشد، بیشترین سهم را در تغییرات شاخص قیمت تولیدکننده داشته است.<br><br>خبرگزاری رویترز می‌نویسد موتور محرک افزایش شاخص قیمت تولیدکننده در چین، ریسک صادرات انرژی خاورمیانه به خاطر اخلال جمهوری اسلامی در تنگه هرمز است و به تبع آن افزایش چشمگیر قیمت انرژی در بازارهای جهانی است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "شاخص قیمت تولیدکننده در چین طی ماه گذشته به ۳.۸ درصد اوج گرفته که نشان می‌دهد قیمت تمام‌شده محصولات برای بنگاه‌های تولیدی و صنعتی این کشور افزایش یافته است.\n\nمرکز آمار چین با انتشار این گزارش تصریح کرده که قیمت فلزات غیرآهنی در بخش ذوب و فرآوری نسبت به سال گذشته نزدیک ۲۱ درصد افزایش یافته و پس از آن، فرآوری نفت، زغال‌سنگ و سوخت با ۱۱ درصد و استخراج نفت و گاز با ۱۰.۵ درصد رشد، بیشترین سهم را در تغییرات شاخص قیمت تولیدکننده داشته است.\n\nخبرگزاری رویترز می‌نویسد موتور محرک افزایش شاخص قیمت تولیدکننده در چین، ریسک صادرات انرژی خاورمیانه به خاطر اخلال جمهوری اسلامی در تنگه هرمز است و به تبع آن افزایش چشمگیر قیمت انرژی در بازارهای جهانی است.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229958",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/rHlF24miyxo5NYInzvFh0qUwzUNYGO3li1L_UcaARwppmCDZFd7Fl1SMbPrTbNsDBzfcX-E3qjB426HRLJmW8l9nMukIhnWTS1acLt3CdROl4VEj3z1TQKLFWkXXJxcxHOUvQJMgwdue0qbieu9he5tQNAygZt0jqjjS94IQa4ukHl2T055ruGeTjdyMFv8ao6wJ1hPP8zCvNLVLTN-Fqcao-LVjoA33UYr_NIBEK6bQUpm1RD_67-R97wr7E95HrCOoc4wYUnt4t8vn-e9FgkFWTifHo1_9cs3h9_hMm0l3B3jgHmRXjDlIIDMb1LwI6FxhITpOfA-CLAnQOWpGrg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/16f04b47c8b53f63ca18a075.jpg",
+          "thumbnail_sha256": "5ce620fed9ec642bc7ddb6d8aa6d0699708bcc86ede78ab82ef1ebd8a3007786",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "125",
+      "posted_at": "2026-09-09T08:05:40+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229958",
+      "reply": null
+    },
     {
       "id": "farsivoa/229957",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "347",
+      "views_label": "532",
       "posted_at": "2026-09-09T07:55:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229957",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "916",
+      "views_label": "1.04K",
       "posted_at": "2026-09-09T07:41:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229956",
@@ -77,7 +105,7 @@
       "plain_text": "🔺حمله پهپادی روسیه به گذرگاه مرزی اوکراین و مولداوی\n\n▪️پهپادهای روسیه شامگاه سه‌شنبه گذرگاه مرزی میان اوکراین و مولداوی را هدف قرار دادند و چندین کشته، زخمی و آتش‌سوزی بر جای گذاشتند.\n\n▪️روسیه شامگاه گذشته کی‌یف را نیز هدف گرفت. سازمان خدمات اضطراری اوکراین در تلگرام اعلام کرد حمله آتش‌سوزی ایجاد کرد اما تلفاتی نداشت.\n\n▪️بر پایه اعلام وزارت زیرساخت اوکراین، روسیه ظرف یک هفته گذشته چهار بار گذرگاه‌های مرزی جنوب این کشور را مورد حمله قرار داده است. گذرگاه تاباکی-میرنویه با مولداوی در میان اهداف بود و زیرساخت آنجا ویران شد.\n\n▪️حمله شامگاه دوشنبه به پایتخت اوکراین مرگبارتر بود. بر پایه گزارش کی‌یف ایندیپندنت، این حمله پنج کشته و ۲۹ زخمی بر جای گذاشت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195977.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.24K",
+      "views_label": "1.39K",
       "posted_at": "2026-09-09T07:28:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229955",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.5K",
+      "views_label": "1.59K",
       "posted_at": "2026-09-09T07:17:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229954",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.87K",
+      "views_label": "1.96K",
       "posted_at": "2026-09-09T07:02:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229952",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.94K",
+      "views_label": "2.03K",
       "posted_at": "2026-09-09T06:52:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229951",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.16K",
+      "views_label": "2.23K",
       "posted_at": "2026-09-09T06:36:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229950",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.49K",
+      "views_label": "2.58K",
       "posted_at": "2026-09-09T06:18:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229949",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.67K",
+      "views_label": "2.73K",
       "posted_at": "2026-09-09T06:07:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229948",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.96K",
+      "views_label": "2.99K",
       "posted_at": "2026-09-09T05:48:49+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229947",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.15K",
+      "views_label": "3.19K",
       "posted_at": "2026-09-09T05:31:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229946",
@@ -329,7 +357,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.19K",
+      "views_label": "3.22K",
       "posted_at": "2026-09-09T05:20:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229945",
@@ -357,7 +385,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.44K",
+      "views_label": "3.5K",
       "posted_at": "2026-09-09T05:11:43+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/229944",
@@ -385,7 +413,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.82K",
+      "views_label": "5.88K",
       "posted_at": "2026-09-09T02:31:29+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229943",
@@ -413,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "5.73K",
+      "views_label": "5.76K",
       "posted_at": "2026-09-09T02:29:15+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229942",
@@ -429,7 +457,7 @@
       "plain_text": "🔺سنتکام: جمهوری اسلامی ابزاری برای دفاع از کشتی‌هایش ندارد؛ نفتکش‌های سپاه را منهدم کردیم\n\n▪️ستاد فرماندهی مرکزی آمریکا، سه‌‌شنبه شب به وقت واشنگتن (بامداد چهارشنبه به وقت تهران) ویدیوی انهدام نفتکش ری‌یسکو، یکی از ۵ نفتکش جمهوری اسلامی را که ساعاتی قبل منهدم کرد، منتشر کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195937.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "5.49K",
+      "views_label": "5.52K",
       "posted_at": "2026-09-09T02:25:35+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229941",
@@ -457,7 +485,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.87K",
+      "views_label": "4.9K",
       "posted_at": "2026-09-09T02:15:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229940",
@@ -513,7 +541,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.92K",
+      "views_label": "4.95K",
       "posted_at": "2026-09-09T01:38:18+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229938",
@@ -2481,34 +2509,6 @@
       "posted_at": "2026-09-08T13:10:48+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229857",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229856",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "ولودیمیر زلنسکی، رئیس‌جمهوری اوکراین، گفت استیو ویتکاف و جرد کوشنر در گفت‌وگوهای آخر هفته چند «ایده شایسته» برای پایان جنگ با روسیه ارائه کردند.<br><br>او روز سه‌شنبه به خبرنگاران گفت: «درباره بسته صلحی که کوشنر از آن سخن گفت و ایده‌های تازه می‌توانم بگویم واقعاً ایده‌های بسیار شایسته و ارزشمندی وجود داشت.»<br><br>زلنسکی جزئیات بیشتری نداد و گفت کی‌یف با فرستادگان آمریکا توافق کرده در گام نخست روی آنها کار کنند.<br><br>رئیس‌جمهوری اوکراین گفت قصد دارد اواخر همین ماه با دونالد ترامپ، رئیس‌جمهوری آمریکا، دیدار کند. به گفته او، بسته پشتیبانی پدافند هوایی برای زمستان محور اصلی آن دیدار خواهد بود.<br><br>زلنسکی گفت نمایندگان اوکراین، آمریکا و اروپا به‌زودی برای آماده‌سازی نشستی سه‌جانبه دیدار می‌کنند. بر پایه گفته او، ترکیه، امارات متحده عربی، سوئیس یا کشورهای دیگر می‌توانند میزبان باشند.",
-      "plain_text": "ولودیمیر زلنسکی، رئیس‌جمهوری اوکراین، گفت استیو ویتکاف و جرد کوشنر در گفت‌وگوهای آخر هفته چند «ایده شایسته» برای پایان جنگ با روسیه ارائه کردند.\n\nاو روز سه‌شنبه به خبرنگاران گفت: «درباره بسته صلحی که کوشنر از آن سخن گفت و ایده‌های تازه می‌توانم بگویم واقعاً ایده‌های بسیار شایسته و ارزشمندی وجود داشت.»\n\nزلنسکی جزئیات بیشتری نداد و گفت کی‌یف با فرستادگان آمریکا توافق کرده در گام نخست روی آنها کار کنند.\n\nرئیس‌جمهوری اوکراین گفت قصد دارد اواخر همین ماه با دونالد ترامپ، رئیس‌جمهوری آمریکا، دیدار کند. به گفته او، بسته پشتیبانی پدافند هوایی برای زمستان محور اصلی آن دیدار خواهد بود.\n\nزلنسکی گفت نمایندگان اوکراین، آمریکا و اروپا به‌زودی برای آماده‌سازی نشستی سه‌جانبه دیدار می‌کنند. بر پایه گفته او، ترکیه، امارات متحده عربی، سوئیس یا کشورهای دیگر می‌توانند میزبان باشند.",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229856",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/lmOQPrLncri9bbcddUTpeOBSx7sHdfIW0wvlpQTPFtIokOsK82BZV3qLgUtAUFHrqgHM1X8N7WFGHtVUrn3jjhxFiT9PR8URpRHn1GR6QmmwFBSn1nVn6zVgrzUdYvjZn4Uw5UNZIkP0SzbkYZ232BbBTiuknJNpHueybHJm7MmNTWxv3MUP8owwJA8DLZwc2Z7iMYlsHckpUuMvYWR1Uy9_OHU_6t8xR_i5J_o4kQ8f7E5My9WrZKpUNScHo-FcIwbmEnS30awvUCEiIDRdpTrKGv7J1N7SHf4hpOJ1TpmKYzhwDE5YwNTVt7aOy-Pa8KIkbtddXEJDsJNLdpHtlg.jpg",
-          "thumbnail_path": "channels/farsivoa/media/a633fe8a6ed766e0094b01f8.jpg",
-          "thumbnail_sha256": "b862897b3d125d1a7720df38fe3c518bad624701e69b52d99470f1b5fbfc5a1d",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.41K",
-      "posted_at": "2026-09-08T13:05:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229856",
       "reply": null
     }
   ]
