@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T17:41:53.714Z",
+  "fetched_at": "2026-09-09T17:46:31.683Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
@@ -11,6 +11,34 @@
     "subscriber_count": "1.37M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/356535",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
+      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
+      "body_html": "یک مقام آمریکایی در واکنش به گزارش‌ها درباره شنیده شدن صدای انفجار در نزدیکی جاسک به شبکه نیوزنیشن گفت که در حال حاضر نیروهای آمریکایی هیچ حمله‌ای انجام نمی‌دهند.<br><br>صدا و سیمای جمهوری اسلامی از شنیده شدن صدای انفجار از سمت تنگه هرمز در جاسک در شامگاه چهارشنبه خبر داده بود.<br><a href=\"https://iranintl.com/202609093642\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202609093642</a>",
+      "plain_text": "یک مقام آمریکایی در واکنش به گزارش‌ها درباره شنیده شدن صدای انفجار در نزدیکی جاسک به شبکه نیوزنیشن گفت که در حال حاضر نیروهای آمریکایی هیچ حمله‌ای انجام نمی‌دهند.\n\nصدا و سیمای جمهوری اسلامی از شنیده شدن صدای انفجار از سمت تنگه هرمز در جاسک در شامگاه چهارشنبه خبر داده بود.\nhttps://iranintl.com/202609093642",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/356535",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/s2f_FU0IRaime9zR7tuNjot3dtMSTQ8iLl1RxEIPBoQ4mfBXC1epXjRNZANnDFnTzhaR1fInTrXLUgwPG41rOSI3UB89OC-oro0x03ZG9ASAGRj7efkERCH3f7kctZDe1zePD4Sz8IXysDPKiyGE-OWmhemmSEwkWxMqg_UYFD9aCKJsS7ePgC9jeNNcJEXCZWfBIU5jw8oTHnAULFAag_YKt5WOHAx0xjEoH6ssmofbpFvtWQERO_68rA-PNbCf5_iPzdJTCT2wXUnhVPUd7LIgKgxhuSBPr7B3sl3ycaD69NwZss94ru4M8R-cDW4JK5jFWKSjTUnXgmMjAQ02_A.jpg",
+          "thumbnail_path": "channels/iranintltv/media/3522f6ad1c901f1207177342.jpg",
+          "thumbnail_sha256": "98327fecab89dfb789e2a6317727857f5af43b788edb5c7d37ba232073b4d650",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "5.24K",
+      "posted_at": "2026-09-09T17:42:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/356535",
+      "reply": null
+    },
     {
       "id": "IranintlTV/356534",
       "author_name": "Iran International ایران اینترنشنال",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.46K",
+      "views_label": "13.7K",
       "posted_at": "2026-09-09T17:33:44+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356534",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "8.41K",
+      "views_label": "12.6K",
       "posted_at": "2026-09-09T17:33:32+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356533",
@@ -77,7 +105,7 @@
       "plain_text": "کشتار دی ماه و مساله کیسه‌های حمل جسد\n\nرضا حاجی‌حسینی- از کشتار دی ماه ۱۴۰۴ چه تصاویری در حافظه جمعی ایرانیان باقی مانده است؟ برای بسیاری، ردیف کیسه‌های حمل جسد که خانواده‌ها میانشان می‌گشتند تا شاید پیکر پدر، مادر، فرزند، خواهر، برادر یا دوست و رفیق گمشده خود را پیدا کنند.\nهشت ماه از کشتار معترضان در جریان انقلاب ملی ایرانیان می‌گذرد اما تصاویر کشتار و سرکوب همچنان زنده‌اند و به ذهن و روان بازماندگان و عموم شهروندان برمی‌گردند. \nهشت ماه است کیسه‌های حمل جسد وارد زندگی روزمره مردم شده‌اند. این کیسه‌ها تا پیش از آن بیشتر به‌عنوان عناصری تصویری در سینما و تلویزیون دیده می‌شدند یا هنگام وقوع بلایای طبیعی و حوادث غیرمترقبه، مورد توجه قرار می‌گرفتند.\nدر تصاویر شاخص سرکوب‌ها در اعتراضات ۱۳۸۸، آبان خونین ۱۳۹۸ و جنبش «زن، زندگی، آزادی» ۱۴۰۱ نیز مرگ اغلب با خود پیکر دیده می‌شود؛ بدنی افتاده در خیابان، روی تخت بیمارستان یا پیچیده در کفن.\nدر دی ‌ماه، بدن بی‌جان معترض پشت یک زیپ و پوشش سیاه پنهان می‌شود. چهره‌ها از قاب کنار می‌روند و ردیف کیسه‌ها باقی می‌ماند.\n\n(ادامه این مطلب را در اینجا بخوانید)\nhttps://www.iranintl.com/202609094235",
       "media": [],
       "reactions": [],
-      "views_label": "28.4K",
+      "views_label": "31.5K",
       "posted_at": "2026-09-09T17:05:01+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356532",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "27.4K",
+      "views_label": "30.5K",
       "posted_at": "2026-09-09T17:02:41+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356531",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.6K",
+      "views_label": "34.7K",
       "posted_at": "2026-09-09T16:53:58+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356530",
@@ -161,7 +189,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "29.5K",
+      "views_label": "30.6K",
       "posted_at": "2026-09-09T16:53:50+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356529",
@@ -189,7 +217,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.6K",
+      "views_label": "32.7K",
       "posted_at": "2026-09-09T16:51:19+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356528",
@@ -217,7 +245,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "30.6K",
+      "views_label": "31.7K",
       "posted_at": "2026-09-09T16:48:10+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356527",
@@ -245,7 +273,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "34.9K",
+      "views_label": "37K",
       "posted_at": "2026-09-09T16:34:34+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356526",
@@ -273,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "32.7K",
+      "views_label": "33.8K",
       "posted_at": "2026-09-09T16:34:05+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356525",
@@ -301,7 +329,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "33.8K",
+      "views_label": "34.8K",
       "posted_at": "2026-09-09T16:28:51+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356524",
@@ -317,7 +345,7 @@
       "plain_text": "🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - چهارشنبه ۱۸ شهریور\n\n🔹از الیگودرز هستم، بازنشسته با سه تا دختر دم‌بخت، توان خرید نوار بهداشتی ندارم؛ از خیاطی تکه‌پارچه گرفتم برای جایگزین\n\n🔹پدر و مادرم هر دو کارمند دولتین، حقوقشون با این همه قسط برای زندگی کافی نیست؛ من و برادر ۱۷ و ۱۵ ساله‌ام هر دو هم داریم کار می‌کنیم، هم برای مدرسه آماده می‌شیم؛ نمی‌تونیم به خانوادمون کمک زیادی کنیم\n\n🔹داروی سرترالین می‌خواستم برای استرس، اما مجبور شدم پنج تا داروخانه رو بگردم تا پیدا کنم. این‌همه خرج تسلیحات می‌کنند، اما یک دارو رو نمی‌تونند تأمین کنند\n\n🔹کیف پسرانه برای پیش‌دبستانی معمولی، یک‌ونیم میلیون، بازار تهران؛ جامدادی، یک‌ونیم میلیون\n\n🔹من کارمند رسمی یکی از فرمانداری‌ها هستم، با مدرک فوق‌لیسانس و ۲۵ سال سابقه، ۳۰ میلیون تومان دریافتی دارم. این حقوق هفته اول ماه تمام می‌شود. اکثر کارمندان وزارت کشور نسبت به حقوق بسیار اندک معترض و از بی‌لیاقتی وزیر کشور و معاون توسعه وزیر خشمگین هستند\n\n🔹برای دخترم در حد لوازم‌التحریر معمولی مورد نیاز یک دانش‌آموز کلاس چهارم دبستانی خرید کردم، سه میلیون تومن. واقعاً از کجا تأمین کنیم؟ ای پرچم به دست نادان، تو از کجا خرید می‌کنی؟ لابد حقوقت از جای دیگری تأمین می‌شود\n\n🔹بعد از ۳۰ سال خدمت در مناطق گرم جنوب، بازنشسته شدم. الان برای یک وعده غذای خانواده‌ام موندم\n\n🔹سه کیلو گوشت و یک کیلو چرخ‌کرده رو ۹ میلیون و ۳۴۰ هزار تومان خریدم؛ از ترس اینکه تو خواب سکته کنم، دیشب تا صبح نخوابیدم",
       "media": [],
       "reactions": [],
-      "views_label": "35.9K",
+      "views_label": "38K",
       "posted_at": "2026-09-09T16:20:45+00:00",
       "edited": true,
       "permalink": "https://t.me/IranintlTV/356523",
@@ -345,7 +373,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38K",
+      "views_label": "39.1K",
       "posted_at": "2026-09-09T16:10:46+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356522",
@@ -373,7 +401,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.1K",
+      "views_label": "41.1K",
       "posted_at": "2026-09-09T16:04:39+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356521",
@@ -401,7 +429,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38K",
+      "views_label": "39K",
       "posted_at": "2026-09-09T16:00:50+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356520",
@@ -429,7 +457,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "38K",
+      "views_label": "39K",
       "posted_at": "2026-09-09T15:57:47+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356519",
@@ -457,7 +485,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "40.1K",
+      "views_label": "41.2K",
       "posted_at": "2026-09-09T15:46:55+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356518",
@@ -485,7 +513,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "42.3K",
+      "views_label": "43.4K",
       "posted_at": "2026-09-09T15:32:52+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356517",
@@ -513,7 +541,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "42.3K",
+      "views_label": "43.4K",
       "posted_at": "2026-09-09T15:30:51+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356516",
@@ -2685,34 +2713,6 @@
       "posted_at": "2026-09-09T05:31:38+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/356436",
-      "reply": null
-    },
-    {
-      "id": "IranintlTV/356435",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/WskLHU--h5uLTl_od_0bU00SIalq1JKHV1RprlF0MdGtKz4kMhr4KjCfh2jYV0o2K-IJ6ZhFNBuPtR0ME5cuYrvOP445ecbCUGNwaBJaePuOPM23QRY3WH2_HqGCE61G8F3yqDsM4zTeYFDrsYW3WIFDk-ZtWGPY-dePBJz2xvmKcWrs7kKenEkt7AJhYE5xqK-N_UNFfeZDvk4Q1U6jAgI10EFOg2uZHuOn4lbNZT-BGwhNWOyexeSjQ9qR63aghQTF00E57J6Q_jsqYtCWu9ZMhRQjbsPQcN_cKVHkLWCyPXuo5ara242yCQmP6o2bdgtNyhMHAC2vaOlHD9QhpQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/07aba164c182c6e2e10c4818.jpg",
-      "author_photo_sha256": "dc7fffe671062b14e24dddfeb10909af3a74558347168a9753a3147064742f05",
-      "body_html": "صادق بیگدلی، حقوقدان و فعال سیاسی، با اشاره به تحریم ۲۷ شرکت هواپیمایی ایرانی و شبکه شرکت‌های مرتبط با ماهان‌ایر به ایران‌اینترنشنال گفت این اقدامات، انتقال تجهیزات حساس، منابع مالی و نیرو توسط جمهوری اسلامی را دشوارتر و پرهزینه‌تر می‌کند.<br><br>به گفته او، همزمانی فشار بر مسیرهای هوایی و دریایی، تهران را به استفاده گسترده‌تر از مسیرهای زمینی وادار می‌کند؛ مسیرهایی که کندتر، پرهزینه‌تر و از نظر ظرفیت محدودتر هستند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "صادق بیگدلی، حقوقدان و فعال سیاسی، با اشاره به تحریم ۲۷ شرکت هواپیمایی ایرانی و شبکه شرکت‌های مرتبط با ماهان‌ایر به ایران‌اینترنشنال گفت این اقدامات، انتقال تجهیزات حساس، منابع مالی و نیرو توسط جمهوری اسلامی را دشوارتر و پرهزینه‌تر می‌کند.\n\nبه گفته او، همزمانی فشار بر مسیرهای هوایی و دریایی، تهران را به استفاده گسترده‌تر از مسیرهای زمینی وادار می‌کند؛ مسیرهایی که کندتر، پرهزینه‌تر و از نظر ظرفیت محدودتر هستند.\n@iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/356435",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Ti9C6M6l30KWmGrHH7gnYFetyZoVrQ7YHc6D1B4epR7O2J70-jrHGX6WmeJ4cgbBm0VyAvFHuIcp9QqgnN6KltoQ2PVzcY0I0tuKIHEhMFGFI-fLD-psM3PrKuCmmauuE8fontQsbjuHjQZdHWF1Vb_0212v96ngVmzhe5yq-cS8HE0wLXPyozMLrX7_zbAPP17TCPTjCL3IwFTcGdZRjyTgSZyPKtVgh_BdNX3aC34L57pMw5nR9UqdKMtTcohIjKCZez2ziEZkVnr6XnmQqoTaM7IUHwaE_Dr4uWYhxxV-XKBYLstzg_e2-eQrD3yxeIVbgtprxYwL7bOIZ_6nHg",
-          "thumbnail_path": "channels/iranintltv/media/5654b4e635c82e008aa94741.jpg",
-          "thumbnail_sha256": "5d4f82a2127c5646c4bbe5ec6f2b3708e79531fc21da0756142a0624864f9f1f",
-          "duration_label": "5:30",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "53.6K",
-      "posted_at": "2026-09-09T05:06:49+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/356435",
       "reply": null
     }
   ]
