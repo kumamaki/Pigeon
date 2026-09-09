@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T11:41:41.351Z",
+  "fetched_at": "2026-09-09T11:47:52.489Z",
   "channel": {
     "username": "daadbaan2021",
     "title": "دادبان؛ مرکز مشاوره و آموزش حقوقی ویژه کنش‌گران",
@@ -38,7 +38,7 @@
           "count": "1"
         }
       ],
-      "views_label": "81",
+      "views_label": "83",
       "posted_at": "2026-09-09T10:06:15+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20247",
@@ -75,7 +75,7 @@
           "count": "1"
         }
       ],
-      "views_label": "108",
+      "views_label": "109",
       "posted_at": "2026-09-09T09:04:21+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20246",
@@ -112,7 +112,7 @@
           "count": "2"
         }
       ],
-      "views_label": "116",
+      "views_label": "117",
       "posted_at": "2026-09-09T08:07:20+00:00",
       "edited": true,
       "permalink": "https://t.me/Daadbaan2021/20245",
@@ -415,8 +415,8 @@
           "asset_url": "https://t.me/Daadbaan2021/20236",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/jdr4tS0XfbhhpIfpihx5ZdrbG3TJx6feIO-OjT65LBS82lYZA-ymn8_UKjZfRMz_4xUfP_KHohjMoDhZiBeRsmBn7HIZWVUTpBmcZyqW4D44p84Pr5Ocwt4SaRu9P8wBf29JAgIplWdb6l2YUCRzaP3lJvUxGSCGZkddatHYRAG-Q4beSqjvtoi7YNOmeJzUQfAy9rsq1UYJ_JXeZrgJSjIPmQpLonf6zJti_dtIaoXsNd1wyZERKikhA8ky3TcyQ5Yt8Cv_gpRfYI0Ol7Ttz_obwFLKkH3OD5zErS9-5UAffGIp3XVHOPUpzdgrDrRCa7AcpfLJZJCgp9LD2raDVA.jpg",
-          "thumbnail_path": "channels/daadbaan2021/media/cb980f7d818fada822170fb2.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/rGO4l6AqK1vC4BwrPcfeFGwblZuRnD2FE0iWhXjecM1c43c5pHEMcxcp6-AjnpkaU0FQf3XsFERaE99tKRxc2bN5KeQjjfjTGZmXyLLR3fGgiBjUQyMFKueB2FC1HlqmZ69HCw_KZ4GGtIQa-yZpjJSPGBd9_g_CzhFHK7FH1n9D1_i1W527uo0ikcwaj2w740-VEH9OquAPC01YvE3SERmSW-AP9Xsg3baARDZP6nRK5n4Zoo_q3mu0KPE6GXyyjEhmD6kbMxZHJVfntY9Py1Yg-cjRSdz8_ZeEct76D8CEo_T8_lANxlUwFJw8eH34MPppZoyxOlI0HnbQQjM_Kw.jpg",
+          "thumbnail_path": "channels/daadbaan2021/media/af09eb57e3e05bc1ae1623ac.jpg",
           "thumbnail_sha256": "c9bb280328bf90ac549462d1eb3b68d1d6d4f4e0760e227a80e851ceeaafff02",
           "duration_label": null,
           "aspect_ratio": 0.7987500000000295
@@ -444,8 +444,8 @@
           "asset_path": null,
           "asset_sha256": null,
           "thumbnail_url": "https://cdn4.telesco.pe/file/paTcpBMg4cx15L4GKvmpkk0EKiU-vqNltXCqyQ063_Kk4gR1CuemU0bRK3nLEd5yhar7PObcvljaWg_O_knqUENlARi_kVPiqdJM6ujBWRvFgmlTRSD6sgDDHCbkF_41RvOqM4InGhQmEEqEXJ5tSnGxZe2dpcNmIuxZnJ0n3ww73yZn6_GzNn2jZL3XGUQ9db_Bi2yhxh6UaCzoEwsWRLSy-PSZhqexikbkG9TKxPBWCLLiOVQci9sNcEqm1AfkL6rErd5aqEJX1BiuS3pwhczrBy-TocpXXEUV9bQkNDPhCvqBllSbowPy_5xJrO3MG9bOcSsQONhzVnF8SxSo7A.jpg",
-          "thumbnail_path": null,
-          "thumbnail_sha256": null,
+          "thumbnail_path": "channels/daadbaan2021/media/3dd15e0c269b5e6cdad9e1c7.jpg",
+          "thumbnail_sha256": "b12ef3dc5bc61b2b7be64cecf4610a3731edf1172d57a33cab81ff260acef623",
           "duration_label": null,
           "aspect_ratio": 0.8
         }
