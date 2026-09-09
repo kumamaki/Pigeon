@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T04:41:43.995Z",
+  "fetched_at": "2026-09-09T04:47:22.258Z",
   "channel": {
     "username": "iranlix",
     "title": "ایرانلیکس",
@@ -26,14 +26,14 @@
           "asset_path": null,
           "asset_sha256": null,
           "thumbnail_url": "https://cdn4.telesco.pe/file/q77RgbVo9X_tzp9IMCsc3Qrv7uh0f36q-n5Fp7fuN5XHzj67AvmfdCAzfDh8MpGKeNW2KwhERwicEC8tznrh0XdNp46NXRRiFhWo07PSIeA8OO8vZiF6sWmqVrUjDPiHn-zGqSW7v9rOSE6ZjBseUUvxd9WFoV0hDNrIIf5oVdsP9lpGzU-TDcezLyJFxzxnv-xOtaPTVsSumDUCcadGFU3ynRHopkBUgVKR2BXlCw69laCHe2DfcphkDw3mc9gzoZFxAyFgbyOoR900CRcRIvBGx-VDG46D9aPe1r75bo0rNl6seBF7tNDdUGFYjrxYGZuhYAjs5EfclDI6kgZWXw.jpg",
-          "thumbnail_path": null,
-          "thumbnail_sha256": null,
+          "thumbnail_path": "channels/iranlix/media/f5de2936c458e637d88af11e.jpg",
+          "thumbnail_sha256": "4e3379c68e1bbd55ccb7461480257571031bc4a96edfc05697e099fb4cc14397",
           "duration_label": null,
           "aspect_ratio": 1.780722891566253
         }
       ],
       "reactions": [],
-      "views_label": "46",
+      "views_label": "107",
       "posted_at": "2026-09-09T04:37:40+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12759",
@@ -61,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "824",
+      "views_label": "863",
       "posted_at": "2026-09-08T22:42:22+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12758",
@@ -109,7 +109,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "884",
+      "views_label": "920",
       "posted_at": "2026-09-08T22:29:09+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12756",
@@ -137,7 +137,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "839",
+      "views_label": "874",
       "posted_at": "2026-09-08T22:23:55+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12755",
@@ -165,7 +165,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "807",
+      "views_label": "837",
       "posted_at": "2026-09-08T22:22:34+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12754",
@@ -204,7 +204,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "823",
+      "views_label": "852",
       "posted_at": "2026-09-08T22:14:07+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12752",
@@ -243,7 +243,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "771",
+      "views_label": "796",
       "posted_at": "2026-09-08T22:10:04+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12750",
@@ -304,7 +304,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "774",
+      "views_label": "798",
       "posted_at": "2026-09-08T22:01:28+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12746",
@@ -332,7 +332,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "818",
+      "views_label": "839",
       "posted_at": "2026-09-08T21:54:46+00:00",
       "edited": true,
       "permalink": "https://t.me/iranlix/12745",
@@ -360,7 +360,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "801",
+      "views_label": "821",
       "posted_at": "2026-09-08T21:52:53+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12744",
@@ -410,7 +410,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "795",
+      "views_label": "822",
       "posted_at": "2026-09-08T21:50:57+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12741",
@@ -438,7 +438,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "942",
+      "views_label": "963",
       "posted_at": "2026-09-08T21:30:16+00:00",
       "edited": false,
       "permalink": "https://t.me/iranlix/12740",
