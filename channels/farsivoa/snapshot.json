@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T21:02:08.164Z",
+  "fetched_at": "2026-09-09T21:07:33.469Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/230039",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/TDaXzD1SqP9xTStg_G7suA7hMViJjPqVwnwwTLB_DUGQC4NC7-w5Wkwmk8gDPuAQByx0poZj8S94eoRffmHeRT9xrcGPzWu7C0ZMDau7-qcaqBWq40PRp5WjKogQsNBDZgrsGt_Ga26l0r3qqQ_yjcUiyBiP3YfLQ0a3HSBOFP7tHYTn8zp6o6L0n-5FRDcf0yBsa-sXpdSaMW5dbmZ7VUJUET5rQgZDA0jF59JPxCtDBv293jMYV7TZtxqTClTcuEc9cEhhDdSAYJALkWzllcM_PdRn8aHMK28mulEjt9zDtHt6hUIn5HC55jszDZm5-oSBSiobQTMHWfcmcwf0rw.jpg",
+      "author_photo_path": "channels/farsivoa/media/64e7ce62c0394704c02414ea.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "بنیامین نتانیاهو در بازدید از ارتفاعات حرمون گفت اسرائیل اجازه استقرار «ارتش تروریستی» در نزدیکی مرزهایش را نمی‌دهد. او همچنین شکست جمهوری اسلامی را «مأموریت اصلی» اسرائیل خواند و گفت این کشور به این هدف نزدیک شده است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "بنیامین نتانیاهو در بازدید از ارتفاعات حرمون گفت اسرائیل اجازه استقرار «ارتش تروریستی» در نزدیکی مرزهایش را نمی‌دهد. او همچنین شکست جمهوری اسلامی را «مأموریت اصلی» اسرائیل خواند و گفت این کشور به این هدف نزدیک شده است.\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/230039",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/bSBCfp_3G7fZXep3atmlVVMQsUj0Nv2_6LWWAOwVRCIyh8oCOCD_yPO3PCXwyEJVwDf3-segbsa5qSVphmZWW7Azh1n9dQRypp2ghjmbV5lCBlMFIsn0BoK-DU8rdeeZpjAc5_Aa1slAF0AjKFnpAF6yAYODdfoYjEFxAtHbWeSBP0-3rpql7PyvhW54jhYS2epX9cDL_OpYpsq1DMcyBjHM-J1FakOd41xXv9KVjnCbFoOpbqZNJa_O9DSam9-TJCoUgWqrptZbaCeNiXymldC5xhhD735K_xW6dsZvvVDfh3QrvrRmleIlgKS6vIPAzG-jq14LLOcL-ReyUAm6jA",
+          "thumbnail_path": "channels/farsivoa/media/b7fea1e18d82a55f8ad6458b.jpg",
+          "thumbnail_sha256": "c843225b90c3873394eda82cd4e2308ce9f68b5d2c2ce2a4b2c4fc45a353e6fb",
+          "duration_label": "2:53",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "324",
+      "posted_at": "2026-09-09T21:03:56+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/230039",
+      "reply": null
+    },
     {
       "id": "farsivoa/230038",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.24K",
+      "views_label": "1.5K",
       "posted_at": "2026-09-09T20:40:39+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230038",
@@ -49,7 +77,7 @@
       "plain_text": "🔺کشته‌شدن یکی معترضان تحت تعقیب در استان ایلام در جریان درگیری با ماموران؛ وخامت شرایط زندانیان در اوین و ارومیه\n\n◾️کانون حقوق بشر ایران با انتشار گزارش‌هایی نسبت به وضعیت زندانیان زندان‌های اوین و ارومیه ابراز نگرانی کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/ongoing-human-rights-violations-in-iranfrom-the-killing-of-a-protester-in-a-grenade-explosion-to-inhumane-conditions-in-prisons/8196155.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "1.72K",
+      "views_label": "1.97K",
       "posted_at": "2026-09-09T20:30:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230037",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.93K",
+      "views_label": "2.12K",
       "posted_at": "2026-09-09T20:19:06+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230036",
@@ -93,7 +121,7 @@
       "plain_text": "🔺یاشار سلطانی از صدور کیفرخواست به «اتهام اختلاس» برای مقامات ارشد فدراسیون فوتبال جمهوری اسلامی خبر داد\n\n◾️یاشار سلطانی، روزنامه‌نگار تحقیقی ساکن ایران، روز چهارشنبه ۱۸ شهریور اعلام کرد برای چند چهره و مقام ارشد فدراسیون فوتبال ایران در پرونده «فساد فوتبال» به اتهام اختلاس کیفرخواست صادر شده است.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/yashar-soltani-journalist-bribery-iran-football-federation-charge-conviction-indicetment/8196138.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "2.78K",
+      "views_label": "2.9K",
       "posted_at": "2026-09-09T19:56:24+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230035",
@@ -109,7 +137,7 @@
       "plain_text": "🔴📢‌ پادکست میدان - چهارشنبه ۱۸ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از\nنسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه\nسبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "2.38K",
+      "views_label": "2.5K",
       "posted_at": "2026-09-09T19:55:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230034",
@@ -137,7 +165,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.36K",
+      "views_label": "2.46K",
       "posted_at": "2026-09-09T19:47:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230033",
@@ -165,7 +193,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.75K",
+      "views_label": "2.81K",
       "posted_at": "2026-09-09T19:31:19+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230032",
@@ -181,7 +209,7 @@
       "plain_text": "🔺وضعیت حقوق بشر ایران در کانون توجه شصت‌وسومین نشست شورای حقوق بشر سازمان ملل\n\n◾️شورای حقوق بشر سازمان ملل متحد در شصت‌وسومین نشست خود وضعیت حقوق بشر در ایران و نقض این حقوق توسط جمهوری اسلامی را مورد بحث و بررسی قرار داد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/un-human-rights-council-concerned-about-iran/8196029.html\n@FarsiVOA",
       "media": [],
       "reactions": [],
-      "views_label": "2.77K",
+      "views_label": "2.86K",
       "posted_at": "2026-09-09T19:29:12+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230031",
@@ -209,7 +237,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.82K",
+      "views_label": "2.92K",
       "posted_at": "2026-09-09T19:14:43+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230030",
@@ -225,7 +253,7 @@
       "plain_text": "‼️با پوزش فراوان از خوانندگان صدای آمریکا، ویدئویی را که به نقل از شبکه‌های اجتماعی با عنوان لحظه فوران یک آتشفشان در اندونزی منتشر کرده‌ بودیم، ساخته هوش مصنوعی است. قطعا از تکرار چنین اشتباهاتی جلوگیری خواهیم کرد.",
       "media": [],
       "reactions": [],
-      "views_label": "3.24K",
+      "views_label": "3.31K",
       "posted_at": "2026-09-09T19:07:17+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230029",
@@ -250,7 +278,7 @@
       "plain_text": "🔺پرزیدنت ترامپ: تنگه هرمز تحت کنترل آمریکا است؛ اشاره به شرایط بحرانی حکومت ایران\n\n◾️رئیس جمهوری آمریکا با اشاره به وضعیت بحرانی اقتصاد ایران و شرایط بسیار وخیم جمهوری اسلامی، تاکید کرد که آمریکا کنترل تنگه هرمز را در دست دارد و قیمت نفت پس از انتخابات میان‌دوره‌ای آمریکا به سرعت کاهش خواهد یافت.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/donald-trump-strait-of-hormuz-us-control-critical-situation-of-the-iranian-government-drop-in-oil-prices/8196134.html",
       "media": [],
       "reactions": [],
-      "views_label": "3.39K",
+      "views_label": "3.45K",
       "posted_at": "2026-09-09T19:03:47+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230028",
@@ -278,7 +306,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.02K",
+      "views_label": "3.12K",
       "posted_at": "2026-09-09T19:00:51+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230027",
@@ -306,7 +334,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.54K",
+      "views_label": "3.6K",
       "posted_at": "2026-09-09T18:43:28+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230026",
@@ -334,7 +362,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.95K",
+      "views_label": "4.01K",
       "posted_at": "2026-09-09T18:28:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230025",
@@ -350,7 +378,7 @@
       "plain_text": "🔺گزارش‌ها از شنیده شدن صدای دو انفجار در نزدیکی جاسک و تنگه هرمز\n\n▪️منابع حکومتی در ایران، از جمله خبرگزاری‌های فارس و تسنیم که وابسته به سپاه هستند، شامگاه چهارشنبه ۱۸ شهریور از شنیده شدن صدای یک انفجار از سمت دریا در مناطق جنوبی شهرستان جاسک و صدای انفجاری دیگر از سمت تنگه هرمز خبر دادند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/reports-two-explosions-near-jask-hormuz/8196103.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "4.13K",
+      "views_label": "4.2K",
       "posted_at": "2026-09-09T18:17:26+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230024",
@@ -378,7 +406,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.81K",
+      "views_label": "3.84K",
       "posted_at": "2026-09-09T18:08:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230023",
@@ -406,7 +434,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.92K",
+      "views_label": "3.95K",
       "posted_at": "2026-09-09T17:59:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230022",
@@ -434,7 +462,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.92K",
+      "views_label": "3.95K",
       "posted_at": "2026-09-09T17:52:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230020",
@@ -462,7 +490,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.67K",
+      "views_label": "3.71K",
       "posted_at": "2026-09-09T17:46:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230019",
@@ -2544,22 +2572,6 @@
       "posted_at": "2026-09-08T23:34:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229931",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229930",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>روبیو: جمهوری اسلامی به ازای هر تلاش برای حمله به ناوهای آمریکایی نفتکش‌هایی را از دست خواهد داد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>مارکو روبیو، وزیر امور خارجه آمریکا، روز سه‌شنبه ۱۷ شهریور در گفت‌وگو با خبرنگاران درباره حملات اخیر به نفتکش‌های جمهوری اسلامی گفت جمهوری اسلامی همچنان تلاش می‌کند ناوهای نیروی دریایی آمریکا را هدف قرار دهد و واشنگتن در پاسخ به هرگونه حمله یا تلاش برای حمله، نفتکش‌های آن را هدف خواهد گرفت.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8195716.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8195716.html</a><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "🔺روبیو: جمهوری اسلامی به ازای هر تلاش برای حمله به ناوهای آمریکایی نفتکش‌هایی را از دست خواهد داد\n\n▪️مارکو روبیو، وزیر امور خارجه آمریکا، روز سه‌شنبه ۱۷ شهریور در گفت‌وگو با خبرنگاران درباره حملات اخیر به نفتکش‌های جمهوری اسلامی گفت جمهوری اسلامی همچنان تلاش می‌کند ناوهای نیروی دریایی آمریکا را هدف قرار دهد و واشنگتن در پاسخ به هرگونه حمله یا تلاش برای حمله، نفتکش‌های آن را هدف خواهد گرفت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195716.html\n@FarsiVOA",
-      "media": [],
-      "reactions": [],
-      "views_label": "4.11K",
-      "posted_at": "2026-09-08T23:32:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229930",
       "reply": null
     }
   ]
