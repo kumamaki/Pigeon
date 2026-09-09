@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T10:16:43.139Z",
+  "fetched_at": "2026-09-09T10:22:09.735Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -12,6 +12,34 @@
   },
   "posts": [
     {
+      "id": "farsivoa/229968",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، بار دیگر گزارش روزنامه هاآرتص درباره دریافت هشدار از رئیس امارات پیش از حمله ۱۵ مهر ۱۴۰۲ را رد کرد و گفت به وکلایش دستور داده از این روزنامه و شلومی الدار، خبرنگارش، شکایت کنند.<br><br>او در شبکه ایکس تأکید کرد هیچ تماسی میان او و محمد بن زاید از اوایل شهریور ۱۴۰۲ تا حمله انجام نشده است.<br><br>نتانیاهو گفت چنین تماسی مستندات روشنی بر جای می‌گذاشت که تیم دفتر نخست‌وزیری آن را نیافته است.<br><br>او افزود: «این افترایی شوم با زمان‌بندی سیاسی روشن است، در چارچوب کارزار انتخاباتی چپ، و افتراهای دروغین بیشتری از این دست خواهد بود.»<br><br>نتانیاهو بار دیگر مدعی شد اگر رؤسای امنیتی اسرائیل ساعاتی پیش از حمله او را هشدار داده بودند، «کشتار هولناک می‌توانست پیشگیری شود».<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، بار دیگر گزارش روزنامه هاآرتص درباره دریافت هشدار از رئیس امارات پیش از حمله ۱۵ مهر ۱۴۰۲ را رد کرد و گفت به وکلایش دستور داده از این روزنامه و شلومی الدار، خبرنگارش، شکایت کنند.\n\nاو در شبکه ایکس تأکید کرد هیچ تماسی میان او و محمد بن زاید از اوایل شهریور ۱۴۰۲ تا حمله انجام نشده است.\n\nنتانیاهو گفت چنین تماسی مستندات روشنی بر جای می‌گذاشت که تیم دفتر نخست‌وزیری آن را نیافته است.\n\nاو افزود: «این افترایی شوم با زمان‌بندی سیاسی روشن است، در چارچوب کارزار انتخاباتی چپ، و افتراهای دروغین بیشتری از این دست خواهد بود.»\n\nنتانیاهو بار دیگر مدعی شد اگر رؤسای امنیتی اسرائیل ساعاتی پیش از حمله او را هشدار داده بودند، «کشتار هولناک می‌توانست پیشگیری شود».\n@FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/229968",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/JRTTIef-ehno9sDsmVUWsEUbK08oaLcxI3dA8jxQczemY4eZNCeunfFttPzdkvLoJirX-LJInca3EDkycy8gHXBfo-VFqwVNuBaQBYyLohsmEpIoZhJQ4ehCk2JU0lKRtRv_lUk5FJEwKUCgpOeEhl52Vxe-uvHSr_lSZyb0fK6jqMEQDc3EUMgeHazUXWxHRNRISDFm8-sQxxUNBpCkwPdlUfXEf1Xqw4zv0jHogByaRTYIKrO4gw55HroMf5f7_Bb0Zxv-QkZIUlhxYyHNlygFQ9BkUwBw1Oh0kaDBbiuVY7i7w0TdW5GkyYI1o6VKOM_J7TRFf30ZtCcDht1rpg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/e44c7e17981d7544a52f9bdd.jpg",
+          "thumbnail_sha256": "0936b0fa8160558164ec1e75468ae98518cb04980944b517cae1028728dd59a1",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1",
+      "posted_at": "2026-09-09T10:21:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/229968",
+      "reply": null
+    },
+    {
       "id": "farsivoa/229967",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
@@ -21,7 +49,7 @@
       "plain_text": "🔺ژاپن پس از مخالفت با طرح جمهوری اسلامی درباره تنگه هرمز با عمان گفت‌وگو کرد\n\n▪️ژاپن و عمان نشست گفت‌وگوی حقوق بین‌الملل خود را با محوریت تنگه هرمز به‌صورت ویدئوکنفرانس برگزار کردند. این گفت‌وگو پس از آن انجام شد که ژاپن به جمهوری اسلامی اعلام کرد تعیین وضعیت تنگه هرمز به صورت دوجانبه بین ایران و عمان را قبول ندارد.\n\n▪️بر پایه اعلام وزارت امور خارجه ژاپن، دو طرف در روز سه‌شنبه دیدگاه‌های خود را درباره مسائل حقوق بین‌الملل مربوط به وضعیت پیرامون تنگه هرمز رد و بدل کردند.\n\n▪️هیئت ژاپن را کازوهیکو ناکامورا، مشاور حقوقی و مدیرکل اداره امور حقوقی بین‌المللی وزارت امور خارجه، رهبری کرد. از سوی عمان، ثانی حارث المحروقی، رئیس دفتر فلات قاره و امور دریایی، شرکت کرد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195984.html",
       "media": [],
       "reactions": [],
-      "views_label": "253",
+      "views_label": "578",
       "posted_at": "2026-09-09T10:13:57+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229967",
@@ -49,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.08K",
+      "views_label": "1.3K",
       "posted_at": "2026-09-09T09:56:59+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229966",
@@ -77,7 +105,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.4K",
+      "views_label": "1.59K",
       "posted_at": "2026-09-09T09:46:56+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229965",
@@ -105,7 +133,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.51K",
+      "views_label": "1.67K",
       "posted_at": "2026-09-09T09:37:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229964",
@@ -133,7 +161,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.7K",
+      "views_label": "1.81K",
       "posted_at": "2026-09-09T09:22:41+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229963",
@@ -149,7 +177,7 @@
       "plain_text": "🔺دلار یک رکورد تاریخی دیگر به جا گذاشت و به ۲۳۱ هزار تومان رسید\n\n▪️قیمت دلار در بازار آزاد ایران روز چهارشنبه به ۲۳۱ هزار تومان رسید که این رقم ۲۵ درصد بالاتر از قیمت یک ماه پیش و ۱۲۵ درصد بالاتر از قیمت دلار در سال گذشته است. دلار سال گذشته در چنین ایامی حدود ۱۰۲ هزار تومان معامله می‌شد.\n\n▪️دلار روز شنبه دو هفته پیش با ۲۰۶ هزار و ۴۰۰ تومان بسته شد و از پی آن هر روز رکورد تازه‌ای زد. نرخ روز یکشنبه برای ساعتی از ۲۳۰ هزار تومان گذشت، سپس با ورود بانک مرکزی به ۲۲۵ هزار تومان عقب نشست.\n\n▪️در بازار سکه، سکه امامی به ۲۴۰ میلیون تومان رسید، و سکه بهار آزادی ۲۳۶ میلیون و ۹۰ هزار تومان، نیم‌سکه ۱۲۲ میلیون و ۴۰۰ هزار تومان و ربع‌سکه ۶۶ میلیون تومان قیمت خورد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195981.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.93K",
+      "views_label": "2.03K",
       "posted_at": "2026-09-09T09:12:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229962",
@@ -165,7 +193,7 @@
       "plain_text": "🔺کانادا و فرانسه به ممنوعیت تجارت با شهرک‌های اسرائیل پیوستند\n\n▪️کانادا و فرانسه در بیانیه‌ای مشترک ممنوعیت واردات کالاهای تولیدشده در شهرک‌های اسرائیل در کرانه باختری را اعلام کردند.\n\n▪️بر پایه گزارش آسوشیتدپرس، فرانسه همزمان برای اعمال ممنوعیت سراسری در اتحادیه اروپا فشار می‌آورد.\n\n▪️با این تصمیم، فرانسه و کانادا به ایرلند، اسپانیا، نروژ، بلژیک و هلند پیوستند که پیش‌تر اقدام‌های مشابهی انجام داده بودند.\n\n▪️اد میلیبند، وزیر امور خارجه بریتانیا، نیز سه‌شنبه ممنوعیت‌هایی را در این زمینه در مجلس عوام اعلام کرد. اما اسرائیل ساعاتی بعد از رشته‌ای از اقدام‌های تلافی‌جویانه خبر داد.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195979.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.13K",
+      "views_label": "2.23K",
       "posted_at": "2026-09-09T08:56:55+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229961",
@@ -181,7 +209,7 @@
       "plain_text": "🔺هزینه عبور نفتکش‌ها از هرمز به ۱۰ تا ۲۰ میلیون دلار رسید\n\n▪️مدیر شرکت ملی نفت امارات گفت مجموع هزینه عبور از تنگه هرمز به محدوده ۱۰ تا ۲۰ میلیون دلار رسیده و برخی فعالان بازار تصمیم گرفته‌اند اصلاً بیمه نگیرند.\n\n▪️پاول برادشاو روز چهارشنبه در کنفرانس نفت آسیا و اقیانوسیه در سنگاپور گفت جهش شدید حق بیمه ریسک جنگ و هزینه بیمه محموله عامل اصلی است.\n\n▪️حق بیمه ریسک جنگ بر پایه ارزش بدنه شناور نیز جهش کرده است. بر پایه گزارش نشریه نشنال، نرخ‌ها از یک‌چهارم درصد پیش از ۹ اسفند به سه تا ۱۰ درصد رسیده است. نفتکشی به ارزش ۱۰۰ میلیون دلار اکنون سه تا ۱۰ میلیون دلار می‌پردازد که پیش از جنگ حدود ۲۵۰ هزار دلار بود.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195980.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.54K",
+      "views_label": "2.67K",
       "posted_at": "2026-09-09T08:29:30+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229960",
@@ -209,7 +237,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.59K",
+      "views_label": "2.66K",
       "posted_at": "2026-09-09T08:14:31+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229959",
@@ -237,7 +265,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.55K",
+      "views_label": "2.62K",
       "posted_at": "2026-09-09T08:05:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229958",
@@ -265,7 +293,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.58K",
+      "views_label": "2.68K",
       "posted_at": "2026-09-09T07:55:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229957",
@@ -293,7 +321,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.69K",
+      "views_label": "2.72K",
       "posted_at": "2026-09-09T07:41:27+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229956",
@@ -309,7 +337,7 @@
       "plain_text": "🔺حمله پهپادی روسیه به گذرگاه مرزی اوکراین و مولداوی\n\n▪️پهپادهای روسیه شامگاه سه‌شنبه گذرگاه مرزی میان اوکراین و مولداوی را هدف قرار دادند و چندین کشته، زخمی و آتش‌سوزی بر جای گذاشتند.\n\n▪️روسیه شامگاه گذشته کی‌یف را نیز هدف گرفت. سازمان خدمات اضطراری اوکراین در تلگرام اعلام کرد حمله آتش‌سوزی ایجاد کرد اما تلفاتی نداشت.\n\n▪️بر پایه اعلام وزارت زیرساخت اوکراین، روسیه ظرف یک هفته گذشته چهار بار گذرگاه‌های مرزی جنوب این کشور را مورد حمله قرار داده است. گذرگاه تاباکی-میرنویه با مولداوی در میان اهداف بود و زیرساخت آنجا ویران شد.\n\n▪️حمله شامگاه دوشنبه به پایتخت اوکراین مرگبارتر بود. بر پایه گزارش کی‌یف ایندیپندنت، این حمله پنج کشته و ۲۹ زخمی بر جای گذاشت.\n\n⬇️ بیشتر بخوانید:\nhttps://ir.voanews.com/a/8195977.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.79K",
+      "views_label": "2.86K",
       "posted_at": "2026-09-09T07:28:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229955",
@@ -337,7 +365,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.89K",
+      "views_label": "2.93K",
       "posted_at": "2026-09-09T07:17:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229954",
@@ -365,7 +393,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.1K",
+      "views_label": "3.14K",
       "posted_at": "2026-09-09T07:02:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229952",
@@ -393,7 +421,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.11K",
+      "views_label": "3.18K",
       "posted_at": "2026-09-09T06:52:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229951",
@@ -421,7 +449,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.21K",
+      "views_label": "3.28K",
       "posted_at": "2026-09-09T06:36:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229950",
@@ -449,7 +477,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.47K",
+      "views_label": "3.5K",
       "posted_at": "2026-09-09T06:18:10+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229949",
@@ -477,7 +505,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.59K",
+      "views_label": "3.62K",
       "posted_at": "2026-09-09T06:07:21+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229948",
@@ -2457,34 +2485,6 @@
       "posted_at": "2026-09-08T14:46:34+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229867",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229866",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/OlkiAO4xlrMZLqdes-eE9yEBZl_Eq1VrfAtdv_j55A2-mzijx0VvmXFWAwKp-GkNv64mwxzTos5MQr3SKvWa3_8lp0N05HFu-LTBsRIlMAJ5gsTMIALRinCZV9orQlMD3MsODE_uGISo3ozvjcJWVMOI1shq_-TyAAKFtern9XYIAj4CqqFQWBWWZBDuJiL_L2Bxf5uQZ4Lo86RVaozDPoTBt5UT1TXJyqvseMY7Kbd6_J8j8GDSN6eMWY_ki9gz8R1FH26RHtaoBfO-ExJTOv-PldZzl-SJY_p1CLNWXSuOysbETgcbwf_pVzoORnnJASAqe0ZL2nsLIHW_NJu2Fg.jpg",
-      "author_photo_path": "channels/farsivoa/media/576e60e5ed92b53a0f297f53.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "مادر سپهر ابراهیمی، از کشته‌شدگان دی ماه ۱۴۰۴، به یاد پسرش شمعی روشن کرد و گفت: «نه فراموش می‌کنیم و نه می‌بخشیم، ‌استوارتر از قبل می‌ایستیم تا انتقام فرزندانمان را بگیریم.»<br><br>سپهر ابراهیمی، ۱۹ ساله، ۱۸ دی‌ ۱۴۰۴، با شلیک گلوله ماموران حکومتی به ناحیه گردن در تهران کشته شد.",
-      "plain_text": "مادر سپهر ابراهیمی، از کشته‌شدگان دی ماه ۱۴۰۴، به یاد پسرش شمعی روشن کرد و گفت: «نه فراموش می‌کنیم و نه می‌بخشیم، ‌استوارتر از قبل می‌ایستیم تا انتقام فرزندانمان را بگیریم.»\n\nسپهر ابراهیمی، ۱۹ ساله، ۱۸ دی‌ ۱۴۰۴، با شلیک گلوله ماموران حکومتی به ناحیه گردن در تهران کشته شد.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/229866",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/rhtiVx6wfSscUDpeFPeAG7agzHK4w3Y5t3e9MMLhGmfBm0Mur6qqOlg7Vm7Krm0c6y2VOnOZU4XQz1oxvo4OTIiAld47k5gPWwv4wdD8OQFR-fyWzSi5WknRgAGZPXeAeQKWVsj1kfCG8qATNTJjysTJI2nKUte0JmewlHjKpr7OEkshIy_tNOvnluMUb23-EQoVjNU-s0UMJYZlWcobkvsp8GDt7belnrFiFTqSYg0goDsx3rOq3eqlpc549lzPR9BlweXG-toSw6SCcF9qkDYKEauYfKdowelytBb0EyGcQbo4MBeAX7gI00H2ebcuAO2FBZn931PnVXQt57_rLA",
-          "thumbnail_path": "channels/farsivoa/media/899a06230611a5b0383a9a95.jpg",
-          "thumbnail_sha256": "7dec181c99e9aed5a28798cb379f047d670bdab540879806c4dc3ece594cfd3f",
-          "duration_label": "2:20",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.73K",
-      "posted_at": "2026-09-08T14:36:27+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229866",
       "reply": null
     }
   ]
