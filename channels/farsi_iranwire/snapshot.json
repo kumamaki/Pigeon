@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T06:56:59.254Z",
+  "fetched_at": "2026-09-09T07:03:16.728Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
@@ -11,6 +11,34 @@
     "subscriber_count": "47.8K"
   },
   "posts": [
+    {
+      "id": "Farsi_Iranwire/93501",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/KvII3WBHw_7yMz-vEEEPMO0HWIb-o0-nqYl4fg-7TvgB1VztEe8Srv77ICovDoP8weeRQnuJxj6KlddPs2iWTDRZGQprzhWKRHs2iiP-pTG3NEu0Li2MLljxwOYM0whgQOIJ01-j9lyd2elzQCTPfLQ19lzblg0UK6XbRzRZkTG88CwN2JHmKw_PfuucotJPSMy5lPoj8xUI7tuqcNDAwHOSOioohmcG-3XEhES348NVsdm0WT67ZeFeWgoUM8ctOYmme0MaxGXzy0vl-kKM2MFd4ZJOTsvvUJhcpHJA8wLQQ3KA5ZgyrEvAM1GCEU6TDW08BzutFIfSNaXDShlF-w.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/ceafcc930c3dd929c7cac386.jpg",
+      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
+      "body_html": "سپاه پاسداران اعلام کرد پایگاه هوایی «موفق‌السلطی» در نزدیکی شهر الازرق اردن را با موشک‌های بالستیک هدف قرار داده است؛ ادعایی که ارتش اردن آن را رد کرده و گفته است ۱۸ فروند از ۲۰ موشک شلیک‌شده از ایران رهگیری شده‌اند.<br><br><br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/157353\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/157353</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "سپاه پاسداران اعلام کرد پایگاه هوایی «موفق‌السلطی» در نزدیکی شهر الازرق اردن را با موشک‌های بالستیک هدف قرار داده است؛ ادعایی که ارتش اردن آن را رد کرده و گفته است ۱۸ فروند از ۲۰ موشک شلیک‌شده از ایران رهگیری شده‌اند.\n\n\nبخوانید: https://iranwire.com/fa/news-1/157353\n\n@Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/93501",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qvwtmLNdXm8PvfIf-qok5P6RJT8CHrh_qAAxHOjhNs_Zlq9apokhYD44UQJEnaF2IJ-6JuTE51GKZMq2jNdFck7fRTkEOBFlondpPmGSgsRt6do7h3W9awdLC0B7AsUmlJUEDI0kpMJmeijXMnXHtbaXYGpIy6M5Embe8GgNM5pvl-4d-0adiAqG2d-yvhV7HoqhnZ2TWK5xY6P_wb1FmUhhyzf1YAN1-zbFGsmLPVXk5mr0R2rCN--M-ijBhKg0lqDafBKp1iVGP-geA3xdWm4wV9k5QBA6upuUmhcCUNw6fFNbSGYeHaemh4De_v422_liKRbHoNlTmjM6daDwmw.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/967a6e0e7e4d0fc365d1cab5.jpg",
+          "thumbnail_sha256": "2541192136b28b78f582f09d4a7b8563325fdab14f7f3906d725e3921827efa3",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "47",
+      "posted_at": "2026-09-09T07:01:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/93501",
+      "reply": null
+    },
     {
       "id": "Farsi_Iranwire/93500",
       "author_name": "Iranwire",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.56K",
+      "views_label": "1.59K",
       "posted_at": "2026-09-08T21:53:02+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93500",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.86K",
+      "views_label": "1.88K",
       "posted_at": "2026-09-08T20:34:18+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93499",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.93K",
+      "views_label": "1.94K",
       "posted_at": "2026-09-08T19:37:26+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93498",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.91K",
+      "views_label": "1.92K",
       "posted_at": "2026-09-08T19:04:08+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93497",
@@ -201,7 +229,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.27K",
+      "views_label": "1.28K",
       "posted_at": "2026-09-08T18:09:05+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93494",
@@ -257,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.52K",
+      "views_label": "1.53K",
       "posted_at": "2026-09-08T16:15:06+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93492",
@@ -397,7 +425,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.37K",
+      "views_label": "1.38K",
       "posted_at": "2026-09-08T14:50:47+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93487",
@@ -537,7 +565,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.39K",
+      "views_label": "1.4K",
       "posted_at": "2026-09-08T11:51:32+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93482",
@@ -2769,34 +2797,6 @@
       "posted_at": "2026-09-05T19:35:36+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/93399",
-      "reply": null
-    },
-    {
-      "id": "Farsi_Iranwire/93398",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/K1ryeuKQ4KEx_W8GG_UAEgXS4WenbnqYy6I38arbtQjTENtUCZQc86aijSe5XYgmScJwV1DfLQ_4VEPN5DltoBy7THAdB-M57YdRe65wQEul8EBsDbrMRWw2zRL5OzhWguF-d-8QVWwclG6spHHFcXlsJFKgrZLGgwKhEeGbn7jfwHtI0-R8bayMDq_tttXVRSGkpMVAeAyb34TseqUs8rqvywSzheUDDm3U0EVjDW-9tmpTsswi5sMh55tZyHvVXko6rwusUIzlfc8QZNYipXbKGOAn3cz77hC389xV_7PX6pD8qx8sh7cKA0Jz_noMeNwVM5xZQ77gMTmo8209sA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/5ea6725eb75d0236588a5f92.jpg",
-      "author_photo_sha256": "db85cb35dc136d49a0ea73c2791ebf2fa95a33f7260045046133d3ff33bbf24b",
-      "body_html": "سرخط خبرها، شب شنبه ۱۴ شهریور در تلویزیون ایران‌وایر<br>تلویزیون ایران‌وایر را روی ⁩ماهواره «موناکوست» (ترکمن‌عالم)<br>فرکانس ۱۰۷۶۲ افقی. سیمبل ریت سی هزار تماشا کنید.<br>نسخه اس دی را نیز می‌توانید روی فرکانس ۱۰۸۴۵ عمودی . سیمبل ریت ۲۷۵۰۰<br>در خاورمیانه (ایران) و اروپا بگیرید.‌<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "سرخط خبرها، شب شنبه ۱۴ شهریور در تلویزیون ایران‌وایر\nتلویزیون ایران‌وایر را روی ⁩ماهواره «موناکوست» (ترکمن‌عالم)\nفرکانس ۱۰۷۶۲ افقی. سیمبل ریت سی هزار تماشا کنید.\nنسخه اس دی را نیز می‌توانید روی فرکانس ۱۰۸۴۵ عمودی . سیمبل ریت ۲۷۵۰۰\nدر خاورمیانه (ایران) و اروپا بگیرید.‌\n\n@Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Farsi_Iranwire/93398",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/IXzmquqks6GJPm45QuP_0LC6qOpbPcyLYyPr2igZRGNEKBpJtHkX3wZrFi9Fyy_GJ8D81NWg7hanTR-O_0-9Q3deCugErbJaDL-Wncu7O3VzGCIY_-uh1cY-NPo7U_U7S28mDbdTqcIGpWmhXq7qGeDLRR0F0DSBh-YUa_TuK_X7uJIAeEpi5so3e_lhOKSHO1ISYIpmAMwgDmbZZydKKKdQCMU_A2liX-L9za4Qx8L0incxfsJIN1M6LFyYt3ncXeKhfphSAHWBACwwKKh-JK1yb6slHG85w4MNL7diCuoPCGSM2CshNOFPlTzjaE-eeNOfU1TfqhVgFx_iXa9-Fw",
-          "thumbnail_path": "channels/farsi_iranwire/media/67fd596b1dedc4875bde3a42.jpg",
-          "thumbnail_sha256": "cfc884c4bf8825b60ad44bb264a796804e216feb85ebad8bf37411cdd97006bf",
-          "duration_label": "0:51",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.64K",
-      "posted_at": "2026-09-05T19:25:28+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/93398",
       "reply": null
     }
   ]

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T06:57:04.771Z",
+  "fetched_at": "2026-09-09T07:03:21.091Z",
   "channel": {
     "username": "matinsenpaii",
     "title": "Matin SenPai",
@@ -31,7 +31,7 @@
         },
         {
           "emoji": "😁",
-          "count": "187"
+          "count": "189"
         },
         {
           "emoji": "❤",
@@ -121,11 +121,11 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": "243"
+          "count": "244"
         },
         {
           "emoji": "😁",
-          "count": "37"
+          "count": "38"
         },
         {
           "emoji": "👍",
@@ -351,7 +351,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": "880"
+          "count": "881"
         },
         {
           "emoji": "👍",
@@ -770,8 +770,8 @@
           "asset_url": "https://t.me/MatinSenPaii/5193",
           "asset_path": null,
           "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/h7djfNHhwUqMEXQkJCyYxlJueAa-oaVmZAeD10jGUp3O1c_piScZrpWwSWskxky19MVlftNm0ZsJpMfPyIxsEjHbShZKtNhY3uP6Dbz-2blHj4fgPw2bWnWnRJKQYjnQuy-pZlB8O7CtBsb_tJXOyy5_kKjvOLUsvM__DWxYwXifRpsH1QTMQKk3PCLhoQho3JnKTaOim2XmWeQN2lR5qAqpLJMkHm336efVYXQAFmwqUhiGEmtqMHQ7r8r85K48posBMemZkmh4xwOQ7ykSEB6orXu5TcfOF_HcTTP83l-7B_oHRP34RHZ0ABUvC3CQ5q9zzhKHjao3_zg-XWg8Tg.jpg",
-          "thumbnail_path": "channels/matinsenpaii/media/fd82303385b4336b1f66d112.jpg",
+          "thumbnail_url": "https://cdn1.telesco.pe/file/WcWjBNRukNj40fedtjToUQmJvmWY7fZTJhn75HGLL-Syn9k3L__2MBk0fTisdf6PfoYWsiU0wyQJAOcUvUkkF-Ben5NnG6GRaNdC1wY4hs2b67b3WaPPHDtL5vmnJ7JSQtd-XVEfgOHnyFrz_WcmUkR2TEy_7c--7yhV5MM8MVB0wD6PhqkIs6mLDWXHjSY3zBmIJpSl_w-bpVQzdSIh3uLtkJDHySOWpaFstLINf7sxjWWjnuhT6sKJykHdjCwYAvrtZRwbHpYu5jy-vrerEZm1oimoKv5LVc-4p2WWtwsSGkq4fKsW2qNBIS5UPVPW36YEchZW3TnALl_y4RBcFA.jpg",
+          "thumbnail_path": "channels/matinsenpaii/media/c0c547892bbe39437ca8d3c0.jpg",
           "thumbnail_sha256": "d00c801da60f668c1e36fc24900859719ee45a7042e5057194e3bfc321a0cd31",
           "duration_label": null,
           "aspect_ratio": 1.2403100775193798
