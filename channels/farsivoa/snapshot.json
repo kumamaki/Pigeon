@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-09-09T18:06:43.807Z",
+  "fetched_at": "2026-09-09T18:11:38.018Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,34 @@
     "subscriber_count": "133K"
   },
   "posts": [
+    {
+      "id": "farsivoa/230023",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
+      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
+      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
+      "body_html": "مادر ستاره رفیعی، از کشته‌شدگان دی ماه ۱۴۰۴، به یاد دخترش شمعی روشن کرد و گفت: «نه فراموش می‌کنم و نه می‌بخشم.»<br><br>ستاره رفیعی، ۱۹ ساله، ۱۸ دی ۱۴۰۴، با شلیک گلوله ماموران حکومتی به سرش در تهران کشته شد.",
+      "plain_text": "مادر ستاره رفیعی، از کشته‌شدگان دی ماه ۱۴۰۴، به یاد دخترش شمعی روشن کرد و گفت: «نه فراموش می‌کنم و نه می‌بخشم.»\n\nستاره رفیعی، ۱۹ ساله، ۱۸ دی ۱۴۰۴، با شلیک گلوله ماموران حکومتی به سرش در تهران کشته شد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/230023",
+          "asset_path": null,
+          "asset_sha256": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Ik94KKRR4wVo5Om0tk33Vu6MWs8aAJVfCh6YKPlNmPOADE5nfECUzPYFwO8CHIM8mIPrpbv-GucEn7NUfsLskCXKzllTy36tSeZXvNmPXOIz79PQVt82G8WpelCN3Qw2CwZUmA35PXzEnG-DPCRuuYSE3uMWcGVnEZEXG8yLf__owkaMsJiXHMmz_zQrjf8D8fRt4N9j6IwiTuKZ1IMuojQoDnZwa3MMKf-VpykEA01euQmT9rh5SBjNI6aBNWzxkvB-xRzhdummDXZ5TYLWetRDjjG4ILkWctLFgXxXxSXvJW-hmNqkaT7cfN0gpq5VIkP1ezyTgJalulrwxa8eOA",
+          "thumbnail_path": "channels/farsivoa/media/6b039b2f549fb56a78681203.jpg",
+          "thumbnail_sha256": "afeed3b1739136b45898ae1adf45bbfdc48e3fcc584fda6dd44453fcb204ffd1",
+          "duration_label": "0:26",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "287",
+      "posted_at": "2026-09-09T18:08:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/230023",
+      "reply": null
+    },
     {
       "id": "farsivoa/230022",
       "author_name": "Farsi VOA",
@@ -33,7 +61,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "505",
+      "views_label": "790",
       "posted_at": "2026-09-09T17:59:09+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230022",
@@ -61,7 +89,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "924",
+      "views_label": "1.12K",
       "posted_at": "2026-09-09T17:52:01+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230020",
@@ -89,7 +117,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.08K",
+      "views_label": "1.24K",
       "posted_at": "2026-09-09T17:46:54+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230019",
@@ -117,7 +145,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.22K",
+      "views_label": "1.38K",
       "posted_at": "2026-09-09T17:41:25+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230018",
@@ -211,7 +239,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.51K",
+      "views_label": "1.61K",
       "posted_at": "2026-09-09T17:33:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230011",
@@ -239,7 +267,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.35K",
+      "views_label": "1.45K",
       "posted_at": "2026-09-09T17:29:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230010",
@@ -255,7 +283,7 @@
       "plain_text": "🔺ایالات متحده شبکه جنایی فراملی چینی‌زبان را به دلیل کلاهبرداری سایبری از شهروندان آمریکایی تحریم کرد\n\n▪️دولت آمریکا در چارچوب کارزار پرزیدنت دونالد ترامپ برای مقابله با جرایم سایبری و کلاهبرداری از شهروندان آمریکایی، یک سازمان جنایی فراملی و دو شرکت پشتیبان آن را تحریم کرد. همزمان وزارت دادگستری آمریکا زیرساخت‌ها و کیف‌پول‌های دیجیتال مورد استفاده این شبکه را توقیف کرد.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/us-sanctions-xinbi-guarantee-cyber-scam-group/8196084.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "1.67K",
+      "views_label": "1.76K",
       "posted_at": "2026-09-09T17:23:03+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230009",
@@ -283,7 +311,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.71K",
+      "views_label": "1.77K",
       "posted_at": "2026-09-09T17:15:53+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230008",
@@ -311,7 +339,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.87K",
+      "views_label": "1.96K",
       "posted_at": "2026-09-09T17:10:20+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230007",
@@ -327,7 +355,7 @@
       "plain_text": "🔴📢‌ پادکست تفسیر خبر- چهارشنبه ۱۸ شهریور\n\n🛜در صورتی که با مشکل اینترنت مواجه هستید میتوانید اخبار صدای آمریکا را از نسخه‌های پادکست خبری ما به صورت صوتی دنبال کنید و یا اخبار را از نسخه سبک وب‌سایت ما پیگیر باشید:\nhttps://ir.voanews.com/lite\n\n📡بروزترین فرکانسهای ماهواره‌ای را نیز میتوانید از صفحه زیر پیگیری کنید:\nhttps://ir.voanews.com/satellite\n\n🔔دیگر شبکه‌های اجتماعی ما را هم دنبال کنید:\nhttps://linktr.ee/voafarsi\n\nبا دوستانتان به اشتراک بگذارید\n@farsivoa",
       "media": [],
       "reactions": [],
-      "views_label": "2.02K",
+      "views_label": "2.09K",
       "posted_at": "2026-09-09T17:02:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230006",
@@ -343,7 +371,7 @@
       "plain_text": "🔺آژانس پرونده فعالیت‌های هسته‌ای گذشته سوریه را مختومه اعلام کرد\n\n▪️شورای حکام آژانس بین‌المللی انرژی اتمی روز چهارشنبه ۱۸ شهریور با تصویب قطعنامه‌ای، ضمن بستن پرونده فعالیت‌های هسته‌ای مخفی سوریه در دوران حکومت خاندان اسد، اعلام کرد که مقام‌های جدید این کشور به حل‌وفصل همه پرسش‌های باقی‌مانده کمک کرده‌اند.\n\n⬇️ بیشتر بخوانید:\n\nhttps://ir.voanews.com/a/iaea-board-governors-syria-past-nuclear-activities/8196081.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "2.11K",
+      "views_label": "2.17K",
       "posted_at": "2026-09-09T16:56:23+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230005",
@@ -371,7 +399,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.04K",
+      "views_label": "2.11K",
       "posted_at": "2026-09-09T16:54:32+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230004",
@@ -399,7 +427,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.05K",
+      "views_label": "2.11K",
       "posted_at": "2026-09-09T16:49:52+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/230003",
@@ -2571,34 +2599,6 @@
       "posted_at": "2026-09-08T20:50:46+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/229915",
-      "reply": null
-    },
-    {
-      "id": "farsivoa/229914",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/L5ltz0skwQftoRk-JMy8BVd_StCQ-8yol6ejnoK008qNldFTJa1kHhbxnD15uFn-hUKhBDMY04S87_zVA5fMXsHj_TRCTKj5ebFpMDm8htOpUVfyKS6TwHsSa2Tjot1qWDrI3ffl_by8tYzAtf-s3r-nmRoS8JHPBvwQOlrxMT3fhxAozP3_v0d7Dc5lQlcUD35zK1o7UEXCzup3cyj6F9ZkuOL_ZNfPZ-m_m1-Il2DUb7nZxuEo_2DDqtFOZuQ9KD8C1C_XR9gU_d8iwmpVdR4TxGF6s-H_UDhFPzTFxoZRsjVslbZm6gwJVAQLu19sW5g-qd8iqjLXfzwx94dKNA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c9173d3e4bb8c93e15b166a2.jpg",
-      "author_photo_sha256": "134b08ca8097f7fd9df09d5873936ee189d397f09558543b8581df410a098b90",
-      "body_html": "در پی گزارش‌ها از حمله ارتش آمریکا به اهدافی در جاسک و اطراف جزیره خارک، رسانه‌های حکومتی در ایران تائید کردند که یک نفتکش در اطراف جاسک هدف قرار گرفت و خدمه آن با قایق نجات در حال انتقال به مناطق ساحلی هستند. پیشتر رسانه‌های حکومتی در ایران گفته بودند یک نفتکش در اطراف خارک هدف قرار گرفت. رسانه‌های اسرائيلی و آمریکایی به نقل از مقامات آمریکایی گزارش داده بودند که علاوه بر اهداف دیگر، چند نفتکش ایرانی نیز هدف نیروهای آمریکایی قرار گرفته‌‌اند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "در پی گزارش‌ها از حمله ارتش آمریکا به اهدافی در جاسک و اطراف جزیره خارک، رسانه‌های حکومتی در ایران تائید کردند که یک نفتکش در اطراف جاسک هدف قرار گرفت و خدمه آن با قایق نجات در حال انتقال به مناطق ساحلی هستند. پیشتر رسانه‌های حکومتی در ایران گفته بودند یک نفتکش در اطراف خارک هدف قرار گرفت. رسانه‌های اسرائيلی و آمریکایی به نقل از مقامات آمریکایی گزارش داده بودند که علاوه بر اهداف دیگر، چند نفتکش ایرانی نیز هدف نیروهای آمریکایی قرار گرفته‌‌اند.\n@FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/229914",
-          "asset_path": null,
-          "asset_sha256": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/Sg8HRxP6rC9DF42Kf4YXyOdMRNMreAlH4J-t1gO5iS8Lgk_eXaYPdM-80jfj-i9deqvsn3LPoEcWkWPEGx37HeV-saHJgzPQkHRA5GkrWpmgVNJ6lHrldsot5SMUubFLr_65CH2Hvn4BrZtHZ6jEojGJY6zIe5SIKYEyWvlNnkp5xM6q_Usza2zkac4OvLBQW9-XORnO0oD6gNvjRF75eQoHLQ6_JuyVf4BaJ_ZvK7YmViQ5jqfTIwQhO7Y8qvHHToONQ0pEXzIjQh8VcQmJnHvvPPH6rU_PMoGGQNkghCFcm-kxZttfTJWLrwLuMiNf4p4erQ3QeytBmeT3ORv2NQ.jpg",
-          "thumbnail_path": "channels/farsivoa/media/71bcb839308d413c4e5f33c4.jpg",
-          "thumbnail_sha256": "1640ee1c410d5d271935e8b2d998719d1b798eed46cca9a9ef6e454808bbd38d",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.87K",
-      "posted_at": "2026-09-08T20:36:36+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/229914",
       "reply": null
     }
   ]
